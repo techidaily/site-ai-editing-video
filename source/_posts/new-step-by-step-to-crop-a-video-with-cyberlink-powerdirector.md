@@ -1,0 +1,902 @@
+---
+title: New Step by Step to Crop a Video with CyberLink PowerDirector
+date: 2024-04-24T07:08:14.575Z
+updated: 2024-04-25T07:08:14.575Z
+tags: 
+  - ai
+  - animation videos
+categories: 
+  - ai
+description: This Article Describes New Step by Step to Crop a Video with CyberLink PowerDirector
+excerpt: This Article Describes New Step by Step to Crop a Video with CyberLink PowerDirector
+keywords: ai animation step by step to crop videos with cyberlink powerdirector,step by step to crop videos with cyberlink powerdirector,step by step to crop a video with cyberlink powerdirector,ai animation ai animation step by step to crop videos with cyberlink powerdirector,ai animation step by step to crop a video with cyberlink powerdirector,step by step to crop a video using lightworks,detailed tutorial to rotate a video in cyberlink powerdirector
+thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+---
+
+## Step by Step to Crop a Video with CyberLink PowerDirector
+
+Video Editing is an art form dependent on various elements and factors that are part of your video; this means people, items, or objects in the background can often make or break the viewing experience.
+
+Can you imagine having shot a scene with impeccable attention to detail, but a small uncontrollable action leaves a portion of an unwanted cable or equipment in the frame? Bummer, right? But luckily, due to the power of video editing software, it is not hard to deal with such problems.
+
+A way to work with such clips is to use the crop function while editing, as it can help emphasize or detract attention from a particular part of any video project.
+
+**Author's Note:** While filming, try to capture footage in the highest resolution allowed by the available camera hardware; this will give you more room to play with while using the crop function.
+
+To preface, CyberLink PowerDirector is a free video editing tool capable of accomplishing this and providing a professional touch to your video projects. And like other competing software, the program not only allows you to crop into clips but also uses keyframes to modify aspects like panning and zoom. So to help you perform this action, in this article, we list the steps you will need for cropping into video clips with PowerDirector. As an added bonus, we have also included the method to perform the same actions in WonderShare Filmora.
+
+**_Note:_** _We documented the steps in this guide with PowerDirector 365 and WonderShare Filmora X._
+
+## How to Crop Videos with CyberLink PowerDirector?
+
+The idea of cropping into clips has always been an easy action to perform; once you have PowerDirector 365 open, follow the steps listed below.
+
+_If you do not already have CyberLink PowerDirector 365, download the software by visiting_ [_Cyberlink's official website_](https://www.cyberlink.com/products/powerdirector-video-editing-software/features%5Fen%5FIN.html)_._
+
+**Step 1:** Create a new video project in Cyberlink PowerDirector 365 by choosing Full Mode.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-1.jpeg)
+
+**Note:** Full Mode in Cyberlink PowerDirector 365 provides access to a full-featured video editing tool, similar to Wondershare Filmora. The other available options cater to distinct video types.
+
+**Step 2:** Import media onto the Timeline from the Media Library; in this guide, we have gone ahead and used the pre-existing stock footage.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-2.jpeg)
+
+**Step 3:** Now, click on the video file on the Timeline; this will activate the video toolbar giving you access to the various controls built into PowerDirector 365\. Hover over the tools open, following which you need to click on the Crop, Zoom, and Pan option.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-3.jpeg)
+
+**Step 4:** Pick either corner of the frame visible around the video and set the area you want the clip to focus upon; following this, click Save.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-4.jpeg)
+
+This action will crop the video clip according to your desired size.
+
+**Tip**:
+
+The activation of Keyframes while cropping will allow you to create an effect that slowly zooms into the footage. To do this, set Keyframe Point 1 at a specific time (say the fifth second) and at one zoom level (say zero) and create Keyframe Point 2 at another time (fifteenth second) and a different zoom level (say fifty). So, between the fifth second and fifteenth second, the zoom will steadily increase and raise emphasis on an object. You can also add an element of position to this action if you want the focus to be on something not in the center of the screen.
+
+**Definition:** Keyframes while Video Editing is a software-based feature that allows you to set In and Out Points, giving clips between the two positions different properties that change as the playhead continues to move. These properties can be increased zoom, rotation, different colors, or even a gradual pan.
+
+We recommend experimenting with this feature if you want to bring a more dynamic feeling to your video project.
+
+## **An Easier Way to Crop Video with Wondershare Filmora**
+
+While Cyberlink PowerDirector 365 is a powerful video editing tool, in our experience, its menus are not as simple to navigate as some of the other competing video editing tools available, Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) included.
+
+An emphasis on quick accessibility is present with Filmora, and we believe this is a huge plus for beginning creators. The use of iconography resemblant to mobile software is another aspect that helps increase familiarity.
+
+_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
+
+Now, to help you learn how to use the Crop Tool and to show you an example of what we mean, here is how you can use the feature Wondershare Filmora to get the desired output.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Once you have the software open, follow the steps listed below.
+
+**Step 1:** Import the Media File into your Video Project.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-5.jpeg)
+
+**Step 2:** Drag the clip onto the Timeline and then select it to activate further interactions.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-6.jpeg)
+
+**Step 3:** Choose the Crop Options (marked in Red) to open the Crop window.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-7.jpeg)
+
+**Step 4:** Pick any edge within the visible box and resize them to select the portion you want to keep in the clip.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-8.jpeg)
+
+Having read this bit of the guide, we believe you may have noticed how Filmora is more convenient due to the easier access it provides to the crop function.
+
+## The Bottom Line
+
+So, at the end of the day, both software listed in this article are fully functional and highly-capable video editing tools, but saving time spent in front of the computer is a huge factor for any video editor.
+
+And Wondershare Filmora does just that with its modern iconography and increased accessibility. With its thoughtful, less-frills approach, Filmora is the one to pick if you do not want to be bogged down by needless menus and have to hunt for actions that will help you create a video that you would want to watch yourself.
+
+**Note:** Full Mode in Cyberlink PowerDirector 365 provides access to a full-featured video editing tool, similar to Wondershare Filmora. The other available options cater to distinct video types.
+
+**Step 2:** Import media onto the Timeline from the Media Library; in this guide, we have gone ahead and used the pre-existing stock footage.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-2.jpeg)
+
+**Step 3:** Now, click on the video file on the Timeline; this will activate the video toolbar giving you access to the various controls built into PowerDirector 365\. Hover over the tools open, following which you need to click on the Crop, Zoom, and Pan option.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-3.jpeg)
+
+**Step 4:** Pick either corner of the frame visible around the video and set the area you want the clip to focus upon; following this, click Save.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-4.jpeg)
+
+This action will crop the video clip according to your desired size.
+
+**Tip**:
+
+The activation of Keyframes while cropping will allow you to create an effect that slowly zooms into the footage. To do this, set Keyframe Point 1 at a specific time (say the fifth second) and at one zoom level (say zero) and create Keyframe Point 2 at another time (fifteenth second) and a different zoom level (say fifty). So, between the fifth second and fifteenth second, the zoom will steadily increase and raise emphasis on an object. You can also add an element of position to this action if you want the focus to be on something not in the center of the screen.
+
+**Definition:** Keyframes while Video Editing is a software-based feature that allows you to set In and Out Points, giving clips between the two positions different properties that change as the playhead continues to move. These properties can be increased zoom, rotation, different colors, or even a gradual pan.
+
+We recommend experimenting with this feature if you want to bring a more dynamic feeling to your video project.
+
+## **An Easier Way to Crop Video with Wondershare Filmora**
+
+While Cyberlink PowerDirector 365 is a powerful video editing tool, in our experience, its menus are not as simple to navigate as some of the other competing video editing tools available, Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) included.
+
+An emphasis on quick accessibility is present with Filmora, and we believe this is a huge plus for beginning creators. The use of iconography resemblant to mobile software is another aspect that helps increase familiarity.
+
+_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
+
+Now, to help you learn how to use the Crop Tool and to show you an example of what we mean, here is how you can use the feature Wondershare Filmora to get the desired output.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Once you have the software open, follow the steps listed below.
+
+**Step 1:** Import the Media File into your Video Project.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-5.jpeg)
+
+**Step 2:** Drag the clip onto the Timeline and then select it to activate further interactions.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-6.jpeg)
+
+**Step 3:** Choose the Crop Options (marked in Red) to open the Crop window.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-7.jpeg)
+
+**Step 4:** Pick any edge within the visible box and resize them to select the portion you want to keep in the clip.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-8.jpeg)
+
+Having read this bit of the guide, we believe you may have noticed how Filmora is more convenient due to the easier access it provides to the crop function.
+
+## The Bottom Line
+
+So, at the end of the day, both software listed in this article are fully functional and highly-capable video editing tools, but saving time spent in front of the computer is a huge factor for any video editor.
+
+And Wondershare Filmora does just that with its modern iconography and increased accessibility. With its thoughtful, less-frills approach, Filmora is the one to pick if you do not want to be bogged down by needless menus and have to hunt for actions that will help you create a video that you would want to watch yourself.
+
+**Note:** Full Mode in Cyberlink PowerDirector 365 provides access to a full-featured video editing tool, similar to Wondershare Filmora. The other available options cater to distinct video types.
+
+**Step 2:** Import media onto the Timeline from the Media Library; in this guide, we have gone ahead and used the pre-existing stock footage.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-2.jpeg)
+
+**Step 3:** Now, click on the video file on the Timeline; this will activate the video toolbar giving you access to the various controls built into PowerDirector 365\. Hover over the tools open, following which you need to click on the Crop, Zoom, and Pan option.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-3.jpeg)
+
+**Step 4:** Pick either corner of the frame visible around the video and set the area you want the clip to focus upon; following this, click Save.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-4.jpeg)
+
+This action will crop the video clip according to your desired size.
+
+**Tip**:
+
+The activation of Keyframes while cropping will allow you to create an effect that slowly zooms into the footage. To do this, set Keyframe Point 1 at a specific time (say the fifth second) and at one zoom level (say zero) and create Keyframe Point 2 at another time (fifteenth second) and a different zoom level (say fifty). So, between the fifth second and fifteenth second, the zoom will steadily increase and raise emphasis on an object. You can also add an element of position to this action if you want the focus to be on something not in the center of the screen.
+
+**Definition:** Keyframes while Video Editing is a software-based feature that allows you to set In and Out Points, giving clips between the two positions different properties that change as the playhead continues to move. These properties can be increased zoom, rotation, different colors, or even a gradual pan.
+
+We recommend experimenting with this feature if you want to bring a more dynamic feeling to your video project.
+
+## **An Easier Way to Crop Video with Wondershare Filmora**
+
+While Cyberlink PowerDirector 365 is a powerful video editing tool, in our experience, its menus are not as simple to navigate as some of the other competing video editing tools available, Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) included.
+
+An emphasis on quick accessibility is present with Filmora, and we believe this is a huge plus for beginning creators. The use of iconography resemblant to mobile software is another aspect that helps increase familiarity.
+
+_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
+
+Now, to help you learn how to use the Crop Tool and to show you an example of what we mean, here is how you can use the feature Wondershare Filmora to get the desired output.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Once you have the software open, follow the steps listed below.
+
+**Step 1:** Import the Media File into your Video Project.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-5.jpeg)
+
+**Step 2:** Drag the clip onto the Timeline and then select it to activate further interactions.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-6.jpeg)
+
+**Step 3:** Choose the Crop Options (marked in Red) to open the Crop window.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-7.jpeg)
+
+**Step 4:** Pick any edge within the visible box and resize them to select the portion you want to keep in the clip.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-8.jpeg)
+
+Having read this bit of the guide, we believe you may have noticed how Filmora is more convenient due to the easier access it provides to the crop function.
+
+## The Bottom Line
+
+So, at the end of the day, both software listed in this article are fully functional and highly-capable video editing tools, but saving time spent in front of the computer is a huge factor for any video editor.
+
+And Wondershare Filmora does just that with its modern iconography and increased accessibility. With its thoughtful, less-frills approach, Filmora is the one to pick if you do not want to be bogged down by needless menus and have to hunt for actions that will help you create a video that you would want to watch yourself.
+
+**Note:** Full Mode in Cyberlink PowerDirector 365 provides access to a full-featured video editing tool, similar to Wondershare Filmora. The other available options cater to distinct video types.
+
+**Step 2:** Import media onto the Timeline from the Media Library; in this guide, we have gone ahead and used the pre-existing stock footage.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-2.jpeg)
+
+**Step 3:** Now, click on the video file on the Timeline; this will activate the video toolbar giving you access to the various controls built into PowerDirector 365\. Hover over the tools open, following which you need to click on the Crop, Zoom, and Pan option.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-3.jpeg)
+
+**Step 4:** Pick either corner of the frame visible around the video and set the area you want the clip to focus upon; following this, click Save.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-4.jpeg)
+
+This action will crop the video clip according to your desired size.
+
+**Tip**:
+
+The activation of Keyframes while cropping will allow you to create an effect that slowly zooms into the footage. To do this, set Keyframe Point 1 at a specific time (say the fifth second) and at one zoom level (say zero) and create Keyframe Point 2 at another time (fifteenth second) and a different zoom level (say fifty). So, between the fifth second and fifteenth second, the zoom will steadily increase and raise emphasis on an object. You can also add an element of position to this action if you want the focus to be on something not in the center of the screen.
+
+**Definition:** Keyframes while Video Editing is a software-based feature that allows you to set In and Out Points, giving clips between the two positions different properties that change as the playhead continues to move. These properties can be increased zoom, rotation, different colors, or even a gradual pan.
+
+We recommend experimenting with this feature if you want to bring a more dynamic feeling to your video project.
+
+## **An Easier Way to Crop Video with Wondershare Filmora**
+
+While Cyberlink PowerDirector 365 is a powerful video editing tool, in our experience, its menus are not as simple to navigate as some of the other competing video editing tools available, Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) included.
+
+An emphasis on quick accessibility is present with Filmora, and we believe this is a huge plus for beginning creators. The use of iconography resemblant to mobile software is another aspect that helps increase familiarity.
+
+_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
+
+Now, to help you learn how to use the Crop Tool and to show you an example of what we mean, here is how you can use the feature Wondershare Filmora to get the desired output.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Once you have the software open, follow the steps listed below.
+
+**Step 1:** Import the Media File into your Video Project.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-5.jpeg)
+
+**Step 2:** Drag the clip onto the Timeline and then select it to activate further interactions.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-6.jpeg)
+
+**Step 3:** Choose the Crop Options (marked in Red) to open the Crop window.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-7.jpeg)
+
+**Step 4:** Pick any edge within the visible box and resize them to select the portion you want to keep in the clip.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-8.jpeg)
+
+Having read this bit of the guide, we believe you may have noticed how Filmora is more convenient due to the easier access it provides to the crop function.
+
+## The Bottom Line
+
+So, at the end of the day, both software listed in this article are fully functional and highly-capable video editing tools, but saving time spent in front of the computer is a huge factor for any video editor.
+
+And Wondershare Filmora does just that with its modern iconography and increased accessibility. With its thoughtful, less-frills approach, Filmora is the one to pick if you do not want to be bogged down by needless menus and have to hunt for actions that will help you create a video that you would want to watch yourself.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+## How To Change Text In Premiere Pro
+
+One of the most fundamental and significant tasks in the editing process is knowing how to change text in Premiere Pro. Any skill level may easily do this with the help of Premiere. Your workflow will be streamlined and accelerated by using a template to apply change text Premiere Pro, and it could even inspire you to use your imagination to create some effects of your own! Follow this guide for the details on how to change text in Adobe Premiere.
+
+By using customization and animated motion, Premiere also does a wonderful job of enabling an editor to create dynamic text. The keyboard shortcut is the quickest method to create a text file as well as change text in Premiere Pro. Given that each approach has a unique set of applications, it is crucial to be familiar with them all. Learn step-by-step how to change text in Adobe Premiere in this tutorial.
+
+## Part 1\. Types of Text to Add in PR
+
+You may not be aware of all the many characteristics that a text file might have. The font's style, size, and color are only the tip of the iceberg.
+
+**FX Reflection** **:** Reflection FX settings for Premiere Pro give your text or logo a reflecting appearance. 5 different preset types that you may mix and match to obtain different reflections. Reflection FX is a great pack for making text that blends into an environment or has a 3D appearance. It allows you to give your text several sorts of reflected texture effects.
+
+**Digital Blocks Text** **:** Digital Blocks Text Animator is a bundle of chic text animation presets is called Text Animator. This one-of-a-kind, geometric preset collection may be used for a wide range of effects, including glitching, lower thirds, dramatic titles, animations, and more. Use this tool to make cinematic, corporate, wedding, or glitch titles, animation typography, lower thirds, or movie titles.
+
+**Colored Glitch** **:** Any technology-related movies often use colored glitch effects. This animation glitch preset collection is made up of geometric shapes and vivid colors. It's really easy to use and produces dramatic, complicated effects. These effects may be easily produced in Premiere Pro with a little color tweak.
+
+**Impulse Text** **:** It is really easy to do; all that is needed to create the desired appearance is to vary the size of the layers. This dynamic text transitions set is bold and styled for designers with a lot of guts. Impress viewers by having your titles exit the screen as quickly as dramatically as they came in.
+
+**3D Text** **:** This 3D Text Animation set is perfect if you need some text that will stand out in a presentation or video. It doesn't have a lot of crazy effects or color changes, but it makes your text move in 3D space and is guaranteed to catch your audience's eye.
+
+**Wiggle Animation of Text** **:** For vloggers looking for that hand-drawn impression while preserving a little bit of subtlety, Wiggle text is a good option. It's a customizable wiggle text effect package with various presets and a beginner-friendly video guide.
+
+## Part 2\. How to Change Text on Video with PR
+
+The new technique of text creation is more user-friendly and has greater integration than previously. The older methods had their advantages, but the modern methods undoubtedly take things to the next level. The older methods handled text like it was independent, discrete video clips that could be put into your source monitor and then chopped into the timeline. Overall, this method of adding text to your movie is fast, easy, but rather restricted; for many videos, this may be sufficient.
+
+##### Step1Adding Text
+
+Press the CTRL+T on Windows or if you're on MacBook, then press CMD+T keyboard shortcut with your sequence chosen. Both on the sequence and in the Program window, a new text file will show up.
+
+![text panel premiere](https://images.wondershare.com/filmora/article-images/2022/08/text-panel-premiere.jpg)
+
+##### Step2Choosing the Type Tool
+
+Drag a text box onto your movie using the Type Tool, then start typing. You may need to go to Windows > Tools and click and hold Type Tool if it isn't already visible. Use the Type Tool by clicking on its icon in the Tool panel or by using the T key on your keyboard. A new text file should then emerge on the sequence and Program window once you click anywhere within the Program window.
+
+![text tool in premiere pro](https://images.wondershare.com/filmora/article-images/2022/08/text-tool-in-premiere-pro.jpg)
+
+##### Step3Edit Your Text
+
+You may make simple text modifications, such as changing the font's size, color, or style, by opening the Essential Graphics panel (Window > Essential Graphics). The right side of the screen will display the Essential Graphics panel. Select Text when you click the New Layer button as shown below. The sequence and program window should display a text file.
+
+![essential graphics text editing](https://images.wondershare.com/filmora/article-images/2022/08/essential-graphics-text-editing.jpg)
+
+##### Step4Make your text animated
+
+Use the Effect Controls panel, where you can add motion, to add some simple movement to your text. Keyframes may be used to make rolling credits or to give a title a rotating effect.
+
+![animate text premiere pro](https://images.wondershare.com/filmora/article-images/2022/08/animate-text-premiere-pro.jpg)
+
+## Part 3\. Alternative way to edit text in video
+
+A text effect may significantly increase the production value of any project, whether you are editing YouTube videos, a science fiction movie, or a commercial. You'll be able to get inventive with frame duplication and quality tweaking to produce a variety of effects if you understand how to make a glitch effect from start. For this reason, we advise using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as a quick fix before using text effects in your projects.
+
+If you don't consider yourself an expert in motion graphics, have you ever had a wonderful idea for an animated title, wacky typography, or other entertaining text effects? Fortunately, applying text effects in Filmora is quite easy. Additionally, having a backup plan in mind enhances your effectiveness during a negotiation. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is brimming with highlights, astounding motions, and titles to spice up your finished film and give it a polished look. Let's look at using Filmora to alter text in your video.
+
+##### Step1Open the Filmora Editor
+
+You must first launch the software application in order to go further without difficulty. To do so, choose the Video Editor button in the startup window. The following editor panel will then appear:
+
+![open the filmora editor](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
+
+##### Step2Adding text to the timeline
+
+[Filmora](https://tools.techidaily.com/wondershare/filmora/download/) quickly imports your files and then groups everything under the Import area. The imported files are easily visible, and you can start working with the text animation by adding the necessary ones to the timeline below from that area. Just drag the files to the timeline as seen below. Additionally, a variety of options are shown; you must choose the one where you want your text to appear.
+
+![adding text to the timeline](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
+
+##### Step3Animate the Text
+
+Animate By assisting you with font, style, color, alignment, and everything else, Filmora helps you make your text animation using the controller window as shown below. The Advanced option, located in the editor tab, allows you to give your text motion.
+
+![animate the text](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
+
+##### Step4Export the File
+
+You can also use the software's Preview window to check the animation you've chosen and then add it to the timeline with a few easy drag-and-drop operations. You may now save the instructive video for sharing on social media after completing its creation and editing. You have the option of saving the file as an MP4, WMV, AVI, MOV, or even in GIF file.
+
+### Conclusion
+
+Text and titles may be used to easily build simple animations in Premiere. In summary, learning how to change text on premiere pro is addressed in detail. The majority of the change text in Premiere Pro presets will be compatible to you now. Though there are loads of complications with different versions of PR, Filmora, on the other hand, gives you the option to add some excellent text effects to your films in a simplified manner. Refer to this toolkit as PR alternative to change text in Premiere Pro files effectively.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+
+</article
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+## Easy Steps to Make Glitch Effect with Filmora
+
+You don't need outdated VCRs or any other broken technology to produce glitch effects. Instead, you can use a video editing program for Mac and PCs, such as [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), to transform your videos into glitch-effect masterpieces. You can also use the glitch effects to provide striking shot transitions or opening titles. Keep reading this article on how to apply various glitch video effects in Filmora 11:
+
+## Part 1: What is a Glitch Effect?
+
+A glitch effect occurs when a section of your video temporarily changes look or "glitches" for a short while. Although transient glitches are typical, they can occasionally linger for a few seconds or more.
+
+![what is a glitch effect](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_2.jpg)
+
+You can use a glitch effect to temporarily change the appearance of the image in the video to give the impression that a machine is processing it. Additionally, it gives your finished piece a fantastic, dreamlike aspect.
+
+## Part 2: When Should you Apply a Glitch Effect?
+
+A few years back, we had no choice but to watch glitchy movies on rusty VCR devices. Nowadays, retro video effects are very popular in TV movies and even games. You can use these effects in many ways, like making fake vintage footage or emulating a glitching computer.
+
+Filmmakers frequently employ glitching in their videos to give the impression that a character has been affected by a technical abnormality, is having a flashback, or is being watched by someone else via a digital camera system. Something happens when the person or image flashes, often without their knowledge. In addition, you can apply the glitch effect to a composition to evoke a feeling of dramatic irony.
+
+## Part 3: Tutorial to Chromatic Aberration Effect
+
+Chromatic aberration refers to how old lenses tend to split colors. This effect is very common in Old media like VHS or LaserDisc.
+
+![chromatic aberration](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_3.jpg)
+
+Here is a complete breakdown of each component of the Retro look and how you can make your glitch effects in Filmora 11:
+
+Step1 Download Wondersshare Filmora 11 on your Pc by visiting filmora.wondershare.com.
+
+![download wondersshare filmora 11](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_4.jpg)
+
+Step2 Open Filmora and click on the Effects tab.
+
+Step3 Search Chromatic aberration and drag the effect right onto your clip. It will give you a fantastic pre-made version of the effect.
+
+## Part 4: How to Customize Glitch Effect with Filmora
+
+You can add final touches to your video clips by customizing Filmora's effects to take your glitch effect to the next level. You can mix and match different effects in your video to create your custom glitch effect in Filmora 11.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+Step1 Once you have your clip on the timeline, select your clip and click on Edit. Now choose Duplicate to create two more copies.
+
+![select your clip and click on edit](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_5.jpg)
+
+Step2 Put the new copies on the layer above the others and make sure everything is lined up exactly. To create the glitch effect, separate the color channels on your Clips into the primary colors red, green, and blue.
+
+![put the new copies on the layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_6.jpg)
+
+Step3 Double-click on the top clip.
+
+![double-click on the top clip](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_7.jpg)
+
+Go to Color and open the White Balance option to make this layer completely red. Next, drag both Temperature and Tint sliders to a hundred.
+
+![open the white balance option](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_8.jpg)
+
+Step4 Now click the little eye icon on the timeline to hide the top layer and move on to the middle layer.
+
+Step5 Double-click on your middle clip and go to Color, then select White Balance and set your Temperature to -100 and your Tint to 100.
+
+![go to color](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_9.jpg)
+
+Step6 Finally, hide this layer just like before. Repeat the same steps for the last clip but make this clip the blue layer by leaving the Temperature at zero and setting the Tint to -100.
+
+![setting the tint to -100](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_10.jpg)
+
+Step7 Double-click the clip in the top layer, click the Video Tab, and open the Compositing options. Set the Blending Mode of this top layer to Soft Light.
+
+![click the video tab](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_11.jpg)
+
+Now click on the clip in your preview window and move the image over by pressing the left Arrow key on your keyboard a few times. Once you're happy with the top clip, hide that layer by clicking the eye icon.
+
+![click on the clip in your preview window](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_12.jpg)
+
+Step8 To make the middle layer visible, double-click the clip in your mid layer and set the Blending Mode of this layer to Screen.
+
+![double-click the clip in your mid layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_13.jpg)
+
+Now click on your clip in the preview window and press the Right key as many times as you did before. Finally, make all the layers visible by clicking the eye icon.
+
+![press the right key](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_14.jpg)
+
+**Vignette**
+
+A vignette is a dark border that fades around the frame's edges in Filmora. You can easily add a vignette effect to your video by using these steps:
+
+Step1 First, click the Effects Tab and type in Vignette.
+
+Step2 Next, drag the Vignette Radius effect to a layer above your previous three layers.
+
+Step3 Now adjust the length to match the other clips.
+
+**VHS static effects**
+
+A VHS effect is a grainy distortion that resembles an old analog video cassette recording. To apply the VHS static effects:
+
+Step1 Click the Effects tab.
+
+Step2 Search for the VHS static and drag it to a new layer above everything else.
+
+Step3 Extend one of the effects to match the length of your previous clips.
+
+**VCR Distortion**
+
+VCR Distortion effect will make your video look highly glitched. To apply this effect:
+
+Step1 Click on the Effects tab.
+
+Step2 Search for VCR Distortion, then drag and drop this effect over your previous layer.
+
+## Part 5: Tips to Create Awesome Glitch Effects
+
+1. One of the best ways to use the VCR Distortion effect is to cut it short and intersperse it around your video in random parts.
+2. The glitch Distortion effect is very intense, so we recommend cutting this effect very short and dropping it at random parts of your video.
+3. You can also use these effects as a sneaky way to hide Cuts in your video.
+
+## Summary
+
+You can use glitch effects created or inspired by faulty video equipment as a powerful storytelling tool. These effects can help you change the tone of the entire video by adding a specific visual aesthetic and making the narrative simpler to convey and more approachable for the audience.
+
+We recommend using Filmora 11 for adding built-in glitch effects. You can also use this app to create custom glitch effects within a few minutes.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+Step1 Once you have your clip on the timeline, select your clip and click on Edit. Now choose Duplicate to create two more copies.
+
+![select your clip and click on edit](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_5.jpg)
+
+Step2 Put the new copies on the layer above the others and make sure everything is lined up exactly. To create the glitch effect, separate the color channels on your Clips into the primary colors red, green, and blue.
+
+![put the new copies on the layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_6.jpg)
+
+Step3 Double-click on the top clip.
+
+![double-click on the top clip](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_7.jpg)
+
+Go to Color and open the White Balance option to make this layer completely red. Next, drag both Temperature and Tint sliders to a hundred.
+
+![open the white balance option](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_8.jpg)
+
+Step4 Now click the little eye icon on the timeline to hide the top layer and move on to the middle layer.
+
+Step5 Double-click on your middle clip and go to Color, then select White Balance and set your Temperature to -100 and your Tint to 100.
+
+![go to color](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_9.jpg)
+
+Step6 Finally, hide this layer just like before. Repeat the same steps for the last clip but make this clip the blue layer by leaving the Temperature at zero and setting the Tint to -100.
+
+![setting the tint to -100](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_10.jpg)
+
+Step7 Double-click the clip in the top layer, click the Video Tab, and open the Compositing options. Set the Blending Mode of this top layer to Soft Light.
+
+![click the video tab](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_11.jpg)
+
+Now click on the clip in your preview window and move the image over by pressing the left Arrow key on your keyboard a few times. Once you're happy with the top clip, hide that layer by clicking the eye icon.
+
+![click on the clip in your preview window](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_12.jpg)
+
+Step8 To make the middle layer visible, double-click the clip in your mid layer and set the Blending Mode of this layer to Screen.
+
+![double-click the clip in your mid layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_13.jpg)
+
+Now click on your clip in the preview window and press the Right key as many times as you did before. Finally, make all the layers visible by clicking the eye icon.
+
+![press the right key](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_14.jpg)
+
+**Vignette**
+
+A vignette is a dark border that fades around the frame's edges in Filmora. You can easily add a vignette effect to your video by using these steps:
+
+Step1 First, click the Effects Tab and type in Vignette.
+
+Step2 Next, drag the Vignette Radius effect to a layer above your previous three layers.
+
+Step3 Now adjust the length to match the other clips.
+
+**VHS static effects**
+
+A VHS effect is a grainy distortion that resembles an old analog video cassette recording. To apply the VHS static effects:
+
+Step1 Click the Effects tab.
+
+Step2 Search for the VHS static and drag it to a new layer above everything else.
+
+Step3 Extend one of the effects to match the length of your previous clips.
+
+**VCR Distortion**
+
+VCR Distortion effect will make your video look highly glitched. To apply this effect:
+
+Step1 Click on the Effects tab.
+
+Step2 Search for VCR Distortion, then drag and drop this effect over your previous layer.
+
+## Part 5: Tips to Create Awesome Glitch Effects
+
+1. One of the best ways to use the VCR Distortion effect is to cut it short and intersperse it around your video in random parts.
+2. The glitch Distortion effect is very intense, so we recommend cutting this effect very short and dropping it at random parts of your video.
+3. You can also use these effects as a sneaky way to hide Cuts in your video.
+
+## Summary
+
+You can use glitch effects created or inspired by faulty video equipment as a powerful storytelling tool. These effects can help you change the tone of the entire video by adding a specific visual aesthetic and making the narrative simpler to convey and more approachable for the audience.
+
+We recommend using Filmora 11 for adding built-in glitch effects. You can also use this app to create custom glitch effects within a few minutes.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+## How to Make Eye Zoom Transition Effect with Filmora
+
+What is an eye zoom transition effect? It's a close-up video effect allowing viewers to transit to the next clip from the eye. This effect is commonly used by musicians and travel bloggers to give their videos a more cinematic feel. So, without wasting time, let's learn how to create an eye zoom transition with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+**_Preparation:_**
+
+First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
+
+![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
+
+## How to Create an Eye-zoom Transition
+
+##### Step 1 Align the video clips on Filmora
+
+After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
+
+![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
+
+##### Step 2 Add a freeze frame to the video
+
+Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
+
+![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
+
+Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
+
+##### Step 3 Add a masking effect to the eye
+
+With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
+
+![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
+
+Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
+
+![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
+
+##### Step 4 Add the transition video
+
+Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
+
+With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
+
+![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
+
+After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
+
+## Summary
+
+There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+**_Preparation:_**
+
+First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
+
+![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
+
+## How to Create an Eye-zoom Transition
+
+##### Step 1 Align the video clips on Filmora
+
+After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
+
+![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
+
+##### Step 2 Add a freeze frame to the video
+
+Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
+
+![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
+
+Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
+
+##### Step 3 Add a masking effect to the eye
+
+With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
+
+![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
+
+Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
+
+![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
+
+##### Step 4 Add the transition video
+
+Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
+
+With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
+
+![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
+
+After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
+
+## Summary
+
+There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+**_Preparation:_**
+
+First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
+
+![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
+
+## How to Create an Eye-zoom Transition
+
+##### Step 1 Align the video clips on Filmora
+
+After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
+
+![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
+
+##### Step 2 Add a freeze frame to the video
+
+Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
+
+![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
+
+Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
+
+##### Step 3 Add a masking effect to the eye
+
+With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
+
+![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
+
+Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
+
+![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
+
+##### Step 4 Add the transition video
+
+Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
+
+With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
+
+![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
+
+After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
+
+## Summary
+
+There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+**_Preparation:_**
+
+First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
+
+![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
+
+## How to Create an Eye-zoom Transition
+
+##### Step 1 Align the video clips on Filmora
+
+After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
+
+![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
+
+##### Step 2 Add a freeze frame to the video
+
+Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
+
+![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
+
+Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
+
+##### Step 3 Add a masking effect to the eye
+
+With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
+
+![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
+
+Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
+
+![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
+
+##### Step 4 Add the transition video
+
+Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
+
+With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
+
+![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
+
+After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
+
+## Summary
+
+There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-editing-video.techidaily.com/new-detailed-guide-to-crop-videos-in-sony-vegas-pro-for-2024/"><u>New Detailed Guide to Crop Videos in Sony Vegas Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-this-article-will-explore-in-detail-how-you-can-use-the-features-available-in-wondershare-filmora-to-export-the-video-by-changing-the-resolution-of-/"><u>Updated This Article Will Explore in Detail How You Can Use the Features Available in Wondershare Filmora to Export the Video by Changing the Resolution of the Footage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-cinematic-luts-for-premiere-pro-recommendation-for-2024/"><u>Best Cinematic LUTs For Premiere Pro Recommendation for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-find-free-online-slideshow-maker-with-no-watermark/"><u>2024 Approved How to Find Free Online Slideshow Maker with No Watermark</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/here-we-are-going-to-show-you-the-best-effects-to-appear-on-camera-made-with-filmora-for-2024/"><u>Here We Are Going to Show You the Best Effects to Appear on Camera Made with Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-brighten-a-video-in-windows-10-step-by-step-guide-for-2024/"><u>Updated How to Brighten a Video in Windows 10 | Step-By-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-miniature-effect-in-video-with-filmora/"><u>Updated In 2024, How to Add Miniature Effect in Video with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-before-and-after-editing-trick-filmora/"><u>New In 2024, Before & After Editing Trick - Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-voicemod-on-discord-desktopplusmobile/"><u>2024 Approved How To Use Voicemod On Discord Desktop+Mobile</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-resize-flv-videos-efficiently-windows-macandroid-iphone-and-online/"><u>New How to Resize FLV Videos Efficiently Windows, Mac，Android, iPhone & Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>New 2024 Approved A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-remove-or-mute-audio-in-video-with-android-phones-for-2024/"><u>How to Remove or Mute Audio in Video with Android Phones for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-20-must-have-graduation-songs-for-slideshow-for-2024/"><u>Updated 20 Must-Have Graduation Songs for Slideshow for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-5-tried-and-true-methods-to-gif-making/"><u>New 2024 Approved 5 Tried-And-True Methods to GIF Making</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/are-you-planning-to-make-a-product-review-video-but-wondering-how-to-set-up-your-background-if-so-then-youre-in-the-right-place-this-post-will-show-you-how-/"><u>Are You Planning to Make a Product Review Video but Wondering How to Set up Your Background? If so, Then Youre in the Right Place. This Post Will Show You How to Adjust the Background to Black for Your Product Review Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-10-mind-blowing-video-collage-maker-for-pc/"><u>In 2024, Best 10 Mind-Blowing Video Collage Maker for PC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/this-article-will-explore-in-detail-how-you-can-use-the-features-available-in-wondershare-filmora-to-export-the-video-by-changing-the-resolution-of-the-foot/"><u>This Article Will Explore in Detail How You Can Use the Features Available in Wondershare Filmora to Export the Video by Changing the Resolution of the Footage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/step-by-step-to-crop-a-video-using-lightworks-for-2024/"><u>Step by Step to Crop a Video Using Lightworks for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-the-ultimate-guide-to-using-shotcut-to-rotate-videos/"><u>Updated 2024 Approved The Ultimate Guide to Using Shotcut To Rotate Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-this-article-aims-to-show-you-how-to-improve-your-lighting-in-the-sun/"><u>New This Article Aims to Show You How to Improve Your Lighting in the Sun</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-add-a-motion-blur-effect-to-your-photos-this-step-by-step-tutorial-will-show-you-how-to-use-gimp-software-to-get-the-effect-you-want-for-2024/"><u>Want to Add a Motion Blur Effect to Your Photos? This Step-by-Step Tutorial Will Show You How to Use GIMP Software to Get the Effect You Want for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-color-lut-in-video-how-to-color-grade-your-video/"><u>New 2024 Approved Color Lut in Video -How to Color Grade Your Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-10-tools-to-convert-a-gif-into-a-pdf/"><u>Updated Best 10 Tools to Convert a GIF Into a PDF</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-have-you-ever-heard-of-the-video-format-for-powerpoint-allow-us-to-help-you-learn-more-about-powerpoint-it-will-help-you-make-an-impression-by-making-go/"><u>New Have You Ever Heard of the Video Format for PowerPoint? Allow Us to Help You Learn More About PowerPoint. It Will Help You Make an Impression by Making Good Slides</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-interested-in-the-best-luts-do-you-want-to-enhance-your-photos-and-images-with-high-end-quality-then-quickly-step-into-this-article-for-mind/"><u>In 2024, Are You Interested in the Best LUTs ? Do You Want to Enhance Your Photos and Images with High-End Quality? Then, Quickly Step Into This Article for Mind-Blowing Facts on It</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-16-motion-blur-apps-for-videos-and-photos/"><u>In 2024, Best 16 Motion Blur Apps for Videos & Photos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-the-best-mp4-cutters-for-youtubers-on-mac-for-2024/"><u>What Is the Best MP4 Cutters for YouTubers on Mac for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-ultimate-guide-to-making-cinematography-for-music-video/"><u>Updated Ultimate Guide to Making Cinematography for Music Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-discover-how-to-change-sky-background-with-the-best-applications-a-review/"><u>2024 Approved Discover How to Change Sky Background with The Best Applications? A Review</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-3d-ray-traced-settings-in-after-effects/"><u>New 2024 Approved 3D Ray Traced Settings In After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-tools-to-create-blend-image-collage/"><u>In 2024, Best Tools To Create Blend Image Collage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-10-amazing-anime-character-designs-to-inspire-you/"><u>New 2024 Approved 10 Amazing Anime Character Designs to Inspire You</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/everything-that-you-need-to-know-about-video-montages-ideas-techniques-and-software-for-2024/"><u>Everything That You Need to Know About Video Montages- Ideas, Techniques, and Software for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-edit-a-time-lapse-video-on-iphone/"><u>Updated In 2024, How to Edit A Time Lapse Video on iPhone?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-3d-text-in-video/"><u>Updated 2024 Approved How To Create 3D Text In Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-creating-testimonial-videos-for-health-and-wellness-business-industry/"><u>New 2024 Approved Creating Testimonial Videos For Health And Wellness Business Industry</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-did-ai-video-games-act-more-human-than-human/"><u>New 2024 Approved How Did AI Video Games Act More Human Than Human?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-looking-for-simple-steps-to-apply-fade-in-effect-to-your-text-in-premiere-pro-here-are-two-different-methods-along-with-an-alternative-way-to-fade-text-/"><u>New Looking for Simple Steps to Apply Fade in Effect to Your Text in Premiere Pro? Here Are Two Different Methods Along with an Alternative Way to Fade Text in Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-know-the-simplest-way-to-match-the-colors-of-your-photos-in-photoshop-the-following-discussion-will-help-match-color-in-photoshop-almost-effortlessl/"><u>Want to Know the Simplest Way to Match the Colors of Your Photos in Photoshop? The Following Discussion Will Help Match Color in Photoshop, Almost Effortlessly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y78-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y78 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-realme-gt-neo-5-se-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Realme GT Neo 5 SE for Streaming | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y27s-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y27s Devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-p55plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on P55+</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-11-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi Note 12 Pro 5G?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-v29-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo V29 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-beginners-guide-for-learning-3d-animation-for-2024/"><u>New Beginners Guide for Learning 3D Animation for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-poco-x5-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Poco X5 Pro Devices | Dr.fone</u></a></li>
+</ul></div>
+
+
