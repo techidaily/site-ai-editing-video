@@ -1,7 +1,7 @@
 ---
 title: How to Add a Spooky Shadow Effect for 2024
-date: 2024-04-24T07:07:59.836Z
-updated: 2024-04-25T07:07:59.836Z
+date: 2024-05-20T03:37:48.961Z
+updated: 2024-05-21T03:37:48.961Z
 tags: 
   - ai
   - animation videos
@@ -1314,5 +1314,6 @@ For macOS 10.12 or later
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia C12 Pro | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
+
 
 

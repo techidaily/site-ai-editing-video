@@ -1,7 +1,7 @@
 ---
 title: How to Trim/Crop Video in Microsoft Powerpoint for 2024
-date: 2024-04-24T07:08:05.108Z
-updated: 2024-04-25T07:08:05.108Z
+date: 2024-05-20T03:38:12.566Z
+updated: 2024-05-21T03:38:12.566Z
 tags: 
   - ai
   - animation videos
@@ -3008,5 +3008,6 @@ Moreover, it offers an extensive library of built-in LUTs. You can take your vid
 <li><a href="https://techidaily.com/undelete-lost-music-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Samsung Galaxy A15 5G</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-top-10-ai-talking-avatars-revolutionizing-communication/"><u>In 2024, Top 10 AI-Talking Avatars Revolutionizing Communication</u></a></li>
 </ul></div>
+
 
 

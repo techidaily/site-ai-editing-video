@@ -1,7 +1,7 @@
 ---
 title: How to Use Motion Tracking in Video Editing
-date: 2024-04-24T07:07:54.449Z
-updated: 2024-04-25T07:07:54.449Z
+date: 2024-05-20T03:37:29.961Z
+updated: 2024-05-21T03:37:29.961Z
 tags: 
   - ai
   - animation videos
@@ -2496,5 +2496,6 @@ From here, you can save the video to your device or create a free account with y
 <li><a href="https://howto.techidaily.com/why-does-my-motorola-edge-40-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola Edge 40 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-xr-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone XR? Complete Guide</u></a></li>
 </ul></div>
+
 
 

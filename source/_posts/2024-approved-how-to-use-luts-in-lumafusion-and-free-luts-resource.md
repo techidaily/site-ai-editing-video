@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Use LUTs in Lumafusion & Free LUTs Resource
-date: 2024-04-24T07:08:05.160Z
-updated: 2024-04-25T07:08:05.160Z
+date: 2024-05-20T03:38:12.985Z
+updated: 2024-05-21T03:38:12.985Z
 tags: 
   - ai
   - animation videos
@@ -1505,5 +1505,6 @@ For those who are in search to **crop YouTube videos,** they can surely stop by 
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-6s-plus-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6s Plus iOS? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-infinix-note-30-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Infinix Note 30 5G Devices</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Add Camera Shake to Video in Adobe After Effects
-date: 2024-04-24T07:07:59.481Z
-updated: 2024-04-25T07:07:59.481Z
+date: 2024-05-20T03:37:46.918Z
+updated: 2024-05-21T03:37:46.918Z
 tags: 
   - ai
   - animation videos
@@ -1155,5 +1155,6 @@ Yes, you can import custom hand shake effects to your licensed version of Final 
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-a15-4g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy A15 4G For Mobile Legends? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-a15-4g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy A15 4G to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 
 

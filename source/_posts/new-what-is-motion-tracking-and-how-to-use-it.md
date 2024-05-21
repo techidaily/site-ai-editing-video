@@ -1,7 +1,7 @@
 ---
 title: New What Is Motion Tracking and How to Use It
-date: 2024-04-24T07:08:07.891Z
-updated: 2024-04-25T07:08:07.891Z
+date: 2024-05-20T03:38:23.252Z
+updated: 2024-05-21T03:38:23.252Z
 tags: 
   - ai
   - animation videos
@@ -1673,5 +1673,6 @@ Did you use one of these video compressors for Instagram? Let us know your thoug
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-magic-6-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor Magic 6 Pro | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-6s-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 6s Backup Password? Heres What to Do</u></a></li>
 </ul></div>
+
 
 

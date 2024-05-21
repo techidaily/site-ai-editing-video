@@ -1,7 +1,7 @@
 ---
 title: Scaling and Setting Videos in Filmora | Tutorial
-date: 2024-04-24T07:07:54.656Z
-updated: 2024-04-25T07:07:54.656Z
+date: 2024-05-20T03:37:30.335Z
+updated: 2024-05-21T03:37:30.335Z
 tags: 
   - ai
   - animation videos
@@ -1632,5 +1632,6 @@ Choosing the right velocity edit maker helps you achieve the desired output in v
 <li><a href="https://ai-voice-clone.techidaily.com/updated-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-civi-3-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi Civi 3 for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 
 

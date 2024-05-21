@@ -1,7 +1,7 @@
 ---
 title: Updated 3 Best Motion Blur Plugins for Adobe After Effects
-date: 2024-04-24T07:07:58.152Z
-updated: 2024-04-25T07:07:58.152Z
+date: 2024-05-20T03:37:41.342Z
+updated: 2024-05-21T03:37:41.342Z
 tags: 
   - ai
   - animation videos
@@ -1416,5 +1416,6 @@ By following the steps mentioned in the article above, you can easily create You
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-oppo-a78-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Oppo A78.</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y100t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y100t Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 
 

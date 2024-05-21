@@ -1,7 +1,7 @@
 ---
 title: New Little Tricks to Create Canva Slideshow No One Is Telling You
-date: 2024-04-24T07:08:05.515Z
-updated: 2024-04-25T07:08:05.515Z
+date: 2024-05-20T03:38:14.762Z
+updated: 2024-05-21T03:38:14.762Z
 tags: 
   - ai
   - animation videos
@@ -1791,5 +1791,6 @@ Whether you've got a cheap camera or editing tools, the most important thing is 
 <li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On OnePlus Open? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oneplus-12-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On OnePlus 12 for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 
 

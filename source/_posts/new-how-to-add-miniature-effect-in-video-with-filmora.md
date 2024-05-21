@@ -1,7 +1,7 @@
 ---
 title: New How to Add Miniature Effect in Video with Filmora
-date: 2024-04-24T07:08:03.309Z
-updated: 2024-04-25T07:08:03.309Z
+date: 2024-05-20T03:38:05.133Z
+updated: 2024-05-21T03:38:05.133Z
 tags: 
   - ai
   - animation videos
@@ -2333,5 +2333,6 @@ For example, you can add effects to a particular object by pinpointing its movem
 <li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-a05s-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy A05s Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+
 
 

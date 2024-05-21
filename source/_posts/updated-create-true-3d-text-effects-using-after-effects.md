@@ -1,7 +1,7 @@
 ---
 title: Updated Create True 3D Text Effects Using After Effects
-date: 2024-04-24T07:07:58.247Z
-updated: 2024-04-25T07:07:58.247Z
+date: 2024-05-20T03:37:42.266Z
+updated: 2024-05-21T03:37:42.266Z
 tags: 
   - ai
   - animation videos
@@ -1459,5 +1459,6 @@ Neat Video is available as a plugin for popular tools like Final Cut Pro(X), Ado
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oneplus-11r-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your OnePlus 11R Is Unlocked</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-iphone-xs-max-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On iPhone XS Max Online</u></a></li>
 </ul></div>
+
 
 

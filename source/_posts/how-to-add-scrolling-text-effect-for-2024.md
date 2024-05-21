@@ -1,7 +1,7 @@
 ---
 title: How To Add Scrolling Text Effect for 2024
-date: 2024-04-24T07:07:59.745Z
-updated: 2024-04-25T07:07:59.745Z
+date: 2024-05-20T03:37:48.454Z
+updated: 2024-05-21T03:37:48.454Z
 tags: 
   - ai
   - animation videos
@@ -934,5 +934,6 @@ Mask tracking is handy for adding effects to a moving object in your video. By t
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-14-ultra-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi 14 Ultra</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-7-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 7 when Phone is Broken? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

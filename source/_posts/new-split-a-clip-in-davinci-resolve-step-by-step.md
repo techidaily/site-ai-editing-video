@@ -1,7 +1,7 @@
 ---
 title: New Split a Clip in DaVinci Resolve Step by Step
-date: 2024-04-24T07:08:06.389Z
-updated: 2024-04-25T07:08:06.389Z
+date: 2024-05-20T03:38:17.462Z
+updated: 2024-05-21T03:38:17.462Z
 tags: 
   - ai
   - animation videos
@@ -963,5 +963,6 @@ To make a Fortnite montage video, you need to know how to save and download the 
 <li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-samsung-galaxy-z-fold-5-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Samsung Galaxy Z Fold 5? Fixed | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-vip-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 VIP Bootloader Easily</u></a></li>
 </ul></div>
+
 
 

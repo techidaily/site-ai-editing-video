@@ -1,7 +1,7 @@
 ---
 title: Discover the Art of Masking in After Effects A Comprehensive Guide for 2024
-date: 2024-04-24T07:08:00.271Z
-updated: 2024-04-25T07:08:00.271Z
+date: 2024-05-20T03:37:51.459Z
+updated: 2024-05-21T03:37:51.459Z
 tags: 
   - ai
   - animation videos
@@ -1242,5 +1242,6 @@ In addition to this, the instructions to change the **TikTok video aspect ratio*
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-sony-xperia-5-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Sony Xperia 5 V without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 
 

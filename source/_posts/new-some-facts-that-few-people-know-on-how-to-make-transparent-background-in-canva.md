@@ -1,7 +1,7 @@
 ---
 title: New Some Facts That Few People Know on How to Make Transparent Background in Canva
-date: 2024-04-24T07:08:06.268Z
-updated: 2024-04-25T07:08:06.268Z
+date: 2024-05-20T03:38:17.206Z
+updated: 2024-05-21T03:38:17.206Z
 tags: 
   - ai
   - animation videos
@@ -2083,5 +2083,6 @@ When creating your own LUTs, try to create and apply several different LUTs to s
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-ace-2-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus Ace 2 Pro Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-x9a-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor X9a Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
+
 
 

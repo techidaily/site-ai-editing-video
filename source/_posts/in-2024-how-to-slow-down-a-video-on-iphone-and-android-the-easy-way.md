@@ -2770,3 +2770,4 @@ Let’s go through the steps to understand the procedure to make GIF icons disco
 </ul></div>
 
 
+

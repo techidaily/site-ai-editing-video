@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Add Zoom Blur Effect In Photoshop Step by Step
-date: 2024-04-24T07:08:00.012Z
-updated: 2024-04-25T07:08:00.012Z
+date: 2024-05-20T03:37:50.265Z
+updated: 2024-05-21T03:37:50.265Z
 tags: 
   - ai
   - animation videos
@@ -1268,5 +1268,6 @@ In conclusion, Peter McKinnon is an impressive content creator and professional.
 <li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-13-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 13</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

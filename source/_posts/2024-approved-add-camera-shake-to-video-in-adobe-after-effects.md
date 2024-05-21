@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Add Camera Shake to Video in Adobe After Effects
-date: 2024-04-24T07:07:59.480Z
-updated: 2024-04-25T07:07:59.480Z
+date: 2024-05-20T03:37:46.914Z
+updated: 2024-05-21T03:37:46.914Z
 tags: 
   - ai
   - animation videos
@@ -1381,5 +1381,6 @@ Filming with people is not always bulky and flopping, but if you have a cooperat
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-samsung-galaxy-f34-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Samsung Galaxy F34 5G without backup.</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

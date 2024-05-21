@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Color Correction Basics (S-LOG Footage)
-date: 2024-04-24T07:08:02.466Z
-updated: 2024-04-25T07:08:02.466Z
+date: 2024-05-20T03:37:58.978Z
+updated: 2024-05-21T03:37:58.978Z
 tags: 
   - ai
   - animation videos
@@ -2083,5 +2083,6 @@ Camtasia's technique of making a presentation using an individual movie works we
 <li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-m54-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy M54 5G Location on Viber | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/top-12-prominent-itel-p55-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Itel P55 Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
+
 
 

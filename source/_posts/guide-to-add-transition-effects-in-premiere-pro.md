@@ -1,7 +1,7 @@
 ---
 title: Guide to Add Transition Effects in Premiere Pro
-date: 2024-04-24T07:07:52.343Z
-updated: 2024-04-25T07:07:52.343Z
+date: 2024-05-20T03:37:21.285Z
+updated: 2024-05-21T03:37:21.285Z
 tags: 
   - ai
   - animation videos
@@ -771,5 +771,6 @@ That is how to do this night-to-day transition night-to-day time shift effect in
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Meizu 21 | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-realme-c55-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Realme C55 Location | Dr.fone</u></a></li>
 </ul></div>
+
 
 

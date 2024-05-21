@@ -1,7 +1,7 @@
 ---
 title: Every Compositor Should Know The Trick of Color Match in After Effects
-date: 2024-04-24T07:07:52.304Z
-updated: 2024-04-25T07:07:52.304Z
+date: 2024-05-20T03:37:20.882Z
+updated: 2024-05-21T03:37:20.882Z
 tags: 
   - ai
   - animation videos
@@ -2246,5 +2246,6 @@ So, that’s it! – We learned how to remove/reduce noise and grain from the vi
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-13-mini-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 13 mini When Its Locked Within Seconds</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone XS Max | Dr.fone</u></a></li>
 </ul></div>
+
 
 

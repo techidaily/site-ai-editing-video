@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Discover the Art of Masking in After Effects A Comprehensive Guide
-date: 2024-04-24T07:08:00.272Z
-updated: 2024-04-25T07:08:00.272Z
+date: 2024-05-20T03:37:51.470Z
+updated: 2024-05-21T03:37:51.470Z
 tags: 
   - ai
   - animation videos
@@ -1407,5 +1407,6 @@ Whether you are a content creator or a social media influencer, resizing videos 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-105-classic-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia 105 Classic Device</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-moto-g73-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Moto G73 5G? </u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Easy Steps to Make Glitch Effect with Filmora
-date: 2024-04-24T07:08:09.378Z
-updated: 2024-04-25T07:08:09.378Z
+date: 2024-05-20T03:38:29.732Z
+updated: 2024-05-21T03:38:29.732Z
 tags: 
   - ai
   - animation videos
@@ -1869,5 +1869,6 @@ Changing the rotation of your Go-Pro videos has been made easier due to the avai
 <li><a href="https://animation-videos.techidaily.com/how-to-create-a-youtube-intro-animation-like-a-pro-for-2024/"><u>How to Create a YouTube Intro Animation Like a Pro for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nokia-c210-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nokia C210 Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
+
 
 

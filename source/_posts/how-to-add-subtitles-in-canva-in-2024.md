@@ -1,7 +1,7 @@
 ---
 title: How to Add Subtitles in Canva, In 2024
-date: 2024-04-24T07:08:03.328Z
-updated: 2024-04-25T07:08:03.328Z
+date: 2024-05-20T03:38:05.209Z
+updated: 2024-05-21T03:38:05.209Z
 tags: 
   - ai
   - animation videos
@@ -1273,5 +1273,6 @@ Have you ever experienced a **Snapchat** **camera** **zoomed in** problem on you
 <li><a href="https://animation-videos.techidaily.com/new-how-to-create-a-whiteboard-animation-video-for-2024/"><u>New How to Create a Whiteboard Animation Video for 2024</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-how-to-make-animation-talk-explained-with-easy-steps/"><u>2024 Approved How To Make Animation Talk? Explained with Easy Steps</u></a></li>
 </ul></div>
+
 
 

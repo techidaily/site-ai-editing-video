@@ -1,7 +1,7 @@
 ---
 title: Updated How to Use LUTs in Lumafusion & Free LUTs Resource
-date: 2024-04-24T07:08:05.161Z
-updated: 2024-04-25T07:08:05.161Z
+date: 2024-05-20T03:38:12.993Z
+updated: 2024-05-21T03:38:12.993Z
 tags: 
   - ai
   - animation videos
@@ -870,5 +870,6 @@ With the help of the Filmora **shortcut video editor**, you can make cinematic-l
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-itel-a60s-easily-by-drfone-android/"><u>How To Unlock a Itel A60s Easily?</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-update-6-best-voice-changers-you-cant-miss-for-2024/"><u>Updated Update 6 Best Voice Changers You Cant Miss for 2024</u></a></li>
 </ul></div>
+
 
 

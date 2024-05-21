@@ -1,7 +1,7 @@
 ---
 title: Here Are the Steps to Crop a Video in Sony Vegas Pro Step 1 Click on Import and Import the Video to Be Edited. Click on It and Drag-Drop to Timeline
-date: 2024-04-24T07:07:56.200Z
-updated: 2024-04-25T07:07:56.200Z
+date: 2024-05-20T03:37:34.659Z
+updated: 2024-05-21T03:37:34.659Z
 tags: 
   - ai
   - animation videos
@@ -1647,5 +1647,6 @@ Summary
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone 12 mini? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-apple-iphone-11-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from Apple iPhone 11 Pro iCloud Activation Lock Bypass</u></a></li>
 </ul></div>
+
 
 

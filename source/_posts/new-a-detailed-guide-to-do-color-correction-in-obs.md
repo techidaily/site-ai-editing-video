@@ -1,7 +1,7 @@
 ---
 title: New A Detailed Guide to Do Color Correction in OBS
-date: 2024-04-24T07:07:59.064Z
-updated: 2024-04-25T07:07:59.064Z
+date: 2024-05-20T03:37:45.963Z
+updated: 2024-05-21T03:37:45.963Z
 tags: 
   - ai
   - animation videos
@@ -1835,5 +1835,6 @@ We only stop feeling immersed when we notice abrupt cuts. It makes sense to know
 <li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Infinix Note 30 VIP | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

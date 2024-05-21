@@ -1,7 +1,7 @@
 ---
 title: How to Use LUTs in Lumafusion & Free LUTs Resource for 2024
-date: 2024-04-24T07:08:05.159Z
-updated: 2024-04-25T07:08:05.159Z
+date: 2024-05-20T03:38:12.981Z
+updated: 2024-05-21T03:38:12.981Z
 tags: 
   - ai
   - animation videos
@@ -1328,5 +1328,6 @@ For macOS 10.12 or later
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-honor-x7b-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Honor X7b Location Settings | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-motorola-moto-g24-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Motorola Moto G24</u></a></li>
 </ul></div>
+
 
 

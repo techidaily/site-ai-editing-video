@@ -1,7 +1,7 @@
 ---
 title: In 2024, Create Kinetice Typography Text Effect in Filmora
-date: 2024-04-24T07:08:08.881Z
-updated: 2024-04-25T07:08:08.881Z
+date: 2024-05-20T03:38:27.857Z
+updated: 2024-05-21T03:38:27.857Z
 tags: 
   - ai
   - animation videos
@@ -1366,5 +1366,6 @@ That is how to do this night-to-day transition night-to-day time shift effect in
 <li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 8T 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 6 Without Swiping Up? 6 Ways</u></a></li>
 </ul></div>
+
 
 

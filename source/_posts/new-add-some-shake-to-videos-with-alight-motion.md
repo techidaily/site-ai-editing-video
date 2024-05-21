@@ -1,7 +1,7 @@
 ---
 title: New Add Some Shake to Videos with Alight Motion
-date: 2024-04-24T07:07:59.767Z
-updated: 2024-04-25T07:07:59.767Z
+date: 2024-05-20T03:37:48.633Z
+updated: 2024-05-21T03:37:48.633Z
 tags: 
   - ai
   - animation videos
@@ -1506,5 +1506,6 @@ By following the steps mentioned in this article, you can now change the resolut
 <li><a href="https://blog-min.techidaily.com/how-to-lava-blaze-2-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Lava Blaze 2 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-12-4g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 12 4G FRP</u></a></li>
 </ul></div>
+
 
 

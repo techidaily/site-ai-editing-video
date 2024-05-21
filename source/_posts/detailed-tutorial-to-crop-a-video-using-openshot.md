@@ -1,7 +1,7 @@
 ---
 title: Detailed Tutorial to Crop a Video Using Openshot?
-date: 2024-04-24T07:07:53.583Z
-updated: 2024-04-25T07:07:53.583Z
+date: 2024-05-20T03:37:26.674Z
+updated: 2024-05-21T03:37:26.674Z
 tags: 
   - ai
   - animation videos
@@ -2023,5 +2023,6 @@ That's it! You are now familiar with the process of creating a straightforward c
 <li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Apple iPhone 7 | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Xiaomi 13 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 
 

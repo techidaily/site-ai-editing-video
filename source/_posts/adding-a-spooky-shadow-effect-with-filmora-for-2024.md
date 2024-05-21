@@ -1,7 +1,7 @@
 ---
 title: Adding a Spooky Shadow Effect with Filmora for 2024
-date: 2024-04-24T07:08:00.015Z
-updated: 2024-04-25T07:08:00.015Z
+date: 2024-05-20T03:37:50.287Z
+updated: 2024-05-21T03:37:50.287Z
 tags: 
   - ai
   - animation videos
@@ -2297,5 +2297,6 @@ For macOS 10.12 or later
 <li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y27s | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 15 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 
 

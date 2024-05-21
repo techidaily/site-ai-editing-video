@@ -1,7 +1,7 @@
 ---
 title: How to Create a Custom Slide Show in PowerPoint
-date: 2024-04-24T07:07:52.417Z
-updated: 2024-04-25T07:07:52.417Z
+date: 2024-05-20T03:37:21.942Z
+updated: 2024-05-21T03:37:21.942Z
 tags: 
   - ai
   - animation videos
@@ -2728,5 +2728,6 @@ Filmora offers free online tools for videographers and unique products for compu
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone 13 mini | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-users-guide-how-to-create-photo-talking-videos-with-the-best-tools/"><u>Updated Users Guide How To Create Photo Talking Videos With the Best Tools?</u></a></li>
 </ul></div>
+
 
 

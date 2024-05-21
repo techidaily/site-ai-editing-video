@@ -1,7 +1,7 @@
 ---
 title: New Splitting the Clips in Adobe After Effects Step by Step
-date: 2024-04-24T07:08:06.432Z
-updated: 2024-04-25T07:08:06.432Z
+date: 2024-05-20T03:38:17.638Z
+updated: 2024-05-21T03:38:17.638Z
 tags: 
   - ai
   - animation videos
@@ -1590,5 +1590,6 @@ You can download Filmora free video editor from the official website easily. Jus
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-v30-lite-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo V30 Lite 5G to Roku | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y100a-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y100A by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 
 

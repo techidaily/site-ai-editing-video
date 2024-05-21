@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Every Compositor Should Know The Trick of Color Match in After Effects
-date: 2024-04-24T07:08:02.807Z
-updated: 2024-04-25T07:08:02.807Z
+date: 2024-05-20T03:38:01.996Z
+updated: 2024-05-21T03:38:01.996Z
 tags: 
   - ai
   - animation videos
@@ -1722,5 +1722,6 @@ Merging SRT with MP4 is not a difficult task especially when you have the right 
 <li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-note-12-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi Note 12 5G phone? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40i-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Infinix Hot 40i PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 
 

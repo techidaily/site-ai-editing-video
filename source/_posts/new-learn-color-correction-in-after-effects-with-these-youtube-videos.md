@@ -1,7 +1,7 @@
 ---
 title: New Learn Color Correction in After Effects with These YouTube Videos
-date: 2024-04-24T07:08:00.248Z
-updated: 2024-04-25T07:08:00.248Z
+date: 2024-05-20T03:37:51.332Z
+updated: 2024-05-21T03:37:51.332Z
 tags: 
   - ai
   - animation videos
@@ -1823,5 +1823,6 @@ Many people across the world use online platforms like YouTube to live stream th
 <li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-xsipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone XS/iPad GPS Spoofing | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-8-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone 8</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike
-date: 2024-04-24T07:07:56.655Z
-updated: 2024-04-25T07:07:56.655Z
+date: 2024-05-20T03:37:35.749Z
+updated: 2024-05-21T03:37:35.749Z
 tags: 
   - ai
   - animation videos
@@ -1114,5 +1114,6 @@ We have illustrated how to add a transition in Premiere in simple steps. Besides
 <li><a href="https://techidaily.com/turn-off-screen-lock-nubia-red-magic-9-proplus-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Nubia Red Magic 9 Pro+</u></a></li>
 <li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-samsung-galaxy-s24-ultra-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Samsung Galaxy S24 Ultra</u></a></li>
 </ul></div>
+
 
 

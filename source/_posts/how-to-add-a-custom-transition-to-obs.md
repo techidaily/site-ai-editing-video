@@ -1,7 +1,7 @@
 ---
 title: How to Add a Custom Transition to OBS
-date: 2024-04-24T07:07:52.021Z
-updated: 2024-04-25T07:07:52.021Z
+date: 2024-05-20T03:37:18.694Z
+updated: 2024-05-21T03:37:18.694Z
 tags: 
   - ai
   - animation videos
@@ -1344,5 +1344,6 @@ With the detailed tutorial guide shared above, adding meme text to your videos s
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a05-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A05 to Outlook | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-huawei-nova-y71-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Huawei Nova Y71 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: 4 Solutions to Resize a WebM File
-date: 2024-04-24T07:07:51.901Z
-updated: 2024-04-25T07:07:51.901Z
+date: 2024-05-20T03:37:18.413Z
+updated: 2024-05-21T03:37:18.413Z
 tags: 
   - ai
   - animation videos
@@ -1012,5 +1012,6 @@ That is all you need to make a Stranger Things Upside Down effects to your video
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-y27s-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y27s Lock Screen Password</u></a></li>
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

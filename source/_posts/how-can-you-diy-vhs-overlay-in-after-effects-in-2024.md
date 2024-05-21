@@ -1,7 +1,7 @@
 ---
 title: How Can You DIY VHS Overlay in After Effects, In 2024
-date: 2024-04-24T07:08:10.103Z
-updated: 2024-04-25T07:08:10.103Z
+date: 2024-05-20T03:38:32.183Z
+updated: 2024-05-21T03:38:32.183Z
 tags: 
   - ai
   - animation videos
@@ -1637,5 +1637,6 @@ Adding text behind objects could be the first step in making your intros shine w
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-motorola-moto-g34-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Motorola Moto G34 5G Screen | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-itel-s23plus-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Itel S23+ Like A Pro 5 Easy Ways</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New 2 Solutions to Crop a Video Using After Effects
-date: 2024-04-24T07:07:58.062Z
-updated: 2024-04-25T07:07:58.062Z
+date: 2024-05-20T03:37:41.053Z
+updated: 2024-05-21T03:37:41.053Z
 tags: 
   - ai
   - animation videos
@@ -1491,5 +1491,6 @@ Navigate into the "AI Frame Interpolation" section to smoothen the effect. From 
 <li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-s17e-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo S17e Screen | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

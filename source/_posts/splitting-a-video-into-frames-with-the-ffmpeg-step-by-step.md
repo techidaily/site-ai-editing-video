@@ -1,7 +1,7 @@
 ---
 title: Splitting a Video Into Frames with the FFmpeg Step by Step
-date: 2024-04-24T07:07:54.728Z
-updated: 2024-04-25T07:07:54.728Z
+date: 2024-05-20T03:37:30.381Z
+updated: 2024-05-21T03:37:30.381Z
 tags: 
   - ai
   - animation videos
@@ -1006,5 +1006,6 @@ Also, if you have a YouTube channel or a content creator, adding these effects w
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone 13 mini? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-poco-x5-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Poco X5 is off? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

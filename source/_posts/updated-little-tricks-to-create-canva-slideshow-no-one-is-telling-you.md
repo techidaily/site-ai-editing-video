@@ -1,7 +1,7 @@
 ---
 title: Updated Little Tricks to Create Canva Slideshow No One Is Telling You
-date: 2024-04-24T07:08:05.516Z
-updated: 2024-04-25T07:08:05.516Z
+date: 2024-05-20T03:38:14.803Z
+updated: 2024-05-21T03:38:14.803Z
 tags: 
   - ai
   - animation videos
@@ -1807,5 +1807,6 @@ Since we run out of time because of our busy schedules, you might find it inconv
 <li><a href="https://techidaily.com/hard-reset-meizu-21-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Meizu 21 in 3 Efficient Ways | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy S24+ | Dr.fone</u></a></li>
 </ul></div>
+
 
 

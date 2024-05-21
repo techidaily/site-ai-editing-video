@@ -1,7 +1,7 @@
 ---
 title: New Cropping Video in VLC Step by Step
-date: 2024-04-24T07:08:02.571Z
-updated: 2024-04-25T07:08:02.571Z
+date: 2024-05-20T03:38:00.065Z
+updated: 2024-05-21T03:38:00.065Z
 tags: 
   - ai
   - animation videos
@@ -1709,5 +1709,6 @@ In Wondershare Filmora, there are templates for the spilt screens as well. It is
 <li><a href="https://techidaily.com/how-to-reset-a-infinix-hot-40-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Hot 40 Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-pixel-art-generator/"><u>What Is AI Pixel Art Generator?</u></a></li>
 </ul></div>
+
 
 

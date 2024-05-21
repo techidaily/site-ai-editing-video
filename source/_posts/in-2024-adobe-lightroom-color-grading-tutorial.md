@@ -1,7 +1,7 @@
 ---
 title: In 2024, Adobe Lightroom Color Grading Tutorial
-date: 2024-04-24T07:08:00.123Z
-updated: 2024-04-25T07:08:00.123Z
+date: 2024-05-20T03:37:50.974Z
+updated: 2024-05-21T03:37:50.974Z
 tags: 
   - ai
   - animation videos
@@ -910,5 +910,6 @@ If you are looking for an intro video maker app, Legend video intro maker is a s
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-y17s-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo Y17s Phones? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-poco-m6-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Poco M6 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 
 

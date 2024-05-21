@@ -1,7 +1,7 @@
 ---
 title: How to Add Subtitles in Canva for 2024
-date: 2024-04-24T07:08:03.329Z
-updated: 2024-04-25T07:08:03.329Z
+date: 2024-05-20T03:38:05.213Z
+updated: 2024-05-21T03:38:05.213Z
 tags: 
   - ai
   - animation videos
@@ -1258,5 +1258,6 @@ Therefore, if you want to learn the A to Z of video editing for absolutely free,
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy S23+ | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-c67-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Realme C67 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

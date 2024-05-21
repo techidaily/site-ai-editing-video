@@ -1,7 +1,7 @@
 ---
 title: In 2024, Finding LUTs Made by Danny Gevirtz
-date: 2024-04-24T07:08:09.632Z
-updated: 2024-04-25T07:08:09.632Z
+date: 2024-05-20T03:38:30.757Z
+updated: 2024-05-21T03:38:30.757Z
 tags: 
   - ai
   - animation videos
@@ -1234,5 +1234,6 @@ Navigate into the "AI Frame Interpolation" section to smoothen the effect. From 
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Infinix Note 30 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-a38-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo A38 to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 
 

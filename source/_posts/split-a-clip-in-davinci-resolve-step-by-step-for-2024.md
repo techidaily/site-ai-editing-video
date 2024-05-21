@@ -1,7 +1,7 @@
 ---
 title: Split a Clip in DaVinci Resolve Step by Step for 2024
-date: 2024-04-24T07:08:06.384Z
-updated: 2024-04-25T07:08:06.384Z
+date: 2024-05-20T03:38:17.454Z
+updated: 2024-05-21T03:38:17.454Z
 tags: 
   - ai
   - animation videos
@@ -1304,5 +1304,6 @@ Drone technology is evolving modern videography and photography with aerial view
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-smart-7-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Smart 7 Phone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-11-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone 11 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

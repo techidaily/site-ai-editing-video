@@ -1,7 +1,7 @@
 ---
 title: Splitting the Clips in Adobe After Effects Step by Step
-date: 2024-04-24T07:07:52.822Z
-updated: 2024-04-25T07:07:52.822Z
+date: 2024-05-20T03:37:24.320Z
+updated: 2024-05-21T03:37:24.320Z
 tags: 
   - ai
   - animation videos
@@ -1642,5 +1642,6 @@ In conclusion, online tools can make your life a lot easier when it comes to con
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-12plus-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme 12+ 5G Location on Twitter | Dr.fone</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/how-to-make-an-emoji-of-yourself-on-mobile-emoji-yourself/"><u>How to Make an Emoji of Yourself on Mobile ? Emoji Yourself</u></a></li>
 </ul></div>
+
 
 

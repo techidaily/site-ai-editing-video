@@ -1,7 +1,7 @@
 ---
 title: How to Put a Background on A Green Screen
-date: 2024-04-24T07:07:54.288Z
-updated: 2024-04-25T07:07:54.288Z
+date: 2024-05-20T03:37:28.916Z
+updated: 2024-05-21T03:37:28.916Z
 tags: 
   - ai
   - animation videos
@@ -1060,5 +1060,6 @@ A **slow-motion effect** can highlight an action in a video clip. It can engage 
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-learn-pencil2d-animation-tutorial-overview/"><u>Updated In 2024, Learn Pencil2D Animation Tutorial Overview</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Android devices? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

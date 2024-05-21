@@ -1,7 +1,7 @@
 ---
 title: How to Create a Smooth Cut Transition Effect, In 2024
-date: 2024-04-24T07:08:10.839Z
-updated: 2024-04-25T07:08:10.839Z
+date: 2024-05-20T03:38:34.055Z
+updated: 2024-05-21T03:38:34.055Z
 tags: 
   - ai
   - animation videos
@@ -1348,5 +1348,6 @@ While this editing method does serve that purpose, a good jump cut is more of a 
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-razr-40-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Razr 40 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 Plus to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

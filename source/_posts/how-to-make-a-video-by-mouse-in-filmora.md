@@ -1,7 +1,7 @@
 ---
 title: How To Make a Video by Mouse in Filmora?
-date: 2024-04-24T07:07:52.513Z
-updated: 2024-04-25T07:07:52.513Z
+date: 2024-05-20T03:37:22.556Z
+updated: 2024-05-21T03:37:22.556Z
 tags: 
   - ai
   - animation videos
@@ -787,5 +787,6 @@ Right click on the audio and you'll see a list out editing options, such as cut,
 <li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-s18e-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo S18e? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Infinix Hot 30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

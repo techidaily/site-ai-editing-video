@@ -1,7 +1,7 @@
 ---
 title: Updated Use Path Blur In Photoshop To Create Motion Effect
-date: 2024-04-24T07:08:07.727Z
-updated: 2024-04-25T07:08:07.727Z
+date: 2024-05-20T03:38:21.992Z
+updated: 2024-05-21T03:38:21.992Z
 tags: 
   - ai
   - animation videos
@@ -1283,5 +1283,6 @@ You can easily edit, manage, and export 4K videos within the platform. **LumaFus
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Lava Blaze Curve 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xr-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XR without Losing Any Content? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

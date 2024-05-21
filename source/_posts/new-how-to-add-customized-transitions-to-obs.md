@@ -1,7 +1,7 @@
 ---
 title: New How to Add Customized Transitions to OBS
-date: 2024-04-24T07:08:03.277Z
-updated: 2024-04-25T07:08:03.277Z
+date: 2024-05-20T03:38:04.935Z
+updated: 2024-05-21T03:38:04.935Z
 tags: 
   - ai
   - animation videos
@@ -1259,5 +1259,6 @@ _Besides the tips mentioned above, you can also watch this video to get some tip
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-infinix-hot-40-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Infinix Hot 40 Pro Phones with/without a PC</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g-5g-2023-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G 5G (2023) to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

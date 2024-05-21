@@ -1,7 +1,7 @@
 ---
 title: So, without Further Dilly-Dallying, Lets Learn How to Create a Retro 1950-Style Video with This Simple Filmora Tutorial
-date: 2024-04-24T07:07:57.303Z
-updated: 2024-04-25T07:07:57.303Z
+date: 2024-05-20T03:37:36.360Z
+updated: 2024-05-21T03:37:36.360Z
 tags: 
   - ai
   - animation videos
@@ -1556,5 +1556,6 @@ There you go! That's how to create an eye-zoom transition using Wondershare Film
 <li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-a15-4g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy A15 4G</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia C12 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

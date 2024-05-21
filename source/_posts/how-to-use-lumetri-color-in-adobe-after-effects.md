@@ -1,7 +1,7 @@
 ---
 title: How to Use Lumetri Color in Adobe After Effects
-date: 2024-04-24T07:07:52.609Z
-updated: 2024-04-25T07:07:52.609Z
+date: 2024-05-20T03:37:23.139Z
+updated: 2024-05-21T03:37:23.139Z
 tags: 
   - ai
   - animation videos
@@ -3094,5 +3094,6 @@ When it comes to the editing flexibility, the program’s inbuilt library is the
 <li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Google Pixel 8 | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-how-to-analyze-an-editorial-cartoon-easily/"><u>New 2024 Approved How to Analyze an Editorial Cartoon Easily</u></a></li>
 </ul></div>
+
 
 

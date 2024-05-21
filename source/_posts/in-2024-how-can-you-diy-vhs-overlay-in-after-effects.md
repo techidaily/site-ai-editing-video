@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Can You DIY VHS Overlay in After Effects?
-date: 2024-04-24T07:08:10.101Z
-updated: 2024-04-25T07:08:10.101Z
+date: 2024-05-20T03:38:32.166Z
+updated: 2024-05-21T03:38:32.166Z
 tags: 
   - ai
   - animation videos
@@ -1226,5 +1226,6 @@ Do visit Wondershare Filmora exclusive website to know more about its latest upg
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-11-proplus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme 11 Pro+? Fixed | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-15-pro-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 15 Pro Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New How to Change Video Resolution in Filmora
-date: 2024-04-24T07:08:10.586Z
-updated: 2024-04-25T07:08:10.586Z
+date: 2024-05-20T03:38:33.328Z
+updated: 2024-05-21T03:38:33.328Z
 tags: 
   - ai
   - animation videos
@@ -1954,5 +1954,6 @@ In conclusion, LUTs are essential in modern video and photo editing. They allow 
 <li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-x-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone X</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y100t-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y100t Phones</u></a></li>
 </ul></div>
+
 
 

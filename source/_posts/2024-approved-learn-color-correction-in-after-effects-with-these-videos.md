@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Learn Color Correction in After Effects with These Videos
-date: 2024-04-24T07:08:05.405Z
-updated: 2024-04-25T07:08:05.405Z
+date: 2024-05-20T03:38:14.057Z
+updated: 2024-05-21T03:38:14.057Z
 tags: 
   - ai
   - animation videos
@@ -1431,5 +1431,6 @@ Adobe After Effects is an industry-standard tool for video editing and manipulat
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max to the Previous iOS System Version? | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-15-plus-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 15 Plus without App | Dr.fone</u></a></li>
 </ul></div>
+
 
 

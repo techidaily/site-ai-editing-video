@@ -1,7 +1,7 @@
 ---
 title: New Phone Aspect Ratio Vertical Definition, Types and Tips
-date: 2024-04-24T07:08:05.911Z
-updated: 2024-04-25T07:08:05.911Z
+date: 2024-05-20T03:38:16.330Z
+updated: 2024-05-21T03:38:16.330Z
 tags: 
   - ai
   - animation videos
@@ -2210,5 +2210,6 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-realme-11-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Realme 11 Pro?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max Without Passcode?</u></a></li>
 </ul></div>
+
 
 

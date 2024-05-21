@@ -1,7 +1,7 @@
 ---
 title: Updated How to Do Masking in After Effects Alternative Provided
-date: 2024-04-24T07:08:04.213Z
-updated: 2024-04-25T07:08:04.213Z
+date: 2024-05-20T03:38:08.408Z
+updated: 2024-05-21T03:38:08.408Z
 tags: 
   - ai
   - animation videos
@@ -3326,5 +3326,6 @@ A Storyboard is important to create before the final product because it will sav
 <li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-htc-u23-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On HTC U23 | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-create-funny-talking-avatars-using-oddcast-text-to-speech-for-2024/"><u>Updated How to Create Funny Talking Avatars Using Oddcast Text to Speech for 2024</u></a></li>
 </ul></div>
+
 
 

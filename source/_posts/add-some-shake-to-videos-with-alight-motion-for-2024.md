@@ -1,7 +1,7 @@
 ---
 title: Add Some Shake to Videos with Alight Motion for 2024
-date: 2024-04-24T07:07:59.764Z
-updated: 2024-04-25T07:07:59.764Z
+date: 2024-05-20T03:37:48.589Z
+updated: 2024-05-21T03:37:48.589Z
 tags: 
   - ai
   - animation videos
@@ -2058,5 +2058,6 @@ Overall, multiple online and software-based tools help convert video files to su
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone XS Max | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to Android? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

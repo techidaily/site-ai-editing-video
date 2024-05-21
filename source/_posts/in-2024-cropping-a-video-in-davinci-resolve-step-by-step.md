@@ -1,7 +1,7 @@
 ---
 title: In 2024, Cropping a Video in Davinci Resolve Step by Step
-date: 2024-04-24T07:08:08.973Z
-updated: 2024-04-25T07:08:08.973Z
+date: 2024-05-20T03:38:28.086Z
+updated: 2024-05-21T03:38:28.086Z
 tags: 
   - ai
   - animation videos
@@ -2711,5 +2711,6 @@ For macOS 10.12 or later
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Honor Magic 5 Lite | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Itel S23+ | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Achieve LumaFusion Color Grading Through LUTs
-date: 2024-04-24T07:08:10.272Z
-updated: 2024-04-25T07:08:10.272Z
+date: 2024-05-20T03:38:32.437Z
+updated: 2024-05-21T03:38:32.437Z
 tags: 
   - ai
   - animation videos
@@ -1243,5 +1243,6 @@ The usage of chroma keying has been increasingly popular in recent years, with v
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-how-to-make-creative-animation-videos/"><u>New 2024 Approved How to Make Creative Animation Videos</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

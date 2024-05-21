@@ -1,7 +1,7 @@
 ---
 title: To Get Cinematographs of a Music Video, You Need to Understand the Basics of Camera Movement. As Well Framing and Lighting of the Setup Are Illustrated in This Article
-date: 2024-04-24T07:07:57.451Z
-updated: 2024-04-25T07:07:57.451Z
+date: 2024-05-20T03:37:37.197Z
+updated: 2024-05-21T03:37:37.197Z
 tags: 
   - ai
   - animation videos
@@ -1342,5 +1342,6 @@ Making loop videos is relatively easy with its timeline features. Video loops ar
 <li><a href="https://ai-voice-clone.techidaily.com/live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-live-shopping-in-china-major-changes-in-the-industry-for-2024/"><u>New Live Shopping in China Major Changes in the Industry for 2024</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: How to Shoot Cinematic Footage From a Smartphone
-date: 2024-04-24T07:07:52.553Z
-updated: 2024-04-25T07:07:52.553Z
+date: 2024-05-20T03:37:22.911Z
+updated: 2024-05-21T03:37:22.911Z
 tags: 
   - ai
   - animation videos
@@ -2348,5 +2348,6 @@ To conclude, there are many different overlays, effects, and filters that you ca
 <li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y100 5G | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Poco X5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

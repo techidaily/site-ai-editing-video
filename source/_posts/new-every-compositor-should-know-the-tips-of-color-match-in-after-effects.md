@@ -1,7 +1,7 @@
 ---
 title: New Every Compositor Should Know The Tips of Color Match in After Effects
-date: 2024-04-24T07:08:09.522Z
-updated: 2024-04-25T07:08:09.522Z
+date: 2024-05-20T03:38:30.318Z
+updated: 2024-05-21T03:38:30.318Z
 tags: 
   - ai
   - animation videos
@@ -2352,5 +2352,6 @@ This video editor supports multiple VHS effects, and you can also customize its 
 <li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-redmi-note-12-pro-4g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Redmi Note 12 Pro 4G</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-s17e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo S17e without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New Change Background Color in After Effects
-date: 2024-04-24T07:08:02.460Z
-updated: 2024-04-25T07:08:02.460Z
+date: 2024-05-20T03:37:58.873Z
+updated: 2024-05-21T03:37:58.873Z
 tags: 
   - ai
   - animation videos
@@ -709,5 +709,6 @@ Subconscious slow-motion. Overusing or misusing a function ruins its appeal. Fil
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-f5-pro-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco F5 Pro 5G To Phone | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-15-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 15? Complete Guide | Dr.fone</u></a></li>
 </ul></div>
+
 
 

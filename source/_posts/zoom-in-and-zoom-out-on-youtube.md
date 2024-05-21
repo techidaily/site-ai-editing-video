@@ -1,7 +1,7 @@
 ---
 title: Zoom In and Zoom Out on YouTube
-date: 2024-04-24T07:07:52.124Z
-updated: 2024-04-25T07:07:52.124Z
+date: 2024-05-20T03:37:19.905Z
+updated: 2024-05-21T03:37:19.905Z
 tags: 
   - ai
   - animation videos
@@ -2343,5 +2343,6 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone XS? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

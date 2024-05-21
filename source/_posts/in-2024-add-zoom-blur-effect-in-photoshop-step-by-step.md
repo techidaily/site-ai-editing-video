@@ -1,7 +1,7 @@
 ---
 title: In 2024, Add Zoom Blur Effect In Photoshop Step by Step
-date: 2024-04-24T07:08:00.007Z
-updated: 2024-04-25T07:08:00.007Z
+date: 2024-05-20T03:37:50.242Z
+updated: 2024-05-21T03:37:50.242Z
 tags: 
   - ai
   - animation videos
@@ -3057,5 +3057,6 @@ For macOS 10.12 or later
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-xiaomi-redmi-k70-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Xiaomi Redmi K70 Phone | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oneplus-ace-2-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart OnePlus Ace 2 Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+
 
 

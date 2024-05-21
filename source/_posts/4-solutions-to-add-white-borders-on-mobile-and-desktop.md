@@ -1,7 +1,7 @@
 ---
 title: 4 Solutions to Add White Borders on Mobile and Desktop
-date: 2024-04-24T07:07:51.900Z
-updated: 2024-04-25T07:07:51.900Z
+date: 2024-05-20T03:37:18.410Z
+updated: 2024-05-21T03:37:18.410Z
 tags: 
   - ai
   - animation videos
@@ -1278,5 +1278,6 @@ This post recommends several lut resources and demonstrates how to import them i
 <li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-y27-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo Y27 5G IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-v27-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo V27</u></a></li>
 </ul></div>
+
 
 

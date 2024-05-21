@@ -1,7 +1,7 @@
 ---
 title: Step by Step to Crop Videos Using Lightworks for 2024
-date: 2024-04-24T07:08:06.463Z
-updated: 2024-04-25T07:08:06.463Z
+date: 2024-05-20T03:38:17.861Z
+updated: 2024-05-21T03:38:17.861Z
 tags: 
   - ai
   - animation videos
@@ -2860,5 +2860,6 @@ For macOS 10.12 or later
 <li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-11-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 11</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-c32-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia C32 Device</u></a></li>
 </ul></div>
+
 
 

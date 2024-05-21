@@ -1,7 +1,7 @@
 ---
 title: Adobe Lightroom Color Grading Tutorial
-date: 2024-04-24T07:07:52.101Z
-updated: 2024-04-25T07:07:52.101Z
+date: 2024-05-20T03:37:19.403Z
+updated: 2024-05-21T03:37:19.403Z
 tags: 
   - ai
   - animation videos
@@ -1913,5 +1913,6 @@ Yes, KineMaster is perfect for editing 4K video taken with high-end cameras. Aft
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-oppo-find-n3-flip-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Oppo Find N3 Flip Location | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-15-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 15 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
 </ul></div>
+
 
 

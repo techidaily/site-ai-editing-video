@@ -1,7 +1,7 @@
 ---
 title: How to Add Font Effect
-date: 2024-04-24T07:07:52.054Z
-updated: 2024-04-25T07:07:52.054Z
+date: 2024-05-20T03:37:18.940Z
+updated: 2024-05-21T03:37:18.940Z
 tags: 
   - ai
   - animation videos
@@ -1161,5 +1161,6 @@ A. Gawesome is an excellent alternative for adding a multifunctional bot to your
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-tecno-spark-10c-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Tecno Spark 10C</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-xiaomi-redmi-note-13-proplus-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Xiaomi Redmi Note 13 Pro+ 5G PC | Dr.fone</u></a></li>
 </ul></div>
+
 
 

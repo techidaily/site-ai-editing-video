@@ -1,7 +1,7 @@
 ---
 title: Create True 3D Text Effects Using After Effects for 2024
-date: 2024-04-24T07:07:58.244Z
-updated: 2024-04-25T07:07:58.244Z
+date: 2024-05-20T03:37:42.170Z
+updated: 2024-05-21T03:37:42.170Z
 tags: 
   - ai
   - animation videos
@@ -2297,5 +2297,6 @@ Moreover, it offers an extensive library of built-in LUTs. You can take your vid
 <li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100t If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme C67 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

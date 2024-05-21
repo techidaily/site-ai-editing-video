@@ -1235,3 +1235,4 @@ This was our two cents on how you can speed up a video on Canva. In the end, spe
 </ul></div>
 
 
+

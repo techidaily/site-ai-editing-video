@@ -1,7 +1,7 @@
 ---
 title: How to Animate Designs With Canva GIF
-date: 2024-04-24T07:07:53.821Z
-updated: 2024-04-25T07:07:53.821Z
+date: 2024-05-20T03:37:27.548Z
+updated: 2024-05-21T03:37:27.548Z
 tags: 
   - ai
   - animation videos
@@ -2321,5 +2321,6 @@ Making loop videos is relatively easy with its timeline features. Video loops ar
 <li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-k70-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi K70</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Realme GT 5 (240W)? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

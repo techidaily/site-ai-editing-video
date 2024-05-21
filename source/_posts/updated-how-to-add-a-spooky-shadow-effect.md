@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add a Spooky Shadow Effect
-date: 2024-04-24T07:07:59.841Z
-updated: 2024-04-25T07:07:59.841Z
+date: 2024-05-20T03:37:49.018Z
+updated: 2024-05-21T03:37:49.018Z
 tags: 
   - ai
   - animation videos
@@ -1939,5 +1939,6 @@ The complete structuration of anime drawing is centered on taking accurate measu
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Edge 2023 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo A78? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

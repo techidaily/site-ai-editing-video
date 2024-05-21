@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Add Camera Shake to Video in Adobe After Effects
-date: 2024-04-24T07:08:03.181Z
-updated: 2024-04-25T07:08:03.181Z
+date: 2024-05-20T03:38:04.792Z
+updated: 2024-05-21T03:38:04.792Z
 tags: 
   - ai
   - animation videos
@@ -1089,5 +1089,6 @@ Try Filmora to apply 3D Luts on your video!
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-se-2020-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone SE (2020) Display? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-tecno-phantom-v-flip-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Tecno Phantom V Flip to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: How to Speed Up Video with Canva Online Tool?
-date: 2024-04-24T07:07:54.347Z
-updated: 2024-04-25T07:07:54.347Z
+date: 2024-05-20T03:37:29.179Z
+updated: 2024-05-21T03:37:29.179Z
 tags: 
   - ai
   - animation videos
@@ -1939,5 +1939,6 @@ Filmora will enhance the appeal of your video by giving free background music. Y
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-s18-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo S18 Pro Phone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Realme 11X 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

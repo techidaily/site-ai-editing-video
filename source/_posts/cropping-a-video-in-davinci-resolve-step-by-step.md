@@ -1,7 +1,7 @@
 ---
 title: Cropping a Video in Davinci Resolve Step by Step
-date: 2024-04-24T07:07:53.556Z
-updated: 2024-04-25T07:07:53.556Z
+date: 2024-05-20T03:37:26.537Z
+updated: 2024-05-21T03:37:26.537Z
 tags: 
   - ai
   - animation videos
@@ -1995,5 +1995,6 @@ For macOS 10.12 or later
 <li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo T2x 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

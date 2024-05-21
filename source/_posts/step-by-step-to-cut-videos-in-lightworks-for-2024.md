@@ -1,7 +1,7 @@
 ---
 title: Step by Step to Cut Videos in Lightworks for 2024
-date: 2024-04-24T07:08:06.549Z
-updated: 2024-04-25T07:08:06.549Z
+date: 2024-05-20T03:38:17.983Z
+updated: 2024-05-21T03:38:17.983Z
 tags: 
   - ai
   - animation videos
@@ -2644,5 +2644,6 @@ In the future, video marketing will only grow more critical. With virtual realit
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-tecno-phantom-v-flip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Tecno Phantom V Flip to Other Android Devices Easily | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2023-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2023</u></a></li>
 </ul></div>
+
 
 

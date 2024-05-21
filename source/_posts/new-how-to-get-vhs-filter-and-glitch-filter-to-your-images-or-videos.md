@@ -1,7 +1,7 @@
 ---
 title: New How to Get VHS Filter and Glitch Filter to Your Images or Videos?
-date: 2024-04-24T07:08:04.337Z
-updated: 2024-04-25T07:08:04.337Z
+date: 2024-05-20T03:38:09.365Z
+updated: 2024-05-21T03:38:09.365Z
 tags: 
   - ai
   - animation videos
@@ -2270,5 +2270,6 @@ Although pixel art is a sort of new art, it is already rich with many artists an
 <li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-y27-4g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo Y27 4G FRP</u></a></li>
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 6s Plus | Dr.fone</u></a></li>
 </ul></div>
+
 
 

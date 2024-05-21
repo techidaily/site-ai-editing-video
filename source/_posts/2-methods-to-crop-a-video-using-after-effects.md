@@ -1,7 +1,7 @@
 ---
 title: 2 Methods to Crop a Video Using After Effects
-date: 2024-04-24T07:07:51.844Z
-updated: 2024-04-25T07:07:51.844Z
+date: 2024-05-20T03:37:18.247Z
+updated: 2024-05-21T03:37:18.247Z
 tags: 
   - ai
   - animation videos
@@ -1693,5 +1693,6 @@ Wondershare Filmora offers a variety of editing features that you can use to cre
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oppo-a18-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Oppo A18 Without PUK Codes</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-6-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 6 without Passcode or Face ID</u></a></li>
 </ul></div>
+
 
 

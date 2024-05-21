@@ -1,7 +1,7 @@
 ---
 title: Do You Want to Add a Slow-Mo Effect in Your Videos? In This Guide, We Will Discuss How to Add Slow-Motion Effects in the Videos with After Effects in an Efficient Way
-date: 2024-04-24T07:07:55.700Z
-updated: 2024-04-25T07:07:55.700Z
+date: 2024-05-20T03:37:33.369Z
+updated: 2024-05-21T03:37:33.369Z
 tags: 
   - ai
   - animation videos
@@ -1239,5 +1239,6 @@ Hopefully, you find this guide helpful, and you can now track objects in real-ti
 <li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-14-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi 14 Lock Screen Password?</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-13-mini-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 13 mini without Apple ID?</u></a></li>
 </ul></div>
+
 
 

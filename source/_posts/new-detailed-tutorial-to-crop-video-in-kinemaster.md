@@ -1,7 +1,7 @@
 ---
 title: New Detailed Tutorial to Crop Video in KineMaster
-date: 2024-04-24T07:08:09.174Z
-updated: 2024-04-25T07:08:09.174Z
+date: 2024-05-20T03:38:28.909Z
+updated: 2024-05-21T03:38:28.909Z
 tags: 
   - ai
   - animation videos
@@ -3115,5 +3115,6 @@ Summary
 <li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-12-4g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 12 4G Phone Hassle-Free</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-12-mini-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 12 mini With Forgotten Passcode Different Methods You Can Try</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New 2 Methods to Crop a Video Using After Effects
-date: 2024-04-24T07:07:58.044Z
-updated: 2024-04-25T07:07:58.044Z
+date: 2024-05-20T03:37:40.957Z
+updated: 2024-05-21T03:37:40.957Z
 tags: 
   - ai
   - animation videos
@@ -904,5 +904,6 @@ This article aimed to increase readers' knowledge to effectively add slow-mo eff
 <li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-11-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 11 Pro Max to Android? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

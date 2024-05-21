@@ -1,7 +1,7 @@
 ---
 title: How to Zoom In and Out on Mac
-date: 2024-04-24T07:07:54.458Z
-updated: 2024-04-25T07:07:54.458Z
+date: 2024-05-20T03:37:29.989Z
+updated: 2024-05-21T03:37:29.989Z
 tags: 
   - ai
   - animation videos
@@ -2466,5 +2466,6 @@ Subconscious slow-motion. Overusing or misusing a function ruins its appeal. Fil
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-nubia-red-magic-8s-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nubia Red Magic 8S Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone SE (2022)?</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Discover the Art of Masking in After Effects A Comprehensive Guide
-date: 2024-04-24T07:08:00.336Z
-updated: 2024-04-25T07:08:00.336Z
+date: 2024-05-20T03:37:51.489Z
+updated: 2024-05-21T03:37:51.489Z
 tags: 
   - ai
   - animation videos
@@ -968,5 +968,6 @@ In times when you need to create professional slo-mos, we suggest using Wondersh
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Lava Blaze 2 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

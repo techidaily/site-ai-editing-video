@@ -1,7 +1,7 @@
 ---
 title: Updated Guide to Add Transition Effects in Premiere Pro
-date: 2024-04-24T07:08:03.003Z
-updated: 2024-04-25T07:08:03.003Z
+date: 2024-05-20T03:38:03.729Z
+updated: 2024-05-21T03:38:03.729Z
 tags: 
   - ai
   - animation videos
@@ -2060,5 +2060,6 @@ There are two ways available to achieve color grading, out of which you can sele
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Poco X5? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-find-n3-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo Find N3 FRP Bypass</u></a></li>
 </ul></div>
+
 
 

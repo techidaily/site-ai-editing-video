@@ -1,7 +1,7 @@
 ---
 title: New Every Compositor Should Know The Trick of Color Match in After Effects
-date: 2024-04-24T07:08:02.808Z
-updated: 2024-04-25T07:08:02.808Z
+date: 2024-05-20T03:38:02.004Z
+updated: 2024-05-21T03:38:02.004Z
 tags: 
   - ai
   - animation videos
@@ -1264,5 +1264,6 @@ You can now have virtual background without green screen purchase on your video.
 <li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo T2 Pro 5G</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-tecno-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Tecno .</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Designs with Feather Shapes in After Effects
-date: 2024-04-24T07:08:02.791Z
-updated: 2024-04-25T07:08:02.791Z
+date: 2024-05-20T03:38:01.818Z
+updated: 2024-05-21T03:38:01.818Z
 tags: 
   - ai
   - animation videos
@@ -2851,5 +2851,6 @@ The following best practices will enhance your color grading:
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-honor-90-gt-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Honor 90 GT For Mobile Legends? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a14-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A14 4G in 5 Easy Ways | Dr.fone</u></a></li>
 </ul></div>
+
 
 

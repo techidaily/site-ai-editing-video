@@ -1,7 +1,7 @@
 ---
 title: Detailed Tutorial to Crop Video in KineMaster for 2024
-date: 2024-04-24T07:08:09.170Z
-updated: 2024-04-25T07:08:09.170Z
+date: 2024-05-20T03:38:28.898Z
+updated: 2024-05-21T03:38:28.898Z
 tags: 
   - ai
   - animation videos
@@ -1838,5 +1838,6 @@ In the above article, I have discussed a couple of different ways to add a thumb
 <li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-itel-s23plus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Itel S23+</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-tecno-phantom-v-flip-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Tecno Phantom V Flip to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 
 

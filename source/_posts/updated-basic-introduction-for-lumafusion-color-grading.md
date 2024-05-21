@@ -1,7 +1,7 @@
 ---
 title: Updated Basic Introduction for LumaFusion Color Grading
-date: 2024-04-24T07:08:01.280Z
-updated: 2024-04-25T07:08:01.280Z
+date: 2024-05-20T03:37:56.379Z
+updated: 2024-05-21T03:37:56.379Z
 tags: 
   - ai
   - animation videos
@@ -2172,5 +2172,6 @@ Go to the OBS Forums from where you get to download transitions for OBS Studio. 
 <li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-se-2020ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone SE (2020)/iPad GPS Spoofing | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-oneplus-11r-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from OnePlus 11R</u></a></li>
 </ul></div>
+
 
 

@@ -3940,3 +3940,4 @@ Yes. You can use the same method to merge clips in any version of DaVinci Resolv
 </ul></div>
 
 
+

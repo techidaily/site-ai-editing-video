@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Create a Bokeh Effect
-date: 2024-04-24T07:08:01.036Z
-updated: 2024-04-25T07:08:01.036Z
+date: 2024-05-20T03:37:55.759Z
+updated: 2024-05-21T03:37:55.759Z
 tags: 
   - ai
   - animation videos
@@ -905,5 +905,6 @@ Like other events, weddings are also important occasions. This is why videograph
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nubia-red-magic-9-proplus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nubia Red Magic 9 Pro+</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-motorola-g24-power-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola G24 Power without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 
 

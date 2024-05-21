@@ -1,7 +1,7 @@
 ---
 title: Updated Cropping a Video in Davinci Resolve Step by Step
-date: 2024-04-24T07:08:08.983Z
-updated: 2024-04-25T07:08:08.983Z
+date: 2024-05-20T03:38:28.171Z
+updated: 2024-05-21T03:38:28.171Z
 tags: 
   - ai
   - animation videos
@@ -943,5 +943,6 @@ Wondershare Filmora, on the other hand, can carry on the process with efficiency
 <li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo Y100i | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-14-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 14 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

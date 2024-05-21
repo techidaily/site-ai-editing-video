@@ -1,7 +1,7 @@
 ---
 title: Color Lut in Video -How to Color Grade Your Video
-date: 2024-04-24T07:07:52.246Z
-updated: 2024-04-25T07:07:52.246Z
+date: 2024-05-20T03:37:20.461Z
+updated: 2024-05-21T03:37:20.461Z
 tags: 
   - ai
   - animation videos
@@ -1627,5 +1627,6 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11?</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-7-plus-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone 7 Plus Without Previous Owner?</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Art of Time Manipulation A Guide to After Effects Slow Motion Mastery
-date: 2024-04-24T07:08:08.013Z
-updated: 2024-04-25T07:08:08.013Z
+date: 2024-05-20T03:38:24.237Z
+updated: 2024-05-21T03:38:24.237Z
 tags: 
   - ai
   - animation videos
@@ -1743,5 +1743,6 @@ So, that’s all for this article – you have learned how to crop a video on An
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-11-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 11 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-poco-x6-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Poco X6 Pro PC | Dr.fone</u></a></li>
 </ul></div>
+
 
 

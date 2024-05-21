@@ -1,7 +1,7 @@
 ---
 title: New How to Create Vintage Film Effect 1950S
-date: 2024-04-24T07:08:11.405Z
-updated: 2024-04-25T07:08:11.405Z
+date: 2024-05-20T03:38:35.273Z
+updated: 2024-05-21T03:38:35.273Z
 tags: 
   - ai
   - animation videos
@@ -706,5 +706,6 @@ There you go! That's how to create an eye-zoom transition using Wondershare Film
 <li><a href="https://phone-solutions.techidaily.com/device-unlock-spark-20c-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Spark 20C</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-samsung-galaxy-s23plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Samsung Galaxy S23+ to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 
 

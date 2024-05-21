@@ -1,7 +1,7 @@
 ---
 title: How To Track and Blur Faces in Premiere Pro
-date: 2024-04-24T07:07:54.364Z
-updated: 2024-04-25T07:07:54.364Z
+date: 2024-05-20T03:37:29.295Z
+updated: 2024-05-21T03:37:29.295Z
 tags: 
   - ai
   - animation videos
@@ -796,5 +796,6 @@ The zoom blur effect can instantly add focus to the subject in a dramatic manner
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-6s-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 6s Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-a23-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy A23 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 
 

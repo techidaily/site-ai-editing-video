@@ -1,7 +1,7 @@
 ---
 title: How to Color Grading in Final Cut Pro
-date: 2024-04-24T07:07:52.403Z
-updated: 2024-04-25T07:07:52.403Z
+date: 2024-05-20T03:37:21.835Z
+updated: 2024-05-21T03:37:21.835Z
 tags: 
   - ai
   - animation videos
@@ -2089,5 +2089,6 @@ By following the steps mentioned in this article, you can now change the speed o
 <li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone SE (2020) | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Identify malfunctioning your drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
 </ul></div>
+
 
 

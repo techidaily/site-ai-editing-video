@@ -1,7 +1,7 @@
 ---
 title: Updated Applying the Effect of Camera Shake in Video Creation
-date: 2024-04-24T07:08:08.005Z
-updated: 2024-04-25T07:08:08.005Z
+date: 2024-05-20T03:38:24.118Z
+updated: 2024-05-21T03:38:24.118Z
 tags: 
   - ai
   - animation videos
@@ -1772,5 +1772,6 @@ Proper timing and speed make videos more useful and spectacular. You can enable 
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-ai-background-generator/"><u>New 2024 Approved What Is AI Background Generator?</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Realme V30T | Dr.fone</u></a></li>
 </ul></div>
+
 
 

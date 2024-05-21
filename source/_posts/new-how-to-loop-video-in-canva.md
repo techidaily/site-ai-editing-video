@@ -1,7 +1,7 @@
 ---
 title: New How to Loop Video in Canva
-date: 2024-04-24T07:08:04.356Z
-updated: 2024-04-25T07:08:04.356Z
+date: 2024-05-20T03:38:09.539Z
+updated: 2024-05-21T03:38:09.539Z
 tags: 
   - ai
   - animation videos
@@ -2316,5 +2316,6 @@ This effect adds a glitch to the video clip. You can use it in editing or as a t
 <li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-100-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Honor 100 Pro</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/unlock-iphone-15-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 15 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
 </ul></div>
+
 
 

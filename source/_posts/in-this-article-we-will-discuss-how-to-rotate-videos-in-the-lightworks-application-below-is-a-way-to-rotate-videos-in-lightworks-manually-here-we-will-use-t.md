@@ -1,7 +1,7 @@
 ---
 title: In This Article, We Will Discuss How to Rotate Videos in the Lightworks Application. Below Is a Way to Rotate Videos in Lightworks Manually, Here, We Will Use the Z-Axis Rotation
-date: 2024-04-24T07:07:56.500Z
-updated: 2024-04-25T07:07:56.500Z
+date: 2024-05-20T03:37:35.587Z
+updated: 2024-05-21T03:37:35.587Z
 tags: 
   - ai
   - animation videos
@@ -1644,5 +1644,6 @@ Rotating a video in Shotcut or Wondershare Filmora is a simple process. Both vid
 <li><a href="https://activate-lock.techidaily.com/in-2024-iphone-8-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone 8 Plus iCloud Activation Lock Bypass</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-lava-blaze-pro-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Lava Blaze Pro 5G Phones</u></a></li>
 </ul></div>
+
 
 

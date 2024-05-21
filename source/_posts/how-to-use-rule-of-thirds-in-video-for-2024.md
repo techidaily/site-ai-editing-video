@@ -1,7 +1,7 @@
 ---
 title: How to Use Rule of Thirds in Video for 2024
-date: 2024-04-24T07:08:05.180Z
-updated: 2024-04-25T07:08:05.180Z
+date: 2024-05-20T03:38:13.126Z
+updated: 2024-05-21T03:38:13.126Z
 tags: 
   - ai
   - animation videos
@@ -1908,5 +1908,6 @@ Have you ever added a motion blur effect to your videos? If you are unaware of h
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-90-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor 90</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-magic-6-lite-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor Magic 6 Lite to iPhone 14 and 15 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

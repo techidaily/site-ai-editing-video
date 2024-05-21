@@ -1,7 +1,7 @@
 ---
 title: How to DIY VHS Overlay in After Effects, In 2024
-date: 2024-04-24T07:08:04.203Z
-updated: 2024-04-25T07:08:04.203Z
+date: 2024-05-20T03:38:08.311Z
+updated: 2024-05-21T03:38:08.311Z
 tags: 
   - ai
   - animation videos
@@ -2165,5 +2165,6 @@ Wondershare Filmora is also packed with other powerful new features. This includ
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-pro-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 Pro After Forgetting the Passcode? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-t2-pro-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo T2 Pro 5G Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+
 
 

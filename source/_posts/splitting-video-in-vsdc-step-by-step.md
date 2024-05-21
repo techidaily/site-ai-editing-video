@@ -1,7 +1,7 @@
 ---
 title: Splitting Video in VSDC Step by Step
-date: 2024-04-24T07:07:52.823Z
-updated: 2024-04-25T07:07:52.823Z
+date: 2024-05-20T03:37:24.329Z
+updated: 2024-05-21T03:37:24.329Z
 tags: 
   - ai
   - animation videos
@@ -1966,5 +1966,6 @@ Yes, you can import custom hand shake effects to your licensed version of Final 
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-realme-11-proplus-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Realme 11 Pro+</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 15 Pro to ZTE Phones | Dr.fone</u></a></li>
 </ul></div>
+
 
 

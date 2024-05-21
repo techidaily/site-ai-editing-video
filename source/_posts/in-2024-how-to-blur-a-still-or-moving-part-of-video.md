@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Blur a Still or Moving Part of Video
-date: 2024-04-24T07:08:03.479Z
-updated: 2024-04-25T07:08:03.479Z
+date: 2024-05-20T03:38:05.858Z
+updated: 2024-05-21T03:38:05.858Z
 tags: 
   - ai
   - animation videos
@@ -1637,5 +1637,6 @@ The **TikTok face zoom** effect can be quite impressive if used perfectly. Howev
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-13-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 13 5G Users</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Honor 90 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

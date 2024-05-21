@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Make Glitch Effect with Filmora
-date: 2024-04-24T07:07:53.647Z
-updated: 2024-04-25T07:07:53.647Z
+date: 2024-05-20T03:37:26.883Z
+updated: 2024-05-21T03:37:26.883Z
 tags: 
   - ai
   - animation videos
@@ -2039,5 +2039,6 @@ If you find this article informative, remember to share it with your friends. Wh
 <li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-xs-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone XS After Forgetting my PIN Code? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Nokia C110 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

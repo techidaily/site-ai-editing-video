@@ -1,7 +1,7 @@
 ---
 title: How to Loop a Video in PowerPoint
-date: 2024-04-24T07:07:54.132Z
-updated: 2024-04-25T07:07:54.132Z
+date: 2024-05-20T03:37:28.381Z
+updated: 2024-05-21T03:37:28.381Z
 tags: 
   - ai
   - animation videos
@@ -1148,5 +1148,6 @@ For macOS 10.12 or later
 <li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-note-30-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Note 30 5G Fingerprint Lock</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-s18e-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo S18e Quickly | Dr.fone</u></a></li>
 </ul></div>
+
 
 

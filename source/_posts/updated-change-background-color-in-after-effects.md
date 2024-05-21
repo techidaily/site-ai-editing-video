@@ -1,7 +1,7 @@
 ---
 title: Updated Change Background Color in After Effects
-date: 2024-04-24T07:08:02.461Z
-updated: 2024-04-25T07:08:02.461Z
+date: 2024-05-20T03:37:58.915Z
+updated: 2024-05-21T03:37:58.915Z
 tags: 
   - ai
   - animation videos
@@ -2058,5 +2058,6 @@ However, as you start to record video podcasts, we advise you to invest in the r
 <li><a href="https://howto.techidaily.com/calls-on-asus-rog-phone-8-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Asus ROG Phone 8 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>Full Guide to Bypass Sony Xperia 5 V FRP</u></a></li>
 </ul></div>
+
 
 

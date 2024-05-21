@@ -1,7 +1,7 @@
 ---
 title: New How to Add Motion Blur in After Effects
-date: 2024-04-24T07:07:59.689Z
-updated: 2024-04-25T07:07:59.689Z
+date: 2024-05-20T03:37:48.217Z
+updated: 2024-05-21T03:37:48.217Z
 tags: 
   - ai
   - animation videos
@@ -1489,5 +1489,6 @@ Social media platforms are great for gaining recognition and promoting your bran
 <li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Plus Without Data Loss? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-nokia-c12-plus-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nokia C12 Plus Black and White | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Create Motion Effect with Path Blur In Photoshop
-date: 2024-04-24T07:08:08.887Z
-updated: 2024-04-25T07:08:08.887Z
+date: 2024-05-20T03:38:27.904Z
+updated: 2024-05-21T03:38:27.904Z
 tags: 
   - ai
   - animation videos
@@ -2594,5 +2594,6 @@ Due to widespread digitalization, there is a high demand for video editing skill
 <li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Realme 12 5G | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Lava Blaze 2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

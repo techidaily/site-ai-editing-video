@@ -1198,3 +1198,4 @@ We hope this article can help you learn how to split videos with Final Cut Pro, 
 </ul></div>
 
 
+

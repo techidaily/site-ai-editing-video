@@ -1,7 +1,7 @@
 ---
 title: New Learn Color Correction in After Effects with These Videos
-date: 2024-04-24T07:08:05.407Z
-updated: 2024-04-25T07:08:05.407Z
+date: 2024-05-20T03:38:14.068Z
+updated: 2024-05-21T03:38:14.068Z
 tags: 
   - ai
   - animation videos
@@ -1168,5 +1168,6 @@ For macOS 10.12 or later
 <li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-infinix-hot-40-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Infinix Hot 40?</u></a></li>
 <li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo S18 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

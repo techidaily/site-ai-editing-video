@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Unlink Audio and Video in DaVinci Resolve Detailed Steps
-date: 2024-04-24T07:08:07.711Z
-updated: 2024-04-25T07:08:07.711Z
+date: 2024-05-20T03:38:21.783Z
+updated: 2024-05-21T03:38:21.783Z
 tags: 
   - ai
   - animation videos
@@ -1349,5 +1349,6 @@ Mirroring a video can add an interesting and unique visual effect to your videos
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-iphone-14-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From iPhone 14 without Password?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola G54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Learn How to Use Face Tracking in After Effects to Quickly Mask Out Faces, Animate Objects on Faces, and More
-date: 2024-04-24T07:07:56.675Z
-updated: 2024-04-25T07:07:56.675Z
+date: 2024-05-20T03:37:35.776Z
+updated: 2024-05-21T03:37:35.776Z
 tags: 
   - ai
   - animation videos
@@ -1985,5 +1985,6 @@ Like other GIF creator tools mentioned earlier, this is also a free, Mac support
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme Note 50? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-honor-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Honor .</u></a></li>
 </ul></div>
+
 
 

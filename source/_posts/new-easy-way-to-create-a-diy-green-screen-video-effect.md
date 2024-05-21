@@ -1,7 +1,7 @@
 ---
 title: New Easy Way to Create a DIY Green Screen Video Effect
-date: 2024-04-24T07:08:09.397Z
-updated: 2024-04-25T07:08:09.397Z
+date: 2024-05-20T03:38:29.841Z
+updated: 2024-05-21T03:38:29.841Z
 tags: 
   - ai
   - animation videos
@@ -1670,5 +1670,6 @@ For macOS 10.12 or later
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-lava-blaze-curve-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Lava Blaze Curve 5G to iPad | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100a-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100A | Dr.fone</u></a></li>
 </ul></div>
+
 
 

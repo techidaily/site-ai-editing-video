@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Basic Introduction for LumaFusion Color Grading
-date: 2024-04-24T07:08:01.277Z
-updated: 2024-04-25T07:08:01.277Z
+date: 2024-05-20T03:37:56.375Z
+updated: 2024-05-21T03:37:56.375Z
 tags: 
   - ai
   - animation videos
@@ -1146,5 +1146,6 @@ Hopefully, you've found this article helpful and can now make engaging videos wi
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-honor-x50-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Honor X50 to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Sony Xperia 5 V | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Create Motion Effect with Path Blur In Photoshop for 2024
-date: 2024-04-24T07:08:08.888Z
-updated: 2024-04-25T07:08:08.888Z
+date: 2024-05-20T03:38:27.910Z
+updated: 2024-05-21T03:38:27.910Z
 tags: 
   - ai
   - animation videos
@@ -1872,5 +1872,6 @@ For macOS 10.12 or later
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-itel-s23-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Itel S23</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-12-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 12 Pro Max i Do? Get Answers here</u></a></li>
 </ul></div>
+
 
 

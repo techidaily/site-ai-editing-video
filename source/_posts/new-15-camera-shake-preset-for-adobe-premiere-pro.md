@@ -1,7 +1,7 @@
 ---
 title: New 15 Camera Shake Preset for Adobe Premiere Pro
-date: 2024-04-24T07:07:57.965Z
-updated: 2024-04-25T07:07:57.965Z
+date: 2024-05-20T03:37:40.331Z
+updated: 2024-05-21T03:37:40.331Z
 tags: 
   - ai
   - animation videos
@@ -1481,5 +1481,6 @@ Importing images, audio, and video for your movie is straightforward using iMovi
 <li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Honor 70 Lite 5G | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Splitting Audio From Video in Sony Vegas Step by Step for 2024
-date: 2024-04-24T07:08:06.423Z
-updated: 2024-04-25T07:08:06.423Z
+date: 2024-05-20T03:38:17.578Z
+updated: 2024-05-21T03:38:17.578Z
 tags: 
   - ai
   - animation videos
@@ -713,5 +713,6 @@ For Business owners, they will get great benefits when they use influencer to pr
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-note-50-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Note 50</u></a></li>
 <li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-a2plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi A2+ Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 
 

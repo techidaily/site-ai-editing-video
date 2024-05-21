@@ -1,7 +1,7 @@
 ---
 title: New How To Make Ninja Jump Effect
-date: 2024-04-24T07:08:04.746Z
-updated: 2024-04-25T07:08:04.746Z
+date: 2024-05-20T03:38:11.183Z
+updated: 2024-05-21T03:38:11.183Z
 tags: 
   - ai
   - animation videos
@@ -1038,5 +1038,6 @@ By following the steps mentioned in the article above, you can easily create You
 <li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-motorola-moto-g-5g-2023-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Motorola Moto G 5G (2023) Data? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-nokia-c32-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Nokia C32? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: How to Speed Up and Slow Down a Video
-date: 2024-04-24T07:07:52.555Z
-updated: 2024-04-25T07:07:52.555Z
+date: 2024-05-20T03:37:22.982Z
+updated: 2024-05-21T03:37:22.982Z
 tags: 
   - ai
   - animation videos
@@ -1175,5 +1175,6 @@ Hopefully, you found this article helpful in resolving your queries, and you can
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X Without Passcode? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

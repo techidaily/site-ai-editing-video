@@ -1,7 +1,7 @@
 ---
 title: Step by Step to Crop a Video Using Lightworks
-date: 2024-04-24T07:07:54.758Z
-updated: 2024-04-25T07:07:54.758Z
+date: 2024-05-20T03:37:30.423Z
+updated: 2024-05-21T03:37:30.423Z
 tags: 
   - ai
   - animation videos
@@ -2447,5 +2447,6 @@ Now we can watch our video to see our glitch with the motion blur effect. Isn't 
 <li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g73-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G73 5G</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Honor 100 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: How to Create the Stranger Things Upside Down Effect for 2024
-date: 2024-04-24T07:08:11.287Z
-updated: 2024-04-25T07:08:11.287Z
+date: 2024-05-20T03:38:35.141Z
+updated: 2024-05-21T03:38:35.141Z
 tags: 
   - ai
   - animation videos
@@ -1404,5 +1404,6 @@ Enjoy new and creative ideas with your family and friends and make your video tr
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-nokia-c02-phone-by-drfone-android/"><u>How to Reset a Locked Nokia C02 Phone</u></a></li>
 <li><a href="https://techidaily.com/how-to-hard-reset-motorola-moto-g14-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Moto G14 Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 
 

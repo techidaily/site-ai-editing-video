@@ -1,7 +1,7 @@
 ---
 title: New Finding LUTs Made by Danny Gevirtz
-date: 2024-04-24T07:08:09.636Z
-updated: 2024-04-25T07:08:09.636Z
+date: 2024-05-20T03:38:30.772Z
+updated: 2024-05-21T03:38:30.772Z
 tags: 
   - ai
   - animation videos
@@ -3207,5 +3207,6 @@ FlexClip makes video creation and editing easy with-it millions of royalty-free 
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-k11-5g-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from K11 5G.</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

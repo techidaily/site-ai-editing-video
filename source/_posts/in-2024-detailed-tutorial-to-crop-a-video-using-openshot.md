@@ -1,7 +1,7 @@
 ---
 title: In 2024, Detailed Tutorial to Crop a Video Using Openshot?
-date: 2024-04-24T07:08:09.163Z
-updated: 2024-04-25T07:08:09.163Z
+date: 2024-05-20T03:38:28.854Z
+updated: 2024-05-21T03:38:28.854Z
 tags: 
   - ai
   - animation videos
@@ -1517,5 +1517,6 @@ Thus, this article has given sufficient insights on the photo video maker with s
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-redmi-a2-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Redmi A2</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-note-13-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi Note 13 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

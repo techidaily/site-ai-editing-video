@@ -1,7 +1,7 @@
 ---
 title: New Guide to Add Transition Effects in Premiere Pro
-date: 2024-04-24T07:08:03.002Z
-updated: 2024-04-25T07:08:03.002Z
+date: 2024-05-20T03:38:03.684Z
+updated: 2024-05-21T03:38:03.684Z
 tags: 
   - ai
   - animation videos
@@ -676,5 +676,6 @@ Reset the crop settings of the first footage and select the right and left param
 <li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo S18? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Samsung Galaxy A24? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

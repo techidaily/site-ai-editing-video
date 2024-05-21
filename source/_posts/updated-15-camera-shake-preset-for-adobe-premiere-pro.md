@@ -1,7 +1,7 @@
 ---
 title: Updated 15 Camera Shake Preset for Adobe Premiere Pro
-date: 2024-04-24T07:07:57.966Z
-updated: 2024-04-25T07:07:57.966Z
+date: 2024-05-20T03:37:40.752Z
+updated: 2024-05-21T03:37:40.752Z
 tags: 
   - ai
   - animation videos
@@ -1437,5 +1437,6 @@ To wrap up, let’s say that **Sky Photoshop** sets the right tone for your medi
 <li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Motorola G24 Power | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-gionee-f3-pro-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Gionee F3 Pro</u></a></li>
 </ul></div>
+
 
 

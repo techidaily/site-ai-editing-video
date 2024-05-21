@@ -1,7 +1,7 @@
 ---
 title: Little Tricks to Create Canva Slideshow No One Is Telling You
-date: 2024-04-24T07:07:52.645Z
-updated: 2024-04-25T07:07:52.645Z
+date: 2024-05-20T03:37:23.646Z
+updated: 2024-05-21T03:37:23.646Z
 tags: 
   - ai
   - animation videos
@@ -2459,5 +2459,6 @@ Ultimately, the slow-motion filter is one of the options in Snapchat to make att
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y28-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y28 5G FRP Bypass Everything You Need to Know</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Tecno Camon 20 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

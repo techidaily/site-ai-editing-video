@@ -1,7 +1,7 @@
 ---
 title: Updated Motion Blur Photo With GIMP Step-By-Step Guide
-date: 2024-04-24T07:08:05.823Z
-updated: 2024-04-25T07:08:05.823Z
+date: 2024-05-20T03:38:16.160Z
+updated: 2024-05-21T03:38:16.160Z
 tags: 
   - ai
   - animation videos
@@ -628,5 +628,6 @@ There are several fantastic camera effects that you can experiment with in your 
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

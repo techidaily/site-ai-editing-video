@@ -1,7 +1,7 @@
 ---
 title: Steps to Create Green Screen Videos in After Effects
-date: 2024-04-24T07:07:54.765Z
-updated: 2024-04-25T07:07:54.765Z
+date: 2024-05-20T03:37:30.449Z
+updated: 2024-05-21T03:37:30.449Z
 tags: 
   - ai
   - animation videos
@@ -1436,5 +1436,6 @@ If you routinely use Google Meet or Zoom, it can be a good idea to record your c
 <li><a href="https://ai-voice-clone.techidaily.com/new-best-celebrity-voice-generator-tools-to-transform-your-voice-for-2024/"><u>New Best Celebrity Voice Generator Tools to Transform Your Voice for 2024</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-iphone-xr-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and iPhone XR iCloud Activation Lock Bypass</u></a></li>
 </ul></div>
+
 
 

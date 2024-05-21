@@ -1,7 +1,7 @@
 ---
 title: Updated Every Compositor Should Know The Tips of Color Match in After Effects
-date: 2024-04-24T07:08:09.523Z
-updated: 2024-04-25T07:08:09.523Z
+date: 2024-05-20T03:38:30.323Z
+updated: 2024-05-21T03:38:30.323Z
 tags: 
   - ai
   - animation videos
@@ -1755,5 +1755,6 @@ Filmora will enhance the appeal of your video by giving free background music. Y
 <li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy S23 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-8-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 8 Plus and iPad Securely | Dr.fone</u></a></li>
 </ul></div>
+
 
 

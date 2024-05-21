@@ -1,7 +1,7 @@
 ---
 title: How to Add Selective Color Effect to Your Videos
-date: 2024-04-24T07:07:52.067Z
-updated: 2024-04-25T07:07:52.067Z
+date: 2024-05-20T03:37:19.025Z
+updated: 2024-05-21T03:37:19.025Z
 tags: 
   - ai
   - animation videos
@@ -1467,5 +1467,6 @@ Beginning to experiment with all of Final Cut Pro X's functions and determining 
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-official-method-to-unlock-your-apple-iphone-15-plus-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Plus Official Method to Unlock Your Apple iPhone 15 Plus</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Tecno Spark 10 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

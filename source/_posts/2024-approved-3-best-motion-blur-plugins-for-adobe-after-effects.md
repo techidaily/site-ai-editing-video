@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved 3 Best Motion Blur Plugins for Adobe After Effects
-date: 2024-04-24T07:07:58.151Z
-updated: 2024-04-25T07:07:58.151Z
+date: 2024-05-20T03:37:41.338Z
+updated: 2024-05-21T03:37:41.338Z
 tags: 
   - ai
   - animation videos
@@ -872,5 +872,6 @@ Hopefully, you can now record your video streams and save them in high quality t
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 6s Plus | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-vivo-y78-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y78 5G Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

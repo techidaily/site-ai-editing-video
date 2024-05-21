@@ -1,7 +1,7 @@
 ---
 title: Detailed Tutorial to Crop a Video in KineMaster for 2024
-date: 2024-04-24T07:08:02.646Z
-updated: 2024-04-25T07:08:02.646Z
+date: 2024-05-20T03:38:00.969Z
+updated: 2024-05-21T03:38:00.969Z
 tags: 
   - ai
   - animation videos
@@ -2194,5 +2194,6 @@ HOW TO ROTATE AVI VIDEO ON WEVIDEO ONLINE
 <li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-video-maker-in-2024/"><u>New What Is an AI Video Maker, In 2024</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/forgot-iphone-13-mini-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 13 mini Backup Password? Heres What to Do</u></a></li>
 </ul></div>
+
 
 

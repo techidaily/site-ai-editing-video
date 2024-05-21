@@ -1,7 +1,7 @@
 ---
 title: New Everything You Need to Know About Color Grading in Photography
-date: 2024-04-24T07:08:02.826Z
-updated: 2024-04-25T07:08:02.826Z
+date: 2024-05-20T03:38:02.155Z
+updated: 2024-05-21T03:38:02.155Z
 tags: 
   - ai
   - animation videos
@@ -1882,5 +1882,6 @@ You can trim your video, add music, add effects, adjust speed, correct colors, a
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nubia-red-magic-8s-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nubia Red Magic 8S Pro to New Android? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-a1-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo A1 5G Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

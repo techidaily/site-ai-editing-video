@@ -1,7 +1,7 @@
 ---
 title: Little Tricks to Create Canva Slideshow No One Is Telling You for 2024
-date: 2024-04-24T07:08:05.514Z
-updated: 2024-04-25T07:08:05.514Z
+date: 2024-05-20T03:38:14.757Z
+updated: 2024-05-21T03:38:14.757Z
 tags: 
   - ai
   - animation videos
@@ -1213,5 +1213,6 @@ To conclude, Filmora provides a number of ways for you to rotate your videos as 
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-how-to-perform-a-successful-streaming-on-twitch/"><u>Updated 2024 Approved How To Perform a Successful Streaming on Twitch</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 
 

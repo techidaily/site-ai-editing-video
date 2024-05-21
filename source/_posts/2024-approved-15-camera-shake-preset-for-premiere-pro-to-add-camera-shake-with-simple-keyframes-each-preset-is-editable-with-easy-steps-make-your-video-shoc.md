@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved 15 Camera Shake Preset for Premiere Pro to Add Camera Shake with Simple Keyframes. Each Preset Is Editable with Easy Steps. Make Your Video Shocking and Impressive with These Camera Shake Effects
-date: 2024-04-24T07:07:57.967Z
-updated: 2024-04-25T07:07:57.967Z
+date: 2024-05-20T03:37:40.767Z
+updated: 2024-05-21T03:37:40.767Z
 tags: 
   - ai
   - animation videos
@@ -1579,5 +1579,6 @@ And for those willing to invest a little, Filmora stands as a robust alternative
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/2024-approved-how-to-create-benime-whiteboard-animation-in-android/"><u>2024 Approved How to Create Benime Whiteboard Animation in Android</u></a></li>
 </ul></div>
+
 
 

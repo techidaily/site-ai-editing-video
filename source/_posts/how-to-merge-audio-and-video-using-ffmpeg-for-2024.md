@@ -1,7 +1,7 @@
 ---
 title: How to Merge Audio and Video Using FFmpeg for 2024
-date: 2024-04-24T07:08:04.816Z
-updated: 2024-04-25T07:08:04.816Z
+date: 2024-05-20T03:38:11.426Z
+updated: 2024-05-21T03:38:11.426Z
 tags: 
   - ai
   - animation videos
@@ -1557,5 +1557,6 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 6 Plus? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y100i-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo Y100i Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
+
 
 

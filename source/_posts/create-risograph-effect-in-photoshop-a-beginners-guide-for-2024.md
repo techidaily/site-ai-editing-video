@@ -1,7 +1,7 @@
 ---
 title: Create Risograph Effect In Photoshop A Beginners Guide for 2024
-date: 2024-04-24T07:08:08.903Z
-updated: 2024-04-25T07:08:08.903Z
+date: 2024-05-20T03:38:27.957Z
+updated: 2024-05-21T03:38:27.957Z
 tags: 
   - ai
   - animation videos
@@ -1514,5 +1514,6 @@ For macOS 10.12 or later
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-note-30-vip-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Note 30 VIP Devices</u></a></li>
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Poco X6 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

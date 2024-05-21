@@ -1,7 +1,7 @@
 ---
 title: How to Loop a Video in Canva Editor
-date: 2024-04-24T07:07:54.131Z
-updated: 2024-04-25T07:07:54.131Z
+date: 2024-05-20T03:37:28.378Z
+updated: 2024-05-21T03:37:28.378Z
 tags: 
   - ai
   - animation videos
@@ -1027,5 +1027,6 @@ You can also try [Filmora video editor](https://tools.techidaily.com/wondershare
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40plus-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Itel P40+ Phone Without Password?</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-demystifying-ai-game-generators-wondershare-virbo-glossary/"><u>New Demystifying AI Game Generators | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
+
 
 

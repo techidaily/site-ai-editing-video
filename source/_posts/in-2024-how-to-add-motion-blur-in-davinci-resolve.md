@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Add Motion Blur In Davinci Resolve?
-date: 2024-04-24T07:08:10.306Z
-updated: 2024-04-25T07:08:10.306Z
+date: 2024-05-20T03:38:32.580Z
+updated: 2024-05-21T03:38:32.580Z
 tags: 
   - ai
   - animation videos
@@ -2100,5 +2100,6 @@ Overall, multiple online converter tools are available for downloading different
 <li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-oppo-find-x7-ultra-by-drfone-android/"><u>Full Guide to Unlock Your Oppo Find X7 Ultra</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-10-top-memorable-japanese-cat-cartoons/"><u>New In 2024, 10 Top Memorable Japanese Cat Cartoons</u></a></li>
 </ul></div>
+
 
 

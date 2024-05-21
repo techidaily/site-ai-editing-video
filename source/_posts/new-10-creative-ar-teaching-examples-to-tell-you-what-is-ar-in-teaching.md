@@ -1,7 +1,7 @@
 ---
 title: New 10 Creative AR Teaching Examples to Tell You What Is AR in Teaching
-date: 2024-04-24T07:07:57.768Z
-updated: 2024-04-25T07:07:57.768Z
+date: 2024-05-20T03:37:39.178Z
+updated: 2024-05-21T03:37:39.178Z
 tags: 
   - ai
   - animation videos
@@ -2103,5 +2103,6 @@ On the whole, keyframing is all about creativity at your fingertips. When detail
 <li><a href="https://ios-pokemon-go.techidaily.com/heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo V29? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

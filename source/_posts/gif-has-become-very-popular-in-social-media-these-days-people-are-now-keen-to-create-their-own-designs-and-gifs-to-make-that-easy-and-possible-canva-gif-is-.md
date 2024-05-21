@@ -1,7 +1,7 @@
 ---
 title: GIF Has Become Very Popular in Social Media These Days. People Are Now Keen to Create Their Own Designs and GIFs. To Make that Easy and Possible, Canva GIF Is Now Available. Any Non-Technical Person Can Also Create Outstanding Designs Using GIF in Canva
-date: 2024-04-24T07:07:56.074Z
-updated: 2024-04-25T07:07:56.074Z
+date: 2024-05-20T03:37:34.337Z
+updated: 2024-05-21T03:37:34.337Z
 tags: 
   - ai
   - animation videos
@@ -1878,5 +1878,6 @@ Overall, I hope you learn more about applying effects to video editing. I hope t
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a56s-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A56s 5G To Phone | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi A2+? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

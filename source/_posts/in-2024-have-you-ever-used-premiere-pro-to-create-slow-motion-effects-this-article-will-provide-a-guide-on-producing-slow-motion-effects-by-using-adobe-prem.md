@@ -1386,3 +1386,4 @@ It has an adaptive scene change, and no matter in which device you use Filmora t
 </ul></div>
 
 
+

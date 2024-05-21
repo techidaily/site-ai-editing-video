@@ -1,7 +1,7 @@
 ---
 title: A Complete Guide to Use Distortion Effect in Premiere Pro
-date: 2024-04-24T07:07:51.987Z
-updated: 2024-04-25T07:07:51.987Z
+date: 2024-05-20T03:37:18.588Z
+updated: 2024-05-21T03:37:18.589Z
 tags: 
   - ai
   - animation videos
@@ -4513,5 +4513,6 @@ By following the steps mentioned in this article, you can now change the speed o
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo S17e | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Step by Step to Cut Videos in Lightworks
-date: 2024-04-24T07:08:06.552Z
-updated: 2024-04-25T07:08:06.552Z
+date: 2024-05-20T03:38:18.007Z
+updated: 2024-05-21T03:38:18.007Z
 tags: 
   - ai
   - animation videos
@@ -2444,5 +2444,6 @@ The various pros and cons are
 <li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-12-pro-max-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 12 Pro Max Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone X? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

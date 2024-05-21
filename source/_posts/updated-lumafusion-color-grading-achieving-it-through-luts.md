@@ -1,7 +1,7 @@
 ---
 title: Updated LumaFusion Color Grading Achieving It Through LUTs
-date: 2024-04-24T07:08:05.596Z
-updated: 2024-04-25T07:08:05.596Z
+date: 2024-05-20T03:38:15.212Z
+updated: 2024-05-21T03:38:15.212Z
 tags: 
   - ai
   - animation videos
@@ -1107,5 +1107,6 @@ There are some videos where you may have to speed up certain parts. In detail, w
 <li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Civi 3 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-spark-20-proplus-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Spark 20 Pro+ to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

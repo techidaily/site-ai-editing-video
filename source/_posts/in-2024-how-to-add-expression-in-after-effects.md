@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Add Expression in After Effects
-date: 2024-04-24T07:07:59.566Z
-updated: 2024-04-25T07:07:59.566Z
+date: 2024-05-20T03:37:47.460Z
+updated: 2024-05-21T03:37:47.460Z
 tags: 
   - ai
   - animation videos
@@ -716,5 +716,6 @@ Subtitled videos are more likely to be used than videos without subtitles. So as
 <li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oneplus-open-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On OnePlus Open? Fixed | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y200-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y200</u></a></li>
 </ul></div>
+
 
 

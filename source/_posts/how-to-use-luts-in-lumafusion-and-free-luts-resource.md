@@ -1,7 +1,7 @@
 ---
 title: How to Use LUTs in Lumafusion & Free LUTs Resource
-date: 2024-04-24T07:07:52.614Z
-updated: 2024-04-25T07:07:52.614Z
+date: 2024-05-20T03:37:23.154Z
+updated: 2024-05-21T03:37:23.154Z
 tags: 
   - ai
   - animation videos
@@ -945,5 +945,6 @@ Adobe Premiere Pro's interface is designed to make tasks like these intuitive, s
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-7-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 7 Could Not Be Activated/Reached Issue</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-v27-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo V27 Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Best 8 Augmented Reality Video Games
-date: 2024-04-24T07:07:53.358Z
-updated: 2024-04-25T07:07:53.358Z
+date: 2024-05-20T03:37:25.885Z
+updated: 2024-05-21T03:37:25.885Z
 tags: 
   - ai
   - animation videos
@@ -1403,5 +1403,6 @@ Many beginners are unaware of the term called adjustment layer in video editing.
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Motorola Edge 2023? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

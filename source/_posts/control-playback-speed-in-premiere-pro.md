@@ -1,7 +1,7 @@
 ---
 title: Control Playback Speed in Premiere Pro
-date: 2024-04-24T07:07:52.157Z
-updated: 2024-04-25T07:07:52.157Z
+date: 2024-05-20T03:37:20.122Z
+updated: 2024-05-21T03:37:20.122Z
 tags: 
   - ai
   - animation videos
@@ -2347,5 +2347,6 @@ The **TikTok face zoom** effect can be quite impressive if used perfectly. Howev
 <li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-6-plus-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 6 Plus i Do? Get Answers here</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-tecno-spark-10-4g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Tecno Spark 10 4G</u></a></li>
 </ul></div>
+
 
 

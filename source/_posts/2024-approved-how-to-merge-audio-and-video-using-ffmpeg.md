@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Merge Audio and Video Using FFmpeg
-date: 2024-04-24T07:08:04.817Z
-updated: 2024-04-25T07:08:04.817Z
+date: 2024-05-20T03:38:11.429Z
+updated: 2024-05-21T03:38:11.429Z
 tags: 
   - ai
   - animation videos
@@ -2033,5 +2033,6 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-do-i-reset-my-realme-12-proplus-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme 12 Pro+ 5G Phone without technical knowledge? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-12-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi 12 5G Running Slow and Freezing | Dr.fone</u></a></li>
 </ul></div>
+
 
 

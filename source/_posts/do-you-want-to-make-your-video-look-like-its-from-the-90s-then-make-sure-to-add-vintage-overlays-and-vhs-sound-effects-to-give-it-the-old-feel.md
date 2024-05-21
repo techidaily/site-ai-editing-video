@@ -1,7 +1,7 @@
 ---
 title: Do You Want to Make Your Video Look Like Its From the 90S? Then, Make Sure to Add Vintage Overlays and VHS Sound Effects to Give It the Old Feel
-date: 2024-04-24T07:07:55.876Z
-updated: 2024-04-25T07:07:55.876Z
+date: 2024-05-20T03:37:33.676Z
+updated: 2024-05-21T03:37:33.676Z
 tags: 
   - ai
   - animation videos
@@ -1975,5 +1975,6 @@ So you’ve got this beautiful video you want to post on your social media page 
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y36i-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y36i Location by Number | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-update-iphone-13-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 13 Pro without Data Loss? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

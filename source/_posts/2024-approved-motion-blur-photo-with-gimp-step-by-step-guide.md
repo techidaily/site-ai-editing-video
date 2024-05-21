@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Motion Blur Photo With GIMP Step-By-Step Guide
-date: 2024-04-24T07:08:05.819Z
-updated: 2024-04-25T07:08:05.819Z
+date: 2024-05-20T03:38:16.131Z
+updated: 2024-05-21T03:38:16.131Z
 tags: 
   - ai
   - animation videos
@@ -839,5 +839,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-v27-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo V27 Pro Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo Reno 8T | Dr.fone</u></a></li>
 </ul></div>
+
 
 

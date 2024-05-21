@@ -1,7 +1,7 @@
 ---
 title: New How to Add Zoom Blur Effect In Photoshop
-date: 2024-04-24T07:08:03.454Z
-updated: 2024-04-25T07:08:03.454Z
+date: 2024-05-20T03:38:05.777Z
+updated: 2024-05-21T03:38:05.777Z
 tags: 
   - ai
   - animation videos
@@ -911,5 +911,6 @@ To add more LUTs on video, you can try [Wondershare Filmora](https://tools.techi
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-v30-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme V30</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-motorola-g54-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Motorola G54 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Detailed Tutorial to Crop Video in KineMaster
-date: 2024-04-24T07:08:09.172Z
-updated: 2024-04-25T07:08:09.172Z
+date: 2024-05-20T03:38:28.902Z
+updated: 2024-05-21T03:38:28.902Z
 tags: 
   - ai
   - animation videos
@@ -1236,5 +1236,6 @@ So you’ve got this beautiful video you want to post on your social media page 
 <li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-easily-use-korean-to-english-video-translators/"><u>New In 2024, How To Easily Use Korean to English Video Translators</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-xs-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone XS for Free</u></a></li>
 </ul></div>
+
 
 

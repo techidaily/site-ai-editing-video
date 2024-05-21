@@ -1,7 +1,7 @@
 ---
 title: New How to Make Glitch Effect with Filmora
-date: 2024-04-24T07:08:04.698Z
-updated: 2024-04-25T07:08:04.698Z
+date: 2024-05-20T03:38:11.131Z
+updated: 2024-05-21T03:38:11.132Z
 tags: 
   - ai
   - animation videos
@@ -1001,5 +1001,6 @@ Adding font effects on video is a common practice especially when you have intro
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Nokia C12 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

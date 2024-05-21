@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How Can You DIY VHS Overlay in After Effects?
-date: 2024-04-24T07:08:10.108Z
-updated: 2024-04-25T07:08:10.108Z
+date: 2024-05-20T03:38:32.191Z
+updated: 2024-05-21T03:38:32.191Z
 tags: 
   - ai
   - animation videos
@@ -1186,5 +1186,6 @@ Creating the Subscribe channel graphics is like picking stars from the sky for a
 <li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y27-4g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y27 4G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

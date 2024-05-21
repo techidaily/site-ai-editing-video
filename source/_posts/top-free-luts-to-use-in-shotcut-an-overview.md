@@ -1,7 +1,7 @@
 ---
 title: Top Free LUTs To Use in Shotcut An Overview
-date: 2024-04-24T07:07:53.073Z
-updated: 2024-04-25T07:07:53.073Z
+date: 2024-05-20T03:37:25.198Z
+updated: 2024-05-21T03:37:25.198Z
 tags: 
   - ai
   - animation videos
@@ -899,5 +899,6 @@ Exploration of the transition effects with the filters allows motion elements in
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor X50 GT | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-google-pixel-8-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Google Pixel 8 Phone | Dr.fone</u></a></li>
 </ul></div>
+
 
 

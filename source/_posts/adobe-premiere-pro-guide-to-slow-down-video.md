@@ -1,7 +1,7 @@
 ---
 title: Adobe Premiere Pro Guide to Slow-Down Video
-date: 2024-04-24T07:07:52.107Z
-updated: 2024-04-25T07:07:52.107Z
+date: 2024-05-20T03:37:19.434Z
+updated: 2024-05-21T03:37:19.434Z
 tags: 
   - ai
   - animation videos
@@ -1128,5 +1128,6 @@ LUTs are pre-defined color gradients that work in an instant way. Meanwhile, the
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-v29e-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo V29e for Free? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-smart-8-hd-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Smart 8 HD Fingerprint Lock</u></a></li>
 </ul></div>
+
 
 

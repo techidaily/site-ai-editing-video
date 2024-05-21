@@ -1,7 +1,7 @@
 ---
 title: Have You Ever Applied the Gaussian Blur Effect to Your Videos? Read This Article to Find a Reliable and Convenient Tool to Generate the Gaussian Blur Effect
-date: 2024-04-24T07:07:56.159Z
-updated: 2024-04-25T07:07:56.159Z
+date: 2024-05-20T03:37:34.446Z
+updated: 2024-05-21T03:37:34.446Z
 tags: 
   - ai
   - animation videos
@@ -1235,5 +1235,6 @@ Covering everything from what a TikTok loop is to how to make one, we've compile
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-poco-m6-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Poco M6 5G to iPhone | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 11 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

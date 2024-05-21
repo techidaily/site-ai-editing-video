@@ -1,7 +1,7 @@
 ---
 title: New Steps to Add Subtitles in Canva
-date: 2024-04-24T07:07:59.868Z
-updated: 2024-04-25T07:07:59.868Z
+date: 2024-05-20T03:37:49.171Z
+updated: 2024-05-21T03:37:49.171Z
 tags: 
   - ai
   - animation videos
@@ -1622,5 +1622,6 @@ Enjoy new and creative ideas with your family and friends and make your video tr
 <li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-sony-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Sony FRP Locks</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-y36i-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo Y36i for Free? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

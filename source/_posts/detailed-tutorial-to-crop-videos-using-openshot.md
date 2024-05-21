@@ -1,7 +1,7 @@
 ---
 title: Detailed Tutorial to Crop Videos Using Openshot?
-date: 2024-04-24T07:07:52.283Z
-updated: 2024-04-25T07:07:52.283Z
+date: 2024-05-20T03:37:20.702Z
+updated: 2024-05-21T03:37:20.702Z
 tags: 
   - ai
   - animation videos
@@ -1262,5 +1262,6 @@ We then shared 5 incredible glitch effects that could be used in case you don’
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 Pro Phone with Broken Screen</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia 130 Music | Dr.fone</u></a></li>
 </ul></div>
+
 
 

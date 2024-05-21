@@ -1,7 +1,7 @@
 ---
 title: Best Free LUTs To Use in Shotcut
-date: 2024-04-24T07:07:53.375Z
-updated: 2024-04-25T07:07:53.375Z
+date: 2024-05-20T03:37:26.008Z
+updated: 2024-05-21T03:37:26.008Z
 tags: 
   - ai
   - animation videos
@@ -684,5 +684,6 @@ Now that you know what kind of DIY videos you want to create, be ready and be pr
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-13-pro-max-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone 13 Pro Max in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
 </ul></div>
+
 
 

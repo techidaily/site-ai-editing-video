@@ -1,7 +1,7 @@
 ---
 title: Updated 4 Ways to Add White Borders on Mobile and Desktop
-date: 2024-04-24T07:07:58.335Z
-updated: 2024-04-25T07:07:58.335Z
+date: 2024-05-20T03:37:42.896Z
+updated: 2024-05-21T03:37:42.896Z
 tags: 
   - ai
   - animation videos
@@ -1556,5 +1556,6 @@ With Filmora, you can always enhance your video within minutes with excellent qu
 <li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-12-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 12 mini Apple ID and Apple Pay</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone SE (2020)?</u></a></li>
 </ul></div>
+
 
 

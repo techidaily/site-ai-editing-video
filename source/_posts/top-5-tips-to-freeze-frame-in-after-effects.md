@@ -1,7 +1,7 @@
 ---
 title: Top 5 Tips to Freeze-Frame in After Effects
-date: 2024-04-24T07:07:53.052Z
-updated: 2024-04-25T07:07:53.052Z
+date: 2024-05-20T03:37:25.138Z
+updated: 2024-05-21T03:37:25.138Z
 tags: 
   - ai
   - animation videos
@@ -2471,5 +2471,6 @@ Lastly, you need to modify the degree to which the color settings of the other c
 <li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-se-2022-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone SE (2022) to Windows PC With Ease? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-redmi-a2plus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi Redmi A2+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+
 
 

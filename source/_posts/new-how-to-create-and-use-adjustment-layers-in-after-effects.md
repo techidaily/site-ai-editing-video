@@ -1,7 +1,7 @@
 ---
 title: New How to Create and Use Adjustment Layers in After Effects
-date: 2024-04-24T07:08:10.989Z
-updated: 2024-04-25T07:08:10.989Z
+date: 2024-05-20T03:38:34.375Z
+updated: 2024-05-21T03:38:34.375Z
 tags: 
   - ai
   - animation videos
@@ -1870,5 +1870,6 @@ If you are showing new strategies daily to your viewers, they will hook up with 
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo A58 4G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

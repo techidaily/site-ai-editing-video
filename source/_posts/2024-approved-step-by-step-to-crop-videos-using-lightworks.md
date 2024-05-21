@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Step by Step to Crop Videos Using Lightworks
-date: 2024-04-24T07:08:06.465Z
-updated: 2024-04-25T07:08:06.465Z
+date: 2024-05-20T03:38:17.868Z
+updated: 2024-05-21T03:38:17.868Z
 tags: 
   - ai
   - animation videos
@@ -1969,5 +1969,6 @@ To learn more about these tools, look at the information provided above. In case
 <li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-se-2020-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone SE (2020) Password? Learn the Best Methods To Unlock</u></a></li>
 <li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-15-pro-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 15 Pro</u></a></li>
 </ul></div>
+
 
 

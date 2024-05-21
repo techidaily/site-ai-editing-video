@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Art of Time Manipulation A Guide to After Effects Slow Motion Mastery
-date: 2024-04-24T07:08:08.010Z
-updated: 2024-04-25T07:08:08.010Z
+date: 2024-05-20T03:38:24.183Z
+updated: 2024-05-21T03:38:24.183Z
 tags: 
   - ai
   - animation videos
@@ -1149,5 +1149,6 @@ This article helped solve your queries. As a result, you can now create quality 
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-samsung-galaxy-a24-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Samsung Galaxy A24? Fix Now | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/new-in-2024-design-cartoon-images-with-the-best-tools/"><u>New In 2024, Design Cartoon Images With the Best Tools</u></a></li>
 </ul></div>
+
 
 

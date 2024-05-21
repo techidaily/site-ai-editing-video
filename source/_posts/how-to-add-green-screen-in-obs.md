@@ -1,7 +1,7 @@
 ---
 title: How to Add Green Screen in OBS
-date: 2024-04-24T07:07:53.816Z
-updated: 2024-04-25T07:07:53.816Z
+date: 2024-05-20T03:37:27.416Z
+updated: 2024-05-21T03:37:27.416Z
 tags: 
   - ai
   - animation videos
@@ -776,5 +776,6 @@ Vectorscopes are great for post-production color correction. Although lesser-kno
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Samsung Galaxy A34 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-note-12-pro-4g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi Note 12 Pro 4G Screen | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use Canva Color Match
-date: 2024-04-24T07:07:54.424Z
-updated: 2024-04-25T07:07:54.424Z
+date: 2024-05-20T03:37:29.379Z
+updated: 2024-05-21T03:37:29.379Z
 tags: 
   - ai
   - animation videos
@@ -1533,5 +1533,6 @@ After turning on your LUT, you can start recording videos and taking photos. The
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-samsung-galaxy-s23plus-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Samsung Galaxy S23+.</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo Y100 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Basic Introduction of LumaFusion Color Grading
-date: 2024-04-24T07:08:08.057Z
-updated: 2024-04-25T07:08:08.057Z
+date: 2024-05-20T03:38:24.519Z
+updated: 2024-05-21T03:38:24.519Z
 tags: 
   - ai
   - animation videos
@@ -1097,5 +1097,6 @@ Motion blur is crucial when animating characters to move. Your videos require so
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Nokia C12 Plus | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-find-x7-ultra-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo Find X7 Ultra Phone Using PC | Dr.fone</u></a></li>
 </ul></div>
+
 
 

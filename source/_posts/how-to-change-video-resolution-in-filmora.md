@@ -1,7 +1,7 @@
 ---
 title: How to Change Video Resolution in Filmora
-date: 2024-04-24T07:07:53.913Z
-updated: 2024-04-25T07:07:53.913Z
+date: 2024-05-20T03:37:27.674Z
+updated: 2024-05-21T03:37:27.674Z
 tags: 
   - ai
   - animation videos
@@ -2126,5 +2126,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-xr-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone XR without Password?</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo Y200 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

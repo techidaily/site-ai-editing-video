@@ -1,7 +1,7 @@
 ---
 title: How to Do Masking in After Effects Alternative Provided for 2024
-date: 2024-04-24T07:08:04.209Z
-updated: 2024-04-25T07:08:04.209Z
+date: 2024-05-20T03:38:08.395Z
+updated: 2024-05-21T03:38:08.395Z
 tags: 
   - ai
   - animation videos
@@ -681,5 +681,6 @@ You now know what YouTube live chat is and how to participate in it thanks to th
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-motorola-moto-g73-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Motorola Moto G73 5G online without jailbreak</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-zte-axon-40-lite-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset ZTE Axon 40 Lite phone? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

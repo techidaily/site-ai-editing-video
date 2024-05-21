@@ -1,7 +1,7 @@
 ---
 title: This Blog Post Will Walk You Through How to Resize Videos Using VLC. Well Cover What the Default Settings Are for Video Resolutions, How to Change Them, and Why Its Important to Know What Size of Video Youre Uploading Before Uploading It
-date: 2024-04-24T07:07:57.429Z
-updated: 2024-04-25T07:07:57.429Z
+date: 2024-05-20T03:37:37.118Z
+updated: 2024-05-21T03:37:37.118Z
 tags: 
   - ai
   - animation videos
@@ -1351,5 +1351,6 @@ Like other LUTs, Canon LUTs are also special and unique in their kind. They prov
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-x-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone X to iPad | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Itel P55 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

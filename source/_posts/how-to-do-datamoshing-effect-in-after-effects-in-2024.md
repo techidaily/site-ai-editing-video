@@ -1,7 +1,7 @@
 ---
 title: How to Do Datamoshing Effect in After Effects, In 2024
-date: 2024-04-24T07:08:11.475Z
-updated: 2024-04-25T07:08:11.475Z
+date: 2024-05-20T03:38:35.483Z
+updated: 2024-05-21T03:38:35.483Z
 tags: 
   - ai
   - animation videos
@@ -1792,5 +1792,6 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
 <li><a href="https://screen-mirror.techidaily.com/how-vivo-y78t-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y78t Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-v27-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo V27 Pro Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

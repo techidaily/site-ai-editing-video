@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Add Camera Shake to Video in Adobe After Effects
-date: 2024-04-24T07:08:03.178Z
-updated: 2024-04-25T07:08:03.178Z
+date: 2024-05-20T03:38:04.734Z
+updated: 2024-05-21T03:38:04.734Z
 tags: 
   - ai
   - animation videos
@@ -1805,5 +1805,6 @@ However, if you want a more compatible and easier-to-use tool to generate adjust
 <li><a href="https://fix-guide.techidaily.com/reasons-for-honor-magic-5-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic 5 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

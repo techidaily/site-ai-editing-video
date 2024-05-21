@@ -1,7 +1,7 @@
 ---
 title: How to Make Vintage Film Effect 1980S for 2024
-date: 2024-04-24T07:08:04.784Z
-updated: 2024-04-25T07:08:04.784Z
+date: 2024-05-20T03:38:11.374Z
+updated: 2024-05-21T03:38:11.374Z
 tags: 
   - ai
   - animation videos
@@ -1521,5 +1521,6 @@ You can also try more tools at home and share your ideas with others to get revi
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-gt-10-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Infinix GT 10 Pro Users</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-v27e-by-drfone-android/"><u>Full Guide to Unlock Your Vivo V27e</u></a></li>
 </ul></div>
+
 
 

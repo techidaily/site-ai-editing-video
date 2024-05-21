@@ -1,7 +1,7 @@
 ---
 title: Detailed Guide to Crop Videos in Sony Vegas Pro
-date: 2024-04-24T07:07:53.576Z
-updated: 2024-04-25T07:07:53.576Z
+date: 2024-05-20T03:37:26.599Z
+updated: 2024-05-21T03:37:26.599Z
 tags: 
   - ai
   - animation videos
@@ -1514,5 +1514,6 @@ If you find this article informative, remember to share it with your friends. Wh
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor X50i? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y56-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y56 5G</u></a></li>
 </ul></div>
+
 
 

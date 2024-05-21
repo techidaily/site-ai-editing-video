@@ -1,7 +1,7 @@
 ---
 title: New How to Create Motion Text Effects for Your Video?
-date: 2024-04-24T07:08:04.023Z
-updated: 2024-04-25T07:08:04.023Z
+date: 2024-05-20T03:38:07.473Z
+updated: 2024-05-21T03:38:07.473Z
 tags: 
   - ai
   - animation videos
@@ -742,5 +742,6 @@ Subconscious slow-motion. Overusing or misusing a function ruins its appeal. Fil
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Moto G34 5G | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-s23-fe-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy S23 FE Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

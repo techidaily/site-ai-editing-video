@@ -1,7 +1,7 @@
 ---
 title: In 2024, Guiding Principles of Track Matte and Tracking in Adobe After Effects
-date: 2024-04-24T07:08:10.004Z
-updated: 2024-04-25T07:08:10.004Z
+date: 2024-05-20T03:38:31.983Z
+updated: 2024-05-21T03:38:31.983Z
 tags: 
   - ai
   - animation videos
@@ -1282,5 +1282,6 @@ And lastly, the modern iconography-based design of Wondershare Filmora is a fact
 <li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y100t | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Poco C51 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

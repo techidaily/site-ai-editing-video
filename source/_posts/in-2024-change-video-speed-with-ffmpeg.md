@@ -1,7 +1,7 @@
 ---
 title: In 2024, Change Video Speed with FFmpeg
-date: 2024-04-24T07:08:08.708Z
-updated: 2024-04-25T07:08:08.708Z
+date: 2024-05-20T03:38:27.260Z
+updated: 2024-05-21T03:38:27.260Z
 tags: 
   - ai
   - animation videos
@@ -1796,5 +1796,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Lava Yuva 2? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/bricked-your-oppo-k11-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo K11 5G? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
+
 
 

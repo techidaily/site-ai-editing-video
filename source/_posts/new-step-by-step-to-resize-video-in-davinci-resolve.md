@@ -1,7 +1,7 @@
 ---
 title: New Step by Step to Resize Video in Davinci Resolve
-date: 2024-04-24T07:08:06.560Z
-updated: 2024-04-25T07:08:06.560Z
+date: 2024-05-20T03:38:18.072Z
+updated: 2024-05-21T03:38:18.072Z
 tags: 
   - ai
   - animation videos
@@ -1387,5 +1387,6 @@ this list, you can now create the best end screen for your video.
 <li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 15 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 
 

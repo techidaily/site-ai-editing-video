@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Add Some Shake to Videos with Alight Motion
-date: 2024-04-24T07:07:59.765Z
-updated: 2024-04-25T07:07:59.765Z
+date: 2024-05-20T03:37:48.622Z
+updated: 2024-05-21T03:37:48.622Z
 tags: 
   - ai
   - animation videos
@@ -1501,5 +1501,6 @@ In short, the slow-motion effect is one of the most popular video effects used i
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-x-flip-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo X Flip Location | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/avchd-on-xiaomi-redmi-k70e-convert-mts-for-xiaomi-redmi-k70e-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Xiaomi Redmi K70E-convert MTS for Xiaomi Redmi K70E</u></a></li>
 </ul></div>
+
 
 

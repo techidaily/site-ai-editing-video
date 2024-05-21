@@ -1,7 +1,7 @@
 ---
 title: New How to Add Adjustment Layer (Clip) in DaVinci Resolve?
-date: 2024-04-24T07:07:59.454Z
-updated: 2024-04-25T07:07:59.454Z
+date: 2024-05-20T03:37:46.601Z
+updated: 2024-05-21T03:37:46.601Z
 tags: 
   - ai
   - animation videos
@@ -1292,5 +1292,6 @@ Go to the OBS Forums from where you get to download transitions for OBS Studio. 
 <li><a href="https://techidaily.com/how-to-hard-reset-infinix-note-30-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Note 30 5G Without Password | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/iphone-13-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 13 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New Splitting Audio From Video in Sony Vegas Step by Step
-date: 2024-04-24T07:08:06.427Z
-updated: 2024-04-25T07:08:06.427Z
+date: 2024-05-20T03:38:17.586Z
+updated: 2024-05-21T03:38:17.586Z
 tags: 
   - ai
   - animation videos
@@ -1759,5 +1759,6 @@ Ultimately, we've provided a step-by-step guide on creating 3D text effects in a
 <li><a href="https://bypass-frp.techidaily.com/infinix-hot-40-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Infinix Hot 40 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-civi-3-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Civi 3?</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Motion Blur Photo With GIMP Step-By-Step Guide
-date: 2024-04-24T07:07:52.700Z
-updated: 2024-04-25T07:07:52.700Z
+date: 2024-05-20T03:37:23.867Z
+updated: 2024-05-21T03:37:23.867Z
 tags: 
   - ai
   - animation videos
@@ -1727,5 +1727,6 @@ We hope, we have answered all your queries and doubts related to subtitle extrac
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-redmi-12-5g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Redmi 12 5G</u></a></li>
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

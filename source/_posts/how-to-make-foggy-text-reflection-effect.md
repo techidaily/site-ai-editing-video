@@ -1,7 +1,7 @@
 ---
 title: How to Make Foggy Text Reflection Effect
-date: 2024-04-24T07:07:54.260Z
-updated: 2024-04-25T07:07:54.260Z
+date: 2024-05-20T03:37:28.766Z
+updated: 2024-05-21T03:37:28.766Z
 tags: 
   - ai
   - animation videos
@@ -3570,5 +3570,6 @@ That's how to make a coin move through a glass-like MAGIC with the cutting on ac
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Lava Yuva 2 | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo Y28 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro
-date: 2024-04-24T07:07:56.171Z
-updated: 2024-04-25T07:07:56.171Z
+date: 2024-05-20T03:37:34.529Z
+updated: 2024-05-21T03:37:34.529Z
 tags: 
   - ai
   - animation videos
@@ -994,5 +994,6 @@ This marks the end of our guide on how to rotate video in Windows Media Player a
 <li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-redmi-note-13-proplus-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Redmi Note 13 Pro+ 5G Device</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-motorola-g54-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Motorola G54 5G Devices | Dr.fone</u></a></li>
 </ul></div>
+
 
 

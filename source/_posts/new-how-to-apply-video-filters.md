@@ -1,7 +1,7 @@
 ---
 title: New How to Apply Video Filters
-date: 2024-04-24T07:08:10.415Z
-updated: 2024-04-25T07:08:10.415Z
+date: 2024-05-20T03:38:32.869Z
+updated: 2024-05-21T03:38:32.869Z
 tags: 
   - ai
   - animation videos
@@ -847,5 +847,6 @@ LUTs are pre-defined color gradients that work in an instant way. Meanwhile, the
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Huawei P60 | Dr.fone</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/new-best-solarmovie-alternatives-watch-movies-online-for-2024/"><u>New Best SolarMovie Alternatives-Watch Movies Online for 2024</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Add Camera Shake to Video in Adobe After Effects
-date: 2024-04-24T07:07:52.034Z
-updated: 2024-04-25T07:07:52.034Z
+date: 2024-05-20T03:37:18.765Z
+updated: 2024-05-21T03:37:18.765Z
 tags: 
   - ai
   - animation videos
@@ -2849,5 +2849,6 @@ For macOS 10.12 or later
 <li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-nokia-c32-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Nokia C32 Without Them Knowing? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-tutorial-for-infinix-hot-40i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Hot 40i Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 
 

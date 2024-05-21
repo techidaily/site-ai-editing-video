@@ -1,7 +1,7 @@
 ---
 title: Color Lut in Video - Color Grade Your Video for 2024
-date: 2024-04-24T07:08:08.726Z
-updated: 2024-04-25T07:08:08.726Z
+date: 2024-05-20T03:38:27.345Z
+updated: 2024-05-21T03:38:27.345Z
 tags: 
   - ai
   - animation videos
@@ -1656,5 +1656,6 @@ Sometimes you just need to remove the text that you already have on the video an
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oneplus-12r-by-drfone-android/"><u>How to Bypass FRP on OnePlus 12R?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oppo-find-n3-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Oppo Find N3 to iPod | Dr.fone</u></a></li>
 </ul></div>
+
 
 

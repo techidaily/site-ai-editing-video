@@ -1,7 +1,7 @@
 ---
 title: Guide To Scaling and Setting Videos in Filmora | Tutorial
-date: 2024-04-24T07:07:52.349Z
-updated: 2024-04-25T07:07:52.349Z
+date: 2024-05-20T03:37:21.327Z
+updated: 2024-05-21T03:37:21.327Z
 tags: 
   - ai
   - animation videos
@@ -1009,5 +1009,6 @@ And lastly, the modern iconography-based design of Wondershare Filmora is a fact
 <li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-note-12-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi Note 12 5G Phone Screen?</u></a></li>
 </ul></div>
+
 
 

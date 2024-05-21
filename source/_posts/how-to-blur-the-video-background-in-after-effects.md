@@ -1,7 +1,7 @@
 ---
 title: How To Blur The Video Background in After Effects
-date: 2024-04-24T07:07:53.886Z
-updated: 2024-04-25T07:07:53.886Z
+date: 2024-05-20T03:37:27.623Z
+updated: 2024-05-21T03:37:27.623Z
 tags: 
   - ai
   - animation videos
@@ -2944,5 +2944,6 @@ After thorough research into the world of gif editing tools, it is easy for us t
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Spark 10 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y27-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y27 5G Phone Now with These Tips</u></a></li>
 </ul></div>
+
 
 

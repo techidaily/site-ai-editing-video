@@ -1,7 +1,7 @@
 ---
 title: Updated Guiding Principles of Track Matte and Tracking in Adobe After Effects
-date: 2024-04-24T07:08:10.012Z
-updated: 2024-04-25T07:08:10.012Z
+date: 2024-05-20T03:38:31.999Z
+updated: 2024-05-21T03:38:31.999Z
 tags: 
   - ai
   - animation videos
@@ -1678,5 +1678,6 @@ With Filmora, you can do professional editing and use all sorts of tools quickly
 <li><a href="https://techidaily.com/how-to-soft-reset-infinix-note-30-vip-racing-edition-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Note 30 VIP Racing Edition phone? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-oppo-a78-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Oppo A78</u></a></li>
 </ul></div>
+
 
 

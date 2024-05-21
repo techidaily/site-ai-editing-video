@@ -1,7 +1,7 @@
 ---
 title: Updated Detailed Tutorial to Crop Video in KineMaster
-date: 2024-04-24T07:08:09.176Z
-updated: 2024-04-25T07:08:09.176Z
+date: 2024-05-20T03:38:28.914Z
+updated: 2024-05-21T03:38:28.914Z
 tags: 
   - ai
   - animation videos
@@ -1984,5 +1984,6 @@ Ans. Zoho is a SaaS provider.
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo S17e? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-iphone-13-mini-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 13 mini Data From iOS iTunes Backup | Dr.fone</u></a></li>
 </ul></div>
+
 
 

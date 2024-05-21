@@ -1,7 +1,7 @@
 ---
 title: Stunning Glitch Effect and Its Creation Guideline for Premiere Pro
-date: 2024-04-24T07:07:54.771Z
-updated: 2024-04-25T07:07:54.771Z
+date: 2024-05-20T03:37:30.493Z
+updated: 2024-05-21T03:37:30.493Z
 tags: 
   - ai
   - animation videos
@@ -1198,5 +1198,6 @@ Getting the correct information about the iMovie aspect ratio change and Adobe p
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-civi-3-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Civi 3 Phone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
 </ul></div>
+
 
 

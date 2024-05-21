@@ -1,7 +1,7 @@
 ---
 title: New Detailed Guide to Crop Videos in Sony Vegas Pro
-date: 2024-04-24T07:08:09.085Z
-updated: 2024-04-25T07:08:09.085Z
+date: 2024-05-20T03:38:28.589Z
+updated: 2024-05-21T03:38:28.589Z
 tags: 
   - ai
   - animation videos
@@ -2900,5 +2900,6 @@ QuickTime can record or show a live view of what is happening on your iPhone or 
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola Edge 40 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Motorola Moto G84 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

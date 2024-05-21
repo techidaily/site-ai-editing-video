@@ -1,7 +1,7 @@
 ---
 title: Create Glitch Text Effect
-date: 2024-04-24T07:07:52.160Z
-updated: 2024-04-25T07:07:52.160Z
+date: 2024-05-20T03:37:20.139Z
+updated: 2024-05-21T03:37:20.139Z
 tags: 
   - ai
   - animation videos
@@ -1350,5 +1350,6 @@ Getting animated text for your video is no more a job of experts. You can genera
 <li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-razr-40-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Razr 40 FRP</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-8-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 8?</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Step by Step Guide on Make Gimp Transparent Background PNG
-date: 2024-04-24T07:08:06.460Z
-updated: 2024-04-25T07:08:06.460Z
+date: 2024-05-20T03:38:17.828Z
+updated: 2024-05-21T03:38:17.828Z
 tags: 
   - ai
   - animation videos
@@ -2418,5 +2418,6 @@ After selecting your preferred LUT folder, hit the "OK" button to apply.
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-top-5-ai-powered-script-to-video-makers/"><u>2024 Approved Top 5 AI-Powered Script to Video Makers</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: How to Color-Correct an S-Log Footage
-date: 2024-04-24T07:07:53.916Z
-updated: 2024-04-25T07:07:53.916Z
+date: 2024-05-20T03:37:27.682Z
+updated: 2024-05-21T03:37:27.682Z
 tags: 
   - ai
   - animation videos
@@ -1234,5 +1234,6 @@ Video montages are one of the tried-and-tested methods used in film-making, gami
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 6 Plus | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-itel-p55t-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Itel P55T?</u></a></li>
 </ul></div>
+
 
 

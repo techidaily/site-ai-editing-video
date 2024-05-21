@@ -1688,3 +1688,4 @@ Like other GIF creator tools mentioned earlier, this is also a free, Mac support
 </ul></div>
 
 
+

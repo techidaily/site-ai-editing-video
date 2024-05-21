@@ -1,7 +1,7 @@
 ---
 title: New Create Glitch Text Effect
-date: 2024-04-24T07:08:00.965Z
-updated: 2024-04-25T07:08:00.965Z
+date: 2024-05-20T03:37:54.946Z
+updated: 2024-05-21T03:37:54.946Z
 tags: 
   - ai
   - animation videos
@@ -1093,5 +1093,6 @@ If you are not familiar with video and need to start editing videos, this featur
 <li><a href="https://techidaily.com/hard-resetting-an-oppo-k11x-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo K11x Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-lava-yuva-3-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Lava Yuva 3 for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 
 

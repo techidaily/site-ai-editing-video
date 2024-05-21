@@ -1,7 +1,7 @@
 ---
 title: Updated How Can You DIY VHS Overlay in After Effects?
-date: 2024-04-24T07:08:10.110Z
-updated: 2024-04-25T07:08:10.110Z
+date: 2024-05-20T03:38:32.214Z
+updated: 2024-05-21T03:38:32.214Z
 tags: 
   - ai
   - animation videos
@@ -1580,5 +1580,6 @@ Summary
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Motorola Edge 40 | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-12-prowindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone 12 Pro/Windows/Mac</u></a></li>
 </ul></div>
+
 
 

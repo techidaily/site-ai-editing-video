@@ -1,7 +1,7 @@
 ---
 title: Blender Tips - How to Make Blender Render Transparent Background
-date: 2024-04-24T07:07:52.237Z
-updated: 2024-04-25T07:07:52.237Z
+date: 2024-05-20T03:37:20.417Z
+updated: 2024-05-21T03:37:20.417Z
 tags: 
   - ai
   - animation videos
@@ -1510,5 +1510,6 @@ See, you don't need to break a sweat to add a vintage feel to your funny video. 
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme Note 50 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-play-40c-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor Play 40C</u></a></li>
 </ul></div>
+
 
 

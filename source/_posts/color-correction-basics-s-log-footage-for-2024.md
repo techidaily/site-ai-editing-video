@@ -1,7 +1,7 @@
 ---
 title: Color Correction Basics (S-LOG Footage) for 2024
-date: 2024-04-24T07:08:02.465Z
-updated: 2024-04-25T07:08:02.465Z
+date: 2024-05-20T03:37:58.971Z
+updated: 2024-05-21T03:37:58.971Z
 tags: 
   - ai
   - animation videos
@@ -1137,5 +1137,6 @@ For macOS 10.12 or later
 <li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-v27-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo V27</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy S24 Ultra</u></a></li>
 </ul></div>
+
 
 

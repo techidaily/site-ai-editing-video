@@ -1,7 +1,7 @@
 ---
 title: New Create True 3D Text Effects Using After Effects
-date: 2024-04-24T07:07:58.246Z
-updated: 2024-04-25T07:07:58.246Z
+date: 2024-05-20T03:37:42.223Z
+updated: 2024-05-21T03:37:42.223Z
 tags: 
   - ai
   - animation videos
@@ -1359,5 +1359,6 @@ Changing the rotation of your Go-Pro videos has been made easier due to the avai
 <li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Without a Passcode</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-s17-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo S17 by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 
 

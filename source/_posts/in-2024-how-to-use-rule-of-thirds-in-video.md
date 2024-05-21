@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Rule of Thirds in Video
-date: 2024-04-24T07:08:05.179Z
-updated: 2024-04-25T07:08:05.179Z
+date: 2024-05-20T03:38:13.123Z
+updated: 2024-05-21T03:38:13.123Z
 tags: 
   - ai
   - animation videos
@@ -1121,5 +1121,6 @@ If you are looking for an intro video maker app, Legend video intro maker is a s
 <li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-honor-100-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Honor 100 in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Honor 100 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

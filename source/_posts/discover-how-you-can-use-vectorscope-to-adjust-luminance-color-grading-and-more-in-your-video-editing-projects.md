@@ -1,7 +1,7 @@
 ---
 title: Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects
-date: 2024-04-24T07:07:55.571Z
-updated: 2024-04-25T07:07:55.571Z
+date: 2024-05-20T03:37:32.964Z
+updated: 2024-05-21T03:37:32.964Z
 tags: 
   - ai
   - animation videos
@@ -1280,5 +1280,6 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-dotm-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .dotm file</u></a></li>
 <li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-nokia-g310-frp-by-drfone-android/"><u>The Updated Method to Bypass Nokia G310 FRP</u></a></li>
 </ul></div>
+
 
 

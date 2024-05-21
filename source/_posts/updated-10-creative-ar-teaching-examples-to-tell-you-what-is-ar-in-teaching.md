@@ -1,7 +1,7 @@
 ---
 title: Updated 10 Creative AR Teaching Examples to Tell You What Is AR in Teaching
-date: 2024-04-24T07:07:57.776Z
-updated: 2024-04-25T07:07:57.776Z
+date: 2024-05-20T03:37:39.217Z
+updated: 2024-05-21T03:37:39.217Z
 tags: 
   - ai
   - animation videos
@@ -1914,5 +1914,6 @@ Although pixel art is a sort of new art, it is already rich with many artists an
 <li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-8-plus-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 8 Plus With or Without Password | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-reno-11f-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Oppo Reno 11F 5G</u></a></li>
 </ul></div>
+
 
 

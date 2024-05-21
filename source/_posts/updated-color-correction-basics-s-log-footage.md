@@ -1,7 +1,7 @@
 ---
 title: Updated Color Correction Basics (S-LOG Footage)
-date: 2024-04-24T07:08:02.469Z
-updated: 2024-04-25T07:08:02.469Z
+date: 2024-05-20T03:37:58.990Z
+updated: 2024-05-21T03:37:58.990Z
 tags: 
   - ai
   - animation videos
@@ -3334,5 +3334,6 @@ As you can see, there are numerous free voiceover generators available online. M
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-14-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi 14? Here is How | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xiaomi-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xiaomi Redmi Note 13 Pro 5G? </u></a></li>
 </ul></div>
+
 
 

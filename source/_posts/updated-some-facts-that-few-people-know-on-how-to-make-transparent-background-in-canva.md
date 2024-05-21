@@ -1,7 +1,7 @@
 ---
 title: Updated Some Facts That Few People Know on How to Make Transparent Background in Canva
-date: 2024-04-24T07:08:06.269Z
-updated: 2024-04-25T07:08:06.270Z
+date: 2024-05-20T03:38:17.243Z
+updated: 2024-05-21T03:38:17.243Z
 tags: 
   - ai
   - animation videos
@@ -1014,5 +1014,6 @@ video project.
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-samsung-galaxy-a24-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Samsung Galaxy A24.</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Note 30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

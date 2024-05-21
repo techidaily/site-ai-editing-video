@@ -1,7 +1,7 @@
 ---
 title: 2 Methods to Crop Video in VLC for 2024
-date: 2024-04-24T07:07:58.048Z
-updated: 2024-04-25T07:07:58.048Z
+date: 2024-05-20T03:37:40.973Z
+updated: 2024-05-21T03:37:40.973Z
 tags: 
   - ai
   - animation videos
@@ -2074,5 +2074,6 @@ For macOS 10.12 or later
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 11 Pro</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Honor X8b | Dr.fone</u></a></li>
 </ul></div>
+
 
 

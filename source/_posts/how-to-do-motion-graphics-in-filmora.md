@@ -1,7 +1,7 @@
 ---
 title: How to Do Motion Graphics in Filmora
-date: 2024-04-24T07:07:54.102Z
-updated: 2024-04-25T07:07:54.102Z
+date: 2024-05-20T03:37:28.208Z
+updated: 2024-05-21T03:37:28.208Z
 tags: 
   - ai
   - animation videos
@@ -1634,5 +1634,6 @@ For those who are in search to **crop YouTube videos,** they can surely stop by 
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y36i-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo Y36i</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-se-2022-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone SE (2022) i Do? Get Answers here</u></a></li>
 </ul></div>
+
 
 

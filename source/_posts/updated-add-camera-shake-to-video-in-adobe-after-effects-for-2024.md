@@ -788,3 +788,4 @@ To add a duration for the audio transitions, go to Edit > Preferences > Timeline
 </ul></div>
 
 
+

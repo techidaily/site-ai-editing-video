@@ -1,7 +1,7 @@
 ---
 title: New How to Add a Spooky Shadow Effect
-date: 2024-04-24T07:07:59.838Z
-updated: 2024-04-25T07:07:59.838Z
+date: 2024-05-20T03:37:48.976Z
+updated: 2024-05-21T03:37:48.976Z
 tags: 
   - ai
   - animation videos
@@ -1824,5 +1824,6 @@ Using Filmora you can create **transparent images online** and along with it, th
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Xiaomi Redmi A2 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-pixel-7a-by-fonelab-android-recover-music/"><u>How to recover old music from your Pixel 7a</u></a></li>
 </ul></div>
+
 
 

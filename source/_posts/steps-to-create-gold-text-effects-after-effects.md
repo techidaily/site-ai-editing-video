@@ -1,7 +1,7 @@
 ---
 title: Steps to Create Gold Text Effects After Effects
-date: 2024-04-24T07:07:52.843Z
-updated: 2024-04-25T07:07:52.843Z
+date: 2024-05-20T03:37:24.438Z
+updated: 2024-05-21T03:37:24.438Z
 tags: 
   - ai
   - animation videos
@@ -1353,5 +1353,6 @@ Some pdf to gif programs are online and free to use, while others have a free tr
 <li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-13-ultra-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi 13 Ultra with and without jailbreak | Dr.fone</u></a></li>
 <li><a href="https://tools.techidaily.com/link-assistant/keyword-research/keyword-grouper/"><u>Keyword Grouping Tool</u></a></li>
 </ul></div>
+
 
 

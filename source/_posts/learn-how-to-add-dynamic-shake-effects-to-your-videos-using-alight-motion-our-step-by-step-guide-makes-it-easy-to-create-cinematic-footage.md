@@ -1,7 +1,7 @@
 ---
 title: Learn How to Add Dynamic Shake Effects to Your Videos Using Alight Motion. Our Step-by-Step Guide Makes It Easy to Create Cinematic Footage
-date: 2024-04-24T07:07:56.629Z
-updated: 2024-04-25T07:07:56.629Z
+date: 2024-05-20T03:37:35.707Z
+updated: 2024-05-21T03:37:35.707Z
 tags: 
   - ai
   - animation videos
@@ -851,5 +851,6 @@ Adding freeze frame to your videos before and during impactful moments can enhan
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-itel-p40-by-drfone-android/"><u>In 2024, How to Bypass FRP on Itel P40?</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-photos-after-moto-g14-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Moto G14 has been deleted.</u></a></li>
 </ul></div>
+
 
 

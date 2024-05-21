@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Add Selective Color Effect to Your Videos
-date: 2024-04-24T07:07:59.750Z
-updated: 2024-04-25T07:07:59.750Z
+date: 2024-05-20T03:37:48.477Z
+updated: 2024-05-21T03:37:48.477Z
 tags: 
   - ai
   - animation videos
@@ -2532,5 +2532,6 @@ There is an option available where you can add layers of stickers to the stories
 <li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-xs-max-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone XS Max Without a Home Button | Dr.fone</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/how-to-use-capcut-translate-to-transform-video-content/"><u>How To Use CapCut Translate to Transform Video Content</u></a></li>
 </ul></div>
+
 
 

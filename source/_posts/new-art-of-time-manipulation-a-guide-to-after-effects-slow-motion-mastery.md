@@ -1,7 +1,7 @@
 ---
 title: New Art of Time Manipulation A Guide to After Effects Slow Motion Mastery
-date: 2024-04-24T07:08:08.011Z
-updated: 2024-04-25T07:08:08.011Z
+date: 2024-05-20T03:38:24.213Z
+updated: 2024-05-21T03:38:24.213Z
 tags: 
   - ai
   - animation videos
@@ -2399,5 +2399,6 @@ The vertical phone aspect ratio may seem avoidable, but you need a near-perfect 
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-a15-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy A15 5G Like A Pro 5 Easy Ways</u></a></li>
 <li><a href="https://techidaily.com/hard-resetting-an-honor-90-lite-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor 90 Lite Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
+
 
 

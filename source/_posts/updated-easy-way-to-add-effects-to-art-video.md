@@ -1,7 +1,7 @@
 ---
 title: Updated Easy Way to Add Effects to Art Video
-date: 2024-04-24T07:07:59.536Z
-updated: 2024-04-25T07:07:59.536Z
+date: 2024-05-20T03:37:47.184Z
+updated: 2024-05-21T03:37:47.184Z
 tags: 
   - ai
   - animation videos
@@ -998,5 +998,6 @@ Like other LUTs, Canon LUTs are also special and unique in their kind. They prov
 <li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-nubia-red-magic-9-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Nubia Red Magic 9 Pro</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-7-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone 7?</u></a></li>
 </ul></div>
+
 
 

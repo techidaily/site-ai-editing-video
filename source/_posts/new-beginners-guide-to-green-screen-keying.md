@@ -1,7 +1,7 @@
 ---
 title: New Beginners Guide to Green Screen Keying
-date: 2024-04-24T07:08:01.313Z
-updated: 2024-04-25T07:08:01.313Z
+date: 2024-05-20T03:37:56.431Z
+updated: 2024-05-21T03:37:56.431Z
 tags: 
   - ai
   - animation videos
@@ -2637,5 +2637,6 @@ For iOS and Android devices, CapCut turns out to be a great option to work with.
 <li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-y27-4g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo Y27 4G Phone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oneplus-12r-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On OnePlus 12R? Look No Further | Dr.fone</u></a></li>
 </ul></div>
+
 
 

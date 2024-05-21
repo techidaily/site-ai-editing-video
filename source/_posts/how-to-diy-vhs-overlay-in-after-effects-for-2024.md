@@ -1,7 +1,7 @@
 ---
 title: How to DIY VHS Overlay in After Effects for 2024
-date: 2024-04-24T07:08:04.205Z
-updated: 2024-04-25T07:08:04.205Z
+date: 2024-05-20T03:38:08.324Z
+updated: 2024-05-21T03:38:08.324Z
 tags: 
   - ai
   - animation videos
@@ -1402,5 +1402,6 @@ You probably already have an idea of how to use a green screen, at least in prin
 <li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-x50-gt-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor X50 GT</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-xs-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone XS</u></a></li>
 </ul></div>
+
 
 

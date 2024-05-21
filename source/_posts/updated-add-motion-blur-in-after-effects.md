@@ -1,7 +1,7 @@
 ---
 title: Updated Add Motion Blur in After Effects
-date: 2024-04-24T07:08:00.381Z
-updated: 2024-04-25T07:08:00.381Z
+date: 2024-05-20T03:37:51.674Z
+updated: 2024-05-21T03:37:51.674Z
 tags: 
   - ai
   - animation videos
@@ -3698,5 +3698,6 @@ Let’s go through the steps to understand the procedure to make GIF icons disco
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-12-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 12 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-pop-7-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pop 7 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

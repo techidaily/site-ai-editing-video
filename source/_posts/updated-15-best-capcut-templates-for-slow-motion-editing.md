@@ -1,7 +1,7 @@
 ---
 title: Updated 15 Best CapCut Templates for Slow Motion Editing
-date: 2024-04-24T07:07:57.932Z
-updated: 2024-04-25T07:07:57.932Z
+date: 2024-05-20T03:37:40.034Z
+updated: 2024-05-21T03:37:40.034Z
 tags: 
   - ai
   - animation videos
@@ -1832,5 +1832,6 @@ QuickTime can record or show a live view of what is happening on your iPhone or 
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-how-to-remove-the-endless-loop-from-animated-gif/"><u>New 2024 Approved How To Remove The Endless Loop From Animated GIF</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

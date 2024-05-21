@@ -1,7 +1,7 @@
 ---
 title: How to Add a Custom Transition to OBS for 2024
-date: 2024-04-24T07:07:59.409Z
-updated: 2024-04-25T07:07:59.409Z
+date: 2024-05-20T03:37:46.382Z
+updated: 2024-05-21T03:37:46.382Z
 tags: 
   - ai
   - animation videos
@@ -2771,5 +2771,6 @@ Though video editors on mobile are not as powerful as those on PC, there are som
 <li><a href="https://ai-voice-clone.techidaily.com/updated-easy-steps-to-create-talking-memoji-on-iphone-free-for-2024/"><u>Updated Easy Steps To Create Talking Memoji on iPhone Free for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 Pro Max to other iPhone devices? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Methods to Crop a Video Using After Effects
-date: 2024-04-24T07:07:58.043Z
-updated: 2024-04-25T07:07:58.043Z
+date: 2024-05-20T03:37:40.951Z
+updated: 2024-05-21T03:37:40.951Z
 tags: 
   - ai
   - animation videos
@@ -1382,5 +1382,6 @@ Try looking at which social networks perform well organically for your brand. Wh
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-y78t-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo Y78t on Windows</u></a></li>
 </ul></div>
+
 
 

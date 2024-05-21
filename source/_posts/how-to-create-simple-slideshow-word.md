@@ -1,7 +1,7 @@
 ---
 title: How to Create Simple Slideshow Word
-date: 2024-04-24T07:07:52.450Z
-updated: 2024-04-25T07:07:52.450Z
+date: 2024-05-20T03:37:22.200Z
+updated: 2024-05-21T03:37:22.200Z
 tags: 
   - ai
   - animation videos
@@ -1765,5 +1765,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://review-topics.techidaily.com/how-to-wipe-iphone-15-data-permanently-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Wipe iPhone 15 Data Permanently? | Stellar</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-nokia-c12-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia C12 Pro phone? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

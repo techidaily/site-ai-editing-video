@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved What Are AR Emoji Stickers & How to Add Them to Your Video
-date: 2024-04-24T07:08:07.830Z
-updated: 2024-04-25T07:08:07.830Z
+date: 2024-05-20T03:38:22.778Z
+updated: 2024-05-21T03:38:22.778Z
 tags: 
   - ai
   - animation videos
@@ -1236,5 +1236,6 @@ Hopefully, you’ve found this article helpful and can now add a new level of cr
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-music-from-11-proplus-by-fonelab-android-recover-music/"><u>Undelete lost music from 11 Pro+</u></a></li>
 </ul></div>
+
 
 

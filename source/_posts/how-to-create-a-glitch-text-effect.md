@@ -1,7 +1,7 @@
 ---
 title: How to Create a Glitch Text Effect?
-date: 2024-04-24T07:07:53.928Z
-updated: 2024-04-25T07:07:53.928Z
+date: 2024-05-20T03:37:27.797Z
+updated: 2024-05-21T03:37:27.797Z
 tags: 
   - ai
   - animation videos
@@ -1848,5 +1848,6 @@ If you are not familiar with video and need to start editing videos, this featur
 <li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-s23-ultra-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy S23 Ultra? 8 Solutions Inside | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-smart-8-plus-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Smart 8 Plus Phone?</u></a></li>
 </ul></div>
+
 
 

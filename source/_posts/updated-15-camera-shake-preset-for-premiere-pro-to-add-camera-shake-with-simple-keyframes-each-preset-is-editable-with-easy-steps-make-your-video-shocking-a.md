@@ -1,7 +1,7 @@
 ---
 title: Updated 15 Camera Shake Preset for Premiere Pro to Add Camera Shake with Simple Keyframes. Each Preset Is Editable with Easy Steps. Make Your Video Shocking and Impressive with These Camera Shake Effects
-date: 2024-04-24T07:07:57.975Z
-updated: 2024-04-25T07:07:57.975Z
+date: 2024-05-20T03:37:40.776Z
+updated: 2024-05-21T03:37:40.776Z
 tags: 
   - ai
   - animation videos
@@ -1270,5 +1270,6 @@ Indeed, there are many options to export your video using Filmora. If you wish t
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-7-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 7 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-infinix-note-30-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Infinix Note 30</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: How To Add Motion Blur On CapCut? (IPhone & Android) for 2024
-date: 2024-04-24T07:08:10.319Z
-updated: 2024-04-25T07:08:10.319Z
+date: 2024-05-20T03:38:32.629Z
+updated: 2024-05-21T03:38:32.629Z
 tags: 
   - ai
   - animation videos
@@ -1369,5 +1369,6 @@ Making a clone effect on video is easy using Filmora. You can use the same trick
 <li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-motorola-edge-40-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Motorola Edge 40 Phone Network-Ready</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-apple-iphone-8-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From Apple iPhone 8 - 4 Easy Ways</u></a></li>
 </ul></div>
+
 
 

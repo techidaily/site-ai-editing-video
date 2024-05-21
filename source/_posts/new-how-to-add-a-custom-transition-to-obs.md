@@ -1,7 +1,7 @@
 ---
 title: New How to Add a Custom Transition to OBS
-date: 2024-04-24T07:07:59.425Z
-updated: 2024-04-25T07:07:59.425Z
+date: 2024-05-20T03:37:46.404Z
+updated: 2024-05-21T03:37:46.404Z
 tags: 
   - ai
   - animation videos
@@ -1408,5 +1408,6 @@ You can embed the motion tracking function and perform all the processes within 
 <li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-11-pro-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 11 Pro from iCloud</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
+
 
 

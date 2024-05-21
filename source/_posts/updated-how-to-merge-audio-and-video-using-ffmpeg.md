@@ -1,7 +1,7 @@
 ---
 title: Updated How to Merge Audio and Video Using FFmpeg
-date: 2024-04-24T07:08:04.819Z
-updated: 2024-04-25T07:08:04.819Z
+date: 2024-05-20T03:38:11.433Z
+updated: 2024-05-21T03:38:11.433Z
 tags: 
   - ai
   - animation videos
@@ -1887,5 +1887,6 @@ This article had taught you how to create an efficient video using the video mak
 <li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy S23+? | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-12-mini-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 12 mini Location by Number | Dr.fone</u></a></li>
 </ul></div>
+
 
 

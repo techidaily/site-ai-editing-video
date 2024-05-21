@@ -1106,3 +1106,4 @@ To conclude, the rule of thirds is very important within visual media and is tou
 </ul></div>
 
 
+

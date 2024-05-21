@@ -1,7 +1,7 @@
 ---
 title: How to Trim/Crop Video in Microsoft Powerpoint
-date: 2024-04-24T07:07:52.586Z
-updated: 2024-04-25T07:07:52.586Z
+date: 2024-05-20T03:37:23.027Z
+updated: 2024-05-21T03:37:23.027Z
 tags: 
   - ai
   - animation videos
@@ -1818,5 +1818,6 @@ Both Filmora and Kdenlive offer a rotate filter that allows you to rotate your v
 <li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-8-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 8 iCloud Bypass</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-motorola-moto-g34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Motorola Moto G34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

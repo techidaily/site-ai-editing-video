@@ -1,7 +1,7 @@
 ---
 title: Updated 2 Methods to Crop a Video in VLC
-date: 2024-04-24T07:07:58.041Z
-updated: 2024-04-25T07:07:58.041Z
+date: 2024-05-20T03:37:40.949Z
+updated: 2024-05-21T03:37:40.949Z
 tags: 
   - ai
   - animation videos
@@ -1314,5 +1314,6 @@ There are two ways available to achieve color grading, out of which you can sele
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Lava Blaze 2 5G | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-iphone-12-pro-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for iPhone 12 Pro and Android Phones</u></a></li>
 </ul></div>
+
 
 

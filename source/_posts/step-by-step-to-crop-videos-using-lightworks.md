@@ -1,7 +1,7 @@
 ---
 title: Step by Step to Crop Videos Using Lightworks
-date: 2024-04-24T07:07:52.835Z
-updated: 2024-04-25T07:07:52.835Z
+date: 2024-05-20T03:37:24.353Z
+updated: 2024-05-21T03:37:24.353Z
 tags: 
   - ai
   - animation videos
@@ -2222,5 +2222,6 @@ From here, you can save the video to your device or create a free account with y
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo V30? | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-12-miniipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 12 mini/iPad | Dr.fone</u></a></li>
 </ul></div>
+
 
 

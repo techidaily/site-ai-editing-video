@@ -1,7 +1,7 @@
 ---
 title: Guiding Principles of Track Matte and Tracking in Adobe After Effects
-date: 2024-04-24T07:07:53.801Z
-updated: 2024-04-25T07:07:53.801Z
+date: 2024-05-20T03:37:27.321Z
+updated: 2024-05-21T03:37:27.321Z
 tags: 
   - ai
   - animation videos
@@ -1298,5 +1298,6 @@ There are several scenarios when you need to zoom into a video to focus on the d
 <li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-max-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro Max To Android/iOS? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Deep Learning of AI Video Recognition
-date: 2024-04-24T07:07:52.267Z
-updated: 2024-04-25T07:07:52.267Z
+date: 2024-05-20T03:37:20.581Z
+updated: 2024-05-21T03:37:20.581Z
 tags: 
   - ai
   - animation videos
@@ -3182,5 +3182,6 @@ PERPETUAL PLAN: $69.99 per year
 <li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xperia-10-v-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xperia 10 V?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-poco-c50-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Poco C50</u></a></li>
 </ul></div>
+
 
 

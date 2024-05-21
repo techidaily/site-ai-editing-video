@@ -1,7 +1,7 @@
 ---
 title: New 15 Camera Shake Preset for Premiere Pro
-date: 2024-04-24T07:07:57.978Z
-updated: 2024-04-25T07:07:57.978Z
+date: 2024-05-20T03:37:40.793Z
+updated: 2024-05-21T03:37:40.793Z
 tags: 
   - ai
   - animation videos
@@ -1247,5 +1247,6 @@ That's it! You are now familiar with the process of creating a straightforward c
 <li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-f14-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy F14 5G FRP Bypass With Best Methods</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-13-miniipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on Apple iPhone 13 mini/iPad/iPod</u></a></li>
 </ul></div>
+
 
 

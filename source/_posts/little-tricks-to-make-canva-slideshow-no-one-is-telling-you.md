@@ -1,7 +1,7 @@
 ---
 title: Little Tricks to Make Canva Slideshow No One Is Telling You
-date: 2024-04-24T07:07:54.551Z
-updated: 2024-04-25T07:07:54.551Z
+date: 2024-05-20T03:37:30.097Z
+updated: 2024-05-21T03:37:30.097Z
 tags: 
   - ai
   - animation videos
@@ -2620,5 +2620,6 @@ You’ll find the best large video cutters to cut videos on your Mac above. Most
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-y200e-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo Y200e 5G to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Nokia C12 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

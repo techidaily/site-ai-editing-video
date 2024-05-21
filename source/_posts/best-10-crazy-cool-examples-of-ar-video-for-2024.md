@@ -1,7 +1,7 @@
 ---
 title: Best 10 Crazy-Cool Examples of AR Video for 2024
-date: 2024-04-24T07:08:08.080Z
-updated: 2024-04-25T07:08:08.080Z
+date: 2024-05-20T03:38:24.672Z
+updated: 2024-05-21T03:38:24.672Z
 tags: 
   - ai
   - animation videos
@@ -1712,5 +1712,6 @@ Enjoy new and creative ideas with your family and friends and make your video tr
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a78-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A78 5G to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone SE</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New How to Animate Your Designs With Canva GIF
-date: 2024-04-24T07:08:03.464Z
-updated: 2024-04-25T07:08:03.464Z
+date: 2024-05-20T03:38:05.792Z
+updated: 2024-05-21T03:38:05.792Z
 tags: 
   - ai
   - animation videos
@@ -2183,5 +2183,6 @@ This functionality allows you to center images or certain video parts and make t
 <li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-a79-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A79 5G</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-pova-5-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Pova 5 FRP Bypass</u></a></li>
 </ul></div>
+
 
 

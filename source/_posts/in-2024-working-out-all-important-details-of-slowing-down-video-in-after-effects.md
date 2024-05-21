@@ -1,7 +1,7 @@
 ---
 title: In 2024, Working Out All Important Details of Slowing Down Video in After Effects
-date: 2024-04-24T07:08:07.976Z
-updated: 2024-04-25T07:08:07.976Z
+date: 2024-05-20T03:38:23.822Z
+updated: 2024-05-21T03:38:23.822Z
 tags: 
   - ai
   - animation videos
@@ -2062,5 +2062,6 @@ All in all, intro videos play a vital part when it comes to impressing the audie
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-15-by-drfone-ios/"><u>How To Unlock A Found iPhone 15?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-reno-8t-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo Reno 8T to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
+
 
 

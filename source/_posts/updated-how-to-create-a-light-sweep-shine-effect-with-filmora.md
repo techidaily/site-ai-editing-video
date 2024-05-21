@@ -1,7 +1,7 @@
 ---
 title: Updated How to Create a Light Sweep (Shine) Effect with Filmora
-date: 2024-04-24T07:08:10.809Z
-updated: 2024-04-25T07:08:10.809Z
+date: 2024-05-20T03:38:33.897Z
+updated: 2024-05-21T03:38:33.897Z
 tags: 
   - ai
   - animation videos
@@ -1754,5 +1754,6 @@ Give these tools a try first to get a better experience with the features and pr
 <li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-7-plus-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 7 Plus</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-realme-c51-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Realme C51 to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 
 

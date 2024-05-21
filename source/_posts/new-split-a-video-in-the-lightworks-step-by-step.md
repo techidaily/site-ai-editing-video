@@ -1,7 +1,7 @@
 ---
 title: New Split a Video in the Lightworks Step by Step
-date: 2024-04-24T07:08:06.392Z
-updated: 2024-04-25T07:08:06.392Z
+date: 2024-05-20T03:38:17.488Z
+updated: 2024-05-21T03:38:17.488Z
 tags: 
   - ai
   - animation videos
@@ -1645,5 +1645,6 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
 <li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-f15-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy F15 5G FRP Locks</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100 without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 
 

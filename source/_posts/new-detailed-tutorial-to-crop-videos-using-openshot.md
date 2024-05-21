@@ -1,7 +1,7 @@
 ---
 title: New Detailed Tutorial to Crop Videos Using Openshot?
-date: 2024-04-24T07:08:02.662Z
-updated: 2024-04-25T07:08:02.662Z
+date: 2024-05-20T03:38:01.012Z
+updated: 2024-05-21T03:38:01.012Z
 tags: 
   - ai
   - animation videos
@@ -1824,5 +1824,6 @@ Filmora is a user-friendly software that is available for installation on their 
 <li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-s17e-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo S17e FRP Bypass</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-infinix-hot-30-5g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Infinix Hot 30 5G</u></a></li>
 </ul></div>
+
 
 

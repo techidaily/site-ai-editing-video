@@ -1,7 +1,7 @@
 ---
 title: Updated How to Trim/Crop Video in Microsoft Powerpoint
-date: 2024-04-24T07:08:05.114Z
-updated: 2024-04-25T07:08:05.114Z
+date: 2024-05-20T03:38:12.590Z
+updated: 2024-05-21T03:38:12.590Z
 tags: 
   - ai
   - animation videos
@@ -2398,5 +2398,6 @@ That’s why the Davinci Resolve has got its name as a **finishing application**
 <li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Huawei Nova Y71 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/recover-apple-iphone-x-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone X Data From iOS iCloud | Dr.fone</u></a></li>
 </ul></div>
+
 
 

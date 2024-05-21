@@ -1,7 +1,7 @@
 ---
 title: Add Zoom Blur Effect In Photoshop Step by Step for 2024
-date: 2024-04-24T07:08:00.010Z
-updated: 2024-04-25T07:08:00.010Z
+date: 2024-05-20T03:37:50.256Z
+updated: 2024-05-21T03:37:50.256Z
 tags: 
   - ai
   - animation videos
@@ -1969,5 +1969,6 @@ Out of these mentioned tools, no one stands out as a better money’s worth like
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-8-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone 8 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-xs-max-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone XS Max</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Adding Shake Effects to Your Video With Alight Motion
-date: 2024-04-24T07:07:52.088Z
-updated: 2024-04-25T07:07:52.088Z
+date: 2024-05-20T03:37:19.350Z
+updated: 2024-05-21T03:37:19.350Z
 tags: 
   - ai
   - animation videos
@@ -1507,5 +1507,6 @@ Video editing might not be as easy as you think. It is a skill that requires tim
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo A2? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-a79-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo A79 5G FRP</u></a></li>
 </ul></div>
+
 
 

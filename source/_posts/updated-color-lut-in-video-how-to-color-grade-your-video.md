@@ -1,7 +1,7 @@
 ---
 title: Updated Color Lut in Video -How to Color Grade Your Video
-date: 2024-04-24T07:08:02.473Z
-updated: 2024-04-25T07:08:02.473Z
+date: 2024-05-20T03:37:59.031Z
+updated: 2024-05-21T03:37:59.031Z
 tags: 
   - ai
   - animation videos
@@ -2825,5 +2825,6 @@ For macOS 10.12 or later
 <li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-12-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 12 Pro Max?</u></a></li>
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On OnePlus Nord N30 SE | Dr.fone</u></a></li>
 </ul></div>
+
 
 

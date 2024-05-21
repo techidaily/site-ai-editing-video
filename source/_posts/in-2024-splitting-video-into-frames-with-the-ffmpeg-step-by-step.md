@@ -1,7 +1,7 @@
 ---
 title: In 2024, Splitting Video Into Frames with the FFmpeg Step by Step
-date: 2024-04-24T07:08:06.437Z
-updated: 2024-04-25T07:08:06.437Z
+date: 2024-05-20T03:38:17.668Z
+updated: 2024-05-21T03:38:17.668Z
 tags: 
   - ai
   - animation videos
@@ -943,5 +943,6 @@ In the following article, you have learned **what are LUTs in video editing**. F
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor Magic V2 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo S18 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

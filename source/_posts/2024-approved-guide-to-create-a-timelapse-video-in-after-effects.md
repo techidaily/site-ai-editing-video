@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Guide to Create a Timelapse Video in After Effects
-date: 2024-04-24T07:08:09.911Z
-updated: 2024-04-25T07:08:09.911Z
+date: 2024-05-20T03:38:31.876Z
+updated: 2024-05-21T03:38:31.876Z
 tags: 
   - ai
   - animation videos
@@ -1600,5 +1600,6 @@ It’s quite easy to add subtitles to QuickTime player and watch videos with sub
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oneplus-open-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do OnePlus Open Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-12-mini-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 12 mini? Heres the Best Fixes</u></a></li>
 </ul></div>
+
 
 

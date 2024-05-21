@@ -1,7 +1,7 @@
 ---
 title: Best 5 Tips to Freeze-Frame in After Effects
-date: 2024-04-24T07:07:53.353Z
-updated: 2024-04-25T07:07:53.353Z
+date: 2024-05-20T03:37:25.814Z
+updated: 2024-05-21T03:37:25.814Z
 tags: 
   - ai
   - animation videos
@@ -4484,5 +4484,6 @@ Step5When you're done editing the video, tap on the “Export” icon at the top
 <li><a href="https://ai-voice-clone.techidaily.com/the-power-of-ai-thumbnail-generators/"><u>The Power of AI Thumbnail Generators</u></a></li>
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo V27 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

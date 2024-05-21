@@ -1,7 +1,7 @@
 ---
 title: Add Motion Blur in After Effects
-date: 2024-04-24T07:07:52.117Z
-updated: 2024-04-25T07:07:52.117Z
+date: 2024-05-20T03:37:19.857Z
+updated: 2024-05-21T03:37:19.857Z
 tags: 
   - ai
   - animation videos
@@ -1805,5 +1805,6 @@ Try Filmora to apply 3D Luts on your video!
 <li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-xr-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone XR</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Moto G84 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Detailed Tutorial to Crop Video in KineMaster
-date: 2024-04-24T07:08:09.168Z
-updated: 2024-04-25T07:08:09.168Z
+date: 2024-05-20T03:38:28.893Z
+updated: 2024-05-21T03:38:28.893Z
 tags: 
   - ai
   - animation videos
@@ -2654,5 +2654,6 @@ Detailed tutorials provided by the official channel
 <li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-mini-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 13 mini Data From iOS iTunes? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-hot-40-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Hot 40? Here Are Real Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 
 

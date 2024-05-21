@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Lumetri Color in Adobe After Effects
-date: 2024-04-24T07:08:05.149Z
-updated: 2024-04-25T07:08:05.149Z
+date: 2024-05-20T03:38:12.873Z
+updated: 2024-05-21T03:38:12.873Z
 tags: 
   - ai
   - animation videos
@@ -1575,5 +1575,6 @@ Slow-Mo videos are undoubtedly watch-worthy. They allow us to observe the fine d
 <li><a href="https://ai-topics.techidaily.com/create-talking-cartoon-images-using-top-tools/"><u>Create Talking Cartoon Images Using Top Tools</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Plus with a Mask On | Dr.fone</u></a></li>
 </ul></div>
+
 
 

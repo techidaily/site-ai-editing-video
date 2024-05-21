@@ -1,7 +1,7 @@
 ---
 title: Create Risograph Effect In Photoshop A Beginners Guide
-date: 2024-04-24T07:07:53.550Z
-updated: 2024-04-25T07:07:53.550Z
+date: 2024-05-20T03:37:26.494Z
+updated: 2024-05-21T03:37:26.494Z
 tags: 
   - ai
   - animation videos
@@ -3290,5 +3290,6 @@ This article addresses your problem by showing you the use of **final cut slow-m
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 15 Plus</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme 11 Pro Phone Password Without Factory Reset?</u></a></li>
 </ul></div>
+
 
 

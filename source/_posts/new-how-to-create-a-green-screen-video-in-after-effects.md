@@ -1,7 +1,7 @@
 ---
 title: New How To Create A Green Screen Video In After Effects
-date: 2024-04-24T07:08:03.724Z
-updated: 2024-04-25T07:08:03.724Z
+date: 2024-05-20T03:38:06.566Z
+updated: 2024-05-21T03:38:06.566Z
 tags: 
   - ai
   - animation videos
@@ -844,5 +844,6 @@ Photoshop is widely used by professionals to perform high-end image editing. If 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-nubia-red-magic-8s-proplus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Nubia Red Magic 8S Pro+ to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated How to Animate Your Designs With Canva GIF
-date: 2024-04-24T07:08:03.467Z
-updated: 2024-04-25T07:08:03.467Z
+date: 2024-05-20T03:38:05.796Z
+updated: 2024-05-21T03:38:05.796Z
 tags: 
   - ai
   - animation videos
@@ -2128,5 +2128,6 @@ When finally satisfied, save your artwork file to your device using the .gif ext
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo A1 5G? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Poco X5 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

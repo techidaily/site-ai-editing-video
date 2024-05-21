@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Color Lut in Video - Color Grade Your Video
-date: 2024-04-24T07:08:08.727Z
-updated: 2024-04-25T07:08:08.727Z
+date: 2024-05-20T03:38:27.349Z
+updated: 2024-05-21T03:38:27.349Z
 tags: 
   - ai
   - animation videos
@@ -1844,5 +1844,6 @@ For macOS 10.12 or later
 <li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo X100 Pro | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/lava-yuva-3-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
+
 
 

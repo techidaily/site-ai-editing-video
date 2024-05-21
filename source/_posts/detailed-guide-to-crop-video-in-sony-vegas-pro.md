@@ -1,7 +1,7 @@
 ---
 title: Detailed Guide to Crop Video in Sony Vegas Pro
-date: 2024-04-24T07:07:52.273Z
-updated: 2024-04-25T07:07:52.273Z
+date: 2024-05-20T03:37:20.603Z
+updated: 2024-05-21T03:37:20.603Z
 tags: 
   - ai
   - animation videos
@@ -1941,5 +1941,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor Magic 5 Pro? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-x-fold-2-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo X Fold 2 FRP Bypass With Best Methods</u></a></li>
 </ul></div>
+
 
 

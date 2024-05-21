@@ -1,7 +1,7 @@
 ---
 title: How to DIY VHS Overlay in After Effects?
-date: 2024-04-24T07:07:52.468Z
-updated: 2024-04-25T07:07:52.468Z
+date: 2024-05-20T03:37:22.245Z
+updated: 2024-05-21T03:37:22.245Z
 tags: 
   - ai
   - animation videos
@@ -1608,5 +1608,6 @@ Have you ever experienced a **Snapchat** **camera** **zoomed in** problem on you
 <li><a href="https://techidaily.com/things-you-dont-know-about-realme-narzo-60-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme Narzo 60 Pro 5G Reset Code | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-sign-xltx-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xltx document with Digital Signature - (Tutorial)</u></a></li>
 </ul></div>
+
 
 

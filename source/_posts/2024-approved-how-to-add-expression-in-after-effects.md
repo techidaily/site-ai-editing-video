@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Add Expression in After Effects
-date: 2024-04-24T07:07:59.567Z
-updated: 2024-04-25T07:07:59.567Z
+date: 2024-05-20T03:37:47.468Z
+updated: 2024-05-21T03:37:47.468Z
 tags: 
   - ai
   - animation videos
@@ -1407,5 +1407,6 @@ Neat Video is available as a plugin for popular tools like Final Cut Pro(X), Ado
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-nokia-c110-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Nokia C110</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-about-motorola-moto-g24-frp-bypass-by-drfone-android/"><u>In 2024, About Motorola Moto G24 FRP Bypass</u></a></li>
 </ul></div>
+
 
 

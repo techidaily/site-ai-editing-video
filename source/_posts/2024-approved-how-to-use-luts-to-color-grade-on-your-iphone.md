@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Use LUTS to Color Grade on Your iPhone
-date: 2024-04-24T07:08:05.163Z
-updated: 2024-04-25T07:08:05.163Z
+date: 2024-05-20T03:38:13.038Z
+updated: 2024-05-21T03:38:13.038Z
 tags: 
   - ai
   - animation videos
@@ -1517,5 +1517,6 @@ Not particularly an Augmented Reality (AR) example, Virtual Speech is a combinat
 <li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy S24? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-note-30-vip-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Note 30 VIP Easily?</u></a></li>
 </ul></div>
+
 
 

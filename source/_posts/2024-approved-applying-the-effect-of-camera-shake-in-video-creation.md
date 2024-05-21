@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Applying the Effect of Camera Shake in Video Creation
-date: 2024-04-24T07:08:07.998Z
-updated: 2024-04-25T07:08:07.998Z
+date: 2024-05-20T03:38:24.105Z
+updated: 2024-05-21T03:38:24.105Z
 tags: 
   - ai
   - animation videos
@@ -1323,5 +1323,6 @@ Once you’re done making your intro video, click on the ‘EXPORT’ tab in the
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Tecno Spark 10 4G? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-sony-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Sony </u></a></li>
 </ul></div>
+
 
 

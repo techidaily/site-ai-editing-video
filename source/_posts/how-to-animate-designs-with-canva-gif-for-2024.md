@@ -1,7 +1,7 @@
 ---
 title: How to Animate Designs With Canva GIF for 2024
-date: 2024-04-24T07:08:10.381Z
-updated: 2024-04-25T07:08:10.381Z
+date: 2024-05-20T03:38:32.786Z
+updated: 2024-05-21T03:38:32.786Z
 tags: 
   - ai
   - animation videos
@@ -2897,5 +2897,6 @@ We hope this blog has given you a better understanding of how planning and story
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Poco F5 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y100a-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y100A</u></a></li>
 </ul></div>
+
 
 

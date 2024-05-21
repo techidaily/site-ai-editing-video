@@ -1,7 +1,7 @@
 ---
 title: How to Color Correct in OBS for 2024
-date: 2024-04-24T07:08:10.647Z
-updated: 2024-04-25T07:08:10.647Z
+date: 2024-05-20T03:38:33.413Z
+updated: 2024-05-21T03:38:33.413Z
 tags: 
   - ai
   - animation videos
@@ -1808,5 +1808,6 @@ Step 4: Finally, click on "Save" to save your video with cropping. Congratulatio
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-y77t-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo Y77t to iPad Easily | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Realme 12 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

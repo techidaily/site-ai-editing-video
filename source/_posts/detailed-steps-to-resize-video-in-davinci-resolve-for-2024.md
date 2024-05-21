@@ -1,7 +1,7 @@
 ---
 title: Detailed Steps to Resize Video in Davinci Resolve for 2024
-date: 2024-04-24T07:08:09.101Z
-updated: 2024-04-25T07:08:09.101Z
+date: 2024-05-20T03:38:28.709Z
+updated: 2024-05-21T03:38:28.709Z
 tags: 
   - ai
   - animation videos
@@ -2401,5 +2401,6 @@ Therefore, its upto you to decide what you want to use. This is our collection o
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-v-purse-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor V Purse To iPhone 15/14/13? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy S23+? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

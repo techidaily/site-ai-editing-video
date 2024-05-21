@@ -1,7 +1,7 @@
 ---
 title: New Detailed Guide to Crop Video in Sony Vegas Pro
-date: 2024-04-24T07:08:02.605Z
-updated: 2024-04-25T07:08:02.605Z
+date: 2024-05-20T03:38:00.793Z
+updated: 2024-05-21T03:38:00.793Z
 tags: 
   - ai
   - animation videos
@@ -1447,5 +1447,6 @@ LUTs are most typically used to build and store color profiles that can be utili
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-reno-10-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo Reno 10 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy F04 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

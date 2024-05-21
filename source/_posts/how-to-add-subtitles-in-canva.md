@@ -1,7 +1,7 @@
 ---
 title: How to Add Subtitles in Canva?
-date: 2024-04-24T07:07:52.381Z
-updated: 2024-04-25T07:07:52.381Z
+date: 2024-05-20T03:37:21.576Z
+updated: 2024-05-21T03:37:21.576Z
 tags: 
   - ai
   - animation videos
@@ -2515,5 +2515,6 @@ After reading this article, users have a comprehensive knowledge of **YouTube sl
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-moto-g84-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Moto G84 5G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

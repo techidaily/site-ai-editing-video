@@ -1,7 +1,7 @@
 ---
 title: In 2024, Add Some Shake to Videos with Alight Motion
-date: 2024-04-24T07:07:59.763Z
-updated: 2024-04-25T07:07:59.763Z
+date: 2024-05-20T03:37:48.585Z
+updated: 2024-05-21T03:37:48.585Z
 tags: 
   - ai
   - animation videos
@@ -961,5 +961,6 @@ Time-lapse is the video editing technique in that the speed is lower and the fre
 <li><a href="https://screen-mirror.techidaily.com/apple-iphone-14-plus-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 14 Plus Screen Mirroring You Must Know | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-htc-u23-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your HTC U23 Device</u></a></li>
 </ul></div>
+
 
 

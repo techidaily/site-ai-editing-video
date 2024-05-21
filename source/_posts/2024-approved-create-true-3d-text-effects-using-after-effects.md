@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Create True 3D Text Effects Using After Effects
-date: 2024-04-24T07:07:58.245Z
-updated: 2024-04-25T07:07:58.245Z
+date: 2024-05-20T03:37:42.181Z
+updated: 2024-05-21T03:37:42.181Z
 tags: 
   - ai
   - animation videos
@@ -1267,5 +1267,6 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo Reno 11 5G? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/oppo-reno-10-pro-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 
 

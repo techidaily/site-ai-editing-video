@@ -1,7 +1,7 @@
 ---
 title: Step by Step Guide of Make Gimp Transparent Background PNG
-date: 2024-04-24T07:07:54.740Z
-updated: 2024-04-25T07:07:54.740Z
+date: 2024-05-20T03:37:30.402Z
+updated: 2024-05-21T03:37:30.402Z
 tags: 
   - ai
   - animation videos
@@ -2088,5 +2088,6 @@ As said earlier, knowing where to cut is essential in improving the feel of your
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-a-beginners-guide-to-tell-you-what-3d-animation-is/"><u>Updated In 2024, A Beginners Guide to Tell You What 3D Animation Is</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-s17t-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo S17t Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 
 

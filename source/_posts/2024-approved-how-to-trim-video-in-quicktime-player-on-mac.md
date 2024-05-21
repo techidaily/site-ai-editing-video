@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Trim Video in Quicktime Player on Mac
-date: 2024-04-24T07:08:05.105Z
-updated: 2024-04-25T07:08:05.105Z
+date: 2024-05-20T03:38:12.539Z
+updated: 2024-05-21T03:38:12.539Z
 tags: 
   - ai
   - animation videos
@@ -1981,5 +1981,6 @@ Mask tracking is handy for adding effects to a moving object in your video. By t
 <li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-narzo-60-5g-by-drfone-android/"><u>Full Guide to Unlock Your Realme Narzo 60 5G</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-zero-5g-2023-turbo-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Infinix Zero 5G 2023 Turbo Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 
 

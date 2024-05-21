@@ -1720,3 +1720,4 @@ These are two ways you can create your own Lower Thirds in FIlmora. You can also
 </ul></div>
 
 
+

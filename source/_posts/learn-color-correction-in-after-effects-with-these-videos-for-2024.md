@@ -1,7 +1,7 @@
 ---
 title: Learn Color Correction in After Effects with These Videos for 2024
-date: 2024-04-24T07:08:05.404Z
-updated: 2024-04-25T07:08:05.404Z
+date: 2024-05-20T03:38:14.033Z
+updated: 2024-05-21T03:38:14.033Z
 tags: 
   - ai
   - animation videos
@@ -1388,5 +1388,6 @@ Learn the functions of all the various buttons shown there. So, these minute thi
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor X50? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-lava-blaze-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Lava Blaze Pro 5G to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 
 

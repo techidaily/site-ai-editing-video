@@ -1,7 +1,7 @@
 ---
 title: Detailed Steps to Add Border to Video Using Premiere Pro
-date: 2024-04-24T07:07:52.276Z
-updated: 2024-04-25T07:07:52.276Z
+date: 2024-05-20T03:37:20.615Z
+updated: 2024-05-21T03:37:20.615Z
 tags: 
   - ai
   - animation videos
@@ -1769,5 +1769,6 @@ Creating slow-motion videos is a vital skill in video editing. It improves visua
 <li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-v30t-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme V30T Phone Pattern Lock</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y36i-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y36i to Outlook | Dr.fone</u></a></li>
 </ul></div>
+
 
 

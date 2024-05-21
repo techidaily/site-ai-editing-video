@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Add Zoom Blur Effect In Photoshop
-date: 2024-04-24T07:08:03.452Z
-updated: 2024-04-25T07:08:03.452Z
+date: 2024-05-20T03:38:05.772Z
+updated: 2024-05-21T03:38:05.772Z
 tags: 
   - ai
   - animation videos
@@ -1191,5 +1191,6 @@ Therefore, if you want to learn the A to Z of video editing for absolutely free,
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-ace-2-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus Ace 2 Pro to Laptop Without USB | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-s24-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy S24 for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New Applying the Effect of Camera Shake in Video Creation
-date: 2024-04-24T07:08:07.998Z
-updated: 2024-04-25T07:08:07.998Z
+date: 2024-05-20T03:38:24.110Z
+updated: 2024-05-21T03:38:24.110Z
 tags: 
   - ai
   - animation videos
@@ -807,5 +807,6 @@ Now that you know how to create a Facebook video ad, it's time to start creating
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-12-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone 12 with 3 Methods</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

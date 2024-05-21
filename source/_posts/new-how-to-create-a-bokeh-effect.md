@@ -1,7 +1,7 @@
 ---
 title: New How to Create a Bokeh Effect
-date: 2024-04-24T07:08:01.038Z
-updated: 2024-04-25T07:08:01.038Z
+date: 2024-05-20T03:37:55.775Z
+updated: 2024-05-21T03:37:55.775Z
 tags: 
   - ai
   - animation videos
@@ -2067,5 +2067,6 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo Find X7 Ultra | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y27-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y27 5G Devices | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Learn Color Correction in After Effects with These YouTube Videos
-date: 2024-04-24T07:07:52.112Z
-updated: 2024-04-25T07:07:52.112Z
+date: 2024-05-20T03:37:19.827Z
+updated: 2024-05-21T03:37:19.827Z
 tags: 
   - ai
   - animation videos
@@ -2090,5 +2090,6 @@ PowerPoint allows you to add animation to objects and text. To do that, select t
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 12 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-13-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 13 Without a Home Button</u></a></li>
 </ul></div>
+
 
 

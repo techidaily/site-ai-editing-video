@@ -1,7 +1,7 @@
 ---
 title: Create Slide Masking Effect Intro
-date: 2024-04-24T07:07:52.255Z
-updated: 2024-04-25T07:07:52.255Z
+date: 2024-05-20T03:37:20.533Z
+updated: 2024-05-21T03:37:20.533Z
 tags: 
   - ai
   - animation videos
@@ -1005,5 +1005,6 @@ Video transition effects are essential in almost all types of videos. They enhan
 <li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c210frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C210FRP Lock</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 15 Pro</u></a></li>
 </ul></div>
+
 
 

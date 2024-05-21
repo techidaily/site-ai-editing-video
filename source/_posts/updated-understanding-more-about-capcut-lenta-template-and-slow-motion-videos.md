@@ -1,7 +1,7 @@
 ---
 title: Updated Understanding More About CapCut Lenta Template and Slow-Motion Videos
-date: 2024-04-24T07:08:07.702Z
-updated: 2024-04-25T07:08:07.702Z
+date: 2024-05-20T03:38:21.770Z
+updated: 2024-05-21T03:38:21.770Z
 tags: 
   - ai
   - animation videos
@@ -2509,5 +2509,6 @@ PERPETUAL PLAN: $69.99 per year
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Other iPhone 11 devices? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 Phone without Google Account?</u></a></li>
 </ul></div>
+
 
 

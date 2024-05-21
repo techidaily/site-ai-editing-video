@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Make Vintage Film Effect 1980S
-date: 2024-04-24T07:08:04.803Z
-updated: 2024-04-25T07:08:04.803Z
+date: 2024-05-20T03:38:11.377Z
+updated: 2024-05-21T03:38:11.377Z
 tags: 
   - ai
   - animation videos
@@ -1837,5 +1837,6 @@ Take your time with it, record your movies from different angles, and don't be a
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y100i Power 5G | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-itel-a70-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Itel A70</u></a></li>
 </ul></div>
+
 
 

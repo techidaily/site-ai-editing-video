@@ -1,7 +1,7 @@
 ---
 title: How to Add Motion Blur in After Effects for 2024
-date: 2024-04-24T07:07:59.685Z
-updated: 2024-04-25T07:07:59.685Z
+date: 2024-05-20T03:37:48.191Z
+updated: 2024-05-21T03:37:48.191Z
 tags: 
   - ai
   - animation videos
@@ -1666,5 +1666,6 @@ However, you also need to be careful in doing some edits. Before you save your p
 <li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-art-generator-for-2024/"><u>Updated What Is an AI Art Generator for 2024</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-c67-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme C67 5G</u></a></li>
 </ul></div>
+
 
 

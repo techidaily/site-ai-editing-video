@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Expression in After Effects
-date: 2024-04-24T07:07:59.570Z
-updated: 2024-04-25T07:07:59.570Z
+date: 2024-05-20T03:37:47.496Z
+updated: 2024-05-21T03:37:47.496Z
 tags: 
   - ai
   - animation videos
@@ -1588,5 +1588,6 @@ This brief guide has covered all the details about how to sync audio and video f
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-x5-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco X5 to Laptop Without USB | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-f54-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy F54 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: How to Animate Your Designs With Canva GIF for 2024
-date: 2024-04-24T07:08:03.462Z
-updated: 2024-04-25T07:08:03.462Z
+date: 2024-05-20T03:38:05.788Z
+updated: 2024-05-21T03:38:05.788Z
 tags: 
   - ai
   - animation videos
@@ -1548,5 +1548,6 @@ this list, you can now create the best end screen for your video.
 <li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-6-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 6 Without iTunes</u></a></li>
 <li><a href="https://techidaily.com/best-fixes-for-poco-c65-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Poco C65 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 
 

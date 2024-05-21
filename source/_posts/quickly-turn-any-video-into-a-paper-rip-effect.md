@@ -1,7 +1,7 @@
 ---
 title: Quickly Turn Any Video Into a Paper Rip Effect
-date: 2024-04-24T07:07:52.767Z
-updated: 2024-04-25T07:07:52.767Z
+date: 2024-05-20T03:37:24.074Z
+updated: 2024-05-21T03:37:24.074Z
 tags: 
   - ai
   - animation videos
@@ -1387,5 +1387,6 @@ Exploration of the transition effects with the filters allows motion elements in
 <li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-13-pro-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 13 Pro</u></a></li>
 </ul></div>
+
 
 

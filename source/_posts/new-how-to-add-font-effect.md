@@ -1,7 +1,7 @@
 ---
 title: New How to Add Font Effect
-date: 2024-04-24T07:07:59.648Z
-updated: 2024-04-25T07:07:59.648Z
+date: 2024-05-20T03:37:47.768Z
+updated: 2024-05-21T03:37:47.768Z
 tags: 
   - ai
   - animation videos
@@ -1668,5 +1668,6 @@ Thus, in detail, you had an enlightening discussion on the VLC playback speed. Y
 <li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Realme C55? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-poco-m6-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Poco M6 5G Screen | Dr.fone</u></a></li>
 </ul></div>
+
 
 

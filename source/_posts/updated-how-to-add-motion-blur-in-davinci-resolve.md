@@ -1,7 +1,7 @@
 ---
 title: Updated How To Add Motion Blur In Davinci Resolve?
-date: 2024-04-24T07:08:10.317Z
-updated: 2024-04-25T07:08:10.317Z
+date: 2024-05-20T03:38:32.621Z
+updated: 2024-05-21T03:38:32.621Z
 tags: 
   - ai
   - animation videos
@@ -914,5 +914,6 @@ Distribution
 <li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-11-pro-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 11 Pro</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

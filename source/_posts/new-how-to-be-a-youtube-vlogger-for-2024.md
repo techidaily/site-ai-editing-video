@@ -1406,3 +1406,4 @@ So, in this article, we have discussed software Davinci Resolve and how to crop 
 </ul></div>
 
 
+

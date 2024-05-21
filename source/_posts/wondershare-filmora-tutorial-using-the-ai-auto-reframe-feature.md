@@ -1,7 +1,7 @@
 ---
 title: Wondershare Filmora Tutorial | Using The AI Auto Reframe Feature
-date: 2024-04-24T07:07:53.279Z
-updated: 2024-04-25T07:07:53.279Z
+date: 2024-05-20T03:37:25.525Z
+updated: 2024-05-21T03:37:25.525Z
 tags: 
   - ai
   - animation videos
@@ -1755,5 +1755,6 @@ This site uses the Wiki software to stock an inventory of classic GIFs and memes
 <li><a href="https://android-frp.techidaily.com/top-5-nokia-c12-plus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nokia C12 Plus Bypass FRP Tools for PC That Actually Work</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 12 Pro Max</u></a></li>
 </ul></div>
+
 
 

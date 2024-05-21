@@ -1,7 +1,7 @@
 ---
 title: In 2024, Add Green Screen Effects in Final Cut Pro
-date: 2024-04-24T07:07:59.655Z
-updated: 2024-04-25T07:07:59.655Z
+date: 2024-05-20T03:37:47.817Z
+updated: 2024-05-21T03:37:47.817Z
 tags: 
   - ai
   - animation videos
@@ -996,5 +996,6 @@ Creating video brand guidelines may seem like a lot of work, but it’s worth it
 <li><a href="https://animation-videos.techidaily.com/10-trendy-free-logo-animation-templates/"><u>10 Trendy Free Logo Animation Templates</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y78t-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y78t</u></a></li>
 </ul></div>
+
 
 

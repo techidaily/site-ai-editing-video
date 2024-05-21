@@ -1,7 +1,7 @@
 ---
 title: Updated How to Create Custom Lower Thirds in Filmora
-date: 2024-04-24T07:08:03.924Z
-updated: 2024-04-25T07:08:03.924Z
+date: 2024-05-20T03:38:07.083Z
+updated: 2024-05-21T03:38:07.083Z
 tags: 
   - ai
   - animation videos
@@ -2573,5 +2573,6 @@ This article has displayed a conspicuous detail of **what the frame rate in the 
 <li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-moto-g24-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Moto G24?</u></a></li>
 </ul></div>
+
 
 

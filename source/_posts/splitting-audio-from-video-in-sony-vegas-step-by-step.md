@@ -1,7 +1,7 @@
 ---
 title: Splitting Audio From Video in Sony Vegas Step by Step
-date: 2024-04-24T07:07:52.789Z
-updated: 2024-04-25T07:07:52.789Z
+date: 2024-05-20T03:37:24.316Z
+updated: 2024-05-21T03:37:24.316Z
 tags: 
   - ai
   - animation videos
@@ -1338,5 +1338,6 @@ But no need to worry; we've provided you with the details of [Wondershare Filmor
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 20 Pro | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-honor-play-8t-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Honor Play 8T? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

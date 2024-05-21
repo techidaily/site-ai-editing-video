@@ -1,7 +1,7 @@
 ---
 title: How to Do Datamoshing Effect in After Effects for 2024
-date: 2024-04-24T07:08:11.477Z
-updated: 2024-04-25T07:08:11.477Z
+date: 2024-05-20T03:38:35.490Z
+updated: 2024-05-21T03:38:35.490Z
 tags: 
   - ai
   - animation videos
@@ -1326,5 +1326,6 @@ Adding font effects on video is a common practice especially when you have intro
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-15-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone 15 without Security Questions?</u></a></li>
 <li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo V29 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

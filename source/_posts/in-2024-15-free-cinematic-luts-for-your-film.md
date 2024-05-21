@@ -1,7 +1,7 @@
 ---
 title: In 2024, 15 Free Cinematic LUTs for Your Film
-date: 2024-04-24T07:07:57.980Z
-updated: 2024-04-25T07:07:57.980Z
+date: 2024-05-20T03:37:40.797Z
+updated: 2024-05-21T03:37:40.797Z
 tags: 
   - ai
   - animation videos
@@ -2295,5 +2295,6 @@ In the following article, you have learned **what are LUTs in video editing**. F
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-top-10-free-video-translators-to-mitigate-translation-risks/"><u>New In 2024, Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-oneplus-nord-ce-3-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix OnePlus Nord CE 3 5G System Crash Issue | Dr.fone</u></a></li>
 </ul></div>
+
 
 

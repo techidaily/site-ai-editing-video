@@ -1,7 +1,7 @@
 ---
 title: New Color Correction Basics (S-LOG Footage)
-date: 2024-04-24T07:08:02.467Z
-updated: 2024-04-25T07:08:02.467Z
+date: 2024-05-20T03:37:58.984Z
+updated: 2024-05-21T03:37:58.984Z
 tags: 
   - ai
   - animation videos
@@ -2089,5 +2089,6 @@ To make the still image more meaningful, you might wish to add subtitles. With t
 <li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-6-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 6 You Should Try Out</u></a></li>
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo A78? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated How to Blur Faces in Your Video on iPhone
-date: 2024-04-24T07:08:03.528Z
-updated: 2024-04-25T07:08:03.528Z
+date: 2024-05-20T03:38:05.905Z
+updated: 2024-05-21T03:38:05.905Z
 tags: 
   - ai
   - animation videos
@@ -1060,5 +1060,6 @@ One of the greatest advantages of choosing Adobe Rush over other video editors i
 <li><a href="https://screen-mirror.techidaily.com/a-guide-tecno-spark-go-2023-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Tecno Spark Go (2023) Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-m14-4g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy M14 4G Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

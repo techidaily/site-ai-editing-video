@@ -1,7 +1,7 @@
 ---
 title: Updated Splitting Audio From Video in Sony Vegas Step by Step
-date: 2024-04-24T07:08:06.428Z
-updated: 2024-04-25T07:08:06.428Z
+date: 2024-05-20T03:38:17.605Z
+updated: 2024-05-21T03:38:17.605Z
 tags: 
   - ai
   - animation videos
@@ -1471,5 +1471,6 @@ Start by selecting the video clip on the timeline. Once done, head to the “Too
 <li><a href="https://techidaily.com/recover-apple-iphone-7-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 7 Data From iTunes Backup | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

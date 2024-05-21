@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How To Blur The Video Background in After Effects
-date: 2024-04-24T07:08:10.435Z
-updated: 2024-04-25T07:08:10.435Z
+date: 2024-05-20T03:38:32.983Z
+updated: 2024-05-21T03:38:32.983Z
 tags: 
   - ai
   - animation videos
@@ -1156,5 +1156,6 @@ If you don't fancy editing videos on your laptop, you could download the softwar
 <li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-8-plus-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 8 Plus? Heres the Best Fixes</u></a></li>
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus Ace 2V | Dr.fone</u></a></li>
 </ul></div>
+
 
 

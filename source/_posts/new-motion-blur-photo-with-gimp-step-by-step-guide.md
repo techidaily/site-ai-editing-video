@@ -1,7 +1,7 @@
 ---
 title: New Motion Blur Photo With GIMP Step-By-Step Guide
-date: 2024-04-24T07:08:05.821Z
-updated: 2024-04-25T07:08:05.821Z
+date: 2024-05-20T03:38:16.144Z
+updated: 2024-05-21T03:38:16.145Z
 tags: 
   - ai
   - animation videos
@@ -1737,5 +1737,6 @@ Thus, we learned:
 <li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-lava-agni-2-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Lava Agni 2 5G Easily & Safely | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/new-power-of-ai-thumbnail-generators-for-2024/"><u>New Power of AI Thumbnail Generators for 2024</u></a></li>
 </ul></div>
+
 
 

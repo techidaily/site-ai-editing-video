@@ -1,7 +1,7 @@
 ---
 title: How To Use Face Tracking In After Effects To Make Your Videos Pop
-date: 2024-04-24T07:07:54.431Z
-updated: 2024-04-25T07:07:54.431Z
+date: 2024-05-20T03:37:29.460Z
+updated: 2024-05-21T03:37:29.460Z
 tags: 
   - ai
   - animation videos
@@ -1036,5 +1036,6 @@ A raw video doesn't send the message as the user wants. For this, creative profe
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-15-pro-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 15 Pro Passcode not Working?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-10t-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme 10T 5G Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 
 

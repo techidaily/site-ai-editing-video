@@ -1,7 +1,7 @@
 ---
 title: Creative Ways to Add Green Screen Effects In Photoshop
-date: 2024-04-24T07:07:53.554Z
-updated: 2024-04-25T07:07:53.554Z
+date: 2024-05-20T03:37:26.531Z
+updated: 2024-05-21T03:37:26.531Z
 tags: 
   - ai
   - animation videos
@@ -1444,5 +1444,6 @@ Merging SRT with MP4 is not a difficult task especially when you have the right 
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-x-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone X without Security Questions?</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Android/iOS? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

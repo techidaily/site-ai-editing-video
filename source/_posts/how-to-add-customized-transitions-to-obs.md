@@ -1,7 +1,7 @@
 ---
 title: How to Add Customized Transitions to OBS
-date: 2024-04-24T07:07:52.372Z
-updated: 2024-04-25T07:07:52.372Z
+date: 2024-05-20T03:37:21.473Z
+updated: 2024-05-21T03:37:21.473Z
 tags: 
   - ai
   - animation videos
@@ -1252,5 +1252,6 @@ The article highlighted the importance of increasing video speed in many industr
 <li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y27s-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y27s Phones</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-90-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor 90 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

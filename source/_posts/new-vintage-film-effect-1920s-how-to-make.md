@@ -1,7 +1,7 @@
 ---
 title: New Vintage Film Effect 1920S - How to Make
-date: 2024-04-24T07:08:07.767Z
-updated: 2024-04-25T07:08:07.767Z
+date: 2024-05-20T03:38:22.300Z
+updated: 2024-05-21T03:38:22.300Z
 tags: 
   - ai
   - animation videos
@@ -1688,5 +1688,6 @@ However, there are some other softwares that can also be used to merge videos. B
 <li><a href="https://change-location.techidaily.com/honor-x9b-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X9b Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme 11 5G Phone without PIN</u></a></li>
 </ul></div>
+
 
 

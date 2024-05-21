@@ -1,7 +1,7 @@
 ---
 title: New Unlink Audio and Video in DaVinci Resolve Detailed Steps
-date: 2024-04-24T07:08:07.712Z
-updated: 2024-04-25T07:08:07.712Z
+date: 2024-05-20T03:38:21.786Z
+updated: 2024-05-21T03:38:21.786Z
 tags: 
   - ai
   - animation videos
@@ -1660,5 +1660,6 @@ There you go! That's how to create an eye-zoom transition using Wondershare Film
 <li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-nokia-g310-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Nokia G310 FRP Bypass Everything You Need to Know</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-vivo-v30-lite-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo V30 Lite 5G without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Split a Clip in DaVinci Resolve Step by Step
-date: 2024-04-24T07:07:52.787Z
-updated: 2024-04-25T07:07:52.787Z
+date: 2024-05-20T03:37:24.306Z
+updated: 2024-05-21T03:37:24.306Z
 tags: 
   - ai
   - animation videos
@@ -2304,5 +2304,6 @@ We hope this article can help you learn how to split videos with Final Cut Pro, 
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A05 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Realme GT 5? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

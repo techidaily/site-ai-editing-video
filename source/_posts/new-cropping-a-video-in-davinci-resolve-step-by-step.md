@@ -1,7 +1,7 @@
 ---
 title: New Cropping a Video in Davinci Resolve Step by Step
-date: 2024-04-24T07:08:08.981Z
-updated: 2024-04-25T07:08:08.981Z
+date: 2024-05-20T03:38:28.151Z
+updated: 2024-05-21T03:38:28.151Z
 tags: 
   - ai
   - animation videos
@@ -1045,5 +1045,6 @@ We have illustrated how to speed up a video in Lightworks. However, you can only
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nokia-c32-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nokia C32 Quickly? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo V29 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

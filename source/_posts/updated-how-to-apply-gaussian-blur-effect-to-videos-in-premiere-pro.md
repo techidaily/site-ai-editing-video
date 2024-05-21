@@ -1,7 +1,7 @@
 ---
 title: Updated How to Apply Gaussian Blur Effect to Videos In Premiere Pro?
-date: 2024-04-24T07:08:10.412Z
-updated: 2024-04-25T07:08:10.412Z
+date: 2024-05-20T03:38:32.861Z
+updated: 2024-05-21T03:38:32.861Z
 tags: 
   - ai
   - animation videos
@@ -917,5 +917,6 @@ To conclude, silence detection eliminates boring stretches of silence from a vid
 <li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-7-plus-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 7 Plus i Do? Get Answers here</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-14-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 14 Plus Password? Learn the Best Methods To Unlock</u></a></li>
 </ul></div>
+
 
 

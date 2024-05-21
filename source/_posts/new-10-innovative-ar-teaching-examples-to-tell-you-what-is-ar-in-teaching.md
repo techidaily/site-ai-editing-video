@@ -1,7 +1,7 @@
 ---
 title: New 10 Innovative AR Teaching Examples to Tell You What Is AR in Teaching
-date: 2024-04-24T07:07:57.780Z
-updated: 2024-04-25T07:07:57.780Z
+date: 2024-05-20T03:37:39.234Z
+updated: 2024-05-21T03:37:39.234Z
 tags: 
   - ai
   - animation videos
@@ -1838,5 +1838,6 @@ You may use **Windows Movie Maker Live** for capturing videos and audio to the c
 <li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-se-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone SE? Heres the Best Fixes</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Nokia G42 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

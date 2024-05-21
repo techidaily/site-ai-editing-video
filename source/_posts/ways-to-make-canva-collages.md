@@ -1,7 +1,7 @@
 ---
 title: Ways to Make Canva Collages
-date: 2024-04-24T07:07:55.113Z
-updated: 2024-04-25T07:07:55.113Z
+date: 2024-05-20T03:37:31.543Z
+updated: 2024-05-21T03:37:31.543Z
 tags: 
   - ai
   - animation videos
@@ -1342,5 +1342,6 @@ Time-lapse is the video editing technique in that the speed is lower and the fre
 <li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-s17t-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo S17t</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-90-gt-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor 90 GT Location on Twitter | Dr.fone</u></a></li>
 </ul></div>
+
 
 

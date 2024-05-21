@@ -1,7 +1,7 @@
 ---
 title: Use Path Blur In Photoshop To Create Motion Effect
-date: 2024-04-24T07:07:53.183Z
-updated: 2024-04-25T07:07:53.183Z
+date: 2024-05-20T03:37:25.314Z
+updated: 2024-05-21T03:37:25.314Z
 tags: 
   - ai
   - animation videos
@@ -1355,5 +1355,6 @@ Until now, you might find your answer about using **iPhone slow-motion apps**. T
 <li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 15 Plus</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

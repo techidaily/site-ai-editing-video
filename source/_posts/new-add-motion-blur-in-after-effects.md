@@ -1,7 +1,7 @@
 ---
 title: New Add Motion Blur in After Effects
-date: 2024-04-24T07:08:00.379Z
-updated: 2024-04-25T07:08:00.379Z
+date: 2024-05-20T03:37:51.664Z
+updated: 2024-05-21T03:37:51.664Z
 tags: 
   - ai
   - animation videos
@@ -1124,5 +1124,6 @@ For macOS 10.12 or later
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-camon-20-premier-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Camon 20 Premier 5G Pattern Lock Screen</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-y78-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo Y78 5G Devices | Dr.fone</u></a></li>
 </ul></div>
+
 
 

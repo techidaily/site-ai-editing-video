@@ -1,7 +1,7 @@
 ---
 title: New How to Make Eye Zoom Transition Effect with Filmora
-date: 2024-04-24T07:08:04.689Z
-updated: 2024-04-25T07:08:04.689Z
+date: 2024-05-20T03:38:11.081Z
+updated: 2024-05-21T03:38:11.081Z
 tags: 
   - ai
   - animation videos
@@ -1346,5 +1346,6 @@ If you want to display a sense of speed and movement in the picture, you can add
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-oneplus-nord-3-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How OnePlus Nord 3 5G Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-s23plus-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy S23+ phone? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New Guiding Principles of Track Matte and Tracking in Adobe After Effects
-date: 2024-04-24T07:08:10.008Z
-updated: 2024-04-25T07:08:10.008Z
+date: 2024-05-20T03:38:31.992Z
+updated: 2024-05-21T03:38:31.992Z
 tags: 
   - ai
   - animation videos
@@ -4107,5 +4107,6 @@ The free version leaves a watermark on your videos.
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-c50-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco C50 Device</u></a></li>
 <li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-k70-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi K70 in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
+
 
 

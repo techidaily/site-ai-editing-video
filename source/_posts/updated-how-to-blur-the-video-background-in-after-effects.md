@@ -1,7 +1,7 @@
 ---
 title: Updated How To Blur The Video Background in After Effects
-date: 2024-04-24T07:08:10.436Z
-updated: 2024-04-25T07:08:10.436Z
+date: 2024-05-20T03:38:33.011Z
+updated: 2024-05-21T03:38:33.011Z
 tags: 
   - ai
   - animation videos
@@ -1882,5 +1882,6 @@ For macOS 10.12 or later
 <li><a href="https://android-location-track.techidaily.com/top-9-zte-axon-40-lite-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 ZTE Axon 40 Lite Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-magic-5-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor Magic 5 Pro Unlock Without Password</u></a></li>
 </ul></div>
+
 
 

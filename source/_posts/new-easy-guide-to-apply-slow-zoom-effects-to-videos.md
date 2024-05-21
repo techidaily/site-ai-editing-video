@@ -1,7 +1,7 @@
 ---
 title: New Easy Guide to Apply Slow Zoom Effects to Videos
-date: 2024-04-24T07:08:02.746Z
-updated: 2024-04-25T07:08:02.746Z
+date: 2024-05-20T03:38:01.540Z
+updated: 2024-05-21T03:38:01.540Z
 tags: 
   - ai
   - animation videos
@@ -1913,5 +1913,6 @@ Ultimately, we've provided a step-by-step guide on creating 3D text effects in a
 <li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Sony Xperia 5 V | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

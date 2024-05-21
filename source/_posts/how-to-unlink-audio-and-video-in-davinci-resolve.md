@@ -1,7 +1,7 @@
 ---
 title: How To Unlink Audio and Video in DaVinci Resolve
-date: 2024-04-24T07:07:54.366Z
-updated: 2024-04-25T07:07:54.366Z
+date: 2024-05-20T03:37:29.320Z
+updated: 2024-05-21T03:37:29.320Z
 tags: 
   - ai
   - animation videos
@@ -3095,5 +3095,6 @@ Lastly, you need to modify the degree to which the color settings of the other c
 <li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor 90 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-xs-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone XS to iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

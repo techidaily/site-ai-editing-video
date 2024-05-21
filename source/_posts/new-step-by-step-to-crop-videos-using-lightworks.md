@@ -1,7 +1,7 @@
 ---
 title: New Step by Step to Crop Videos Using Lightworks
-date: 2024-04-24T07:08:06.467Z
-updated: 2024-04-25T07:08:06.467Z
+date: 2024-05-20T03:38:17.873Z
+updated: 2024-05-21T03:38:17.873Z
 tags: 
   - ai
   - animation videos
@@ -1129,5 +1129,6 @@ By using the steps listed above, you can do this without any hassle. However, a 
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Infinix Smart 8? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

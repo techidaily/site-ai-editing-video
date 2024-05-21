@@ -1,7 +1,7 @@
 ---
 title: Updated Detailed Tutorial to Crop a Video in KineMaster
-date: 2024-04-24T07:08:02.654Z
-updated: 2024-04-25T07:08:02.654Z
+date: 2024-05-20T03:38:00.983Z
+updated: 2024-05-21T03:38:00.983Z
 tags: 
   - ai
   - animation videos
@@ -1605,5 +1605,6 @@ Applying preset video styles is a simple process. Select the video, then navigat
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-zte-blade-a73-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass ZTE Blade A73 5G FRP?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-asus-rog-phone-7-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Asus ROG Phone 7 Screen | Dr.fone</u></a></li>
 </ul></div>
+
 
 

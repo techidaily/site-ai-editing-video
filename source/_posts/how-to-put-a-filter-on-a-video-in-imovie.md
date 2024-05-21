@@ -1,7 +1,7 @@
 ---
 title: How to Put a Filter on a Video in iMovie
-date: 2024-04-24T07:07:54.289Z
-updated: 2024-04-25T07:07:54.289Z
+date: 2024-05-20T03:37:28.924Z
+updated: 2024-05-21T03:37:28.924Z
 tags: 
   - ai
   - animation videos
@@ -1898,5 +1898,6 @@ Hopefully, you find this guide helpful, and you can now track objects in real-ti
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-infinix-note-30i-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Infinix Note 30i to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-12-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 with IMEI Code?</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: How to Perfect Quick and Efficient Video Editing | Keyboard Shortcuts in Filmora
-date: 2024-04-24T07:07:52.526Z
-updated: 2024-04-25T07:07:52.526Z
+date: 2024-05-20T03:37:22.716Z
+updated: 2024-05-21T03:37:22.716Z
 tags: 
   - ai
   - animation videos
@@ -3016,5 +3016,6 @@ SRT files can be a great way to share your content with a wider audience as they
 <li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo S17 Pro | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-f54-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy F54 5G Screen | Dr.fone</u></a></li>
 </ul></div>
+
 
 

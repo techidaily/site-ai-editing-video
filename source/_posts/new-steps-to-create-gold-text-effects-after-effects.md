@@ -1,7 +1,7 @@
 ---
 title: New Steps to Create Gold Text Effects After Effects
-date: 2024-04-24T07:08:06.578Z
-updated: 2024-04-25T07:08:06.578Z
+date: 2024-05-20T03:38:18.176Z
+updated: 2024-05-21T03:38:18.176Z
 tags: 
   - ai
   - animation videos
@@ -1184,5 +1184,6 @@ What are your thoughts on both of these tools? Did you find this information to 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-asus-rog-phone-7-ultimate-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Asus ROG Phone 7 Ultimate Device SIM</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-redmi-note-12-pro-4g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi Redmi Note 12 Pro 4G? Tips, Tricks and Helpful Advice</u></a></li>
 </ul></div>
+
 
 

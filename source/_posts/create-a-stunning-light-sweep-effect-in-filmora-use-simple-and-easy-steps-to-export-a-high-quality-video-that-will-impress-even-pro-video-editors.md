@@ -1,7 +1,7 @@
 ---
 title: Create a Stunning Light Sweep Effect in Filmora. Use Simple and Easy Steps to Export a High-Quality Video that Will Impress Even Pro Video Editors
-date: 2024-04-24T07:07:55.530Z
-updated: 2024-04-25T07:07:55.530Z
+date: 2024-05-20T03:37:32.725Z
+updated: 2024-05-21T03:37:32.725Z
 tags: 
   - ai
   - animation videos
@@ -2316,5 +2316,6 @@ For macOS 10.12 or later
 <li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-x-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone X</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 13 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

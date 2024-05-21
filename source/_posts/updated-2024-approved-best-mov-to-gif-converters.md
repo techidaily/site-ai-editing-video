@@ -1613,3 +1613,4 @@ We have stated the steps on how to fade text in Premiere Pro. You can use the sa
 </ul></div>
 
 
+

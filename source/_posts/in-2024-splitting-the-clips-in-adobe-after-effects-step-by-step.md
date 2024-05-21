@@ -1,7 +1,7 @@
 ---
 title: In 2024, Splitting the Clips in Adobe After Effects Step by Step
-date: 2024-04-24T07:08:06.430Z
-updated: 2024-04-25T07:08:06.430Z
+date: 2024-05-20T03:38:17.610Z
+updated: 2024-05-21T03:38:17.610Z
 tags: 
   - ai
   - animation videos
@@ -2430,5 +2430,6 @@ There are several other useful features of the software like split-screen-video 
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone SE (2020)</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-y27-4g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo Y27 4G Phones with/without a PC</u></a></li>
 </ul></div>
+
 
 

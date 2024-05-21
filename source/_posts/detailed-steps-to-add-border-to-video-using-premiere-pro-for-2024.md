@@ -1,7 +1,7 @@
 ---
 title: Detailed Steps to Add Border to Video Using Premiere Pro for 2024
-date: 2024-04-24T07:08:02.612Z
-updated: 2024-04-25T07:08:02.612Z
+date: 2024-05-20T03:38:00.819Z
+updated: 2024-05-21T03:38:00.819Z
 tags: 
   - ai
   - animation videos
@@ -1765,5 +1765,6 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nokia C02? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-pdf-not-responding-error-and-save-your-data-stellar-by-stellar-guide/"><u>How to fix PDF not responding error and save your data | Stellar</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects
-date: 2024-04-24T07:07:56.304Z
-updated: 2024-04-25T07:07:56.304Z
+date: 2024-05-20T03:37:34.915Z
+updated: 2024-05-21T03:37:34.915Z
 tags: 
   - ai
   - animation videos
@@ -1094,5 +1094,6 @@ Summary
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Oppo Reno 8T? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

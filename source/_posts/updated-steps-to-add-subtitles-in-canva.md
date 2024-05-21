@@ -1,7 +1,7 @@
 ---
 title: Updated Steps to Add Subtitles in Canva
-date: 2024-04-24T07:07:59.869Z
-updated: 2024-04-25T07:07:59.869Z
+date: 2024-05-20T03:37:49.226Z
+updated: 2024-05-21T03:37:49.226Z
 tags: 
   - ai
   - animation videos
@@ -1146,5 +1146,6 @@ Lastly, click on the Export tab and save the video to your required location.
 <li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-7-plus-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 7 Plus Storage Not Loading/Showing | Stellar</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo F23 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

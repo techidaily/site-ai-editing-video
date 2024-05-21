@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Best Motion Blur Plugins for Adobe After Effects
-date: 2024-04-24T07:07:58.148Z
-updated: 2024-04-25T07:07:58.148Z
+date: 2024-05-20T03:37:41.330Z
+updated: 2024-05-21T03:37:41.330Z
 tags: 
   - ai
   - animation videos
@@ -1796,5 +1796,6 @@ Wonder Share Filmora 11 is highly recommended to get the best and most professio
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Note 30 Pro | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Google Pixel Fold? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

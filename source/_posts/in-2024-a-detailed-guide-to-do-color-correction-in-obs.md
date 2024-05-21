@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Detailed Guide to Do Color Correction in OBS
-date: 2024-04-24T07:07:59.062Z
-updated: 2024-04-25T07:07:59.062Z
+date: 2024-05-20T03:37:45.953Z
+updated: 2024-05-21T03:37:45.953Z
 tags: 
   - ai
   - animation videos
@@ -2974,5 +2974,6 @@ The above steps on how to use both VLC Media Player and Wondershare Filmora will
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme Narzo N53? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y78 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

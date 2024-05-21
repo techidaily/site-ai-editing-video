@@ -1,7 +1,7 @@
 ---
 title: In 2024, 8 Tips to Apply Cinematic Color Grading to Your Video
-date: 2024-04-24T07:07:58.807Z
-updated: 2024-04-25T07:07:58.807Z
+date: 2024-05-20T03:37:44.963Z
+updated: 2024-05-21T03:37:44.963Z
 tags: 
   - ai
   - animation videos
@@ -1223,5 +1223,6 @@ This article has discussed the purpose of **Sony S&Q** and how to use it for slo
 <li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor 100 Pro | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-moto-g24-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola Moto G24</u></a></li>
 </ul></div>
+
 
 

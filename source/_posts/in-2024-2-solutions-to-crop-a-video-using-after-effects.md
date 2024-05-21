@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Solutions to Crop a Video Using After Effects
-date: 2024-04-24T07:07:58.059Z
-updated: 2024-04-25T07:07:58.059Z
+date: 2024-05-20T03:37:41.045Z
+updated: 2024-05-21T03:37:41.045Z
 tags: 
   - ai
   - animation videos
@@ -1954,5 +1954,6 @@ For macOS 10.12 or later
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-redmi-k70e-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Redmi K70E</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oneplus-nord-ce-3-lite-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your OnePlus Nord CE 3 Lite 5G Device SIM</u></a></li>
 </ul></div>
+
 
 

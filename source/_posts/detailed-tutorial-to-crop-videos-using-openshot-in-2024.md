@@ -1,7 +1,7 @@
 ---
 title: Detailed Tutorial to Crop Videos Using Openshot, In 2024
-date: 2024-04-24T07:08:02.657Z
-updated: 2024-04-25T07:08:02.657Z
+date: 2024-05-20T03:38:00.999Z
+updated: 2024-05-21T03:38:00.999Z
 tags: 
   - ai
   - animation videos
@@ -1531,5 +1531,6 @@ Video transition effects are essential in almost all types of videos. They enhan
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-8-plus-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 8 Plus or iPad?</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/create-animated-video-on-canva/"><u>Create Animated Video on Canva</u></a></li>
 </ul></div>
+
 
 

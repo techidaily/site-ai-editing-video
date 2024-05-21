@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Make Glitch Effect with Filmora for 2024
-date: 2024-04-24T07:08:09.373Z
-updated: 2024-04-25T07:08:09.373Z
+date: 2024-05-20T03:38:29.716Z
+updated: 2024-05-21T03:38:29.716Z
 tags: 
   - ai
   - animation videos
@@ -1348,5 +1348,6 @@ While this editing method does serve that purpose, a good jump cut is more of a 
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor X9b? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55t-phone-without-google-account-by-drfone-android/"><u>How to Unlock Itel P55T Phone without Google Account?</u></a></li>
 </ul></div>
+
 
 

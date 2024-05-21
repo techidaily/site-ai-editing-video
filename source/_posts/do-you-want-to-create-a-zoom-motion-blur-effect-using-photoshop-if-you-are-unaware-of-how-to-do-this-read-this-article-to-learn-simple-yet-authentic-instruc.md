@@ -1,7 +1,7 @@
 ---
 title: Do You Want to Create a Zoom Motion Blur Effect Using Photoshop? If You Are Unaware of How to Do This, Read This Article to Learn Simple yet Authentic Instructions
-date: 2024-04-24T07:07:55.769Z
-updated: 2024-04-25T07:07:55.769Z
+date: 2024-05-20T03:37:33.396Z
+updated: 2024-05-21T03:37:33.396Z
 tags: 
   - ai
   - animation videos
@@ -746,5 +746,6 @@ See, you don't need to break a sweat to add a vintage feel to your funny video. 
 <li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-14-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 14</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor 100? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

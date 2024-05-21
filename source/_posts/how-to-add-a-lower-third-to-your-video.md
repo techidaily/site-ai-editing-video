@@ -1,7 +1,7 @@
 ---
 title: How to Add a Lower Third to Your Video
-date: 2024-04-24T07:07:52.022Z
-updated: 2024-04-25T07:07:52.022Z
+date: 2024-05-20T03:37:18.706Z
+updated: 2024-05-21T03:37:18.706Z
 tags: 
   - ai
   - animation videos
@@ -1269,5 +1269,6 @@ In conclusion, LUTs are a powerful tool for video editors who want to give their
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-x-fold-2-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo X Fold 2 for Streaming | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone 12 mini? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

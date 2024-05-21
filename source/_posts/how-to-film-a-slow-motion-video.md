@@ -1,7 +1,7 @@
 ---
 title: How To Film a Slow Motion Video
-date: 2024-04-24T07:07:52.481Z
-updated: 2024-04-25T07:07:52.481Z
+date: 2024-05-20T03:37:22.346Z
+updated: 2024-05-21T03:37:22.346Z
 tags: 
   - ai
   - animation videos
@@ -616,5 +616,6 @@ One of the most popular pieces of software for the post-production of movies is 
 <li><a href="https://phone-solutions.techidaily.com/forgot-iphone-6s-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 6s Password? – Here are the Best Solutions | Stellar</u></a></li>
 <li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Lava Yuva 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

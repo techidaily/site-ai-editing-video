@@ -1,7 +1,7 @@
 ---
 title: New 15 Camera Shake Preset for Premiere Pro to Add Camera Shake with Simple Keyframes. Each Preset Is Editable with Easy Steps. Make Your Video Shocking and Impressive with These Camera Shake Effects
-date: 2024-04-24T07:07:57.974Z
-updated: 2024-04-25T07:07:57.974Z
+date: 2024-05-20T03:37:40.772Z
+updated: 2024-05-21T03:37:40.772Z
 tags: 
   - ai
   - animation videos
@@ -1340,5 +1340,6 @@ You need to sign in to your YouTube Studio. Then from the left Menu, choose Cust
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-define-ai-video-wondershare-virbo-glossary/"><u>Updated In 2024, How to Define AI Video? | Wondershare Virbo Glossary</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-m14-4g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy M14 4G Lock Screen Password?</u></a></li>
 </ul></div>
+
 
 

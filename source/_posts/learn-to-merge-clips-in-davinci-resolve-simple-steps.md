@@ -1,7 +1,7 @@
 ---
 title: Learn to Merge Clips in DaVinci Resolve Simple Steps
-date: 2024-04-24T07:07:54.538Z
-updated: 2024-04-25T07:07:54.538Z
+date: 2024-05-20T03:37:30.058Z
+updated: 2024-05-21T03:37:30.058Z
 tags: 
   - ai
   - animation videos
@@ -1056,5 +1056,6 @@ Above are the steps to give your video a cinematic look using Wondershare Filmor
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-x-fold-2-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo X Fold 2 to iPhone Easily | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme Narzo N53? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

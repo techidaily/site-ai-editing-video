@@ -1,7 +1,7 @@
 ---
 title: In 2024, Every Compositor Should Know The Tips of Color Match in After Effects
-date: 2024-04-24T07:08:09.519Z
-updated: 2024-04-25T07:08:09.519Z
+date: 2024-05-20T03:38:30.293Z
+updated: 2024-05-21T03:38:30.293Z
 tags: 
   - ai
   - animation videos
@@ -1765,5 +1765,6 @@ Now that you know how to create a Facebook video ad, it's time to start creating
 <li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-top-5-ai-youtube-shorts-generators/"><u>New Top 5 AI YouTube Shorts Generators</u></a></li>
 </ul></div>
+
 
 

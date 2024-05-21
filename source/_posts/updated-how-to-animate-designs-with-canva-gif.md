@@ -1,7 +1,7 @@
 ---
 title: Updated How to Animate Designs With Canva GIF
-date: 2024-04-24T07:08:10.389Z
-updated: 2024-04-25T07:08:10.389Z
+date: 2024-05-20T03:38:32.826Z
+updated: 2024-05-21T03:38:32.826Z
 tags: 
   - ai
   - animation videos
@@ -1308,5 +1308,6 @@ We hope this guide helps you to add text to your video footage without much effo
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y27 4G | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-11-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 11 5G Phone FRP Lock</u></a></li>
 </ul></div>
+
 
 

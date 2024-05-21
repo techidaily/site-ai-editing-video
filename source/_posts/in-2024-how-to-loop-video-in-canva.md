@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Loop Video in Canva
-date: 2024-04-24T07:08:04.355Z
-updated: 2024-04-25T07:08:04.355Z
+date: 2024-05-20T03:38:09.535Z
+updated: 2024-05-21T03:38:09.535Z
 tags: 
   - ai
   - animation videos
@@ -734,5 +734,6 @@ If you find this article informative, remember to share it with your friends. Wh
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-c51-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme C51 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-lava-blaze-curve-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Lava Blaze Curve 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 
 

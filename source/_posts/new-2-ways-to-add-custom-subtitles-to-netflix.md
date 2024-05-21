@@ -1,7 +1,7 @@
 ---
 title: New 2 Ways to Add Custom Subtitles to Netflix
-date: 2024-04-24T07:07:58.080Z
-updated: 2024-04-25T07:07:58.080Z
+date: 2024-05-20T03:37:41.091Z
+updated: 2024-05-21T03:37:41.091Z
 tags: 
   - ai
   - animation videos
@@ -1304,5 +1304,6 @@ When creating your own LUTs, try to create and apply several different LUTs to s
 <li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-se-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone SE Without iTunes</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-learn-all-about-lip-syncing-in-animation/"><u>New Learn All About Lip-Syncing in Animation</u></a></li>
 </ul></div>
+
 
 

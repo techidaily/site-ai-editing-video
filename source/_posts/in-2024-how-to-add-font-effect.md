@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Add Font Effect
-date: 2024-04-24T07:07:59.637Z
-updated: 2024-04-25T07:07:59.637Z
+date: 2024-05-20T03:37:47.756Z
+updated: 2024-05-21T03:37:47.756Z
 tags: 
   - ai
   - animation videos
@@ -881,5 +881,6 @@ In Wondershare Filmora, there are templates for the spilt screens as well. It is
 <li><a href="https://techidaily.com/undelete-lost-data-from-honor-100-by-fonelab-android-recover-data/"><u>Undelete lost data from Honor 100</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-design-cartoon-images-with-the-best-tools/"><u>New 2024 Approved Design Cartoon Images With the Best Tools</u></a></li>
 </ul></div>
+
 
 

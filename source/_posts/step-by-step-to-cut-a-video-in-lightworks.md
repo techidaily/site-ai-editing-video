@@ -1,7 +1,7 @@
 ---
 title: Step by Step to Cut a Video in Lightworks
-date: 2024-04-24T07:07:54.760Z
-updated: 2024-04-25T07:07:54.760Z
+date: 2024-05-20T03:37:30.431Z
+updated: 2024-05-21T03:37:30.431Z
 tags: 
   - ai
   - animation videos
@@ -1895,5 +1895,6 @@ Using Filmora you can create **transparent images online** and along with it, th
 <li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-12-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 12 Passcode without a Computer</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

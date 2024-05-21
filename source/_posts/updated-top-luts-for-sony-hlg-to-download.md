@@ -1,7 +1,7 @@
 ---
 title: Updated Top LUTs for Sony HLG to Download
-date: 2024-04-24T07:08:07.628Z
-updated: 2024-04-25T07:08:07.628Z
+date: 2024-05-20T03:38:21.315Z
+updated: 2024-05-21T03:38:21.315Z
 tags: 
   - ai
   - animation videos
@@ -1545,5 +1545,6 @@ There are two ways available to achieve color grading, out of which you can sele
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-11-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme 11 Pro to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo S18 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

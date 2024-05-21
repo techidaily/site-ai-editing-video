@@ -1,7 +1,7 @@
 ---
 title: Applying the Effect of Camera Shake in Video Creation
-date: 2024-04-24T07:07:53.289Z
-updated: 2024-04-25T07:07:53.289Z
+date: 2024-05-20T03:37:25.573Z
+updated: 2024-05-21T03:37:25.573Z
 tags: 
   - ai
   - animation videos
@@ -1121,5 +1121,6 @@ However, you also need to be careful in doing some edits. Before you save your p
 <li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-tecno-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Tecno Phone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-se-2020ipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone SE (2020)/iPad Without Computer | Dr.fone</u></a></li>
 </ul></div>
+
 
 

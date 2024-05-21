@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Step by Step to Resize Video in Davinci Resolve
-date: 2024-04-24T07:08:06.559Z
-updated: 2024-04-25T07:08:06.559Z
+date: 2024-05-20T03:38:18.047Z
+updated: 2024-05-21T03:38:18.047Z
 tags: 
   - ai
   - animation videos
@@ -2935,5 +2935,6 @@ Hopefully this guide would have answered the concern of how to change text color
 <li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-a18-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo A18 to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo V27 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New How To Achieve LumaFusion Color Grading Through LUTs
-date: 2024-04-24T07:08:10.282Z
-updated: 2024-04-25T07:08:10.282Z
+date: 2024-05-20T03:38:32.478Z
+updated: 2024-05-21T03:38:32.478Z
 tags: 
   - ai
   - animation videos
@@ -3202,5 +3202,6 @@ For macOS 10.12 or later
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-10-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 10 Pro to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-nokia-c12-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Nokia C12 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 
 

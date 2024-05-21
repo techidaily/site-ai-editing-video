@@ -1,7 +1,7 @@
 ---
 title: Do You Want to Know About the DaVinci Resolve Adjustment Layer? Read This Article to Learn How to Use an Adjustment Layer (Clip) in DaVinci Resolve to Edit Videos
-date: 2024-04-24T07:07:55.798Z
-updated: 2024-04-25T07:07:55.798Z
+date: 2024-05-20T03:37:33.536Z
+updated: 2024-05-21T03:37:33.536Z
 tags: 
   - ai
   - animation videos
@@ -1077,5 +1077,6 @@ Step 4: Finally, click on "Save" to save your video with cropping. Congratulatio
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-lava-blaze-2-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Lava Blaze 2 Pro Location | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y27s-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y27s FRP</u></a></li>
 </ul></div>
+
 
 

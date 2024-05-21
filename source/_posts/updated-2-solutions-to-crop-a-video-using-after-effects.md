@@ -1,7 +1,7 @@
 ---
 title: Updated 2 Solutions to Crop a Video Using After Effects
-date: 2024-04-24T07:07:58.063Z
-updated: 2024-04-25T07:07:58.063Z
+date: 2024-05-20T03:37:41.056Z
+updated: 2024-05-21T03:37:41.056Z
 tags: 
   - ai
   - animation videos
@@ -1014,5 +1014,6 @@ In a nutshell, this article has discussed **Wondershare Filmora**, which is one 
 <li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-8-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 8 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-my-realme-gt-5-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Realme GT 5 Location Is Wrong | Dr.fone</u></a></li>
 </ul></div>
+
 
 

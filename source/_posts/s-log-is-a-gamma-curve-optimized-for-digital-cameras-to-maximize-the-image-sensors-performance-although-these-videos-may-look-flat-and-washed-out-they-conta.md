@@ -1,7 +1,7 @@
 ---
 title: S-Log Is a Gamma Curve Optimized for Digital Cameras to Maximize the Image Sensors Performance. Although These Videos May Look Flat and Washed Out, They Contain Lots of Color Information
-date: 2024-04-24T07:07:57.291Z
-updated: 2024-04-25T07:07:57.291Z
+date: 2024-05-20T03:37:36.255Z
+updated: 2024-05-21T03:37:36.255Z
 tags: 
   - ai
   - animation videos
@@ -1004,5 +1004,6 @@ Alight Motion offers more shake effects, while Filmora for mobile offers more si
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nokia-c12-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Nokia C12 Pro Is Unlocked</u></a></li>
 </ul></div>
+
 
 

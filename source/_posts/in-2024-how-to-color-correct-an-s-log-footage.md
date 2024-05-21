@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Color-Correct an S-Log Footage
-date: 2024-04-24T07:08:10.636Z
-updated: 2024-04-25T07:08:10.636Z
+date: 2024-05-20T03:38:33.342Z
+updated: 2024-05-21T03:38:33.342Z
 tags: 
   - ai
   - animation videos
@@ -2075,5 +2075,6 @@ Have you gone through the reasons that provide you the ability to zoom in on a T
 <li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 without Losing Data? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nokia-g42-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Nokia G42 5G to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 
 

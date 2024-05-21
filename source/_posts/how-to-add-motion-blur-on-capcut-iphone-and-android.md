@@ -1,7 +1,7 @@
 ---
 title: How To Add Motion Blur On CapCut? (IPhone & Android)
-date: 2024-04-24T07:07:53.817Z
-updated: 2024-04-25T07:07:53.817Z
+date: 2024-05-20T03:37:27.481Z
+updated: 2024-05-21T03:37:27.481Z
 tags: 
   - ai
   - animation videos
@@ -1053,5 +1053,6 @@ The **TikTok face zoom** effect can be quite impressive if used perfectly. Howev
 <li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-s17-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo S17 Phone With/Without IMEI Number</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-motorola-moto-g23-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Moto G23 Location on Skout | Dr.fone</u></a></li>
 </ul></div>
+
 
 

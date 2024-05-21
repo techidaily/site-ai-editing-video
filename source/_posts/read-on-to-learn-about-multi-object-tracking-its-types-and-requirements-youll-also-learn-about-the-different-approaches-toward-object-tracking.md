@@ -1,7 +1,7 @@
 ---
 title: Read on to Learn About Multi Object Tracking, Its Types, and Requirements. Youll Also Learn About the Different Approaches Toward Object Tracking
-date: 2024-04-24T07:07:56.892Z
-updated: 2024-04-25T07:07:56.892Z
+date: 2024-05-20T03:37:36.165Z
+updated: 2024-05-21T03:37:36.165Z
 tags: 
   - ai
   - animation videos
@@ -1126,5 +1126,6 @@ Now we've successfully explored the best 7 WhatsApp voice changers. Which do you
 <li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-8-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel 8 without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/ultimate-guide-on-motorola-g54-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Motorola G54 5G FRP Bypass</u></a></li>
 </ul></div>
+
 
 

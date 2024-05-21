@@ -1,7 +1,7 @@
 ---
 title: Detailed Tutorial to Crop a Video Using Openshot, In 2024
-date: 2024-04-24T07:08:09.165Z
-updated: 2024-04-25T07:08:09.165Z
+date: 2024-05-20T03:38:28.860Z
+updated: 2024-05-21T03:38:28.860Z
 tags: 
   - ai
   - animation videos
@@ -1382,5 +1382,6 @@ In conclusion, colors are a vital component of our digital media to improve our 
 <li><a href="https://ai-voice-clone.techidaily.com/updated-a-complete-guide-of-top-7-video-language-translators/"><u>Updated A Complete Guide of Top 7 Video Language Translators</u></a></li>
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Itel S23+? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

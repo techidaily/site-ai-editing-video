@@ -1,7 +1,7 @@
 ---
 title: How to Create a Light Sweep (Shine) Effect with Filmora
-date: 2024-04-24T07:07:53.930Z
-updated: 2024-04-25T07:07:53.930Z
+date: 2024-05-20T03:37:27.803Z
+updated: 2024-05-21T03:37:27.803Z
 tags: 
   - ai
   - animation videos
@@ -3066,5 +3066,6 @@ Filmora is a lightweight video editor that is easy to use and offers powerful fe
 <li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Nokia G22 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-find-x7-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Oppo Find X7 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

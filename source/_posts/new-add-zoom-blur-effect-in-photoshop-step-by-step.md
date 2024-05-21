@@ -1,7 +1,7 @@
 ---
 title: New Add Zoom Blur Effect In Photoshop Step by Step
-date: 2024-04-24T07:08:00.013Z
-updated: 2024-04-25T07:08:00.013Z
+date: 2024-05-20T03:37:50.280Z
+updated: 2024-05-21T03:37:50.280Z
 tags: 
   - ai
   - animation videos
@@ -952,5 +952,6 @@ Snapchat videos are highly popular due to their high-quality results and feature
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo F25 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 12 mini</u></a></li>
 </ul></div>
+
 
 

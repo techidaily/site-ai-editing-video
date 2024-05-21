@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Create Chroma Key Written Text Effects in Filmora
-date: 2024-04-24T07:08:10.996Z
-updated: 2024-04-25T07:08:10.996Z
+date: 2024-05-20T03:38:34.388Z
+updated: 2024-05-21T03:38:34.388Z
 tags: 
   - ai
   - animation videos
@@ -1481,5 +1481,6 @@ This effect adds a glitch to the video clip. You can use it in editing or as a t
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-iphone-8-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your iPhone 8 has bad ESN or blacklisted IMEI?</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for OnePlus Ace 3 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

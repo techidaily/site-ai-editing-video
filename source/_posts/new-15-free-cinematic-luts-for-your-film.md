@@ -1,7 +1,7 @@
 ---
 title: New 15 Free Cinematic LUTs for Your Film
-date: 2024-04-24T07:07:57.983Z
-updated: 2024-04-25T07:07:57.983Z
+date: 2024-05-20T03:37:40.809Z
+updated: 2024-05-21T03:37:40.809Z
 tags: 
   - ai
   - animation videos
@@ -2448,5 +2448,6 @@ Yes, you can use Pexels on YouTube, provided you apply the creative assets to yo
 <li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-a05-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy A05 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

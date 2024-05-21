@@ -1,7 +1,7 @@
 ---
 title: New A Guide to Use Distortion Effect in Premeiere Pro
-date: 2024-04-24T07:07:59.238Z
-updated: 2024-04-25T07:07:59.238Z
+date: 2024-05-20T03:37:46.159Z
+updated: 2024-05-21T03:37:46.159Z
 tags: 
   - ai
   - animation videos
@@ -2123,5 +2123,6 @@ Filmora is a video editor application for every content creator. Those who are f
 <li><a href="https://animation-videos.techidaily.com/in-2024-how-to-create-a-whiteboard-animation-video/"><u>In 2024, How to Create a Whiteboard Animation Video</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Sony Xperia 10 V | Dr.fone</u></a></li>
 </ul></div>
+
 
 

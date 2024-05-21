@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Subtitles to MKV Videos on All Platforms
-date: 2024-04-24T07:08:03.332Z
-updated: 2024-04-25T07:08:03.332Z
+date: 2024-05-20T03:38:05.268Z
+updated: 2024-05-21T03:38:05.268Z
 tags: 
   - ai
   - animation videos
@@ -2507,5 +2507,6 @@ For macOS 10.12 or later
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-y200e-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo Y200e 5G? Here Is the Answer | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y78plus-t1-edition-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y78+ (T1) Edition</u></a></li>
 </ul></div>
+
 
 

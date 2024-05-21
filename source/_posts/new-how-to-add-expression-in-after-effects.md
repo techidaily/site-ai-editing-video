@@ -1,7 +1,7 @@
 ---
 title: New How to Add Expression in After Effects
-date: 2024-04-24T07:07:59.568Z
-updated: 2024-04-25T07:07:59.568Z
+date: 2024-05-20T03:37:47.479Z
+updated: 2024-05-21T03:37:47.479Z
 tags: 
   - ai
   - animation videos
@@ -2659,5 +2659,6 @@ For macOS 10.12 or later
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-s17-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo S17 Phone?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-oppo-a59-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo A59 5G Phone that is Locked?</u></a></li>
 </ul></div>
+
 
 

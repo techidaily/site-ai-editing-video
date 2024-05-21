@@ -1,7 +1,7 @@
 ---
 title: Basic Introduction for LumaFusion Color Grading for 2024
-date: 2024-04-24T07:08:01.275Z
-updated: 2024-04-25T07:08:01.275Z
+date: 2024-05-20T03:37:56.369Z
+updated: 2024-05-21T03:37:56.369Z
 tags: 
   - ai
   - animation videos
@@ -1356,5 +1356,6 @@ To make a Fortnite montage video, you need to know how to save and download the 
 <li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-xs-max-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone XS Max</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-motorola-g24-power-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Motorola G24 Power Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

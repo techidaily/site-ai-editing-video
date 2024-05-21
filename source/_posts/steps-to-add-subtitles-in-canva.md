@@ -1,7 +1,7 @@
 ---
 title: Steps to Add Subtitles in Canva
-date: 2024-04-24T07:07:52.077Z
-updated: 2024-04-25T07:07:52.077Z
+date: 2024-05-20T03:37:19.164Z
+updated: 2024-05-21T03:37:19.164Z
 tags: 
   - ai
   - animation videos
@@ -687,5 +687,6 @@ No matter how you make your time lapse videos, After Effects has a ton of featur
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s Plus To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

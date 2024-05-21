@@ -1,7 +1,7 @@
 ---
 title: How to Split a Clip in After Effects
-date: 2024-04-24T07:07:54.351Z
-updated: 2024-04-25T07:07:54.351Z
+date: 2024-05-20T03:37:29.193Z
+updated: 2024-05-21T03:37:29.193Z
 tags: 
   - ai
   - animation videos
@@ -1807,5 +1807,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo A78 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
+
 
 

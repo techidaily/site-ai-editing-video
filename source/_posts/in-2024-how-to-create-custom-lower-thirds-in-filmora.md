@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Create Custom Lower Thirds in Filmora
-date: 2024-04-24T07:08:03.885Z
-updated: 2024-04-25T07:08:03.885Z
+date: 2024-05-20T03:38:07.070Z
+updated: 2024-05-21T03:38:07.070Z
 tags: 
   - ai
   - animation videos
@@ -1313,5 +1313,6 @@ For macOS 10.12 or later
 <li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-c53-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme C53 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 
 

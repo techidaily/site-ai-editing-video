@@ -1105,3 +1105,4 @@ We have illustrated how to add a transition in Premiere in simple steps. Besides
 </ul></div>
 
 
+

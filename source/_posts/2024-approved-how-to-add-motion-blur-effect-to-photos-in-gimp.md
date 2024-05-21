@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How To Add Motion Blur Effect To Photos in GIMP
-date: 2024-04-24T07:08:10.302Z
-updated: 2024-04-25T07:08:10.302Z
+date: 2024-05-20T03:38:32.570Z
+updated: 2024-05-21T03:38:32.570Z
 tags: 
   - ai
   - animation videos
@@ -977,5 +977,6 @@ There are plenty of video editing tools to get your video to the correct resolut
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-itel-p55-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Itel P55 5G to iPhone | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 12? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

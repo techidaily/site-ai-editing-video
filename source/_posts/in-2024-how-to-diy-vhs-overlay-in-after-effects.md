@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to DIY VHS Overlay in After Effects?
-date: 2024-04-24T07:08:04.201Z
-updated: 2024-04-25T07:08:04.201Z
+date: 2024-05-20T03:38:08.300Z
+updated: 2024-05-21T03:38:08.300Z
 tags: 
   - ai
   - animation videos
@@ -1367,5 +1367,6 @@ Hope the content would be useful for you. If you like the article please leave a
 <li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-12-pro-max-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 12 Pro Max without Apple ID?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-sony-xperia-5-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Sony Xperia 5 V without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Motion Blur in After Effects
-date: 2024-04-24T07:07:59.691Z
-updated: 2024-04-25T07:07:59.691Z
+date: 2024-05-20T03:37:48.250Z
+updated: 2024-05-21T03:37:48.250Z
 tags: 
   - ai
   - animation videos
@@ -932,5 +932,6 @@ In conclusion, a good video depends not only on your camera. There is so much po
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-6s-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 6s Without iTunes in 5 Ways</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Tecno Spark 20C | Dr.fone</u></a></li>
 </ul></div>
+
 
 

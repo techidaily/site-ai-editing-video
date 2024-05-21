@@ -1,7 +1,7 @@
 ---
 title: New 3D Ray Traced Settings In After Effects
-date: 2024-04-24T07:07:58.230Z
-updated: 2024-04-25T07:07:58.230Z
+date: 2024-05-20T03:37:42.044Z
+updated: 2024-05-21T03:37:42.045Z
 tags: 
   - ai
   - animation videos
@@ -2516,5 +2516,6 @@ Hopefully, this article helped resolve your queries, and you can now give a vint
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-a25-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy A25 5G to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 12 mini | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Detailed Guide to Crop Videos in Sony Vegas Pro
-date: 2024-04-24T07:08:09.083Z
-updated: 2024-04-25T07:08:09.083Z
+date: 2024-05-20T03:38:28.583Z
+updated: 2024-05-21T03:38:28.583Z
 tags: 
   - ai
   - animation videos
@@ -2604,5 +2604,6 @@ However, Filmora Mobile Video Editor is also a great alternative for VN. It offe
 <li><a href="https://ai-voice-clone.techidaily.com/easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/"><u>Easy Tutorial How to Record and Send Talking Emoji for iPhone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For OnePlus 11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

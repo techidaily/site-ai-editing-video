@@ -1,7 +1,7 @@
 ---
 title: Updated How to Crop a Video in Davinci Resolve Step by Step
-date: 2024-04-24T07:08:04.099Z
-updated: 2024-04-25T07:08:04.099Z
+date: 2024-05-20T03:38:07.955Z
+updated: 2024-05-21T03:38:07.955Z
 tags: 
   - ai
   - animation videos
@@ -1344,5 +1344,6 @@ Step 4: Finally, click on "Save" to save your video with cropping. Congratulatio
 <li><a href="https://review-topics.techidaily.com/mkv-to-xperia-10-v-converter-convert-mkv-for-xperia-10-v-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV to Xperia 10 V converter - convert MKV for Xperia 10 V</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-are-ai-tools-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Are AI Tools? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
+
 
 

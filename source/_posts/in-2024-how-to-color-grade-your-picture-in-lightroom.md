@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Color Grade Your Picture in LightRoom
-date: 2024-04-24T07:08:03.575Z
-updated: 2024-04-25T07:08:03.575Z
+date: 2024-05-20T03:38:06.120Z
+updated: 2024-05-21T03:38:06.120Z
 tags: 
   - ai
   - animation videos
@@ -1872,5 +1872,6 @@ For macOS 10.12 or later
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 8 Plus | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-samsung-galaxy-m54-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Samsung Galaxy M54 5G</u></a></li>
 </ul></div>
+
 
 

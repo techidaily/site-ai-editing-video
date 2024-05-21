@@ -1,7 +1,7 @@
 ---
 title: New The Best Peter McKinnon LUTs for Perfect Video Editing
-date: 2024-04-24T07:08:06.745Z
-updated: 2024-04-25T07:08:06.745Z
+date: 2024-05-20T03:38:18.642Z
+updated: 2024-05-21T03:38:18.642Z
 tags: 
   - ai
   - animation videos
@@ -1940,5 +1940,6 @@ That is all you need to make a Stranger Things Upside Down effects to your video
 <li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-a60s-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Itel A60s</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-s17t-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo S17t Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

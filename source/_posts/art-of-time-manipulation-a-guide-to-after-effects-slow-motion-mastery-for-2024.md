@@ -1,7 +1,7 @@
 ---
 title: Art of Time Manipulation A Guide to After Effects Slow Motion Mastery for 2024
-date: 2024-04-24T07:08:08.009Z
-updated: 2024-04-25T07:08:08.009Z
+date: 2024-05-20T03:38:24.167Z
+updated: 2024-05-21T03:38:24.167Z
 tags: 
   - ai
   - animation videos
@@ -1394,5 +1394,6 @@ If you observe partial transparency in the resultant image background, consider 
 <li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-8-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 8 from iCloud</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/how-to-make-a-video-meme-with-4-best-meme-video-makers-for-2024/"><u>How to Make a Video Meme with 4 Best Meme Video Makers for 2024</u></a></li>
 </ul></div>
+
 
 

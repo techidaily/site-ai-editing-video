@@ -1,7 +1,7 @@
 ---
 title: Updated Detailed Steps to Resize Video in Davinci Resolve
-date: 2024-04-24T07:08:09.102Z
-updated: 2024-04-25T07:08:09.102Z
+date: 2024-05-20T03:38:28.736Z
+updated: 2024-05-21T03:38:28.736Z
 tags: 
   - ai
   - animation videos
@@ -1466,5 +1466,6 @@ Covering everything from what a TikTok loop is to how to make one, we've compile
 <li><a href="https://review-topics.techidaily.com/nokia-g42-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Nokia G42 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-pivot-table-field-name-is-not-valid-error-in-excel-2000-by-stellar-guide/"><u>How to fix Pivot Table Field Name is not Valid error in Excel 2000?</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Have You Ever Wondered How to Add Camera Shake to Video in Adobe After Effects? Let Us Share with You some Tips and Tricks on How to Do Just That
-date: 2024-04-24T07:07:56.188Z
-updated: 2024-04-25T07:07:56.188Z
+date: 2024-05-20T03:37:34.594Z
+updated: 2024-05-21T03:37:34.594Z
 tags: 
   - ai
   - animation videos
@@ -1986,5 +1986,6 @@ Clown fish voice changer is a 100% free tool. It doesn't have any freemium const
 <li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor X9b | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

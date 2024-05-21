@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Apply Gaussian Blur Effect to Videos In Premiere Pro?
-date: 2024-04-24T07:08:10.408Z
-updated: 2024-04-25T07:08:10.408Z
+date: 2024-05-20T03:38:32.843Z
+updated: 2024-05-21T03:38:32.843Z
 tags: 
   - ai
   - animation videos
@@ -1510,5 +1510,6 @@ See how you can get editing tricks on Wondershare Filmora and use them in a few 
 <li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-13-mini-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 13 mini?</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro Max to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

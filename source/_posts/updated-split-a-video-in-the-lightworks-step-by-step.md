@@ -1,7 +1,7 @@
 ---
 title: Updated Split a Video in the Lightworks Step by Step
-date: 2024-04-24T07:08:06.395Z
-updated: 2024-04-25T07:08:06.395Z
+date: 2024-05-20T03:38:17.498Z
+updated: 2024-05-21T03:38:17.498Z
 tags: 
   - ai
   - animation videos
@@ -1595,5 +1595,6 @@ You could share with us the tips and tricks you know on cropping videos using th
 <li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo V29 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Stunning Glitch Effect and Its Creation Steps for Premiere Pro
-date: 2024-04-24T07:08:06.657Z
-updated: 2024-04-25T07:08:06.657Z
+date: 2024-05-20T03:38:18.290Z
+updated: 2024-05-21T03:38:18.290Z
 tags: 
   - ai
   - animation videos
@@ -2206,5 +2206,6 @@ Adding scrolling text to your video should no more be an issue for you. If you a
 <li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-14-pro-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 14 Pro Max in the Best Ways</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-c12-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Nokia C12</u></a></li>
 </ul></div>
+
 
 

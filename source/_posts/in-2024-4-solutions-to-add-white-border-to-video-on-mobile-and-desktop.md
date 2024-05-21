@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Solutions to Add White Border to Video on Mobile and Desktop
-date: 2024-04-24T07:07:58.295Z
-updated: 2024-04-25T07:07:58.295Z
+date: 2024-05-20T03:37:42.641Z
+updated: 2024-05-21T03:37:42.641Z
 tags: 
   - ai
   - animation videos
@@ -1870,5 +1870,6 @@ The built-in video editor for Windows does not have a direct option, therefore f
 <li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-narzo-60-pro-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme Narzo 60 Pro 5G Fingerprint Not Working Solutions</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-excel-2007-files-on-mac-complete-guide-stellar-by-stellar-guide/"><u>How to Recover Deleted Excel 2007 Files on Mac Complete Guide | Stellar</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated How to Do Motion Graphics in Filmora
-date: 2024-04-24T07:08:11.484Z
-updated: 2024-04-25T07:08:11.484Z
+date: 2024-05-20T03:38:35.559Z
+updated: 2024-05-21T03:38:35.559Z
 tags: 
   - ai
   - animation videos
@@ -3222,5 +3222,6 @@ A Storyboard is important to create before the final product because it will sav
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo V30 | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-x50-gt-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor X50 GT | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated How to Create Datamoshing Effect to Your Footage in After Effects?
-date: 2024-04-24T07:08:03.939Z
-updated: 2024-04-25T07:08:03.939Z
+date: 2024-05-20T03:38:07.169Z
+updated: 2024-05-21T03:38:07.169Z
 tags: 
   - ai
   - animation videos
@@ -1284,5 +1284,6 @@ There are several ways to loop a video on Vimeo. The best way out is to go for V
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 15 Plus</u></a></li>
 <li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-note-13-proplus-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi Note 13 Pro+ 5G Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 
 

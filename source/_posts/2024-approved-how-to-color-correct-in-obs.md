@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Color Correct in OBS
-date: 2024-04-24T07:08:10.649Z
-updated: 2024-04-25T07:08:10.649Z
+date: 2024-05-20T03:38:33.418Z
+updated: 2024-05-21T03:38:33.418Z
 tags: 
   - ai
   - animation videos
@@ -1493,5 +1493,6 @@ Other than this, the best Premiere Pro cinematic LUTs are also discussed above f
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a24-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A24 Phones with/without a PC</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-itel-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Itel</u></a></li>
 </ul></div>
+
 
 

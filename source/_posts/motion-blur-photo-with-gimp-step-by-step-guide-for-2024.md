@@ -1,7 +1,7 @@
 ---
 title: Motion Blur Photo With GIMP Step-By-Step Guide for 2024
-date: 2024-04-24T07:08:05.817Z
-updated: 2024-04-25T07:08:05.817Z
+date: 2024-05-20T03:38:16.128Z
+updated: 2024-05-21T03:38:16.128Z
 tags: 
   - ai
   - animation videos
@@ -1489,5 +1489,6 @@ Overall, multiple online and software-based tools help convert video files to su
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-5-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic 5 Devices | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-lava-agni-2-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Lava Agni 2 5G without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 
 

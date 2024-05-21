@@ -1,7 +1,7 @@
 ---
 title: In 2024, Change Background Color in After Effects
-date: 2024-04-24T07:08:02.452Z
-updated: 2024-04-25T07:08:02.452Z
+date: 2024-05-20T03:37:58.837Z
+updated: 2024-05-21T03:37:58.837Z
 tags: 
   - ai
   - animation videos
@@ -1834,5 +1834,6 @@ A free version of this tool is available that you can readily use for making sli
 <li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Change Spotify Location After Moving to Another Country On Apple iPhone X | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-vivo-s17t-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo S17t Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 
 

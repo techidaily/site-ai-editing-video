@@ -1,7 +1,7 @@
 ---
 title: How to Make Hand Shake Effect with Final Cut Pro
-date: 2024-04-24T07:07:54.275Z
-updated: 2024-04-25T07:07:54.275Z
+date: 2024-05-20T03:37:28.786Z
+updated: 2024-05-21T03:37:28.786Z
 tags: 
   - ai
   - animation videos
@@ -1968,5 +1968,6 @@ Summary
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-11-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone 11</u></a></li>
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-s24-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy S24 Wont Charge | Dr.fone</u></a></li>
 </ul></div>
+
 
 

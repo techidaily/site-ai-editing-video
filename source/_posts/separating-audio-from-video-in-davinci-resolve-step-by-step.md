@@ -1,7 +1,7 @@
 ---
 title: Separating Audio From Video in DaVinci Resolve Step by Step
-date: 2024-04-24T07:07:54.657Z
-updated: 2024-04-25T07:07:54.657Z
+date: 2024-05-20T03:37:30.339Z
+updated: 2024-05-21T03:37:30.339Z
 tags: 
   - ai
   - animation videos
@@ -1329,5 +1329,6 @@ We hope this post has helped you achieve the desired effect on your video. With 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nubia-red-magic-8s-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nubia Red Magic 8S Pro to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/is-your-vivo-x-flip-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo X Flip working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 
 

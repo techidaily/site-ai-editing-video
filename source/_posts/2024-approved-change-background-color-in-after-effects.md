@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Change Background Color in After Effects
-date: 2024-04-24T07:08:02.453Z
-updated: 2024-04-25T07:08:02.453Z
+date: 2024-05-20T03:37:58.850Z
+updated: 2024-05-21T03:37:58.850Z
 tags: 
   - ai
   - animation videos
@@ -1215,5 +1215,6 @@ _Besides the tips mentioned above, you can also watch this video to get some tip
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia G310 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Honor X8b? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

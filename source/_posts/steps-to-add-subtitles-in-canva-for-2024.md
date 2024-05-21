@@ -1,7 +1,7 @@
 ---
 title: Steps to Add Subtitles in Canva for 2024
-date: 2024-04-24T07:07:59.864Z
-updated: 2024-04-25T07:07:59.864Z
+date: 2024-05-20T03:37:49.138Z
+updated: 2024-05-21T03:37:49.138Z
 tags: 
   - ai
   - animation videos
@@ -1865,5 +1865,6 @@ That's how to make a tattoo disappear in Filmora 11\. With Filmora 11, you can g
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-13-pro-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 13 Pro Lock Screen | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-tecno-spark-20-proplus-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Tecno Spark 20 Pro+</u></a></li>
 </ul></div>
+
 
 

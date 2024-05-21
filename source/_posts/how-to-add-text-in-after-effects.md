@@ -1,7 +1,7 @@
 ---
 title: How To Add Text In After Effects
-date: 2024-04-24T07:07:52.089Z
-updated: 2024-04-25T07:07:52.089Z
+date: 2024-05-20T03:37:19.354Z
+updated: 2024-05-21T03:37:19.354Z
 tags: 
   - ai
   - animation videos
@@ -1532,5 +1532,6 @@ In addition, you can create special creations thanks to the built-in layer syste
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-infinix-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Infinix</u></a></li>
 </ul></div>
+
 
 

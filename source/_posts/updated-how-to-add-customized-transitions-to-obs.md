@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Customized Transitions to OBS
-date: 2024-04-24T07:08:03.280Z
-updated: 2024-04-25T07:08:03.280Z
+date: 2024-05-20T03:38:04.939Z
+updated: 2024-05-21T03:38:04.939Z
 tags: 
   - ai
   - animation videos
@@ -1231,5 +1231,6 @@ Ascertain that your video is good enough, then hit the "Create" tab. Continue to
 <li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-t2-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo T2 5G Device</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

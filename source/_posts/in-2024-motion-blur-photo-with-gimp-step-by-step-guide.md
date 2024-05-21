@@ -1,7 +1,7 @@
 ---
 title: In 2024, Motion Blur Photo With GIMP Step-By-Step Guide
-date: 2024-04-24T07:08:05.813Z
-updated: 2024-04-25T07:08:05.813Z
+date: 2024-05-20T03:38:16.123Z
+updated: 2024-05-21T03:38:16.123Z
 tags: 
   - ai
   - animation videos
@@ -3409,5 +3409,6 @@ Whether you're making a professional film or a simple family video, I'm confiden
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-z-flip-5-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy Z Flip 5 Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-gionee-f3-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Gionee F3 Pro online without jailbreak</u></a></li>
 </ul></div>
+
 
 

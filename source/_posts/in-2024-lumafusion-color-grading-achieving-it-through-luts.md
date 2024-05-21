@@ -1,7 +1,7 @@
 ---
 title: In 2024, LumaFusion Color Grading Achieving It Through LUTs
-date: 2024-04-24T07:08:05.589Z
-updated: 2024-04-25T07:08:05.589Z
+date: 2024-05-20T03:38:15.119Z
+updated: 2024-05-21T03:38:15.119Z
 tags: 
   - ai
   - animation videos
@@ -3450,5 +3450,6 @@ PERPETUAL PLAN: $69.99 per year
 <li><a href="https://blog-min.techidaily.com/how-to-sign-jpeg-online-with-digisigner-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to Sign .jpeg Online with DigiSigner</u></a></li>
 <li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-realme-11x-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Realme 11X 5G</u></a></li>
 </ul></div>
+
 
 

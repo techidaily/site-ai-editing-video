@@ -1,7 +1,7 @@
 ---
 title: New Create Risograph Effect In Photoshop A Beginners Guide
-date: 2024-04-24T07:08:08.904Z
-updated: 2024-04-25T07:08:08.904Z
+date: 2024-05-20T03:38:27.992Z
+updated: 2024-05-21T03:38:27.992Z
 tags: 
   - ai
   - animation videos
@@ -1029,5 +1029,6 @@ With Filmora, you can do professional editing and use all sorts of tools quickly
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme Phone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-v30-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme V30 Device</u></a></li>
 </ul></div>
+
 
 

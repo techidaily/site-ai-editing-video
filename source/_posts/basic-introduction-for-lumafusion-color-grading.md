@@ -1,7 +1,7 @@
 ---
 title: Basic Introduction for LumaFusion Color Grading
-date: 2024-04-24T07:07:52.181Z
-updated: 2024-04-25T07:07:52.181Z
+date: 2024-05-20T03:37:20.213Z
+updated: 2024-05-21T03:37:20.213Z
 tags: 
   - ai
   - animation videos
@@ -1653,5 +1653,6 @@ The complete structuration of anime drawing is centered on taking accurate measu
 <li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-xiaomi-redmi-a2-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Xiaomi Redmi A2</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-13-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 13 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
 </ul></div>
+
 
 

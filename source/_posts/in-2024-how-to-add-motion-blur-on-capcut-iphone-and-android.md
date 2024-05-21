@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Add Motion Blur On CapCut? (IPhone & Android)
-date: 2024-04-24T07:08:10.318Z
-updated: 2024-04-25T07:08:10.318Z
+date: 2024-05-20T03:38:32.624Z
+updated: 2024-05-21T03:38:32.624Z
 tags: 
   - ai
   - animation videos
@@ -1360,5 +1360,6 @@ You can easily use Wondershare Filmora during editing and their stock media to s
 <li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oneplus-11-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For OnePlus 11 5G Unlock Without Password</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo V30 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

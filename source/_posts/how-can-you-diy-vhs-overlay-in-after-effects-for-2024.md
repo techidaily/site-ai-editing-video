@@ -1,7 +1,7 @@
 ---
 title: How Can You DIY VHS Overlay in After Effects for 2024
-date: 2024-04-24T07:08:10.106Z
-updated: 2024-04-25T07:08:10.106Z
+date: 2024-05-20T03:38:32.188Z
+updated: 2024-05-21T03:38:32.188Z
 tags: 
   - ai
   - animation videos
@@ -1561,5 +1561,6 @@ Give these tools a try first to get a better experience with the features and pr
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-gionee-f3-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Gionee F3 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

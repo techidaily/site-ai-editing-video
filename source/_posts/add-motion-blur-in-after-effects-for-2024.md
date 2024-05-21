@@ -1,7 +1,7 @@
 ---
 title: Add Motion Blur in After Effects for 2024
-date: 2024-04-24T07:08:00.376Z
-updated: 2024-04-25T07:08:00.376Z
+date: 2024-05-20T03:37:51.645Z
+updated: 2024-05-21T03:37:51.645Z
 tags: 
   - ai
   - animation videos
@@ -1246,5 +1246,6 @@ You can use a feminine, male, scary, helium, or a regular voice. This app also a
 <li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-11-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 11 Pro Space | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Realme GT 5 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

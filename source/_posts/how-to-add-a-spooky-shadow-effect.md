@@ -1,7 +1,7 @@
 ---
 title: How to Add a Spooky Shadow Effect
-date: 2024-04-24T07:07:52.075Z
-updated: 2024-04-25T07:07:52.075Z
+date: 2024-05-20T03:37:19.114Z
+updated: 2024-05-21T03:37:19.114Z
 tags: 
   - ai
   - animation videos
@@ -1047,5 +1047,6 @@ Adobe Premiere Pro's interface is designed to make tasks like these intuitive, s
 <li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo T2x 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/is-your-tecno-spark-go-2024-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Spark Go (2024) working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 
 

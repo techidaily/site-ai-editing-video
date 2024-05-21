@@ -1,7 +1,7 @@
 ---
 title: New Easy Steps to Create Intro Video with After Effects
-date: 2024-04-24T07:08:00.267Z
-updated: 2024-04-25T07:08:00.267Z
+date: 2024-05-20T03:37:51.430Z
+updated: 2024-05-21T03:37:51.430Z
 tags: 
   - ai
   - animation videos
@@ -1453,5 +1453,6 @@ Also, if you have a YouTube channel or a content creator, adding these effects w
 <li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y100-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo Y100</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Poco C55 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

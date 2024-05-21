@@ -1,7 +1,7 @@
 ---
 title: In 2024, Little Tricks to Create Canva Slideshow No One Is Telling You
-date: 2024-04-24T07:08:05.512Z
-updated: 2024-04-25T07:08:05.512Z
+date: 2024-05-20T03:38:14.717Z
+updated: 2024-05-21T03:38:14.717Z
 tags: 
   - ai
   - animation videos
@@ -2277,5 +2277,6 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Tecno Spark Go (2023) | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oppo-k11x-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Oppo K11x Easily & Safely | Dr.fone</u></a></li>
 </ul></div>
+
 
 

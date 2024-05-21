@@ -1,7 +1,7 @@
 ---
 title: New How To Add Motion Blur In Davinci Resolve?
-date: 2024-04-24T07:08:10.316Z
-updated: 2024-04-25T07:08:10.316Z
+date: 2024-05-20T03:38:32.618Z
+updated: 2024-05-21T03:38:32.618Z
 tags: 
   - ai
   - animation videos
@@ -1231,5 +1231,6 @@ In conclusion, cinematic LUTs have become essential. With multiple options avail
 <li><a href="https://screen-mirror.techidaily.com/how-can-i-screen-mirroring-apple-iphone-15-pro-to-tvlaptop-drfone-by-drfone-ios/"><u>How Can I Screen Mirroring Apple iPhone 15 Pro to TV/Laptop? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oppo-reno-11f-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Oppo Reno 11F 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
 </ul></div>
+
 
 

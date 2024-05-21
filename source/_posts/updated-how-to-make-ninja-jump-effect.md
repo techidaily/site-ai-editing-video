@@ -1,7 +1,7 @@
 ---
 title: Updated How To Make Ninja Jump Effect
-date: 2024-04-24T07:08:04.747Z
-updated: 2024-04-25T07:08:04.747Z
+date: 2024-05-20T03:38:11.186Z
+updated: 2024-05-21T03:38:11.186Z
 tags: 
   - ai
   - animation videos
@@ -1642,5 +1642,6 @@ Detailed tutorials provided by the official channel
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-note-30i-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Note 30i.</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo Y27s | Dr.fone</u></a></li>
 </ul></div>
+
 
 

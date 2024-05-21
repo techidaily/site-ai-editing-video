@@ -1,7 +1,7 @@
 ---
 title: In 2024, Guide To Scaling and Setting Videos in Filmora | Tutorial
-date: 2024-04-24T07:08:03.030Z
-updated: 2024-04-25T07:08:03.030Z
+date: 2024-05-20T03:38:03.898Z
+updated: 2024-05-21T03:38:03.898Z
 tags: 
   - ai
   - animation videos
@@ -1785,5 +1785,6 @@ Also, it is ideal for creating aesthetic slideshow videos. It is because-
 <li><a href="https://ai-video.techidaily.com/new-everything-you-want-to-know-about-kapwing-video-translation/"><u>new Everything You Want To Know About Kapwing Video Translation</u></a></li>
 <li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme GT Neo 5 SE | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New How to Perfectly Use Canva Color Match?
-date: 2024-04-24T07:08:04.880Z
-updated: 2024-04-25T07:08:04.880Z
+date: 2024-05-20T03:38:11.557Z
+updated: 2024-05-21T03:38:11.557Z
 tags: 
   - ai
   - animation videos
@@ -1031,5 +1031,6 @@ The slow zoom effect is one of the most viral and trending video effects on soci
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-right-moves-to-use-tts-in-descript/"><u>2024 Approved Right Moves to Use TTS in Descript</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-samsung-galaxy-s23plus-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Samsung Galaxy S23+ Phone</u></a></li>
 </ul></div>
+
 
 

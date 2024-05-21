@@ -1,7 +1,7 @@
 ---
 title: Updated Steps to Rotate Videos in Lightworks
-date: 2024-04-24T07:08:06.651Z
-updated: 2024-04-25T07:08:06.651Z
+date: 2024-05-20T03:38:18.274Z
+updated: 2024-05-21T03:38:18.274Z
 tags: 
   - ai
   - animation videos
@@ -1406,5 +1406,6 @@ By incorporating all the art fundamentals and skills we have learned we can use 
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-honor-x9a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Honor X9a Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor X8b | Dr.fone</u></a></li>
 </ul></div>
+
 
 

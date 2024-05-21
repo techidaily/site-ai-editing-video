@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Create a Glitch Text Effect?
-date: 2024-04-24T07:08:10.804Z
-updated: 2024-04-25T07:08:10.804Z
+date: 2024-05-20T03:38:33.883Z
+updated: 2024-05-21T03:38:33.883Z
 tags: 
   - ai
   - animation videos
@@ -1776,5 +1776,6 @@ In addition to this, the instructions to change the **TikTok video aspect ratio*
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Lava Yuva 3? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Lava Storm 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

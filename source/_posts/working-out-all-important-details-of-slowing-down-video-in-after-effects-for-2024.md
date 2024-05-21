@@ -1,7 +1,7 @@
 ---
 title: Working Out All Important Details of Slowing Down Video in After Effects for 2024
-date: 2024-04-24T07:08:07.978Z
-updated: 2024-04-25T07:08:07.978Z
+date: 2024-05-20T03:38:23.828Z
+updated: 2024-05-21T03:38:23.828Z
 tags: 
   - ai
   - animation videos
@@ -2941,5 +2941,6 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-blaze-pro-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Blaze Pro 5G</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Samsung Galaxy A05s | Dr.fone</u></a></li>
 </ul></div>
+
 
 

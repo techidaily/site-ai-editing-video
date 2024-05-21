@@ -1,7 +1,7 @@
 ---
 title: New 3 In-Camera Transitions Tricks To Make Videos
-date: 2024-04-24T07:07:58.176Z
-updated: 2024-04-25T07:07:58.176Z
+date: 2024-05-20T03:37:41.519Z
+updated: 2024-05-21T03:37:41.519Z
 tags: 
   - ai
   - animation videos
@@ -2917,5 +2917,6 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Motorola Moto G Stylus 5G (2023)?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-15-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 15</u></a></li>
 </ul></div>
+
 
 

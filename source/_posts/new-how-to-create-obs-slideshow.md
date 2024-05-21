@@ -1,7 +1,7 @@
 ---
 title: New How to Create OBS Slideshow
-date: 2024-04-24T07:08:04.030Z
-updated: 2024-04-25T07:08:04.030Z
+date: 2024-05-20T03:38:07.526Z
+updated: 2024-05-21T03:38:07.526Z
 tags: 
   - ai
   - animation videos
@@ -1943,5 +1943,6 @@ Hopefully, you find this guide helpful, and you can now track objects in real-ti
 <li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y78plus-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y78+</u></a></li>
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-tecno-pop-8-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Tecno Pop 8 Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Guide to Making Cinematography for Music Video
-date: 2024-04-24T07:08:09.996Z
-updated: 2024-04-25T07:08:09.996Z
+date: 2024-05-20T03:38:31.938Z
+updated: 2024-05-21T03:38:31.938Z
 tags: 
   - ai
   - animation videos
@@ -1257,5 +1257,6 @@ Scopes are indeed valuable to video editors and colorists. While viewing images 
 <li><a href="https://howto.techidaily.com/bricked-your-vivo-y27-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y27 5G? Heres A Full Solution | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/finest-text-to-speech-male-voice-tools-for-natural-output-for-2024/"><u>Finest Text-to-Speech Male Voice Tools for Natural Output for 2024</u></a></li>
 </ul></div>
+
 
 

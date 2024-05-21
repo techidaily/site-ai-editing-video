@@ -1,7 +1,7 @@
 ---
 title: Updated How to Loop Video in Canva
-date: 2024-04-24T07:08:04.410Z
-updated: 2024-04-25T07:08:04.410Z
+date: 2024-05-20T03:38:09.544Z
+updated: 2024-05-21T03:38:09.544Z
 tags: 
   - ai
   - animation videos
@@ -1566,5 +1566,6 @@ Creating slow-motion videos is a vital skill in video editing. It improves visua
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-motorola-edge-2023-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Motorola Edge 2023</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-7-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 7 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
 </ul></div>
+
 
 

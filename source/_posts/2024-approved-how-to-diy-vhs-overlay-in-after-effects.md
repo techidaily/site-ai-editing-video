@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to DIY VHS Overlay in After Effects?
-date: 2024-04-24T07:08:04.207Z
-updated: 2024-04-25T07:08:04.207Z
+date: 2024-05-20T03:38:08.328Z
+updated: 2024-05-21T03:38:08.328Z
 tags: 
   - ai
   - animation videos
@@ -2155,5 +2155,6 @@ Share this article with your friends and family interested in making stunning vi
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-find-x6-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo Find X6 Pro without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oneplus-12r-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror OnePlus 12R to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 
 

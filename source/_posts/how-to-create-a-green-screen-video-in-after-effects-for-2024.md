@@ -1,7 +1,7 @@
 ---
 title: How To Create A Green Screen Video In After Effects for 2024
-date: 2024-04-24T07:08:03.688Z
-updated: 2024-04-25T07:08:03.688Z
+date: 2024-05-20T03:38:06.544Z
+updated: 2024-05-21T03:38:06.544Z
 tags: 
   - ai
   - animation videos
@@ -1836,5 +1836,6 @@ That’s why the Davinci Resolve has got its name as a **finishing application**
 <li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi 13 Ultra | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12-pro-4g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12 Pro 4G to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

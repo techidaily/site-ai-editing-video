@@ -1,7 +1,7 @@
 ---
 title: How to Use Lumetri Color in After Effects
-date: 2024-04-24T07:07:54.441Z
-updated: 2024-04-25T07:07:54.441Z
+date: 2024-05-20T03:37:29.922Z
+updated: 2024-05-21T03:37:29.922Z
 tags: 
   - ai
   - animation videos
@@ -1928,5 +1928,6 @@ _Besides the tips mentioned above, you can also watch this video to get some tip
 <li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo</u></a></li>
 </ul></div>
+
 
 

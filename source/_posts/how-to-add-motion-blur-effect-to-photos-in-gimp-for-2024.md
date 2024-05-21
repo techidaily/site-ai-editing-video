@@ -1,7 +1,7 @@
 ---
 title: How To Add Motion Blur Effect To Photos in GIMP for 2024
-date: 2024-04-24T07:08:10.300Z
-updated: 2024-04-25T07:08:10.300Z
+date: 2024-05-20T03:38:32.566Z
+updated: 2024-05-21T03:38:32.566Z
 tags: 
   - ai
   - animation videos
@@ -2078,5 +2078,6 @@ Summary
 <li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-8-plus-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 8 Plus Without Apple ID Password?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y100 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

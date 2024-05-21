@@ -1,7 +1,7 @@
 ---
 title: In 2024, Every Compositor Should Know The Trick of Color Match in After Effects
-date: 2024-04-24T07:08:02.806Z
-updated: 2024-04-25T07:08:02.806Z
+date: 2024-05-20T03:38:01.991Z
+updated: 2024-05-21T03:38:01.991Z
 tags: 
   - ai
   - animation videos
@@ -1651,5 +1651,6 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Motorola Moto G24 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New How to Color-Correct an S-Log Footage
-date: 2024-04-24T07:08:10.641Z
-updated: 2024-04-25T07:08:10.641Z
+date: 2024-05-20T03:38:33.399Z
+updated: 2024-05-21T03:38:33.399Z
 tags: 
   - ai
   - animation videos
@@ -2582,5 +2582,6 @@ From here, you can save the video to your device or create a free account with y
 <li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/clone-your-voice-harness-the-potential-of-ai-for-2024/"><u>Clone Your Voice Harness the Potential of AI for 2024</u></a></li>
 </ul></div>
+
 
 

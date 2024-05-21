@@ -1,7 +1,7 @@
 ---
 title: AR Is a Trend These Days. Here, You Can Browse the List of Top 10 Picks for AR Video Editing Apps
-date: 2024-04-24T07:07:55.220Z
-updated: 2024-04-25T07:07:55.220Z
+date: 2024-05-20T03:37:31.973Z
+updated: 2024-05-21T03:37:31.973Z
 tags: 
   - ai
   - animation videos
@@ -2128,5 +2128,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-ai-video-translation/"><u>New AI Video Translation</u></a></li>
 </ul></div>
+
 
 

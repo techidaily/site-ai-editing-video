@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Color-Correct an S-Log Footage
-date: 2024-04-24T07:08:10.639Z
-updated: 2024-04-25T07:08:10.639Z
+date: 2024-05-20T03:38:33.376Z
+updated: 2024-05-21T03:38:33.376Z
 tags: 
   - ai
   - animation videos
@@ -1059,5 +1059,6 @@ Choosing the right velocity edit maker helps you achieve the desired output in v
 <li><a href="https://android-frp.techidaily.com/about-meizu-21-frp-bypass-by-drfone-android/"><u>About Meizu 21 FRP Bypass</u></a></li>
 <li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo V30 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

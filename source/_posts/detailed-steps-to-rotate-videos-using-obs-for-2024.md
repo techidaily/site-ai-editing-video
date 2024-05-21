@@ -1,7 +1,7 @@
 ---
 title: Detailed Steps to Rotate Videos Using OBS for 2024
-date: 2024-04-24T07:08:00.969Z
-updated: 2024-04-25T07:08:00.969Z
+date: 2024-05-20T03:37:55.059Z
+updated: 2024-05-21T03:37:55.059Z
 tags: 
   - ai
   - animation videos
@@ -2761,5 +2761,6 @@ For macOS 10.12 or later
 <li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-7-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 7</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oneplus-nord-3-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best OnePlus Nord 3 5G Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 
 

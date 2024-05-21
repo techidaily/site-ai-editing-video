@@ -1,7 +1,7 @@
 ---
 title: So, in This Short Tutorial, Well Learn How to Create a Vintage 1980-Style Video with a Retro Effect that Will Leave Your Audience Yearning for More
-date: 2024-04-24T07:07:57.301Z
-updated: 2024-04-25T07:07:57.301Z
+date: 2024-05-20T03:37:36.355Z
+updated: 2024-05-21T03:37:36.355Z
 tags: 
   - ai
   - animation videos
@@ -2220,5 +2220,6 @@ A countdown is a powerful tool to add suspense to your videos. It gives your aud
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-8-plus-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 8 Plus? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-api-for-2024/"><u>What Is AI API for 2024</u></a></li>
 </ul></div>
+
 
 

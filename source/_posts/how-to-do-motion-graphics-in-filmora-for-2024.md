@@ -1,7 +1,7 @@
 ---
 title: How to Do Motion Graphics in Filmora for 2024
-date: 2024-04-24T07:08:11.483Z
-updated: 2024-04-25T07:08:11.483Z
+date: 2024-05-20T03:38:35.542Z
+updated: 2024-05-21T03:38:35.542Z
 tags: 
   - ai
   - animation videos
@@ -1345,5 +1345,6 @@ After reading this article, users have a comprehensive knowledge of **YouTube sl
 <li><a href="https://review-topics.techidaily.com/iphone-se-2020-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone SE (2020)® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-excel-2013-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a Excel 2013 Using DigiSigner</u></a></li>
 </ul></div>
+
 
 

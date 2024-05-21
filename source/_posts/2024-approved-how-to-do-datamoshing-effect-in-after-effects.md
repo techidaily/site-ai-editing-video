@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Do Datamoshing Effect in After Effects?
-date: 2024-04-24T07:08:11.478Z
-updated: 2024-04-25T07:08:11.478Z
+date: 2024-05-20T03:38:35.505Z
+updated: 2024-05-21T03:38:35.505Z
 tags: 
   - ai
   - animation videos
@@ -2053,5 +2053,6 @@ Let’s go through the steps to understand the procedure to make GIF icons disco
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-xcover-6-pro-tactical-edition-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy XCover 6 Pro Tactical Edition to Mac? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-nokia-c12-plus-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Nokia C12 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 
 

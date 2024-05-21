@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn Color Correction in After Effects with These YouTube Videos
-date: 2024-04-24T07:08:00.247Z
-updated: 2024-04-25T07:08:00.247Z
+date: 2024-05-20T03:37:51.319Z
+updated: 2024-05-21T03:37:51.319Z
 tags: 
   - ai
   - animation videos
@@ -1864,5 +1864,6 @@ This will help users to creative amazing slideshows for their favourite pictures
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Poco X6 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

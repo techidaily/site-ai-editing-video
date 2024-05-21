@@ -1,7 +1,7 @@
 ---
 title: Updated How Can You Get VHS Filter and Glitch Filter to Your Images or Videos?
-date: 2024-04-24T07:08:10.132Z
-updated: 2024-04-25T07:08:10.132Z
+date: 2024-05-20T03:38:32.250Z
+updated: 2024-05-21T03:38:32.250Z
 tags: 
   - ai
   - animation videos
@@ -1557,5 +1557,6 @@ Detailed tutorials provided by the official channel
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-11-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme 11 5G Phone Pattern Lock</u></a></li>
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-itel-p55-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Itel P55</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: How to Apply Gaussian Blur Effect to Videos In Premiere Pro, In 2024
-date: 2024-04-24T07:08:10.397Z
-updated: 2024-04-25T07:08:10.397Z
+date: 2024-05-20T03:38:32.839Z
+updated: 2024-05-21T03:38:32.839Z
 tags: 
   - ai
   - animation videos
@@ -1318,5 +1318,6 @@ Once you have finished editing your videos, you can export them in various forma
 <li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-x100-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo X100?</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 12 Pro Max</u></a></li>
 </ul></div>
+
 
 

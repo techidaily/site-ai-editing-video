@@ -1,7 +1,7 @@
 ---
 title: New How to Apply Gaussian Blur Effect to Videos In Premiere Pro?
-date: 2024-04-24T07:08:10.410Z
-updated: 2024-04-25T07:08:10.410Z
+date: 2024-05-20T03:38:32.857Z
+updated: 2024-05-21T03:38:32.857Z
 tags: 
   - ai
   - animation videos
@@ -1519,5 +1519,6 @@ this list, you can now create the best end screen for your video.
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-15-plus-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 15 Plus Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Agni 2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

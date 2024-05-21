@@ -1,7 +1,7 @@
 ---
 title: New How to Create a DIY Green Screen Video Effect?
-date: 2024-04-24T07:08:03.682Z
-updated: 2024-04-25T07:08:03.682Z
+date: 2024-05-20T03:38:06.478Z
+updated: 2024-05-21T03:38:06.478Z
 tags: 
   - ai
   - animation videos
@@ -1400,5 +1400,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://animation-videos.techidaily.com/new-12-websites-with-triggered-animate-on-scroll-examples/"><u>New 12 Websites with Triggered Animate on Scroll Examples</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-nokia-c300-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C300 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

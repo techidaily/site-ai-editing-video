@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Animate Your Designs With Canva GIF
-date: 2024-04-24T07:08:03.459Z
-updated: 2024-04-25T07:08:03.459Z
+date: 2024-05-20T03:38:05.784Z
+updated: 2024-05-21T03:38:05.784Z
 tags: 
   - ai
   - animation videos
@@ -3136,5 +3136,6 @@ We hope that these ideas can motivate you to make timelapse videos. If you want 
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-infinix-note-30i-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Infinix Note 30i Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-c12-plus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Nokia C12 Plus Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: How To Achieve LumaFusion Color Grading Through LUTs for 2024
-date: 2024-04-24T07:08:10.275Z
-updated: 2024-04-25T07:08:10.275Z
+date: 2024-05-20T03:38:32.440Z
+updated: 2024-05-21T03:38:32.440Z
 tags: 
   - ai
   - animation videos
@@ -1422,5 +1422,6 @@ By following the steps mentioned in the article above, you can easily create You
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-poco-x6-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Poco X6 to iPhone (13/14/15) | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

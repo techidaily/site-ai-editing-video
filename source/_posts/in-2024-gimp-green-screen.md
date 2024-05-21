@@ -1,7 +1,7 @@
 ---
 title: In 2024, Gimp Green Screen
-date: 2024-04-24T07:08:00.972Z
-updated: 2024-04-25T07:08:00.972Z
+date: 2024-05-20T03:37:55.113Z
+updated: 2024-05-21T03:37:55.113Z
 tags: 
   - ai
   - animation videos
@@ -1681,5 +1681,6 @@ With Filmora, you can always enhance your video within minutes with excellent qu
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 12 mini Without Passcode? 4 Easy Methods</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y78plus-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y78+ Phone With/Without IMEI Number</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Basic Introduction of LumaFusion Color Grading
-date: 2024-04-24T07:08:08.054Z
-updated: 2024-04-25T07:08:08.054Z
+date: 2024-05-20T03:38:24.466Z
+updated: 2024-05-21T03:38:24.466Z
 tags: 
   - ai
   - animation videos
@@ -1417,5 +1417,6 @@ Filmora is another great alternative that allows users to speed up their videos 
 <li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-poco-c55-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Poco C55 Phone</u></a></li>
 </ul></div>
+
 
 

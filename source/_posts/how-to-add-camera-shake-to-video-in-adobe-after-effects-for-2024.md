@@ -1,7 +1,7 @@
 ---
 title: How to Add Camera Shake to Video in Adobe After Effects for 2024
-date: 2024-04-24T07:08:03.179Z
-updated: 2024-04-25T07:08:03.179Z
+date: 2024-05-20T03:38:04.739Z
+updated: 2024-05-21T03:38:04.739Z
 tags: 
   - ai
   - animation videos
@@ -1937,5 +1937,6 @@ Detailed tutorials provided by the official channel
 <li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo T2x 5G? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nokia-c32-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nokia C32?</u></a></li>
 </ul></div>
+
 
 

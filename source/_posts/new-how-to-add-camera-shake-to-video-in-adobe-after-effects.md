@@ -1,7 +1,7 @@
 ---
 title: New How to Add Camera Shake to Video in Adobe After Effects
-date: 2024-04-24T07:08:03.181Z
-updated: 2024-04-25T07:08:03.181Z
+date: 2024-05-20T03:38:04.796Z
+updated: 2024-05-21T03:38:04.796Z
 tags: 
   - ai
   - animation videos
@@ -870,5 +870,6 @@ In conclusion, cinematic LUTs have become essential. With multiple options avail
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Device</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X Passcode without Computer?</u></a></li>
 </ul></div>
+
 
 

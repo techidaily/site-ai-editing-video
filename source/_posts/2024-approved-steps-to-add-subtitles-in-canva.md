@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Steps to Add Subtitles in Canva
-date: 2024-04-24T07:07:59.866Z
-updated: 2024-04-25T07:07:59.866Z
+date: 2024-05-20T03:37:49.153Z
+updated: 2024-05-21T03:37:49.153Z
 tags: 
   - ai
   - animation videos
@@ -2278,5 +2278,6 @@ Take your time with it, record your movies from different angles, and don't be a
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-se-2022-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone SE (2022) Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Huawei Nova Y71 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

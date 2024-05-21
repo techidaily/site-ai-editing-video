@@ -1,7 +1,7 @@
 ---
 title: Updated 3D Ray Traced Settings In After Effects
-date: 2024-04-24T07:07:58.237Z
-updated: 2024-04-25T07:07:58.237Z
+date: 2024-05-20T03:37:42.051Z
+updated: 2024-05-21T03:37:42.051Z
 tags: 
   - ai
   - animation videos
@@ -2681,5 +2681,6 @@ this list, you can now create the best end screen for your video.
 <li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Itel S23+ | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 
 

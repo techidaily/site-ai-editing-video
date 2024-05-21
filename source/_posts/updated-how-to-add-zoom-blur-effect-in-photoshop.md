@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Zoom Blur Effect In Photoshop
-date: 2024-04-24T07:08:03.456Z
-updated: 2024-04-25T07:08:03.456Z
+date: 2024-05-20T03:38:05.780Z
+updated: 2024-05-21T03:38:05.780Z
 tags: 
   - ai
   - animation videos
@@ -1244,5 +1244,6 @@ If you want to loop a video on your Mac, iMovie is the most preferred option. Th
 <li><a href="https://ios-unlock.techidaily.com/did-your-iphone-14-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 14 Pro Passcode Change Itself? Unlock It Now</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y02t-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo Y02T</u></a></li>
 </ul></div>
+
 
 

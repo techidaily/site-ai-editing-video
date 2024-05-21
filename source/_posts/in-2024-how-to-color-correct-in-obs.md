@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Color Correct in OBS
-date: 2024-04-24T07:08:10.644Z
-updated: 2024-04-25T07:08:10.644Z
+date: 2024-05-20T03:38:33.404Z
+updated: 2024-05-21T03:38:33.404Z
 tags: 
   - ai
   - animation videos
@@ -2431,5 +2431,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo S17t | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-se-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone SE With 7 Methods</u></a></li>
 </ul></div>
+
 
 

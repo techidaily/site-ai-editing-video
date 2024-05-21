@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Camera Shake to Video in Adobe After Effects
-date: 2024-04-24T07:08:03.182Z
-updated: 2024-04-25T07:08:03.182Z
+date: 2024-05-20T03:38:04.830Z
+updated: 2024-05-21T03:38:04.830Z
 tags: 
   - ai
   - animation videos
@@ -1122,5 +1122,6 @@ Indeed, there are many options to export your video using Filmora. If you wish t
 <li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-google-pixel-fold-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Google Pixel Fold</u></a></li>
 <li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Pop 7 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

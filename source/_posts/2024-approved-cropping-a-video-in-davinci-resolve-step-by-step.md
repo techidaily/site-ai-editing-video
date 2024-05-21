@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Cropping a Video in Davinci Resolve Step by Step
-date: 2024-04-24T07:08:08.978Z
-updated: 2024-04-25T07:08:08.978Z
+date: 2024-05-20T03:38:28.117Z
+updated: 2024-05-21T03:38:28.117Z
 tags: 
   - ai
   - animation videos
@@ -1097,5 +1097,6 @@ In conclusion, this article considered **how to do slow-mo in CapCut**. In addit
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-a15-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy A15 5G Without PUK Codes</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
+
 
 

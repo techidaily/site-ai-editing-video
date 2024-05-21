@@ -1,7 +1,7 @@
 ---
 title: Updated 2 Methods to Crop a Video Using After Effects
-date: 2024-04-24T07:07:58.045Z
-updated: 2024-04-25T07:07:58.045Z
+date: 2024-05-20T03:37:40.966Z
+updated: 2024-05-21T03:37:40.966Z
 tags: 
   - ai
   - animation videos
@@ -2273,5 +2273,6 @@ There are several other useful features of the software like split-screen-video 
 <li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo Y27s | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-y100-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo Y100 to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 
 

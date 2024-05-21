@@ -1,7 +1,7 @@
 ---
 title: Best CapCut Templates for Slow Motion Video Trend for 2024
-date: 2024-04-24T07:08:01.721Z
-updated: 2024-04-25T07:08:01.721Z
+date: 2024-05-20T03:37:57.338Z
+updated: 2024-05-21T03:37:57.338Z
 tags: 
   - ai
   - animation videos
@@ -1115,5 +1115,6 @@ Now we can watch our video to see our glitch with the motion blur effect. Isn't 
 <li><a href="https://techidaily.com/hard-resetting-an-infinix-zero-30-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Zero 30 5G Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation-for-2024/"><u>An Exhaustive List of Lip Sync Apps for Vibrant Video Creation for 2024</u></a></li>
 </ul></div>
+
 
 

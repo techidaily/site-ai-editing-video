@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved 15 Camera Shake Preset for Premiere Pro
-date: 2024-04-24T07:07:57.977Z
-updated: 2024-04-25T07:07:57.977Z
+date: 2024-05-20T03:37:40.788Z
+updated: 2024-05-21T03:37:40.788Z
 tags: 
   - ai
   - animation videos
@@ -1884,5 +1884,6 @@ Now we've successfully explored the best 7 WhatsApp voice changers. Which do you
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-c67-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme C67 5G to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-poco-c50-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Poco C50 to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 
 

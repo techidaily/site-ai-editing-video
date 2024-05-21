@@ -1,7 +1,7 @@
 ---
 title: Detailed Tutorial to Crop Videos Using Openshot for 2024
-date: 2024-04-24T07:08:02.659Z
-updated: 2024-04-25T07:08:02.659Z
+date: 2024-05-20T03:38:01.003Z
+updated: 2024-05-21T03:38:01.003Z
 tags: 
   - ai
   - animation videos
@@ -1714,5 +1714,6 @@ Hopefully, you found this guide helpful, and your queries related to Object Trac
 <li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-a15-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy A15 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-play-7t-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor Play 7T to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 
 

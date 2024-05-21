@@ -1,7 +1,7 @@
 ---
 title: New Basic Introduction of LumaFusion Color Grading
-date: 2024-04-24T07:08:08.056Z
-updated: 2024-04-25T07:08:08.056Z
+date: 2024-05-20T03:38:24.503Z
+updated: 2024-05-21T03:38:24.503Z
 tags: 
   - ai
   - animation videos
@@ -1787,5 +1787,6 @@ Share this article with your friends and family interested in making stunning vi
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-xr-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone XR Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-c67-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme C67 5G without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 
 

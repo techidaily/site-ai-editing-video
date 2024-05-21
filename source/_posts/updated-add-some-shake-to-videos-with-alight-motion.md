@@ -1,7 +1,7 @@
 ---
 title: Updated Add Some Shake to Videos with Alight Motion
-date: 2024-04-24T07:07:59.768Z
-updated: 2024-04-25T07:07:59.768Z
+date: 2024-05-20T03:37:48.645Z
+updated: 2024-05-21T03:37:48.645Z
 tags: 
   - ai
   - animation videos
@@ -1547,5 +1547,6 @@ Finally, you are ready to use the same tactics as explained to optimize the qual
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy F04 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-itel-p40plus-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Itel P40+ on Mac?</u></a></li>
 </ul></div>
+
 
 

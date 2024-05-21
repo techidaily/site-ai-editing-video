@@ -1,7 +1,7 @@
 ---
 title: Do You Have a Sony Camera and Want to Try Different LUTs on Your Digital Content? Youre at the Right Place, as You Can Apply Sony HLG LUTs to Your Media
-date: 2024-04-24T07:07:55.651Z
-updated: 2024-04-25T07:07:55.651Z
+date: 2024-05-20T03:37:33.056Z
+updated: 2024-05-21T03:37:33.056Z
 tags: 
   - ai
   - animation videos
@@ -1364,5 +1364,6 @@ Adobe Premiere Pro's interface is designed to make tasks like these intuitive, s
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo S17 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/new-what-is-ai-text-to-video-for-2024/"><u>New What Is AI Text to Video for 2024</u></a></li>
 </ul></div>
+
 
 

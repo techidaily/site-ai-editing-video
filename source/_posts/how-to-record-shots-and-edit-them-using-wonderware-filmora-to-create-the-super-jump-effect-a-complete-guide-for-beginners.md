@@ -1,7 +1,7 @@
 ---
 title: How to Record Shots and Edit Them Using Wonderware Filmora to Create the Super Jump Effect? A Complete Guide for Beginners
-date: 2024-04-24T07:07:56.309Z
-updated: 2024-04-25T07:07:56.309Z
+date: 2024-05-20T03:37:35.377Z
+updated: 2024-05-21T03:37:35.377Z
 tags: 
   - ai
   - animation videos
@@ -1484,5 +1484,6 @@ Ultimately, LUTs are an excellent way to make your video more cinematic. If you 
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-honor-x50-gt-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Honor X50 GT to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-motorola-moto-g34-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Motorola Moto G34 5G Phone Now with These Tips</u></a></li>
 </ul></div>
+
 
 

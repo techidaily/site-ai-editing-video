@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Selective Color Effect to Your Videos
-date: 2024-04-24T07:07:59.751Z
-updated: 2024-04-25T07:07:59.751Z
+date: 2024-05-20T03:37:48.515Z
+updated: 2024-05-21T03:37:48.515Z
 tags: 
   - ai
   - animation videos
@@ -1055,5 +1055,6 @@ This was our two cents on how you can speed up a video on Canva. In the end, spe
 <li><a href="https://meme-emoji.techidaily.com/new-how-to-edit-memoji-on-android-and-iphone-for-2024/"><u>New How to Edit Memoji on Android and iPhone for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-13-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 13 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
 </ul></div>
+
 
 

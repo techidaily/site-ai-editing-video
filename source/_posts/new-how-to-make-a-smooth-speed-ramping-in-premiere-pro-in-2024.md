@@ -1382,3 +1382,4 @@ Let’s talk Asus. It’s absolutely a considerable option. This laptop comes wi
 </ul></div>
 
 
+

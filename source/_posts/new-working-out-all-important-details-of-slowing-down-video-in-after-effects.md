@@ -1,7 +1,7 @@
 ---
 title: New Working Out All Important Details of Slowing Down Video in After Effects
-date: 2024-04-24T07:08:07.979Z
-updated: 2024-04-25T07:08:07.979Z
+date: 2024-05-20T03:38:23.850Z
+updated: 2024-05-21T03:38:23.850Z
 tags: 
   - ai
   - animation videos
@@ -560,5 +560,6 @@ Have you accidentally captured the strangers' faces in your video? No need to wo
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-honor-90-gt-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Honor 90 GT</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-infinix-hot-40-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Infinix Hot 40</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: How to Create Intro Video with Filmora
-date: 2024-04-24T07:07:52.445Z
-updated: 2024-04-25T07:07:52.445Z
+date: 2024-05-20T03:37:22.146Z
+updated: 2024-05-21T03:37:22.146Z
 tags: 
   - ai
   - animation videos
@@ -1730,5 +1730,6 @@ After turning on your LUT, you can start recording videos and taking photos. The
 <li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y55s-5g-2023-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y55s 5G (2023) Users</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-galaxy-a05s-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Galaxy A05s?</u></a></li>
 </ul></div>
+
 
 

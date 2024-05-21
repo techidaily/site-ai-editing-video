@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Designs with Feather Shapes in After Effects
-date: 2024-04-24T07:08:02.792Z
-updated: 2024-04-25T07:08:02.792Z
+date: 2024-05-20T03:38:01.874Z
+updated: 2024-05-21T03:38:01.875Z
 tags: 
   - ai
   - animation videos
@@ -1352,5 +1352,6 @@ Navigate into the "AI Frame Interpolation" section to smoothen the effect. From 
 <li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-6s-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 6s? | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-ways-to-make-sure-you-get-the-most-up-to-date-cartoon-character-design-tips/"><u>Updated Ways to Make Sure You Get the Most up to Date Cartoon Character Design Tips</u></a></li>
 </ul></div>
+
 
 

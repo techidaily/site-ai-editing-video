@@ -1,7 +1,7 @@
 ---
 title: How to Use Lumetri Color in Adobe After Effects for 2024
-date: 2024-04-24T07:08:05.151Z
-updated: 2024-04-25T07:08:05.151Z
+date: 2024-05-20T03:38:12.879Z
+updated: 2024-05-21T03:38:12.879Z
 tags: 
   - ai
   - animation videos
@@ -1894,5 +1894,6 @@ I guess that was easy, right? Up to this juncture, you should be able to perform
 <li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 8 Plus | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-asus-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Asus Phones</u></a></li>
 </ul></div>
+
 
 

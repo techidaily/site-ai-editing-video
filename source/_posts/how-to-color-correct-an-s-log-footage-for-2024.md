@@ -1,7 +1,7 @@
 ---
 title: How to Color-Correct an S-Log Footage for 2024
-date: 2024-04-24T07:08:10.638Z
-updated: 2024-04-25T07:08:10.638Z
+date: 2024-05-20T03:38:33.373Z
+updated: 2024-05-21T03:38:33.373Z
 tags: 
   - ai
   - animation videos
@@ -1580,5 +1580,6 @@ video project.
 <li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

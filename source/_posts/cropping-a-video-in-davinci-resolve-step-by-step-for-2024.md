@@ -1,7 +1,7 @@
 ---
 title: Cropping a Video in Davinci Resolve Step by Step for 2024
-date: 2024-04-24T07:08:08.976Z
-updated: 2024-04-25T07:08:08.976Z
+date: 2024-05-20T03:38:28.101Z
+updated: 2024-05-21T03:38:28.101Z
 tags: 
   - ai
   - animation videos
@@ -1481,5 +1481,6 @@ After reaching a conclusion, one should have fully understood the merits of **ho
 <li><a href="https://phone-solutions.techidaily.com/does-xiaomi-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Xiaomi support MKV video files?</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-motorola-moto-g23-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Motorola Moto G23 Devices</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Add Emoji to Linkedin Post – 5 Tips You Would Like to Know
-date: 2024-04-24T07:07:52.046Z
-updated: 2024-04-25T07:07:52.046Z
+date: 2024-05-20T03:37:18.854Z
+updated: 2024-05-21T03:37:18.854Z
 tags: 
   - ai
   - animation videos
@@ -1029,5 +1029,6 @@ This article covers how to enlarge and reduce the screen size in Google Chrome. 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-smart-8-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Smart 8 to Another | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-itel-p40-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Itel P40</u></a></li>
 </ul></div>
+
 
 

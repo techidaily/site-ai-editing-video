@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved 15 Camera Shake Preset for Adobe Premiere Pro
-date: 2024-04-24T07:07:57.964Z
-updated: 2024-04-25T07:07:57.964Z
+date: 2024-05-20T03:37:40.327Z
+updated: 2024-05-21T03:37:40.327Z
 tags: 
   - ai
   - animation videos
@@ -1864,5 +1864,6 @@ Choosing an appropriate video editing tool is equally as important as the video 
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Poco F5 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Poco F5 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

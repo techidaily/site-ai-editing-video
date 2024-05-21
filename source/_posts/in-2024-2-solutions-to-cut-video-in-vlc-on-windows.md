@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Solutions to Cut Video in VLC on Windows
-date: 2024-04-24T07:07:58.064Z
-updated: 2024-04-25T07:07:58.064Z
+date: 2024-05-20T03:37:41.059Z
+updated: 2024-05-21T03:37:41.059Z
 tags: 
   - ai
   - animation videos
@@ -1107,5 +1107,6 @@ This video editing application is fast and free of bugs, thus allowing you to pe
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-se-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone SE Backup Password? Heres What to Do | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

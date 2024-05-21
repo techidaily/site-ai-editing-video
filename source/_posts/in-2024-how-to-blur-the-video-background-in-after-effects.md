@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Blur The Video Background in After Effects
-date: 2024-04-24T07:08:10.434Z
-updated: 2024-04-25T07:08:10.434Z
+date: 2024-05-20T03:38:32.962Z
+updated: 2024-05-21T03:38:32.962Z
 tags: 
   - ai
   - animation videos
@@ -1216,5 +1216,6 @@ Step 6\. Finally, export and save the slideshow. You can save it to your local s
 <li><a href="https://ai-voice-clone.techidaily.com/narakeet-review-convenient-text-to-speech-voice-maker-for-2024/"><u>Narakeet Review Convenient Text to Speech Voice Maker for 2024</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-instagram-videos-for-global-engagement/"><u>New How to Translate Instagram Videos for Global Engagement</u></a></li>
 </ul></div>
+
 
 

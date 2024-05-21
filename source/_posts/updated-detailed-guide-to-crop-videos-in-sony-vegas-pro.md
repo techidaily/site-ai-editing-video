@@ -1,7 +1,7 @@
 ---
 title: Updated Detailed Guide to Crop Videos in Sony Vegas Pro
-date: 2024-04-24T07:08:09.087Z
-updated: 2024-04-25T07:08:09.087Z
+date: 2024-05-20T03:38:28.594Z
+updated: 2024-05-21T03:38:28.594Z
 tags: 
   - ai
   - animation videos
@@ -3177,5 +3177,6 @@ FlexClip makes video creation and editing easy with-it millions of royalty-free 
 <li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Lava Yuva 2 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

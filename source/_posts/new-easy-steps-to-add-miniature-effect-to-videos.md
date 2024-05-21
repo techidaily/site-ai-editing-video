@@ -1,7 +1,7 @@
 ---
 title: New Easy Steps to Add Miniature Effect to Videos
-date: 2024-04-24T07:07:59.677Z
-updated: 2024-04-25T07:07:59.677Z
+date: 2024-05-20T03:37:48.127Z
+updated: 2024-05-21T03:37:48.127Z
 tags: 
   - ai
   - animation videos
@@ -826,5 +826,6 @@ Drone technology is evolving modern videography and photography with aerial view
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-7-plusipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 7 Plus/iPad Without Computer</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y78plus-t1-edition-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y78+ (T1) Edition to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Detailed Tutorial to Crop Video in KineMaster
-date: 2024-04-24T07:07:53.585Z
-updated: 2024-04-25T07:07:53.585Z
+date: 2024-05-20T03:37:26.679Z
+updated: 2024-05-21T03:37:26.679Z
 tags: 
   - ai
   - animation videos
@@ -1663,5 +1663,6 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
 <li><a href="https://fix-guide.techidaily.com/reasons-for-itel-p55t-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel P55T Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oneplus-nord-ce-3-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on OnePlus Nord CE 3 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 
 

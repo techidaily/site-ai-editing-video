@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Add Miniature Effect to Videos
-date: 2024-04-24T07:07:52.066Z
-updated: 2024-04-25T07:07:52.066Z
+date: 2024-05-20T03:37:18.984Z
+updated: 2024-05-21T03:37:18.984Z
 tags: 
   - ai
   - animation videos
@@ -1280,5 +1280,6 @@ In conclusion, LUTs are essential in modern video and photo editing. They allow 
 <li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-gt-neo-5-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme GT Neo 5 by Name | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-se-2020-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone SE (2020)</u></a></li>
 </ul></div>
+
 
 

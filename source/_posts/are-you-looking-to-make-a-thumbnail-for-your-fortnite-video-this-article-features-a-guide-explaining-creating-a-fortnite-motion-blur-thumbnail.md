@@ -1,7 +1,7 @@
 ---
 title: Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail
-date: 2024-04-24T07:07:55.341Z
-updated: 2024-04-25T07:07:55.341Z
+date: 2024-05-20T03:37:32.212Z
+updated: 2024-05-21T03:37:32.212Z
 tags: 
   - ai
   - animation videos
@@ -2017,5 +2017,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus Without Passcode? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Oppo A56s 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

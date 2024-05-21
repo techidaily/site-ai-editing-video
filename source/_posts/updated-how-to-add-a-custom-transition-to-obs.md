@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add a Custom Transition to OBS
-date: 2024-04-24T07:07:59.428Z
-updated: 2024-04-25T07:07:59.428Z
+date: 2024-05-20T03:37:46.430Z
+updated: 2024-05-21T03:37:46.430Z
 tags: 
   - ai
   - animation videos
@@ -1225,5 +1225,6 @@ Finally, you are ready to use the same tactics as explained to optimize the qual
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-note-30i-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Infinix Note 30i | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-14-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone 14 without Security Questions?</u></a></li>
 </ul></div>
+
 
 

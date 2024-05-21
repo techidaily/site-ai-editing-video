@@ -1,7 +1,7 @@
 ---
 title: New How to Create Custom Lower Thirds in Filmora
-date: 2024-04-24T07:08:03.887Z
-updated: 2024-04-25T07:08:03.887Z
+date: 2024-05-20T03:38:07.076Z
+updated: 2024-05-21T03:38:07.076Z
 tags: 
   - ai
   - animation videos
@@ -1453,5 +1453,6 @@ In conclusion, cinematic LUTs have become essential. With multiple options avail
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-se-2020-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone SE (2020) without passcode</u></a></li>
 </ul></div>
+
 
 

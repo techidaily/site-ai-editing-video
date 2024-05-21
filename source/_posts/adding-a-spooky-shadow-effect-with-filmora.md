@@ -1,7 +1,7 @@
 ---
 title: Adding a Spooky Shadow Effect with Filmora
-date: 2024-04-24T07:07:52.087Z
-updated: 2024-04-25T07:07:52.087Z
+date: 2024-05-20T03:37:19.346Z
+updated: 2024-05-21T03:37:19.346Z
 tags: 
   - ai
   - animation videos
@@ -1152,5 +1152,6 @@ To learn more about these tools, look at the information provided above. In case
 <li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-15-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone 15 Screen with PC | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-14-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi 14 Pro</u></a></li>
 </ul></div>
+
 
 

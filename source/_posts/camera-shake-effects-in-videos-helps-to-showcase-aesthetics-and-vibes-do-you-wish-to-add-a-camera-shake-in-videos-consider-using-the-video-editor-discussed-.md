@@ -1,7 +1,7 @@
 ---
 title: Camera Shake Effects in Videos Helps to Showcase Aesthetics and Vibes. Do You Wish to Add a Camera Shake in Videos? Consider Using the Video Editor Discussed Here for This
-date: 2024-04-24T07:07:55.450Z
-updated: 2024-04-25T07:07:55.450Z
+date: 2024-05-20T03:37:32.544Z
+updated: 2024-05-21T03:37:32.544Z
 tags: 
   - ai
   - animation videos
@@ -1172,5 +1172,6 @@ Proper timing and speed make videos more useful and spectacular. You can enable 
 <li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-v30-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Realme V30 | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-c67-4g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme C67 4G Unlock Without Password</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 10 Top Innovative AR Video Effects to Check Out
-date: 2024-04-24T07:07:57.824Z
-updated: 2024-04-25T07:07:57.824Z
+date: 2024-05-20T03:37:39.451Z
+updated: 2024-05-21T03:37:39.451Z
 tags: 
   - ai
   - animation videos
@@ -2129,5 +2129,6 @@ For macOS 10.12 or later
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus with IMEI Code?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-defy-2-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Defy 2 ?</u></a></li>
 </ul></div>
+
 
 

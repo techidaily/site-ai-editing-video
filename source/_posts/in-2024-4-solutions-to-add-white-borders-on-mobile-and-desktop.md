@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Solutions to Add White Borders on Mobile and Desktop
-date: 2024-04-24T07:07:58.305Z
-updated: 2024-04-25T07:07:58.305Z
+date: 2024-05-20T03:37:42.654Z
+updated: 2024-05-21T03:37:42.654Z
 tags: 
   - ai
   - animation videos
@@ -1825,5 +1825,6 @@ Like other LUTs, Canon LUTs are also special and unique in their kind. They prov
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-15-plus-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 15 Plus?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-13-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 13 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Do You Want to Create a Motion Blur Effect in Your Videos? Read This Well-Described Guide to Learn How to Add Motion Blur on CapCut on iPhone and Android Devices
-date: 2024-04-24T07:07:55.767Z
-updated: 2024-04-25T07:07:55.767Z
+date: 2024-05-20T03:37:33.394Z
+updated: 2024-05-21T03:37:33.394Z
 tags: 
   - ai
   - animation videos
@@ -1971,5 +1971,6 @@ This site uses the Wiki software to stock an inventory of classic GIFs and memes
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Nokia 150 (2023)? | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone XS | Dr.fone</u></a></li>
 </ul></div>
+
 
 

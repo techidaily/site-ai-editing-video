@@ -1,7 +1,7 @@
 ---
 title: New 4 Solutions to Add White Borders on Mobile and Desktop
-date: 2024-04-24T07:07:58.307Z
-updated: 2024-04-25T07:07:58.307Z
+date: 2024-05-20T03:37:42.670Z
+updated: 2024-05-21T03:37:42.670Z
 tags: 
   - ai
   - animation videos
@@ -2806,5 +2806,6 @@ Hopefully this guide would have answered the concern of how to change text color
 <li><a href="https://location-social.techidaily.com/how-to-change-your-poco-x6-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Poco X6 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-xiaomi-redmi-note-12-proplus-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi Redmi Note 12 Pro+ 5G? 8 Solutions Inside | Dr.fone</u></a></li>
 </ul></div>
+
 
 

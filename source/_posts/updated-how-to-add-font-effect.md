@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Font Effect
-date: 2024-04-24T07:07:59.650Z
-updated: 2024-04-25T07:07:59.650Z
+date: 2024-05-20T03:37:47.783Z
+updated: 2024-05-21T03:37:47.783Z
 tags: 
   - ai
   - animation videos
@@ -1190,5 +1190,6 @@ From a business perspective, a video editor has many roles to play. Similarly, f
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone SE (2020)?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a79-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Oppo A79 5G?</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New Mastering OpenCV Object Tracking A Comprehensive Guide for Beginners and Experts
-date: 2024-04-24T07:08:05.705Z
-updated: 2024-04-25T07:08:05.705Z
+date: 2024-05-20T03:38:16.031Z
+updated: 2024-05-21T03:38:16.031Z
 tags: 
   - ai
   - animation videos
@@ -1724,5 +1724,6 @@ This article addresses your problem by showing you the use of **final cut slow-m
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-15-best-video-to-gif-app-on-iphone-and-android/"><u>New 2024 Approved 15 Best Video to GIF App on iPhone and Android</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-nokia-c12-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Nokia C12 Pro Phone</u></a></li>
 </ul></div>
+
 
 

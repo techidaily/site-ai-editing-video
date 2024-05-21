@@ -1,7 +1,7 @@
 ---
 title: 2 Solutions to Crop a Video Using After Effects
-date: 2024-04-24T07:07:51.854Z
-updated: 2024-04-25T07:07:51.854Z
+date: 2024-05-20T03:37:18.262Z
+updated: 2024-05-21T03:37:18.262Z
 tags: 
   - ai
   - animation videos
@@ -2661,5 +2661,6 @@ And for those willing to invest a little, Filmora stands as a robust alternative
 <li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-12-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 12 mini Apple ID and Apple Pay</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 8 Plus</u></a></li>
 </ul></div>
+
 
 

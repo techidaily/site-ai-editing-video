@@ -1,7 +1,7 @@
 ---
 title: New 15 Best CapCut Templates for Slow Motion Editing
-date: 2024-04-24T07:07:57.931Z
-updated: 2024-04-25T07:07:57.931Z
+date: 2024-05-20T03:37:40.028Z
+updated: 2024-05-21T03:37:40.028Z
 tags: 
   - ai
   - animation videos
@@ -2634,5 +2634,6 @@ If the proper GIF editor is used, animated GIFs can be edited with little effort
 <li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Infinix Smart 7? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi Civi 3? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

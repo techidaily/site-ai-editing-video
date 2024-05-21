@@ -1,7 +1,7 @@
 ---
 title: In 2024, Guide to Making Cinematography for Music Video
-date: 2024-04-24T07:08:09.919Z
-updated: 2024-04-25T07:08:09.919Z
+date: 2024-05-20T03:38:31.917Z
+updated: 2024-05-21T03:38:31.917Z
 tags: 
   - ai
   - animation videos
@@ -1056,5 +1056,6 @@ Hopefully, you’ve enjoyed reading this article and can now quickly add the rad
 <li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-find-n3-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo Find N3 Users</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-best-guide-for-beginners-on-2d-animation-making/"><u>Updated In 2024, Best Guide for Beginners on 2D Animation Making</u></a></li>
 </ul></div>
+
 
 

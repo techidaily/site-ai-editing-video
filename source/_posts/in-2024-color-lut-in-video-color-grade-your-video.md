@@ -1,7 +1,7 @@
 ---
 title: In 2024, Color Lut in Video - Color Grade Your Video
-date: 2024-04-24T07:08:08.725Z
-updated: 2024-04-25T07:08:08.725Z
+date: 2024-05-20T03:38:27.341Z
+updated: 2024-05-21T03:38:27.341Z
 tags: 
   - ai
   - animation videos
@@ -1410,5 +1410,6 @@ These were a few simple techniques for producing lovely text animations. The ani
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-y100a-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo Y100A 7 Common Problems & Fixes | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-your-honor-x9a-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor X9a Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 
 

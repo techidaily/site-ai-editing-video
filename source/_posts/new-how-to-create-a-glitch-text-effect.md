@@ -1,7 +1,7 @@
 ---
 title: New How to Create a Glitch Text Effect?
-date: 2024-04-24T07:08:10.806Z
-updated: 2024-04-25T07:08:10.806Z
+date: 2024-05-20T03:38:33.889Z
+updated: 2024-05-21T03:38:33.889Z
 tags: 
   - ai
   - animation videos
@@ -4294,5 +4294,6 @@ In order to trim YouTube videos, you need to download the videos on your device.
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-y56-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo Y56 5G Phone Hassle-Free</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-mini-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 13 mini Without Passcode Easily</u></a></li>
 </ul></div>
+
 
 

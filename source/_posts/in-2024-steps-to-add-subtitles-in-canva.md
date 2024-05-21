@@ -1,7 +1,7 @@
 ---
 title: In 2024, Steps to Add Subtitles in Canva
-date: 2024-04-24T07:07:59.862Z
-updated: 2024-04-25T07:07:59.862Z
+date: 2024-05-20T03:37:49.129Z
+updated: 2024-05-21T03:37:49.129Z
 tags: 
   - ai
   - animation videos
@@ -739,5 +739,6 @@ Mask tracking is handy for adding effects to a moving object in your video. By t
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia C32 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Google Pixel Fold? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

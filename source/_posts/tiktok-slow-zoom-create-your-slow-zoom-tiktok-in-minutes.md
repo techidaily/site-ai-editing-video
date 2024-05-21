@@ -1,7 +1,7 @@
 ---
 title: TikTok Slow Zoom | Create Your Slow Zoom TikTok in Minutes
-date: 2024-04-24T07:07:54.885Z
-updated: 2024-04-25T07:07:54.885Z
+date: 2024-05-20T03:37:30.772Z
+updated: 2024-05-21T03:37:30.772Z
 tags: 
   - ai
   - animation videos
@@ -2440,5 +2440,6 @@ Moreover, it offers an extensive library of built-in LUTs. You can take your vid
 <li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-90-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor 90 Pro Unlock Without Password</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y27-4g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y27 4G Phone</u></a></li>
 </ul></div>
+
 
 

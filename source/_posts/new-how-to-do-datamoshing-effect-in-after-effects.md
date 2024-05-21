@@ -1,7 +1,7 @@
 ---
 title: New How to Do Datamoshing Effect in After Effects?
-date: 2024-04-24T07:08:11.480Z
-updated: 2024-04-25T07:08:11.480Z
+date: 2024-05-20T03:38:35.521Z
+updated: 2024-05-21T03:38:35.521Z
 tags: 
   - ai
   - animation videos
@@ -1577,5 +1577,6 @@ Choosing the right velocity edit maker helps you achieve the desired output in v
 <li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-7-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 7 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor Magic 5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

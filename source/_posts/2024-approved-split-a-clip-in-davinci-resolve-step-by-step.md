@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Split a Clip in DaVinci Resolve Step by Step
-date: 2024-04-24T07:08:06.387Z
-updated: 2024-04-25T07:08:06.387Z
+date: 2024-05-20T03:38:17.457Z
+updated: 2024-05-21T03:38:17.457Z
 tags: 
   - ai
   - animation videos
@@ -966,5 +966,6 @@ The process of creating a freeze-frame effect can typically get complex. But it 
 <li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-infinix-note-30i-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Infinix Note 30i FRP Bypass Instantly</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-11-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 11 Pro Max without Password?</u></a></li>
 </ul></div>
+
 
 

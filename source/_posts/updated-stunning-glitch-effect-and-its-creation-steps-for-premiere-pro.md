@@ -1,7 +1,7 @@
 ---
 title: Updated Stunning Glitch Effect and Its Creation Steps for Premiere Pro
-date: 2024-04-24T07:08:06.663Z
-updated: 2024-04-25T07:08:06.663Z
+date: 2024-05-20T03:38:18.327Z
+updated: 2024-05-21T03:38:18.327Z
 tags: 
   - ai
   - animation videos
@@ -2003,5 +2003,6 @@ Also, it is ideal for creating aesthetic slideshow videos. It is because-
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Lava Storm 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-100-pro-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor 100 Pro without backup.</u></a></li>
 </ul></div>
+
 
 

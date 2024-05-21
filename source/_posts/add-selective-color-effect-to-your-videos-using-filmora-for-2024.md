@@ -1,7 +1,7 @@
 ---
 title: Add Selective Color Effect to Your Videos Using Filmora for 2024
-date: 2024-04-24T07:07:59.761Z
-updated: 2024-04-25T07:07:59.761Z
+date: 2024-05-20T03:37:48.581Z
+updated: 2024-05-21T03:37:48.581Z
 tags: 
   - ai
   - animation videos
@@ -1410,5 +1410,6 @@ Have you tried to add a miniature effect before? If yes, then share your experie
 <li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-6-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 6 Plus</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

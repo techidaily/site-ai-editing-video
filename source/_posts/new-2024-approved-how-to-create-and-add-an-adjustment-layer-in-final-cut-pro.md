@@ -1636,3 +1636,4 @@ Yes, you can import custom hand shake effects to your licensed version of Final 
 </ul></div>
 
 
+

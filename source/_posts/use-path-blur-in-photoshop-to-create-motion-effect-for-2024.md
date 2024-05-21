@@ -1,7 +1,7 @@
 ---
 title: Use Path Blur In Photoshop To Create Motion Effect for 2024
-date: 2024-04-24T07:08:07.726Z
-updated: 2024-04-25T07:08:07.726Z
+date: 2024-05-20T03:38:21.948Z
+updated: 2024-05-21T03:38:21.948Z
 tags: 
   - ai
   - animation videos
@@ -1104,5 +1104,6 @@ This marks the end of our guide on how to rotate video in Windows Media Player a
 <li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-12-by-name-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 12 by Name | Dr.fone</u></a></li>
 </ul></div>
+
 
 

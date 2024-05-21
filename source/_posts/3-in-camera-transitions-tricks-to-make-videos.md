@@ -1,7 +1,7 @@
 ---
 title: 3 In-Camera Transitions Tricks To Make Videos
-date: 2024-04-24T07:07:51.875Z
-updated: 2024-04-25T07:07:51.875Z
+date: 2024-05-20T03:37:18.330Z
+updated: 2024-05-21T03:37:18.330Z
 tags: 
   - ai
   - animation videos
@@ -1756,5 +1756,6 @@ After finishing up the import of the template, start adding the photos to them. 
 <li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-7-hd-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 7 HD | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Oppo Find X6 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

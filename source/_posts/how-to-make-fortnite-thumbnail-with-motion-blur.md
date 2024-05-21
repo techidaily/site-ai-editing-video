@@ -1,7 +1,7 @@
 ---
 title: How to Make Fortnite Thumbnail with Motion Blur?
-date: 2024-04-24T07:07:54.263Z
-updated: 2024-04-25T07:07:54.263Z
+date: 2024-05-20T03:37:28.772Z
+updated: 2024-05-21T03:37:28.772Z
 tags: 
   - ai
   - animation videos
@@ -2014,5 +2014,6 @@ There are so many gamers who put up their gameplay videos on social media and vi
 <li><a href="https://review-topics.techidaily.com/recover-iphone-8-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Data From iOS iTunes | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-itel-p40plus-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Itel P40+ Lock Screen Password</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Add Selective Color Effect to Your Videos Using Filmora
-date: 2024-04-24T07:07:52.068Z
-updated: 2024-04-25T07:07:52.068Z
+date: 2024-05-20T03:37:19.060Z
+updated: 2024-05-21T03:37:19.060Z
 tags: 
   - ai
   - animation videos
@@ -2011,5 +2011,6 @@ We recommend using Filmora 11 for adding built-in glitch effects. You can also u
 <li><a href="https://howto.techidaily.com/fix-tecno-camon-20-pro-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Camon 20 Pro 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

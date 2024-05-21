@@ -1,7 +1,7 @@
 ---
 title: Updated Create Motion Effect with Path Blur In Photoshop
-date: 2024-04-24T07:08:08.891Z
-updated: 2024-04-25T07:08:08.891Z
+date: 2024-05-20T03:38:27.919Z
+updated: 2024-05-21T03:38:27.919Z
 tags: 
   - ai
   - animation videos
@@ -1508,5 +1508,6 @@ Yes, you can share Google slides with your team members. They can also do editin
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Asus ROG Phone 8 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

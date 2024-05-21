@@ -1,7 +1,7 @@
 ---
 title: Unlink Audio and Video in DaVinci Resolve Detailed Steps
-date: 2024-04-24T07:07:53.179Z
-updated: 2024-04-25T07:07:53.179Z
+date: 2024-05-20T03:37:25.280Z
+updated: 2024-05-21T03:37:25.280Z
 tags: 
   - ai
   - animation videos
@@ -2328,5 +2328,6 @@ So, give Filmora for Mobile's AR emoji stickers a try next time you want to spic
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Poco M6 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

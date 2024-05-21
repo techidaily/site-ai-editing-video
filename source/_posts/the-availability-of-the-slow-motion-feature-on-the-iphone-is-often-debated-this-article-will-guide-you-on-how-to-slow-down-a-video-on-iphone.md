@@ -1,7 +1,7 @@
 ---
 title: The Availability of the Slow-Motion Feature on the iPhone Is Often Debated. This Article Will Guide You on How to Slow Down a Video on iPhone
-date: 2024-04-24T07:07:57.352Z
-updated: 2024-04-25T07:07:57.352Z
+date: 2024-05-20T03:37:36.650Z
+updated: 2024-05-21T03:37:36.650Z
 tags: 
   - ai
   - animation videos
@@ -1268,5 +1268,6 @@ In conclusion, this article considered **how to do slow-mo in CapCut**. In addit
 <li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Honor Magic 5 Lite | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-y100a-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo Y100A to iPod | Dr.fone</u></a></li>
 </ul></div>
+
 
 

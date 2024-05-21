@@ -1,7 +1,7 @@
 ---
 title: In 2024, Color Correction Basics (S-LOG Footage)
-date: 2024-04-24T07:08:02.463Z
-updated: 2024-04-25T07:08:02.463Z
+date: 2024-05-20T03:37:58.923Z
+updated: 2024-05-21T03:37:58.923Z
 tags: 
   - ai
   - animation videos
@@ -2635,5 +2635,6 @@ If you are a Discord user, knowing how to alter the zoom level on the app can pr
 <li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-smart-8-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Smart 8 Fingerprint Lock</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Oppo Find N3? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

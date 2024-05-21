@@ -1,7 +1,7 @@
 ---
 title: New Discover the Art of Masking in After Effects A Comprehensive Guide
-date: 2024-04-24T07:08:00.333Z
-updated: 2024-04-25T07:08:00.333Z
+date: 2024-05-20T03:37:51.477Z
+updated: 2024-05-21T03:37:51.477Z
 tags: 
   - ai
   - animation videos
@@ -1607,5 +1607,6 @@ Also, it is ideal for creating aesthetic slideshow videos. It is because-
 <li><a href="https://ai-live-streaming.techidaily.com/new-free-tv-streaming-9-sites-you-need-to-know-for-2024/"><u>New Free TV Streaming 9 Sites You Need To Know for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-is-it-possible-to-use-miracast-with-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Is it Possible to Use Miracast with Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

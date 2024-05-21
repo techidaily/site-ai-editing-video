@@ -1,7 +1,7 @@
 ---
 title: New How to Create a Smooth Cut Transition Effect?
-date: 2024-04-24T07:08:10.886Z
-updated: 2024-04-25T07:08:10.886Z
+date: 2024-05-20T03:38:34.084Z
+updated: 2024-05-21T03:38:34.084Z
 tags: 
   - ai
   - animation videos
@@ -1332,5 +1332,6 @@ The above article gives the exact preferences of the "Tokyo" song by which you l
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor 100 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

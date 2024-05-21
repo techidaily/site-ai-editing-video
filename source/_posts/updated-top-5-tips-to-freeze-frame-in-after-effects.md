@@ -1,7 +1,7 @@
 ---
 title: Updated Top 5 Tips to Freeze-Frame in After Effects
-date: 2024-04-24T07:08:07.532Z
-updated: 2024-04-25T07:08:07.532Z
+date: 2024-05-20T03:38:20.953Z
+updated: 2024-05-21T03:38:20.953Z
 tags: 
   - ai
   - animation videos
@@ -2069,5 +2069,6 @@ Creating slow-motion videos is a vital skill in video editing. It improves visua
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-note-30-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix Note 30 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-x100-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo X100 to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

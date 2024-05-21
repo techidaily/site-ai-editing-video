@@ -1,7 +1,7 @@
 ---
 title: How to Change the Speed of Video in DaVinci Resolve?
-date: 2024-04-24T07:07:53.912Z
-updated: 2024-04-25T07:07:53.912Z
+date: 2024-05-20T03:37:27.667Z
+updated: 2024-05-21T03:37:27.667Z
 tags: 
   - ai
   - animation videos
@@ -1028,5 +1028,6 @@ We hope that these ideas can motivate you to make timelapse videos. If you want 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/2024-approved-15-forgotten-cartoon-characters-of-all-time-you-used-to-love/"><u>2024 Approved 15 Forgotten Cartoon Characters of All Time You Used to Love</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Add Motion Blur in After Effects
-date: 2024-04-24T07:08:00.377Z
-updated: 2024-04-25T07:08:00.377Z
+date: 2024-05-20T03:37:51.654Z
+updated: 2024-05-21T03:37:51.654Z
 tags: 
   - ai
   - animation videos
@@ -1907,5 +1907,6 @@ For macOS 10.12 or later
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/huawei-p60-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Huawei P60 support - Turn Off Screen Lock.</u></a></li>
 </ul></div>
+
 
 

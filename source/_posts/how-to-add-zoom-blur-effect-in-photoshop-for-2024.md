@@ -1,7 +1,7 @@
 ---
 title: How to Add Zoom Blur Effect In Photoshop for 2024
-date: 2024-04-24T07:08:03.449Z
-updated: 2024-04-25T07:08:03.449Z
+date: 2024-05-20T03:38:05.768Z
+updated: 2024-05-21T03:38:05.768Z
 tags: 
   - ai
   - animation videos
@@ -2194,5 +2194,6 @@ Motion blur effect can drastically transform your video clip. If you are using P
 <li><a href="https://location-social.techidaily.com/how-to-change-lava-blaze-2-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Lava Blaze 2 Pro Location on Skout | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-v29e-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo V29e</u></a></li>
 </ul></div>
+
 
 

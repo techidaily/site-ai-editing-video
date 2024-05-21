@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Do Motion Graphics in Filmora
-date: 2024-04-24T07:08:11.481Z
-updated: 2024-04-25T07:08:11.481Z
+date: 2024-05-20T03:38:35.538Z
+updated: 2024-05-21T03:38:35.538Z
 tags: 
   - ai
   - animation videos
@@ -2161,5 +2161,6 @@ All kind of slideshare and templates are available at Filmora that are useful fo
 <li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-poco-x5-pro-by-drfone-android/"><u>Universal Unlock Pattern for Poco X5 Pro</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Honor X50 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

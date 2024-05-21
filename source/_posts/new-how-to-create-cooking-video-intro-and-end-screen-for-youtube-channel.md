@@ -1,7 +1,7 @@
 ---
 title: New How to Create Cooking Video Intro and End Screen for YouTube Channel?
-date: 2024-04-24T07:08:11.028Z
-updated: 2024-04-25T07:08:11.028Z
+date: 2024-05-20T03:38:34.534Z
+updated: 2024-05-21T03:38:34.534Z
 tags: 
   - ai
   - animation videos
@@ -1250,5 +1250,6 @@ In conclusion, this article considered **how to do slow-mo in CapCut**. In addit
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-neo-5-se-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme GT Neo 5 SE Phone with Broken Screen</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Nokia G22 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

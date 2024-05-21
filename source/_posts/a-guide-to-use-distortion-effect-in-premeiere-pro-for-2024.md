@@ -1,7 +1,7 @@
 ---
 title: A Guide to Use Distortion Effect in Premeiere Pro for 2024
-date: 2024-04-24T07:07:59.235Z
-updated: 2024-04-25T07:07:59.235Z
+date: 2024-05-20T03:37:46.151Z
+updated: 2024-05-21T03:37:46.151Z
 tags: 
   - ai
   - animation videos
@@ -1866,5 +1866,6 @@ For example, you can add effects to a particular object by pinpointing its movem
 <li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-itel-a70-frp-by-drfone-android/"><u>Full Guide to Bypass Itel A70 FRP</u></a></li>
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-vivo-x100-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Vivo X100</u></a></li>
 </ul></div>
+
 
 

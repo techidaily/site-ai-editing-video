@@ -1,7 +1,7 @@
 ---
 title: Change Background Color in After Effects
-date: 2024-04-24T07:07:52.243Z
-updated: 2024-04-25T07:07:52.243Z
+date: 2024-05-20T03:37:20.450Z
+updated: 2024-05-21T03:37:20.450Z
 tags: 
   - ai
   - animation videos
@@ -1201,5 +1201,6 @@ Try Filmora to apply 3D Luts on your video!
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Poco C50? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/hard-resetting-an-oppo-a78-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A78 Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Create Custom Lower Thirds in Filmora
-date: 2024-04-24T07:08:03.886Z
-updated: 2024-04-25T07:08:03.886Z
+date: 2024-05-20T03:38:07.073Z
+updated: 2024-05-21T03:38:07.073Z
 tags: 
   - ai
   - animation videos
@@ -1234,5 +1234,6 @@ When you put in the right effort, video testimonials can be an incredibly powerf
 <li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme GT 3 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-11-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 11 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

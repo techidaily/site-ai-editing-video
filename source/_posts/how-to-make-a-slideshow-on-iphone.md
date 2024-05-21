@@ -1,7 +1,7 @@
 ---
 title: How to Make a Slideshow on iPhone
-date: 2024-04-24T07:07:52.170Z
-updated: 2024-04-25T07:07:52.170Z
+date: 2024-05-20T03:37:20.170Z
+updated: 2024-05-21T03:37:20.170Z
 tags: 
   - ai
   - animation videos
@@ -1863,5 +1863,6 @@ Now that you know what kind of DIY videos you want to create, be ready and be pr
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-best-text-to-video-ai-generator-tools-alternative-to-sora/"><u>2024 Approved The Best Text-to-Video AI Generator Tools Alternative to Sora</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-12-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 12 and iPad Securely</u></a></li>
 </ul></div>
+
 
 

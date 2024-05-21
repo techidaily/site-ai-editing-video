@@ -1,7 +1,7 @@
 ---
 title: Cropping a Video in Final Cut Pro Step by Step
-date: 2024-04-24T07:07:52.259Z
-updated: 2024-04-25T07:07:52.259Z
+date: 2024-05-20T03:37:20.571Z
+updated: 2024-05-21T03:37:20.571Z
 tags: 
   - ai
   - animation videos
@@ -1759,5 +1759,6 @@ For macOS 10.12 or later
 <li><a href="https://change-location.techidaily.com/honor-magic-6-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 6 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-tecno-spark-go-2023-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Tecno Spark Go (2023) for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 
 

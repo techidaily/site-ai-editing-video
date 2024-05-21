@@ -1,7 +1,7 @@
 ---
 title: In 2024, Art of Time Manipulation A Guide to After Effects Slow Motion Mastery
-date: 2024-04-24T07:08:08.007Z
-updated: 2024-04-25T07:08:08.007Z
+date: 2024-05-20T03:38:24.140Z
+updated: 2024-05-21T03:38:24.140Z
 tags: 
   - ai
   - animation videos
@@ -2320,5 +2320,6 @@ If you are done with those usual and commonplace captures, try hands at creating
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 6s Plus?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-t2-pro-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo T2 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1176,3 +1176,4 @@ Beginning to experiment with all of Final Cut Pro X's functions and determining 
 </ul></div>
 
 
+

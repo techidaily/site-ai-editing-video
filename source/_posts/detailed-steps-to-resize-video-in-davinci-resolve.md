@@ -1,7 +1,7 @@
 ---
 title: Detailed Steps to Resize Video in Davinci Resolve
-date: 2024-04-24T07:07:53.581Z
-updated: 2024-04-25T07:07:53.581Z
+date: 2024-05-20T03:37:26.638Z
+updated: 2024-05-21T03:37:26.638Z
 tags: 
   - ai
   - animation videos
@@ -2674,5 +2674,6 @@ For iOS and Android devices, CapCut turns out to be a great option to work with.
 <li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 6s Plus</u></a></li>
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of OnePlus Nord N30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

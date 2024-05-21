@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Add Customized Transitions to OBS
-date: 2024-04-24T07:08:03.275Z
-updated: 2024-04-25T07:08:03.275Z
+date: 2024-05-20T03:38:04.898Z
+updated: 2024-05-21T03:38:04.898Z
 tags: 
   - ai
   - animation videos
@@ -1488,5 +1488,6 @@ Upon reaching the end, you must have gained a brief knowledge of **slow-motion A
 <li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-lava-agni-2-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Lava Agni 2 5G</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo X90S | Dr.fone</u></a></li>
 </ul></div>
+
 
 

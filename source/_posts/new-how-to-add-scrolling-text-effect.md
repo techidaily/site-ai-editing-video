@@ -1,7 +1,7 @@
 ---
 title: New How To Add Scrolling Text Effect
-date: 2024-04-24T07:07:59.747Z
-updated: 2024-04-25T07:07:59.747Z
+date: 2024-05-20T03:37:48.464Z
+updated: 2024-05-21T03:37:48.464Z
 tags: 
   - ai
   - animation videos
@@ -1821,5 +1821,6 @@ Summary
 <li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo V27 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo V29 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

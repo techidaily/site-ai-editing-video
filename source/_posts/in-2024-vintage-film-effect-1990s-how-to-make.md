@@ -1,7 +1,7 @@
 ---
 title: In 2024, Vintage Film Effect 1990S - How to Make
-date: 2024-04-24T07:08:07.769Z
-updated: 2024-04-25T07:08:07.769Z
+date: 2024-05-20T03:38:22.331Z
+updated: 2024-05-21T03:38:22.331Z
 tags: 
   - ai
   - animation videos
@@ -1452,5 +1452,6 @@ Follow all the steps in the correct order. This is how you can use NewBlue effec
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-s17-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo S17 Pro on Mac</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-the-best-text-to-audio-converters-of-all-times/"><u>In 2024, The Best Text-to-Audio Converters of All Times</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Perfectly Use Canva Color Match?
-date: 2024-04-24T07:08:04.879Z
-updated: 2024-04-25T07:08:04.879Z
+date: 2024-05-20T03:38:11.553Z
+updated: 2024-05-21T03:38:11.553Z
 tags: 
   - ai
   - animation videos
@@ -1566,5 +1566,6 @@ A countdown is a powerful tool to add suspense to your videos. It gives your aud
 <li><a href="https://meme-emoji.techidaily.com/updated-best-websites-to-add-emojis-to-photos-online/"><u>Updated Best Websites to Add Emojis to Photos Online</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-honor-play-40c-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Honor Play 40C</u></a></li>
 </ul></div>
+
 
 

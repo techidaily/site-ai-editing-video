@@ -1,7 +1,7 @@
 ---
 title: Zoom In and Out on Discord
-date: 2024-04-24T07:07:52.172Z
-updated: 2024-04-25T07:07:52.172Z
+date: 2024-05-20T03:37:20.177Z
+updated: 2024-05-21T03:37:20.177Z
 tags: 
   - ai
   - animation videos
@@ -1662,5 +1662,6 @@ Detailed tutorials provided by the official channel
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-spark-10c-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Spark 10C</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Create Slide Masking Effect Intro
-date: 2024-04-24T07:08:02.532Z
-updated: 2024-04-25T07:08:02.532Z
+date: 2024-05-20T03:37:59.634Z
+updated: 2024-05-21T03:37:59.634Z
 tags: 
   - ai
   - animation videos
@@ -1673,5 +1673,6 @@ Time lapses are an amazing way to capture moments from any device. But there are
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-lava-agni-2-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Lava Agni 2 5G Location Settings | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone XS Max? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

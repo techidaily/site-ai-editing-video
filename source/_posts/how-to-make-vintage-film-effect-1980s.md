@@ -1,7 +1,7 @@
 ---
 title: How to Make Vintage Film Effect 1980S
-date: 2024-04-24T07:07:52.522Z
-updated: 2024-04-25T07:07:52.522Z
+date: 2024-05-20T03:37:22.696Z
+updated: 2024-05-21T03:37:22.696Z
 tags: 
   - ai
   - animation videos
@@ -1501,5 +1501,6 @@ In conclusion, Peter McKinnon is an impressive content creator and professional.
 <li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Honor X9a | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 10 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

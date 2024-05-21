@@ -1,7 +1,7 @@
 ---
 title: Updated How to Use Rule of Thirds in Video
-date: 2024-04-24T07:08:05.182Z
-updated: 2024-04-25T07:08:05.182Z
+date: 2024-05-20T03:38:13.160Z
+updated: 2024-05-21T03:38:13.160Z
 tags: 
   - ai
   - animation videos
@@ -1413,5 +1413,6 @@ Summary
 <li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 6s Plus</u></a></li>
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

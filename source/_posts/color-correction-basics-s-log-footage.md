@@ -1,7 +1,7 @@
 ---
 title: Color Correction Basics (S-LOG Footage)
-date: 2024-04-24T07:07:52.244Z
-updated: 2024-04-25T07:07:52.244Z
+date: 2024-05-20T03:37:20.457Z
+updated: 2024-05-21T03:37:20.457Z
 tags: 
   - ai
   - animation videos
@@ -1317,5 +1317,6 @@ Those who are looking for an easy to use online tool with user-friendly interfac
 <li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
 </ul></div>
+
 
 
