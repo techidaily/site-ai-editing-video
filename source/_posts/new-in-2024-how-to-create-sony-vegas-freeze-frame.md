@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Create Sony Vegas Freeze Frame
-date: 2024-04-24T07:08:43.849Z
-updated: 2024-04-25T07:08:43.849Z
+date: 2024-06-09T16:15:27.095Z
+updated: 2024-06-10T16:15:27.095Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, How to Create Sony Vegas Freeze Frame
 excerpt: This Article Describes New In 2024, How to Create Sony Vegas Freeze Frame
 keywords: how to create freeze frame clone effect,ai animation how to create sony vegas freeze frame,ai animation how to make sony vegas freeze frame,how to create sony vegas freeze frame,how to create a freeze frame sequence in video,how to make sony vegas freeze frame,sony vegas freeze frame
-thumbnail: https://www.lifewire.com/thmb/ADwMZAl5AjJaezwcgc229Y2W9FU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1558254975-0a8ae81a4cd04f3eba064dd56ba8b030.jpg
+thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f83678c9c2635006dd72b341f.jpg
 ---
 
 ## How to Create Sony Vegas Freeze Frame

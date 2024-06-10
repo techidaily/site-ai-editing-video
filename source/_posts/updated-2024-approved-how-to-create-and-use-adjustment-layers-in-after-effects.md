@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Create and Use Adjustment Layers in After Effects
-date: 2024-04-24T07:08:43.637Z
-updated: 2024-04-25T07:08:43.637Z
+date: 2024-06-09T16:15:14.547Z
+updated: 2024-06-10T16:15:14.547Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved How to Create and Use Adjustment Layers in After Effects
 excerpt: This Article Describes Updated 2024 Approved How to Create and Use Adjustment Layers in After Effects
 keywords: ai animation how to create and add an adjustment layer in final cut pro,create and use adjustment layers in after effects,how to create and add an adjustment layer in final cut pro,how to create and use adjustment layers in after effects,ai animation how to add adjustment layer in premiere pro,ai animation how to create and use adjustment layers in after effects,create and add adjustment layer in final cut pro
-thumbnail: https://www.lifewire.com/thmb/7wWwLeV8KAaB-XqPIbKe8lIgaY4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reddit-app-for-andoird-652f6fcd646245e9807afbac25a072ee.jpg
+thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff412fbb14fb93882fc8d1dc09.jpg
 ---
 
 ## How to Create and Use Adjustment Layers in After Effects

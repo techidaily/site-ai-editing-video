@@ -1,7 +1,7 @@
 ---
 title: 7 Solutions to Cut Video on Mac without Using FFmpeg?
-date: 2024-05-20T03:37:18.525Z
-updated: 2024-05-21T03:37:18.525Z
+date: 2024-06-09T16:15:28.269Z
+updated: 2024-06-10T16:15:28.269Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 7 Solutions to Cut Video on Mac without Using FFmpeg?
 excerpt: This Article Describes 7 Solutions to Cut Video on Mac without Using FFmpeg?
 keywords: ai animation how to cut videos on mac without using ffmpeg,2 solutions to cut video in vlc on windows,ai animation 7 solutions to cut video on mac without using ffmpeg,how to cut videos on mac without using ffmpeg,ai animation ai animation how to cut videos on mac without using ffmpeg,7 solutions to cut video on mac without using ffmpeg,7 solutions to edit gopro video on mac
-thumbnail: https://www.lifewire.com/thmb/k79dGrFEq_x9Rf5uBTEI3SQDmhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Cloud-Next-59a9cb4a03e644389e2ffa9939c420f8.jpg
+thumbnail: https://thmb.techidaily.com/8e684e3736085a42393dd155a637e8f217c26c390b45353b04f9ee1e79b6412e.jpg
 ---
 
 ## 7 Solutions to Cut Video on Mac without Using FFmpeg?

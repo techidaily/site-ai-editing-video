@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, 3D Ray Traced Settings In After Effects
-date: 2024-04-24T07:08:27.511Z
-updated: 2024-04-25T07:08:27.511Z
+date: 2024-06-09T16:15:09.072Z
+updated: 2024-06-10T16:15:09.072Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, 3D Ray Traced Settings In After Effects
 excerpt: This Article Describes Updated In 2024, 3D Ray Traced Settings In After Effects
 keywords: ai animation 3d ray traced settings in after effects,ai animation how to use 3d camera tracking effects in after effects,how to use 3d camera tracking effects in after effects,3d ray traced settings in after effects,3d ray traced settings in after effects a comprehensive guide,ai animation ai animation 3d ray traced settings in after effects a comprehensive guide,ai animation 3d ray traced settings in after effects a comprehensive guide
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## 3D Ray Traced Settings In After Effects

@@ -1,7 +1,7 @@
 ---
 title: Updated How to Convert Images Into Video - Kapwing Tutorial
-date: 2024-05-20T03:37:52.702Z
-updated: 2024-05-21T03:37:52.702Z
+date: 2024-06-09T16:15:12.424Z
+updated: 2024-06-10T16:15:12.424Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Convert Images Into Video - Kapwing Tutorial
 excerpt: This Article Describes Updated How to Convert Images Into Video - Kapwing Tutorial
 keywords: ai animation ai animation ai animation how to convert images into video kapwing tutorial,ai animation ai animation how to convert images into video kapwing tutorial,ai animation how to convert images into video kapwing tutorial,how to tutorials of kapwing collage maker,how to convert images into video kapwing tutorial,ai animation how to tutorials of kapwing collage maker,ai animation ai animation ai animation ai animation how to convert images into video kapwing tutorial
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## How to Convert Images Into Video - Kapwing Tutorial

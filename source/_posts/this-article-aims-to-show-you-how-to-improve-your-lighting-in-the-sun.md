@@ -1,7 +1,7 @@
 ---
 title: This Article Aims to Show You How to Improve Your Lighting in the Sun
-date: 2024-05-20T03:37:36.876Z
-updated: 2024-05-21T03:37:36.876Z
+date: 2024-06-09T16:15:14.394Z
+updated: 2024-06-10T16:15:14.394Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes This Article Aims to Show You How to Improve Your Lighting in the Sun
 excerpt: This Article Describes This Article Aims to Show You How to Improve Your Lighting in the Sun
 keywords: improve your lighting in the sun,this article aims to show you how to export videos in filmora,best practical tips to improve your lighting in the sun,ai animation best practical tips to improve your lighting in the sun,this article aims to show you how to improve your lighting in the sun,ai animation in this article we will show you how to rotate videos using obs,in this article we will show you how to rotate videos using obs
-thumbnail: https://www.lifewire.com/thmb/VhWXwk4rULRvURLd-ts4rpfPSxw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1250476440-2ff779100e984029aa752236f9791b11.jpg
+thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653067a4110ec11928ef11818a.jpg
 ---
 
 ## This Article Aims to Show You How to Improve Your Lighting in the Sun

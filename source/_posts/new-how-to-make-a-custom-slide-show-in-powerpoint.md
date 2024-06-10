@@ -1,7 +1,7 @@
 ---
 title: New How to Make a Custom Slide Show in PowerPoint
-date: 2024-04-24T07:08:12.239Z
-updated: 2024-04-25T07:08:12.239Z
+date: 2024-06-09T16:15:26.675Z
+updated: 2024-06-10T16:15:26.675Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Make a Custom Slide Show in PowerPoint
 excerpt: This Article Describes New How to Make a Custom Slide Show in PowerPoint
 keywords: how to add a slideshow in powerpoint,how to make a custom slide show in powerpoint,how to create a custom slide show in powerpoint,how to add slideshow in powerpoint,how to make a powerpoint looping slideshow,ai animation how to create a custom slide show in powerpoint,ai animation how to make a custom slide show in powerpoint
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## How to Make a Custom Slide Show in PowerPoint

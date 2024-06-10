@@ -1,7 +1,7 @@
 ---
 title: New How To Make a Photo Collage in Microsoft Word
-date: 2024-04-24T07:08:12.332Z
-updated: 2024-04-25T07:08:12.332Z
+date: 2024-06-09T16:15:09.783Z
+updated: 2024-06-10T16:15:09.783Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How To Make a Photo Collage in Microsoft Word
 excerpt: This Article Describes New How To Make a Photo Collage in Microsoft Word
 keywords: ai animation ai animation how to make a photo collage in microsoft word step by step guide,how to make a photo collage in microsoft word,ai animation how to make a photo collage in microsoft word step by step guide,how to make a photo collage in microsoft word step by step guide,collage microsoft word,how to make a polaroid collage,ai animation how to make a photo collage in microsoft word
-thumbnail: https://www.lifewire.com/thmb/LMVFwXh09U0pTH87SpUAPwMzqjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instagram_Login-5c004ff2c9e77c000104174d.png
+thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860270c85ff4fd48c9e5e5afe1.png
 ---
 
 ## How To Make a Photo Collage in Microsoft Word

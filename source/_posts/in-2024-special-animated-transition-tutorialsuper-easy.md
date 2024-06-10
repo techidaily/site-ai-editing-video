@@ -1,7 +1,7 @@
 ---
 title: In 2024, Special Animated Transition Tutorial【SUPER EASY】
-date: 2024-04-24T07:08:14.349Z
-updated: 2024-04-25T07:08:14.349Z
+date: 2024-06-09T16:15:11.233Z
+updated: 2024-06-10T16:15:11.233Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Special Animated Transition Tutorial【SUPER EASY】
 excerpt: This Article Describes In 2024, Special Animated Transition Tutorial【SUPER EASY】
 keywords: special animated transition tutorial,repeated text animation tutorial in filmora,ai animation repeated text animation tutorial in filmora,ai animation special animated transition tutorialsuper easy,repeated text animation tutorial,ai animation repeated text animation tutorial,special animated transition tutorialsuper easy
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Special Animated Transition Tutorial【SUPER EASY】

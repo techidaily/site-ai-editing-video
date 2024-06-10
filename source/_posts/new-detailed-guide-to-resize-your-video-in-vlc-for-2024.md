@@ -1,7 +1,7 @@
 ---
 title: New Detailed Guide to Resize Your Video in VLC for 2024
-date: 2024-04-24T07:08:42.525Z
-updated: 2024-04-25T07:08:42.525Z
+date: 2024-06-09T16:15:25.238Z
+updated: 2024-06-10T16:15:25.238Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Detailed Guide to Resize Your Video in VLC for 2024
 excerpt: This Article Describes New Detailed Guide to Resize Your Video in VLC for 2024
 keywords: ai animation detailed tutorial to resize your video in vlc,ai animation detailed guide to resize your video in vlc,detailed guide to resize your video in vlc,detailed tutorial to resize your video in vlc,ai animation ai animation detailed tutorial to resize your video in vlc,detailed guide to rotate videos in blender,detailed guide to merge videos in vlc media player
-thumbnail: https://www.lifewire.com/thmb/BFplsHvF2W-tN_GPJVyxOAwi8YM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/E-reader-57b936e05f9b58cdfd3e07e1.jpg
+thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e4304dfa4fcbf005c1298bed966.jpg
 ---
 
 ## Detailed Guide to Resize Your Video in VLC

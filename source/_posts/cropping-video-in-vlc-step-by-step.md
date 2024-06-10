@@ -1,7 +1,7 @@
 ---
 title: Cropping Video in VLC Step by Step
-date: 2024-05-20T03:37:20.576Z
-updated: 2024-05-21T03:37:20.576Z
+date: 2024-06-09T16:15:26.291Z
+updated: 2024-06-10T16:15:26.291Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Cropping Video in VLC Step by Step
 excerpt: This Article Describes Cropping Video in VLC Step by Step
 keywords: cropping video in vlc step by step,ai animation cropping videos in vlc step by step,cropping a video in final cut pro step by step,cropping videos in vlc step by step,cropping videos in final cut pro step by step,ai animation cropping video in vlc step by step,splitting video in vsdc step by step
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## Cropping Video in VLC [Step by Step]

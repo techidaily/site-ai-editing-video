@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Create the Night-to-Day Effect Video
-date: 2024-04-24T07:08:43.909Z
-updated: 2024-04-25T07:08:43.909Z
+date: 2024-06-09T16:15:31.279Z
+updated: 2024-06-10T16:15:31.279Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, How to Create the Night-to-Day Effect Video
 excerpt: This Article Describes New In 2024, How to Create the Night-to-Day Effect Video
 keywords: create the night to day effect videos,ai animation how to create the night to day effect video,how to create the night to day effect video,ai animation ai animation create the night to day effect videos,how to create glowing edge effect in tiktok dancing video,create night to day effect,ai animation create the night to day effect videos
-thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155096051-5b1bf60d43a1030036cfac94.jpg
+thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec47ad22d2523d6d2404f16cd1.jpg
 ---
 
 ## How to Create the Night-to-Day Effect Video

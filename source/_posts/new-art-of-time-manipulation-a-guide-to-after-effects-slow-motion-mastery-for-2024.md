@@ -1,7 +1,7 @@
 ---
 title: New Art of Time Manipulation A Guide to After Effects Slow Motion Mastery for 2024
-date: 2024-04-24T07:08:40.349Z
-updated: 2024-04-25T07:08:40.349Z
+date: 2024-06-09T16:15:10.505Z
+updated: 2024-06-10T16:15:10.505Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Art of Time Manipulation A Guide to After Effects Slow Motion Mastery for 2024
 excerpt: This Article Describes New Art of Time Manipulation A Guide to After Effects Slow Motion Mastery for 2024
 keywords: ai animation competitive guide to use slow motion in after effects,ai animation ai animation how to create motion text effects for your video,guide to after effects slow motion mastery,art of time manipulation a guide to after effects slow motion mastery,ai animation ai animation competitive guide to use slow motion in after effects,ai animation how to create motion text effects for your video,ai animation art of time manipulation a guide to after effects slow motion mastery
-thumbnail: https://www.lifewire.com/thmb/ky9dx6TkOY6aQ-Ch6TfW7sMDBu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-free-movies-on-youtube-5114491-12-811d37329347405eab1a368e3018dc54.jpg
+thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
 ---
 
 ## Art of Time Manipulation: A Guide to After Effects Slow Motion Mastery

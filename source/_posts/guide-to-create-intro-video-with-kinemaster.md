@@ -1,7 +1,7 @@
 ---
 title: Guide to Create Intro Video with KineMaster
-date: 2024-05-20T03:37:21.298Z
-updated: 2024-05-21T03:37:21.298Z
+date: 2024-06-09T16:15:20.451Z
+updated: 2024-06-10T16:15:20.451Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Guide to Create Intro Video with KineMaster
 excerpt: This Article Describes Guide to Create Intro Video with KineMaster
 keywords: ai animation ai animation guide to create intro video with kinemaster,ai animation guide to create intro video with kinemaster,guide to create an intro video with filmora,create intro video in kinemaster,guide to create intro video with kinemaster,ai animation how to create intro video with kinemaster,how to create intro video with kinemaster
-thumbnail: https://www.lifewire.com/thmb/z0FcObDyImu70neTKRlkwzqQTeM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-17-best-graphic-design-software-2024-1dd6c15b34124b25b65e4b096e4e6ba4.jpg
+thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a044e30e2240a2331d8bec84.jpg
 ---
 
 ## Guide to Create Intro Video with KineMaster

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How To Add Text In After Effects
-date: 2024-04-24T07:08:30.053Z
-updated: 2024-04-25T07:08:30.053Z
+date: 2024-06-09T16:15:29.677Z
+updated: 2024-06-10T16:15:29.677Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved How To Add Text In After Effects
 excerpt: This Article Describes Updated 2024 Approved How To Add Text In After Effects
 keywords: ai animation how to add expression in after effects,ai animation how to add text in after effects,how to add text effects in adobe premiere pro,how to add text in after effects,ai animation how to add text effects in adobe premiere pro,how to add expression in after effects,adding text in after effects
-thumbnail: https://www.lifewire.com/thmb/jYmIoXAzWYI6-krphnPX46os0Yg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tablets-vs-laptops-832333-93961eb085ff44d99d3836a0d0fa486a.png
+thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d3949b489b0214f6877268e346.png
 ---
 
 ## How To Add Text In After Effects

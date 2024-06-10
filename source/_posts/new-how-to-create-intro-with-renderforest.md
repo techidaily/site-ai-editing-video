@@ -1,7 +1,7 @@
 ---
 title: New How to Create Intro with Renderforest
-date: 2024-05-20T03:38:07.357Z
-updated: 2024-05-21T03:38:07.357Z
+date: 2024-06-09T16:15:06.221Z
+updated: 2024-06-10T16:15:06.221Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Create Intro with Renderforest
 excerpt: This Article Describes New How to Create Intro with Renderforest
 keywords: ai animation ai animation how to create intro with renderforest,how to create intro with legend intro maker,how to create intro with renderforest,how to create intro video with kinemaster,how to use renderforest intro video maker,ai animation how to create intro with renderforest,how to create intro video with filmora
-thumbnail: https://www.lifewire.com/thmb/44IYkFUfRU4h-daoi0uxZYAKRhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lifewire_Windows_Update_2624595-9da08302ecc44539b8f0fa484a81227e.jpg
+thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c32a9023581f934b16334c5a.jpg
 ---
 
 ## How to Create Intro with Renderforest

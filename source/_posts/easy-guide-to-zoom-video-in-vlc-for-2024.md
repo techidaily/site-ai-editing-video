@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Zoom Video in VLC for 2024
-date: 2024-05-20T03:38:29.636Z
-updated: 2024-05-21T03:38:29.636Z
+date: 2024-06-09T16:15:15.338Z
+updated: 2024-06-10T16:15:15.338Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Easy Guide to Zoom Video in VLC for 2024
 excerpt: This Article Describes Easy Guide to Zoom Video in VLC for 2024
 keywords: easy guide to zoom video in vlc,ai animation easy guide to zoom video in vlc,how to zoom video in vlc media player,add vhs effects to videos for free a 2024 guide,detailed guide to resize your video in vlc,zoom video in vlc,easy guide to apply slow zoom effects to videos
-thumbnail: https://www.lifewire.com/thmb/uayRyPYo9UvTUkcunakDixhwqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Robothandholdinganapple-fbe6ff482ed641e188dd6650b9ac132e.jpg
+thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e1719fd0426ca459ec8dc06e9a5.jpg
 ---
 
 ## Easy Guide to Zoom Video in VLC

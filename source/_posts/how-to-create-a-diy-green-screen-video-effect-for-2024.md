@@ -1,7 +1,7 @@
 ---
 title: How to Create a DIY Green Screen Video Effect for 2024
-date: 2024-05-20T03:38:06.462Z
-updated: 2024-05-21T03:38:06.462Z
+date: 2024-06-09T16:15:23.948Z
+updated: 2024-06-10T16:15:23.948Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Create a DIY Green Screen Video Effect for 2024
 excerpt: This Article Describes How to Create a DIY Green Screen Video Effect for 2024
 keywords: easy way to create a diy green screen video effect,how to create a green screen video in after effects,ai animation easy way to create a diy green screen video effect,how to create a diy green screen video effect,ai animation ai animation how to create a diy green screen video effect,ai animation how to create a green screen video in after effects,ai animation how to create a diy green screen video effect
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## How to Create a DIY Green Screen Video Effect?

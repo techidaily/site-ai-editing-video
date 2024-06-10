@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use 3D Camera Tracking Effects in After Effects
-date: 2024-04-24T07:08:12.835Z
-updated: 2024-04-25T07:08:12.835Z
+date: 2024-06-09T16:15:20.727Z
+updated: 2024-06-10T16:15:20.727Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, How to Use 3D Camera Tracking Effects in After Effects
 excerpt: This Article Describes In 2024, How to Use 3D Camera Tracking Effects in After Effects
 keywords: create true 3d text effects using after effects,how to do datamoshing effect in after effects,ai animation how to use 3d camera tracking effects in after effects,ai animation create true 3d text effects using after effects,how to use 3d camera tracking effects in after effects,how to use track matte and tracking in adobe after effects,learn how to use 3d camera tracking in adobe after effects and take your skills to the next level
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## How to Use 3D Camera Tracking Effects in After Effects

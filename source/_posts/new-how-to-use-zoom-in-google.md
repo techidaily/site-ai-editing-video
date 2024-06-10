@@ -1,7 +1,7 @@
 ---
 title: New How to Use Zoom in Google
-date: 2024-04-24T07:08:13.162Z
-updated: 2024-04-25T07:08:13.162Z
+date: 2024-06-09T16:15:17.659Z
+updated: 2024-06-10T16:15:17.659Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Use Zoom in Google
 excerpt: This Article Describes New How to Use Zoom in Google
 keywords: use zoom in google,how to use slow zoom effect in your video,how to use kahoot on zoom,ai animation how to use zoom in google,how to zoom in discord,how to use zoom in google,ai animation how to use kahoot on zoom
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## How to Use Zoom in Google

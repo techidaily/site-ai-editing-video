@@ -1,7 +1,7 @@
 ---
 title: Learn How to Add Dynamic Shake Effects to Your Videos Using Alight Motion. Our Step-by-Step Guide Makes It Easy to Create Cinematic Footage
-date: 2024-05-20T03:37:35.707Z
-updated: 2024-05-21T03:37:35.707Z
+date: 2024-06-09T16:15:25.134Z
+updated: 2024-06-10T16:15:25.134Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Learn How to Add Dynamic Shake Effects to Your Videos Using Alight Motion. Our Step-by-Step Guide Makes It Easy to Create Cinematic Footage
 excerpt: This Article Describes Learn How to Add Dynamic Shake Effects to Your Videos Using Alight Motion. Our Step-by-Step Guide Makes It Easy to Create Cinematic Footage
 keywords: learn how to easily concatenate videos using ffmpeg in this step by step guide from installation to execution we cover it all to streamline your video editing process,if you want to record video streams on windows or mac using ffmpeg read our guide and learn how to do this with easy step by step instructions,add some sci fi touch to your next video content using wondershare filmora editing tools to create an alternate reality effect,learn how to add dynamic shake effects to your videos using alight motion our step by step guide makes it easy to create cinematic footage,start your creative journey now follow this step by step guide on how to add double exposure effects to your personal videos by using the filmora video editor,interested in adding a cinematic strobe light effect to your movie or video title follow the steps explained in detail here,learn how to effortlessly mirror video clips in adobe premiere pro with this step by step guide perfect for creating a symmetrical look in your videos
-thumbnail: https://www.lifewire.com/thmb/5tD-_gpIrKxGqi4E54Dp4SLyqMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/On-Line-Job-Search-aa2565e859bd43a2aa34dfa1537dbd50.jpg
+thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157fc9657d20a61cd8374fcc9ae.jpg
 ---
 
 ## Learn How to Add Dynamic Shake Effects to Your Videos Using Alight Motion. Our Step-by-Step Guide Makes It Easy to Create Cinematic Footage

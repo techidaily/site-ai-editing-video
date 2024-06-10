@@ -1,7 +1,7 @@
 ---
 title: Updated How Did AI Video Games Act More Human Than Human, In 2024
-date: 2024-04-24T07:08:33.994Z
-updated: 2024-04-25T07:08:33.994Z
+date: 2024-06-09T16:15:11.534Z
+updated: 2024-06-10T16:15:11.534Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How Did AI Video Games Act More Human Than Human, In 2024
 excerpt: This Article Describes Updated How Did AI Video Games Act More Human Than Human, In 2024
 keywords: ai animation how to create an instant slideshow on mac,ai animation how to remove or mute audio in video with android phones,ai animation how d ai video games act more human than human,how did ai video games act more human than human,how d ai video games act more human than human,ai animation how did ai video games act more human than human,ai animation ai animation how did ai video games act more human than human
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## How Did AI Video Games Act More Human Than Human?

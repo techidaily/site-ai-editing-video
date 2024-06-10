@@ -1,7 +1,7 @@
 ---
 title: How Important It Is to Perform Color Correction to Your Video? Here Is a Solution with After Effects Color Correction with Illustrative Videos
-date: 2024-05-20T03:37:34.849Z
-updated: 2024-05-21T03:37:34.849Z
+date: 2024-06-09T16:15:25.812Z
+updated: 2024-06-10T16:15:25.812Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How Important It Is to Perform Color Correction to Your Video? Here Is a Solution with After Effects Color Correction with Illustrative Videos
 excerpt: This Article Describes How Important It Is to Perform Color Correction to Your Video? Here Is a Solution with After Effects Color Correction with Illustrative Videos
 keywords: what is the selective color effect and how can you add this effect to your videos using wondershare filmora a complete guide for beginners,how important it is to perform color correction to your video here is a solution with after effects color correction with illustrative videos,discover the top 5 free online video filter editors to transform your videos with captivating color grading and correction presets elevate your digital storytelling effortlessly,looking for the simple steps to add transition effects in your video we will illustrate how to add transition in filmora and mention tips and tricks for video transition effects,ai animation learn color correction in after effects with these youtube videos,time lapse video is very interesting and creative which usually attracts more attention this article will show you how to make a time lapse video with adobe after effects,learn about open broadcaster software and how to perform obs color correction also explore the various aspects of color correction like contrast brightness saturation among others
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## How Important It Is to Perform Color Correction to Your Video? Here Is a Solution with After Effects Color Correction with Illustrative Videos

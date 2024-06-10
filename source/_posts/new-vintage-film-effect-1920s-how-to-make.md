@@ -1,7 +1,7 @@
 ---
 title: New Vintage Film Effect 1920S - How to Make
-date: 2024-05-20T03:38:22.300Z
-updated: 2024-05-21T03:38:22.300Z
+date: 2024-06-09T16:15:14.126Z
+updated: 2024-06-10T16:15:14.126Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Vintage Film Effect 1920S - How to Make
 excerpt: This Article Describes New Vintage Film Effect 1920S - How to Make
 keywords: vintage film effect 1920s how to make,vintage film effect 1990s how to make,how to make vintage film effect 1980s,how to make vintage film effect 1950s,ai animation vintage film effect 1920s how to make,ai animation vintage film effect 1990s how to make,how to create vintage film effect 1920s
-thumbnail: https://www.lifewire.com/thmb/VhWXwk4rULRvURLd-ts4rpfPSxw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1250476440-2ff779100e984029aa752236f9791b11.jpg
+thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653067a4110ec11928ef11818a.jpg
 ---
 
 ## Vintage Film Effect 1920S - How to Make

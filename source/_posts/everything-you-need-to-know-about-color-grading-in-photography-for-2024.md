@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know About Color Grading in Photography for 2024
-date: 2024-05-20T03:38:02.117Z
-updated: 2024-05-21T03:38:02.117Z
+date: 2024-06-09T16:15:31.369Z
+updated: 2024-06-10T16:15:31.369Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Everything You Need to Know About Color Grading in Photography for 2024
 excerpt: This Article Describes Everything You Need to Know About Color Grading in Photography for 2024
 keywords: everything you need to know about color grading in photography,ai animation everything you need to know about color grading in photography,keyframes interval everything you need to know filmora,what is hdri everything you need to know about hdri,ai animation things you need to know about color grading in photography,things you need to know about color grading in photography,ai animation ai animation everything you need to know about color grading in photography
-thumbnail: https://www.lifewire.com/thmb/ADwMZAl5AjJaezwcgc229Y2W9FU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1558254975-0a8ae81a4cd04f3eba064dd56ba8b030.jpg
+thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f83678c9c2635006dd72b341f.jpg
 ---
 
 ## Everything You Need to Know About Color Grading in Photography

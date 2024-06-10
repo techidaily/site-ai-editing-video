@@ -1,7 +1,7 @@
 ---
 title: Updated An Ultimate Guide to Edit a Music Video Aspect Ratio and First Cut
-date: 2024-05-20T03:37:51.924Z
-updated: 2024-05-21T03:37:51.924Z
+date: 2024-06-09T16:15:16.580Z
+updated: 2024-06-10T16:15:16.580Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated An Ultimate Guide to Edit a Music Video Aspect Ratio and First Cut
 excerpt: This Article Describes Updated An Ultimate Guide to Edit a Music Video Aspect Ratio and First Cut
 keywords: ai animation an ultimate guide to edit a music video aspect ratio and first cut,ai animation ai animation ai animation an ultimate guide to edit a music video aspect ratio and first cut,ai animation ai animation ai animation ai animation an ultimate guide to edit a music video aspect ratio and first cut,ai animation ai animation an ultimate guide to edit a music video aspect ratio and first cut,ultimate guide on how to plan and storyboard a music video,an ultimate guide to edit a music video aspect ratio and first cut,ai animation ultimate guide on how to plan and storyboard a music video
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## An Ultimate Guide to Edit a Music Video: Aspect Ratio and First Cut

@@ -1,7 +1,7 @@
 ---
 title: Add a Miniature Effect on Your Video for Filmy Looks. To Add This Effect, Read the Complete Guide and Make Your Video Cinematic by Wondershare Filmora
-date: 2024-05-20T03:37:18.716Z
-updated: 2024-05-21T03:37:18.716Z
+date: 2024-06-09T16:15:22.687Z
+updated: 2024-06-10T16:15:22.687Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Add a Miniature Effect on Your Video for Filmy Looks. To Add This Effect, Read the Complete Guide and Make Your Video Cinematic by Wondershare Filmora
 excerpt: This Article Describes Add a Miniature Effect on Your Video for Filmy Looks. To Add This Effect, Read the Complete Guide and Make Your Video Cinematic by Wondershare Filmora
 keywords: add a miniature effect on your video for filmy looks to add this effect read the complete guide and make your video cinematic by wondershare filmora,how to record clips using your camera and edit them using wondershare filmora to make a loop video a complete guide for beginners,start your creative journey now follow this step by step guide on how to add double exposure effects to your personal videos by using the filmora video editor,have you ever applied the gaussian blur effect to your videos read this article to find a reliable and convenient tool to generate the gaussian blur effect,in this article you will learn how to record creative cinematic videos using a smartphone and edit the video with wondershare filmora,you can make attractive videos by adding text behind objects this article will explain how to use wondershare filmora to create these videos,what is the selective color effect and how can you add this effect to your videos using wondershare filmora a complete guide for beginners
-thumbnail: https://www.lifewire.com/thmb/INF6SYasZPz8DbBoNXqU2flP540=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/before-you-buy-a-video-projector-1847845-v3-ED-8a08e03f2cfc4835a13872618bd4ad00.png
+thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb90774e1fcb8b0eea83e6c871.png
 ---
 
 ## Add a Miniature Effect on Your Video for Filmy Looks. To Add This Effect, Read the Complete Guide and Make Your Video Cinematic by Wondershare Filmora

@@ -1,7 +1,7 @@
 ---
 title: How to Make A Slideshow Video (+Filmora Techniques)
-date: 2024-05-20T03:37:28.555Z
-updated: 2024-05-21T03:37:28.555Z
+date: 2024-06-09T16:15:23.998Z
+updated: 2024-06-10T16:15:23.998Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Make A Slideshow Video (+Filmora Techniques)
 excerpt: This Article Describes How to Make A Slideshow Video (+Filmora Techniques)
 keywords: want to make a slide show video heres how,ai animation how to make a video slideshow in imovie,ai animation how to make a slideshow video filmora techniques,how to make a slideshow video filmora techniques,how to make a video slideshow in imovie,make slideshow video filmora,how to make a slideshow gif
-thumbnail: https://www.lifewire.com/thmb/emyPhVf3B4VLTCj8T835W3AqyOU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-93420821-0ce0b19097fb47d78dec8dbc039c1260.jpg
+thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f4062f523abbe17fcfc5ae5fc7.jpg
 ---
 
 ## How to Make A Slideshow Video (+Filmora Techniques)

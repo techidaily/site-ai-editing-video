@@ -1,7 +1,7 @@
 ---
 title: New Customize PowerPoint Slideshow Icon in 8 Simple Ways
-date: 2024-05-20T03:38:00.084Z
-updated: 2024-05-21T03:38:00.084Z
+date: 2024-06-09T16:15:16.649Z
+updated: 2024-06-10T16:15:16.649Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Customize PowerPoint Slideshow Icon in 8 Simple Ways
 excerpt: This Article Describes New Customize PowerPoint Slideshow Icon in 8 Simple Ways
 keywords: customize powerpoint slideshow icon in simple ways,how to create a custom slide show in powerpoint,ai animation customize powerpoint slideshow icon in simple ways,ai animation ai animation customize powerpoint slideshow icon in 8 simple ways,customize powerpoint slideshow icon in 8 simple ways,ai animation customize powerpoint slideshow icon in 8 simple ways,how to make a custom slide show in powerpoint
-thumbnail: https://www.lifewire.com/thmb/AOVQTNyOWIZPYiKZehcoYQS3DNU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-820926684-5c7747ebc45847708ac311b709bdc1f2.jpg
+thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343ebf5ad117060d9466fac18ee3.jpg
 ---
 
 ## Customize PowerPoint Slideshow Icon in 8 Simple Ways

@@ -1,7 +1,7 @@
 ---
 title: Updated Step by Step to Rotate Videos in Davinci Resolve
-date: 2024-05-20T03:38:18.101Z
-updated: 2024-05-21T03:38:18.101Z
+date: 2024-06-09T16:15:05.066Z
+updated: 2024-06-10T16:15:05.066Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Step by Step to Rotate Videos in Davinci Resolve
 excerpt: This Article Describes Updated Step by Step to Rotate Videos in Davinci Resolve
 keywords: step by step to rotate videos in davinci resolve,step by step to resize video in davinci resolve,detailed steps to rotate videos in davinci resolve,cropping a video in davinci resolve step by step,how to crop a video in davinci resolve step by step,ai animation step by step to rotate videos in davinci resolve,ai animation ai animation step by step to rotate videos in davinci resolve
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## Step by Step to Rotate Videos in Davinci Resolve

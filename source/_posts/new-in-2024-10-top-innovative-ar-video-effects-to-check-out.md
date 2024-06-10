@@ -1,7 +1,7 @@
 ---
 title: New In 2024, 10 Top Innovative AR Video Effects to Check Out
-date: 2024-04-24T07:08:26.239Z
-updated: 2024-04-25T07:08:26.239Z
+date: 2024-06-09T16:15:20.655Z
+updated: 2024-06-10T16:15:20.655Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, 10 Top Innovative AR Video Effects to Check Out
 excerpt: This Article Describes New In 2024, 10 Top Innovative AR Video Effects to Check Out
 keywords: ai animation 10 top innovative ar video effects to check out,how to add vhs effects to videos for free 2024,10 top innovative ar video effects to check out,ai animation 10 best innovative ar video effects to check out,10 best innovative ar video effects to check out,ai animation ai animation 10 best innovative ar video effects to check out,ai animation how to add vhs effects to videos for free 2024
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## 10 Top Innovative AR Video Effects to Check Out

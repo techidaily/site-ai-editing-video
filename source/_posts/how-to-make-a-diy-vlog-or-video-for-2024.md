@@ -1,7 +1,7 @@
 ---
 title: How to Make a DIY Vlog or Video for 2024
-date: 2024-04-24T07:08:12.242Z
-updated: 2024-04-25T07:08:12.242Z
+date: 2024-06-09T16:15:31.652Z
+updated: 2024-06-10T16:15:31.652Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Make a DIY Vlog or Video for 2024
 excerpt: This Article Describes How to Make a DIY Vlog or Video for 2024
 keywords: how to make a diy vlog or video,make a diy vlog or video,ai animation how to make a diy vlog or video,how to make a video podcast,how to make a video longer,how to make a video by mouse in filmora,how to make a funny vlog for tiktok
-thumbnail: https://www.lifewire.com/thmb/m4BcH-XQSOpQcuE-5vTn1swsxLE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-591408071-5bc7767d4cedfd0026a2ce3f.jpg
+thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951f603f30c9c8797a450783bc.jpg
 ---
 
 ## How to Make a DIY Vlog or Video

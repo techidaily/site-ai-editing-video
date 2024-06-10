@@ -1,7 +1,7 @@
 ---
 title: In This Article, We Will Discuss How to Rotate Videos in the Lightworks Application. Below Is a Way to Rotate Videos in Lightworks Manually, Here, We Will Use the Z-Axis Rotation
-date: 2024-05-20T03:37:35.587Z
-updated: 2024-05-21T03:37:35.587Z
+date: 2024-06-09T16:15:20.302Z
+updated: 2024-06-10T16:15:20.302Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In This Article, We Will Discuss How to Rotate Videos in the Lightworks Application. Below Is a Way to Rotate Videos in Lightworks Manually, Here, We Will Use the Z-Axis Rotation
 excerpt: This Article Describes In This Article, We Will Discuss How to Rotate Videos in the Lightworks Application. Below Is a Way to Rotate Videos in Lightworks Manually, Here, We Will Use the Z-Axis Rotation
 keywords: are you trying to make slow mo videos on instagram in this article we will discuss top rated ways to produce perfect slow motion videos for instagram,you can make attractive videos by adding text behind objects this article will explain how to use wondershare filmora to create these videos,with this article we will be looking at steps to rotate a video in cyberlink powerdirector to help you when required we have also mentioned the steps you will need to follow in wondershare filmora,in this article we will discuss what lens distortion is how it may be fixed and the factors you need to pay attention to avoid lens distortion when taking or recording videos,in this article we will discuss how to rotate videos in the lightworks application below is a way to rotate videos in lightworks manually here we will use the z axis rotation,if you do not know how to quicktime trim video clips you are in the right place we have provided information that will help you trim videos with this application and make them engaging for viewers,this article talks in detail about how to download windows movie maker 2012 version the key features how to use it etc it further discusses an alternative way to create videos on windows pc check out
-thumbnail: https://www.lifewire.com/thmb/vyzcJX9d4xPRDFBKmvNTGXpael0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
 ---
 
 ## In This Article, We Will Discuss How to Rotate Videos in the Lightworks Application. Below Is a Way to Rotate Videos in Lightworks Manually, Here, We Will Use the Z-Axis Rotation

@@ -1,7 +1,7 @@
 ---
 title: Fun & Easy Masking Tricks Wondershare Filmora Tutorial
-date: 2024-05-20T03:37:21.136Z
-updated: 2024-05-21T03:37:21.136Z
+date: 2024-06-09T16:15:27.183Z
+updated: 2024-06-10T16:15:27.183Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Fun & Easy Masking Tricks Wondershare Filmora Tutorial
 excerpt: This Article Describes Fun & Easy Masking Tricks Wondershare Filmora Tutorial
 keywords: fun easy masking tricks in filmora,fun easy masking tricks filmora,fun easy masking tricks wondershare filmora tutorial,ai animation before after editing trick wondershare filmora tutorial,before after editing trick wondershare filmora tutorial,ai animation ai animation fun easy masking tricks wondershare filmora tutorial,ai animation fun easy masking tricks wondershare filmora tutorial
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## Fun & Easy Masking Tricks: Wondershare Filmora Tutorial

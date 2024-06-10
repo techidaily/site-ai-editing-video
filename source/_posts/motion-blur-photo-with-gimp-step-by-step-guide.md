@@ -1,7 +1,7 @@
 ---
 title: Motion Blur Photo With GIMP Step-By-Step Guide
-date: 2024-05-20T03:37:23.867Z
-updated: 2024-05-21T03:37:23.867Z
+date: 2024-06-09T16:15:14.342Z
+updated: 2024-06-10T16:15:14.342Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Motion Blur Photo With GIMP Step-By-Step Guide
 excerpt: This Article Describes Motion Blur Photo With GIMP Step-By-Step Guide
 keywords: step by step to rotate video in google photos,ai animation step by step to rotate video in google photos,ai animation convert mp4 to 60 fps gif a step by step guide,ai animation step by step guide to storyboard,ai animation ai animation motion blur photo with gimp step by step guide,motion blur photo with gimp step by step guide,ai animation motion blur photo with gimp step by step guide
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## Motion Blur Photo With GIMP: Step-By-Step Guide

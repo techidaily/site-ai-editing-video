@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Add Scrolling Text Effect
-date: 2024-05-20T03:37:48.448Z
-updated: 2024-05-21T03:37:48.448Z
+date: 2024-06-09T16:15:07.256Z
+updated: 2024-06-10T16:15:07.256Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, How To Add Scrolling Text Effect
 excerpt: This Article Describes In 2024, How To Add Scrolling Text Effect
 keywords: how to add text in after effects,how to add scrolling text effect,ai animation how to add scrolling text effect,ai animation how to add text in after effects,how to add text effects in adobe premiere pro,how to make falling text effect in filmora,add scrolling text effect
-thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the_room-56cc7f225f9b5879cc590941.png
+thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
 ---
 
 ## How To Add Scrolling Text Effect

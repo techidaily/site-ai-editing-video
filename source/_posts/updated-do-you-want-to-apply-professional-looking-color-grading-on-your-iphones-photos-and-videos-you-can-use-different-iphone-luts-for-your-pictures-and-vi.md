@@ -1,7 +1,7 @@
 ---
 title: Updated Do You Want to Apply Professional-Looking Color Grading on Your iPhones Photos and Videos? You Can Use Different iPhone LUTs for Your Pictures and Videos
-date: 2024-04-24T07:08:18.416Z
-updated: 2024-04-25T07:08:18.416Z
+date: 2024-06-09T16:15:04.931Z
+updated: 2024-06-10T16:15:04.931Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Do You Want to Apply Professional-Looking Color Grading on Your iPhones Photos and Videos? You Can Use Different iPhone LUTs for Your Pictures and Videos
 excerpt: This Article Describes Updated Do You Want to Apply Professional-Looking Color Grading on Your iPhones Photos and Videos? You Can Use Different iPhone LUTs for Your Pictures and Videos
 keywords: are you looking for different solutions to add vhs effects to your videos dont worry this article will provide easy solutions to apply vhs,do you want to give your videos and photos a cinematic look but couldnt find how here are different cinematic luts discussed that you can try and use,are you a vlogger looking for good color correction and video grading presets here youll find different vlog luts that you can use for your videos,are you a videographer or video content creator is enhancing your videography skills your priority do you want to learn the basics of lumafusion color grading read on to find all the information you need,do you want your photo and video edits to look like peter mckinnons color grade your media files with peter mckinnon luts to make your content stand out,do you want to apply professional looking color grading on your iphones photos and videos you can use different iphone luts for your pictures and videos,if you want to color grading your video final cut pro can be one of the best choices however its not easy for everyone to use color grading feature and in this guide well show you how to do that
-thumbnail: https://www.lifewire.com/thmb/BPYPQrXsNWygpcoCT-Bo8NlAS2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1094009490-2694d308001d46049e0755f4dd7fdf4c.jpg
+thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f07504ad9ddbf600b0c76aae.jpg
 ---
 
 ## Do You Want to Apply Professional-Looking Color Grading on Your iPhone’s Photos and Videos? You Can Use Different iPhone LUTs for Your Pictures and Videos

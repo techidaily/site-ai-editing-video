@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Create A YouTube Intro
-date: 2024-05-20T03:38:34.221Z
-updated: 2024-05-21T03:38:34.221Z
+date: 2024-06-09T16:15:24.250Z
+updated: 2024-06-10T16:15:24.250Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, How To Create A YouTube Intro
 excerpt: This Article Describes In 2024, How To Create A YouTube Intro
 keywords: how to create a youtube intro,ai animation how to create a youtube intro,create a youtube intro,how to make a youtube intro by filmora,how to create sports intro and youtube endscreen,ai animation how to create sports intro and youtube endscreen,how to create sports intro and outro for youtube video
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## How To Create A YouTube Intro

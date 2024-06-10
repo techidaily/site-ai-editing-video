@@ -1,7 +1,7 @@
 ---
 title: Updated Easy Step by Step Tutorial on Creating a Lightroom Collage for 2024
-date: 2024-04-24T07:08:33.222Z
-updated: 2024-04-25T07:08:33.222Z
+date: 2024-06-09T16:15:17.474Z
+updated: 2024-06-10T16:15:17.474Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Easy Step by Step Tutorial on Creating a Lightroom Collage for 2024
 excerpt: This Article Describes Updated Easy Step by Step Tutorial on Creating a Lightroom Collage for 2024
 keywords: ai animation adobe lightroom color grading tutorial,simple step by step tutorial on creating a lightroom collage,easy step by step tutorial on creating a lightroom collage,ai animation simple step by step tutorial on creating a lightroom collage,ai animation step by step to crop a video using lightworks,ai animation ai animation easy step by step tutorial on creating a lightroom collage,ai animation easy step by step tutorial on creating a lightroom collage
-thumbnail: https://www.lifewire.com/thmb/eYqxG8EorGAmKcW0zOiG4PnWFkw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homeweatherstation-34f9e9a9aaf64446a8f21ff05991c079.jpg
+thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2903fa4cfebcaa0c3ca3de95.jpg
 ---
 
 ## Simple Step by Step Tutorial on Creating a Lightroom Collage

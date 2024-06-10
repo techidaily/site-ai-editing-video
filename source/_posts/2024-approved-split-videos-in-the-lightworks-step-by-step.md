@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Split Videos in the Lightworks Step by Step
-date: 2024-04-24T07:08:14.400Z
-updated: 2024-04-25T07:08:14.400Z
+date: 2024-06-09T16:15:27.325Z
+updated: 2024-06-10T16:15:27.325Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved Split Videos in the Lightworks Step by Step
 excerpt: This Article Describes 2024 Approved Split Videos in the Lightworks Step by Step
 keywords: ai animation split videos in the lightworks step by step,ai animation split a video in the lightworks step by step,ai animation ai animation split a video in the lightworks step by step,split a video in the lightworks step by step,split videos in the lightworks step by step,step by step to cut videos in lightworks,step by step to cut a video in lightworks
-thumbnail: https://www.lifewire.com/thmb/7wF4Y8OF7ONJDet9sjTpYolWJ8M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-475157855-5b24021b04d1cf00369d7e11-5c66f1c04cedfd00010a2553.jpg
+thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f64d610e7943b29ad8777b2c6.jpg
 ---
 
 ## Split Videos in the Lightworks [Step by Step]

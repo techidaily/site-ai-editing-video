@@ -1,7 +1,7 @@
 ---
 title: How to Use GIMP GREEN SCREEN
-date: 2024-05-20T03:37:29.484Z
-updated: 2024-05-21T03:37:29.484Z
+date: 2024-06-09T16:15:09.344Z
+updated: 2024-06-10T16:15:09.344Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Use GIMP GREEN SCREEN
 excerpt: This Article Describes How to Use GIMP GREEN SCREEN
 keywords: ai animation how to use gimp green screen,how to set up twitch green screen,how to use blender green screen,gimp green screen,how to use gimp green screen,ai animation how to use blender green screen,how to google meet green screen
-thumbnail: https://www.lifewire.com/thmb/HkQrnB6Inkx8Rh4KIo-rh5RAck0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/computerkeyboard-5c070d3ec9e77c0001b19701.jpg
+thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9da7986f6cee296d3fed5998.jpg
 ---
 
 ## How to Use GIMP GREEN SCREEN

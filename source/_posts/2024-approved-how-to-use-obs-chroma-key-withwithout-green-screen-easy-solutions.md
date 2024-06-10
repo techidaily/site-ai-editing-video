@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Use OBS Chroma Key With/Without Green Screen Easy Solutions
-date: 2024-04-24T07:08:13.027Z
-updated: 2024-04-25T07:08:13.027Z
+date: 2024-06-09T16:15:30.524Z
+updated: 2024-06-10T16:15:30.524Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved How to Use OBS Chroma Key With/Without Green Screen Easy Solutions
 excerpt: This Article Describes 2024 Approved How to Use OBS Chroma Key With/Without Green Screen Easy Solutions
 keywords: ai animation how to use obs chroma key withwithout green screen easy solutions,ai animation ai animation how to use obs chroma key withwithout green screen,ai animation how to use obs chroma key withwithout green screen,ai animation how to set up twitch green screen,how to use obs chroma key withwithout green screen,ai animation how to add background to video withwithout a green screen,how to use obs chroma key withwithout green screen easy solutions
-thumbnail: https://www.lifewire.com/thmb/dKnfJfS-2dMUMRX_ekaA971sdhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-664800650-4349941504c24712b81975694798236b.jpg
+thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca424f0cd6791d36a2f65c9d0a1.jpg
 ---
 
 ## How to Use OBS Chroma Key With/Without Green Screen [Easy Solutions]

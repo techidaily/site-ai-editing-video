@@ -1,7 +1,7 @@
 ---
 title: In 2024, To Get Cinematographs of a Music Video, You Need to Understand the Basics of Camera Movement. As Well Framing and Lighting of the Setup Are Illustrated in This Article
-date: 2024-04-24T07:08:23.698Z
-updated: 2024-04-25T07:08:23.698Z
+date: 2024-06-09T16:15:14.006Z
+updated: 2024-06-10T16:15:14.006Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, To Get Cinematographs of a Music Video, You Need to Understand the Basics of Camera Movement. As Well Framing and Lighting of the Setup Are Illustrated in This Article
 excerpt: This Article Describes In 2024, To Get Cinematographs of a Music Video, You Need to Understand the Basics of Camera Movement. As Well Framing and Lighting of the Setup Are Illustrated in This Article
 keywords: this article will reveal the secrets of choosing a location to shoot your viral music video as well as tips to make an energetic schedule for shooting days,this article will focus on understanding the secret tips in wondershare filmora that you can use to edit videos faster and more efficiently,to get cinematographs of a music video you need to understand the basics of camera movement as well framing and lighting of the setup are illustrated in this article,rules of three or thirds is a classic trick in photography and the result of video and photo is really great this article will show you how to use rule of thirds to make a better video,with everything centered around videos on the digital platform the use and the need for ai based editing tools have also increased manifold we have curated a list of the top programs that can help you with ai video editing,you must be wondering which the best online transparent image maker is well there is no need to get confused as here you will get a curated list for the same,this article aims to provide a step by step guide to changing a videos speed by using the speed adjustment panel and duration panel on wondershare filmora
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## To Get Cinematographs of a Music Video, You Need to Understand the Basics of Camera Movement. As Well Framing and Lighting of the Setup Are Illustrated in This Article

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Detailed Tutorial to Crop Video in KineMaster
-date: 2024-04-24T07:08:42.576Z
-updated: 2024-04-25T07:08:42.576Z
+date: 2024-06-09T16:15:27.927Z
+updated: 2024-06-10T16:15:27.927Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved Detailed Tutorial to Crop Video in KineMaster
 excerpt: This Article Describes New 2024 Approved Detailed Tutorial to Crop Video in KineMaster
 keywords: detailed tutorial to crop a video using openshot,detailed tutorial to crop video in kinemaster,detailed tutorial to crop a video in kinemaster,ai animation detailed tutorial to crop a video in kinemaster,ai animation ai animation detailed tutorial to crop a video in kinemaster,ai animation detailed tutorial to crop video in kinemaster,ai animation detailed tutorial to crop a video using openshot
-thumbnail: https://www.lifewire.com/thmb/0zAfKCPSLtJGJZ4s7ICQ5FGmSzY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Verified-badge-on-phone-658ecad4f9104dae97a969bfa2f74eb3.jpg
+thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc8ca952932303c5e2c53ba39.jpg
 ---
 
 ## Detailed Tutorial to Crop Video in KineMaster

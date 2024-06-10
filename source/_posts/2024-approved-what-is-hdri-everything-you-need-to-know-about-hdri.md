@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved What Is HDRI? Everything You Need to Know About HDRI
-date: 2024-04-24T07:08:16.657Z
-updated: 2024-04-25T07:08:16.657Z
+date: 2024-06-09T16:15:11.097Z
+updated: 2024-06-10T16:15:11.097Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved What Is HDRI? Everything You Need to Know About HDRI
 excerpt: This Article Describes 2024 Approved What Is HDRI? Everything You Need to Know About HDRI
 keywords: everything that you need to know about video montages ideas techniqu,ai animation what is hdri everything you need to know about hdri,everything you need to know about color grading in photography,things you need to know about transparent png remove and convert,ai animation everything you need to know about color grading in photography,ai animation everything that you need to know about video montages ideas techniqu,what is hdri everything you need to know about hdri
-thumbnail: https://www.lifewire.com/thmb/Kum5AgirtoV-H5HQXO5DDyzMKvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-bluesky-social-fea29392009e4482b7fd8c5c526f69ab.jpg
+thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
 ---
 
 ## What Is HDRI? Everything You Need to Know About HDRI

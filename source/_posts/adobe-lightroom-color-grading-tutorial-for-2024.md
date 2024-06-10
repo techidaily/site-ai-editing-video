@@ -1,7 +1,7 @@
 ---
 title: Adobe Lightroom Color Grading Tutorial for 2024
-date: 2024-05-20T03:37:50.977Z
-updated: 2024-05-21T03:37:50.977Z
+date: 2024-06-09T16:15:24.475Z
+updated: 2024-06-10T16:15:24.475Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Adobe Lightroom Color Grading Tutorial for 2024
 excerpt: This Article Describes Adobe Lightroom Color Grading Tutorial for 2024
 keywords: adobe lightroom color grading tutorial,how to uue adobe lightroom color grading,ai animation how to uue adobe lightroom color grading,ai animation adobe lightroom color grading tutorial,color grading lightroom,ai animation ai animation adobe lightroom color grading tutorial,adobe lightroom color grading
-thumbnail: https://www.lifewire.com/thmb/p0ylhoIohfzUUD_zptkk_cS1LaE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zenbook-17-fold-oled-72de5601b7334834a2962b7a8c7b4e9b-16fb2ba97f414911a71ffd37c82c541e.png
+thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32ba37267dd79e6e802f121e2.png
 ---
 
 ## Adobe Lightroom Color Grading Tutorial

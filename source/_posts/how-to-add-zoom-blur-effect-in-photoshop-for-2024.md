@@ -1,7 +1,7 @@
 ---
 title: How to Add Zoom Blur Effect In Photoshop for 2024
-date: 2024-05-20T03:38:05.768Z
-updated: 2024-05-21T03:38:05.768Z
+date: 2024-06-09T16:15:16.014Z
+updated: 2024-06-10T16:15:16.014Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Add Zoom Blur Effect In Photoshop for 2024
 excerpt: This Article Describes How to Add Zoom Blur Effect In Photoshop for 2024
 keywords: how to add green screen effects in phhotoshop,how to add zoom blur effect in photoshop,ai animation add zoom blur effect in photoshop step by step,ai animation how to add zoom blur effect in photoshop,ai animation ai animation how to add zoom blur effect in photoshop,how to add motion blur effect to photos in gimp,add zoom blur effect in photoshop step by step
-thumbnail: https://www.lifewire.com/thmb/Rjkf6fiPF-oXAs-UqYWshvM3oZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CODA-d4dd2a9b6c3d4a008a05c9718c9bce1e.jpg
+thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371dbf02532bc0633c00063d56.jpg
 ---
 
 ## How to Add Zoom Blur Effect In Photoshop

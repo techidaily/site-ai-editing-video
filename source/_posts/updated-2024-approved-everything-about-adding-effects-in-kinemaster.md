@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Everything About Adding Effects In Kinemaster
-date: 2024-04-24T07:08:29.207Z
-updated: 2024-04-25T07:08:29.207Z
+date: 2024-06-09T16:15:16.070Z
+updated: 2024-06-10T16:15:16.070Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Everything About Adding Effects In Kinemaster
 excerpt: This Article Describes Updated 2024 Approved Everything About Adding Effects In Kinemaster
 keywords: how to do masking in after effects alternative provided,everything about adding effects in kinemaster,all things about adding effects in kinemaster,ai animation ai animation all things about adding effects in kinemaster,ai animation all things about adding effects in kinemaster,ai animation everything about adding effects in kinemaster,add effects in kinemaster
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## Everything About Adding Effects In Kinemaster

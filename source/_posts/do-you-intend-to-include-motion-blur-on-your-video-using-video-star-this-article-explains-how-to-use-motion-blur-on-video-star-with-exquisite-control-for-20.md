@@ -1,7 +1,7 @@
 ---
 title: Do You Intend to Include Motion Blur on Your Video Using Video Star? This Article Explains How to Use Motion Blur on Video Star with Exquisite Control for 2024
-date: 2024-04-24T07:08:18.132Z
-updated: 2024-04-25T07:08:18.132Z
+date: 2024-06-09T16:15:19.773Z
+updated: 2024-06-10T16:15:19.773Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Do You Intend to Include Motion Blur on Your Video Using Video Star? This Article Explains How to Use Motion Blur on Video Star with Exquisite Control for 2024
 excerpt: This Article Describes Do You Intend to Include Motion Blur on Your Video Using Video Star? This Article Explains How to Use Motion Blur on Video Star with Exquisite Control for 2024
 keywords: are you trying to create a stunning intro for your video for free this article will show you how to make an intro video using invideo in a few simple steps,do you intend to include motion blur on your video using video star this article explains how to use motion blur on video star with exquisite control,do you seek to blur out your video and photo to display some motion blur this article provides a list of the best motion blur apps for videos and photos,learn how to easily concatenate videos using ffmpeg in this step by step guide from installation to execution we cover it all to streamline your video editing process,do you seek a guide to add motion in blender this article explains the blender motion blur effect in detail and helps you master it,do you know what is motion blur in fortnite read this article to find out how to apply motion blur in fortnite efficiently and with ease,do you want to create a motion blur effect in your videos read this well described guide to learn how to add motion blur on capcut on iphone and android devices
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## Do You Intend to Include Motion Blur on Your Video Using Video Star? This Article Explains How to Use Motion Blur on Video Star with Exquisite Control

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Discover the Art of Masking in After Effects A Comprehensive Guide
-date: 2024-04-24T07:08:30.385Z
-updated: 2024-04-25T07:08:30.385Z
+date: 2024-06-09T16:15:25.716Z
+updated: 2024-06-10T16:15:25.716Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, Discover the Art of Masking in After Effects A Comprehensive Guide
 excerpt: This Article Describes New In 2024, Discover the Art of Masking in After Effects A Comprehensive Guide
 keywords: ai animation 3d ray traced settings in after effects a comprehensive guide,mastering opencv object tracking a comprehensive guide for beginners and experts,discover the art of masking in after effects a comprehensive guide,3d ray traced settings in after effects a comprehensive guide,ai animation mastering opencv object tracking a comprehensive guide for beginners and experts,replacing the sky in adobe after effects an extensive guide,ai animation discover the art of masking in after effects a comprehensive guide
-thumbnail: https://www.lifewire.com/thmb/1X3sRGX1kbV-Ydn8ceXfqTlOH6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-american-woman-opening-packages-of-shoes-on-sofa-580503483-5a735094d8fdd50036b63f8a.jpg
+thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
 ## Discover the Art of Masking in After Effects: A Comprehensive Guide

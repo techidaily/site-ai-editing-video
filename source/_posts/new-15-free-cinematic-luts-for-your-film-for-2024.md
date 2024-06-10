@@ -1,7 +1,7 @@
 ---
 title: New 15 Free Cinematic LUTs for Your Film for 2024
-date: 2024-04-24T07:08:26.709Z
-updated: 2024-04-25T07:08:26.709Z
+date: 2024-06-09T16:15:25.341Z
+updated: 2024-06-10T16:15:25.341Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 15 Free Cinematic LUTs for Your Film for 2024
 excerpt: This Article Describes New 15 Free Cinematic LUTs for Your Film for 2024
 keywords: cinematic luts for premiere pro,free cinematic luts,ai animation 15 free cinematic luts for your film,ai animation 15 best free cinematic luts for your film,15 free cinematic luts for your film,15 best free cinematic luts for your film,ai animation ai animation 15 free cinematic luts for your film
-thumbnail: https://www.lifewire.com/thmb/-JO-0dyylsxj3szzMyduNG-Qvig=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-919006240-ee5ef631cb6f4e4997bce403b8bafa77.jpg
+thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
 ---
 
 ## 15 Free Cinematic LUTs for Your Film

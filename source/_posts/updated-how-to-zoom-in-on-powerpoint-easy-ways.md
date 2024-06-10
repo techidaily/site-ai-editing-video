@@ -1,7 +1,7 @@
 ---
 title: Updated How to Zoom in on PowerPoint Easy Ways
-date: 2024-04-24T07:08:13.267Z
-updated: 2024-04-25T07:08:13.267Z
+date: 2024-06-09T16:15:11.591Z
+updated: 2024-06-10T16:15:11.591Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Zoom in on PowerPoint Easy Ways
 excerpt: This Article Describes Updated How to Zoom in on PowerPoint Easy Ways
 keywords: how to create a custom slide show in powerpoint,ai animation how to loop a video in powerpoint,customize powerpoint slideshow icon in simple ways,zoom in on powerpoint,ai animation how to add slideshow in powerpoint,ai animation how to zoom in on powerpoint easy ways,how to zoom in on powerpoint easy ways
-thumbnail: https://www.lifewire.com/thmb/dpIy1Vb0m2YNL1LlGPZga8opYUc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
 ---
 
 ## How to Zoom in on PowerPoint [Easy Ways]

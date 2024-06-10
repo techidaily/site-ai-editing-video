@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Add Subtitles in Canva?
-date: 2024-04-24T07:08:34.219Z
-updated: 2024-04-25T07:08:34.219Z
+date: 2024-06-09T16:15:08.300Z
+updated: 2024-06-10T16:15:08.300Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, How to Add Subtitles in Canva?
 excerpt: This Article Describes Updated In 2024, How to Add Subtitles in Canva?
 keywords: ai animation how to add subtitles in canva,how to add subtitles in canva,ai animation ai animation how to add subtitles in canva,ai animation steps to add subtitles in canva,add subtitles in canva,steps to add subtitles in canva,ai animation how to add subtitles in vlc media play
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## How to Add Subtitles in Canva?

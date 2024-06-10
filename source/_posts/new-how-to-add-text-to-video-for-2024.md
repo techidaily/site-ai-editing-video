@@ -1,7 +1,7 @@
 ---
 title: New How to Add Text to Video for 2024
-date: 2024-04-24T07:08:30.054Z
-updated: 2024-04-25T07:08:30.054Z
+date: 2024-06-09T16:15:17.301Z
+updated: 2024-06-10T16:15:17.301Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Add Text to Video for 2024
 excerpt: This Article Describes New How to Add Text to Video for 2024
 keywords: how to add text to video,how to add font effects to videos,how to add filter to video online,ai animation how to add text to video,how to add vhs effects to videos for free 2024,how to add echo effect to video,ai animation how to add filter to video online
-thumbnail: https://www.lifewire.com/thmb/3tobj7wbVapRfa4KsiobKg3Nu40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-184415451-9f59b82b64ac421cad0f28540a515b5f.jpg
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
 ---
 
 ## How to Add Text to Video

@@ -1,7 +1,7 @@
 ---
 title: New Applying the Effect of Camera Shake in Video Creation for 2024
-date: 2024-04-24T07:08:40.338Z
-updated: 2024-04-25T07:08:40.338Z
+date: 2024-06-09T16:15:23.028Z
+updated: 2024-06-10T16:15:23.028Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Applying the Effect of Camera Shake in Video Creation for 2024
 excerpt: This Article Describes New Applying the Effect of Camera Shake in Video Creation for 2024
 keywords: ai animation ai animation featuring the use of camera shake in creating the best videos,applying the effect of camera shake in video creation,featuring the use of camera shake in creating the best videos,looking for a cheap camera to make slow motion video get it now,ai animation applying the effect of camera shake in video creation,ai animation add camera shake to video in adobe after effects,ai animation featuring the use of camera shake in creating the best videos
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## Applying the Effect of Camera Shake in Video Creation

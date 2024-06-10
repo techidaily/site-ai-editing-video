@@ -1,7 +1,7 @@
 ---
 title: New Quickly Turn Any Video Into a Paper Rip Effect
-date: 2024-05-20T03:38:16.507Z
-updated: 2024-05-21T03:38:16.507Z
+date: 2024-06-09T16:15:29.740Z
+updated: 2024-06-10T16:15:29.740Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Quickly Turn Any Video Into a Paper Rip Effect
 excerpt: This Article Describes New Quickly Turn Any Video Into a Paper Rip Effect
 keywords: ai animation ai animation quickly turn any video into a paper rip effect,turn video into paper rip effect,quickly turn any video into a paper rip effect,how to apply gaussian blur effect to videos in premiere pro,turn any video into a paper rip effect with filmora,ai animation turn any video into a paper rip effect with filmora,ai animation quickly turn any video into a paper rip effect
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## Quickly Turn Any Video Into a Paper Rip Effect

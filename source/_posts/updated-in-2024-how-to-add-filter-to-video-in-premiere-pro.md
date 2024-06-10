@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Add Filter to Video in Premiere Pro?
-date: 2024-04-24T07:08:29.381Z
-updated: 2024-04-25T07:08:29.381Z
+date: 2024-06-09T16:15:23.296Z
+updated: 2024-06-10T16:15:23.296Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, How to Add Filter to Video in Premiere Pro?
 excerpt: This Article Describes Updated In 2024, How to Add Filter to Video in Premiere Pro?
 keywords: ai animation how to overlay video in premiere pro,how to trim video in premiere pro in different ways,how to brighten video in premiere pro,ai animation how to add filter to video in premiere pro,detailed steps to add border to video using premiere pro,how to fade in text in adobe premiere pro,how to add filter to video in premiere pro
-thumbnail: https://www.lifewire.com/thmb/Xyb0vuGu9TpKbUdQlZdFVVUv0Bc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HotelTransylvaniaTransformania-71f0792728254936864ad509c847c73c.jpg
+thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4aedd9106177497020dbae72.jpg
 ---
 
 ## How to Add Filter to Video in Premiere Pro?

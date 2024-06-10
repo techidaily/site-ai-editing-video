@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Add Filters on iMovie
-date: 2024-04-24T07:08:34.179Z
-updated: 2024-04-25T07:08:34.179Z
+date: 2024-06-09T16:15:29.976Z
+updated: 2024-06-10T16:15:29.976Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved How to Add Filters on iMovie
 excerpt: This Article Describes New 2024 Approved How to Add Filters on iMovie
 keywords: how to add filters on imovie,ai animation how to add custom filters in vn app 2024 quick guide,ai animation how to add filter to video online,ai animation ai animation how to add filters on imovie,how to put a filter on a video in imovie,ai animation how to add filters on imovie,how to add custom filters in vn app 2024 quick guide
-thumbnail: https://www.lifewire.com/thmb/nkL-0VwZC4rZHc_IxhqFzu82L6A=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps6-concept-trailer-64aac5b7323041ad93d7535eccf7df40.png
+thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2edc67c914e7a3a40f4a1feb7f.png
 ---
 
 ## How to Add Filters on iMovie

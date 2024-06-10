@@ -1,7 +1,7 @@
 ---
 title: Updated 15 Best LUTS to Buy
-date: 2024-05-20T03:37:40.106Z
-updated: 2024-05-21T03:37:40.106Z
+date: 2024-06-09T16:15:24.993Z
+updated: 2024-06-10T16:15:24.994Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 15 Best LUTS to Buy
 excerpt: This Article Describes Updated 15 Best LUTS to Buy
 keywords: ai animation ai animation 15 best luts to buy,ai animation 15 best luts to buy,15 best luts to buy,ai animation top 15 luts to buy,ai animation best free luts to use,best free luts to use,top 15 luts to buy
-thumbnail: https://www.lifewire.com/thmb/EPDzjUiegMEW3vQpFQEPlf_7s2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1135364530-dec5678c0c2c427ba18ae21452ff6326.jpg
+thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd85f95b1f8c43ff4375091ae.jpg
 ---
 
 ## 15 Best LUTS to Buy

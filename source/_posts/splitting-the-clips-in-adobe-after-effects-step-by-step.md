@@ -1,7 +1,7 @@
 ---
 title: Splitting the Clips in Adobe After Effects Step by Step
-date: 2024-05-20T03:37:24.320Z
-updated: 2024-05-21T03:37:24.320Z
+date: 2024-06-09T16:15:11.870Z
+updated: 2024-06-10T16:15:11.870Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Splitting the Clips in Adobe After Effects Step by Step
 excerpt: This Article Describes Splitting the Clips in Adobe After Effects Step by Step
 keywords: ai animation ai animation splitting the clips in adobe after effects step by step,ai animation splitting the clips in adobe after effects step by step,ai animation splitting clips in adobe after effects step by step,split a clip in after effects,using slow motion in adobe after effects a step by step procession,splitting clips in adobe after effects step by step,splitting the clips in adobe after effects step by step
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## Splitting the Clips in Adobe After Effects [Step by Step]

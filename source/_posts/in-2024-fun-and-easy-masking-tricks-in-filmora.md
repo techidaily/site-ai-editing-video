@@ -1,7 +1,7 @@
 ---
 title: In 2024, Fun & Easy Masking Tricks in Filmora
-date: 2024-05-20T03:38:31.626Z
-updated: 2024-05-21T03:38:31.626Z
+date: 2024-06-09T16:15:30.354Z
+updated: 2024-06-10T16:15:30.354Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Fun & Easy Masking Tricks in Filmora
 excerpt: This Article Describes In 2024, Fun & Easy Masking Tricks in Filmora
 keywords: ai animation fun easy masking tricks wondershare filmora tutorial,fun easy masking tricks filmora,ai animation fun easy masking tricks in filmora,text reveal animation easy masking filmora,ai animation ai animation fun easy masking tricks wondershare filmora tutorial,fun easy masking tricks in filmora,fun easy masking tricks wondershare filmora tutorial
-thumbnail: https://www.lifewire.com/thmb/7wF4Y8OF7ONJDet9sjTpYolWJ8M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-475157855-5b24021b04d1cf00369d7e11-5c66f1c04cedfd00010a2553.jpg
+thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f64d610e7943b29ad8777b2c6.jpg
 ---
 
 ## Fun & Easy Masking Tricks in Filmora

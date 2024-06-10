@@ -1,7 +1,7 @@
 ---
 title: Updated Basic Introduction for LumaFusion Color Grading
-date: 2024-05-20T03:37:56.379Z
-updated: 2024-05-21T03:37:56.379Z
+date: 2024-06-09T16:15:12.539Z
+updated: 2024-06-10T16:15:12.539Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Basic Introduction for LumaFusion Color Grading
 excerpt: This Article Describes Updated Basic Introduction for LumaFusion Color Grading
 keywords: basic introduction of lumafusion color grading,lumafusion color grading,basic introduction for lumafusion color grading,lumafusion color grading lut,ai animation basic introduction for lumafusion color grading,ai animation ai animation basic introduction for lumafusion color grading,ai animation basic introduction of lumafusion color grading
-thumbnail: https://www.lifewire.com/thmb/5tD-_gpIrKxGqi4E54Dp4SLyqMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/On-Line-Job-Search-aa2565e859bd43a2aa34dfa1537dbd50.jpg
+thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157fc9657d20a61cd8374fcc9ae.jpg
 ---
 
 ## Basic Introduction for LumaFusion Color Grading

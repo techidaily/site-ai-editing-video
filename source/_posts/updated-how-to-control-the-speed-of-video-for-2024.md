@@ -1,7 +1,7 @@
 ---
 title: Updated How to Control the Speed of Video for 2024
-date: 2024-04-24T07:08:43.361Z
-updated: 2024-04-25T07:08:43.361Z
+date: 2024-06-09T16:15:31.540Z
+updated: 2024-06-10T16:15:31.540Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Control the Speed of Video for 2024
 excerpt: This Article Describes Updated How to Control the Speed of Video for 2024
 keywords: how to speed up video with canva online tool,how can i control speed of a video,how to change the speed of video in davinci resolve,ai animation how to control the speed of video,how to control the speed of video,control the speed of video,ai animation how can i control speed of a video
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## How to Control the Speed of Video

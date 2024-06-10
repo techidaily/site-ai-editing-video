@@ -1,7 +1,7 @@
 ---
 title: New Top 9 Sparkle Effects Photo and Video Editors You Should Know
-date: 2024-05-20T03:38:21.144Z
-updated: 2024-05-21T03:38:21.144Z
+date: 2024-06-09T16:15:13.538Z
+updated: 2024-06-10T16:15:13.538Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Top 9 Sparkle Effects Photo and Video Editors You Should Know
 excerpt: This Article Describes New Top 9 Sparkle Effects Photo and Video Editors You Should Know
 keywords: ai animation 9 best sparkle effects photo and video editors you should know,ai animation ai animation top 9 sparkle effects photo and video editors you should know,top 5 best video to ppt converters you should know,9 best sparkle effects photo and video editors you should know,ai animation top 9 sparkle effects photo and video editors you should know,some effective slow motion video editors you can try,top 9 sparkle effects photo and video editors you should know
-thumbnail: https://www.lifewire.com/thmb/n7XTjADWmcwt2P_LF7WoPjqi8O4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-538600261-56c643115f9b5879cc3d6bde.jpg
+thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d56bb43f9e5c26e9a6768a6cd.jpg
 ---
 
 ## Top 9 Sparkle Effects Photo and Video Editors You Should Know

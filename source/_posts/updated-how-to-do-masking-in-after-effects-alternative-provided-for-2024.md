@@ -1,7 +1,7 @@
 ---
 title: Updated How to Do Masking in After Effects Alternative Provided for 2024
-date: 2024-04-24T07:08:35.572Z
-updated: 2024-04-25T07:08:35.572Z
+date: 2024-06-09T16:15:12.469Z
+updated: 2024-06-10T16:15:12.469Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Do Masking in After Effects Alternative Provided for 2024
 excerpt: This Article Describes Updated How to Do Masking in After Effects Alternative Provided for 2024
 keywords: ai animation how to use face tracking in after effects to make your videos pop,ai animation how to add vhs effects to videos for free 2024,ai animation ai animation how to do masking in after effects alternative provided,ai animation how to do datamoshing effect in after effects,ai animation how to do masking in after effects alternative provided,how to do masking in after effects alternative provided,how to use face tracking in after effects to make your videos pop
-thumbnail: https://www.lifewire.com/thmb/eyPEW_zh-5Xw0J7hoJ-kChdCQ1M=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-transfer-data-from-ps4-to-ps5-3392eb400af3482fabad65cabb2a1a91.jpg
+thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc721b43b4dca709d022c56e41.jpg
 ---
 
 ## How to Do Masking in After Effects [Alternative Provided]

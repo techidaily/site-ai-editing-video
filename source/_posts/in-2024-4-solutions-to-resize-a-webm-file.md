@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Solutions to Resize a WebM File
-date: 2024-05-20T03:37:42.724Z
-updated: 2024-05-21T03:37:42.724Z
+date: 2024-06-09T16:15:12.244Z
+updated: 2024-06-10T16:15:12.244Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, 4 Solutions to Resize a WebM File
 excerpt: This Article Describes In 2024, 4 Solutions to Resize a WebM File
 keywords: ai animation 4 methods to resize a webm file,ai animation 4 solutions to resize a webm file,4 methods to resize a webm file,how to change video resolution in filmora,ai animation ai animation 4 methods to resize a webm file,change video resolution filmora,4 solutions to resize a webm file
-thumbnail: https://www.lifewire.com/thmb/x3esfFmI2Y55OmmlRvMWAY3TioM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-98471373-56a9ff935f9b58b7d0006b1a.jpg
+thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aacdfd70319b10cdaec65e638.jpg
 ---
 
 ## 4 Solutions to Resize a WebM File

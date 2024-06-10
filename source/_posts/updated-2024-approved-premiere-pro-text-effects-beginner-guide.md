@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Premiere Pro Text Effects Beginner Guide
-date: 2024-04-24T07:08:37.949Z
-updated: 2024-04-25T07:08:37.949Z
+date: 2024-06-09T16:15:09.994Z
+updated: 2024-06-10T16:15:09.994Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Premiere Pro Text Effects Beginner Guide
 excerpt: This Article Describes Updated 2024 Approved Premiere Pro Text Effects Beginner Guide
 keywords: premiere pro text effects beginner guide,ai animation ai animation premiere pro text effects beginner guide,premiere pro text effects,ai animation premiere pro text effects beginner guide,how to add effects in premiere pro,how to add text effects in adobe premiere pro,guide to add transition effects in premiere pro
-thumbnail: https://www.lifewire.com/thmb/QSOkVMBCO__10c9yExi2xlfXUGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-626970032-497800518dac4d6cafa0dc19b953f1ff.jpg
+thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a57dd0707f44eeaa06c560dbc.jpg
 ---
 
 ## Premiere Pro Text Effects Beginner Guide

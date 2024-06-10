@@ -1,7 +1,7 @@
 ---
 title: How to Use Motion Tracking in Video Editing for 2024
-date: 2024-04-24T07:08:13.012Z
-updated: 2024-04-25T07:08:13.012Z
+date: 2024-06-09T16:15:27.266Z
+updated: 2024-06-10T16:15:27.266Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Use Motion Tracking in Video Editing for 2024
 excerpt: This Article Describes How to Use Motion Tracking in Video Editing for 2024
 keywords: motion tracking using the best video editors,how to use motion tracking in video editing,a guide to motion tracking using the best video editors,ai animation motion tracking using the best video editors,ai animation a guide to motion tracking using the best video editors,how to use motion tracking,ai animation how to use motion tracking in video editing
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## How to Use Motion Tracking in Video Editing

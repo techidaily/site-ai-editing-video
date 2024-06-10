@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Create Slide Masking Effect Intro
-date: 2024-05-20T03:37:59.634Z
-updated: 2024-05-21T03:37:59.634Z
+date: 2024-06-09T16:15:13.139Z
+updated: 2024-06-10T16:15:13.139Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved Create Slide Masking Effect Intro
 excerpt: This Article Describes 2024 Approved Create Slide Masking Effect Intro
 keywords: create slide masking effect introfilmora,create halftone printing effect,ai animation ai animation create slide masking effect intro,how to do masking in after effects alternative provided,ai animation create slide masking effect intro,create slide masking effect intro,discover the art of masking in after effects a comprehensive guide
-thumbnail: https://www.lifewire.com/thmb/5tD-_gpIrKxGqi4E54Dp4SLyqMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/On-Line-Job-Search-aa2565e859bd43a2aa34dfa1537dbd50.jpg
+thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157fc9657d20a61cd8374fcc9ae.jpg
 ---
 
 ## Create Slide Masking Effect Intro

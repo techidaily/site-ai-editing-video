@@ -1,7 +1,7 @@
 ---
 title: New Create Motion Effect with Path Blur In Photoshop
-date: 2024-05-20T03:38:27.914Z
-updated: 2024-05-21T03:38:27.914Z
+date: 2024-06-09T16:15:09.862Z
+updated: 2024-06-10T16:15:09.862Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Create Motion Effect with Path Blur In Photoshop
 excerpt: This Article Describes New Create Motion Effect with Path Blur In Photoshop
 keywords: create motion effect with path blur in photoshop,ai animation use path blur in photoshop to create motion effect,ai animation create motion effect with path blur in photoshop,how to remove motion blur in photoshop,how to add motion blur effect to photos in gimp,use path blur in photoshop to create motion effect,ai animation ai animation use path blur in photoshop to create motion effect
-thumbnail: https://www.lifewire.com/thmb/URpxAt_UNeiJBr0hk-AFwm2D8lg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-change-your-tiktok-username-and-profile-picture-048cd3c3b4854846ab46f920e862332f.jpg
+thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a7bd1aa24fbe3ea34de877b1.jpg
 ---
 
 ## Create Motion Effect with Path Blur In Photoshop

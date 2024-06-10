@@ -1,7 +1,7 @@
 ---
 title: New Premiere Pro Text Effects Beginner Guide
-date: 2024-05-20T03:38:16.418Z
-updated: 2024-05-21T03:38:16.418Z
+date: 2024-06-09T16:15:12.352Z
+updated: 2024-06-10T16:15:12.352Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Premiere Pro Text Effects Beginner Guide
 excerpt: This Article Describes New Premiere Pro Text Effects Beginner Guide
 keywords: how to add text effects in adobe premiere pro,how to add effects in premiere pro,ai animation ai animation premiere pro text effects beginner guide,premiere pro text effects beginner guide,ai animation premiere pro text effects beginner guide,premiere pro text effects,vhs effect in premiere pro
-thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-halloween-live-wallpaper-for-2019-4691483-019a40e91504436ca9fc9f1944d89c15.jpg
+thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c30695c76166aa925348b0ff1b74.jpg
 ---
 
 ## Premiere Pro Text Effects Beginner Guide

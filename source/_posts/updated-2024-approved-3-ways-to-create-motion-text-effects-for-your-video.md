@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved 3 Ways to Create Motion Text Effects for Your Video
-date: 2024-04-24T07:08:27.443Z
-updated: 2024-04-25T07:08:27.443Z
+date: 2024-06-09T16:15:26.853Z
+updated: 2024-06-10T16:15:26.853Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved 3 Ways to Create Motion Text Effects for Your Video
 excerpt: This Article Describes Updated 2024 Approved 3 Ways to Create Motion Text Effects for Your Video
 keywords: how to create motion text effects for your video,3 ways to create motion text effects for your video,ai animation 3 ways to create motion text effects for your video,ai animation ai animation how to create motion text effects for your video,ai animation how to make text reveal effect for your video,how to make text reveal effect for your video,ai animation how to create motion text effects for your video
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## 3 Ways to Create Motion Text Effects for Your Video

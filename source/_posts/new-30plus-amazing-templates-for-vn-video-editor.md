@@ -1,7 +1,7 @@
 ---
 title: New 30+ Amazing Templates for VN Video Editor
-date: 2024-05-20T03:37:41.747Z
-updated: 2024-05-21T03:37:41.747Z
+date: 2024-06-09T16:15:32.012Z
+updated: 2024-06-10T16:15:32.012Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 30+ Amazing Templates for VN Video Editor
 excerpt: This Article Describes New 30+ Amazing Templates for VN Video Editor
 keywords: ai animation 30 amazing templates for vn video editor,ai animation vn video editor templates a game changer for your videos,using vn editor to add luts for video editing,10 best video editing apps with templates,vn video editor templates a game changer for your videos,30 amazing templates for vn video editor,vn video editor templates free download
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## 30+ Amazing Templates for VN Video Editor

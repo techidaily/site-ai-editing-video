@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Slow Down Time-Lapse Videos on iPhone
-date: 2024-04-24T07:08:30.891Z
-updated: 2024-04-25T07:08:30.891Z
+date: 2024-06-09T16:15:11.445Z
+updated: 2024-06-10T16:15:11.445Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, How to Slow Down Time-Lapse Videos on iPhone
 excerpt: This Article Describes New In 2024, How to Slow Down Time-Lapse Videos on iPhone
 keywords: ai animation ai animation how to slow down time lapse videos on iphone,how to play a video in slow motion on iphone,ai animation ai animation ai animation how to slow down time lapse videos on iphone,how to slow down time lapse videos on iphone,way to slow down time lapse on iphone,how to slow down a video on iphone,ai animation how to slow down time lapse videos on iphone
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## How to Slow Down Time-Lapse Videos on iPhone

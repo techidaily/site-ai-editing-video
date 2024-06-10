@@ -1,7 +1,7 @@
 ---
 title: In 2024, 10 Amazing Anime Character Designs to Inspire You
-date: 2024-05-20T03:37:38.282Z
-updated: 2024-05-21T03:37:38.282Z
+date: 2024-06-09T16:15:12.817Z
+updated: 2024-06-10T16:15:12.817Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, 10 Amazing Anime Character Designs to Inspire You
 excerpt: This Article Describes In 2024, 10 Amazing Anime Character Designs to Inspire You
 keywords: what anime character are you,ai animation 10 creative ar teaching examples to tell you what is ar in teaching,how to animate your designs with canva gif,10 amazing anime character designs to inspire you,anime character design,10 creative ar teaching examples to tell you what is ar in teaching,ai animation 10 amazing anime character designs to inspire you
-thumbnail: https://www.lifewire.com/thmb/mDhxV8MNRpKsVw-MZy5n6Aic8pw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-soundbar-dolby-atmos-569f1fdd925e46ab8b3e1f51d95e1e6c.jpg
+thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04c405e68f58f5857acd450ec.jpg
 ---
 
 ## 10 Amazing Anime Character Designs to Inspire You

@@ -1,7 +1,7 @@
 ---
 title: Updated Guiding Principles of Track Matte and Tracking in Adobe After Effects
-date: 2024-05-20T03:38:31.999Z
-updated: 2024-05-21T03:38:31.999Z
+date: 2024-06-09T16:15:28.826Z
+updated: 2024-06-10T16:15:28.826Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Guiding Principles of Track Matte and Tracking in Adobe After Effects
 excerpt: This Article Describes Updated Guiding Principles of Track Matte and Tracking in Adobe After Effects
 keywords: guiding principles of track matte and tracking in adobe after effects,how to use track matte and tracking in adobe after effects,ai animation guiding principles of track matte and tracking in adobe after effects,replacing the sky in adobe after effects an extensive guide,ai animation ai animation using track matte and tracking in adobe after effects reviewing all possibilities,using track matte and tracking in adobe after effects reviewing all possibilities,ai animation using track matte and tracking in adobe after effects reviewing all possibilities
-thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-504331578-cheering-football-on-tv-5a231ffdaad52b00372ae2a6.jpg
+thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde2fed4f7c2aee477f6b93402.jpg
 ---
 
 ## Guiding Principles of Track Matte and Tracking in Adobe After Effects

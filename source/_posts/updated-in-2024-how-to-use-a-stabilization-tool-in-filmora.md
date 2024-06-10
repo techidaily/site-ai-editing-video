@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Use a Stabilization Tool in Filmora
-date: 2024-04-24T07:08:37.516Z
-updated: 2024-04-25T07:08:37.516Z
+date: 2024-06-09T16:15:10.040Z
+updated: 2024-06-10T16:15:10.040Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, How to Use a Stabilization Tool in Filmora
 excerpt: This Article Describes Updated In 2024, How to Use a Stabilization Tool in Filmora
 keywords: easy guide to use a stabilization tool in filmora,ai animation easy guide to use a stabilization tool in filmora,ai animation how to create custom lower thirds in filmora,ai animation how to use a stabilization tool in filmora,ai animation ai animation how to use a stabilization tool in filmora,how to use a stabilization tool in filmora,ai animation how to use speed ramping to create a footage
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## How to Use a Stabilization Tool in Filmora

@@ -1,7 +1,7 @@
 ---
 title: How To Quick Guide for Making Google Slideshows for 2024
-date: 2024-05-20T03:38:11.661Z
-updated: 2024-05-21T03:38:11.661Z
+date: 2024-06-09T16:15:28.960Z
+updated: 2024-06-10T16:15:28.960Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How To Quick Guide for Making Google Slideshows for 2024
 excerpt: This Article Describes How To Quick Guide for Making Google Slideshows for 2024
 keywords: ai animation how to quick guide for making google slideshows,best tricks for learning photo slideshow,how to quick guide for making google slideshows,ai animation how to quick guide for creating google slideshows,top tricks for learning photo slideshow,how to quick guide for creating google slideshows,ai animation ai animation how to quick guide for making google slideshows
-thumbnail: https://www.lifewire.com/thmb/0ReomQ5wrb7WSffrn0hDnZKzgPU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-gaming-laptop-5235493-145a8c941b9f46e99d9a90bdee387893.jpg
+thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1ab1cb47d3f2f93a3bce610c.jpg
 ---
 
 ## How To: Quick Guide for Making Google Slideshows

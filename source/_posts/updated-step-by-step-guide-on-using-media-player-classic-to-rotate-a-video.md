@@ -1,7 +1,7 @@
 ---
 title: Updated Step By Step Guide on Using Media Player Classic To Rotate A Video
-date: 2024-04-24T07:08:14.552Z
-updated: 2024-04-25T07:08:14.552Z
+date: 2024-06-09T16:15:15.530Z
+updated: 2024-06-10T16:15:15.530Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Step By Step Guide on Using Media Player Classic To Rotate A Video
 excerpt: This Article Describes Updated Step By Step Guide on Using Media Player Classic To Rotate A Video
 keywords: step by step to rotate videos in windows media player,ai animation step by step to rotate video using kmplayer,ai animation step by step to rotate videos in windows media player,step by step to rotate video using kmplayer,ai animation step by step to rotate videos using obs,step by step guide on using media player classic to rotate a video,ai animation step by step guide on using media player classic to rotate a video
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## Step By Step Guide on Using Media Player Classic To Rotate A Video

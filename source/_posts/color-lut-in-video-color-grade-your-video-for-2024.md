@@ -1,7 +1,7 @@
 ---
 title: Color Lut in Video - Color Grade Your Video for 2024
-date: 2024-05-20T03:38:27.345Z
-updated: 2024-05-21T03:38:27.345Z
+date: 2024-06-09T16:15:24.705Z
+updated: 2024-06-10T16:15:24.705Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Color Lut in Video - Color Grade Your Video for 2024
 excerpt: This Article Describes Color Lut in Video - Color Grade Your Video for 2024
 keywords: ai animation color lut in video color grade your video,color lut in video how to color grade your video,ai animation color lut in video how to color grade your video,enhance your video color accuracy with video scope,ai animation ai animation color lut in video how to color grade your video,color lut in video color grade your video,enhance your video color accuracy with video scopes
-thumbnail: https://www.lifewire.com/thmb/j6BDiuyaUokwtXDLEnyA5LApr9c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4062264-InCar6-1500-5b803f8ec9e77c0025d3f4de.jpg
+thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557e8c99c8c7fa75aee528315d.jpg
 ---
 
 ## Color Lut in Video - Color Grade Your Video

@@ -1,7 +1,7 @@
 ---
 title: New How To Create Quiz Videos Detailed Guide
-date: 2024-05-20T03:38:07.577Z
-updated: 2024-05-21T03:38:07.577Z
+date: 2024-06-09T16:15:22.801Z
+updated: 2024-06-10T16:15:22.801Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How To Create Quiz Videos Detailed Guide
 excerpt: This Article Describes New How To Create Quiz Videos Detailed Guide
 keywords: detailed guide to crop video in sony vegas pro,detailed guide to rotate videos in blender,detailed guide to crop videos in sony vegas pro,detailed guide to resize your video in vlc,how to create quiz videos detailed guide,ai animation how to create quiz videos detailed guide,ai animation ai animation how to create quiz videos detailed guide
-thumbnail: https://www.lifewire.com/thmb/CUKW3XFY7liGlZzhBQy-nvEFMFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/frenchopen-4d320297828b413f84f9940d5bd258f9.jpg
+thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e6c7211350802c91feadcdaf.jpg
 ---
 
 ## How To Create Quiz Videos: Detailed Guide

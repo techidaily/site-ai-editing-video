@@ -1,7 +1,7 @@
 ---
 title: How to Make a Video Slideshow in iMovie
-date: 2024-05-20T03:37:22.619Z
-updated: 2024-05-21T03:37:22.619Z
+date: 2024-06-09T16:15:11.295Z
+updated: 2024-06-10T16:15:11.295Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Make a Video Slideshow in iMovie
 excerpt: This Article Describes How to Make a Video Slideshow in iMovie
 keywords: ai animation how to create a video slideshow in imovie,how to make a video slideshow in imovie,how to create a video slideshow in imovie,ai animation ai animation how to make a video slideshow in imovie,ai animation how to make a video slideshow in imovie,how to make a slideshow gif,want to make a slide show video heres how
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## How to Make a Video Slideshow in iMovie

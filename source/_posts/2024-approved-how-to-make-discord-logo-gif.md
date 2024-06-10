@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Make Discord Logo GIF
-date: 2024-05-20T03:38:11.061Z
-updated: 2024-05-21T03:38:11.061Z
+date: 2024-06-09T16:15:22.752Z
+updated: 2024-06-10T16:15:22.752Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved How to Make Discord Logo GIF
 excerpt: This Article Describes 2024 Approved How to Make Discord Logo GIF
 keywords: how to create discord logo gif,how to make discord gif pfp,how to make discord emoji gif,how to make discord gif pfp solved,ai animation how to create discord logo gif,ai animation how to make discord logo gif,how to make discord logo gif
-thumbnail: https://www.lifewire.com/thmb/ODtsQJBMUj58crtQiyrVENYFqnk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendo-switch-vs-nintendo-switch-lite-01-61592395e9e44fc78403c7e99105de84.jpg
+thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962afe3131815c9477f19cbcf4.jpg
 ---
 
 ## How to Make Discord Logo GIF

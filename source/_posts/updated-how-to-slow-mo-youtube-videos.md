@@ -1,7 +1,7 @@
 ---
 title: Updated How to Slow-Mo YouTube Videos
-date: 2024-04-24T07:08:12.704Z
-updated: 2024-04-25T07:08:12.704Z
+date: 2024-06-09T16:15:12.028Z
+updated: 2024-06-10T16:15:12.028Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Slow-Mo YouTube Videos
 excerpt: This Article Describes Updated How to Slow-Mo YouTube Videos
 keywords: how to edit youtube videos in simple steps,how to slow mo youtube video,ai animation how to slow mo youtube videos,how to edit youtube videos in easy steps,how to slow mo youtube videos,how to share youtube video on zoom,how to edit youtube videos
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## How to Slow-Mo YouTube Videos

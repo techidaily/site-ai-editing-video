@@ -1,7 +1,7 @@
 ---
 title: New How to Create After Effects Gifs
-date: 2024-05-20T03:38:06.813Z
-updated: 2024-05-21T03:38:06.813Z
+date: 2024-06-09T16:15:21.052Z
+updated: 2024-06-10T16:15:21.052Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Create After Effects Gifs
 excerpt: This Article Describes New How to Create After Effects Gifs
 keywords: ai animation how to create after effects gifs,after effects gifs,ai animation how to make after effects gifs,how to create after effects gifs,how to create a glitch text effect,how to make after effects gifs,ai animation ai animation how to create after effects gifs
-thumbnail: https://www.lifewire.com/thmb/Kum5AgirtoV-H5HQXO5DDyzMKvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-bluesky-social-fea29392009e4482b7fd8c5c526f69ab.jpg
+thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
 ---
 
 ## How to Create After Effects Gifs

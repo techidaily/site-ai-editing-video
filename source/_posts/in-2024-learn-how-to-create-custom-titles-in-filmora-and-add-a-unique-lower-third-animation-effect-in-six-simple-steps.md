@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn How to Create Custom Titles in Filmora and Add a Unique Lower Third Animation Effect in Six Simple Steps
-date: 2024-04-24T07:08:21.634Z
-updated: 2024-04-25T07:08:21.634Z
+date: 2024-06-09T16:15:27.980Z
+updated: 2024-06-10T16:15:27.980Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Learn How to Create Custom Titles in Filmora and Add a Unique Lower Third Animation Effect in Six Simple Steps
 excerpt: This Article Describes In 2024, Learn How to Create Custom Titles in Filmora and Add a Unique Lower Third Animation Effect in Six Simple Steps
 keywords: learn how to create animated titles and text in the filmora video editor this is a simple step by step tutorial for any skill level,find out what track mattes are in after effects and learn how to find and use it with simple and easy to follow instructions,follow a few simple steps and learn how to create a professional glowing edge effect to your videos in filmora,ai animation ai animation how to create custom lower thirds in filmora,ai animation how to create custom lower thirds in filmora,learn how to create a unique repeated text animation in the filmora video editor follow the simple step by step instructions,learn how to create custom titles in filmora and add a unique lower third animation effect in six simple steps
-thumbnail: https://www.lifewire.com/thmb/n7XTjADWmcwt2P_LF7WoPjqi8O4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-538600261-56c643115f9b5879cc3d6bde.jpg
+thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d56bb43f9e5c26e9a6768a6cd.jpg
 ---
 
 ## Learn How to Create Custom Titles in Filmora and Add a Unique Lower Third Animation Effect in Six Simple Steps

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved LumaFusion Color Grading Achieving It Through LUTs
-date: 2024-04-24T07:08:37.791Z
-updated: 2024-04-25T07:08:37.791Z
+date: 2024-06-09T16:15:25.180Z
+updated: 2024-06-10T16:15:25.180Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved LumaFusion Color Grading Achieving It Through LUTs
 excerpt: This Article Describes New 2024 Approved LumaFusion Color Grading Achieving It Through LUTs
 keywords: ai animation ai animation lumafusion color grading achieving it through luts,lumafusion color grading lut,how to achieve lumafusion color grading through luts,ai animation everything you need to know about color grading in photography,ai animation how to achieve lumafusion color grading through luts,lumafusion color grading achieving it through luts,ai animation lumafusion color grading achieving it through luts
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## LumaFusion Color Grading: Achieving It Through LUTs

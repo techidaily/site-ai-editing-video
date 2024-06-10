@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Create After Effects Gifs
-date: 2024-04-24T07:08:34.985Z
-updated: 2024-04-25T07:08:34.985Z
+date: 2024-06-09T16:15:14.203Z
+updated: 2024-06-10T16:15:14.203Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, How to Create After Effects Gifs
 excerpt: This Article Describes Updated In 2024, How to Create After Effects Gifs
 keywords: ai animation ai animation how to create after effects gifs,how to add text in after effects,how to create after effects gifs,how to create a green screen video in after effects,ai animation how to make after effects gifs,how to make after effects gifs,ai animation how to create after effects gifs
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## How to Create After Effects Gifs

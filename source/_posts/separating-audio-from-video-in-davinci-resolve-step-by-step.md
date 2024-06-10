@@ -1,7 +1,7 @@
 ---
 title: Separating Audio From Video in DaVinci Resolve Step by Step
-date: 2024-05-20T03:37:30.339Z
-updated: 2024-05-21T03:37:30.339Z
+date: 2024-06-09T16:15:15.582Z
+updated: 2024-06-10T16:15:15.582Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Separating Audio From Video in DaVinci Resolve Step by Step
 excerpt: This Article Describes Separating Audio From Video in DaVinci Resolve Step by Step
 keywords: ai animation separate audio from video in davinci resolve step by step,ai animation cropping a video in davinci resolve step by step,separate audio from video in davinci resolve step by step,ai animation separating audio from video in davinci resolve step by step,cropping a video in davinci resolve step by step,separating audio from video in davinci resolve step by step,ai animation ai animation separate audio from video in davinci resolve step by step
-thumbnail: https://www.lifewire.com/thmb/HkQrnB6Inkx8Rh4KIo-rh5RAck0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/computerkeyboard-5c070d3ec9e77c0001b19701.jpg
+thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9da7986f6cee296d3fed5998.jpg
 ---
 
 ## Separating Audio From Video in DaVinci Resolve [Step by Step]

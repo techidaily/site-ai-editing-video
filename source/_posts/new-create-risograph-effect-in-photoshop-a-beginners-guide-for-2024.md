@@ -1,7 +1,7 @@
 ---
 title: New Create Risograph Effect In Photoshop A Beginners Guide for 2024
-date: 2024-04-24T07:08:42.434Z
-updated: 2024-04-25T07:08:42.434Z
+date: 2024-06-09T16:15:13.807Z
+updated: 2024-06-10T16:15:13.807Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Create Risograph Effect In Photoshop A Beginners Guide for 2024
 excerpt: This Article Describes New Create Risograph Effect In Photoshop A Beginners Guide for 2024
 keywords: how to quickly create a screen print effect in photoshop detailed gui,step by step guide to creating halftone effects in photoshop,how to quickly create a screen print effect in photoshop detailed guide,how to create cinematic style videos easy guide for beginners,create risograph effect in photoshop a beginners guide,ai animation step by step guide to creating halftone effects in photoshop,ai animation create risograph effect in photoshop a beginners guide
-thumbnail: https://www.lifewire.com/thmb/FN7XGTj25e9fUSdywINjYYIsMCI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545864051-5c29cf6346e0fb0001d25712.jpg
+thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea3bc2d6cdbbe36e4703b4b56.jpg
 ---
 
 ## Create Risograph Effect In Photoshop: A Beginner’s Guide

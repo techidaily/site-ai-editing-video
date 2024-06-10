@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Getting Into The Details A Review of Kodak LUTs
-date: 2024-04-24T07:08:33.675Z
-updated: 2024-04-25T07:08:33.675Z
+date: 2024-06-09T16:15:09.427Z
+updated: 2024-06-10T16:15:09.427Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, Getting Into The Details A Review of Kodak LUTs
 excerpt: This Article Describes Updated In 2024, Getting Into The Details A Review of Kodak LUTs
 keywords: ai animation ai animation getting into the details a review of kodak luts,ai animation getting into the details a review of kodak luts,getting into the details a review of kodak luts,updated 2024 top free vintage luts to use,ai animation updated 2024 top free vintage luts to use,ai animation detailed review of kodak luts,detailed review of kodak luts
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## Getting Into The Details: A Review of Kodak LUTs

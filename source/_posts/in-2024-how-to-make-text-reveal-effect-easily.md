@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make Text Reveal Effect Easily
-date: 2024-05-20T03:38:11.261Z
-updated: 2024-05-21T03:38:11.261Z
+date: 2024-06-09T16:15:20.973Z
+updated: 2024-06-10T16:15:20.973Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, How to Make Text Reveal Effect Easily
 excerpt: This Article Describes In 2024, How to Make Text Reveal Effect Easily
 keywords: ai animation ai animation how to make text reveal effect easily,how to make text reveal effect for your video,how to make text reveal effect easily,ai animation how to make text reveal effect for your video,how to make falling text effect in filmora,make text reval effect,ai animation how to make text reveal effect easily
-thumbnail: https://www.lifewire.com/thmb/7wWwLeV8KAaB-XqPIbKe8lIgaY4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reddit-app-for-andoird-652f6fcd646245e9807afbac25a072ee.jpg
+thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff412fbb14fb93882fc8d1dc09.jpg
 ---
 
 ## How to Make Text Reveal Effect Easily
