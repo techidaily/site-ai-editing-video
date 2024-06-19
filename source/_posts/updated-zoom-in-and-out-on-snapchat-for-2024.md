@@ -1,7 +1,7 @@
 ---
 title: Updated Zoom In and Out on Snapchat for 2024
-date: 2024-04-24T07:08:31.841Z
-updated: 2024-04-25T07:08:31.841Z
+date: 2024-06-18T14:30:58.807Z
+updated: 2024-06-19T14:30:58.807Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Zoom In and Out on Snapchat for 2024
 excerpt: This Article Describes Updated Zoom In and Out on Snapchat for 2024
 keywords: zoom in and out on mac,ai animation zoom in and out on snapchat,zoom in and out on snapchat,ai animation quickest guide zoom in and out on snapchat,quickest guide zoom in and out on snapchat,zoom in and out on discord,ai animation ai animation zoom in and out on snapchat
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## Zoom In and Out on Snapchat
@@ -537,7 +537,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 
@@ -596,7 +596,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 
@@ -655,7 +655,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 
@@ -714,7 +714,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 

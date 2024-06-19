@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Correct Lens Distortion With Filmora
-date: 2024-04-24T07:08:34.762Z
-updated: 2024-04-25T07:08:34.762Z
+date: 2024-06-18T14:31:04.358Z
+updated: 2024-06-19T14:31:04.358Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, How to Correct Lens Distortion With Filmora
 excerpt: This Article Describes Updated In 2024, How to Correct Lens Distortion With Filmora
 keywords: how to correct lens distortion with filmora,ai animation how to correct lens distortion in videos,how to correct lens distortion in videos,correct lens distortion in video,ai animation how to correct lens distortion with filmora,ai animation ai animation how to correct lens distortion with filmora,ai animation how to do censor effects with filmora
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## How to Correct Lens Distortion With Filmora
@@ -247,13 +247,13 @@ Finally, we will explain how to automate these commands so that you can run them
 
 ![how to automate these commands](https://images.wondershare.com/filmora/article-images/2023/01/change-video-speed-ffmeg-1.jpg)
 
-## Part 1\. [What is FFmpeg?](https://ffmpeg.org/about.html)
+## Part 1\. What is FFmpeg?
 
 FFmpeg is a free and open-source cross-platform software project that can record, convert, and stream audio and video. It was developed by Fabrice Bellard in 2000\. It has since become one of the most popular tools for transcoding media content on Linux, Unix, Mac OS X, Windows NT, and more.
 
 One of its lesser-known capabilities is to speed up or slow down videos in just about any design you can think of — with either the audio or the video synced to the other if desired.
 
-### [Uses of FFmpeg](https://ottverse.com/what-is-ffmpeg-installation-use-cases/)
+### Uses of FFmpeg
 
 FFMPEG is a command-line tool that can manipulate and transcode video files. Its uses are as follows:
 

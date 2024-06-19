@@ -1,7 +1,7 @@
 ---
 title: New 6 Instant Ways to Create Windows 10 Slideshow for 2024
-date: 2024-04-24T07:08:27.812Z
-updated: 2024-04-25T07:08:27.812Z
+date: 2024-06-18T14:30:57.342Z
+updated: 2024-06-19T14:30:57.342Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 6 Instant Ways to Create Windows 10 Slideshow for 2024
 excerpt: This Article Describes New 6 Instant Ways to Create Windows 10 Slideshow for 2024
 keywords: ai animation ai animation 6 instant ways to make windows 10 slideshow,6 instant ways to create windows 10 slideshow,6 instant ways to make windows 10 slideshow,ai animation how to create an instant slideshow on mac,how to create an instant slideshow on mac,ai animation 6 instant ways to make windows 10 slideshow,ai animation 6 instant ways to create windows 10 slideshow
-thumbnail: https://www.lifewire.com/thmb/oj9f0wuX7XGgnL3sQwetCIX5y6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-pngs-wont-open-in-windows-11-41107f6a55db4318b6c2b64437de5b75.jpg
+thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1cb979a99a698fecfb5d28b74.jpg
 ---
 
 ## 6 Instant Ways to Create Windows 10 Slideshow
@@ -98,8 +98,7 @@ You can also choose to shuffle the screen saver images by clicking within the �
 
 When you are satisfied with all the **windows photos slideshow settings,** navigate to the bottom right corner of the window and click on the ‘Save’ button. This will close the ‘Settings’ window and direct you to the ‘Wait’ box, where you can enter the duration after which the screen saver presentation will start to play if there is no cursor movement. Lastly, tap the ‘Apply’ button to confirm your changes.
 
-![Setting Up a Screen Saver Image Slideshow- Saving the Slideshow Settings
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-6.JPG)
+![Setting Up a Screen Saver Image Slideshow- Saving the Slideshow Settings](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-6.JPG)
 
 ### 03Setting Up a Photos App Image Slideshow
 
@@ -133,8 +132,7 @@ Adhering to the concern, there is the Impress slideshow app, which is essentiall
 
 To begin with, navigate to the official LibreOffice website and initiate a free download of the application in your Windows 10 device. All you need to do is, hit the ‘Download Now’ tab, followed by selecting ‘Windows’ as the operating system. For saving the latter’s setup wizard to your device, click on ‘Download Version 6.3.6’ tab.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Software Download Page
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-8.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Software Download Page](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-8.JPG)
 
 Having finished the above formalities, proceed to run the software’s setup wizard in your system for a successful installation of the Office Suite application package. Once the installation process gets completed, head to and click on the ‘LibreOffice Impress’ tab to launch the utility and land across the following interface:
 
@@ -147,8 +145,7 @@ Start with heading to and clicking on the ‘Properties’ icon in the toolbar a
 
 You can now head to the layout pane under the ‘Properties’ tool and choose a desired layout for the added slides. It is however, preferable to pick the ‘Blank Slide Layout’ for all the presentation slides.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Slide Layout Selection
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-10.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Slide Layout Selection](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-10.JPG)
 
 **Step 3: Add a Background Image**
 
@@ -156,8 +153,7 @@ Reach to the slide navigation pane and right click on any one of the empty slide
 
 Cancel the page arrangement option by selecting ‘No’ in the ‘Page Setting’ window that shows up as soon as the image is added. Proceed to include a single image to each of the presentation slides.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Adding a Background Image
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-11.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Adding a Background Image](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-11.JPG)
 
 **Step 4: Include Slide Transitions**
 
@@ -165,8 +161,7 @@ Navigate to the toolbar at the right and tap ‘Slide Transition’ icon to get 
 
 You can further, modify the speed and sound settings of the applied transition effects. When the adjustments make you happy, navigate to and hit the ‘Play’ tab in the ‘Slide Transition’ window for previewing the applied transition effects.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Adding Transition Effects
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-12.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Adding Transition Effects](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-12.JPG)
 
 **Step 5: Customize the Presentation**
 
@@ -174,8 +169,7 @@ Moving ahead, the ‘Slide Transition’ window allows you to adjust the screen 
 
 The automatic duration can be set by clicking on the ‘Automatically After’ radio button, followed by entering a desired value in the text box. After setting the time value, click on the ‘Apply to All Slides’ tab to confine all the slide transitions within the set duration.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Customizing the Slideshow
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-13.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Customizing the Slideshow](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-13.JPG)
 
 **Step 6: Adding Subtitles to the Slides**
 
@@ -211,8 +205,7 @@ Navigate to the ‘Start Menu’ on your Windows 10 desktop and type ‘Video Ed
 
 In the welcome screen of the utility, navigate to and hit the ‘New Video Project’ button to start working on a slideshow presentation from scratch. Assign a suitable name to the project and lastly, tap ‘OK’ to reach the app’s editor timeline.
 
-![Setting Up a Video Editor Image Slideshow- Creating a New Slideshow Project
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-14.JPG)
+![Setting Up a Video Editor Image Slideshow- Creating a New Slideshow Project](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-14.JPG)
 
 **Step 3: Import Your Images**
 
@@ -387,8 +380,7 @@ Entering into the ‘File Manager’ application, browse through the locally sav
 
 The file manager now closes to direct you to the ‘Photos’ app. Here, you need to open the just added folder. Within the folder, navigate to the top right corner and tap the ‘3 Dots’ icon, followed by selecting the ‘Slideshow’ option from the list that drops down. The device screen gets dark and the slideshow presentation starts to run in full screen mode.
 
-![Viewing an Image Slideshow in the Photos Application- Playing the Slideshow
- ](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-30.JPG)
+![Viewing an Image Slideshow in the Photos Application- Playing the Slideshow](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-30.JPG)
 
 **Step 4: Viewing a Slideshow of Specific Images Within a Folder**
 
@@ -558,8 +550,7 @@ You can also choose to shuffle the screen saver images by clicking within the �
 
 When you are satisfied with all the **windows photos slideshow settings,** navigate to the bottom right corner of the window and click on the ‘Save’ button. This will close the ‘Settings’ window and direct you to the ‘Wait’ box, where you can enter the duration after which the screen saver presentation will start to play if there is no cursor movement. Lastly, tap the ‘Apply’ button to confirm your changes.
 
-![Setting Up a Screen Saver Image Slideshow- Saving the Slideshow Settings
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-6.JPG)
+![Setting Up a Screen Saver Image Slideshow- Saving the Slideshow Settings](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-6.JPG)
 
 ### 03Setting Up a Photos App Image Slideshow
 
@@ -593,8 +584,7 @@ Adhering to the concern, there is the Impress slideshow app, which is essentiall
 
 To begin with, navigate to the official LibreOffice website and initiate a free download of the application in your Windows 10 device. All you need to do is, hit the ‘Download Now’ tab, followed by selecting ‘Windows’ as the operating system. For saving the latter’s setup wizard to your device, click on ‘Download Version 6.3.6’ tab.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Software Download Page
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-8.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Software Download Page](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-8.JPG)
 
 Having finished the above formalities, proceed to run the software’s setup wizard in your system for a successful installation of the Office Suite application package. Once the installation process gets completed, head to and click on the ‘LibreOffice Impress’ tab to launch the utility and land across the following interface:
 
@@ -607,8 +597,7 @@ Start with heading to and clicking on the ‘Properties’ icon in the toolbar a
 
 You can now head to the layout pane under the ‘Properties’ tool and choose a desired layout for the added slides. It is however, preferable to pick the ‘Blank Slide Layout’ for all the presentation slides.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Slide Layout Selection
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-10.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Slide Layout Selection](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-10.JPG)
 
 **Step 3: Add a Background Image**
 
@@ -616,8 +605,7 @@ Reach to the slide navigation pane and right click on any one of the empty slide
 
 Cancel the page arrangement option by selecting ‘No’ in the ‘Page Setting’ window that shows up as soon as the image is added. Proceed to include a single image to each of the presentation slides.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Adding a Background Image
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-11.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Adding a Background Image](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-11.JPG)
 
 **Step 4: Include Slide Transitions**
 
@@ -625,8 +613,7 @@ Navigate to the toolbar at the right and tap ‘Slide Transition’ icon to get 
 
 You can further, modify the speed and sound settings of the applied transition effects. When the adjustments make you happy, navigate to and hit the ‘Play’ tab in the ‘Slide Transition’ window for previewing the applied transition effects.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Adding Transition Effects
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-12.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Adding Transition Effects](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-12.JPG)
 
 **Step 5: Customize the Presentation**
 
@@ -634,8 +621,7 @@ Moving ahead, the ‘Slide Transition’ window allows you to adjust the screen 
 
 The automatic duration can be set by clicking on the ‘Automatically After’ radio button, followed by entering a desired value in the text box. After setting the time value, click on the ‘Apply to All Slides’ tab to confine all the slide transitions within the set duration.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Customizing the Slideshow
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-13.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Customizing the Slideshow](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-13.JPG)
 
 **Step 6: Adding Subtitles to the Slides**
 
@@ -671,8 +657,7 @@ Navigate to the ‘Start Menu’ on your Windows 10 desktop and type ‘Video Ed
 
 In the welcome screen of the utility, navigate to and hit the ‘New Video Project’ button to start working on a slideshow presentation from scratch. Assign a suitable name to the project and lastly, tap ‘OK’ to reach the app’s editor timeline.
 
-![Setting Up a Video Editor Image Slideshow- Creating a New Slideshow Project
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-14.JPG)
+![Setting Up a Video Editor Image Slideshow- Creating a New Slideshow Project](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-14.JPG)
 
 **Step 3: Import Your Images**
 
@@ -847,8 +832,7 @@ Entering into the ‘File Manager’ application, browse through the locally sav
 
 The file manager now closes to direct you to the ‘Photos’ app. Here, you need to open the just added folder. Within the folder, navigate to the top right corner and tap the ‘3 Dots’ icon, followed by selecting the ‘Slideshow’ option from the list that drops down. The device screen gets dark and the slideshow presentation starts to run in full screen mode.
 
-![Viewing an Image Slideshow in the Photos Application- Playing the Slideshow
- ](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-30.JPG)
+![Viewing an Image Slideshow in the Photos Application- Playing the Slideshow](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-30.JPG)
 
 **Step 4: Viewing a Slideshow of Specific Images Within a Folder**
 
@@ -1018,8 +1002,7 @@ You can also choose to shuffle the screen saver images by clicking within the �
 
 When you are satisfied with all the **windows photos slideshow settings,** navigate to the bottom right corner of the window and click on the ‘Save’ button. This will close the ‘Settings’ window and direct you to the ‘Wait’ box, where you can enter the duration after which the screen saver presentation will start to play if there is no cursor movement. Lastly, tap the ‘Apply’ button to confirm your changes.
 
-![Setting Up a Screen Saver Image Slideshow- Saving the Slideshow Settings
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-6.JPG)
+![Setting Up a Screen Saver Image Slideshow- Saving the Slideshow Settings](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-6.JPG)
 
 ### 03Setting Up a Photos App Image Slideshow
 
@@ -1053,8 +1036,7 @@ Adhering to the concern, there is the Impress slideshow app, which is essentiall
 
 To begin with, navigate to the official LibreOffice website and initiate a free download of the application in your Windows 10 device. All you need to do is, hit the ‘Download Now’ tab, followed by selecting ‘Windows’ as the operating system. For saving the latter’s setup wizard to your device, click on ‘Download Version 6.3.6’ tab.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Software Download Page
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-8.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Software Download Page](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-8.JPG)
 
 Having finished the above formalities, proceed to run the software’s setup wizard in your system for a successful installation of the Office Suite application package. Once the installation process gets completed, head to and click on the ‘LibreOffice Impress’ tab to launch the utility and land across the following interface:
 
@@ -1067,8 +1049,7 @@ Start with heading to and clicking on the ‘Properties’ icon in the toolbar a
 
 You can now head to the layout pane under the ‘Properties’ tool and choose a desired layout for the added slides. It is however, preferable to pick the ‘Blank Slide Layout’ for all the presentation slides.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Slide Layout Selection
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-10.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Slide Layout Selection](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-10.JPG)
 
 **Step 3: Add a Background Image**
 
@@ -1076,8 +1057,7 @@ Reach to the slide navigation pane and right click on any one of the empty slide
 
 Cancel the page arrangement option by selecting ‘No’ in the ‘Page Setting’ window that shows up as soon as the image is added. Proceed to include a single image to each of the presentation slides.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Adding a Background Image
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-11.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Adding a Background Image](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-11.JPG)
 
 **Step 4: Include Slide Transitions**
 
@@ -1085,8 +1065,7 @@ Navigate to the toolbar at the right and tap ‘Slide Transition’ icon to get 
 
 You can further, modify the speed and sound settings of the applied transition effects. When the adjustments make you happy, navigate to and hit the ‘Play’ tab in the ‘Slide Transition’ window for previewing the applied transition effects.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Adding Transition Effects
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-12.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Adding Transition Effects](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-12.JPG)
 
 **Step 5: Customize the Presentation**
 
@@ -1094,8 +1073,7 @@ Moving ahead, the ‘Slide Transition’ window allows you to adjust the screen 
 
 The automatic duration can be set by clicking on the ‘Automatically After’ radio button, followed by entering a desired value in the text box. After setting the time value, click on the ‘Apply to All Slides’ tab to confine all the slide transitions within the set duration.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Customizing the Slideshow
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-13.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Customizing the Slideshow](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-13.JPG)
 
 **Step 6: Adding Subtitles to the Slides**
 
@@ -1131,8 +1109,7 @@ Navigate to the ‘Start Menu’ on your Windows 10 desktop and type ‘Video Ed
 
 In the welcome screen of the utility, navigate to and hit the ‘New Video Project’ button to start working on a slideshow presentation from scratch. Assign a suitable name to the project and lastly, tap ‘OK’ to reach the app’s editor timeline.
 
-![Setting Up a Video Editor Image Slideshow- Creating a New Slideshow Project
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-14.JPG)
+![Setting Up a Video Editor Image Slideshow- Creating a New Slideshow Project](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-14.JPG)
 
 **Step 3: Import Your Images**
 
@@ -1307,8 +1284,7 @@ Entering into the ‘File Manager’ application, browse through the locally sav
 
 The file manager now closes to direct you to the ‘Photos’ app. Here, you need to open the just added folder. Within the folder, navigate to the top right corner and tap the ‘3 Dots’ icon, followed by selecting the ‘Slideshow’ option from the list that drops down. The device screen gets dark and the slideshow presentation starts to run in full screen mode.
 
-![Viewing an Image Slideshow in the Photos Application- Playing the Slideshow
- ](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-30.JPG)
+![Viewing an Image Slideshow in the Photos Application- Playing the Slideshow](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-30.JPG)
 
 **Step 4: Viewing a Slideshow of Specific Images Within a Folder**
 
@@ -1478,8 +1454,7 @@ You can also choose to shuffle the screen saver images by clicking within the �
 
 When you are satisfied with all the **windows photos slideshow settings,** navigate to the bottom right corner of the window and click on the ‘Save’ button. This will close the ‘Settings’ window and direct you to the ‘Wait’ box, where you can enter the duration after which the screen saver presentation will start to play if there is no cursor movement. Lastly, tap the ‘Apply’ button to confirm your changes.
 
-![Setting Up a Screen Saver Image Slideshow- Saving the Slideshow Settings
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-6.JPG)
+![Setting Up a Screen Saver Image Slideshow- Saving the Slideshow Settings](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-6.JPG)
 
 ### 03Setting Up a Photos App Image Slideshow
 
@@ -1513,8 +1488,7 @@ Adhering to the concern, there is the Impress slideshow app, which is essentiall
 
 To begin with, navigate to the official LibreOffice website and initiate a free download of the application in your Windows 10 device. All you need to do is, hit the ‘Download Now’ tab, followed by selecting ‘Windows’ as the operating system. For saving the latter’s setup wizard to your device, click on ‘Download Version 6.3.6’ tab.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Software Download Page
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-8.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Software Download Page](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-8.JPG)
 
 Having finished the above formalities, proceed to run the software’s setup wizard in your system for a successful installation of the Office Suite application package. Once the installation process gets completed, head to and click on the ‘LibreOffice Impress’ tab to launch the utility and land across the following interface:
 
@@ -1527,8 +1501,7 @@ Start with heading to and clicking on the ‘Properties’ icon in the toolbar a
 
 You can now head to the layout pane under the ‘Properties’ tool and choose a desired layout for the added slides. It is however, preferable to pick the ‘Blank Slide Layout’ for all the presentation slides.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Slide Layout Selection
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-10.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Slide Layout Selection](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-10.JPG)
 
 **Step 3: Add a Background Image**
 
@@ -1536,8 +1509,7 @@ Reach to the slide navigation pane and right click on any one of the empty slide
 
 Cancel the page arrangement option by selecting ‘No’ in the ‘Page Setting’ window that shows up as soon as the image is added. Proceed to include a single image to each of the presentation slides.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Adding a Background Image
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-11.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Adding a Background Image](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-11.JPG)
 
 **Step 4: Include Slide Transitions**
 
@@ -1545,8 +1517,7 @@ Navigate to the toolbar at the right and tap ‘Slide Transition’ icon to get 
 
 You can further, modify the speed and sound settings of the applied transition effects. When the adjustments make you happy, navigate to and hit the ‘Play’ tab in the ‘Slide Transition’ window for previewing the applied transition effects.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Adding Transition Effects
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-12.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Adding Transition Effects](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-12.JPG)
 
 **Step 5: Customize the Presentation**
 
@@ -1554,8 +1525,7 @@ Moving ahead, the ‘Slide Transition’ window allows you to adjust the screen 
 
 The automatic duration can be set by clicking on the ‘Automatically After’ radio button, followed by entering a desired value in the text box. After setting the time value, click on the ‘Apply to All Slides’ tab to confine all the slide transitions within the set duration.
 
-![Setting Up a LibreOffice Impress Image Slideshow- Customizing the Slideshow
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-13.JPG)
+![Setting Up a LibreOffice Impress Image Slideshow- Customizing the Slideshow](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-13.JPG)
 
 **Step 6: Adding Subtitles to the Slides**
 
@@ -1591,8 +1561,7 @@ Navigate to the ‘Start Menu’ on your Windows 10 desktop and type ‘Video Ed
 
 In the welcome screen of the utility, navigate to and hit the ‘New Video Project’ button to start working on a slideshow presentation from scratch. Assign a suitable name to the project and lastly, tap ‘OK’ to reach the app’s editor timeline.
 
-![Setting Up a Video Editor Image Slideshow- Creating a New Slideshow Project
-](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-14.JPG)
+![Setting Up a Video Editor Image Slideshow- Creating a New Slideshow Project](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-14.JPG)
 
 **Step 3: Import Your Images**
 
@@ -1767,8 +1736,7 @@ Entering into the ‘File Manager’ application, browse through the locally sav
 
 The file manager now closes to direct you to the ‘Photos’ app. Here, you need to open the just added folder. Within the folder, navigate to the top right corner and tap the ‘3 Dots’ icon, followed by selecting the ‘Slideshow’ option from the list that drops down. The device screen gets dark and the slideshow presentation starts to run in full screen mode.
 
-![Viewing an Image Slideshow in the Photos Application- Playing the Slideshow
- ](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-30.JPG)
+![Viewing an Image Slideshow in the Photos Application- Playing the Slideshow](https://images.wondershare.com/filmora/article-images/2022/05/6-instant-ways-to-make-windows-10-slideshow-30.JPG)
 
 **Step 4: Viewing a Slideshow of Specific Images Within a Folder**
 
@@ -2223,7 +2191,7 @@ Pros:
 
 Cons:
 
-* It's only for iOS devices (obviously! ), and it has trouble with a big number of clips.
+* It's only for iOS devices (obviously!), and it has trouble with a big number of clips.
 
 ### 3\. Quik
 
@@ -2681,7 +2649,7 @@ Pros:
 
 Cons:
 
-* It's only for iOS devices (obviously! ), and it has trouble with a big number of clips.
+* It's only for iOS devices (obviously!), and it has trouble with a big number of clips.
 
 ### 3\. Quik
 
@@ -3139,7 +3107,7 @@ Pros:
 
 Cons:
 
-* It's only for iOS devices (obviously! ), and it has trouble with a big number of clips.
+* It's only for iOS devices (obviously!), and it has trouble with a big number of clips.
 
 ### 3\. Quik
 
@@ -3597,7 +3565,7 @@ Pros:
 
 Cons:
 
-* It's only for iOS devices (obviously! ), and it has trouble with a big number of clips.
+* It's only for iOS devices (obviously!), and it has trouble with a big number of clips.
 
 ### 3\. Quik
 

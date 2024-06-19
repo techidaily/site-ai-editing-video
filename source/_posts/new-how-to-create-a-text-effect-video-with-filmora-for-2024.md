@@ -1,7 +1,7 @@
 ---
 title: New How to Create a Text Effect Video with Filmora for 2024
-date: 2024-04-24T07:08:34.971Z
-updated: 2024-04-25T07:08:34.971Z
+date: 2024-06-18T14:30:53.880Z
+updated: 2024-06-19T14:30:53.880Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Create a Text Effect Video with Filmora for 2024
 excerpt: This Article Describes New How to Create a Text Effect Video with Filmora for 2024
 keywords: ai animation how to create a text effect video with filmora,how to add miniature effect in video with filmora,how to create a text effect video with filmora,how to create a light sweep shine effect with filmora,how to create intro video with filmora,how to create motion text effects for your video,ai animation ai animation how to create a text effect video with filmora
-thumbnail: https://www.lifewire.com/thmb/rg8CHiqfntWuiXPLjddFZ1BByCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gopro-2619915_1920-2ca3364339c348e5ba44afb3fa79458b.jpg
+thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068fdbe75a38577d96433ea41b.jpg
 ---
 
 ## How to Create a Text Effect Video with Filmora
@@ -1910,9 +1910,7 @@ Congratulations! You have successfully created Neon Dance effects by using the u
 
 ## Conclusion
 
-Wondershare Filmora offers a variety of editing features that you can use to create very innovative videos. You can quickly create Neon effects in your dance videos next time by following the above steps! Add more creativity to attract more audience. Have fun and explore more effects to get unique results!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+Wondershare Filmora offers a variety of editing features that you can use to create very innovative videos. You can quickly create Neon effects in your dance videos next time by following the above steps! Add more creativity to attract more audience. Have fun and explore more effects to get unique results![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![neon effects in filmora](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-1.png)
 

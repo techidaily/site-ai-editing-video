@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How To Blur The Video Background in After Effects
-date: 2024-04-24T07:08:43.267Z
-updated: 2024-04-25T07:08:43.267Z
+date: 2024-06-18T14:30:58.129Z
+updated: 2024-06-19T14:30:58.129Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved How To Blur The Video Background in After Effects
 excerpt: This Article Describes Updated 2024 Approved How To Blur The Video Background in After Effects
 keywords: ai animation how to blur the video background in after effects,blur background after effects,how to do masking in after effects alternative provided,hard to remove black background in after effects,ai animation hard to remove black background in after effects,how to blur the video background in after effects,how to remove background from a video in premier pro
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## How To Blur The Video Background in After Effects
@@ -275,9 +275,7 @@ Filmora is a video editing software tool focused on editing and making high-qual
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -413,9 +411,7 @@ Filmora is a video editing software tool focused on editing and making high-qual
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -551,9 +547,7 @@ Filmora is a video editing software tool focused on editing and making high-qual
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -689,9 +683,7 @@ Filmora is a video editing software tool focused on editing and making high-qual
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -719,9 +711,7 @@ The slow-motion effect has been used for years to add dramatic effects to movies
 
 How would you find an app that gives good **final cut slow-motion** results? This article has got you all covered on that. Here, you will find the Final Cut Pro slow-motion effect that works fantastic without ruining your video's quality. So, follow the article to learn more about using FCP slow motion.
 
-**Slow Motion Video Maker** Slow your video’s speed with better control of your keyframes to create unique cinematic effects!
-
-[Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
+**Slow Motion Video Maker** Slow your video’s speed with better control of your keyframes to create unique cinematic effects![Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
@@ -822,19 +812,19 @@ To get a high-quality preview of your videos, look for Render Preview. In this r
 
 Slowing down videos is easier than **slow-mo Final Cut Pro.** Filmora automates the process with an optical flow, ensuring the project's high quality with one click. Without any wait, learn more about some top-rated features in the given section.
 
-#### 1\. [AI Thumbnail Creator](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 1\. AI Thumbnail Creator
 
 The AI Thumbnail Creator of Filmora makes thumbnail creation a matter of seconds. The tool is a treasure for YouTubers as it creates appealing thumbnails to attract viewers. It works with machine learning algorithms to detect the 3 best shots out of your video for thumbnail. Besides, there are over 58 thumbnail templates that can be customized after picking the right one.
 
-#### 2\. [AI Copilot Editing](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 2\. AI Copilot Editing
 
 AI Copilot is your personal assistant who guides you through everything related to Filmora. You can ask about any editing queries, and the AI will tell you the whole procedure within a second. It will also provide you with navigation towards the right feature. The tool is a big help for beginners; it makes using Filmora much faster and easier.
 
-#### 3\. [Motion Tracking](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 3\. Motion Tracking
 
 If you love giving an artistic touch to your videos, then motion tracking is exactly what you need. This feature automatically tracks the object throughout the video. You can add graphics, stickers, or even blur an object in the video. Furthermore, it allows you to add text with the tracked objects, like a name title with a running athlete.
 
-#### 4\. [Auto Reframe](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 4\. Auto Reframe
 
 With the help of the Auto Reframe feature, you can use one video on all social media platforms. The tool reframes your video in such a way that the main object doesn’t get removed. AI allows you to turn your landscape video into a vertical with a 19:6 aspect ratio. It saves you time and the trouble of creating different videos for every platform.
 
@@ -945,19 +935,19 @@ To get a high-quality preview of your videos, look for Render Preview. In this r
 
 Slowing down videos is easier than **slow-mo Final Cut Pro.** Filmora automates the process with an optical flow, ensuring the project's high quality with one click. Without any wait, learn more about some top-rated features in the given section.
 
-#### 1\. [AI Thumbnail Creator](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 1\. AI Thumbnail Creator
 
 The AI Thumbnail Creator of Filmora makes thumbnail creation a matter of seconds. The tool is a treasure for YouTubers as it creates appealing thumbnails to attract viewers. It works with machine learning algorithms to detect the 3 best shots out of your video for thumbnail. Besides, there are over 58 thumbnail templates that can be customized after picking the right one.
 
-#### 2\. [AI Copilot Editing](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 2\. AI Copilot Editing
 
 AI Copilot is your personal assistant who guides you through everything related to Filmora. You can ask about any editing queries, and the AI will tell you the whole procedure within a second. It will also provide you with navigation towards the right feature. The tool is a big help for beginners; it makes using Filmora much faster and easier.
 
-#### 3\. [Motion Tracking](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 3\. Motion Tracking
 
 If you love giving an artistic touch to your videos, then motion tracking is exactly what you need. This feature automatically tracks the object throughout the video. You can add graphics, stickers, or even blur an object in the video. Furthermore, it allows you to add text with the tracked objects, like a name title with a running athlete.
 
-#### 4\. [Auto Reframe](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 4\. Auto Reframe
 
 With the help of the Auto Reframe feature, you can use one video on all social media platforms. The tool reframes your video in such a way that the main object doesn’t get removed. AI allows you to turn your landscape video into a vertical with a 19:6 aspect ratio. It saves you time and the trouble of creating different videos for every platform.
 

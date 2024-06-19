@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Add Motion Blur Effect To Photos in GIMP
-date: 2024-05-20T03:38:32.560Z
-updated: 2024-05-21T03:38:32.560Z
+date: 2024-06-18T14:30:50.890Z
+updated: 2024-06-19T14:30:50.890Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, How To Add Motion Blur Effect To Photos in GIMP
 excerpt: This Article Describes In 2024, How To Add Motion Blur Effect To Photos in GIMP
 keywords: ai animation how to add zoom blur effect in photoshop,ai animation ai animation how to add zoom blur effect in photoshop,how to add zoom blur effect in photoshop,ai animation how to add motion blur effect to photos in gimp,how to add motion blur in after effects,how to add motion blur effect to photos in gimp,ai animation how to add motion blur in after effects
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## How To Add Motion Blur Effect To Photos in GIMP

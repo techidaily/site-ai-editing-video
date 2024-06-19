@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Zoom In and Out on Snapchat
-date: 2024-05-20T03:37:56.074Z
-updated: 2024-05-21T03:37:56.074Z
+date: 2024-06-18T14:31:10.614Z
+updated: 2024-06-19T14:31:10.614Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved Zoom In and Out on Snapchat
 excerpt: This Article Describes 2024 Approved Zoom In and Out on Snapchat
 keywords: ai animation zoom in and out on snapchat,ai animation ai animation zoom in and out on snapchat,how to zoom in and out on mac,zoom in and out on snapchat,zoom in and out on mac,ai animation quickest guide zoom in and out on snapchat,quickest guide zoom in and out on snapchat
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## Zoom In and Out on Snapchat

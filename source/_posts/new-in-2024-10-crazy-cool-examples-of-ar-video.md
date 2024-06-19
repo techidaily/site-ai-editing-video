@@ -1,7 +1,7 @@
 ---
 title: New In 2024, 10 Crazy-Cool Examples of AR Video
-date: 2024-04-24T07:08:26.100Z
-updated: 2024-04-25T07:08:26.100Z
+date: 2024-06-18T14:30:50.175Z
+updated: 2024-06-19T14:30:50.175Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, 10 Crazy-Cool Examples of AR Video
 excerpt: This Article Describes New In 2024, 10 Crazy-Cool Examples of AR Video
 keywords: 10 crazy cool examples of ar video,ai animation 10 crazy cool examples of ar video,ai animation ai animation 10 crazy cool examples of ar video,ai animation best 10 crazy cool examples of ar video,30 amazing templates for vn video editor,best 10 crazy cool examples of ar video,how can i control speed of a video
-thumbnail: https://www.lifewire.com/thmb/vmRvggsBE9toSpXM8p1WS8O5Wjc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-things-to-consider-before-buying-a-gaming-pc-5221042-8a79710a1e4549edbc357125123fb04e.jpg
+thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327fdc749a381a84624fdbd2f2.jpg
 ---
 
 ## Best 10 Crazy-Cool Examples of AR Video

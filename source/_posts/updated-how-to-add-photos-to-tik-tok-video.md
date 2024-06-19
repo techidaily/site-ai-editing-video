@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Photos to Tik Tok Video
-date: 2024-05-20T03:38:05.174Z
-updated: 2024-05-21T03:38:05.174Z
+date: 2024-06-18T14:30:55.201Z
+updated: 2024-06-19T14:30:55.201Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Add Photos to Tik Tok Video
 excerpt: This Article Describes Updated How to Add Photos to Tik Tok Video
 keywords: how to add photos to tik tok video,add photo tiktok video,ai animation how to add photos to tik tok video,ai animation best ways to add photos to tik tok video,best ways to add photos to tik tok video,how to add text to video,ai animation ai animation how to add photos to tik tok video
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## How to Add Photos to Tik Tok Video

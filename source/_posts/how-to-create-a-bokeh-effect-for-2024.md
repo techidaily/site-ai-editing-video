@@ -1,7 +1,7 @@
 ---
 title: How to Create a Bokeh Effect for 2024
-date: 2024-05-20T03:37:55.337Z
-updated: 2024-05-21T03:37:55.337Z
+date: 2024-06-18T14:30:47.527Z
+updated: 2024-06-19T14:30:47.527Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Create a Bokeh Effect for 2024
 excerpt: This Article Describes How to Create a Bokeh Effect for 2024
 keywords: how to make a bokeh effect,ai animation ai animation how to create a bokeh effect,how to create a bokeh effect,ai animation how to create a bokeh effect,how to create a text effect video with filmora,how to create after effects gifs,how to create a glitch text effect
-thumbnail: https://www.lifewire.com/thmb/ADwMZAl5AjJaezwcgc229Y2W9FU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1558254975-0a8ae81a4cd04f3eba064dd56ba8b030.jpg
+thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f83678c9c2635006dd72b341f.jpg
 ---
 
 ## How to Create a Bokeh Effect

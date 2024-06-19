@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved LumaFusion Offers Various Look Up Table Presets, or LUTs, Such as FiLMiC deLog and FiLMiC DeFlat, and Several Stylistic LUTs for Use with Neutral Use Video. You Can Also Manually Add the LUTs
-date: 2024-04-24T07:08:22.549Z
-updated: 2024-04-25T07:08:22.549Z
+date: 2024-06-18T14:31:05.706Z
+updated: 2024-06-19T14:31:05.706Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved LumaFusion Offers Various Look Up Table Presets, or LUTs, Such as FiLMiC deLog and FiLMiC DeFlat, and Several Stylistic LUTs for Use with Neutral Use Video. You Can Also Manually Add the LUTs
 excerpt: This Article Describes 2024 Approved LumaFusion Offers Various Look Up Table Presets, or LUTs, Such as FiLMiC deLog and FiLMiC DeFlat, and Several Stylistic LUTs for Use with Neutral Use Video. You Can Also Manually Add the LUTs
 keywords: consider a lut to be a color preset that a filmmaker can use to start working on a project quickly sony engineers have developed luts to help filmmakers perform specific tasks all of these are available for free,confused about which gopro should you use this article introduces and provides a detailed overview of the best gopro for youtubers you can find in the market for vlogging,lumafusion offers various look up table presets or luts such as filmic delog and filmic deflat and several stylistic luts for use with neutral use video you can also manually add the luts,do you want to apply luts using open broadcaster software you can download free luts for obs and apply them to your files there are many luts available,this article will focus on understanding the secret tips in wondershare filmora that you can use to edit videos faster and more efficiently,this article is regarding the guideline for splitting the video clips in adobe after effects here you will also know about the most appropriate substitute wondershare filmora being economical you can also use it practically,are you seeking an answer for what is a lut in the video in this article we will provide you with detailed information about luts and their utility
-thumbnail: https://www.lifewire.com/thmb/8WNeD74C3OD4Hr-lVFvg4bLBeLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-140173628BetsieVanDerMeer-5927117e5f9b5859509a476c.jpg
+thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a34b2694ff1529f9b0220b04e.jpg
 ---
 
 ## LumaFusion Offers Various Look Up Table Presets, or LUTs, Such as FiLMiC deLog and FiLMiC DeFlat, and Several Stylistic LUTs for Use with Neutral Use Video. You Can Also Manually Add the LUTs
@@ -69,7 +69,7 @@ Import LUTs
 
 Choosing the appropriate LUT pack will boost your photography and videography immediately. With our quick guide to the top free LUTs available, you can find the appropriate one for you.
 
-### 1\. [Jaun Melara free LUTs](https://juanmelara.com.au/blog/print-film-emulation-luts-for-download)
+### 1\. Jaun Melara free LUTs
 
 LUTs aren't simply for stylizing video. They're frequently employed as a color correction tool to ensure that your colors are shown correctly in various formats. Juan Melara has provided a free LUT set to assist you in color correcting your footage for printing on film stock. These free LUTs will provide modest stylization to your footage if you don't want to send it to print.
 
@@ -79,7 +79,7 @@ Melara developed this video to demonstrate his free LUTs in action. The colors a
 
 Jaun Melara free LUTs
 
-### 2\. [Small Hd free LUTs](https://smallhd.com/blogs/community/movie-looks-download)
+### 2\. Small Hd free LUTs
 
 SmallHD, a company that makes small, full HD on-camera monitors, is giving away a free set of color grades that reproduce the appearance of seven classic movies. The company is also releasing a series of video lessons that show how to get the most out of these effects throughout production and post-production. Everything is completely free. The color grades are provided as a.zip file and are in the form of 3D LUT files created in DaVinci Resolve. If you're unfamiliar with SmallHD, the company offers free LUTs for on-set monitoring in real-time. This free set of Movie Look LUTs is inspired by seven recent films, including Apocalypse Now's warmth and The Matrix's green overtones. Take use of SmallHD's free LUT set if you want to give your footage a dramatic and cinematic vibe.
 
@@ -87,7 +87,7 @@ SmallHD, a company that makes small, full HD on-camera monitors, is giving away 
 
 Small Hd free LUTs
 
-### 3\. [Color Grading Central free LUTs](https://www.colorgradingcentral.com/)
+### 3\. Color Grading Central free LUTs
 
 Color Grading Central is essential knowledge for any aspiring colorist or video editor who takes color seriously. CGC is a company that specializes in color grading. Their website has a wide range of outstanding color-related products, from grain to LUTs. They also provide their email members with a wealth of free color grading information. Free trials of some LUTs are also available, so you may try them out before you buy. They're giving away an array of color presets, grains, and burns exclusively to their email list and the seven free color LUTs. We strongly recommend them if you want to give your footage a shot-on-film look.
 
@@ -95,7 +95,7 @@ Color Grading Central is essential knowledge for any aspiring colorist or video 
 
 Color Grading Central free LUTs
 
-### 4\. [PremiumBeat Free LUTs](https://www.premiumbeat.com/blog/download-free-cinematic-luts/)
+### 4\. PremiumBeat Free LUTs
 
 PremiumBeat has freely given countless LUT packs as well as other assets to any video editor or filmmaker over the years. Todd Blankenship has designed a fresh new set of FREE LUTs for Shutterstock, which is their latest addition. Todd chose distinct looks from films and pictures that inspire his daily work to create this bundle with attention and love. There are many options, and these looks will offer you a great place to start when it comes to grading your footage. They recently published an in-depth evaluation of Photon.io, a new color grading tool. Todd Blankenship, who ended up utilizing the tool to create these LUTs, wrote the initial review. The pack has been fine-tuned to replicate some clean, cinematic looks that you may use as a jumping-off point for your video.
 
@@ -103,7 +103,7 @@ PremiumBeat has freely given countless LUT packs as well as other assets to any 
 
 PremiumBeat Free LUTs
 
-### 5\. [Frank Glencairn free LUT](https://frankglencairn.wordpress.com/2014/01/15/everything-looks-better-on-kodachrome-k-tone-lut/)
+### 5\. Frank Glencairn free LUT
 
 Despite having access to the most advanced filming gear, there's something about a vintage film aesthetic that looks fantastic. Frank Glencairn has made a nice K-Tone LUT that is meant to look like vintage Kodachrome film. This film grade, which was formerly popular among photographers and filmmakers, has fallen out of favor due to the rise of digital cameras. With this free LUT, you can get the appearance of retro-looking reds, blues, and yellows.
 
@@ -111,7 +111,7 @@ Despite having access to the most advanced filming gear, there's something about
 
 Frank Glencairn free LUT
 
-### 6\. [Reverse Tree Media free LUTs](https://reversetreemedia.com/colour-correction-vs-colour-grading-reverse-tree-media/)
+### 6\. Reverse Tree Media free LUTs
 
 Reverse Tree Media is releasing a new LUTS bundle that is absolutely free. In addition to LUTS, this LUTS collection includes utility LUTS, film grains, and a Black-Bar layer. For the color-grading procedure, this is critical. This bundle contains 56 free LUTS for various scenarios like weddings, television commercials, travel films, landscapes, Rec.709, and so on. It also has several useful LUTS and film grain overlays for 8mm, 16mm, and 35mm video, as well as a cinematic black bar PNG file with a ratio of 2.35:1 to assist you in achieving a more cinematic appearance quickly and save time. Check out the link to learn more about LUTS and to obtain their previous cinematic LUTS bundle, which is also free.
 
@@ -949,43 +949,43 @@ You can apply your **Rec 709 LUT for Premiere Pro** without needing any prior ex
 
 There are many **Premiere Pro Rec 709 LUTs** available that you can download and purchase. In the list below are some of the best Rec 709 LUTs you can use.
 
-### 1\. [LOOK Creative LUT Pack](https://www.cinecom.net/designer-packs/creative-lut-pack/)
+### 1\. LOOK Creative LUT Pack
 
 The LOOK Creative LUT Pack is a collection of 10 creative LUTs. It includes a range of LUTs, including some popular ones like teal and orange and old noir. These LUTs provide a quick and easy way to add a specific color tone or mood to your footage. In addition to the basic LUTs, it also offers unique and creative options. For example, you'll find LUTs like Subtle Sci-Fi, Grunge Green, and others.
 
 ![look creative lut pack](https://images.wondershare.com/filmora/article-images/2023/look-creative-lut-pack.jpg)
 
-### 2\. [Cinematic LUTs V2](https://filtergrade.com/product/cinematic-luts-v2-log-footage-and-rec709-by-t/)
+### 2\. Cinematic LUTs V2
 
 Cinematic LUTs V2 is a pack of modern cinematic-style LUTs. This incredible LUTs pack is designed to give your videos a cinematic touch. With this pack, you get access to 10 different cinematic LUTs to color grade your videos. Furthermore, you can use these LUTs for your LOG footage as well. Additionally, with these LUTs, you can add richness and depth to your videos.
 
 ![cinematic luts v2](https://images.wondershare.com/filmora/article-images/2023/cinematic-luts-v2.jpg)
 
-### 3\. [NATURAL Rec709](https://www.butteryluts.com/buttery-luts/p/bmpcc-creative)
+### 3\. NATURAL Rec709
 
 The NATURAL Rec709 LUT pack offers 17 different styles of LUTs. It includes ones inspired by Tobacco, Crunchy Gold, and Black & White filters. These LUTs can enhance the colors and tones in your videos, providing a natural look. Furthermore, you can customize the intensity of the LUTs. Moreover, each LUT in this pack offers a unique color scheme for your videos.
 
 ![natural rec709](https://images.wondershare.com/filmora/article-images/2023/natural-rec709.jpg)
 
-### 4\. [35 Free LUTs for Color Grading Videos](https://www.rocketstock.com/free-after-effects-templates/35-free-luts-for-color-grading-videos/)
+### 4\. 35 Free LUTs for Color Grading Videos
 
 It is an amazing LUT pack that offers you a variety of 35 different styles of LUTs. With these LUTs, you can achieve a vintage look or a cinematic vibe for your videos. These LUTs can work perfectly with Rec 709 footage with accurate and vibrant colors. Furthermore, this pack is compatible with different software, including Premiere Pro.
 
 ![free luts for color grading videos](https://images.wondershare.com/filmora/article-images/2023/free-luts-for-color-grading-videos.jpg)
 
-### 5\. [S-Log 3 to Rec.709 LUT](https://www.groundcontrol.film/free-luts/free-s-log-3-lut)
+### 5\. S-Log 3 to Rec.709 LUT
 
 The S-Log3 to Rec.709 LUT pack is designed to enhance your footage by adding vibrance. Applying this LUT boosts saturation, giving your video a more natural and realistic look. Additionally, you can bring out the full potential of your videos captured in S-Log3 gamma. Moreover, this LUT amplifies the colors and is compatible with the Rec.709 color space.
 
 ![slog3 to rec709 lut](https://images.wondershare.com/filmora/article-images/2023/slog3-to-rec709-lut.jpg)
 
-### 6\. [DJI OSMO POCKET Creative LUTs Pack](https://filtergrade.com/product/dji-osmo-pocket-creative-luts-pack/)
+### 6\. DJI OSMO POCKET Creative LUTs Pack
 
 The DJI Osmo Pocket Creative LUTs Pack offers a collection of various creative LUTs. You can choose from different styles and color overlays for your media files. Moreover, you can use this LUT pack for both pictures and videos. In addition to this, it is also compatible with popular editing software. Furthermore, this tool pack supports both .3dl and .cube formats.
 
 ![dji osmo pocket creative luts](https://images.wondershare.com/filmora/article-images/2023/dji-osmo-pocket-creative-luts.jpg)
 
-### 7\. [Blockbuster HLG And Standard LUTs](https://motionarray.com/premiere-pro-presets/blockbuster-hlg-and-standard-luts-1018674/)
+### 7\. Blockbuster HLG And Standard LUTs
 
 Another amazing pack of LUTs that you can use is Blockbuster HLG and Standard LUTs. This pack includes 21 Rec 709 LUTs with unique color toning and style. Furthermore, applying these LUTs will make your color grading more professional. Additionally, you can get rich and deep tones for your digital medial files. Similarly, you can change the feel of your content in a more professional style.
 
@@ -995,9 +995,7 @@ Another amazing pack of LUTs that you can use is Blockbuster HLG and Standard LU
 
 In conclusion, LUTs are perfect tools to enhance your media by altering its colors and tones. Different styles of LUTs cater to various creative needs. Furthermore, LUTs allow you to achieve specific looks and moods for your digital content. Moreover, the **Rec 709 LUT Premiere Pro** ensures your video appears accurate and consistent on HD displays. Additionally, you can achieve professional-grade results as well.
 
-To add more LUTs on video, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)!
-
-[Add LUTs on Video](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+To add more LUTs on video, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)![Add LUTs on Video](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Add LUTs on Video](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
@@ -1033,43 +1031,43 @@ You can apply your **Rec 709 LUT for Premiere Pro** without needing any prior ex
 
 There are many **Premiere Pro Rec 709 LUTs** available that you can download and purchase. In the list below are some of the best Rec 709 LUTs you can use.
 
-### 1\. [LOOK Creative LUT Pack](https://www.cinecom.net/designer-packs/creative-lut-pack/)
+### 1\. LOOK Creative LUT Pack
 
 The LOOK Creative LUT Pack is a collection of 10 creative LUTs. It includes a range of LUTs, including some popular ones like teal and orange and old noir. These LUTs provide a quick and easy way to add a specific color tone or mood to your footage. In addition to the basic LUTs, it also offers unique and creative options. For example, you'll find LUTs like Subtle Sci-Fi, Grunge Green, and others.
 
 ![look creative lut pack](https://images.wondershare.com/filmora/article-images/2023/look-creative-lut-pack.jpg)
 
-### 2\. [Cinematic LUTs V2](https://filtergrade.com/product/cinematic-luts-v2-log-footage-and-rec709-by-t/)
+### 2\. Cinematic LUTs V2
 
 Cinematic LUTs V2 is a pack of modern cinematic-style LUTs. This incredible LUTs pack is designed to give your videos a cinematic touch. With this pack, you get access to 10 different cinematic LUTs to color grade your videos. Furthermore, you can use these LUTs for your LOG footage as well. Additionally, with these LUTs, you can add richness and depth to your videos.
 
 ![cinematic luts v2](https://images.wondershare.com/filmora/article-images/2023/cinematic-luts-v2.jpg)
 
-### 3\. [NATURAL Rec709](https://www.butteryluts.com/buttery-luts/p/bmpcc-creative)
+### 3\. NATURAL Rec709
 
 The NATURAL Rec709 LUT pack offers 17 different styles of LUTs. It includes ones inspired by Tobacco, Crunchy Gold, and Black & White filters. These LUTs can enhance the colors and tones in your videos, providing a natural look. Furthermore, you can customize the intensity of the LUTs. Moreover, each LUT in this pack offers a unique color scheme for your videos.
 
 ![natural rec709](https://images.wondershare.com/filmora/article-images/2023/natural-rec709.jpg)
 
-### 4\. [35 Free LUTs for Color Grading Videos](https://www.rocketstock.com/free-after-effects-templates/35-free-luts-for-color-grading-videos/)
+### 4\. 35 Free LUTs for Color Grading Videos
 
 It is an amazing LUT pack that offers you a variety of 35 different styles of LUTs. With these LUTs, you can achieve a vintage look or a cinematic vibe for your videos. These LUTs can work perfectly with Rec 709 footage with accurate and vibrant colors. Furthermore, this pack is compatible with different software, including Premiere Pro.
 
 ![free luts for color grading videos](https://images.wondershare.com/filmora/article-images/2023/free-luts-for-color-grading-videos.jpg)
 
-### 5\. [S-Log 3 to Rec.709 LUT](https://www.groundcontrol.film/free-luts/free-s-log-3-lut)
+### 5\. S-Log 3 to Rec.709 LUT
 
 The S-Log3 to Rec.709 LUT pack is designed to enhance your footage by adding vibrance. Applying this LUT boosts saturation, giving your video a more natural and realistic look. Additionally, you can bring out the full potential of your videos captured in S-Log3 gamma. Moreover, this LUT amplifies the colors and is compatible with the Rec.709 color space.
 
 ![slog3 to rec709 lut](https://images.wondershare.com/filmora/article-images/2023/slog3-to-rec709-lut.jpg)
 
-### 6\. [DJI OSMO POCKET Creative LUTs Pack](https://filtergrade.com/product/dji-osmo-pocket-creative-luts-pack/)
+### 6\. DJI OSMO POCKET Creative LUTs Pack
 
 The DJI Osmo Pocket Creative LUTs Pack offers a collection of various creative LUTs. You can choose from different styles and color overlays for your media files. Moreover, you can use this LUT pack for both pictures and videos. In addition to this, it is also compatible with popular editing software. Furthermore, this tool pack supports both .3dl and .cube formats.
 
 ![dji osmo pocket creative luts](https://images.wondershare.com/filmora/article-images/2023/dji-osmo-pocket-creative-luts.jpg)
 
-### 7\. [Blockbuster HLG And Standard LUTs](https://motionarray.com/premiere-pro-presets/blockbuster-hlg-and-standard-luts-1018674/)
+### 7\. Blockbuster HLG And Standard LUTs
 
 Another amazing pack of LUTs that you can use is Blockbuster HLG and Standard LUTs. This pack includes 21 Rec 709 LUTs with unique color toning and style. Furthermore, applying these LUTs will make your color grading more professional. Additionally, you can get rich and deep tones for your digital medial files. Similarly, you can change the feel of your content in a more professional style.
 
@@ -1079,9 +1077,7 @@ Another amazing pack of LUTs that you can use is Blockbuster HLG and Standard LU
 
 In conclusion, LUTs are perfect tools to enhance your media by altering its colors and tones. Different styles of LUTs cater to various creative needs. Furthermore, LUTs allow you to achieve specific looks and moods for your digital content. Moreover, the **Rec 709 LUT Premiere Pro** ensures your video appears accurate and consistent on HD displays. Additionally, you can achieve professional-grade results as well.
 
-To add more LUTs on video, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)!
-
-[Add LUTs on Video](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+To add more LUTs on video, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)![Add LUTs on Video](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Add LUTs on Video](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 

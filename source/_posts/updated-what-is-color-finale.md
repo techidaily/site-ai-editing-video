@@ -1,7 +1,7 @@
 ---
 title: Updated What Is Color Finale
-date: 2024-04-24T07:08:16.654Z
-updated: 2024-04-25T07:08:16.654Z
+date: 2024-06-18T14:30:50.272Z
+updated: 2024-06-19T14:30:50.272Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated What Is Color Finale
 excerpt: This Article Describes Updated What Is Color Finale
 keywords: what is color finale,final cut pro for ipad is it available,color grading final cut pro,ai animation what is color finale,color finale,quick answer what is a gif file,what is animated gif
-thumbnail: https://www.lifewire.com/thmb/FO5DJQJt8EUiF4veEftl-goajY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-151812569-ff7311e1de18461da9f8698205953384.jpg
+thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547c6bb5f5df0fa9181f11e1b7.jpg
 ---
 
 ## What Is Color Finale

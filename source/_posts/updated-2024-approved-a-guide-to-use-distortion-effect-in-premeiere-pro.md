@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved A Guide to Use Distortion Effect in Premeiere Pro
-date: 2024-04-24T07:08:28.875Z
-updated: 2024-04-25T07:08:28.875Z
+date: 2024-06-18T14:30:51.901Z
+updated: 2024-06-19T14:30:51.901Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved A Guide to Use Distortion Effect in Premeiere Pro
 excerpt: This Article Describes Updated 2024 Approved A Guide to Use Distortion Effect in Premeiere Pro
 keywords: a guide to use distortion effect in premeiere pro,ai animation guide to add transition effects in premiere pro,a complete guide to use distortion effect in premiere pro,guide to add transition effects in premiere pro,ai animation ai animation a guide to use distortion effect in premeiere pro,ai animation a guide to use distortion effect in premeiere pro,ai animation a complete guide to use distortion effect in premiere pro
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## A Complete Guide to Use Distortion Effect in Premiere Pro

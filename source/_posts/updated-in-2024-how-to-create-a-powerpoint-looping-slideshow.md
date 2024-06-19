@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Create a PowerPoint Looping Slideshow
-date: 2024-04-24T07:08:43.482Z
-updated: 2024-04-25T07:08:43.482Z
+date: 2024-06-18T14:30:53.135Z
+updated: 2024-06-19T14:30:53.135Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, How to Create a PowerPoint Looping Slideshow
 excerpt: This Article Describes Updated In 2024, How to Create a PowerPoint Looping Slideshow
 keywords: ai animation how to create a powerpoint looping slideshow,how to add a slideshow in powerpoint,how to create a custom slide show in powerpoint,ai animation ai animation how to make a powerpoint looping slideshow,how to make a powerpoint looping slideshow,ai animation how to make a powerpoint looping slideshow,how to create a powerpoint looping slideshow
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## How to Create a PowerPoint Looping Slideshow

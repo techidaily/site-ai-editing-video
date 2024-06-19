@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Create Slide Masking Effect Intro
-date: 2024-06-09T16:15:13.139Z
-updated: 2024-06-10T16:15:13.139Z
+date: 2024-06-18T14:30:52.335Z
+updated: 2024-06-19T14:30:52.335Z
 tags: 
   - ai
   - animation videos
@@ -790,8 +790,7 @@ As you click on the ‘Apple' icon in step 1, proceed to select the ‘System Pr
 
 Selecting the ‘Preferences' option caters to display a series of input choice icons on your MacBook screen. From the available options, tap on the ‘Keyboard' icon to select the same.
 
-![Adding the Emoji Picker Tool to a MacBook- Selecting the ‘Keyboard' Option
-   ](https://images.wondershare.com/filmora/article-images/2022/05/How-to-put-emoji-on-mac-that-take-less-than-10-mins-3.JPG)
+![Adding the Emoji Picker Tool to a MacBook- Selecting the ‘Keyboard' Option](https://images.wondershare.com/filmora/article-images/2022/05/How-to-put-emoji-on-mac-that-take-less-than-10-mins-3.JPG)
 
 **Step 4: Choose the Show Option**
 
@@ -944,8 +943,7 @@ As you click on the ‘Apple' icon in step 1, proceed to select the ‘System Pr
 
 Selecting the ‘Preferences' option caters to display a series of input choice icons on your MacBook screen. From the available options, tap on the ‘Keyboard' icon to select the same.
 
-![Adding the Emoji Picker Tool to a MacBook- Selecting the ‘Keyboard' Option
-   ](https://images.wondershare.com/filmora/article-images/2022/05/How-to-put-emoji-on-mac-that-take-less-than-10-mins-3.JPG)
+![Adding the Emoji Picker Tool to a MacBook- Selecting the ‘Keyboard' Option](https://images.wondershare.com/filmora/article-images/2022/05/How-to-put-emoji-on-mac-that-take-less-than-10-mins-3.JPG)
 
 **Step 4: Choose the Show Option**
 
@@ -1098,8 +1096,7 @@ As you click on the ‘Apple' icon in step 1, proceed to select the ‘System Pr
 
 Selecting the ‘Preferences' option caters to display a series of input choice icons on your MacBook screen. From the available options, tap on the ‘Keyboard' icon to select the same.
 
-![Adding the Emoji Picker Tool to a MacBook- Selecting the ‘Keyboard' Option
-   ](https://images.wondershare.com/filmora/article-images/2022/05/How-to-put-emoji-on-mac-that-take-less-than-10-mins-3.JPG)
+![Adding the Emoji Picker Tool to a MacBook- Selecting the ‘Keyboard' Option](https://images.wondershare.com/filmora/article-images/2022/05/How-to-put-emoji-on-mac-that-take-less-than-10-mins-3.JPG)
 
 **Step 4: Choose the Show Option**
 
@@ -1252,8 +1249,7 @@ As you click on the ‘Apple' icon in step 1, proceed to select the ‘System Pr
 
 Selecting the ‘Preferences' option caters to display a series of input choice icons on your MacBook screen. From the available options, tap on the ‘Keyboard' icon to select the same.
 
-![Adding the Emoji Picker Tool to a MacBook- Selecting the ‘Keyboard' Option
-   ](https://images.wondershare.com/filmora/article-images/2022/05/How-to-put-emoji-on-mac-that-take-less-than-10-mins-3.JPG)
+![Adding the Emoji Picker Tool to a MacBook- Selecting the ‘Keyboard' Option](https://images.wondershare.com/filmora/article-images/2022/05/How-to-put-emoji-on-mac-that-take-less-than-10-mins-3.JPG)
 
 **Step 4: Choose the Show Option**
 

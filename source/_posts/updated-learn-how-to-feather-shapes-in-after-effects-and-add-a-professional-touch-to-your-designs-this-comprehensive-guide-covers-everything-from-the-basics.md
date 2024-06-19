@@ -1,7 +1,7 @@
 ---
 title: Updated Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike
-date: 2024-04-24T07:08:21.790Z
-updated: 2024-04-25T07:08:21.790Z
+date: 2024-06-18T14:31:13.525Z
+updated: 2024-06-19T14:31:13.525Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike
 excerpt: This Article Describes Updated Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike
 keywords: using adobe after effects as a pro level editing platforms demands you to add expressions in after effects if youre looking for the solutions on after effects how to add expressions then weve got you covered learn more here,for converting gif to mov format you dont need to search from a z here is an amazing guide that gives you complete details about both offline and online gif to mov converters catch them below and experience a pro editing time,wondershare filmora has introduced a new feature ai portrait effect that you can use to remove background from various videos and images explore the uses benefits and real life scenarios of this feature in a comprehensive guide,for artists who are making videos for show their knowledge or projects add some effects for the video can always provoke interests and attention this article will show you how to do that easily,being an after effects editor you often find yourself the need to add motion blur after effects this guide has got you covered follow to find out how to add motion blur in after effects,want to add an exciting countdown timer to your wedding product launch or any other video using after effects or an alternative tool this article will help you learn all about after effects countdown and the procedure,learn how to feather shapes in after effects and add a professional touch to your designs this comprehensive guide covers everything from the basics to advanced techniques perfect for beginners and experts alike
-thumbnail: https://www.lifewire.com/thmb/U3vDiQ7GsjPng-Yja5bpNwc079s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527847020-5b9edc17c9e77c0050ff9045.jpg
+thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5e7d77e30ca04d5bf449b804.jpg
 ---
 
 ## Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike
@@ -141,9 +141,7 @@ Step2 Adjust the "**Blur Strength**" value.
 
 Feathering shapes in After Effects and Wondershare Filmora are powerful tools for creating smooth, seamless transitions in your videos. With the mask feather setting in After Effects and the Shape Feather Tool in Filmora, you have the flexibility and control you need to create the exact look you want.
 
-Whether you're looking to feather shapes in After Effects or prefer the convenience of using Wondershare Filmora, there's a solution for you. So why wait? Start feathering your shapes today and bring your video editing skills to the next level!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+Whether you're looking to feather shapes in After Effects or prefer the convenience of using Wondershare Filmora, there's a solution for you. So why wait? Start feathering your shapes today and bring your video editing skills to the next level![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 The edge feather in Filmora is known as the "Blur Strength" and can be found in the "Masks" tab of the editor. Like the mask edge feather in After Effects, the Blur Strength in Filmora is measured in pixels and determines the softness or blurriness of the edges of the mask.
 
@@ -257,9 +255,7 @@ Follow the steps below to add **game bots for discord** successfully:
 
 For those who like to share their **discord game bots** experience through screen recordings and whatnot, a potent and convenient video editing tool to make your sessions look even more incredible is Filmora.
 
-**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)** is a famous video editing program for those who wish to focus on editing and producing high-quality videos. The program supports 4K video editing. It's a reasonably priced tool featuring effects for both video and audio. When it comes to designing, adding effects, and modifying movies, it provides users with many possibilities. You can use the tool to add overlays, create animations and objects, add music, and input text. Imagine sharing your experience in 4k!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)** is a famous video editing program for those who wish to focus on editing and producing high-quality videos. The program supports 4K video editing. It's a reasonably priced tool featuring effects for both video and audio. When it comes to designing, adding effects, and modifying movies, it provides users with many possibilities. You can use the tool to add overlays, create animations and objects, add music, and input text. Imagine sharing your experience in 4k![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -411,9 +407,7 @@ Follow the steps below to add **game bots for discord** successfully:
 
 For those who like to share their **discord game bots** experience through screen recordings and whatnot, a potent and convenient video editing tool to make your sessions look even more incredible is Filmora.
 
-**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)** is a famous video editing program for those who wish to focus on editing and producing high-quality videos. The program supports 4K video editing. It's a reasonably priced tool featuring effects for both video and audio. When it comes to designing, adding effects, and modifying movies, it provides users with many possibilities. You can use the tool to add overlays, create animations and objects, add music, and input text. Imagine sharing your experience in 4k!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)** is a famous video editing program for those who wish to focus on editing and producing high-quality videos. The program supports 4K video editing. It's a reasonably priced tool featuring effects for both video and audio. When it comes to designing, adding effects, and modifying movies, it provides users with many possibilities. You can use the tool to add overlays, create animations and objects, add music, and input text. Imagine sharing your experience in 4k![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -565,9 +559,7 @@ Follow the steps below to add **game bots for discord** successfully:
 
 For those who like to share their **discord game bots** experience through screen recordings and whatnot, a potent and convenient video editing tool to make your sessions look even more incredible is Filmora.
 
-**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)** is a famous video editing program for those who wish to focus on editing and producing high-quality videos. The program supports 4K video editing. It's a reasonably priced tool featuring effects for both video and audio. When it comes to designing, adding effects, and modifying movies, it provides users with many possibilities. You can use the tool to add overlays, create animations and objects, add music, and input text. Imagine sharing your experience in 4k!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)** is a famous video editing program for those who wish to focus on editing and producing high-quality videos. The program supports 4K video editing. It's a reasonably priced tool featuring effects for both video and audio. When it comes to designing, adding effects, and modifying movies, it provides users with many possibilities. You can use the tool to add overlays, create animations and objects, add music, and input text. Imagine sharing your experience in 4k![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -719,9 +711,7 @@ Follow the steps below to add **game bots for discord** successfully:
 
 For those who like to share their **discord game bots** experience through screen recordings and whatnot, a potent and convenient video editing tool to make your sessions look even more incredible is Filmora.
 
-**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)** is a famous video editing program for those who wish to focus on editing and producing high-quality videos. The program supports 4K video editing. It's a reasonably priced tool featuring effects for both video and audio. When it comes to designing, adding effects, and modifying movies, it provides users with many possibilities. You can use the tool to add overlays, create animations and objects, add music, and input text. Imagine sharing your experience in 4k!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)** is a famous video editing program for those who wish to focus on editing and producing high-quality videos. The program supports 4K video editing. It's a reasonably priced tool featuring effects for both video and audio. When it comes to designing, adding effects, and modifying movies, it provides users with many possibilities. You can use the tool to add overlays, create animations and objects, add music, and input text. Imagine sharing your experience in 4k![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -883,7 +873,7 @@ Step 3: Select the Frame
 
 There is a Playhead or slider above the slide, which will help you to select the frame needed to be frozen. Press the "Space bar" to play and pause the video. Then, with the help of the slider, select the frame and pause the video at that instant.
 
-![Select the Frame ](https://images.wondershare.com/filmora/article-images/2022/04/freeze-frame-video-editing-skill-3.png)
+![Select the Frame](https://images.wondershare.com/filmora/article-images/2022/04/freeze-frame-video-editing-skill-3.png)
 
 Step 4: Create a New Layer
 
@@ -901,7 +891,7 @@ Step 6: Save the Video
 
 Finally, go to File > Export to save the video per your PC requirement.
 
-### 02**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 02** Wondershare Filmora Video Editor
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1047,7 +1037,7 @@ Step 3: Select the Frame
 
 There is a Playhead or slider above the slide, which will help you to select the frame needed to be frozen. Press the "Space bar" to play and pause the video. Then, with the help of the slider, select the frame and pause the video at that instant.
 
-![Select the Frame ](https://images.wondershare.com/filmora/article-images/2022/04/freeze-frame-video-editing-skill-3.png)
+![Select the Frame](https://images.wondershare.com/filmora/article-images/2022/04/freeze-frame-video-editing-skill-3.png)
 
 Step 4: Create a New Layer
 
@@ -1065,7 +1055,7 @@ Step 6: Save the Video
 
 Finally, go to File > Export to save the video per your PC requirement.
 
-### 02**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 02** Wondershare Filmora Video Editor
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1211,7 +1201,7 @@ Step 3: Select the Frame
 
 There is a Playhead or slider above the slide, which will help you to select the frame needed to be frozen. Press the "Space bar" to play and pause the video. Then, with the help of the slider, select the frame and pause the video at that instant.
 
-![Select the Frame ](https://images.wondershare.com/filmora/article-images/2022/04/freeze-frame-video-editing-skill-3.png)
+![Select the Frame](https://images.wondershare.com/filmora/article-images/2022/04/freeze-frame-video-editing-skill-3.png)
 
 Step 4: Create a New Layer
 
@@ -1229,7 +1219,7 @@ Step 6: Save the Video
 
 Finally, go to File > Export to save the video per your PC requirement.
 
-### 02**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 02** Wondershare Filmora Video Editor
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1375,7 +1365,7 @@ Step 3: Select the Frame
 
 There is a Playhead or slider above the slide, which will help you to select the frame needed to be frozen. Press the "Space bar" to play and pause the video. Then, with the help of the slider, select the frame and pause the video at that instant.
 
-![Select the Frame ](https://images.wondershare.com/filmora/article-images/2022/04/freeze-frame-video-editing-skill-3.png)
+![Select the Frame](https://images.wondershare.com/filmora/article-images/2022/04/freeze-frame-video-editing-skill-3.png)
 
 Step 4: Create a New Layer
 
@@ -1393,7 +1383,7 @@ Step 6: Save the Video
 
 Finally, go to File > Export to save the video per your PC requirement.
 
-### 02**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 02** Wondershare Filmora Video Editor
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Step by Step to Resize Video in Davinci Resolve
-date: 2024-04-24T07:08:38.221Z
-updated: 2024-04-25T07:08:38.221Z
+date: 2024-06-18T14:30:53.436Z
+updated: 2024-06-19T14:30:53.436Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, Step by Step to Resize Video in Davinci Resolve
 excerpt: This Article Describes New In 2024, Step by Step to Resize Video in Davinci Resolve
 keywords: how to crop a video in davinci resolve step by step,step by step to resize video in davinci resolve,cropping a video in davinci resolve step by step,step by step to rotate videos in davinci resolve,detailed steps to resize video in davinci resolve,ai animation step by step to resize video in davinci resolve,ai animation ai animation step by step to resize video in davinci resolve
-thumbnail: https://www.lifewire.com/thmb/medNi2-ezQAi4chkGlIzs91_k0o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Ultra-2-23e8ec3e4ee04c6e98c9d654a35f59ec.jpg
+thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a369ed52226c792a6ec4885ea2.jpg
 ---
 
 ## Step by Step to Resize Video in Davinci Resolve
@@ -513,7 +513,7 @@ A wide range of presentations in different categories is created by people. To h
 
 **Fix your bad PowerPoint by Seth Godin**
 
-![Fix Your Bad PowerPoint ](https://images.wondershare.com/filmora/article-images/2022/05/what-are-the-best-15-slideshow-presentation-examples-your-audience-will-love-04.jpg)
+![Fix Your Bad PowerPoint](https://images.wondershare.com/filmora/article-images/2022/05/what-are-the-best-15-slideshow-presentation-examples-your-audience-will-love-04.jpg)
 
 **How I got 2.5 million views on SlideShare by Nick Demey**
 
@@ -649,7 +649,7 @@ A wide range of presentations in different categories is created by people. To h
 
 **Fix your bad PowerPoint by Seth Godin**
 
-![Fix Your Bad PowerPoint ](https://images.wondershare.com/filmora/article-images/2022/05/what-are-the-best-15-slideshow-presentation-examples-your-audience-will-love-04.jpg)
+![Fix Your Bad PowerPoint](https://images.wondershare.com/filmora/article-images/2022/05/what-are-the-best-15-slideshow-presentation-examples-your-audience-will-love-04.jpg)
 
 **How I got 2.5 million views on SlideShare by Nick Demey**
 
@@ -785,7 +785,7 @@ A wide range of presentations in different categories is created by people. To h
 
 **Fix your bad PowerPoint by Seth Godin**
 
-![Fix Your Bad PowerPoint ](https://images.wondershare.com/filmora/article-images/2022/05/what-are-the-best-15-slideshow-presentation-examples-your-audience-will-love-04.jpg)
+![Fix Your Bad PowerPoint](https://images.wondershare.com/filmora/article-images/2022/05/what-are-the-best-15-slideshow-presentation-examples-your-audience-will-love-04.jpg)
 
 **How I got 2.5 million views on SlideShare by Nick Demey**
 
@@ -921,7 +921,7 @@ A wide range of presentations in different categories is created by people. To h
 
 **Fix your bad PowerPoint by Seth Godin**
 
-![Fix Your Bad PowerPoint ](https://images.wondershare.com/filmora/article-images/2022/05/what-are-the-best-15-slideshow-presentation-examples-your-audience-will-love-04.jpg)
+![Fix Your Bad PowerPoint](https://images.wondershare.com/filmora/article-images/2022/05/what-are-the-best-15-slideshow-presentation-examples-your-audience-will-love-04.jpg)
 
 **How I got 2.5 million views on SlideShare by Nick Demey**
 

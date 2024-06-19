@@ -1,7 +1,7 @@
 ---
 title: In 2024, Best 8 Augmented Reality Video Games
-date: 2024-05-20T03:38:25.419Z
-updated: 2024-05-21T03:38:25.419Z
+date: 2024-06-18T14:30:49.644Z
+updated: 2024-06-19T14:30:49.644Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Best 8 Augmented Reality Video Games
 excerpt: This Article Describes In 2024, Best 8 Augmented Reality Video Games
 keywords: ai animation top 8 augmented reality video games,augmented reality in education,ai animation best 8 augmented reality video games,best 8 augmented reality video games,augmented reality video games,top 8 augmented reality video games,ai animation ai animation top 8 augmented reality video games
-thumbnail: https://www.lifewire.com/thmb/QSOkVMBCO__10c9yExi2xlfXUGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-626970032-497800518dac4d6cafa0dc19b953f1ff.jpg
+thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a57dd0707f44eeaa06c560dbc.jpg
 ---
 
 ## Best 8 Augmented Reality Video Games

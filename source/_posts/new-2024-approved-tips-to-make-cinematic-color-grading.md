@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Tips to Make Cinematic Color Grading
-date: 2024-04-24T07:08:38.519Z
-updated: 2024-04-25T07:08:38.519Z
+date: 2024-06-18T14:31:09.291Z
+updated: 2024-06-19T14:31:09.291Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved Tips to Make Cinematic Color Grading
 excerpt: This Article Describes New 2024 Approved Tips to Make Cinematic Color Grading
 keywords: 8 tips to apply cinematic color grading to your videos,ai animation 8 tips to apply cinematic color grading to your video,tips to make cinematic color grading,ai animation 8 tips to apply cinematic color grading to your videos,8 tips to apply cinematic color grading to your video,ai animation ai animation tips to make cinematic color grading,ai animation tips to make cinematic color grading
-thumbnail: https://www.lifewire.com/thmb/-JO-0dyylsxj3szzMyduNG-Qvig=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-919006240-ee5ef631cb6f4e4997bce403b8bafa77.jpg
+thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
 ---
 
 ## Tips to Make Cinematic Color Grading

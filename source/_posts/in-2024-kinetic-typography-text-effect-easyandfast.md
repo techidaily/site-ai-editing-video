@@ -1,7 +1,7 @@
 ---
 title: In 2024, Kinetic Typography Text Effect 【EASY&FAST】
-date: 2024-04-24T07:08:21.305Z
-updated: 2024-04-25T07:08:21.305Z
+date: 2024-06-18T14:31:11.150Z
+updated: 2024-06-19T14:31:11.150Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Kinetic Typography Text Effect 【EASY&FAST】
 excerpt: This Article Describes In 2024, Kinetic Typography Text Effect 【EASY&FAST】
 keywords: kinetic typography text effect easyfast,add effects in kinemaster,ai animation create kinetice typography text effect in filmora,make falling text effect in filmora,create kinetice typography text effect in filmora,how to make falling text effect in filmora,kinetic typography text effect
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## Kinetic Typography Text Effect 【EASY&FAST】

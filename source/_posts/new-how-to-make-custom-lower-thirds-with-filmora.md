@@ -1,7 +1,7 @@
 ---
 title: New How to Make Custom Lower Thirds with Filmora
-date: 2024-04-24T07:08:12.444Z
-updated: 2024-04-25T07:08:12.444Z
+date: 2024-06-18T14:30:54.306Z
+updated: 2024-06-19T14:30:54.306Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Make Custom Lower Thirds with Filmora
 excerpt: This Article Describes New How to Make Custom Lower Thirds with Filmora
 keywords: ai animation how to make custom lower thirds with filmora,custom lower third filmora,how to create custom lower thirds in filmora,ai animation how to create custom lower thirds in filmora,how to make custom lower thirds with filmora,how to make censor effects with filmora,ai animation ai animation how to create custom lower thirds in filmora
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## How to Make Custom Lower Thirds with Filmora
@@ -25,7 +25,7 @@ A Lower Third is a mix of motion graphic design and texts that are placed in the
 
 Lower Thirds can be used in various settings, such as news broadcasts or interviews, to help provide viewers with additional context.
 
-## Part 2: How to Make Your Own Lower Thirds in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part 2: How to Make Your Own Lower Thirds in Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
@@ -161,9 +161,7 @@ Finally, you can add a Subscribe button from the new default Filmora element pac
 
 ## Wrapping up
 
-These are two ways you can create your own Lower Thirds in FIlmora. You can also change the keyframe settings to customize your lower thirds even more. Now, it's time to try it yourself, and let us know what you think!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+These are two ways you can create your own Lower Thirds in FIlmora. You can also change the keyframe settings to customize your lower thirds even more. Now, it's time to try it yourself, and let us know what you think![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ### (1) A simple line and texts
 
@@ -315,9 +313,7 @@ We live in an era that has been advanced by technology and software. Along with 
 
 Sky replacement video backgrounds help in covering up the mess behind a video. These backgrounds give your videos a captivating and refreshing look. Such replacement sky video backgrounds fit most of the image and video contexts. Embark on this journey to explore the importance of backgrounds and some useful sites.
 
-**Sky Replacement** A cross-platform works like magic for background removal or sky replacement photos!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
+**Sky Replacement** A cross-platform works like magic for background removal or sky replacement photos![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
@@ -354,7 +350,7 @@ Now that you know why we emphasized the importance of backgrounds, let's move fo
 * [Pixabay](#filmora3)
 * [Vecteezy](#filmora4)
 
-### 1\. [Pexel](https://www.pexels.com/search/videos/sky/)s
+### 1\. Pexel
 
 Pexels is an online platform that provides stock images and videos for every context. You can join this platform to upload videos and images from your gallery. In addition, there is no limit to images and videos for content creation. You can add an image to your favorites, or you can save this image in your collection. There are trending and suggested categories for you, or you can also use the search bar.
 
@@ -362,7 +358,7 @@ When you go to videos and search for the sky, you'll find 28.2k sky background v
 
 ![pexels replacing sky backgrounds](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-videos-using-filmora-1.jpg)
 
-### 2\. [Videezy](https://www.videezy.com/free-video/sky)
+### 2\. Videezy
 
 Are you looking for a colorful and diverse background range to **change the sky in a video online**? Use Videezy, as it has a collection of 5000+ sky video backgrounds. All the backgrounds are unique in color tones and styles to serve multiple users. You can try a video before downloading it to be sure about what you're buying. You can search for simple or specific sky images like night sky or others.
 
@@ -370,7 +366,7 @@ Videezy is a diverse platform for stock images and videos with AI integration. I
 
 ![videezy replacing sky backgrounds](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-videos-using-filmora-2.jpg)
 
-### 3\. [Pixabay](https://pixabay.com/videos/search/sky/)
+### 3\. Pixabay
 
 Are you looking for royalty-free and realistic **sky-change video** backgrounds? Pixabay offers more than 7000 sky videos in HD and 4K resolution. In addition, you can select a video to see its preview and other properties. It supports MP4 video format, and you can download videos in 4 different resolutions. You can share these sky videos on social sites or add them to your save collection.
 
@@ -378,7 +374,7 @@ Pixabay does not limit itself to videos; it offers illustrations, music, sound e
 
 ![pixabay replacing sky backgrounds](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-videos-using-filmora-3.jpg)
 
-### 4\. [Vecteezy](https://www.vecteezy.com/free-videos/sky)
+### 4\. Vecteezy
 
 If you feel that the above-mentioned sites have limited collection, visit Vecteezy. The platform offers more than 90K videos related to **sky change in videos**. Upon clicking the video for a preview, you can explore its features. It has high-quality HD, 4K resolution videos in MP4, MOV, and other formats.
 
@@ -400,25 +396,25 @@ For a professional outlook, you don't need to spend hours setting green screens.
 
 With its vast editing interface and a range of video editing features, Filmora brings diversity. In this section, we will focus on other video editing features of Filmora. Let's dive into the process of exploring those features without further delay:
 
-#### 1\. [AI Text-to-Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 1\. AI Text-to-Video
 
 If you have no editing experience but want to generate a video, use this feature. The AI text-to-video functionality offers video generation from scripts. This feature is ideal for creating educational or explainer videos. The AI inserts the graphics and a voiceover in your video.
 
 ![ai text to video filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-videos-using-filmora-5.jpg)
 
-#### 2\. [AI Text-Based Editing](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 2\. AI Text-Based Editing
 
 Free yourself from the complexity of cutting or trimming a video in a precise manner. This functionality generates a transcript of your video, and you can use it for editing. In the relative window, removing text will also remove the video section.
 
 ![ai text based editing filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-videos-using-filmora-6.jpg)
 
-#### 3\. [AI Vocal Remover](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 3\. AI Vocal Remover
 
 Why upload videos with unclear audio when you can use Filmora's vocal remover tool? This tool analyzes and separates the vocals of your videos from background noise. You need to enable it after selecting your video, and AI will do the rest. The separated vocals are editable and enhance audio clarity.
 
 ![ai vocal remover filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-videos-using-filmora-7.jpg)
 
-#### 4\. [AI Music Generator](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 4\. AI Music Generator
 
 Are you unable to fit music behind your videos? Use Filmora's music generator with AI-backed algorithms to help you. The AI enables you to set the theme, tone, or emotion of a video and create results on it. It crafts multiple music tracks for users to select a suitable one.
 
@@ -497,7 +493,7 @@ Now that you know why we emphasized the importance of backgrounds, let's move fo
 * [Pixabay](#filmora3)
 * [Vecteezy](#filmora4)
 
-### 1\. [Pexel](https://www.pexels.com/search/videos/sky/)s
+### 1\. Pexel
 
 Pexels is an online platform that provides stock images and videos for every context. You can join this platform to upload videos and images from your gallery. In addition, there is no limit to images and videos for content creation. You can add an image to your favorites, or you can save this image in your collection. There are trending and suggested categories for you, or you can also use the search bar.
 
@@ -505,7 +501,7 @@ When you go to videos and search for the sky, you'll find 28.2k sky background v
 
 ![pexels replacing sky backgrounds](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-videos-using-filmora-1.jpg)
 
-### 2\. [Videezy](https://www.videezy.com/free-video/sky)
+### 2\. Videezy
 
 Are you looking for a colorful and diverse background range to **change the sky in a video online**? Use Videezy, as it has a collection of 5000+ sky video backgrounds. All the backgrounds are unique in color tones and styles to serve multiple users. You can try a video before downloading it to be sure about what you're buying. You can search for simple or specific sky images like night sky or others.
 
@@ -513,7 +509,7 @@ Videezy is a diverse platform for stock images and videos with AI integration. I
 
 ![videezy replacing sky backgrounds](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-videos-using-filmora-2.jpg)
 
-### 3\. [Pixabay](https://pixabay.com/videos/search/sky/)
+### 3\. Pixabay
 
 Are you looking for royalty-free and realistic **sky-change video** backgrounds? Pixabay offers more than 7000 sky videos in HD and 4K resolution. In addition, you can select a video to see its preview and other properties. It supports MP4 video format, and you can download videos in 4 different resolutions. You can share these sky videos on social sites or add them to your save collection.
 
@@ -521,7 +517,7 @@ Pixabay does not limit itself to videos; it offers illustrations, music, sound e
 
 ![pixabay replacing sky backgrounds](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-videos-using-filmora-3.jpg)
 
-### 4\. [Vecteezy](https://www.vecteezy.com/free-videos/sky)
+### 4\. Vecteezy
 
 If you feel that the above-mentioned sites have limited collection, visit Vecteezy. The platform offers more than 90K videos related to **sky change in videos**. Upon clicking the video for a preview, you can explore its features. It has high-quality HD, 4K resolution videos in MP4, MOV, and other formats.
 
@@ -543,25 +539,25 @@ For a professional outlook, you don't need to spend hours setting green screens.
 
 With its vast editing interface and a range of video editing features, Filmora brings diversity. In this section, we will focus on other video editing features of Filmora. Let's dive into the process of exploring those features without further delay:
 
-#### 1\. [AI Text-to-Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 1\. AI Text-to-Video
 
 If you have no editing experience but want to generate a video, use this feature. The AI text-to-video functionality offers video generation from scripts. This feature is ideal for creating educational or explainer videos. The AI inserts the graphics and a voiceover in your video.
 
 ![ai text to video filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-videos-using-filmora-5.jpg)
 
-#### 2\. [AI Text-Based Editing](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 2\. AI Text-Based Editing
 
 Free yourself from the complexity of cutting or trimming a video in a precise manner. This functionality generates a transcript of your video, and you can use it for editing. In the relative window, removing text will also remove the video section.
 
 ![ai text based editing filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-videos-using-filmora-6.jpg)
 
-#### 3\. [AI Vocal Remover](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 3\. AI Vocal Remover
 
 Why upload videos with unclear audio when you can use Filmora's vocal remover tool? This tool analyzes and separates the vocals of your videos from background noise. You need to enable it after selecting your video, and AI will do the rest. The separated vocals are editable and enhance audio clarity.
 
 ![ai vocal remover filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-videos-using-filmora-7.jpg)
 
-#### 4\. [AI Music Generator](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 4\. AI Music Generator
 
 Are you unable to fit music behind your videos? Use Filmora's music generator with AI-backed algorithms to help you. The AI enables you to set the theme, tone, or emotion of a video and create results on it. It crafts multiple music tracks for users to select a suitable one.
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro for iPad- Is It Available?
-date: 2024-04-24T07:08:42.864Z
-updated: 2024-04-25T07:08:42.864Z
+date: 2024-06-18T14:30:56.028Z
+updated: 2024-06-19T14:30:56.028Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Final Cut Pro for iPad- Is It Available?
 excerpt: This Article Describes Updated 2024 Approved Final Cut Pro for iPad- Is It Available?
 keywords: final cut pro for ipad is it available,ai animation final cut pro for ipad,ai animation final cut pro for ipad is it available,ai animation ai animation final cut pro for ipad,ai animation free titles for final cut pro,final cut pro for ipad,free titles for final cut pro
-thumbnail: https://www.lifewire.com/thmb/d3vhzprgAOfQkZJVlCom44MR-q8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-best-parental-control-apps-of-2019-featured-c5b50932ab9c4c0fbc0757665e46b6b2.jpg
+thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410ddebad9670bd4cad45f7263474.jpg
 ---
 
 ## Final Cut Pro for iPad- Is It Available?
@@ -524,7 +524,7 @@ Step6 Use the shortcuts you assigned to the keys in Step 4 to rotate your video 
 
 For instance, you can rotate your video from landscape to portrait by clicking "Alt-Num 1" and "Alt-Num 3," respectively. To revert your video to its original state, press "Alt-Num 5."
 
-## Need an alternative to Media Player Classic? Try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) To Rotate a Video
+## Need an alternative to Media Player Classic? Try Wondershare Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 

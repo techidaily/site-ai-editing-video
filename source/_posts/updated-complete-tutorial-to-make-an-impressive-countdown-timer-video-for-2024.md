@@ -1,7 +1,7 @@
 ---
 title: Updated Complete Tutorial to Make an Impressive Countdown Timer Video for 2024
-date: 2024-04-24T07:08:42.369Z
-updated: 2024-04-25T07:08:42.369Z
+date: 2024-06-18T14:30:54.086Z
+updated: 2024-06-19T14:30:54.086Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Complete Tutorial to Make an Impressive Countdown Timer Video for 2024
 excerpt: This Article Describes Updated Complete Tutorial to Make an Impressive Countdown Timer Video for 2024
 keywords: complete tutorial on after effects countdown timer adding,ai animation complete guide to make an intro video,ai animation complete tutorial on after effects countdown timer adding,ai animation detailed tutorial to resize your video in vlc,complete tutorial to make an impressive countdown timer video,ai animation complete tutorial to make an impressive countdown timer video,make impressive countdown timer video
-thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-454939687-56cac7b03df78cfb37988474.jpg
+thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c6533fd74096afaf9205f685325.jpg
 ---
 
 ## Complete Tutorial to Make an Impressive Countdown Timer Video
@@ -551,7 +551,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 
@@ -610,7 +610,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 
@@ -669,7 +669,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 
@@ -728,7 +728,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 
@@ -873,7 +873,7 @@ For a more detailed, interactive explanation and understanding, watch the video
 
 Here are the top five (5) alternatives to **Camtasia freeze frames**. We have mentioned their pros and cons for better understanding.
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1071,7 +1071,7 @@ For a more detailed, interactive explanation and understanding, watch the video
 
 Here are the top five (5) alternatives to **Camtasia freeze frames**. We have mentioned their pros and cons for better understanding.
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1269,7 +1269,7 @@ For a more detailed, interactive explanation and understanding, watch the video
 
 Here are the top five (5) alternatives to **Camtasia freeze frames**. We have mentioned their pros and cons for better understanding.
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1467,7 +1467,7 @@ For a more detailed, interactive explanation and understanding, watch the video
 
 Here are the top five (5) alternatives to **Camtasia freeze frames**. We have mentioned their pros and cons for better understanding.
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, 4 Solutions to Add White Border to Video on Mobile and Desktop
-date: 2024-04-24T07:08:27.586Z
-updated: 2024-04-25T07:08:27.586Z
+date: 2024-06-18T14:31:10.698Z
+updated: 2024-06-19T14:31:10.698Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, 4 Solutions to Add White Border to Video on Mobile and Desktop
 excerpt: This Article Describes New In 2024, 4 Solutions to Add White Border to Video on Mobile and Desktop
 keywords: 4 solutions to add white border to video on mobile and desktop,ai animation 4 ways to add white border to video on mobile and desktop,ai animation 4 solutions to add white border to video on mobile and desktop,ai animation ai animation 4 ways to add white border to video on mobile and desktop,4 ways to add white border to video on mobile and desktop,ai animation 4 solutions to add white borders on mobile and desktop,4 solutions to add white borders on mobile and desktop
-thumbnail: https://www.lifewire.com/thmb/BPYPQrXsNWygpcoCT-Bo8NlAS2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1094009490-2694d308001d46049e0755f4dd7fdf4c.jpg
+thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f07504ad9ddbf600b0c76aae.jpg
 ---
 
 ## 4 Solutions to Add White Border to Video on Mobile and Desktop
@@ -639,7 +639,7 @@ You can select or resize video aspect ratio according to different social media 
 
 ### IMOVIE
 
-![ IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
+![IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
 
 Try the iMovie iPhone aspect ratio editor if you want to drag or drop the interface for editing videos simply. It has primitive tools to edit videos or images, and you can also import content from local drives or cloud storage with it.
 
@@ -670,9 +670,7 @@ You can even assign hotkeys shortcuts for various tools to save your time. Moreo
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -696,7 +694,7 @@ For instance, if the aspect ratio of media source files is 4:3, select the stand
 
 In case of any discordance or if you want to change the aspect ratio, choose the proper ratio from project settings.
 
-![ Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
+![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
 
 ### Method 3: Change Aspect Ratio during Editing
 
@@ -738,7 +736,7 @@ Drag box to adjust the frame or to keep the object in it. It will automatically 
 
 Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Change Aspect Ratio at Exporting
 
@@ -886,7 +884,7 @@ You can select or resize video aspect ratio according to different social media 
 
 ### IMOVIE
 
-![ IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
+![IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
 
 Try the iMovie iPhone aspect ratio editor if you want to drag or drop the interface for editing videos simply. It has primitive tools to edit videos or images, and you can also import content from local drives or cloud storage with it.
 
@@ -917,9 +915,7 @@ You can even assign hotkeys shortcuts for various tools to save your time. Moreo
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -943,7 +939,7 @@ For instance, if the aspect ratio of media source files is 4:3, select the stand
 
 In case of any discordance or if you want to change the aspect ratio, choose the proper ratio from project settings.
 
-![ Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
+![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
 
 ### Method 3: Change Aspect Ratio during Editing
 
@@ -985,7 +981,7 @@ Drag box to adjust the frame or to keep the object in it. It will automatically 
 
 Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Change Aspect Ratio at Exporting
 
@@ -1133,7 +1129,7 @@ You can select or resize video aspect ratio according to different social media 
 
 ### IMOVIE
 
-![ IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
+![IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
 
 Try the iMovie iPhone aspect ratio editor if you want to drag or drop the interface for editing videos simply. It has primitive tools to edit videos or images, and you can also import content from local drives or cloud storage with it.
 
@@ -1164,9 +1160,7 @@ You can even assign hotkeys shortcuts for various tools to save your time. Moreo
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -1190,7 +1184,7 @@ For instance, if the aspect ratio of media source files is 4:3, select the stand
 
 In case of any discordance or if you want to change the aspect ratio, choose the proper ratio from project settings.
 
-![ Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
+![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
 
 ### Method 3: Change Aspect Ratio during Editing
 
@@ -1232,7 +1226,7 @@ Drag box to adjust the frame or to keep the object in it. It will automatically 
 
 Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Change Aspect Ratio at Exporting
 
@@ -1380,7 +1374,7 @@ You can select or resize video aspect ratio according to different social media 
 
 ### IMOVIE
 
-![ IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
+![IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
 
 Try the iMovie iPhone aspect ratio editor if you want to drag or drop the interface for editing videos simply. It has primitive tools to edit videos or images, and you can also import content from local drives or cloud storage with it.
 
@@ -1411,9 +1405,7 @@ You can even assign hotkeys shortcuts for various tools to save your time. Moreo
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -1437,7 +1429,7 @@ For instance, if the aspect ratio of media source files is 4:3, select the stand
 
 In case of any discordance or if you want to change the aspect ratio, choose the proper ratio from project settings.
 
-![ Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
+![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
 
 ### Method 3: Change Aspect Ratio during Editing
 
@@ -1479,7 +1471,7 @@ Drag box to adjust the frame or to keep the object in it. It will automatically 
 
 Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Change Aspect Ratio at Exporting
 
@@ -1583,7 +1575,7 @@ Step 4: Advanced Settings
 
 Set the slides to advance automatically.
 
-![Advance Settings ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-4.jpg)
+![Advance Settings](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-4.jpg)
 
 Step 5: Set Slideshow Loop
 
@@ -1609,7 +1601,7 @@ To do so:
 
 **●** Choose "New Presentation" from the drop-down menu, which will create a new slide show for you to begin uploading photos to.
 
-![Create New Presentation ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-6.jpg)
+![Create New Presentation](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-6.jpg)
 
 Step 2: Save PowerPoint
 
@@ -1617,7 +1609,7 @@ Go to the top right-hand side of the presentation screen and click on the flash 
 
 Remember to save your presentation after something that will remind you of the images in the File. This act will make it easier for you to find them later.
 
-![Save PowerPoint ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-7.jpg)
+![Save PowerPoint](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-7.jpg)
 
 Step 3: Name the Page
 
@@ -1663,7 +1655,7 @@ Step 9: Save your PowerPoint
 
 Before exiting, save your show once you've finished adding photos and graphics. If you named and saved your presentation at the start, all you have to do now is click the flash drive icon in the upper left corner.
 
-![Save PowerPoint ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-14.jpg)
+![Save PowerPoint](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-14.jpg)
 
 Now your Powerpoint is ready to be displayed, and you can also view your slideshow automatically. Read the next part for details.
 
@@ -1783,7 +1775,7 @@ Note that you must enable a microphone on your device to start recording audio.
 
 **●** **Bonus Tip with [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
 
-![Filmora ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-24.jpg)
+![Filmora](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-24.jpg)
 
 If you are looking to present your message to a large audience using slideshows, Filmora software has covered you. Whether you're a professional at making slideshows or a beginner who wants to try it out for the first time, it has an easy-to-use interface.
 
@@ -1853,7 +1845,7 @@ Step 4: Advanced Settings
 
 Set the slides to advance automatically.
 
-![Advance Settings ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-4.jpg)
+![Advance Settings](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-4.jpg)
 
 Step 5: Set Slideshow Loop
 
@@ -1879,7 +1871,7 @@ To do so:
 
 **●** Choose "New Presentation" from the drop-down menu, which will create a new slide show for you to begin uploading photos to.
 
-![Create New Presentation ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-6.jpg)
+![Create New Presentation](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-6.jpg)
 
 Step 2: Save PowerPoint
 
@@ -1887,7 +1879,7 @@ Go to the top right-hand side of the presentation screen and click on the flash 
 
 Remember to save your presentation after something that will remind you of the images in the File. This act will make it easier for you to find them later.
 
-![Save PowerPoint ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-7.jpg)
+![Save PowerPoint](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-7.jpg)
 
 Step 3: Name the Page
 
@@ -1933,7 +1925,7 @@ Step 9: Save your PowerPoint
 
 Before exiting, save your show once you've finished adding photos and graphics. If you named and saved your presentation at the start, all you have to do now is click the flash drive icon in the upper left corner.
 
-![Save PowerPoint ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-14.jpg)
+![Save PowerPoint](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-14.jpg)
 
 Now your Powerpoint is ready to be displayed, and you can also view your slideshow automatically. Read the next part for details.
 
@@ -2053,7 +2045,7 @@ Note that you must enable a microphone on your device to start recording audio.
 
 **●** **Bonus Tip with [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
 
-![Filmora ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-24.jpg)
+![Filmora](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-24.jpg)
 
 If you are looking to present your message to a large audience using slideshows, Filmora software has covered you. Whether you're a professional at making slideshows or a beginner who wants to try it out for the first time, it has an easy-to-use interface.
 
@@ -2123,7 +2115,7 @@ Step 4: Advanced Settings
 
 Set the slides to advance automatically.
 
-![Advance Settings ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-4.jpg)
+![Advance Settings](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-4.jpg)
 
 Step 5: Set Slideshow Loop
 
@@ -2149,7 +2141,7 @@ To do so:
 
 **●** Choose "New Presentation" from the drop-down menu, which will create a new slide show for you to begin uploading photos to.
 
-![Create New Presentation ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-6.jpg)
+![Create New Presentation](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-6.jpg)
 
 Step 2: Save PowerPoint
 
@@ -2157,7 +2149,7 @@ Go to the top right-hand side of the presentation screen and click on the flash 
 
 Remember to save your presentation after something that will remind you of the images in the File. This act will make it easier for you to find them later.
 
-![Save PowerPoint ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-7.jpg)
+![Save PowerPoint](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-7.jpg)
 
 Step 3: Name the Page
 
@@ -2203,7 +2195,7 @@ Step 9: Save your PowerPoint
 
 Before exiting, save your show once you've finished adding photos and graphics. If you named and saved your presentation at the start, all you have to do now is click the flash drive icon in the upper left corner.
 
-![Save PowerPoint ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-14.jpg)
+![Save PowerPoint](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-14.jpg)
 
 Now your Powerpoint is ready to be displayed, and you can also view your slideshow automatically. Read the next part for details.
 
@@ -2323,7 +2315,7 @@ Note that you must enable a microphone on your device to start recording audio.
 
 **●** **Bonus Tip with [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
 
-![Filmora ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-24.jpg)
+![Filmora](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-24.jpg)
 
 If you are looking to present your message to a large audience using slideshows, Filmora software has covered you. Whether you're a professional at making slideshows or a beginner who wants to try it out for the first time, it has an easy-to-use interface.
 
@@ -2393,7 +2385,7 @@ Step 4: Advanced Settings
 
 Set the slides to advance automatically.
 
-![Advance Settings ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-4.jpg)
+![Advance Settings](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-4.jpg)
 
 Step 5: Set Slideshow Loop
 
@@ -2419,7 +2411,7 @@ To do so:
 
 **●** Choose "New Presentation" from the drop-down menu, which will create a new slide show for you to begin uploading photos to.
 
-![Create New Presentation ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-6.jpg)
+![Create New Presentation](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-6.jpg)
 
 Step 2: Save PowerPoint
 
@@ -2427,7 +2419,7 @@ Go to the top right-hand side of the presentation screen and click on the flash 
 
 Remember to save your presentation after something that will remind you of the images in the File. This act will make it easier for you to find them later.
 
-![Save PowerPoint ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-7.jpg)
+![Save PowerPoint](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-7.jpg)
 
 Step 3: Name the Page
 
@@ -2473,7 +2465,7 @@ Step 9: Save your PowerPoint
 
 Before exiting, save your show once you've finished adding photos and graphics. If you named and saved your presentation at the start, all you have to do now is click the flash drive icon in the upper left corner.
 
-![Save PowerPoint ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-14.jpg)
+![Save PowerPoint](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-14.jpg)
 
 Now your Powerpoint is ready to be displayed, and you can also view your slideshow automatically. Read the next part for details.
 
@@ -2593,7 +2585,7 @@ Note that you must enable a microphone on your device to start recording audio.
 
 **●** **Bonus Tip with [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
 
-![Filmora ](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-24.jpg)
+![Filmora](https://images.wondershare.com/filmora/article-images/2022/05/how-to-add-slideshow-in-powerpoint-24.jpg)
 
 If you are looking to present your message to a large audience using slideshows, Filmora software has covered you. Whether you're a professional at making slideshows or a beginner who wants to try it out for the first time, it has an easy-to-use interface.
 

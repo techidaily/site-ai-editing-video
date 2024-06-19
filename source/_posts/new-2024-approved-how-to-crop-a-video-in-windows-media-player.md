@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Crop a Video in Windows Media Player
-date: 2024-04-24T07:08:35.407Z
-updated: 2024-04-25T07:08:35.407Z
+date: 2024-06-18T14:31:03.658Z
+updated: 2024-06-19T14:31:03.658Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved How to Crop a Video in Windows Media Player
 excerpt: This Article Describes New 2024 Approved How to Crop a Video in Windows Media Player
 keywords: step by step to rotate videos in windows media player,detailed steps to rotate videos in windows media player,ai animation ai animation how to crop a video in windows media player,ai animation how to crop a video in windows media player,how to crop a video in windows media player,how to crop videos in windows media player,ai animation how to crop videos in windows media player
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## How to Crop a Video in Windows Media Player

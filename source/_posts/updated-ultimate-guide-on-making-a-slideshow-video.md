@@ -1,7 +1,7 @@
 ---
 title: Updated Ultimate Guide on Making A Slideshow Video
-date: 2024-05-20T03:38:21.646Z
-updated: 2024-05-21T03:38:21.646Z
+date: 2024-06-18T14:31:06.103Z
+updated: 2024-06-19T14:31:06.103Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Ultimate Guide on Making A Slideshow Video
 excerpt: This Article Describes Updated Ultimate Guide on Making A Slideshow Video
 keywords: ai animation ai animation ultimate guide on making a slideshow video,the ultimate guide to slideshow maker with music,ultimate guide on magic effects video making,ai animation the ultimate guide to slideshow maker with music,ai animation ultimate guide on making a slideshow video,ai animation ultimate guide on magic effects video making,ultimate guide on making a slideshow video
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## Ultimate Guide on Making A Slideshow Video

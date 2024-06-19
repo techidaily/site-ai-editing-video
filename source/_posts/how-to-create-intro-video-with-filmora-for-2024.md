@@ -1,7 +1,7 @@
 ---
 title: How to Create Intro Video with Filmora for 2024
-date: 2024-05-20T03:38:07.279Z
-updated: 2024-05-21T03:38:07.279Z
+date: 2024-06-18T14:31:18.074Z
+updated: 2024-06-19T14:31:18.074Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Create Intro Video with Filmora for 2024
 excerpt: This Article Describes How to Create Intro Video with Filmora for 2024
 keywords: how to create your own luts for your video with filmora,how to create intro video with kinemaster,ai animation how to create intro video with filmora,how to create a text effect video with filmora,guide to create an intro video with filmora,how to create intro video with filmora,how to create loop videos with filmora
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## How to Create Intro Video with Filmora

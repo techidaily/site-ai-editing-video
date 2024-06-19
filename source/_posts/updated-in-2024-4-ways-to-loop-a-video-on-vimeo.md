@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, 4 Ways to Loop a Video on Vimeo
-date: 2024-04-24T07:08:27.632Z
-updated: 2024-04-25T07:08:27.632Z
+date: 2024-06-18T14:31:03.973Z
+updated: 2024-06-19T14:31:03.973Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, 4 Ways to Loop a Video on Vimeo
 excerpt: This Article Describes Updated In 2024, 4 Ways to Loop a Video on Vimeo
 keywords: 4 ways to loop a video on vimeo,how to loop a video on vimeo,ai animation 2 methods to crop a video in vlc,ai animation 4 ways to loop a video on vimeo,ai animation how to loop a video on vimeo,11 ways to speed up a video on iphone,ai animation 11 ways to speed up a video on iphone
-thumbnail: https://www.lifewire.com/thmb/-JO-0dyylsxj3szzMyduNG-Qvig=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-919006240-ee5ef631cb6f4e4997bce403b8bafa77.jpg
+thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
 ---
 
 ## 4 Ways to Loop a Video on Vimeo

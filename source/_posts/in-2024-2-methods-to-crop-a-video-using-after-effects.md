@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Methods to Crop a Video Using After Effects
-date: 2024-05-20T03:37:40.951Z
-updated: 2024-05-21T03:37:40.951Z
+date: 2024-06-18T14:31:13.914Z
+updated: 2024-06-19T14:31:13.914Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, 2 Methods to Crop a Video Using After Effects
 excerpt: This Article Describes In 2024, 2 Methods to Crop a Video Using After Effects
 keywords: crop video using after effects,ai animation 2 solutions to crop a video using after effects,2 methods to crop a video using after effects,2 methods to crop a video in vlc,ai animation 2 methods to crop a video using after effects,ai animation ai animation 2 methods to crop a video using after effects,2 solutions to crop a video using after effects
-thumbnail: https://www.lifewire.com/thmb/17eYx3JlNgYWrNsT2X2f6cCUjf0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edit-tweet-after-publish-3476767-34af9aa3b62b4bf4b11891460076916b.png
+thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png
 ---
 
 ## 2 Methods to Crop a Video Using After Effects

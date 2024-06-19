@@ -1,7 +1,7 @@
 ---
 title: How to Add a Spooky Shadow Effect
-date: 2024-05-20T03:37:19.114Z
-updated: 2024-05-21T03:37:19.114Z
+date: 2024-06-18T14:31:13.219Z
+updated: 2024-06-19T14:31:13.219Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Add a Spooky Shadow Effect
 excerpt: This Article Describes How to Add a Spooky Shadow Effect
 keywords: how to add effects on tiktok,how to add font effect,adding a spooky shadow effect with filmora,ai animation adding a spooky shadow effect with filmora,add spooky shadow effect,ai animation how to add a spooky shadow effect,how to add a spooky shadow effect
-thumbnail: https://www.lifewire.com/thmb/6e-dHhpfl-OgzUpZXzufYG-qf-Y=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/movie-night-at-home-with-popcorn_t20_yv3PA9-5c815f7fc9e77c0001fd5b49.jpg
+thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e55514d7bc0ce5bafaca00aee.jpg
 ---
 
 ## How to Add a Spooky Shadow Effect

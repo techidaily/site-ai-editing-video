@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Make Discord GIF PFP? Solved
-date: 2024-04-24T07:08:36.352Z
-updated: 2024-04-25T07:08:36.352Z
+date: 2024-06-18T14:30:59.907Z
+updated: 2024-06-19T14:30:59.907Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved How to Make Discord GIF PFP? Solved
 excerpt: This Article Describes Updated 2024 Approved How to Make Discord GIF PFP? Solved
 keywords: how to make discord gif pfp solved,ai animation how to make discord gif pfp solved,ai animation how to make discord gif pfp,ai animation ai animation how to make discord gif pfp solved,how to make discord gif pfp,how to make discord logo gif,how to make discord emoji gif
-thumbnail: https://www.lifewire.com/thmb/ky9dx6TkOY6aQ-Ch6TfW7sMDBu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-free-movies-on-youtube-5114491-12-811d37329347405eab1a368e3018dc54.jpg
+thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
 ---
 
 ## How to Make Discord GIF PFP? [Solved]
@@ -1116,25 +1116,25 @@ There are two methods to create a LUT online and offline. Previously you've lear
 
 Import your photo into Lightroom by dragging and dropping it. You can also import the file by clicking the "File" button and selecting "Import Photos and Video." For best results, ensure that the photo you will edit is still.
 
-![import media to lightroom ](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-2.jpg)
+![import media to lightroom](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-2.jpg)
 
 ##### Step2
 
 Edit your photo inside the “Develop” module in Lightroom with your desired preference and style. Only apply changes affecting the colors, not adjustments like noise reduction, vignette, or grain.
 
-![open develop module and make changes ](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-3.jpg)
+![open develop module and make changes](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-3.jpg)
 
 ##### Step3
 
 Download the original PNG from <www.onlinelutcreator.com/lutcreator>. Import it into Lightroom as you did in the first step.
 
-![ download identity png ](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-4.jpg)
+![download identity png](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-4.jpg)
 
 ##### Step4
 
 Right-click on your edited photo in the Develop module. Click "Develop Settings," and select "Copy Settings." After that, a new window will pop up; make sure you have the same things checked as in the screenshot.
 
-![ open develop module and copy settings](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-5.jpg)
+![open develop module and copy settings](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-5.jpg)
 
 ##### Step5
 
@@ -1225,25 +1225,25 @@ There are two methods to create a LUT online and offline. Previously you've lear
 
 Import your photo into Lightroom by dragging and dropping it. You can also import the file by clicking the "File" button and selecting "Import Photos and Video." For best results, ensure that the photo you will edit is still.
 
-![import media to lightroom ](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-2.jpg)
+![import media to lightroom](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-2.jpg)
 
 ##### Step2
 
 Edit your photo inside the “Develop” module in Lightroom with your desired preference and style. Only apply changes affecting the colors, not adjustments like noise reduction, vignette, or grain.
 
-![open develop module and make changes ](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-3.jpg)
+![open develop module and make changes](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-3.jpg)
 
 ##### Step3
 
 Download the original PNG from <www.onlinelutcreator.com/lutcreator>. Import it into Lightroom as you did in the first step.
 
-![ download identity png ](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-4.jpg)
+![download identity png](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-4.jpg)
 
 ##### Step4
 
 Right-click on your edited photo in the Develop module. Click "Develop Settings," and select "Copy Settings." After that, a new window will pop up; make sure you have the same things checked as in the screenshot.
 
-![ open develop module and copy settings](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-5.jpg)
+![open develop module and copy settings](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-5.jpg)
 
 ##### Step5
 

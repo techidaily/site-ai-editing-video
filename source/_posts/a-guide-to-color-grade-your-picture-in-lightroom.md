@@ -1,7 +1,7 @@
 ---
 title: A Guide to Color Grade Your Picture in LightRoom
-date: 2024-05-20T03:37:18.630Z
-updated: 2024-05-21T03:37:18.630Z
+date: 2024-06-18T14:31:02.635Z
+updated: 2024-06-19T14:31:02.635Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes A Guide to Color Grade Your Picture in LightRoom
 excerpt: This Article Describes A Guide to Color Grade Your Picture in LightRoom
 keywords: adobe lightroom color grading tutorial,ai animation ai animation how to color grade your picture in lightroom,how to uue adobe lightroom color grading,ai animation how to color grade your picture in lightroom,how to color grade your picture in lightroom,a guide to color grade your picture in lightroom,ai animation a guide to color grade your picture in lightroom
-thumbnail: https://www.lifewire.com/thmb/gzHpHKbSd5o6D_hdSTFod8z3AV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-769729481-5bd367dcc9e77c007c015257.jpg
+thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6ed8b5f1e4a621d2eef1f390.jpg
 ---
 
 ## A Guide to Color Grade Your Picture in LightRoom
