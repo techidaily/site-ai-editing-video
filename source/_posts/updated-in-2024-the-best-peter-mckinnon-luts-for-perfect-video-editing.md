@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Best Peter McKinnon LUTs for Perfect Video Editing
-date: 2024-04-24T07:08:38.313Z
-updated: 2024-04-25T07:08:38.313Z
+date: 2024-06-26T06:24:03.383Z
+updated: 2024-06-27T06:24:03.383Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, The Best Peter McKinnon LUTs for Perfect Video Editing
 excerpt: This Article Describes Updated In 2024, The Best Peter McKinnon LUTs for Perfect Video Editing
 keywords: the best peter mckinnon luts recommendation,ai animation ai animation the best peter mckinnon luts for perfect video editing,finding the best filmic pro luts for video editing,ai animation the best peter mckinnon luts for perfect video editing,ai animation finding the best filmic pro luts for video editing,the best peter mckinnon luts for perfect video editing,whats the best laptops for video editing
-thumbnail: https://www.lifewire.com/thmb/is45Yw-eZ0hbBH1GVSPPw-e8Duo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
 ## The Best Peter McKinnon LUTs for Perfect Video Editing
@@ -61,25 +61,25 @@ LUTs can be integrated into your editing software, allowing you to apply and mod
 
 Peter McKinnon is a great content creator with exceptional video editing skills. Here is a list of **Peter McKinnon LUT Pack free** and paid ones, which you can download. Make your videos look like Peter McKinnon's and get the praise you deserve.
 
-### 1\. [Cine LUTS V2](https://www.petermckinnon.com/v2-luts)
+### 1\. Cine LUTS V2
 
 Cine LUTS V2 is a pack of 15 cinematic-style LUTs to color grade your videos. With these LUTs, you can achieve various cinematic looks, such as Dawn, Dusk, Elemental, and Ember. Moreover, the Dawn LUT adds a warm and soft color tone to your video. However, the Elemental LUT brings out vibrant colors, making your content appear bold and impactful. Furthermore, each LUT in this pack offers a unique color grading style.
 
 ![cine luts v2](https://images.wondershare.com/filmora/article-images/2023/cine-luts-v2.jpg)
 
-### 2\. [Cine LUTS V1](https://www.petermckinnon.com/v1-luts)
+### 2\. Cine LUTS V1
 
 With the Cine LUTs V1 pack, you'll have access to 7 unique LUTs. This **Peter McKinnon LUT pack** gives your videos a cinematic look. Furthermore, this pack has different LUTs, including Orange & Teal and Noir. The Orange & Teal LUT adds a warm orange tone to the highlights and a cool teal tone to the shadows. However, you can use the Noir LUT to add a more dramatic look to your video.
 
 ![cine luts v1](https://images.wondershare.com/filmora/article-images/2023/cine-luts-v1.jpg)
 
-### 3\. [Arctic Shade](https://fixthephoto.com/peter-mckinnon-luts-pack-free/download-1)
+### 3\. Arctic Shade
 
 Arctic Shade LUT is a color grading tool inspired by Peter McKinnon's technique. Applying this LUT adjusts the white balance to give your video a balanced white exposure. Furthermore, it increases saturation and enhances contrast to make your colors pop. It's a great option to experiment with and matches the color grading style of Peter McKinnon.
 
 ![arctic shade](https://images.wondershare.com/filmora/article-images/2023/arctic-shade.jpg)
 
-### 4\. [Bleak Galaxy](https://fixthephoto.com/vlog-lut/download-7)
+### 4\. Bleak Galaxy
 
 Bleak Galaxy is a fantastic LUT pack inspired by Peter McKinnon. This LUT is perfect for enhancing your night sky footage. It amplifies the blue tones, making the night sky even more beautiful. Additionally, it boosts saturation, bringing out the vibrant colors in the scene. With Bleak Galaxy, you can capture the details of the stunning night sky in all its beauty.
 
@@ -125,25 +125,25 @@ In conclusion, Peter McKinnon is an impressive content creator and professional.
 
 Peter McKinnon is a great content creator with exceptional video editing skills. Here is a list of **Peter McKinnon LUT Pack free** and paid ones, which you can download. Make your videos look like Peter McKinnon's and get the praise you deserve.
 
-### 1\. [Cine LUTS V2](https://www.petermckinnon.com/v2-luts)
+### 1\. Cine LUTS V2
 
 Cine LUTS V2 is a pack of 15 cinematic-style LUTs to color grade your videos. With these LUTs, you can achieve various cinematic looks, such as Dawn, Dusk, Elemental, and Ember. Moreover, the Dawn LUT adds a warm and soft color tone to your video. However, the Elemental LUT brings out vibrant colors, making your content appear bold and impactful. Furthermore, each LUT in this pack offers a unique color grading style.
 
 ![cine luts v2](https://images.wondershare.com/filmora/article-images/2023/cine-luts-v2.jpg)
 
-### 2\. [Cine LUTS V1](https://www.petermckinnon.com/v1-luts)
+### 2\. Cine LUTS V1
 
 With the Cine LUTs V1 pack, you'll have access to 7 unique LUTs. This **Peter McKinnon LUT pack** gives your videos a cinematic look. Furthermore, this pack has different LUTs, including Orange & Teal and Noir. The Orange & Teal LUT adds a warm orange tone to the highlights and a cool teal tone to the shadows. However, you can use the Noir LUT to add a more dramatic look to your video.
 
 ![cine luts v1](https://images.wondershare.com/filmora/article-images/2023/cine-luts-v1.jpg)
 
-### 3\. [Arctic Shade](https://fixthephoto.com/peter-mckinnon-luts-pack-free/download-1)
+### 3\. Arctic Shade
 
 Arctic Shade LUT is a color grading tool inspired by Peter McKinnon's technique. Applying this LUT adjusts the white balance to give your video a balanced white exposure. Furthermore, it increases saturation and enhances contrast to make your colors pop. It's a great option to experiment with and matches the color grading style of Peter McKinnon.
 
 ![arctic shade](https://images.wondershare.com/filmora/article-images/2023/arctic-shade.jpg)
 
-### 4\. [Bleak Galaxy](https://fixthephoto.com/vlog-lut/download-7)
+### 4\. Bleak Galaxy
 
 Bleak Galaxy is a fantastic LUT pack inspired by Peter McKinnon. This LUT is perfect for enhancing your night sky footage. It amplifies the blue tones, making the night sky even more beautiful. Additionally, it boosts saturation, bringing out the vibrant colors in the scene. With Bleak Galaxy, you can capture the details of the stunning night sky in all its beauty.
 
@@ -223,7 +223,7 @@ And, unlike with traditional collages — which are messy and require lots of pr
 
 Now onto our recommended list for all the different **photo collage makers FREE for PC** that you can try. This list will include a variety of different free collage makers for PC with different benefits. So, make sure to give each one some careful consideration We’ve added not only the specifications of each **photo collage for PC** but also a debrief description on why you might want to buy one over the other.
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 **Specifications:** Windows 7 | 8.1 | 10 | 11 (64 bit OS only)
 
@@ -263,9 +263,7 @@ Express It is an online tool that you can use as a **photo collage maker (FREE) 
 
 **●** Photo collage templates are available for designing quick pic collages
 
-**●** ‘Free-style’ mode available for creating fully unique collage
-
-![Express It - Photo Collage for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc3.png)
+**●** ‘Free-style’ mode available for creating fully unique collage ![Express It - Photo Collage for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc3.png)
 
 ### 03Fotojet
 
@@ -311,9 +309,7 @@ Fotor is a great online editor that comes with a lot of ‘collage-making’ too
 
 **●** Comes with lots of easy-to-use layouts for creating collages
 
-**●** No download or installation required; just a quick Sign-Up
-
-![Fotor - Free Photo Collage Maker for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc6.png)
+**●** No download or installation required; just a quick Sign-Up ![Fotor - Free Photo Collage Maker for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc6.png)
 
 ### 06PiZap
 
@@ -327,9 +323,7 @@ PiZap is the last of the online photo collage apps for PC that we have on this l
 
 **●** Easy-to-use photo editing functions
 
-**●** UI is intuitive and lots of the features are set for beginners
-
-![PiZap — FREE Photo Collage App for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc7.png)
+**●** UI is intuitive and lots of the features are set for beginners ![PiZap — FREE Photo Collage App for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc7.png)
 
 ### 07Phototastic Collage
 
@@ -361,9 +355,7 @@ Much like many of the other software that we included in this list, this one is 
 
 **●** Advanced photo editing functions
 
-**●** Collage Feature for creating quick and easy collages
-
-![Photopad - Photo Collage Software for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc9.png)
+**●** Collage Feature for creating quick and easy collages ![Photopad - Photo Collage Software for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc9.png)
 
 ## **●** Final Words: 2024 Guide of 8 Photo Collage Apps for PC **→**
 
@@ -397,7 +389,7 @@ And, unlike with traditional collages — which are messy and require lots of pr
 
 Now onto our recommended list for all the different **photo collage makers FREE for PC** that you can try. This list will include a variety of different free collage makers for PC with different benefits. So, make sure to give each one some careful consideration We’ve added not only the specifications of each **photo collage for PC** but also a debrief description on why you might want to buy one over the other.
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 **Specifications:** Windows 7 | 8.1 | 10 | 11 (64 bit OS only)
 
@@ -437,9 +429,7 @@ Express It is an online tool that you can use as a **photo collage maker (FREE) 
 
 **●** Photo collage templates are available for designing quick pic collages
 
-**●** ‘Free-style’ mode available for creating fully unique collage
-
-![Express It - Photo Collage for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc3.png)
+**●** ‘Free-style’ mode available for creating fully unique collage ![Express It - Photo Collage for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc3.png)
 
 ### 03Fotojet
 
@@ -485,9 +475,7 @@ Fotor is a great online editor that comes with a lot of ‘collage-making’ too
 
 **●** Comes with lots of easy-to-use layouts for creating collages
 
-**●** No download or installation required; just a quick Sign-Up
-
-![Fotor - Free Photo Collage Maker for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc6.png)
+**●** No download or installation required; just a quick Sign-Up ![Fotor - Free Photo Collage Maker for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc6.png)
 
 ### 06PiZap
 
@@ -501,9 +489,7 @@ PiZap is the last of the online photo collage apps for PC that we have on this l
 
 **●** Easy-to-use photo editing functions
 
-**●** UI is intuitive and lots of the features are set for beginners
-
-![PiZap — FREE Photo Collage App for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc7.png)
+**●** UI is intuitive and lots of the features are set for beginners ![PiZap — FREE Photo Collage App for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc7.png)
 
 ### 07Phototastic Collage
 
@@ -535,9 +521,7 @@ Much like many of the other software that we included in this list, this one is 
 
 **●** Advanced photo editing functions
 
-**●** Collage Feature for creating quick and easy collages
-
-![Photopad - Photo Collage Software for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc9.png)
+**●** Collage Feature for creating quick and easy collages ![Photopad - Photo Collage Software for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc9.png)
 
 ## **●** Final Words: 2024 Guide of 8 Photo Collage Apps for PC **→**
 
@@ -571,7 +555,7 @@ And, unlike with traditional collages — which are messy and require lots of pr
 
 Now onto our recommended list for all the different **photo collage makers FREE for PC** that you can try. This list will include a variety of different free collage makers for PC with different benefits. So, make sure to give each one some careful consideration We’ve added not only the specifications of each **photo collage for PC** but also a debrief description on why you might want to buy one over the other.
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 **Specifications:** Windows 7 | 8.1 | 10 | 11 (64 bit OS only)
 
@@ -611,9 +595,7 @@ Express It is an online tool that you can use as a **photo collage maker (FREE) 
 
 **●** Photo collage templates are available for designing quick pic collages
 
-**●** ‘Free-style’ mode available for creating fully unique collage
-
-![Express It - Photo Collage for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc3.png)
+**●** ‘Free-style’ mode available for creating fully unique collage ![Express It - Photo Collage for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc3.png)
 
 ### 03Fotojet
 
@@ -659,9 +641,7 @@ Fotor is a great online editor that comes with a lot of ‘collage-making’ too
 
 **●** Comes with lots of easy-to-use layouts for creating collages
 
-**●** No download or installation required; just a quick Sign-Up
-
-![Fotor - Free Photo Collage Maker for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc6.png)
+**●** No download or installation required; just a quick Sign-Up ![Fotor - Free Photo Collage Maker for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc6.png)
 
 ### 06PiZap
 
@@ -675,9 +655,7 @@ PiZap is the last of the online photo collage apps for PC that we have on this l
 
 **●** Easy-to-use photo editing functions
 
-**●** UI is intuitive and lots of the features are set for beginners
-
-![PiZap — FREE Photo Collage App for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc7.png)
+**●** UI is intuitive and lots of the features are set for beginners ![PiZap — FREE Photo Collage App for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc7.png)
 
 ### 07Phototastic Collage
 
@@ -709,9 +687,7 @@ Much like many of the other software that we included in this list, this one is 
 
 **●** Advanced photo editing functions
 
-**●** Collage Feature for creating quick and easy collages
-
-![Photopad - Photo Collage Software for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc9.png)
+**●** Collage Feature for creating quick and easy collages ![Photopad - Photo Collage Software for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc9.png)
 
 ## **●** Final Words: 2024 Guide of 8 Photo Collage Apps for PC **→**
 
@@ -745,7 +721,7 @@ And, unlike with traditional collages — which are messy and require lots of pr
 
 Now onto our recommended list for all the different **photo collage makers FREE for PC** that you can try. This list will include a variety of different free collage makers for PC with different benefits. So, make sure to give each one some careful consideration We’ve added not only the specifications of each **photo collage for PC** but also a debrief description on why you might want to buy one over the other.
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 **Specifications:** Windows 7 | 8.1 | 10 | 11 (64 bit OS only)
 
@@ -785,9 +761,7 @@ Express It is an online tool that you can use as a **photo collage maker (FREE) 
 
 **●** Photo collage templates are available for designing quick pic collages
 
-**●** ‘Free-style’ mode available for creating fully unique collage
-
-![Express It - Photo Collage for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc3.png)
+**●** ‘Free-style’ mode available for creating fully unique collage ![Express It - Photo Collage for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc3.png)
 
 ### 03Fotojet
 
@@ -833,9 +807,7 @@ Fotor is a great online editor that comes with a lot of ‘collage-making’ too
 
 **●** Comes with lots of easy-to-use layouts for creating collages
 
-**●** No download or installation required; just a quick Sign-Up
-
-![Fotor - Free Photo Collage Maker for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc6.png)
+**●** No download or installation required; just a quick Sign-Up ![Fotor - Free Photo Collage Maker for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc6.png)
 
 ### 06PiZap
 
@@ -849,9 +821,7 @@ PiZap is the last of the online photo collage apps for PC that we have on this l
 
 **●** Easy-to-use photo editing functions
 
-**●** UI is intuitive and lots of the features are set for beginners
-
-![PiZap — FREE Photo Collage App for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc7.png)
+**●** UI is intuitive and lots of the features are set for beginners ![PiZap — FREE Photo Collage App for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc7.png)
 
 ### 07Phototastic Collage
 
@@ -883,9 +853,7 @@ Much like many of the other software that we included in this list, this one is 
 
 **●** Advanced photo editing functions
 
-**●** Collage Feature for creating quick and easy collages
-
-![Photopad - Photo Collage Software for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc9.png)
+**●** Collage Feature for creating quick and easy collages ![Photopad - Photo Collage Software for PC](https://images.wondershare.com/filmora/article-images/2022/02/2022-guide-of-8-photo-collage-apps-for-pc9.png)
 
 ## **●** Final Words: 2024 Guide of 8 Photo Collage Apps for PC **→**
 
@@ -1056,15 +1024,13 @@ A Lower Third is a mix of motion graphic design and texts that are placed in the
 
 Lower Thirds can be used in various settings, such as news broadcasts or interviews, to help provide viewers with additional context.
 
-## Part 2: How to Make Your Own Lower Thirds in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part 2: How to Make Your Own Lower Thirds in Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-### (1) A simple line and texts
-
-![a simple line and texts](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-1.gif)
+### (1) A simple line and texts ![a simple line and texts](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-1.gif)
 
 ##### Step1 Create a simple line
 
@@ -1130,9 +1096,7 @@ Instead, move the play head again to the right for a few frames and add another 
 
 Playback the video and see how it looks.
 
-### (2) A name card with a solid background
-
-![a name card with a solid background](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-13.gif)
+### (2) A name card with a solid background ![a name card with a solid background](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-13.gif)
 
 Sometimes you might want to create a name card with a solid background like the sample above. To create it, we can use the same method. Here's how to do it:
 
@@ -1192,13 +1156,9 @@ Finally, you can add a Subscribe button from the new default Filmora element pac
 
 ## Wrapping up
 
-These are two ways you can create your own Lower Thirds in FIlmora. You can also change the keyframe settings to customize your lower thirds even more. Now, it's time to try it yourself, and let us know what you think!
+These are two ways you can create your own Lower Thirds in FIlmora. You can also change the keyframe settings to customize your lower thirds even more. Now, it's time to try it yourself, and let us know what you think ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-### (1) A simple line and texts
-
-![a simple line and texts](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-1.gif)
+### (1) A simple line and texts ![a simple line and texts](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-1.gif)
 
 ##### Step1 Create a simple line
 
@@ -1264,9 +1224,7 @@ Instead, move the play head again to the right for a few frames and add another 
 
 Playback the video and see how it looks.
 
-### (2) A name card with a solid background
-
-![a name card with a solid background](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-13.gif)
+### (2) A name card with a solid background ![a name card with a solid background](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-13.gif)
 
 Sometimes you might want to create a name card with a solid background like the sample above. To create it, we can use the same method. Here's how to do it:
 

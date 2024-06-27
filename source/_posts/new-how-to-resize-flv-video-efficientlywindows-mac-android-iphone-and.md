@@ -1,7 +1,7 @@
 ---
 title: New How to Resize FLV Video EfficientlyWindows, Mac, Android, iPhone &
-date: 2024-04-24T07:08:12.675Z
-updated: 2024-04-25T07:08:12.675Z
+date: 2024-06-26T06:24:16.526Z
+updated: 2024-06-27T06:24:16.526Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Resize FLV Video EfficientlyWindows, Mac, Android, iPhone &
 excerpt: This Article Describes New How to Resize FLV Video EfficientlyWindows, Mac, Android, iPhone &
 keywords: how to resize flv videos efficiently windows macandroid iphone online,ai animation how to resize flv video efficientlywindows mac android iphone,how to resize flv videos efficientlywindows mac android iphone online,ai animation how to resize flv video efficiently windows macandroid iphone o,how to resize flv video efficientlywindows mac android iphone,ai animation how to resize flv videos efficientlywindows mac android iphone online,how to resize flv video efficiently windows macandroid iphone o
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## How to Resize FLV Video Efficiently[Windows, Mac, Android, iPhone &

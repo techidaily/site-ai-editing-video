@@ -1,7 +1,7 @@
 ---
 title: In 2024, Do You Want Your Photo and Video Edits to Look Like Peter McKinnons? Color-Grade Your Media Files with Peter McKinnon LUTs to Make Your Content Stand Out
-date: 2024-04-24T07:08:19.102Z
-updated: 2024-04-25T07:08:19.102Z
+date: 2024-06-26T06:24:28.287Z
+updated: 2024-06-27T06:24:28.287Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Do You Want Your Photo and Video Edits to Look Like Peter McKinnons? Color-Grade Your Media Files with Peter McKinnon LUTs to Make Your Content Stand Out
 excerpt: This Article Describes In 2024, Do You Want Your Photo and Video Edits to Look Like Peter McKinnons? Color-Grade Your Media Files with Peter McKinnon LUTs to Make Your Content Stand Out
 keywords: are you a vlogger looking for good color correction and video grading presets here youll find different vlog luts that you can use for your videos,do you want your photo and video edits to look like peter mckinnons color grade your media files with peter mckinnon luts to make your content stand out,are you a videographer or video content creator is enhancing your videography skills your priority do you want to learn the basics of lumafusion color grading read on to find all the information you need,are you seeking free lumetri presets to enhance your videos find out all about lumetri color presets and how to use them in presenting proper color grading,do you want to apply professional looking color grading on your iphones photos and videos you can use different iphone luts for your pictures and videos,do you want to make your photos and videos look different from others there are many lightroom luts free and they make your media content stand out from others,do you want to show your mood in your digital media content but dont know how to there are many moody luts available that highlight your mood in your content
-thumbnail: https://www.lifewire.com/thmb/dlXSXWUVnvtFpXfW22z68Mqdr1g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TwitterVideoDownload-5b605aaac9e77c002c3a42f3.jpg
+thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c84a7394663cf2c5a8a40dbef.jpg
 ---
 
 ## Do You Want Your Photo and Video Edits to Look Like Peter McKinnon's? Color-Grade Your Media Files with Peter McKinnon LUTs to Make Your Content Stand Out
@@ -61,25 +61,25 @@ LUTs can be integrated into your editing software, allowing you to apply and mod
 
 Peter McKinnon is a great content creator with exceptional video editing skills. Here is a list of **Peter McKinnon LUT Pack free** and paid ones, which you can download. Make your videos look like Peter McKinnon's and get the praise you deserve.
 
-### 1\. [Cine LUTS V2](https://www.petermckinnon.com/v2-luts)
+### 1\. Cine LUTS V2
 
 Cine LUTS V2 is a pack of 15 cinematic-style LUTs to color grade your videos. With these LUTs, you can achieve various cinematic looks, such as Dawn, Dusk, Elemental, and Ember. Moreover, the Dawn LUT adds a warm and soft color tone to your video. However, the Elemental LUT brings out vibrant colors, making your content appear bold and impactful. Furthermore, each LUT in this pack offers a unique color grading style.
 
 ![cine luts v2](https://images.wondershare.com/filmora/article-images/2023/cine-luts-v2.jpg)
 
-### 2\. [Cine LUTS V1](https://www.petermckinnon.com/v1-luts)
+### 2\. Cine LUTS V1
 
 With the Cine LUTs V1 pack, you'll have access to 7 unique LUTs. This **Peter McKinnon LUT pack** gives your videos a cinematic look. Furthermore, this pack has different LUTs, including Orange & Teal and Noir. The Orange & Teal LUT adds a warm orange tone to the highlights and a cool teal tone to the shadows. However, you can use the Noir LUT to add a more dramatic look to your video.
 
 ![cine luts v1](https://images.wondershare.com/filmora/article-images/2023/cine-luts-v1.jpg)
 
-### 3\. [Arctic Shade](https://fixthephoto.com/peter-mckinnon-luts-pack-free/download-1)
+### 3\. Arctic Shade
 
 Arctic Shade LUT is a color grading tool inspired by Peter McKinnon's technique. Applying this LUT adjusts the white balance to give your video a balanced white exposure. Furthermore, it increases saturation and enhances contrast to make your colors pop. It's a great option to experiment with and matches the color grading style of Peter McKinnon.
 
 ![arctic shade](https://images.wondershare.com/filmora/article-images/2023/arctic-shade.jpg)
 
-### 4\. [Bleak Galaxy](https://fixthephoto.com/vlog-lut/download-7)
+### 4\. Bleak Galaxy
 
 Bleak Galaxy is a fantastic LUT pack inspired by Peter McKinnon. This LUT is perfect for enhancing your night sky footage. It amplifies the blue tones, making the night sky even more beautiful. Additionally, it boosts saturation, bringing out the vibrant colors in the scene. With Bleak Galaxy, you can capture the details of the stunning night sky in all its beauty.
 
@@ -125,25 +125,25 @@ In conclusion, Peter McKinnon is an impressive content creator and professional.
 
 Peter McKinnon is a great content creator with exceptional video editing skills. Here is a list of **Peter McKinnon LUT Pack free** and paid ones, which you can download. Make your videos look like Peter McKinnon's and get the praise you deserve.
 
-### 1\. [Cine LUTS V2](https://www.petermckinnon.com/v2-luts)
+### 1\. Cine LUTS V2
 
 Cine LUTS V2 is a pack of 15 cinematic-style LUTs to color grade your videos. With these LUTs, you can achieve various cinematic looks, such as Dawn, Dusk, Elemental, and Ember. Moreover, the Dawn LUT adds a warm and soft color tone to your video. However, the Elemental LUT brings out vibrant colors, making your content appear bold and impactful. Furthermore, each LUT in this pack offers a unique color grading style.
 
 ![cine luts v2](https://images.wondershare.com/filmora/article-images/2023/cine-luts-v2.jpg)
 
-### 2\. [Cine LUTS V1](https://www.petermckinnon.com/v1-luts)
+### 2\. Cine LUTS V1
 
 With the Cine LUTs V1 pack, you'll have access to 7 unique LUTs. This **Peter McKinnon LUT pack** gives your videos a cinematic look. Furthermore, this pack has different LUTs, including Orange & Teal and Noir. The Orange & Teal LUT adds a warm orange tone to the highlights and a cool teal tone to the shadows. However, you can use the Noir LUT to add a more dramatic look to your video.
 
 ![cine luts v1](https://images.wondershare.com/filmora/article-images/2023/cine-luts-v1.jpg)
 
-### 3\. [Arctic Shade](https://fixthephoto.com/peter-mckinnon-luts-pack-free/download-1)
+### 3\. Arctic Shade
 
 Arctic Shade LUT is a color grading tool inspired by Peter McKinnon's technique. Applying this LUT adjusts the white balance to give your video a balanced white exposure. Furthermore, it increases saturation and enhances contrast to make your colors pop. It's a great option to experiment with and matches the color grading style of Peter McKinnon.
 
 ![arctic shade](https://images.wondershare.com/filmora/article-images/2023/arctic-shade.jpg)
 
-### 4\. [Bleak Galaxy](https://fixthephoto.com/vlog-lut/download-7)
+### 4\. Bleak Galaxy
 
 Bleak Galaxy is a fantastic LUT pack inspired by Peter McKinnon. This LUT is perfect for enhancing your night sky footage. It amplifies the blue tones, making the night sky even more beautiful. Additionally, it boosts saturation, bringing out the vibrant colors in the scene. With Bleak Galaxy, you can capture the details of the stunning night sky in all its beauty.
 
@@ -597,9 +597,7 @@ Applying slow-motion effects using sophisticated cameras or apps was a matter of
 
 Some of its features also include speed modifiers for creating slow-motion videos on Snapchat. The slow-motion Snapchat option is pretty simple to apply to your pre-recorded videos. This guide will teach you [how to slow down a Snapchat](https://tools.techidaily.com/wondershare/filmora/download/) video to avoid ambiguity. Keep reading and get some mobile apps for slow-motion videos other than Snapchat.
 
-**Slow Motion Video Maker** Slow your video’s speed with better control of your keyframes to create unique cinematic effects!
-
-[Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
+**Slow Motion Video Maker** Slow your video’s speed with better control of your keyframes to create unique cinematic effects ![Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
@@ -645,7 +643,7 @@ The slow-motion effect is no more challenging as many apps are available online 
 * [InShot](#way2)
 * [Videoshop](#way3)
 
-### 1\. CapCut ([Android](https://play.google.com/store/apps/details?id=com.lemon.lvoverseas&hl=en&gl=US) | [iOS](https://apps.apple.com/us/app/capcut-video-editor/id1500855883))
+### 1\. CapCut ( Android
 
 This tool has made video creation effortless with video assets and flexible editing. It contains a cloud storage system that allows users to collaborate on projects freely. With its powerful features, users can remove background, split audio, and insert sounds. CapCut offers a feature to turn your normal videos into slow motion and alter the duration of clips.
 
@@ -657,7 +655,7 @@ This tool has made video creation effortless with video assets and flexible edit
 * The speed ramping features allow you to ensure a smooth transition in slow motions. To do so, you can choose the bullet, montage, and hero presets.
 * Apart from making slow-motion videos, users can extract audio from videos. They just have to upload a video, and CapCut will extract original quality sound.
 
-### 2\. InShot ([Android](https://play.google.com/store/apps/details?id=com.camerasideas.instashot&hl=en&gl=US) | [iOS](https://apps.apple.com/us/app/inshot-video-editor/id997362197))
+### 2\. InShot ( Android
 
 InShot claims to release your creativity through its video editing features. It offers seamless video trimming, splitting, and merging to get desired media. Users can adjust the speed of clips and add slow-motion or fast motions. Besides, they can insert sound effects, voice-overs, and popular music in their vlogs.
 
@@ -669,7 +667,7 @@ InShot claims to release your creativity through its video editing features. It 
 * InShot tries to make your content breathe with its text and stickers. Users can add animated stickers and text using the timeline functions.
 * Another specialty of this app is its aesthetic filters, such as Film and Cinema. Moreover, there are AI effects to provide a professional look to projects.
 
-### 3\. Videoshop ([Android](https://play.google.com/store/apps/details?id=com.videoshop.app&hl=en&gl=US) | [iOS](https://apps.apple.com/us/app/videoshop-video-editor/id615563599))
+### 3\. Videoshop ( Android
 
 If you find **slowing down videos on Snapchat** difficult, try this video editing app. With its advanced editing tools, this versatile app can level up your social media expression. Some of its essential editing features involve rotation, merging, and flipping clips. Users can perform color correction, reverse, and slow down video functions.
 
@@ -781,7 +779,7 @@ The slow-motion effect is no more challenging as many apps are available online 
 * [InShot](#way2)
 * [Videoshop](#way3)
 
-### 1\. CapCut ([Android](https://play.google.com/store/apps/details?id=com.lemon.lvoverseas&hl=en&gl=US) | [iOS](https://apps.apple.com/us/app/capcut-video-editor/id1500855883))
+### 1\. CapCut ( Android
 
 This tool has made video creation effortless with video assets and flexible editing. It contains a cloud storage system that allows users to collaborate on projects freely. With its powerful features, users can remove background, split audio, and insert sounds. CapCut offers a feature to turn your normal videos into slow motion and alter the duration of clips.
 
@@ -793,7 +791,7 @@ This tool has made video creation effortless with video assets and flexible edit
 * The speed ramping features allow you to ensure a smooth transition in slow motions. To do so, you can choose the bullet, montage, and hero presets.
 * Apart from making slow-motion videos, users can extract audio from videos. They just have to upload a video, and CapCut will extract original quality sound.
 
-### 2\. InShot ([Android](https://play.google.com/store/apps/details?id=com.camerasideas.instashot&hl=en&gl=US) | [iOS](https://apps.apple.com/us/app/inshot-video-editor/id997362197))
+### 2\. InShot ( Android
 
 InShot claims to release your creativity through its video editing features. It offers seamless video trimming, splitting, and merging to get desired media. Users can adjust the speed of clips and add slow-motion or fast motions. Besides, they can insert sound effects, voice-overs, and popular music in their vlogs.
 
@@ -805,7 +803,7 @@ InShot claims to release your creativity through its video editing features. It 
 * InShot tries to make your content breathe with its text and stickers. Users can add animated stickers and text using the timeline functions.
 * Another specialty of this app is its aesthetic filters, such as Film and Cinema. Moreover, there are AI effects to provide a professional look to projects.
 
-### 3\. Videoshop ([Android](https://play.google.com/store/apps/details?id=com.videoshop.app&hl=en&gl=US) | [iOS](https://apps.apple.com/us/app/videoshop-video-editor/id615563599))
+### 3\. Videoshop ( Android
 
 If you find **slowing down videos on Snapchat** difficult, try this video editing app. With its advanced editing tools, this versatile app can level up your social media expression. Some of its essential editing features involve rotation, merging, and flipping clips. Users can perform color correction, reverse, and slow down video functions.
 

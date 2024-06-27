@@ -1,7 +1,7 @@
 ---
 title: New How to Use Rules of Thirds
-date: 2024-04-24T07:08:13.039Z
-updated: 2024-04-25T07:08:13.039Z
+date: 2024-06-26T06:23:57.924Z
+updated: 2024-06-27T06:23:57.924Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Use Rules of Thirds
 excerpt: This Article Describes New How to Use Rules of Thirds
 keywords: free luts for obs how to use them,how to use rules of thirds,ai animation how to use rule of thirds in video,ai animation how to use rules of thirds,how to use rule of thirds,ai animation ai animation how to use rule of thirds in video,how to use rule of thirds in video
-thumbnail: https://www.lifewire.com/thmb/-k7XQuYCtDIqaSG0zopRVuv3liM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-unveils-new-products-at-its-annual-unpacked-event-1200186175-0a17180ae84e47f488f43d3afbb7daa6.jpg
+thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f296003a4995fda9891371fd.jpg
 ---
 
 ## How to Use Rules of Thirds
@@ -161,7 +161,7 @@ Before we get into the editing process, let's first understand what you will nee
 
 You will need the following essentials to change the speed of a video:
 
-### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1\. Wondershare Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
@@ -375,9 +375,7 @@ In The Duration Panel, you can see the average speed of your video clip. Now, if
 To slow down the video clip, follow the steps mentioned below:
 
 * In The Duration Panel, **Increase** the time of the video.
-* Type in a number bigger than the normal value
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+* Type in a number bigger than the normal value ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** If the average speed of the video is **00:01:00:00,** increasing the value of the duration to **00:02:00:00** will reduce the speed of your video by half.
 
@@ -388,9 +386,7 @@ To slow down the video clip, follow the steps mentioned below:
 To increase the speed of your video, follow as guided ahead:
 
 * In The Duration Panel, **decrease** the time of the video.
-* Type in a number smaller than the normal value
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+* Type in a number smaller than the normal value ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** If the normal video speed is **00:01:00:00,** decreasing the value of the duration to **00:00:30:00** will increase the speed of your video by double.
 
@@ -614,9 +610,7 @@ In The Duration Panel, you can see the average speed of your video clip. Now, if
 To slow down the video clip, follow the steps mentioned below:
 
 * In The Duration Panel, **Increase** the time of the video.
-* Type in a number bigger than the normal value
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+* Type in a number bigger than the normal value ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** If the average speed of the video is **00:01:00:00,** increasing the value of the duration to **00:02:00:00** will reduce the speed of your video by half.
 
@@ -627,9 +621,7 @@ To slow down the video clip, follow the steps mentioned below:
 To increase the speed of your video, follow as guided ahead:
 
 * In The Duration Panel, **decrease** the time of the video.
-* Type in a number smaller than the normal value
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+* Type in a number smaller than the normal value ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** If the normal video speed is **00:01:00:00,** decreasing the value of the duration to **00:00:30:00** will increase the speed of your video by double.
 

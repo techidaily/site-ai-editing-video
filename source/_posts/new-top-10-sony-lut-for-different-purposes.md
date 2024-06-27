@@ -1,7 +1,7 @@
 ---
 title: New Top 10 Sony LUT for Different Purposes
-date: 2024-05-20T03:38:19.791Z
-updated: 2024-05-21T03:38:19.791Z
+date: 2024-06-26T06:23:56.608Z
+updated: 2024-06-27T06:23:56.608Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Top 10 Sony LUT for Different Purposes
 excerpt: This Article Describes New Top 10 Sony LUT for Different Purposes
 keywords: ai animation ai animation top 10 sony lut for different purposes,top luts for sony hlg to download,top 10 sony lut for different purposes,10 best sony lut for different purposes,top luts for sony hlg,ai animation 10 best sony lut for different purposes,ai animation top 10 sony lut for different purposes
-thumbnail: https://www.lifewire.com/thmb/uayRyPYo9UvTUkcunakDixhwqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Robothandholdinganapple-fbe6ff482ed641e188dd6650b9ac132e.jpg
+thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e1719fd0426ca459ec8dc06e9a5.jpg
 ---
 
 ## Top 10 Sony LUT for Different Purposes
@@ -651,61 +651,47 @@ You don't have to worry, as there are many apps that can apply your favorite eff
 * [6 - Glitch Video Effect - Live VHS \[iOS\]](#6)
 * [7 - VHS Video Editor, Vintage Cam \[iOS\]](#7)
 
-### 1\. Camcorder - Record VHS Home Videos \[[iOS](https://apps.apple.com/us/app/camcorder-record-vhs-home-videos/id1036066107)\]
+### 1\. Camcorder - Record VHS Home Videos \ [iOS
 
 Camcorder – Record VHS Home Videos is a camcorder video maker app, as its name suggests. You can upload your video and give it the old 80s feel. It gives your videos the authentic camcorder feel by adding the date and other details in your video. The good part about this app is that it is free for a while, which means there are no annoying ads. You can apply your favorite **VHS camera effects** to your videos ad-free.
 
-**Compatibility:** iOS 7.0 and newer
+**Compatibility:** iOS 7.0 and newer ![camcorder record vhs home videos](https://images.wondershare.com/filmora/article-images/2023/camcorder-record-vhs-home-videos.jpg)
 
-![camcorder record vhs home videos](https://images.wondershare.com/filmora/article-images/2023/camcorder-record-vhs-home-videos.jpg)
-
-### 2\. True VHS - 90s Vintage Camera \[[iOS](https://apps.apple.com/us/app/true-vhs-90s-vintage-camera/id1542458343)\]
+### 2\. True VHS - 90s Vintage Camera \ [iOS
 
 True VHS is an application to give your videos the early 90s look. It is a vintage camera app replicating the old footage and creating a similar ambiance. This app adds distortion and RGB effects to your videos. Moreover, it adds PLAY SP to give more authenticity to your video clips. True VHS also offers different effects and aspect ratios that you can choose for your edits.
 
-**Compatibility:** iOS 11.0 and newer
+**Compatibility:** iOS 11.0 and newer ![true vhs 90s vintage camera](https://images.wondershare.com/filmora/article-images/2023/true-vhs-90s-vintage-camera.jpg)
 
-![true vhs 90s vintage camera](https://images.wondershare.com/filmora/article-images/2023/true-vhs-90s-vintage-camera.jpg)
-
-### 3\. Vaporgram Glitch Photo Editor \[[Android](https://play.google.com/store/apps/details?id=maa.vaporwave%5Feditor%5Fglitch%5Fvhs%5Ftrippy&hl=en)\]
+### 3\. Vaporgram Glitch Photo Editor \ [Android
 
 Another amazing tool that gives you the original feel of VHS footage is Vaporgram. This Android app adds glitch effects and RGB to your media files. To create a more original VHS look of your video, this tool also adds scanlines and distorted 3D effects. It is a fun app with multiple textures and filters to add to your media. This app will surely take you back to the 20th century.
 
-**Compatibility:** Android 5.0 and newer
+**Compatibility:** Android 5.0 and newer ![vaporgram glitch photo editor](https://images.wondershare.com/filmora/article-images/2023/vaporgram-glitch-photo-editor.jpg)
 
-![vaporgram glitch photo editor](https://images.wondershare.com/filmora/article-images/2023/vaporgram-glitch-photo-editor.jpg)
-
-### 4\. Film Cam -Vintage Roll Camera \[[Android](https://play.google.com/store/apps/details?id=com.lm.rolls.gp)\]
+### 4\. Film Cam -Vintage Roll Camera \ [Android
 
 Do you want to give your videos the old vintage camera film look? Film Cam gives your videos a retro Kodak or Fujifilm look, making it a unique feature of this application. Editing your videos using this app will give your clips the exact feel of an old film look. People will surely be surprised when they know edited videos are not captured using a Kodak camera.
 
-**Compatibility:** Android 6.0 and newer
+**Compatibility:** Android 6.0 and newer ![film cam vintage roll camera](https://images.wondershare.com/filmora/article-images/2023/film-cam-vintage-roll-camera.jpg)
 
-![film cam vintage roll camera](https://images.wondershare.com/filmora/article-images/2023/film-cam-vintage-roll-camera.jpg)
-
-### 5\. Rarevision VHS Lite - 80s Cam \[[Android](https://play.google.com/store/apps/details?id=com.rarevision.vhscamlite&hl=en&gl=US) | [iOS](https://apps.apple.com/us/app/vhs-cam-retro-80s-camcorder/id1087259990)\]
+### 5\. Rarevision VHS Lite - 80s Cam \ [Android
 
 If you wish to hold a camcorder and record a video, thinking it's the 80s, you're in luck. This app is for you, as Rarevision offers you the same thing you want. It will let you imagine you are in the last quarter of the 20th century. Your videos look jittery, with glitches and lines in them. Furthermore, the colors of your videos will be distorted with decreased saturation.
 
-**Compatibility:** Android 5.0 and newer, iOS 9.0 and newer
+**Compatibility:** Android 5.0 and newer, iOS 9.0 and newer ![rarevision vhs lite 80s cam](https://images.wondershare.com/filmora/article-images/2023/rarevision-vhs-lite-80s-cam.jpg)
 
-![rarevision vhs lite 80s cam](https://images.wondershare.com/filmora/article-images/2023/rarevision-vhs-lite-80s-cam.jpg)
-
-### 6\. Glitch Video Effect - Live VHS \[[iOS](https://apps.apple.com/us/app/glitch-video-effect-live-vhs/id1466027150)\]
+### 6\. Glitch Video Effect - Live VHS \ [iOS
 
 You are in the right place because this is an amazing **VHS camera overlay** editor. Glitch Video Effect is an app available on iOS that creates a perfect retro look. This app is loaded with over 100 VHS overlays and glitch effects that you can apply to your videos. It has everything from distortion, noise, and faded colors to create a perfect VHS look. Take back your videos to the old school and create a vintage feel.
 
-**Compatibility:** iOS 12.0 and newer
+**Compatibility:** iOS 12.0 and newer ![glitch video effect live vhs](https://images.wondershare.com/filmora/article-images/2023/glitch-video-effect-live-vhs.jpg)
 
-![glitch video effect live vhs](https://images.wondershare.com/filmora/article-images/2023/glitch-video-effect-live-vhs.jpg)
-
-### 7\. VHS Video Editor, Vintage Cam \[[iOS](https://apps.apple.com/us/app/vhs-video-editor-vintage-cam/id1491381915)\]
+### 7\. VHS Video Editor, Vintage Cam \ [iOS
 
 Don't confuse yourself with retro, 90s, VHS, and vintage looks. All these looks are different from each other, and this iOS app has it all. From light leaks to the original VHS look, you can add any effect to your video. With over 100 effects and overlay options, VHS Video Editor has much to offer. Your videos will look dusty, with grains and increased noise, creating an old vintage look.
 
-**Compatibility:** iOS 13.0 and newer
-
-![vhs video editor vintage cam](https://images.wondershare.com/filmora/article-images/2023/vhs-video-editor-vintage-cam.jpg)
+**Compatibility:** iOS 13.0 and newer ![vhs video editor vintage cam](https://images.wondershare.com/filmora/article-images/2023/vhs-video-editor-vintage-cam.jpg)
 
 ## Part 3: Introducing Wondershare Filmora: An Explicit Solution To Easy VHS Camera Filters
 
@@ -753,57 +739,43 @@ In conclusion, the internet offers many video effects that can enhance the look 
 
 Camcorder – Record VHS Home Videos is a camcorder video maker app, as its name suggests. You can upload your video and give it the old 80s feel. It gives your videos the authentic camcorder feel by adding the date and other details in your video. The good part about this app is that it is free for a while, which means there are no annoying ads. You can apply your favorite **VHS camera effects** to your videos ad-free.
 
-**Compatibility:** iOS 7.0 and newer
+**Compatibility:** iOS 7.0 and newer ![camcorder record vhs home videos](https://images.wondershare.com/filmora/article-images/2023/camcorder-record-vhs-home-videos.jpg)
 
-![camcorder record vhs home videos](https://images.wondershare.com/filmora/article-images/2023/camcorder-record-vhs-home-videos.jpg)
-
-### 2\. True VHS - 90s Vintage Camera \[[iOS](https://apps.apple.com/us/app/true-vhs-90s-vintage-camera/id1542458343)\]
+### 2\. True VHS - 90s Vintage Camera \ [iOS
 
 True VHS is an application to give your videos the early 90s look. It is a vintage camera app replicating the old footage and creating a similar ambiance. This app adds distortion and RGB effects to your videos. Moreover, it adds PLAY SP to give more authenticity to your video clips. True VHS also offers different effects and aspect ratios that you can choose for your edits.
 
-**Compatibility:** iOS 11.0 and newer
+**Compatibility:** iOS 11.0 and newer ![true vhs 90s vintage camera](https://images.wondershare.com/filmora/article-images/2023/true-vhs-90s-vintage-camera.jpg)
 
-![true vhs 90s vintage camera](https://images.wondershare.com/filmora/article-images/2023/true-vhs-90s-vintage-camera.jpg)
-
-### 3\. Vaporgram Glitch Photo Editor \[[Android](https://play.google.com/store/apps/details?id=maa.vaporwave%5Feditor%5Fglitch%5Fvhs%5Ftrippy&hl=en)\]
+### 3\. Vaporgram Glitch Photo Editor \ [Android
 
 Another amazing tool that gives you the original feel of VHS footage is Vaporgram. This Android app adds glitch effects and RGB to your media files. To create a more original VHS look of your video, this tool also adds scanlines and distorted 3D effects. It is a fun app with multiple textures and filters to add to your media. This app will surely take you back to the 20th century.
 
-**Compatibility:** Android 5.0 and newer
+**Compatibility:** Android 5.0 and newer ![vaporgram glitch photo editor](https://images.wondershare.com/filmora/article-images/2023/vaporgram-glitch-photo-editor.jpg)
 
-![vaporgram glitch photo editor](https://images.wondershare.com/filmora/article-images/2023/vaporgram-glitch-photo-editor.jpg)
-
-### 4\. Film Cam -Vintage Roll Camera \[[Android](https://play.google.com/store/apps/details?id=com.lm.rolls.gp)\]
+### 4\. Film Cam -Vintage Roll Camera \ [Android
 
 Do you want to give your videos the old vintage camera film look? Film Cam gives your videos a retro Kodak or Fujifilm look, making it a unique feature of this application. Editing your videos using this app will give your clips the exact feel of an old film look. People will surely be surprised when they know edited videos are not captured using a Kodak camera.
 
-**Compatibility:** Android 6.0 and newer
+**Compatibility:** Android 6.0 and newer ![film cam vintage roll camera](https://images.wondershare.com/filmora/article-images/2023/film-cam-vintage-roll-camera.jpg)
 
-![film cam vintage roll camera](https://images.wondershare.com/filmora/article-images/2023/film-cam-vintage-roll-camera.jpg)
-
-### 5\. Rarevision VHS Lite - 80s Cam \[[Android](https://play.google.com/store/apps/details?id=com.rarevision.vhscamlite&hl=en&gl=US) | [iOS](https://apps.apple.com/us/app/vhs-cam-retro-80s-camcorder/id1087259990)\]
+### 5\. Rarevision VHS Lite - 80s Cam \ [Android
 
 If you wish to hold a camcorder and record a video, thinking it's the 80s, you're in luck. This app is for you, as Rarevision offers you the same thing you want. It will let you imagine you are in the last quarter of the 20th century. Your videos look jittery, with glitches and lines in them. Furthermore, the colors of your videos will be distorted with decreased saturation.
 
-**Compatibility:** Android 5.0 and newer, iOS 9.0 and newer
+**Compatibility:** Android 5.0 and newer, iOS 9.0 and newer ![rarevision vhs lite 80s cam](https://images.wondershare.com/filmora/article-images/2023/rarevision-vhs-lite-80s-cam.jpg)
 
-![rarevision vhs lite 80s cam](https://images.wondershare.com/filmora/article-images/2023/rarevision-vhs-lite-80s-cam.jpg)
-
-### 6\. Glitch Video Effect - Live VHS \[[iOS](https://apps.apple.com/us/app/glitch-video-effect-live-vhs/id1466027150)\]
+### 6\. Glitch Video Effect - Live VHS \ [iOS
 
 You are in the right place because this is an amazing **VHS camera overlay** editor. Glitch Video Effect is an app available on iOS that creates a perfect retro look. This app is loaded with over 100 VHS overlays and glitch effects that you can apply to your videos. It has everything from distortion, noise, and faded colors to create a perfect VHS look. Take back your videos to the old school and create a vintage feel.
 
-**Compatibility:** iOS 12.0 and newer
+**Compatibility:** iOS 12.0 and newer ![glitch video effect live vhs](https://images.wondershare.com/filmora/article-images/2023/glitch-video-effect-live-vhs.jpg)
 
-![glitch video effect live vhs](https://images.wondershare.com/filmora/article-images/2023/glitch-video-effect-live-vhs.jpg)
-
-### 7\. VHS Video Editor, Vintage Cam \[[iOS](https://apps.apple.com/us/app/vhs-video-editor-vintage-cam/id1491381915)\]
+### 7\. VHS Video Editor, Vintage Cam \ [iOS
 
 Don't confuse yourself with retro, 90s, VHS, and vintage looks. All these looks are different from each other, and this iOS app has it all. From light leaks to the original VHS look, you can add any effect to your video. With over 100 effects and overlay options, VHS Video Editor has much to offer. Your videos will look dusty, with grains and increased noise, creating an old vintage look.
 
-**Compatibility:** iOS 13.0 and newer
-
-![vhs video editor vintage cam](https://images.wondershare.com/filmora/article-images/2023/vhs-video-editor-vintage-cam.jpg)
+**Compatibility:** iOS 13.0 and newer ![vhs video editor vintage cam](https://images.wondershare.com/filmora/article-images/2023/vhs-video-editor-vintage-cam.jpg)
 
 ## Part 3: Introducing Wondershare Filmora: An Explicit Solution To Easy VHS Camera Filters
 

@@ -1,7 +1,7 @@
 ---
 title: New How to Create Vintage Film Effect 1950S for 2024
-date: 2024-04-24T07:08:44.004Z
-updated: 2024-04-25T07:08:44.004Z
+date: 2024-06-26T06:24:09.003Z
+updated: 2024-06-27T06:24:09.003Z
 tags: 
   - ai
   - animation videos
@@ -10,34 +10,28 @@ categories:
 description: This Article Describes New How to Create Vintage Film Effect 1950S for 2024
 excerpt: This Article Describes New How to Create Vintage Film Effect 1950S for 2024
 keywords: vintage film effect 1980s how to create,how to create vintage film effect 1920s,how to create vintage film effect 1950s,ai animation how to create vintage film effect 1920s,how to make vintage film effect 1950s,how to create vintage film effect 1990s,ai animation how to create vintage film effect 1950s
-thumbnail: https://www.lifewire.com/thmb/qiktAkdIlSu9VsdFjM1R46-msZU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/editing-5c8a53d446e0fb0001336621.png
+thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281721c2dd1a2340c4240b4f62.png
 ---
 
 ## How to Create Vintage Film Effect 1950S
 
 So, what's the difference between a vintage film shot in the 1920s and 1950s? It's simple; in the 1950s, video-making technologies were slightly advanced, although films were more about rock and roll and poodle skirts. So, without further dilly-dallying, let's learn how to create a retro 1950-style video with this simple Filmora tutorial.
 
-## Preparation
-
-![1950 vintage scene](https://images.wondershare.com/filmora/article-images/2023/01/1950-vintage-scene.gif)
+## Preparation ![1950 vintage scene](https://images.wondershare.com/filmora/article-images/2023/01/1950-vintage-scene.gif)
 
 Shooting a video to teleport yourself to the 1950s doesn't need to be complicated. You simply need to look the part in the video. For example, you can wear velvet-collar jackets, stovepipe trousers, carefully combed back hair, and other trendy styles in the 50s. It's even better if you can find those vintage chairs in your grandparent's collection.
 
 How to create a 1950s vintage film:
 
-##### Step 1 Add your video on [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Step 1 Add your video on Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
 
 First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
 
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+##### Step 2 Apply a cropping effect to the video ![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
 
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
@@ -45,31 +39,21 @@ Once the video is successfully added to Filmora, click the **Effect** tab on the
 
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
 
-##### Step 3 Add a Warm Film color effect
-
-![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+##### Step 3 Add a Warm Film color effect ![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
 
 Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
 
-##### Step 4 Apply more graininess to the film
-
-![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+##### Step 4 Apply more graininess to the film ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
 ## Summary
 
-And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
+And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
 
 First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
 
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+##### Step 2 Apply a cropping effect to the video ![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
 
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
@@ -77,31 +61,21 @@ Once the video is successfully added to Filmora, click the **Effect** tab on the
 
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
 
-##### Step 3 Add a Warm Film color effect
-
-![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+##### Step 3 Add a Warm Film color effect ![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
 
 Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
 
-##### Step 4 Apply more graininess to the film
-
-![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+##### Step 4 Apply more graininess to the film ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
 ## Summary
 
-And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
+And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
 
 First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
 
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+##### Step 2 Apply a cropping effect to the video ![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
 
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
@@ -109,31 +83,21 @@ Once the video is successfully added to Filmora, click the **Effect** tab on the
 
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
 
-##### Step 3 Add a Warm Film color effect
-
-![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+##### Step 3 Add a Warm Film color effect ![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
 
 Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
 
-##### Step 4 Apply more graininess to the film
-
-![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+##### Step 4 Apply more graininess to the film ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
 ## Summary
 
-And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
+And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
 
 First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
 
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+##### Step 2 Apply a cropping effect to the video ![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
 
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
@@ -141,15 +105,11 @@ Once the video is successfully added to Filmora, click the **Effect** tab on the
 
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
 
-##### Step 3 Add a Warm Film color effect
-
-![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+##### Step 3 Add a Warm Film color effect ![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
 
 Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
 
-##### Step 4 Apply more graininess to the film
-
-![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+##### Step 4 Apply more graininess to the film ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
@@ -234,13 +194,13 @@ LUTs are an amazing tool in video editing to improve the color scheme of your vi
 
 Does the work of Danny Gevirtz inspire you? Here are some of the most popular Danny Gevirtz-style LUTs you can use for your content.
 
-### 1\. [Creative Filmmaking LUTs](https://danny-gevirtz.sellfy.store/p/creative-filmmaking-luts/)
+### 1\. Creative Filmmaking LUTs
 
 The creative Filmmaking LUT pack consists of 7 unique LUTs designed to enhance your videos. Each LUT offers a unique look, from vintage vibes to the iconic Nolan Blue. Inspired by Christopher Nolan's film "Dunkirk," the Nolan Blue LUT gives you a similar color grading. Moreover, you can achieve the perfect sunset color grading with the Warm Nostalgia LUT. There are so many more to explore in this pack that you can use.
 
 ![creative filmmaking luts](https://images.wondershare.com/filmora/article-images/2023/creative-filmmaking-luts.jpg)
 
-### 2\. [Sellfy Danny Gevirtz Filmmaker LUT Pack](https://vfxdownload.net/danny-gevirtz-filmmaker-lut-pack/)
+### 2\. Sellfy Danny Gevirtz Filmmaker LUT Pack
 
 Danny Gevirtz's color grading inspires this LUT pack. It provides a collection of 8 unique LUTs designed to give your content a different look. Furthermore, this LUT pack has LUTs from moody and cinematic to basic skin tone LUTs. This pack's Teal and Orange LUT are designed to enhance skin tones in a video or photo. Moreover, this pack also offers LUT for outdoor scenery and nature footage.
 
@@ -284,13 +244,13 @@ LUTs are an amazing tool in video editing to improve the color scheme of your vi
 
 Does the work of Danny Gevirtz inspire you? Here are some of the most popular Danny Gevirtz-style LUTs you can use for your content.
 
-### 1\. [Creative Filmmaking LUTs](https://danny-gevirtz.sellfy.store/p/creative-filmmaking-luts/)
+### 1\. Creative Filmmaking LUTs
 
 The creative Filmmaking LUT pack consists of 7 unique LUTs designed to enhance your videos. Each LUT offers a unique look, from vintage vibes to the iconic Nolan Blue. Inspired by Christopher Nolan's film "Dunkirk," the Nolan Blue LUT gives you a similar color grading. Moreover, you can achieve the perfect sunset color grading with the Warm Nostalgia LUT. There are so many more to explore in this pack that you can use.
 
 ![creative filmmaking luts](https://images.wondershare.com/filmora/article-images/2023/creative-filmmaking-luts.jpg)
 
-### 2\. [Sellfy Danny Gevirtz Filmmaker LUT Pack](https://vfxdownload.net/danny-gevirtz-filmmaker-lut-pack/)
+### 2\. Sellfy Danny Gevirtz Filmmaker LUT Pack
 
 Danny Gevirtz's color grading inspires this LUT pack. It provides a collection of 8 unique LUTs designed to give your content a different look. Furthermore, this LUT pack has LUTs from moody and cinematic to basic skin tone LUTs. This pack's Teal and Orange LUT are designed to enhance skin tones in a video or photo. Moreover, this pack also offers LUT for outdoor scenery and nature footage.
 
@@ -460,7 +420,7 @@ Begin the process by launching Wondershare Filmora. For starters, let us work on
 
 Select any music and drag and drop it to the timeline. Now, trim the music into 15 seconds long. Now, input the travel videos to start their editing. Set the order for the video afterward.
 
-![ pick the music](<https://images.wondershare.com/filmora/article-images/2022/vhs-and> glitch-filter-16.jpg)
+![pick the music](<https://images.wondershare.com/filmora/article-images/2022/vhs-and> glitch-filter-16.jpg)
 
 ### Step 3: Choosing the Overlays
 
@@ -632,7 +592,7 @@ Begin the process by launching Wondershare Filmora. For starters, let us work on
 
 Select any music and drag and drop it to the timeline. Now, trim the music into 15 seconds long. Now, input the travel videos to start their editing. Set the order for the video afterward.
 
-![ pick the music](<https://images.wondershare.com/filmora/article-images/2022/vhs-and> glitch-filter-16.jpg)
+![pick the music](<https://images.wondershare.com/filmora/article-images/2022/vhs-and> glitch-filter-16.jpg)
 
 ### Step 3: Choosing the Overlays
 
@@ -804,7 +764,7 @@ Begin the process by launching Wondershare Filmora. For starters, let us work on
 
 Select any music and drag and drop it to the timeline. Now, trim the music into 15 seconds long. Now, input the travel videos to start their editing. Set the order for the video afterward.
 
-![ pick the music](<https://images.wondershare.com/filmora/article-images/2022/vhs-and> glitch-filter-16.jpg)
+![pick the music](<https://images.wondershare.com/filmora/article-images/2022/vhs-and> glitch-filter-16.jpg)
 
 ### Step 3: Choosing the Overlays
 
@@ -976,7 +936,7 @@ Begin the process by launching Wondershare Filmora. For starters, let us work on
 
 Select any music and drag and drop it to the timeline. Now, trim the music into 15 seconds long. Now, input the travel videos to start their editing. Set the order for the video afterward.
 
-![ pick the music](<https://images.wondershare.com/filmora/article-images/2022/vhs-and> glitch-filter-16.jpg)
+![pick the music](<https://images.wondershare.com/filmora/article-images/2022/vhs-and> glitch-filter-16.jpg)
 
 ### Step 3: Choosing the Overlays
 
@@ -1034,9 +994,7 @@ Next, choose 'Edit' from the drop-down menu, and then set the level of DeReverb 
 
 The processing emphasis should be around the flat line unless you know the frequencies you are working with. Additionally, ensure you activate the effect by clicking the button in the upper left corner of the effect window.
 
-_It is vital to bear in mind that less is more when it comes to this effect since it does have a somewhat negative impact on the quality of the audio you have captured._
-
-![edit dereverb tab](https://images.wondershare.com/filmora/article-images/2022/12/remove-echo-premiere-pro-3.jpg)
+_It is vital to bear in mind that less is more when it comes to this effect since it does have a somewhat negative impact on the quality of the audio you have captured._ ![edit dereverb tab](https://images.wondershare.com/filmora/article-images/2022/12/remove-echo-premiere-pro-3.jpg)
 
 **Further Dialing in Your Settings**
 

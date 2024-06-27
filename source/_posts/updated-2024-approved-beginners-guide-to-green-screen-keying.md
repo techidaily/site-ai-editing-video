@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Beginners Guide to Green Screen Keying
-date: 2024-04-24T07:08:32.498Z
-updated: 2024-04-25T07:08:32.498Z
+date: 2024-06-26T06:23:59.005Z
+updated: 2024-06-27T06:23:59.005Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Beginners Guide to Green Screen Keying
 excerpt: This Article Describes Updated 2024 Approved Beginners Guide to Green Screen Keying
 keywords: obs green screen guide,ai animation ai animation beginners guide to green screen keying,beginners guide to green screen keying,ai animation beginners guide to green screen keying,steps to create green screen videos in after effects,ai animation obs green screen guide,create risograph effect in photoshop a beginners guide
-thumbnail: https://www.lifewire.com/thmb/AN-vaCH0aY3tX6ZltU1G0m3Htm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/watch-free-movies-online-1356647-32f79b8cc3ed484ca1f9f898f503e416.png
+thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faab0414036ff801745dc15189.png
 ---
 
 ## Beginners Guide to Green Screen Keying
@@ -51,15 +51,11 @@ Adobe After Effects green screen keying tool is arguably one of the top favorite
 
 Follow these steps to do green screen keying using Adobe After Effects.
 
-### 1\. Upload your footage to Adobe After Effects
-
-![upload footage to adobe](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-2.jpg)
+### 1\. Upload your footage to Adobe After Effects ![upload footage to adobe](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-2.jpg)
 
 Launch the program from your macOS or Windows device, and click on the **New Composition From Footage** option. A pop-up window with your file locations will appear and click on the footage you want to import. Ensure the footage you use is shot using a green screen background to achieve the best results.
 
-### 2\. Using the green screen key presets
-
-![using the green screen key presets](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-3.jpg)
+### 2\. Using the green screen key presets ![using the green screen key presets](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-3.jpg)
 
 Once the footage is imported, click on the **Window** menu option on your workspace, and click on **Effects & Presets** from the sub-menu. Once the panel opens, tap **Animation Presets** and highlight the **Keylight + Key Cleaner + Advanced Spill Suppressor** preset from the **Image-Utilities** menu.
 
@@ -91,15 +87,11 @@ Filmora is another popular video editing software that features a green screen e
 
 In addition, the tool is available as a free trial for Windows and macOS devices. However, you will only find it on Filmora version 9 and above. Here is a step-by-step guide on green screen keying using Chroma Key on Filmora.
 
-### 1\. Upload your footage to [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![upload your footage to filmora](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-4.jpg)
+### 1\. Upload your footage to Filmora ![upload your footage to filmora](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-4.jpg)
 
 Launch the program on your device and click on the **New Project** option. A window will open where you can **Import** your green screen footage and the desired background. Once done, you will **Drag and Drop** the clips to your project's first and second tracks in the timeline.
 
-### 2\. Adjust your green screen settings
-
-![adjust your green screen settings](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-5.jpg)
+### 2\. Adjust your green screen settings ![adjust your green screen settings](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-5.jpg)
 
 Then, double-click your green screen footage to open the **Edit Panel**. Select the Video Tab and check the **Chroma Key** box to enable the effect. Once done, you can use the following tools to edit your footage:
 
@@ -139,13 +131,13 @@ No. There is no difference between chroma keying and green screening. Both proce
 
 Yes. It is possible to create a green screen video without a green background. Several apps, including Zoom and Tik Tok, have in-built digital green screens, which you can use to customize your creations. However, you need to have a capable device to access the function.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 </article
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,9 +169,7 @@ The revolutionary cooking video intros and promising outro for the channels are 
 
 Are you a chef in a restaurant in Paris? Do you need to create a café meal intro that grabs the attention of all food fanatics worldwide? Worry no more, as this section has got you covered.
 
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a one of its kind software to create an astonishing café meal intro in seconds. Let us initiate the step-by-step!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a one of its kind software to create an astonishing café meal intro in seconds. Let us initiate the step-by-step ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -215,9 +205,7 @@ Step 6: Use the big titles for the beginning of the video and drag them to the s
 
 Are you an impeccable chef? Do you own a YouTube channel with limited subscribers?
 
-The background music for cooking videos is essential to capture the attention of food addicts in the world. Your cooking channel's stunning YouTube end screen is your perfect shot at improving subscribers' range. The subsection shall reflect upon the procedure to effortlessly use Wondershare Filmora. So, let us have a look!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+The background music for cooking videos is essential to capture the attention of food addicts in the world. Your cooking channel's stunning YouTube end screen is your perfect shot at improving subscribers' range. The subsection shall reflect upon the procedure to effortlessly use Wondershare Filmora. So, let us have a look ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -257,19 +245,19 @@ Step 7: It is time to add another image to the fourth track and perform the same
 
 The background music for cooking videos is an important part of a cooking video intro and outro. Therefore, we can introduce three sites that offer great cooking background music free of copyright infringement issues. So, are you with us? Let us start!
 
-### [Envato Elements](https://elements.envato.com/audio/royalty-free-music/cooking)
+### Envato Elements
 
 The first one of the lot is Envato Elements. There are different genres of music linked with cooking videos. The website filters can be tailored according to the theme of one's cooking YouTube channel. Additionally, there are cooking moods music as well.
 
 ![envato elements cooking music](https://images.wondershare.com/filmora/article-images/2022/cooking-video-intro-and-end-screen-14.jpg)
 
-### [MobCup](https://mobcup.net/browse/ringtones/mp3/0/downloads/cooking-background-music)
+### MobCup
 
 MobCup has made it easy to browse the related cooking background music. The cooking music soup, monster hunt, cooking instrumental, and cooking effects are famous music options. The user can download them by hitting the "Download" button effortlessly.
 
 ![mobcup music](https://images.wondershare.com/filmora/article-images/2022/cooking-video-intro-and-end-screen-15.jpg)
 
-### [SoundCloud](https://soundcloud.com/search?q=cooking%20background)
+### SoundCloud
 
 SoundCloud is another remarkable source for cooking videos to get hands-on background music. The royalty-free music for food, cooking music, and uplifting background music can be incorporated in the videos to give an essence of the cooking tutorials. The link can be copied, and the track can be downloaded in seconds.
 
@@ -283,9 +271,7 @@ The article discussed creating a café meal intro and cooking channel YouTube en
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -297,9 +283,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 Are you a chef in a restaurant in Paris? Do you need to create a café meal intro that grabs the attention of all food fanatics worldwide? Worry no more, as this section has got you covered.
 
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a one of its kind software to create an astonishing café meal intro in seconds. Let us initiate the step-by-step!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a one of its kind software to create an astonishing café meal intro in seconds. Let us initiate the step-by-step ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -335,9 +319,7 @@ Step 6: Use the big titles for the beginning of the video and drag them to the s
 
 Are you an impeccable chef? Do you own a YouTube channel with limited subscribers?
 
-The background music for cooking videos is essential to capture the attention of food addicts in the world. Your cooking channel's stunning YouTube end screen is your perfect shot at improving subscribers' range. The subsection shall reflect upon the procedure to effortlessly use Wondershare Filmora. So, let us have a look!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+The background music for cooking videos is essential to capture the attention of food addicts in the world. Your cooking channel's stunning YouTube end screen is your perfect shot at improving subscribers' range. The subsection shall reflect upon the procedure to effortlessly use Wondershare Filmora. So, let us have a look ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -377,19 +359,19 @@ Step 7: It is time to add another image to the fourth track and perform the same
 
 The background music for cooking videos is an important part of a cooking video intro and outro. Therefore, we can introduce three sites that offer great cooking background music free of copyright infringement issues. So, are you with us? Let us start!
 
-### [Envato Elements](https://elements.envato.com/audio/royalty-free-music/cooking)
+### Envato Elements
 
 The first one of the lot is Envato Elements. There are different genres of music linked with cooking videos. The website filters can be tailored according to the theme of one's cooking YouTube channel. Additionally, there are cooking moods music as well.
 
 ![envato elements cooking music](https://images.wondershare.com/filmora/article-images/2022/cooking-video-intro-and-end-screen-14.jpg)
 
-### [MobCup](https://mobcup.net/browse/ringtones/mp3/0/downloads/cooking-background-music)
+### MobCup
 
 MobCup has made it easy to browse the related cooking background music. The cooking music soup, monster hunt, cooking instrumental, and cooking effects are famous music options. The user can download them by hitting the "Download" button effortlessly.
 
 ![mobcup music](https://images.wondershare.com/filmora/article-images/2022/cooking-video-intro-and-end-screen-15.jpg)
 
-### [SoundCloud](https://soundcloud.com/search?q=cooking%20background)
+### SoundCloud
 
 SoundCloud is another remarkable source for cooking videos to get hands-on background music. The royalty-free music for food, cooking music, and uplifting background music can be incorporated in the videos to give an essence of the cooking tutorials. The link can be copied, and the track can be downloaded in seconds.
 
@@ -403,9 +385,7 @@ The article discussed creating a café meal intro and cooking channel YouTube en
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -417,9 +397,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 Are you a chef in a restaurant in Paris? Do you need to create a café meal intro that grabs the attention of all food fanatics worldwide? Worry no more, as this section has got you covered.
 
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a one of its kind software to create an astonishing café meal intro in seconds. Let us initiate the step-by-step!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a one of its kind software to create an astonishing café meal intro in seconds. Let us initiate the step-by-step ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -455,9 +433,7 @@ Step 6: Use the big titles for the beginning of the video and drag them to the s
 
 Are you an impeccable chef? Do you own a YouTube channel with limited subscribers?
 
-The background music for cooking videos is essential to capture the attention of food addicts in the world. Your cooking channel's stunning YouTube end screen is your perfect shot at improving subscribers' range. The subsection shall reflect upon the procedure to effortlessly use Wondershare Filmora. So, let us have a look!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+The background music for cooking videos is essential to capture the attention of food addicts in the world. Your cooking channel's stunning YouTube end screen is your perfect shot at improving subscribers' range. The subsection shall reflect upon the procedure to effortlessly use Wondershare Filmora. So, let us have a look ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -497,19 +473,19 @@ Step 7: It is time to add another image to the fourth track and perform the same
 
 The background music for cooking videos is an important part of a cooking video intro and outro. Therefore, we can introduce three sites that offer great cooking background music free of copyright infringement issues. So, are you with us? Let us start!
 
-### [Envato Elements](https://elements.envato.com/audio/royalty-free-music/cooking)
+### Envato Elements
 
 The first one of the lot is Envato Elements. There are different genres of music linked with cooking videos. The website filters can be tailored according to the theme of one's cooking YouTube channel. Additionally, there are cooking moods music as well.
 
 ![envato elements cooking music](https://images.wondershare.com/filmora/article-images/2022/cooking-video-intro-and-end-screen-14.jpg)
 
-### [MobCup](https://mobcup.net/browse/ringtones/mp3/0/downloads/cooking-background-music)
+### MobCup
 
 MobCup has made it easy to browse the related cooking background music. The cooking music soup, monster hunt, cooking instrumental, and cooking effects are famous music options. The user can download them by hitting the "Download" button effortlessly.
 
 ![mobcup music](https://images.wondershare.com/filmora/article-images/2022/cooking-video-intro-and-end-screen-15.jpg)
 
-### [SoundCloud](https://soundcloud.com/search?q=cooking%20background)
+### SoundCloud
 
 SoundCloud is another remarkable source for cooking videos to get hands-on background music. The royalty-free music for food, cooking music, and uplifting background music can be incorporated in the videos to give an essence of the cooking tutorials. The link can be copied, and the track can be downloaded in seconds.
 
@@ -523,9 +499,7 @@ The article discussed creating a café meal intro and cooking channel YouTube en
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -537,9 +511,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 Are you a chef in a restaurant in Paris? Do you need to create a café meal intro that grabs the attention of all food fanatics worldwide? Worry no more, as this section has got you covered.
 
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a one of its kind software to create an astonishing café meal intro in seconds. Let us initiate the step-by-step!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a one of its kind software to create an astonishing café meal intro in seconds. Let us initiate the step-by-step ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -575,9 +547,7 @@ Step 6: Use the big titles for the beginning of the video and drag them to the s
 
 Are you an impeccable chef? Do you own a YouTube channel with limited subscribers?
 
-The background music for cooking videos is essential to capture the attention of food addicts in the world. Your cooking channel's stunning YouTube end screen is your perfect shot at improving subscribers' range. The subsection shall reflect upon the procedure to effortlessly use Wondershare Filmora. So, let us have a look!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+The background music for cooking videos is essential to capture the attention of food addicts in the world. Your cooking channel's stunning YouTube end screen is your perfect shot at improving subscribers' range. The subsection shall reflect upon the procedure to effortlessly use Wondershare Filmora. So, let us have a look ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -617,19 +587,19 @@ Step 7: It is time to add another image to the fourth track and perform the same
 
 The background music for cooking videos is an important part of a cooking video intro and outro. Therefore, we can introduce three sites that offer great cooking background music free of copyright infringement issues. So, are you with us? Let us start!
 
-### [Envato Elements](https://elements.envato.com/audio/royalty-free-music/cooking)
+### Envato Elements
 
 The first one of the lot is Envato Elements. There are different genres of music linked with cooking videos. The website filters can be tailored according to the theme of one's cooking YouTube channel. Additionally, there are cooking moods music as well.
 
 ![envato elements cooking music](https://images.wondershare.com/filmora/article-images/2022/cooking-video-intro-and-end-screen-14.jpg)
 
-### [MobCup](https://mobcup.net/browse/ringtones/mp3/0/downloads/cooking-background-music)
+### MobCup
 
 MobCup has made it easy to browse the related cooking background music. The cooking music soup, monster hunt, cooking instrumental, and cooking effects are famous music options. The user can download them by hitting the "Download" button effortlessly.
 
 ![mobcup music](https://images.wondershare.com/filmora/article-images/2022/cooking-video-intro-and-end-screen-15.jpg)
 
-### [SoundCloud](https://soundcloud.com/search?q=cooking%20background)
+### SoundCloud
 
 SoundCloud is another remarkable source for cooking videos to get hands-on background music. The royalty-free music for food, cooking music, and uplifting background music can be incorporated in the videos to give an essence of the cooking tutorials. The link can be copied, and the track can be downloaded in seconds.
 
@@ -643,9 +613,7 @@ The article discussed creating a café meal intro and cooking channel YouTube en
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -718,7 +686,7 @@ Now you can see the subject has been selected and the background has been remove
 
 I have dragged my image to the left as I want my text to the right side.
 
-* Let’s drag the desired **background** into the timeline. ( I got this background from Pexel.com)
+* Let’s drag the desired **background** into the timeline. (I got this background from Pexel.com)
 
 ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-7.jpg)
 
@@ -738,9 +706,7 @@ Let’s choose your desired **Title** from the **Library**. Here are tons of tit
 
 * Select the **Titles** option under the **Titles** tab then select your desired Title.
 * Drag and locate the title in the place of your taste and then write the text you want.
-* Adjust your text accordingly, you can change the **font size, color, style,** and much more
-
-![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-10.jpg)
+* Adjust your text accordingly, you can change the **font size, color, style,** and much more ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-10.jpg)
 
 * Now simply click the **snapshot** button below the preview screen and the snapshot will be saved in default directory and automatically imported to the medium room.
 * Right-click on the snapshot in the media pool and click on **Reveal in explorer.**
@@ -764,9 +730,7 @@ Let’s get started!
 
 * Open the **Wix editor** from the browser.
 * Select a **video** from your video library.
-* Hit the **Edit** icon at the video
-
-![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-13.jpg)
+* Hit the **Edit** icon at the video ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-13.jpg)
 
 * Click on **change cover** under the cover image.
 
@@ -877,7 +841,7 @@ Now you can see the subject has been selected and the background has been remove
 
 I have dragged my image to the left as I want my text to the right side.
 
-* Let’s drag the desired **background** into the timeline. ( I got this background from Pexel.com)
+* Let’s drag the desired **background** into the timeline. (I got this background from Pexel.com)
 
 ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-7.jpg)
 
@@ -897,9 +861,7 @@ Let’s choose your desired **Title** from the **Library**. Here are tons of tit
 
 * Select the **Titles** option under the **Titles** tab then select your desired Title.
 * Drag and locate the title in the place of your taste and then write the text you want.
-* Adjust your text accordingly, you can change the **font size, color, style,** and much more
-
-![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-10.jpg)
+* Adjust your text accordingly, you can change the **font size, color, style,** and much more ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-10.jpg)
 
 * Now simply click the **snapshot** button below the preview screen and the snapshot will be saved in default directory and automatically imported to the medium room.
 * Right-click on the snapshot in the media pool and click on **Reveal in explorer.**
@@ -923,9 +885,7 @@ Let’s get started!
 
 * Open the **Wix editor** from the browser.
 * Select a **video** from your video library.
-* Hit the **Edit** icon at the video
-
-![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-13.jpg)
+* Hit the **Edit** icon at the video ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-13.jpg)
 
 * Click on **change cover** under the cover image.
 
@@ -1036,7 +996,7 @@ Now you can see the subject has been selected and the background has been remove
 
 I have dragged my image to the left as I want my text to the right side.
 
-* Let’s drag the desired **background** into the timeline. ( I got this background from Pexel.com)
+* Let’s drag the desired **background** into the timeline. (I got this background from Pexel.com)
 
 ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-7.jpg)
 
@@ -1056,9 +1016,7 @@ Let’s choose your desired **Title** from the **Library**. Here are tons of tit
 
 * Select the **Titles** option under the **Titles** tab then select your desired Title.
 * Drag and locate the title in the place of your taste and then write the text you want.
-* Adjust your text accordingly, you can change the **font size, color, style,** and much more
-
-![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-10.jpg)
+* Adjust your text accordingly, you can change the **font size, color, style,** and much more ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-10.jpg)
 
 * Now simply click the **snapshot** button below the preview screen and the snapshot will be saved in default directory and automatically imported to the medium room.
 * Right-click on the snapshot in the media pool and click on **Reveal in explorer.**
@@ -1082,9 +1040,7 @@ Let’s get started!
 
 * Open the **Wix editor** from the browser.
 * Select a **video** from your video library.
-* Hit the **Edit** icon at the video
-
-![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-13.jpg)
+* Hit the **Edit** icon at the video ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-13.jpg)
 
 * Click on **change cover** under the cover image.
 
@@ -1195,7 +1151,7 @@ Now you can see the subject has been selected and the background has been remove
 
 I have dragged my image to the left as I want my text to the right side.
 
-* Let’s drag the desired **background** into the timeline. ( I got this background from Pexel.com)
+* Let’s drag the desired **background** into the timeline. (I got this background from Pexel.com)
 
 ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-7.jpg)
 
@@ -1215,9 +1171,7 @@ Let’s choose your desired **Title** from the **Library**. Here are tons of tit
 
 * Select the **Titles** option under the **Titles** tab then select your desired Title.
 * Drag and locate the title in the place of your taste and then write the text you want.
-* Adjust your text accordingly, you can change the **font size, color, style,** and much more
-
-![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-10.jpg)
+* Adjust your text accordingly, you can change the **font size, color, style,** and much more ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-10.jpg)
 
 * Now simply click the **snapshot** button below the preview screen and the snapshot will be saved in default directory and automatically imported to the medium room.
 * Right-click on the snapshot in the media pool and click on **Reveal in explorer.**
@@ -1241,9 +1195,7 @@ Let’s get started!
 
 * Open the **Wix editor** from the browser.
 * Select a **video** from your video library.
-* Hit the **Edit** icon at the video
-
-![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-13.jpg)
+* Hit the **Edit** icon at the video ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-13.jpg)
 
 * Click on **change cover** under the cover image.
 
@@ -1431,13 +1383,13 @@ You should export your final video at this point. To accomplish this, just click
 
 These were a few simple techniques for producing lovely text animations. The animation has a sharp, material design aesthetic. Though it seems that the most of the animations are standard. With the help of these tools, you may overlay text animations over photos and videos, making it appealing to a larger audience. No matter what sector you work in, word animation can give your films a polished appearance. Text animations may keep viewers on your page longer and prevent them from scrolling down. Use the above suggestions for any device to kickstart your own animated text video journey regardless of the device you're on.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 </article
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Elevate Your Designs with Feather Shapes in After Effects
-date: 2024-06-18T14:30:55.078Z
-updated: 2024-06-19T14:30:55.078Z
+date: 2024-06-26T06:24:09.545Z
+updated: 2024-06-27T06:24:09.545Z
 tags: 
   - ai
   - animation videos
@@ -141,7 +141,7 @@ Step2 Adjust the "**Blur Strength**" value.
 
 Feathering shapes in After Effects and Wondershare Filmora are powerful tools for creating smooth, seamless transitions in your videos. With the mask feather setting in After Effects and the Shape Feather Tool in Filmora, you have the flexibility and control you need to create the exact look you want.
 
-Whether you're looking to feather shapes in After Effects or prefer the convenience of using Wondershare Filmora, there's a solution for you. So why wait? Start feathering your shapes today and bring your video editing skills to the next level![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+Whether you're looking to feather shapes in After Effects or prefer the convenience of using Wondershare Filmora, there's a solution for you. So why wait? Start feathering your shapes today and bring your video editing skills to the next level ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 The edge feather in Filmora is known as the "Blur Strength" and can be found in the "Masks" tab of the editor. Like the mask edge feather in After Effects, the Blur Strength in Filmora is measured in pixels and determines the softness or blurriness of the edges of the mask.
 
@@ -2363,9 +2363,7 @@ Navigate to the timeline and double-click your video. You'll see the video editi
 * With the Saturation setting, you can make the colors in your video image appear more inconspicuous or saturated.
 * If the color in your video image is set too high, it will look oversaturated. The colors will be washed out and muted if it's set to low. The Tint control in Filmora allows you to adjust the balance between these two chroma channels.
 * Additionally, you can employ Hollywood film-looking color sets for videos from Sparta 300, Walking Dead, Game of Thrones, Star Wars, and much more.
-* Preview and Save Your Edited Video
-
-![how to correct color distortion with Filmora - change preference](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-2.png)
+* Preview and Save Your Edited Video ![how to correct color distortion with Filmora - change preference](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-2.png)
 
 Once you have finished correcting the color distortion in your video, you can hit the Play symbol to view the changes in the previewing window. Click the Export button if you are content with the results. You can click on Settings to change the settings if you want.
 
@@ -2411,9 +2409,7 @@ With that in mind, let's look at how to correct color distortion in videos using
 
 Click on the 'Window' tab at the top of your screen and select the video you'd like to edit from the drop-down menu.
 
-### Step 2\. Switch to Color Effects Work Space
-
-![how to correct color distortion with Final Cut Pro - switch to color effects](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-5.png)
+### Step 2\. Switch to Color Effects Work Space ![how to correct color distortion with Final Cut Pro - switch to color effects](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-5.png)
 
 Go to the Window panel and select the Workspaces option. Then, choose the Color & Effects option. Here, you can adjust a range of scopes, including the Luma Waveform, Vectorscope, and RGB Overlay.
 
@@ -2495,9 +2491,7 @@ Navigate to the timeline and double-click your video. You'll see the video editi
 * With the Saturation setting, you can make the colors in your video image appear more inconspicuous or saturated.
 * If the color in your video image is set too high, it will look oversaturated. The colors will be washed out and muted if it's set to low. The Tint control in Filmora allows you to adjust the balance between these two chroma channels.
 * Additionally, you can employ Hollywood film-looking color sets for videos from Sparta 300, Walking Dead, Game of Thrones, Star Wars, and much more.
-* Preview and Save Your Edited Video
-
-![how to correct color distortion with Filmora - change preference](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-2.png)
+* Preview and Save Your Edited Video ![how to correct color distortion with Filmora - change preference](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-2.png)
 
 Once you have finished correcting the color distortion in your video, you can hit the Play symbol to view the changes in the previewing window. Click the Export button if you are content with the results. You can click on Settings to change the settings if you want.
 
@@ -2543,9 +2537,7 @@ With that in mind, let's look at how to correct color distortion in videos using
 
 Click on the 'Window' tab at the top of your screen and select the video you'd like to edit from the drop-down menu.
 
-### Step 2\. Switch to Color Effects Work Space
-
-![how to correct color distortion with Final Cut Pro - switch to color effects](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-5.png)
+### Step 2\. Switch to Color Effects Work Space ![how to correct color distortion with Final Cut Pro - switch to color effects](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-5.png)
 
 Go to the Window panel and select the Workspaces option. Then, choose the Color & Effects option. Here, you can adjust a range of scopes, including the Luma Waveform, Vectorscope, and RGB Overlay.
 
@@ -2627,9 +2619,7 @@ Navigate to the timeline and double-click your video. You'll see the video editi
 * With the Saturation setting, you can make the colors in your video image appear more inconspicuous or saturated.
 * If the color in your video image is set too high, it will look oversaturated. The colors will be washed out and muted if it's set to low. The Tint control in Filmora allows you to adjust the balance between these two chroma channels.
 * Additionally, you can employ Hollywood film-looking color sets for videos from Sparta 300, Walking Dead, Game of Thrones, Star Wars, and much more.
-* Preview and Save Your Edited Video
-
-![how to correct color distortion with Filmora - change preference](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-2.png)
+* Preview and Save Your Edited Video ![how to correct color distortion with Filmora - change preference](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-2.png)
 
 Once you have finished correcting the color distortion in your video, you can hit the Play symbol to view the changes in the previewing window. Click the Export button if you are content with the results. You can click on Settings to change the settings if you want.
 
@@ -2675,9 +2665,7 @@ With that in mind, let's look at how to correct color distortion in videos using
 
 Click on the 'Window' tab at the top of your screen and select the video you'd like to edit from the drop-down menu.
 
-### Step 2\. Switch to Color Effects Work Space
-
-![how to correct color distortion with Final Cut Pro - switch to color effects](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-5.png)
+### Step 2\. Switch to Color Effects Work Space ![how to correct color distortion with Final Cut Pro - switch to color effects](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-5.png)
 
 Go to the Window panel and select the Workspaces option. Then, choose the Color & Effects option. Here, you can adjust a range of scopes, including the Luma Waveform, Vectorscope, and RGB Overlay.
 
@@ -2759,9 +2747,7 @@ Navigate to the timeline and double-click your video. You'll see the video editi
 * With the Saturation setting, you can make the colors in your video image appear more inconspicuous or saturated.
 * If the color in your video image is set too high, it will look oversaturated. The colors will be washed out and muted if it's set to low. The Tint control in Filmora allows you to adjust the balance between these two chroma channels.
 * Additionally, you can employ Hollywood film-looking color sets for videos from Sparta 300, Walking Dead, Game of Thrones, Star Wars, and much more.
-* Preview and Save Your Edited Video
-
-![how to correct color distortion with Filmora - change preference](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-2.png)
+* Preview and Save Your Edited Video ![how to correct color distortion with Filmora - change preference](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-2.png)
 
 Once you have finished correcting the color distortion in your video, you can hit the Play symbol to view the changes in the previewing window. Click the Export button if you are content with the results. You can click on Settings to change the settings if you want.
 
@@ -2807,9 +2793,7 @@ With that in mind, let's look at how to correct color distortion in videos using
 
 Click on the 'Window' tab at the top of your screen and select the video you'd like to edit from the drop-down menu.
 
-### Step 2\. Switch to Color Effects Work Space
-
-![how to correct color distortion with Final Cut Pro - switch to color effects](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-5.png)
+### Step 2\. Switch to Color Effects Work Space ![how to correct color distortion with Final Cut Pro - switch to color effects](https://images.wondershare.com/filmora/article-images/2022/04/color-distortion-5.png)
 
 Go to the Window panel and select the Workspaces option. Then, choose the Color & Effects option. Here, you can adjust a range of scopes, including the Luma Waveform, Vectorscope, and RGB Overlay.
 

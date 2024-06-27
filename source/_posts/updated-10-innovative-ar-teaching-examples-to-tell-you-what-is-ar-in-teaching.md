@@ -1,7 +1,7 @@
 ---
 title: Updated 10 Innovative AR Teaching Examples to Tell You What Is AR in Teaching
-date: 2024-05-20T03:37:39.243Z
-updated: 2024-05-21T03:37:39.243Z
+date: 2024-06-26T06:24:19.444Z
+updated: 2024-06-27T06:24:19.444Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 10 Innovative AR Teaching Examples to Tell You What Is AR in Teaching
 excerpt: This Article Describes Updated 10 Innovative AR Teaching Examples to Tell You What Is AR in Teaching
 keywords: 10 creative ar teaching examples to tell you what is ar in teaching,ai animation 10 innovative ar teaching examples to tell you what is ar in teaching,ai animation 10 creative ar teaching examples to tell you what is ar in teaching,10 innovative ar teaching examples to tell you what is ar in teaching,ai animation ai animation 10 innovative ar teaching examples to tell you what is ar in teaching,in this article you will learn how to create an attractive and engaging slideshow video using tools available in the wondershare filmora,discover 30 amazing templates for vn video editor to elevate your videos create professional looking videos with ease
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## 10 Innovative AR Teaching Examples to Tell You What Is AR in Teaching
@@ -77,7 +77,7 @@ Skyview is a smartphone application that lets users get familiar with the cosmos
 
 ![skyview app](https://images.wondershare.com/filmora/article-images/2022/04/10-innovative-ar-teaching-examples-to-tell-you-what-is-ar-in-teaching-2.jpg)
 
-### 02Video Editing With **[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 02Video Editing With ** Wondershare Filmora Video Editor
 
 In the 21st century, video editing has become one of the most sought-after careers in the world. In fact, there are thousands of kids who want to step into this creative industry and share their stories with the world.
 
@@ -215,7 +215,7 @@ Skyview is a smartphone application that lets users get familiar with the cosmos
 
 ![skyview app](https://images.wondershare.com/filmora/article-images/2022/04/10-innovative-ar-teaching-examples-to-tell-you-what-is-ar-in-teaching-2.jpg)
 
-### 02Video Editing With **[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 02Video Editing With ** Wondershare Filmora Video Editor
 
 In the 21st century, video editing has become one of the most sought-after careers in the world. In fact, there are thousands of kids who want to step into this creative industry and share their stories with the world.
 
@@ -353,7 +353,7 @@ Skyview is a smartphone application that lets users get familiar with the cosmos
 
 ![skyview app](https://images.wondershare.com/filmora/article-images/2022/04/10-innovative-ar-teaching-examples-to-tell-you-what-is-ar-in-teaching-2.jpg)
 
-### 02Video Editing With **[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 02Video Editing With ** Wondershare Filmora Video Editor
 
 In the 21st century, video editing has become one of the most sought-after careers in the world. In fact, there are thousands of kids who want to step into this creative industry and share their stories with the world.
 
@@ -491,7 +491,7 @@ Skyview is a smartphone application that lets users get familiar with the cosmos
 
 ![skyview app](https://images.wondershare.com/filmora/article-images/2022/04/10-innovative-ar-teaching-examples-to-tell-you-what-is-ar-in-teaching-2.jpg)
 
-### 02Video Editing With **[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 02Video Editing With ** Wondershare Filmora Video Editor
 
 In the 21st century, video editing has become one of the most sought-after careers in the world. In fact, there are thousands of kids who want to step into this creative industry and share their stories with the world.
 
@@ -631,17 +631,13 @@ Step2 Click and drag your title on a track above your footage.
 
 ![click and drag your title](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-6.jpg)
 
-Step3 Double-click your new title and type in your section title. You can even adjust the style of the text to your liking. Repeat the process for as many steps as you'd like for your tutorial
-
-![type in your section title](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-7.jpg)
+Step3 Double-click your new title and type in your section title. You can even adjust the style of the text to your liking. Repeat the process for as many steps as you'd like for your tutorial ![type in your section title](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-7.jpg)
 
 ## Part 4\. Narrate your video
 
 Narration is a crucial part of making an effective tutorial video. Indeed, with Filmora adding narration to your video couldn't be easier.
 
-Step1 Moving your playhead to the beginning of your video. Then go to file record media and record voiceover and select your microphone. The drop-down menu and click the red button, then simply narrate your video as it plays out. Your voice will automatically be recorded and placed into the project. Additionally, make sure to speak, reduce background noise, and use simple language
-
-![go to file record media](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-8.gif)
+Step1 Moving your playhead to the beginning of your video. Then go to file record media and record voiceover and select your microphone. The drop-down menu and click the red button, then simply narrate your video as it plays out. Your voice will automatically be recorded and placed into the project. Additionally, make sure to speak, reduce background noise, and use simple language ![go to file record media](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-8.gif)
 
 Step2 Once you're done recording, you can adjust the volume and further edit the voiceover by double-clicking the new audio file on your timeline.
 
@@ -747,17 +743,13 @@ Step2 Click and drag your title on a track above your footage.
 
 ![click and drag your title](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-6.jpg)
 
-Step3 Double-click your new title and type in your section title. You can even adjust the style of the text to your liking. Repeat the process for as many steps as you'd like for your tutorial
-
-![type in your section title](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-7.jpg)
+Step3 Double-click your new title and type in your section title. You can even adjust the style of the text to your liking. Repeat the process for as many steps as you'd like for your tutorial ![type in your section title](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-7.jpg)
 
 ## Part 4\. Narrate your video
 
 Narration is a crucial part of making an effective tutorial video. Indeed, with Filmora adding narration to your video couldn't be easier.
 
-Step1 Moving your playhead to the beginning of your video. Then go to file record media and record voiceover and select your microphone. The drop-down menu and click the red button, then simply narrate your video as it plays out. Your voice will automatically be recorded and placed into the project. Additionally, make sure to speak, reduce background noise, and use simple language
-
-![go to file record media](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-8.gif)
+Step1 Moving your playhead to the beginning of your video. Then go to file record media and record voiceover and select your microphone. The drop-down menu and click the red button, then simply narrate your video as it plays out. Your voice will automatically be recorded and placed into the project. Additionally, make sure to speak, reduce background noise, and use simple language ![go to file record media](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-8.gif)
 
 Step2 Once you're done recording, you can adjust the volume and further edit the voiceover by double-clicking the new audio file on your timeline.
 
@@ -910,9 +902,7 @@ While it's important to capture the big moments, such as the ceremony and speech
 
 Wedding videography can be a lot of work, but it's also a lot of fun. Be sure to enjoy yourself and have a good time while you're working. This will come through in your final product and the couple will be sure to appreciate it.
 
-## BONUS: Important moments to capture on the wedding day
-
-![important moments for wedding day](https://images.wondershare.com/filmora/article-images/2022/07/important-moments-for-wedding-day.jpg)
+## BONUS: Important moments to capture on the wedding day ![important moments for wedding day](https://images.wondershare.com/filmora/article-images/2022/07/important-moments-for-wedding-day.jpg)
 
 * The bride getting ready
 * The groom getting ready
@@ -995,9 +985,7 @@ While it's important to capture the big moments, such as the ceremony and speech
 
 Wedding videography can be a lot of work, but it's also a lot of fun. Be sure to enjoy yourself and have a good time while you're working. This will come through in your final product and the couple will be sure to appreciate it.
 
-## BONUS: Important moments to capture on the wedding day
-
-![important moments for wedding day](https://images.wondershare.com/filmora/article-images/2022/07/important-moments-for-wedding-day.jpg)
+## BONUS: Important moments to capture on the wedding day ![important moments for wedding day](https://images.wondershare.com/filmora/article-images/2022/07/important-moments-for-wedding-day.jpg)
 
 * The bride getting ready
 * The groom getting ready
@@ -1036,9 +1024,7 @@ Wedding videography can be a lot of work, but it's also a lot of fun. Be sure to
 
 ## Easy Ways to Change Aspect Ratio in  iMovie?
 
-# How to Change Aspect Ratio in iMovie
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+# How to Change Aspect Ratio in iMovie ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
 
@@ -1070,9 +1056,7 @@ For Win 7 or later (64-bit)
 
 [Change iMovie Aspect Ratio](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## How to Change Aspect Ratio in iMovie on Mac?
 
@@ -1096,9 +1080,7 @@ For Win 7 or later (64-bit)
 
 [Change iMovie Aspect Ratio](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 **Step 1.** Open the **Wondershare Filmora** application on Mac.
 
@@ -1138,7 +1120,7 @@ The procedure of changing the aspect ratio on the iPad is quite similar to that 
 
 Filmora Video Editor
 
-#### Wondershare Filmora - [Auto Resize Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Wondershare Filmora - Auto Resize Video
 
 • Auto reframe video in 16:9, 1:1, 9:16, 4:3 or 21:9
 
@@ -1182,11 +1164,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
 
@@ -1224,9 +1202,7 @@ For Win 7 or later (64-bit)
 
 [Change iMovie Aspect Ratio](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## How to Change Aspect Ratio in iMovie on Mac?
 
@@ -1250,9 +1226,7 @@ For Win 7 or later (64-bit)
 
 [Change iMovie Aspect Ratio](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 **Step 1.** Open the **Wondershare Filmora** application on Mac.
 
@@ -1292,7 +1266,7 @@ The procedure of changing the aspect ratio on the iPad is quite similar to that 
 
 Filmora Video Editor
 
-#### Wondershare Filmora - [Auto Resize Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Wondershare Filmora - Auto Resize Video
 
 • Auto reframe video in 16:9, 1:1, 9:16, 4:3 or 21:9
 
@@ -1336,11 +1310,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
 
@@ -1378,9 +1348,7 @@ For Win 7 or later (64-bit)
 
 [Change iMovie Aspect Ratio](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## How to Change Aspect Ratio in iMovie on Mac?
 
@@ -1404,9 +1372,7 @@ For Win 7 or later (64-bit)
 
 [Change iMovie Aspect Ratio](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 **Step 1.** Open the **Wondershare Filmora** application on Mac.
 
@@ -1446,7 +1412,7 @@ The procedure of changing the aspect ratio on the iPad is quite similar to that 
 
 Filmora Video Editor
 
-#### Wondershare Filmora - [Auto Resize Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Wondershare Filmora - Auto Resize Video
 
 • Auto reframe video in 16:9, 1:1, 9:16, 4:3 or 21:9
 
@@ -1490,11 +1456,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
 
@@ -1532,9 +1494,7 @@ For Win 7 or later (64-bit)
 
 [Change iMovie Aspect Ratio](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## How to Change Aspect Ratio in iMovie on Mac?
 
@@ -1558,9 +1518,7 @@ For Win 7 or later (64-bit)
 
 [Change iMovie Aspect Ratio](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 **Step 1.** Open the **Wondershare Filmora** application on Mac.
 
@@ -1600,7 +1558,7 @@ The procedure of changing the aspect ratio on the iPad is quite similar to that 
 
 Filmora Video Editor
 
-#### Wondershare Filmora - [Auto Resize Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Wondershare Filmora - Auto Resize Video
 
 • Auto reframe video in 16:9, 1:1, 9:16, 4:3 or 21:9
 
@@ -1644,11 +1602,7 @@ For Win 7 or later (64-bit)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
 

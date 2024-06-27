@@ -1,7 +1,7 @@
 ---
 title: Updated How to Color Correct in OBS
-date: 2024-05-20T03:38:33.437Z
-updated: 2024-05-21T03:38:33.437Z
+date: 2024-06-26T06:24:25.336Z
+updated: 2024-06-27T06:24:25.336Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Color Correct in OBS
 excerpt: This Article Describes Updated How to Color Correct in OBS
 keywords: how to color correct an s log footage,ai animation how to color correct in obs,how to color correct in obs,ai animation how to color correct an s log footage,obs color correction,a detailed guide to do color correction in obs,ai animation a detailed guide to do color correction in obs
-thumbnail: https://www.lifewire.com/thmb/ky9dx6TkOY6aQ-Ch6TfW7sMDBu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-free-movies-on-youtube-5114491-12-811d37329347405eab1a368e3018dc54.jpg
+thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
 ---
 
 ## How to Color Correct in OBS

@@ -1,7 +1,7 @@
 ---
 title: New How to Make Glitch Effect with Filmora
-date: 2024-05-20T03:38:11.131Z
-updated: 2024-05-21T03:38:11.132Z
+date: 2024-06-26T06:24:26.287Z
+updated: 2024-06-27T06:24:26.287Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Make Glitch Effect with Filmora
 excerpt: This Article Describes New How to Make Glitch Effect with Filmora
 keywords: how to make censor effects with filmora,make glitch effect with filmora,how to make a neon dance effect with filmora,ai animation how to make glitch effect with filmora,how to make ninja jump effect with filmora,easy steps to make glitch effect with filmora,how to make glitch effect with filmora
-thumbnail: https://www.lifewire.com/thmb/NOc5RCOPURestyDsC5sxK7KzGY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-971165690-1e0af1d9299f4fdba1225c2d20c739f2.jpg
+thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg
 ---
 
 ## How to Make Glitch Effect with Filmora
@@ -869,7 +869,7 @@ Step2To start a new project, click on New Project option on the welcome screen. 
 
 Step3Import your video file from your hard drive by going to File> Import Media> Import Media Files from the menu bar. Alternatively, you can drag and drop the video file into Project Media folder.
 
-![import media file ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
+![import media file](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 Step4Drag and drop the video file into the Timeline. You can add multiple video clips. Thereafter, you can arrange them in proper order on the Timeline.
 
@@ -931,11 +931,11 @@ Step4Once you are satisfied, click on Export button in the top-right corner.
 
 Adding font effects on video is a common practice especially when you have intro and outro in your video clip. Instead of the regular titles and texts, you should opt for creative font effects so that the text parts on your video look attractive. If it is a one-time thing, you can opt for an online video editor. If you use a Mac, you can use iMovie, and for Windows PC, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

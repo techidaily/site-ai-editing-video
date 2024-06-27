@@ -1,7 +1,7 @@
 ---
 title: Updated How to Use Rule of Thirds in Video
-date: 2024-05-20T03:38:13.160Z
-updated: 2024-05-21T03:38:13.160Z
+date: 2024-06-26T06:24:15.046Z
+updated: 2024-06-27T06:24:15.046Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Use Rule of Thirds in Video
 excerpt: This Article Describes Updated How to Use Rule of Thirds in Video
 keywords: ai animation how to use rule of thirds in video,ai animation ai animation how to use rule of thirds in video,how to use rule of thirds in video,how to use rules of thirds,ai animation how to use rules of thirds,how to change the speed of video in davinci resolve,how to use rule of thirds
-thumbnail: https://www.lifewire.com/thmb/8WNeD74C3OD4Hr-lVFvg4bLBeLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-140173628BetsieVanDerMeer-5927117e5f9b5859509a476c.jpg
+thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a34b2694ff1529f9b0220b04e.jpg
 ---
 
 ## How to Use Rule of Thirds in Video

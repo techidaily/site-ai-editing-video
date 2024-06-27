@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Facts About GIF Background You Didnt Know
-date: 2024-04-24T07:08:42.843Z
-updated: 2024-04-25T07:08:42.843Z
+date: 2024-06-26T06:24:05.012Z
+updated: 2024-06-27T06:24:05.012Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Facts About GIF Background You Didnt Know
 excerpt: This Article Describes Updated 2024 Approved Facts About GIF Background You Didnt Know
 keywords: ai animation some facts about gif background you didnt know,ai animation ai animation some facts about gif background you didnt know,some facts about gif background you didnt know,ll about gif keyboard that you want to know,facts about gif background you didnt know,want to immediately know all about discord gif,ai animation facts about gif background you didnt know
-thumbnail: https://www.lifewire.com/thmb/V0mVc7hXHyanE76GvodfwiaKNvE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-966273172-fbc5e7e0e68a48f69a1a5ddc0d6df827.jpg
+thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761cee72b14ccd455aec2a0df5c4.jpg
 ---
 
 ## Facts About GIF Background You Didn't Know
@@ -641,9 +641,7 @@ This is probably one of the best options if you are looking for an all in one to
 
 This article guides Premiere Pro mask tracking using the right tools and effects. Give it a read if you are interested in tracking mask Premiere.
 
-**AI Smart Masking** Spice up your video content with the endless possibilities of AI masking functions!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
+**AI Smart Masking** Spice up your video content with the endless possibilities of AI masking functions ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
@@ -855,15 +853,13 @@ A Lower Third is a mix of motion graphic design and texts that are placed in the
 
 Lower Thirds can be used in various settings, such as news broadcasts or interviews, to help provide viewers with additional context.
 
-## Part 2: How to Make Your Own Lower Thirds in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part 2: How to Make Your Own Lower Thirds in Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-### (1) A simple line and texts
-
-![a simple line and texts](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-1.gif)
+### (1) A simple line and texts ![a simple line and texts](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-1.gif)
 
 ##### Step1 Create a simple line
 
@@ -929,9 +925,7 @@ Instead, move the play head again to the right for a few frames and add another 
 
 Playback the video and see how it looks.
 
-### (2) A name card with a solid background
-
-![a name card with a solid background](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-13.gif)
+### (2) A name card with a solid background ![a name card with a solid background](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-13.gif)
 
 Sometimes you might want to create a name card with a solid background like the sample above. To create it, we can use the same method. Here's how to do it:
 
@@ -991,13 +985,9 @@ Finally, you can add a Subscribe button from the new default Filmora element pac
 
 ## Wrapping up
 
-These are two ways you can create your own Lower Thirds in FIlmora. You can also change the keyframe settings to customize your lower thirds even more. Now, it's time to try it yourself, and let us know what you think!
+These are two ways you can create your own Lower Thirds in FIlmora. You can also change the keyframe settings to customize your lower thirds even more. Now, it's time to try it yourself, and let us know what you think ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-### (1) A simple line and texts
-
-![a simple line and texts](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-1.gif)
+### (1) A simple line and texts ![a simple line and texts](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-1.gif)
 
 ##### Step1 Create a simple line
 
@@ -1063,9 +1053,7 @@ Instead, move the play head again to the right for a few frames and add another 
 
 Playback the video and see how it looks.
 
-### (2) A name card with a solid background
-
-![a name card with a solid background](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-13.gif)
+### (2) A name card with a solid background ![a name card with a solid background](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-13.gif)
 
 Sometimes you might want to create a name card with a solid background like the sample above. To create it, we can use the same method. Here's how to do it:
 

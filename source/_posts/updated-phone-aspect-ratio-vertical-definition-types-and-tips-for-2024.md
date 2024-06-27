@@ -1,7 +1,7 @@
 ---
 title: Updated Phone Aspect Ratio Vertical Definition, Types and Tips for 2024
-date: 2024-04-24T07:08:37.925Z
-updated: 2024-04-25T07:08:37.925Z
+date: 2024-06-26T06:24:04.598Z
+updated: 2024-06-27T06:24:04.598Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Phone Aspect Ratio Vertical Definition, Types and Tips for 2024
 excerpt: This Article Describes Updated Phone Aspect Ratio Vertical Definition, Types and Tips for 2024
 keywords: ai animation phone aspect ratio vertical definition types and tips,ai animation phone aspect ratio vertical definition types tips,ai animation useful tips for tiktok video aspect ratio included,phone aspect ratio vertical definition types tips,phone aspect ratio vertical definition types and tips,ai animation ai animation phone aspect ratio vertical definition types and tips,ai animation ai animation useful tips for tiktok video aspect ratio included
-thumbnail: https://www.lifewire.com/thmb/he26hNDyU2vpo9vDwma05qKk-R8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espnplus-6d79c347f2df42d7a38cdb0ba9a2472b.jpg
+thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d750526e3d62954932be609de318.jpg
 ---
 
 ## Phone Aspect Ratio Vertical Definition, Types and Tips
@@ -84,33 +84,23 @@ The aspect ratio decides and changes the entire composition and how the audience
 
 ![image aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-6.jpg)
 
-● 1:1 Ratio
-
-![1 to 1 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-1.png)
+● 1:1 Ratio ![1 to 1 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-1.png)
 
 If you have seen a square-shaped image, it had probably a 1:1 aspect ratio. It simply means both sides (width and height of the image) are equal. It was initially the aspect ratio of square television sets. However, this is commonly used for print photos, mobile screens, and social platforms.
 
-● 3:2 Ratio
-
-![3 to 2 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-2.png)
+● 3:2 Ratio ![3 to 2 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-2.png)
 
 Initially used for classic 35 mm film and still photography, aspect ratio 3:5 is still used on some laptops, tablets, and handheld game consoles. The famous example of this aspect ratio Images framed at 1080×720 pixels or 6″x4″.
 
-● 5:4 Ratio
-
-![5 to 4 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-14.png)
+● 5:4 Ratio ![5 to 4 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-14.png)
 
 It was commonly used for photography and art prints. For Images having dimensions, 8″x10″ and 16x20 have the 5:4 aspect ratios.
 
-### Video Aspect Ratios
-
-![ video aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-13.png)
+### Video Aspect Ratios ![video aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-13.png)
 
 Like the image aspect ratios, video aspect ratios would also profoundly affect its composition and thus how your directed viewers perceive it. Some common mobile vertical video size or video aspect ratios are given below.
 
-● 16:9 Ratio
-
-![16 to 9 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-4.png)
+● 16:9 Ratio ![16 to 9 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-4.png)
 
 If you have seen presentation slides, computer monitors, or widescreee seen this slimmer and more elongated rectangular-shaped 16:9 Ratio. This is the standardized widescreen aspect ratio that you see everywhere on the web. In terms of pixel common dimension for 16:9 is 1920×1080 pixels and 1280×720 pixels.
 
@@ -152,9 +142,7 @@ If, for some reason, you still want first to shoot it horizontal and then change
 
 For hooking social media viewers, you need to put your most interesting visual upfront. These include GIFs, colourful stop-motion or looping animation. Always try to match your first couple of shots with your overall brand personality.
 
-3\. Screen splitting into two or more
-
-![screen splitting](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-11.png)
+3\. Screen splitting into two or more ![screen splitting](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-11.png)
 
 A tall vertical screen can be styled with multiple horizontal clips on top of each other. These clips must relate to your relevant content and overall look. Natural lines or patterns can help display them in the most creative ways.
 
@@ -172,9 +160,7 @@ First, make sure that your subject is vertical-friendly. Then get closer and fil
 
 ● Bird’s-eye view from above.
 
-### 5\. Rule of Third
-
-![rule of third](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-10.png)
+### 5\. Rule of Third ![rule of third](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-10.png)
 
 This photography rule says not to place the main subject directly in the center of the frame. Create more dynamic composition by creating imaginary (Horizontal & Vertical) lines that divide your frame into thirds.
 
@@ -186,9 +172,7 @@ You do not want to distract your viewers with shaky camera moments. Normal pan a
 
 Now, check out the best vertical video ratios for various social platforms.
 
-### Best video aspect ratios for Facebook
-
-![fb aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-8.png)
+### Best video aspect ratios for Facebook ![fb aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-8.png)
 
 ● 1:1 or 4:5 (Feed)
 
@@ -214,9 +198,7 @@ Now, check out the best vertical video ratios for various social platforms.
 
 ● 9:16 (ICTV)
 
-### Best video aspect ratios for Twitter
-
-![twitter aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-12.png)
+### Best video aspect ratios for Twitter ![twitter aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-12.png)
 
 ● 1:1 (Promoted Videos)
 
@@ -254,9 +236,7 @@ The best thing about Filmora Go is that it is for every skill level, unlike the 
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -331,33 +311,23 @@ The aspect ratio decides and changes the entire composition and how the audience
 
 ![image aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-6.jpg)
 
-● 1:1 Ratio
-
-![1 to 1 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-1.png)
+● 1:1 Ratio ![1 to 1 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-1.png)
 
 If you have seen a square-shaped image, it had probably a 1:1 aspect ratio. It simply means both sides (width and height of the image) are equal. It was initially the aspect ratio of square television sets. However, this is commonly used for print photos, mobile screens, and social platforms.
 
-● 3:2 Ratio
-
-![3 to 2 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-2.png)
+● 3:2 Ratio ![3 to 2 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-2.png)
 
 Initially used for classic 35 mm film and still photography, aspect ratio 3:5 is still used on some laptops, tablets, and handheld game consoles. The famous example of this aspect ratio Images framed at 1080×720 pixels or 6″x4″.
 
-● 5:4 Ratio
-
-![5 to 4 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-14.png)
+● 5:4 Ratio ![5 to 4 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-14.png)
 
 It was commonly used for photography and art prints. For Images having dimensions, 8″x10″ and 16x20 have the 5:4 aspect ratios.
 
-### Video Aspect Ratios
-
-![ video aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-13.png)
+### Video Aspect Ratios ![video aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-13.png)
 
 Like the image aspect ratios, video aspect ratios would also profoundly affect its composition and thus how your directed viewers perceive it. Some common mobile vertical video size or video aspect ratios are given below.
 
-● 16:9 Ratio
-
-![16 to 9 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-4.png)
+● 16:9 Ratio ![16 to 9 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-4.png)
 
 If you have seen presentation slides, computer monitors, or widescreee seen this slimmer and more elongated rectangular-shaped 16:9 Ratio. This is the standardized widescreen aspect ratio that you see everywhere on the web. In terms of pixel common dimension for 16:9 is 1920×1080 pixels and 1280×720 pixels.
 
@@ -399,9 +369,7 @@ If, for some reason, you still want first to shoot it horizontal and then change
 
 For hooking social media viewers, you need to put your most interesting visual upfront. These include GIFs, colourful stop-motion or looping animation. Always try to match your first couple of shots with your overall brand personality.
 
-3\. Screen splitting into two or more
-
-![screen splitting](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-11.png)
+3\. Screen splitting into two or more ![screen splitting](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-11.png)
 
 A tall vertical screen can be styled with multiple horizontal clips on top of each other. These clips must relate to your relevant content and overall look. Natural lines or patterns can help display them in the most creative ways.
 
@@ -419,9 +387,7 @@ First, make sure that your subject is vertical-friendly. Then get closer and fil
 
 ● Bird’s-eye view from above.
 
-### 5\. Rule of Third
-
-![rule of third](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-10.png)
+### 5\. Rule of Third ![rule of third](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-10.png)
 
 This photography rule says not to place the main subject directly in the center of the frame. Create more dynamic composition by creating imaginary (Horizontal & Vertical) lines that divide your frame into thirds.
 
@@ -433,9 +399,7 @@ You do not want to distract your viewers with shaky camera moments. Normal pan a
 
 Now, check out the best vertical video ratios for various social platforms.
 
-### Best video aspect ratios for Facebook
-
-![fb aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-8.png)
+### Best video aspect ratios for Facebook ![fb aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-8.png)
 
 ● 1:1 or 4:5 (Feed)
 
@@ -461,9 +425,7 @@ Now, check out the best vertical video ratios for various social platforms.
 
 ● 9:16 (ICTV)
 
-### Best video aspect ratios for Twitter
-
-![twitter aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-12.png)
+### Best video aspect ratios for Twitter ![twitter aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-12.png)
 
 ● 1:1 (Promoted Videos)
 
@@ -501,9 +463,7 @@ The best thing about Filmora Go is that it is for every skill level, unlike the 
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -578,33 +538,23 @@ The aspect ratio decides and changes the entire composition and how the audience
 
 ![image aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-6.jpg)
 
-● 1:1 Ratio
-
-![1 to 1 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-1.png)
+● 1:1 Ratio ![1 to 1 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-1.png)
 
 If you have seen a square-shaped image, it had probably a 1:1 aspect ratio. It simply means both sides (width and height of the image) are equal. It was initially the aspect ratio of square television sets. However, this is commonly used for print photos, mobile screens, and social platforms.
 
-● 3:2 Ratio
-
-![3 to 2 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-2.png)
+● 3:2 Ratio ![3 to 2 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-2.png)
 
 Initially used for classic 35 mm film and still photography, aspect ratio 3:5 is still used on some laptops, tablets, and handheld game consoles. The famous example of this aspect ratio Images framed at 1080×720 pixels or 6″x4″.
 
-● 5:4 Ratio
-
-![5 to 4 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-14.png)
+● 5:4 Ratio ![5 to 4 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-14.png)
 
 It was commonly used for photography and art prints. For Images having dimensions, 8″x10″ and 16x20 have the 5:4 aspect ratios.
 
-### Video Aspect Ratios
-
-![ video aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-13.png)
+### Video Aspect Ratios ![video aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-13.png)
 
 Like the image aspect ratios, video aspect ratios would also profoundly affect its composition and thus how your directed viewers perceive it. Some common mobile vertical video size or video aspect ratios are given below.
 
-● 16:9 Ratio
-
-![16 to 9 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-4.png)
+● 16:9 Ratio ![16 to 9 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-4.png)
 
 If you have seen presentation slides, computer monitors, or widescreee seen this slimmer and more elongated rectangular-shaped 16:9 Ratio. This is the standardized widescreen aspect ratio that you see everywhere on the web. In terms of pixel common dimension for 16:9 is 1920×1080 pixels and 1280×720 pixels.
 
@@ -646,9 +596,7 @@ If, for some reason, you still want first to shoot it horizontal and then change
 
 For hooking social media viewers, you need to put your most interesting visual upfront. These include GIFs, colourful stop-motion or looping animation. Always try to match your first couple of shots with your overall brand personality.
 
-3\. Screen splitting into two or more
-
-![screen splitting](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-11.png)
+3\. Screen splitting into two or more ![screen splitting](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-11.png)
 
 A tall vertical screen can be styled with multiple horizontal clips on top of each other. These clips must relate to your relevant content and overall look. Natural lines or patterns can help display them in the most creative ways.
 
@@ -666,9 +614,7 @@ First, make sure that your subject is vertical-friendly. Then get closer and fil
 
 ● Bird’s-eye view from above.
 
-### 5\. Rule of Third
-
-![rule of third](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-10.png)
+### 5\. Rule of Third ![rule of third](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-10.png)
 
 This photography rule says not to place the main subject directly in the center of the frame. Create more dynamic composition by creating imaginary (Horizontal & Vertical) lines that divide your frame into thirds.
 
@@ -680,9 +626,7 @@ You do not want to distract your viewers with shaky camera moments. Normal pan a
 
 Now, check out the best vertical video ratios for various social platforms.
 
-### Best video aspect ratios for Facebook
-
-![fb aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-8.png)
+### Best video aspect ratios for Facebook ![fb aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-8.png)
 
 ● 1:1 or 4:5 (Feed)
 
@@ -708,9 +652,7 @@ Now, check out the best vertical video ratios for various social platforms.
 
 ● 9:16 (ICTV)
 
-### Best video aspect ratios for Twitter
-
-![twitter aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-12.png)
+### Best video aspect ratios for Twitter ![twitter aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-12.png)
 
 ● 1:1 (Promoted Videos)
 
@@ -748,9 +690,7 @@ The best thing about Filmora Go is that it is for every skill level, unlike the 
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -825,33 +765,23 @@ The aspect ratio decides and changes the entire composition and how the audience
 
 ![image aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-6.jpg)
 
-● 1:1 Ratio
-
-![1 to 1 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-1.png)
+● 1:1 Ratio ![1 to 1 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-1.png)
 
 If you have seen a square-shaped image, it had probably a 1:1 aspect ratio. It simply means both sides (width and height of the image) are equal. It was initially the aspect ratio of square television sets. However, this is commonly used for print photos, mobile screens, and social platforms.
 
-● 3:2 Ratio
-
-![3 to 2 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-2.png)
+● 3:2 Ratio ![3 to 2 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-2.png)
 
 Initially used for classic 35 mm film and still photography, aspect ratio 3:5 is still used on some laptops, tablets, and handheld game consoles. The famous example of this aspect ratio Images framed at 1080×720 pixels or 6″x4″.
 
-● 5:4 Ratio
-
-![5 to 4 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-14.png)
+● 5:4 Ratio ![5 to 4 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-14.png)
 
 It was commonly used for photography and art prints. For Images having dimensions, 8″x10″ and 16x20 have the 5:4 aspect ratios.
 
-### Video Aspect Ratios
-
-![ video aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-13.png)
+### Video Aspect Ratios ![video aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-13.png)
 
 Like the image aspect ratios, video aspect ratios would also profoundly affect its composition and thus how your directed viewers perceive it. Some common mobile vertical video size or video aspect ratios are given below.
 
-● 16:9 Ratio
-
-![16 to 9 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-4.png)
+● 16:9 Ratio ![16 to 9 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-4.png)
 
 If you have seen presentation slides, computer monitors, or widescreee seen this slimmer and more elongated rectangular-shaped 16:9 Ratio. This is the standardized widescreen aspect ratio that you see everywhere on the web. In terms of pixel common dimension for 16:9 is 1920×1080 pixels and 1280×720 pixels.
 
@@ -893,9 +823,7 @@ If, for some reason, you still want first to shoot it horizontal and then change
 
 For hooking social media viewers, you need to put your most interesting visual upfront. These include GIFs, colourful stop-motion or looping animation. Always try to match your first couple of shots with your overall brand personality.
 
-3\. Screen splitting into two or more
-
-![screen splitting](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-11.png)
+3\. Screen splitting into two or more ![screen splitting](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-11.png)
 
 A tall vertical screen can be styled with multiple horizontal clips on top of each other. These clips must relate to your relevant content and overall look. Natural lines or patterns can help display them in the most creative ways.
 
@@ -913,9 +841,7 @@ First, make sure that your subject is vertical-friendly. Then get closer and fil
 
 ● Bird’s-eye view from above.
 
-### 5\. Rule of Third
-
-![rule of third](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-10.png)
+### 5\. Rule of Third ![rule of third](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-10.png)
 
 This photography rule says not to place the main subject directly in the center of the frame. Create more dynamic composition by creating imaginary (Horizontal & Vertical) lines that divide your frame into thirds.
 
@@ -927,9 +853,7 @@ You do not want to distract your viewers with shaky camera moments. Normal pan a
 
 Now, check out the best vertical video ratios for various social platforms.
 
-### Best video aspect ratios for Facebook
-
-![fb aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-8.png)
+### Best video aspect ratios for Facebook ![fb aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-8.png)
 
 ● 1:1 or 4:5 (Feed)
 
@@ -955,9 +879,7 @@ Now, check out the best vertical video ratios for various social platforms.
 
 ● 9:16 (ICTV)
 
-### Best video aspect ratios for Twitter
-
-![twitter aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-12.png)
+### Best video aspect ratios for Twitter ![twitter aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-12.png)
 
 ● 1:1 (Promoted Videos)
 
@@ -995,9 +917,7 @@ The best thing about Filmora Go is that it is for every skill level, unlike the 
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 

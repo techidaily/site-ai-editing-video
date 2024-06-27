@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Elevate Your Designs with Feather Shapes in After Effects
-date: 2024-04-24T07:08:33.251Z
-updated: 2024-04-25T07:08:33.251Z
+date: 2024-06-26T06:24:00.550Z
+updated: 2024-06-27T06:24:00.550Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Elevate Your Designs with Feather Shapes in After Effects
 excerpt: This Article Describes Updated 2024 Approved Elevate Your Designs with Feather Shapes in After Effects
 keywords: want to feather shapes in after effects read this,hard to remove black background in after effects heres the best way to deal with it,elevate your designs with feather shapes in after effects,ai animation hard to remove black background in after effects heres the best way to deal with it,ai animation want to feather shapes in after effects read this,ai animation ai animation elevate your designs with feather shapes in after effects,ai animation elevate your designs with feather shapes in after effects
-thumbnail: https://www.lifewire.com/thmb/mDhxV8MNRpKsVw-MZy5n6Aic8pw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-soundbar-dolby-atmos-569f1fdd925e46ab8b3e1f51d95e1e6c.jpg
+thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04c405e68f58f5857acd450ec.jpg
 ---
 
 ## Elevate Your Designs with Feather Shapes in After Effects
@@ -141,9 +141,7 @@ Step2 Adjust the "**Blur Strength**" value.
 
 Feathering shapes in After Effects and Wondershare Filmora are powerful tools for creating smooth, seamless transitions in your videos. With the mask feather setting in After Effects and the Shape Feather Tool in Filmora, you have the flexibility and control you need to create the exact look you want.
 
-Whether you're looking to feather shapes in After Effects or prefer the convenience of using Wondershare Filmora, there's a solution for you. So why wait? Start feathering your shapes today and bring your video editing skills to the next level!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+Whether you're looking to feather shapes in After Effects or prefer the convenience of using Wondershare Filmora, there's a solution for you. So why wait? Start feathering your shapes today and bring your video editing skills to the next level ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 The edge feather in Filmora is known as the "Blur Strength" and can be found in the "Masks" tab of the editor. Like the mask edge feather in After Effects, the Blur Strength in Filmora is measured in pixels and determines the softness or blurriness of the edges of the mask.
 
@@ -249,7 +247,7 @@ We will give you some details about what it can do and how you can use it to cre
 
 ### Step-By-Step Guide for Using VSCO Video Editor
 
-Step1 Download the VSCO video editor from the [Google Play](https://play.google.com/store/apps/details?id=com.vsco.cam&hl=en&gl=US)or [Apple store](https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838).
+Step1 Download the VSCO video editor from the [Google Play](https://play.google.com/store/apps/details?id=com.vsco.cam&hl=en&gl=US) or [Apple store](https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838).
 
 Step2 Open the app and select "Create Video," then choose a template for your first video.
 
@@ -362,7 +360,7 @@ We will give you some details about what it can do and how you can use it to cre
 
 ### Step-By-Step Guide for Using VSCO Video Editor
 
-Step1 Download the VSCO video editor from the [Google Play](https://play.google.com/store/apps/details?id=com.vsco.cam&hl=en&gl=US)or [Apple store](https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838).
+Step1 Download the VSCO video editor from the [Google Play](https://play.google.com/store/apps/details?id=com.vsco.cam&hl=en&gl=US) or [Apple store](https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838).
 
 Step2 Open the app and select "Create Video," then choose a template for your first video.
 
@@ -499,7 +497,7 @@ As you have gained knowledge about motion tracking, there are many platforms tha
 
 **Step 2:** Lead to the "Layer" tab from the top and select the "New" option from the drop-down menu. Continue to select "Null Object" to add a layer to the timeline.
 
-![ create a null object layer](https://images.wondershare.com/filmora/article-images/2023/motion-tracking-using-the-best-video-editors-2.jpg)
+![create a null object layer](https://images.wondershare.com/filmora/article-images/2023/motion-tracking-using-the-best-video-editors-2.jpg)
 
 **Step 3:** Select the video clip and continue to the "Animation" tab from the top. Select "Track Motion" from the drop-down menu that appears. This will generate a box for selecting the object for motion tracking. You can extend the box and drag it anywhere in the video clip. To check the motion tracking object, click the “Analyze Forward” button on the bottom-right corner of the screen.
 
@@ -609,7 +607,7 @@ As you have gained knowledge about motion tracking, there are many platforms tha
 
 **Step 2:** Lead to the "Layer" tab from the top and select the "New" option from the drop-down menu. Continue to select "Null Object" to add a layer to the timeline.
 
-![ create a null object layer](https://images.wondershare.com/filmora/article-images/2023/motion-tracking-using-the-best-video-editors-2.jpg)
+![create a null object layer](https://images.wondershare.com/filmora/article-images/2023/motion-tracking-using-the-best-video-editors-2.jpg)
 
 **Step 3:** Select the video clip and continue to the "Animation" tab from the top. Select "Track Motion" from the drop-down menu that appears. This will generate a box for selecting the object for motion tracking. You can extend the box and drag it anywhere in the video clip. To check the motion tracking object, click the “Analyze Forward” button on the bottom-right corner of the screen.
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Easy Guide to Use a Stabilization Tool in Filmora
-date: 2024-05-20T03:38:29.613Z
-updated: 2024-05-21T03:38:29.613Z
+date: 2024-06-26T06:24:10.128Z
+updated: 2024-06-27T06:24:10.128Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Easy Guide to Use a Stabilization Tool in Filmora
 excerpt: This Article Describes Updated Easy Guide to Use a Stabilization Tool in Filmora
 keywords: ai animation easy guide to use a stabilization tool in filmora,ai animation guide to create an intro video with filmora,how to use a stabilization tool in filmora,ai animation easy steps to export video in filmora,ai animation how to use a stabilization tool in filmora,ai animation ai animation how to use a stabilization tool in filmora,easy guide to use a stabilization tool in filmora
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## Easy Guide to Use a Stabilization Tool in Filmora

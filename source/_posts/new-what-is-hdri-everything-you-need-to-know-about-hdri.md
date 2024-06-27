@@ -1,7 +1,7 @@
 ---
 title: New What Is HDRI? Everything You Need to Know About HDRI
-date: 2024-04-24T07:08:16.660Z
-updated: 2024-04-25T07:08:16.660Z
+date: 2024-06-26T06:24:32.311Z
+updated: 2024-06-27T06:24:32.311Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New What Is HDRI? Everything You Need to Know About HDRI
 excerpt: This Article Describes New What Is HDRI? Everything You Need to Know About HDRI
 keywords: keyframes interval everything you need to know,what is hdri everything you need to know about hdri,ai animation everything you need to know about color grading in photography,ai animation everything that you need to know about video montages ideas techniqu,everything that you need to know about video montages ideas techniqu,everything you need to know about color grading in photography,ai animation what is hdri everything you need to know about hdri
-thumbnail: https://www.lifewire.com/thmb/dUcMAT1_0DCxV5hsu63as34-gjs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coverjointwitter-6f13b51d1be04d8bb3f5221ef5a057c7.jpg
+thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b157cf1a2528e89d05cbc2979.jpg
 ---
 
 ## What Is HDRI? Everything You Need to Know About HDRI
@@ -293,9 +293,7 @@ The Davinci Resolve is the most professional video editing software on Mac. It i
 
 ![video-editing-spend-time](https://images.wondershare.com/filmora/article-images/2022/06/video-editing-spend-time-13.jpg)
 
-* The **motion graphics** and
-
-![video-editing-spend-time](https://images.wondershare.com/filmora/article-images/2022/06/video-editing-spend-time-14.jpg)
+* The **motion graphics** and ![video-editing-spend-time](https://images.wondershare.com/filmora/article-images/2022/06/video-editing-spend-time-14.jpg)
 
 * A specific area just for **color grading** and **color correcting.**
 
@@ -424,9 +422,7 @@ The Davinci Resolve is the most professional video editing software on Mac. It i
 
 ![video-editing-spend-time](https://images.wondershare.com/filmora/article-images/2022/06/video-editing-spend-time-13.jpg)
 
-* The **motion graphics** and
-
-![video-editing-spend-time](https://images.wondershare.com/filmora/article-images/2022/06/video-editing-spend-time-14.jpg)
+* The **motion graphics** and ![video-editing-spend-time](https://images.wondershare.com/filmora/article-images/2022/06/video-editing-spend-time-14.jpg)
 
 * A specific area just for **color grading** and **color correcting.**
 
@@ -555,9 +551,7 @@ The Davinci Resolve is the most professional video editing software on Mac. It i
 
 ![video-editing-spend-time](https://images.wondershare.com/filmora/article-images/2022/06/video-editing-spend-time-13.jpg)
 
-* The **motion graphics** and
-
-![video-editing-spend-time](https://images.wondershare.com/filmora/article-images/2022/06/video-editing-spend-time-14.jpg)
+* The **motion graphics** and ![video-editing-spend-time](https://images.wondershare.com/filmora/article-images/2022/06/video-editing-spend-time-14.jpg)
 
 * A specific area just for **color grading** and **color correcting.**
 
@@ -686,9 +680,7 @@ The Davinci Resolve is the most professional video editing software on Mac. It i
 
 ![video-editing-spend-time](https://images.wondershare.com/filmora/article-images/2022/06/video-editing-spend-time-13.jpg)
 
-* The **motion graphics** and
-
-![video-editing-spend-time](https://images.wondershare.com/filmora/article-images/2022/06/video-editing-spend-time-14.jpg)
+* The **motion graphics** and ![video-editing-spend-time](https://images.wondershare.com/filmora/article-images/2022/06/video-editing-spend-time-14.jpg)
 
 * A specific area just for **color grading** and **color correcting.**
 
@@ -1350,45 +1342,33 @@ To start your creative journey, you can hone your skills by focusing on at least
 
 You can create artistic videos that tell various stories and captivate viewers by using Filmora. The following steps describe how to create a double exposure effect in Filmora.
 
-Step1 Download the Filmora application
-
-![filmora download page](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-1.jpg)
+Step1 Download the Filmora application ![filmora download page](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-1.jpg)
 
 Before you start editing, click <https://bit.ly/3tav2d5> to download the Filmora app. On the page that appears, click the **Free Download** option. Then, the Filmora installer is automatically downloaded. To start installing Filmora, double-click the installer and click **Agree** to agree with the terms and conditions. Then, wait for approximately 2 minutes for the installation to complete.
 
-Step2 Start a new project in Filmora
-
-![set up a new project](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-2.jpg)
+Step2 Start a new project in Filmora ![set up a new project](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-2.jpg)
 
 After a successful installation, the app automatically runs, and you can start editing videos. Click **New Project** to start a project on a clean canvas.
 
 Before starting a new project, we recommend you plan a theme for your videos. You can incorporate different elements into your videos to convey a dramatic, light, or fun theme. This step will help you communicate the mood and message you want to convey to the audience.
 
-Step3 Select a foreground video
-
-![add a base video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-3.jpg)
+Step3 Select a foreground video ![add a base video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-3.jpg)
 
 To create a trendy double exposure effect, record a video clip with a white or neutral background. Then, import the specified video to Filmora. In the second layer of the video editing pane, drag the video.
 
 The first video is called the foreground video, which serves as the base video to achieve the desired double exposure effect. It is important to choose neutral or calm colors to make it easier for you to remove the background and highlight the main subject of your video.
 
-Step4 Edit the foreground video
-
-![adjust the color settings of the foreground video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-4.jpg)
+Step4 Edit the foreground video ![adjust the color settings of the foreground video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-4.jpg)
 
 Edit the foreground video by adjusting the color settings. Click the **Color Correction** icon to open the color settings. In the **Advanced Color Tuning** box that appears, click **Adjust**. In this article, the value of **Exposure** is set to **18,** and **Contrast** is set to **28**. Then, **Vibrance** and **Saturation** are set to **\-100**. In the **Light** settings, the values of **Highlights** and **Shadows** are set to **\-100**, **Whites** is set to **0**, and **Blacks** is set to **\-30**. You can experiment and play with the settings based on the theme that you want to achieve.
 
-Step5 Select a background video
-
-![import a video clip as a background video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-5.jpg)
+Step5 Select a background video ![import a video clip as a background video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-5.jpg)
 
 For the background video, select a video clip and import the video to Filmora. Then, drag the video in a layer below the foreground video.
 
 When you select a background video, make sure that the video is vibrant, colorful, and has lots of texture. For example, you can select landscapes, flowers, leaves, textured patterns, city lights, sunsets, or other graphic components. The colors and lighting in the background video significantly impact the final output's overall appearance.
 
-Step6 Blend the foreground and background videos
-
-![produce double exposure effect](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-6.jpg)
+Step6 Blend the foreground and background videos ![produce double exposure effect](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-6.jpg)
 
 If you want to produce a perfect double-exposed video, blending layers is properly essential. To do this, double click the foreground video. Go to the **Compositing** option and set **Blending Mode** to **Lighten**. You can also configure **Blending Mode** based on your preference.
 
@@ -1410,45 +1390,33 @@ To start your creative journey, you can hone your skills by focusing on at least
 
 You can create artistic videos that tell various stories and captivate viewers by using Filmora. The following steps describe how to create a double exposure effect in Filmora.
 
-Step1 Download the Filmora application
-
-![filmora download page](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-1.jpg)
+Step1 Download the Filmora application ![filmora download page](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-1.jpg)
 
 Before you start editing, click <https://bit.ly/3tav2d5> to download the Filmora app. On the page that appears, click the **Free Download** option. Then, the Filmora installer is automatically downloaded. To start installing Filmora, double-click the installer and click **Agree** to agree with the terms and conditions. Then, wait for approximately 2 minutes for the installation to complete.
 
-Step2 Start a new project in Filmora
-
-![set up a new project](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-2.jpg)
+Step2 Start a new project in Filmora ![set up a new project](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-2.jpg)
 
 After a successful installation, the app automatically runs, and you can start editing videos. Click **New Project** to start a project on a clean canvas.
 
 Before starting a new project, we recommend you plan a theme for your videos. You can incorporate different elements into your videos to convey a dramatic, light, or fun theme. This step will help you communicate the mood and message you want to convey to the audience.
 
-Step3 Select a foreground video
-
-![add a base video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-3.jpg)
+Step3 Select a foreground video ![add a base video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-3.jpg)
 
 To create a trendy double exposure effect, record a video clip with a white or neutral background. Then, import the specified video to Filmora. In the second layer of the video editing pane, drag the video.
 
 The first video is called the foreground video, which serves as the base video to achieve the desired double exposure effect. It is important to choose neutral or calm colors to make it easier for you to remove the background and highlight the main subject of your video.
 
-Step4 Edit the foreground video
-
-![adjust the color settings of the foreground video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-4.jpg)
+Step4 Edit the foreground video ![adjust the color settings of the foreground video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-4.jpg)
 
 Edit the foreground video by adjusting the color settings. Click the **Color Correction** icon to open the color settings. In the **Advanced Color Tuning** box that appears, click **Adjust**. In this article, the value of **Exposure** is set to **18,** and **Contrast** is set to **28**. Then, **Vibrance** and **Saturation** are set to **\-100**. In the **Light** settings, the values of **Highlights** and **Shadows** are set to **\-100**, **Whites** is set to **0**, and **Blacks** is set to **\-30**. You can experiment and play with the settings based on the theme that you want to achieve.
 
-Step5 Select a background video
-
-![import a video clip as a background video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-5.jpg)
+Step5 Select a background video ![import a video clip as a background video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-5.jpg)
 
 For the background video, select a video clip and import the video to Filmora. Then, drag the video in a layer below the foreground video.
 
 When you select a background video, make sure that the video is vibrant, colorful, and has lots of texture. For example, you can select landscapes, flowers, leaves, textured patterns, city lights, sunsets, or other graphic components. The colors and lighting in the background video significantly impact the final output's overall appearance.
 
-Step6 Blend the foreground and background videos
-
-![produce double exposure effect](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-6.jpg)
+Step6 Blend the foreground and background videos ![produce double exposure effect](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-6.jpg)
 
 If you want to produce a perfect double-exposed video, blending layers is properly essential. To do this, double click the foreground video. Go to the **Compositing** option and set **Blending Mode** to **Lighten**. You can also configure **Blending Mode** based on your preference.
 
@@ -1470,45 +1438,33 @@ To start your creative journey, you can hone your skills by focusing on at least
 
 You can create artistic videos that tell various stories and captivate viewers by using Filmora. The following steps describe how to create a double exposure effect in Filmora.
 
-Step1 Download the Filmora application
-
-![filmora download page](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-1.jpg)
+Step1 Download the Filmora application ![filmora download page](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-1.jpg)
 
 Before you start editing, click <https://bit.ly/3tav2d5> to download the Filmora app. On the page that appears, click the **Free Download** option. Then, the Filmora installer is automatically downloaded. To start installing Filmora, double-click the installer and click **Agree** to agree with the terms and conditions. Then, wait for approximately 2 minutes for the installation to complete.
 
-Step2 Start a new project in Filmora
-
-![set up a new project](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-2.jpg)
+Step2 Start a new project in Filmora ![set up a new project](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-2.jpg)
 
 After a successful installation, the app automatically runs, and you can start editing videos. Click **New Project** to start a project on a clean canvas.
 
 Before starting a new project, we recommend you plan a theme for your videos. You can incorporate different elements into your videos to convey a dramatic, light, or fun theme. This step will help you communicate the mood and message you want to convey to the audience.
 
-Step3 Select a foreground video
-
-![add a base video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-3.jpg)
+Step3 Select a foreground video ![add a base video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-3.jpg)
 
 To create a trendy double exposure effect, record a video clip with a white or neutral background. Then, import the specified video to Filmora. In the second layer of the video editing pane, drag the video.
 
 The first video is called the foreground video, which serves as the base video to achieve the desired double exposure effect. It is important to choose neutral or calm colors to make it easier for you to remove the background and highlight the main subject of your video.
 
-Step4 Edit the foreground video
-
-![adjust the color settings of the foreground video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-4.jpg)
+Step4 Edit the foreground video ![adjust the color settings of the foreground video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-4.jpg)
 
 Edit the foreground video by adjusting the color settings. Click the **Color Correction** icon to open the color settings. In the **Advanced Color Tuning** box that appears, click **Adjust**. In this article, the value of **Exposure** is set to **18,** and **Contrast** is set to **28**. Then, **Vibrance** and **Saturation** are set to **\-100**. In the **Light** settings, the values of **Highlights** and **Shadows** are set to **\-100**, **Whites** is set to **0**, and **Blacks** is set to **\-30**. You can experiment and play with the settings based on the theme that you want to achieve.
 
-Step5 Select a background video
-
-![import a video clip as a background video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-5.jpg)
+Step5 Select a background video ![import a video clip as a background video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-5.jpg)
 
 For the background video, select a video clip and import the video to Filmora. Then, drag the video in a layer below the foreground video.
 
 When you select a background video, make sure that the video is vibrant, colorful, and has lots of texture. For example, you can select landscapes, flowers, leaves, textured patterns, city lights, sunsets, or other graphic components. The colors and lighting in the background video significantly impact the final output's overall appearance.
 
-Step6 Blend the foreground and background videos
-
-![produce double exposure effect](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-6.jpg)
+Step6 Blend the foreground and background videos ![produce double exposure effect](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-6.jpg)
 
 If you want to produce a perfect double-exposed video, blending layers is properly essential. To do this, double click the foreground video. Go to the **Compositing** option and set **Blending Mode** to **Lighten**. You can also configure **Blending Mode** based on your preference.
 
@@ -1530,45 +1486,33 @@ To start your creative journey, you can hone your skills by focusing on at least
 
 You can create artistic videos that tell various stories and captivate viewers by using Filmora. The following steps describe how to create a double exposure effect in Filmora.
 
-Step1 Download the Filmora application
-
-![filmora download page](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-1.jpg)
+Step1 Download the Filmora application ![filmora download page](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-1.jpg)
 
 Before you start editing, click <https://bit.ly/3tav2d5> to download the Filmora app. On the page that appears, click the **Free Download** option. Then, the Filmora installer is automatically downloaded. To start installing Filmora, double-click the installer and click **Agree** to agree with the terms and conditions. Then, wait for approximately 2 minutes for the installation to complete.
 
-Step2 Start a new project in Filmora
-
-![set up a new project](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-2.jpg)
+Step2 Start a new project in Filmora ![set up a new project](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-2.jpg)
 
 After a successful installation, the app automatically runs, and you can start editing videos. Click **New Project** to start a project on a clean canvas.
 
 Before starting a new project, we recommend you plan a theme for your videos. You can incorporate different elements into your videos to convey a dramatic, light, or fun theme. This step will help you communicate the mood and message you want to convey to the audience.
 
-Step3 Select a foreground video
-
-![add a base video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-3.jpg)
+Step3 Select a foreground video ![add a base video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-3.jpg)
 
 To create a trendy double exposure effect, record a video clip with a white or neutral background. Then, import the specified video to Filmora. In the second layer of the video editing pane, drag the video.
 
 The first video is called the foreground video, which serves as the base video to achieve the desired double exposure effect. It is important to choose neutral or calm colors to make it easier for you to remove the background and highlight the main subject of your video.
 
-Step4 Edit the foreground video
-
-![adjust the color settings of the foreground video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-4.jpg)
+Step4 Edit the foreground video ![adjust the color settings of the foreground video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-4.jpg)
 
 Edit the foreground video by adjusting the color settings. Click the **Color Correction** icon to open the color settings. In the **Advanced Color Tuning** box that appears, click **Adjust**. In this article, the value of **Exposure** is set to **18,** and **Contrast** is set to **28**. Then, **Vibrance** and **Saturation** are set to **\-100**. In the **Light** settings, the values of **Highlights** and **Shadows** are set to **\-100**, **Whites** is set to **0**, and **Blacks** is set to **\-30**. You can experiment and play with the settings based on the theme that you want to achieve.
 
-Step5 Select a background video
-
-![import a video clip as a background video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-5.jpg)
+Step5 Select a background video ![import a video clip as a background video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-5.jpg)
 
 For the background video, select a video clip and import the video to Filmora. Then, drag the video in a layer below the foreground video.
 
 When you select a background video, make sure that the video is vibrant, colorful, and has lots of texture. For example, you can select landscapes, flowers, leaves, textured patterns, city lights, sunsets, or other graphic components. The colors and lighting in the background video significantly impact the final output's overall appearance.
 
-Step6 Blend the foreground and background videos
-
-![produce double exposure effect](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-6.jpg)
+Step6 Blend the foreground and background videos ![produce double exposure effect](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-double-exposure-effect-in-filmora-6.jpg)
 
 If you want to produce a perfect double-exposed video, blending layers is properly essential. To do this, double click the foreground video. Go to the **Compositing** option and set **Blending Mode** to **Lighten**. You can also configure **Blending Mode** based on your preference.
 

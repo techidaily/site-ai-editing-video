@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to DIY VHS Overlay in After Effects?
-date: 2024-05-20T03:38:08.300Z
-updated: 2024-05-21T03:38:08.300Z
+date: 2024-06-26T06:23:54.116Z
+updated: 2024-06-27T06:23:54.116Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, How to DIY VHS Overlay in After Effects?
 excerpt: This Article Describes In 2024, How to DIY VHS Overlay in After Effects?
 keywords: ai animation how can you diy vhs overlay in after effects,ai animation ai animation how to diy vhs overlay in after effects,ai animation how to diy vhs overlay in after effects,wondering how to replace sky in after effects learn how,how can you diy vhs overlay in after effects,how to replace sky in after effects,how to diy vhs overlay in after effects
-thumbnail: https://www.lifewire.com/thmb/xLyhmkxw8rwSLNhzfV0GfYs8tZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-tiktok-without-the-app-63a4562e4c4b4bd69477425853809a35.jpg
+thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
 ---
 
 ## How to DIY VHS Overlay in After Effects?
@@ -353,11 +353,11 @@ Step5When you're done editing the video, tap on the “Export” icon at the top
 
 ![export video powerdirector](https://images.wondershare.com/filmora/article-images/2022/08/export-video-powerdirector.jpg)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

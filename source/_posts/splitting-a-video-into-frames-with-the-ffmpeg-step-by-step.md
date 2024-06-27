@@ -1,7 +1,7 @@
 ---
 title: Splitting a Video Into Frames with the FFmpeg Step by Step
-date: 2024-05-20T03:37:30.381Z
-updated: 2024-05-21T03:37:30.381Z
+date: 2024-06-26T06:24:19.776Z
+updated: 2024-06-27T06:24:19.776Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Splitting a Video Into Frames with the FFmpeg Step by Step
 excerpt: This Article Describes Splitting a Video Into Frames with the FFmpeg Step by Step
 keywords: splitting a video into frames with the ffmpeg step by step,split video into frames with ffmpeg,ai animation splitting video into frames with the ffmpeg step by step,splitting video into frames with the ffmpeg step by step,ai animation ai animation splitting video into frames with the ffmpeg step by step,ai animation splitting a video into frames with the ffmpeg step by step,splitting a video in vsdc step by step
-thumbnail: https://www.lifewire.com/thmb/oixs9Iru3DkbJ5qQpMfNaiErF04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/woman-with-remote-cropped-getty-169707531-5b2ebd5943a1030036b1eb56.jpg
+thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c8dd3de60bc0fcf279454931.jpg
 ---
 
 ## Splitting a Video Into Frames with the FFmpeg [Step by Step]
@@ -723,9 +723,7 @@ Cool, isn't it? Now we have added smoke to our timeline. Combined with the flick
 
 To mimic a real fire, we also have one more element that is missing, And that will be the **sparks and the flames**. And if you want to bring the fire effect of your video to the pro level, we would have to use the **film stock effects.** Flames and sparks are also available in the Wondershare Filmora.
 
-##### #Step1 Search for Fire Tab
-
-![search for fire tab](https://images.wondershare.com/filmora/article-images/2022/12/realistic-fire-effect-using-wondershare-filmora-6.jpg)
+##### #Step1 Search for Fire Tab ![search for fire tab](https://images.wondershare.com/filmora/article-images/2022/12/realistic-fire-effect-using-wondershare-filmora-6.jpg)
 
 * To do so, **click** on the bar above the element's icon.
 * Once you have opened the elements tab, look to your **left** window, where further options are available.
@@ -891,9 +889,7 @@ Cool, isn't it? Now we have added smoke to our timeline. Combined with the flick
 
 To mimic a real fire, we also have one more element that is missing, And that will be the **sparks and the flames**. And if you want to bring the fire effect of your video to the pro level, we would have to use the **film stock effects.** Flames and sparks are also available in the Wondershare Filmora.
 
-##### #Step1 Search for Fire Tab
-
-![search for fire tab](https://images.wondershare.com/filmora/article-images/2022/12/realistic-fire-effect-using-wondershare-filmora-6.jpg)
+##### #Step1 Search for Fire Tab ![search for fire tab](https://images.wondershare.com/filmora/article-images/2022/12/realistic-fire-effect-using-wondershare-filmora-6.jpg)
 
 * To do so, **click** on the bar above the element's icon.
 * Once you have opened the elements tab, look to your **left** window, where further options are available.

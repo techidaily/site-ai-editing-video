@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Color Correction Basics (S-LOG Footage)
-date: 2024-05-20T03:37:58.978Z
-updated: 2024-05-21T03:37:58.978Z
+date: 2024-06-26T06:24:14.618Z
+updated: 2024-06-27T06:24:14.618Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved Color Correction Basics (S-LOG Footage)
 excerpt: This Article Describes 2024 Approved Color Correction Basics (S-LOG Footage)
 keywords: ai animation color correction basics s log footage,color correction basics s log footage,color correct an s log footage,ai animation how to color correct an s log footage,obs color correction,ai animation ai animation color correction basics s log footage,how to color correct an s log footage
-thumbnail: https://www.lifewire.com/thmb/r5-nbFpZcg3uV6IKilx2-E6xQtA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-185223738-56a691fd5f9b58b7d0e3a1d9.jpg
+thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa28f7cfc8442056063114a14.jpg
 ---
 
 ## Color Correction Basics (S-LOG Footage)
@@ -31,9 +31,7 @@ Start by adding your video to the timeline on [Wondershare Filmora](https://tool
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later ![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
 
 ##### Step2 Read and study the histogram
 
@@ -69,11 +67,7 @@ Now it's time to check and compare the results. To make it easier, click the **E
 
 ## Summary
 
-I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
+I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later ![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
 
 ##### Step2 Read and study the histogram
 
@@ -109,11 +103,7 @@ Now it's time to check and compare the results. To make it easier, click the **E
 
 ## Summary
 
-I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
+I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later ![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
 
 ##### Step2 Read and study the histogram
 
@@ -149,11 +139,7 @@ Now it's time to check and compare the results. To make it easier, click the **E
 
 ## Summary
 
-I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
+I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later ![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
 
 ##### Step2 Read and study the histogram
 
@@ -259,7 +245,7 @@ Use the playhead where you wish to create the effect, and then click on "Create 
 
 Now, hide the top layer so that the smearing can occur. Turn the Masks to "None" so that you can perform the masking. Split the second layer to duplicate the layer as we make changes to it. Set the "Masks" to "Subtract and then add a refine soft matte.
 
-![ smearing process](https://images.wondershare.com/filmora/article-images/2022/datamoshing-effect-to-footage-3.jpg)
+![smearing process](https://images.wondershare.com/filmora/article-images/2022/datamoshing-effect-to-footage-3.jpg)
 
 ### Step 4: Pre-composing the Clip
 
@@ -393,7 +379,7 @@ Use the playhead where you wish to create the effect, and then click on "Create 
 
 Now, hide the top layer so that the smearing can occur. Turn the Masks to "None" so that you can perform the masking. Split the second layer to duplicate the layer as we make changes to it. Set the "Masks" to "Subtract and then add a refine soft matte.
 
-![ smearing process](https://images.wondershare.com/filmora/article-images/2022/datamoshing-effect-to-footage-3.jpg)
+![smearing process](https://images.wondershare.com/filmora/article-images/2022/datamoshing-effect-to-footage-3.jpg)
 
 ### Step 4: Pre-composing the Clip
 
@@ -527,7 +513,7 @@ Use the playhead where you wish to create the effect, and then click on "Create 
 
 Now, hide the top layer so that the smearing can occur. Turn the Masks to "None" so that you can perform the masking. Split the second layer to duplicate the layer as we make changes to it. Set the "Masks" to "Subtract and then add a refine soft matte.
 
-![ smearing process](https://images.wondershare.com/filmora/article-images/2022/datamoshing-effect-to-footage-3.jpg)
+![smearing process](https://images.wondershare.com/filmora/article-images/2022/datamoshing-effect-to-footage-3.jpg)
 
 ### Step 4: Pre-composing the Clip
 
@@ -661,7 +647,7 @@ Use the playhead where you wish to create the effect, and then click on "Create 
 
 Now, hide the top layer so that the smearing can occur. Turn the Masks to "None" so that you can perform the masking. Split the second layer to duplicate the layer as we make changes to it. Set the "Masks" to "Subtract and then add a refine soft matte.
 
-![ smearing process](https://images.wondershare.com/filmora/article-images/2022/datamoshing-effect-to-footage-3.jpg)
+![smearing process](https://images.wondershare.com/filmora/article-images/2022/datamoshing-effect-to-footage-3.jpg)
 
 ### Step 4: Pre-composing the Clip
 

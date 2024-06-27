@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved 11 Tools To Create Radial Blur Photo Mobile And Desktop
-date: 2024-05-20T03:37:39.677Z
-updated: 2024-05-21T03:37:39.677Z
+date: 2024-06-26T06:23:49.833Z
+updated: 2024-06-27T06:23:49.833Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved 11 Tools To Create Radial Blur Photo Mobile And Desktop
 excerpt: This Article Describes 2024 Approved 11 Tools To Create Radial Blur Photo Mobile And Desktop
 keywords: 6 free tools to radial blur photos online,4 solutions to add white borders on mobile and desktop,11 tools to create radial blur photo mobile and desktop,ai animation ai animation 11 tools to create radial blur photo mobile and desktop,4 solutions to add white border to video on mobile and desktop,4 ways to add white border to video on mobile and desktop,ai animation 11 tools to create radial blur photo mobile and desktop
-thumbnail: https://www.lifewire.com/thmb/6d3Pk0OpPHgsMtYTh0RE0ehMopY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-758317893-3ab5c26f770448db8b4a58205fb549f1.jpg
+thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3ee5edf935baeb75dd083d47.jpg
 ---
 
 ## 11 Tools To Create Radial Blur Photo Mobile And Desktop
@@ -102,7 +102,7 @@ The Image Radial Blur is another user-friendly app designed to create **radial b
 
 * Displays ads
 
-### 4\. [Picsart](https://play.google.com/store/apps/details?id=com.picsart.studio&hl=en%5FUS&gl=US)
+### 4\. Picsart
 
 Picsart is a powerful photo editing app that lets you create beautiful images by removing backgrounds, adding text and radial blur or other effects, and even creating collages.
 
@@ -156,7 +156,7 @@ Affinity Photo is an award-winning photo editor available for iPads offering des
 
 Here are our top 5 recommended tools to **radial blur your images** on Windows and Mac:
 
-### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1\. Wondershare Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
@@ -180,61 +180,51 @@ Step2 Head to the **“Effects”** tab, choose the **Tilt-shift Circle** for th
 
 Step3 Double-click the effect in the timeline and configure the size, X-axis, Y-axis, and intensity. That’s about it. You can now export your file by clicking the **“Export”** option.
 
-### 2\. [Final Cut Pro](https://www.apple.com/final-cut-pro/)
+### 2\. Final Cut Pro
 
 **Price:** $299.99/perpetual license
 
-**Support System:** macOS 11.5.1 or later
-
-![final cut pro to apply radial blur effect](https://images.wondershare.com/filmora/article-images/2023/02/final-cut-pro-to-apply-radial-blur-effect.png)
+**Support System:** macOS 11.5.1 or later ![final cut pro to apply radial blur effect](https://images.wondershare.com/filmora/article-images/2023/02/final-cut-pro-to-apply-radial-blur-effect.png)
 
 Final Cut Pro is an editing software designed for Mac systems and has everything you need to create high-finished videos. This software program offers a wide range of features, including a timeline, proxy editing, Multicam editing, and support for 4K and HDR footage.
 
 With Final Cut Pro, you can instantly apply the radial blur effect to your images and adjust it using various parameters in the Filters Inspector section, such as Center, Angle, Crop, and Mix.
 
-### 3\. [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+### 3\. Adobe Photoshop
 
 **Price:** US$20.99/month
 
-**Support System:** macOS and Windows
-
-![adobe photoshop for creating radial blur](https://images.wondershare.com/filmora/article-images/2023/02/adobe-photoshop-for-creating-radial-blur.png)
+**Support System:** macOS and Windows ![adobe photoshop for creating radial blur](https://images.wondershare.com/filmora/article-images/2023/02/adobe-photoshop-for-creating-radial-blur.png)
 
 As one of the most popular and advanced photo editing software in the digital market, Adobe Photoshop is packed with high-end features and is used by many professionals as well as graphic designers to create stunning radial blur effects in their projects.
 
 To add the radial blur effect on your images using Adobe Photoshop, start with converting your background image into a **Smart Object** and go to the **“Filters”** tab. Next, select **“Blur”** and click **“Radial Blur.”** Finally, you can set the parameter in the radial blur window to adjust the effect.
 
-### 4\. [Paint.NET](https://www.getpaint.net/)
+### 4\. Paint.NET
 
 **Price:** Free
 
-**Support System:** Microsoft .NET 6, Windows XP, Vista, 7, & 8, and needs a 64-bit Windows processor
-
-![paint net for radial blur](https://images.wondershare.com/filmora/article-images/2023/02/paint-net-for-radial-blur.png)
+**Support System:** Microsoft .NET 6, Windows XP, Vista, 7, & 8, and needs a 64-bit Windows processor ![paint net for radial blur](https://images.wondershare.com/filmora/article-images/2023/02/paint-net-for-radial-blur.png)
 
 Paint.NET is an easy-to-use software developed on the .NET framework and is only compatible with Windows PCs. The software is free and has an innovative interface for novice users to create stunning image editing projects in no time.
 
 Paint.NET also lets you quickly create the **radial blur image effect** using its blur effects. You can even configure the angle, center, and quality of the effect.
 
-### 5\. [BCC FX Editor](https://borisfx.com/documentation/continuum/bcc-fx-editor/)
+### 5\. BCC FX Editor
 
 **Price:** $175 per month
 
-**Support System:** macOS Mojave 10.14
-
-![bcc fx editor for radial blur](https://images.wondershare.com/filmora/article-images/2023/02/bcc-fx-editor-for-radial-blur.png)
+**Support System:** macOS Mojave 10.14 ![bcc fx editor for radial blur](https://images.wondershare.com/filmora/article-images/2023/02/bcc-fx-editor-for-radial-blur.png)
 
 Yet another powerful software is the BCC FX Editor, designed with an intuitive interface where you can quickly apply the BCC+ Radial Blur effect around a specific point in your pictures.
 
 The software also offers various parameters to help you adjust the effect on your image. These include GPU rendering, blur type, center, radial amount, rotation amount, falloff, smooth mode, edge mode, apply mode, and more.
 
-### 6\. [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html)
+### 6\. VideoPad Video Editor
 
 **Price:** Free, and the premium version starts at $23.16 quarterly
 
-**Support System:** Windows 10, XP, Vista, 7, 8, and 8.1
-
-![videopad video editor](https://images.wondershare.com/filmora/article-images/2023/02/videopad-video-editor.png)
+**Support System:** Windows 10, XP, Vista, 7, 8, and 8.1 ![videopad video editor](https://images.wondershare.com/filmora/article-images/2023/02/videopad-video-editor.png)
 
 Designed for Windows systems, the VideoPad Editor is an intuitive and fast software program that can help you quickly add the radial blur effect to your file. Moreover, the software comes with numerous visual effects and transitions.
 
@@ -300,7 +290,7 @@ The Image Radial Blur is another user-friendly app designed to create **radial b
 
 * Displays ads
 
-### 4\. [Picsart](https://play.google.com/store/apps/details?id=com.picsart.studio&hl=en%5FUS&gl=US)
+### 4\. Picsart
 
 Picsart is a powerful photo editing app that lets you create beautiful images by removing backgrounds, adding text and radial blur or other effects, and even creating collages.
 
@@ -354,7 +344,7 @@ Affinity Photo is an award-winning photo editor available for iPads offering des
 
 Here are our top 5 recommended tools to **radial blur your images** on Windows and Mac:
 
-### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1\. Wondershare Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
@@ -378,61 +368,51 @@ Step2 Head to the **“Effects”** tab, choose the **Tilt-shift Circle** for th
 
 Step3 Double-click the effect in the timeline and configure the size, X-axis, Y-axis, and intensity. That’s about it. You can now export your file by clicking the **“Export”** option.
 
-### 2\. [Final Cut Pro](https://www.apple.com/final-cut-pro/)
+### 2\. Final Cut Pro
 
 **Price:** $299.99/perpetual license
 
-**Support System:** macOS 11.5.1 or later
-
-![final cut pro to apply radial blur effect](https://images.wondershare.com/filmora/article-images/2023/02/final-cut-pro-to-apply-radial-blur-effect.png)
+**Support System:** macOS 11.5.1 or later ![final cut pro to apply radial blur effect](https://images.wondershare.com/filmora/article-images/2023/02/final-cut-pro-to-apply-radial-blur-effect.png)
 
 Final Cut Pro is an editing software designed for Mac systems and has everything you need to create high-finished videos. This software program offers a wide range of features, including a timeline, proxy editing, Multicam editing, and support for 4K and HDR footage.
 
 With Final Cut Pro, you can instantly apply the radial blur effect to your images and adjust it using various parameters in the Filters Inspector section, such as Center, Angle, Crop, and Mix.
 
-### 3\. [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+### 3\. Adobe Photoshop
 
 **Price:** US$20.99/month
 
-**Support System:** macOS and Windows
-
-![adobe photoshop for creating radial blur](https://images.wondershare.com/filmora/article-images/2023/02/adobe-photoshop-for-creating-radial-blur.png)
+**Support System:** macOS and Windows ![adobe photoshop for creating radial blur](https://images.wondershare.com/filmora/article-images/2023/02/adobe-photoshop-for-creating-radial-blur.png)
 
 As one of the most popular and advanced photo editing software in the digital market, Adobe Photoshop is packed with high-end features and is used by many professionals as well as graphic designers to create stunning radial blur effects in their projects.
 
 To add the radial blur effect on your images using Adobe Photoshop, start with converting your background image into a **Smart Object** and go to the **“Filters”** tab. Next, select **“Blur”** and click **“Radial Blur.”** Finally, you can set the parameter in the radial blur window to adjust the effect.
 
-### 4\. [Paint.NET](https://www.getpaint.net/)
+### 4\. Paint.NET
 
 **Price:** Free
 
-**Support System:** Microsoft .NET 6, Windows XP, Vista, 7, & 8, and needs a 64-bit Windows processor
-
-![paint net for radial blur](https://images.wondershare.com/filmora/article-images/2023/02/paint-net-for-radial-blur.png)
+**Support System:** Microsoft .NET 6, Windows XP, Vista, 7, & 8, and needs a 64-bit Windows processor ![paint net for radial blur](https://images.wondershare.com/filmora/article-images/2023/02/paint-net-for-radial-blur.png)
 
 Paint.NET is an easy-to-use software developed on the .NET framework and is only compatible with Windows PCs. The software is free and has an innovative interface for novice users to create stunning image editing projects in no time.
 
 Paint.NET also lets you quickly create the **radial blur image effect** using its blur effects. You can even configure the angle, center, and quality of the effect.
 
-### 5\. [BCC FX Editor](https://borisfx.com/documentation/continuum/bcc-fx-editor/)
+### 5\. BCC FX Editor
 
 **Price:** $175 per month
 
-**Support System:** macOS Mojave 10.14
-
-![bcc fx editor for radial blur](https://images.wondershare.com/filmora/article-images/2023/02/bcc-fx-editor-for-radial-blur.png)
+**Support System:** macOS Mojave 10.14 ![bcc fx editor for radial blur](https://images.wondershare.com/filmora/article-images/2023/02/bcc-fx-editor-for-radial-blur.png)
 
 Yet another powerful software is the BCC FX Editor, designed with an intuitive interface where you can quickly apply the BCC+ Radial Blur effect around a specific point in your pictures.
 
 The software also offers various parameters to help you adjust the effect on your image. These include GPU rendering, blur type, center, radial amount, rotation amount, falloff, smooth mode, edge mode, apply mode, and more.
 
-### 6\. [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html)
+### 6\. VideoPad Video Editor
 
 **Price:** Free, and the premium version starts at $23.16 quarterly
 
-**Support System:** Windows 10, XP, Vista, 7, 8, and 8.1
-
-![videopad video editor](https://images.wondershare.com/filmora/article-images/2023/02/videopad-video-editor.png)
+**Support System:** Windows 10, XP, Vista, 7, 8, and 8.1 ![videopad video editor](https://images.wondershare.com/filmora/article-images/2023/02/videopad-video-editor.png)
 
 Designed for Windows systems, the VideoPad Editor is an intuitive and fast software program that can help you quickly add the radial blur effect to your file. Moreover, the software comes with numerous visual effects and transitions.
 
@@ -564,25 +544,25 @@ For macOS 10.12 or later
 
 Do you want more diversity in your lut video editing? Here are some free lut resources to check out.
 
-#### 1\. [Vision color luts](https://vision-color.com/free-stuff/#free-luts)
+#### 1\. Vision color luts
 
 Vision color luts is another lut video editing software that you can use to hone your skills. They also offer free luts you can upload on their favorite software. Additionally, they have luts for even the latest display resolutions such as 2K and 3D. Check out the full list here.
 
-#### 2\. [Sam Kolder](http://www.samkolder.com/work)
+#### 2\. Sam Kolder
 
 Sam Kolder is a Vlogger who is famous for his stunning creations that feature his travels. His work also inspires many creators thanks to his editing and use of color luts. He also shares free lut packs and his creative process across his official channels, including YouTube and Instagram.
 
 He mainly works on Adobe Premiere pro. However, his luts still work with other video editing software.
 
-#### [3\. Shutterstock.com](https://www.shutterstock.com/blog/129-free-cinematic-luts)
+#### 3\. Shutterstock.com
 
 Shutterstock also offers tons of free stuff relating to lut video editing. You will also find free luts that are compatible with Filmora on the website. Here are a few of them you can sample. Please check before you download other packs, as some of the stuff may not match your current versions.
 
-#### [4\. Giggster.com](https://giggster.com/guide/free-luts/)
+#### 4\. Giggster.com
 
 Giggster.com is an LA-based company that caters to aspiring filmmakers. They too offer the occasional lut files you can use to make your videos more stunning. However, they mostly feature those that work with Photoshop CC. So, you may wanna check your software’s compatibility beforehand. Here is one of the freebies you can download.
 
-#### [5\. Premiumbeat.com](https://pbblogassets.s3.amazonaws.com/uploads/2015/09/PremiumGrades.zip)
+#### 5\. Premiumbeat.com
 
 You may also want to check out some of Premiumbeat’s free offerings if you are an AfterEffects user. They offer stylistic luts and other free tools you can use to edit your films. Additionally, they do this regularly. Therefore, they are worth a look to see what is new.
 
@@ -686,25 +666,25 @@ For macOS 10.12 or later
 
 Do you want more diversity in your lut video editing? Here are some free lut resources to check out.
 
-#### 1\. [Vision color luts](https://vision-color.com/free-stuff/#free-luts)
+#### 1\. Vision color luts
 
 Vision color luts is another lut video editing software that you can use to hone your skills. They also offer free luts you can upload on their favorite software. Additionally, they have luts for even the latest display resolutions such as 2K and 3D. Check out the full list here.
 
-#### 2\. [Sam Kolder](http://www.samkolder.com/work)
+#### 2\. Sam Kolder
 
 Sam Kolder is a Vlogger who is famous for his stunning creations that feature his travels. His work also inspires many creators thanks to his editing and use of color luts. He also shares free lut packs and his creative process across his official channels, including YouTube and Instagram.
 
 He mainly works on Adobe Premiere pro. However, his luts still work with other video editing software.
 
-#### [3\. Shutterstock.com](https://www.shutterstock.com/blog/129-free-cinematic-luts)
+#### 3\. Shutterstock.com
 
 Shutterstock also offers tons of free stuff relating to lut video editing. You will also find free luts that are compatible with Filmora on the website. Here are a few of them you can sample. Please check before you download other packs, as some of the stuff may not match your current versions.
 
-#### [4\. Giggster.com](https://giggster.com/guide/free-luts/)
+#### 4\. Giggster.com
 
 Giggster.com is an LA-based company that caters to aspiring filmmakers. They too offer the occasional lut files you can use to make your videos more stunning. However, they mostly feature those that work with Photoshop CC. So, you may wanna check your software’s compatibility beforehand. Here is one of the freebies you can download.
 
-#### [5\. Premiumbeat.com](https://pbblogassets.s3.amazonaws.com/uploads/2015/09/PremiumGrades.zip)
+#### 5\. Premiumbeat.com
 
 You may also want to check out some of Premiumbeat’s free offerings if you are an AfterEffects user. They offer stylistic luts and other free tools you can use to edit your films. Additionally, they do this regularly. Therefore, they are worth a look to see what is new.
 
@@ -808,25 +788,25 @@ For macOS 10.12 or later
 
 Do you want more diversity in your lut video editing? Here are some free lut resources to check out.
 
-#### 1\. [Vision color luts](https://vision-color.com/free-stuff/#free-luts)
+#### 1\. Vision color luts
 
 Vision color luts is another lut video editing software that you can use to hone your skills. They also offer free luts you can upload on their favorite software. Additionally, they have luts for even the latest display resolutions such as 2K and 3D. Check out the full list here.
 
-#### 2\. [Sam Kolder](http://www.samkolder.com/work)
+#### 2\. Sam Kolder
 
 Sam Kolder is a Vlogger who is famous for his stunning creations that feature his travels. His work also inspires many creators thanks to his editing and use of color luts. He also shares free lut packs and his creative process across his official channels, including YouTube and Instagram.
 
 He mainly works on Adobe Premiere pro. However, his luts still work with other video editing software.
 
-#### [3\. Shutterstock.com](https://www.shutterstock.com/blog/129-free-cinematic-luts)
+#### 3\. Shutterstock.com
 
 Shutterstock also offers tons of free stuff relating to lut video editing. You will also find free luts that are compatible with Filmora on the website. Here are a few of them you can sample. Please check before you download other packs, as some of the stuff may not match your current versions.
 
-#### [4\. Giggster.com](https://giggster.com/guide/free-luts/)
+#### 4\. Giggster.com
 
 Giggster.com is an LA-based company that caters to aspiring filmmakers. They too offer the occasional lut files you can use to make your videos more stunning. However, they mostly feature those that work with Photoshop CC. So, you may wanna check your software’s compatibility beforehand. Here is one of the freebies you can download.
 
-#### [5\. Premiumbeat.com](https://pbblogassets.s3.amazonaws.com/uploads/2015/09/PremiumGrades.zip)
+#### 5\. Premiumbeat.com
 
 You may also want to check out some of Premiumbeat’s free offerings if you are an AfterEffects user. They offer stylistic luts and other free tools you can use to edit your films. Additionally, they do this regularly. Therefore, they are worth a look to see what is new.
 
@@ -930,25 +910,25 @@ For macOS 10.12 or later
 
 Do you want more diversity in your lut video editing? Here are some free lut resources to check out.
 
-#### 1\. [Vision color luts](https://vision-color.com/free-stuff/#free-luts)
+#### 1\. Vision color luts
 
 Vision color luts is another lut video editing software that you can use to hone your skills. They also offer free luts you can upload on their favorite software. Additionally, they have luts for even the latest display resolutions such as 2K and 3D. Check out the full list here.
 
-#### 2\. [Sam Kolder](http://www.samkolder.com/work)
+#### 2\. Sam Kolder
 
 Sam Kolder is a Vlogger who is famous for his stunning creations that feature his travels. His work also inspires many creators thanks to his editing and use of color luts. He also shares free lut packs and his creative process across his official channels, including YouTube and Instagram.
 
 He mainly works on Adobe Premiere pro. However, his luts still work with other video editing software.
 
-#### [3\. Shutterstock.com](https://www.shutterstock.com/blog/129-free-cinematic-luts)
+#### 3\. Shutterstock.com
 
 Shutterstock also offers tons of free stuff relating to lut video editing. You will also find free luts that are compatible with Filmora on the website. Here are a few of them you can sample. Please check before you download other packs, as some of the stuff may not match your current versions.
 
-#### [4\. Giggster.com](https://giggster.com/guide/free-luts/)
+#### 4\. Giggster.com
 
 Giggster.com is an LA-based company that caters to aspiring filmmakers. They too offer the occasional lut files you can use to make your videos more stunning. However, they mostly feature those that work with Photoshop CC. So, you may wanna check your software’s compatibility beforehand. Here is one of the freebies you can download.
 
-#### [5\. Premiumbeat.com](https://pbblogassets.s3.amazonaws.com/uploads/2015/09/PremiumGrades.zip)
+#### 5\. Premiumbeat.com
 
 You may also want to check out some of Premiumbeat’s free offerings if you are an AfterEffects user. They offer stylistic luts and other free tools you can use to edit your films. Additionally, they do this regularly. Therefore, they are worth a look to see what is new.
 
@@ -1419,17 +1399,13 @@ _Join\_video.txt_
 
 _file /Users/Video/input1.mp4_
 
-_file /Users/Video/input2.mp4_
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+_file /Users/Video/input2.mp4_ ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** You can add more than two video files.
 
 Step2 **Run** the FFmpeg command:
 
-_ffmpeg -f concat -safe 0 -i join\_video.txt -c copy output\_demuxer.mp4_
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+_ffmpeg -f concat -safe 0 -i join\_video.txt -c copy output\_demuxer.mp4_ ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note: _\-safe 0_** is added to accept any file name.
 
@@ -1445,17 +1421,13 @@ Here's how to use the "concat protocol:
 
 Step1 **Run** the FFmpeg command:
 
-_ffmpeg -i "concat:input1.ts|input2.ts" -c copy output\_protocol.ts_
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+_ffmpeg -i "concat:input1.ts|input2.ts" -c copy output\_protocol.ts_ ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** The concat protocol allows you to "stream copy" the files by adding the option **_\-c copy_**.
 
 Step2 **Input** the file name of the video using this code:
 
-_ffmpeg -i "concat:input1.mp4|input2.mp4" -c copy output\_protocol.mp4_
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+_ffmpeg -i "concat:input1.mp4|input2.mp4" -c copy output\_protocol.mp4_ ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** If you try to use this method on video formats that are not supported, only the first input video will be saved in the output video. And the video ends after the first video.
 
@@ -1473,17 +1445,13 @@ _ffmpeg -i file1.mp4 -i file2.mp4 -i file3.mp4 \\_
 
 Step2 **Use** the **filter\_complex** filtergraph parameter to instruct FFmpeg from where to take the audio and video.
 
-_\-filter\_complex "\[0:v\] \[0:a\] \[1:v\] \[1:a\] \[2:v\] \[2:a\]_
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+_\-filter\_complex "\[0:v\] \[0:a\] \[1:v\] \[1:a\] \[2:v\] \[2:a\]_ ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note: \[0:v\]\[0:a\]** means FFmpeg needs to take the video and audio from the 0th video (file1.mp4).
 
 Step3 Tell FFmpeg to concatenate three files (n=3).
 
-_concat=n=3:v=1:a=1 \[vv\] \[aa\]" \\_
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+_concat=n=3:v=1:a=1 \[vv\] \[aa\]" \\_ ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** The **v=1:a=1** implies one stream for the audio and one stream for the video.
 
@@ -1503,9 +1471,7 @@ _$ ffmpeg -i opening.mkv -i episode.mkv -i ending.mkv -filter\_complex_
 
 Step2 **Use** the **filter\_complex** parameter in FFmpeg to specify the input streams for the video and audio.
 
-_\[0:0\] \[0:1\] \[0:2\] \[1:0\] \[1:1\] \[1:2\] \[2:0\] \[2:1\] \[2:2\]_
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+_\[0:0\] \[0:1\] \[0:2\] \[1:0\] \[1:1\] \[1:2\] \[2:0\] \[2:1\] \[2:2\]_ ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note: Single video stream** (\[0:0\], \[1:0\], \[2:0\])
 
@@ -1559,9 +1525,7 @@ FFmpeg is a powerful tool that allows you to concatenate videos in various ways.
 
 Step2 **Run** the FFmpeg command:
 
-_ffmpeg -f concat -safe 0 -i join\_video.txt -c copy output\_demuxer.mp4_
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+_ffmpeg -f concat -safe 0 -i join\_video.txt -c copy output\_demuxer.mp4_ ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note: _\-safe 0_** is added to accept any file name.
 
@@ -1577,17 +1541,13 @@ Here's how to use the "concat protocol:
 
 Step1 **Run** the FFmpeg command:
 
-_ffmpeg -i "concat:input1.ts|input2.ts" -c copy output\_protocol.ts_
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+_ffmpeg -i "concat:input1.ts|input2.ts" -c copy output\_protocol.ts_ ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** The concat protocol allows you to "stream copy" the files by adding the option **_\-c copy_**.
 
 Step2 **Input** the file name of the video using this code:
 
-_ffmpeg -i "concat:input1.mp4|input2.mp4" -c copy output\_protocol.mp4_
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+_ffmpeg -i "concat:input1.mp4|input2.mp4" -c copy output\_protocol.mp4_ ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** If you try to use this method on video formats that are not supported, only the first input video will be saved in the output video. And the video ends after the first video.
 
@@ -1605,17 +1565,13 @@ _ffmpeg -i file1.mp4 -i file2.mp4 -i file3.mp4 \\_
 
 Step2 **Use** the **filter\_complex** filtergraph parameter to instruct FFmpeg from where to take the audio and video.
 
-_\-filter\_complex "\[0:v\] \[0:a\] \[1:v\] \[1:a\] \[2:v\] \[2:a\]_
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+_\-filter\_complex "\[0:v\] \[0:a\] \[1:v\] \[1:a\] \[2:v\] \[2:a\]_ ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note: \[0:v\]\[0:a\]** means FFmpeg needs to take the video and audio from the 0th video (file1.mp4).
 
 Step3 Tell FFmpeg to concatenate three files (n=3).
 
-_concat=n=3:v=1:a=1 \[vv\] \[aa\]" \\_
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+_concat=n=3:v=1:a=1 \[vv\] \[aa\]" \\_ ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** The **v=1:a=1** implies one stream for the audio and one stream for the video.
 
@@ -1635,9 +1591,7 @@ _$ ffmpeg -i opening.mkv -i episode.mkv -i ending.mkv -filter\_complex_
 
 Step2 **Use** the **filter\_complex** parameter in FFmpeg to specify the input streams for the video and audio.
 
-_\[0:0\] \[0:1\] \[0:2\] \[1:0\] \[1:1\] \[1:2\] \[2:0\] \[2:1\] \[2:2\]_
-
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
+_\[0:0\] \[0:1\] \[0:2\] \[1:0\] \[1:1\] \[1:2\] \[2:0\] \[2:1\] \[2:2\]_ ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note: Single video stream** (\[0:0\], \[1:0\], \[2:0\])
 

@@ -1,7 +1,7 @@
 ---
 title: New A Guide to Use Distortion Effect in Premeiere Pro
-date: 2024-05-20T03:37:46.159Z
-updated: 2024-05-21T03:37:46.159Z
+date: 2024-06-26T06:23:57.373Z
+updated: 2024-06-27T06:23:57.373Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New A Guide to Use Distortion Effect in Premeiere Pro
 excerpt: This Article Describes New A Guide to Use Distortion Effect in Premeiere Pro
 keywords: guide to add transition effects in premiere pro,ai animation ai animation a guide to use distortion effect in premeiere pro,distortion effect premiere pro,a guide to use distortion effect in premeiere pro,ai animation a guide to use distortion effect in premeiere pro,ai animation a complete guide to use distortion effect in premiere pro,a complete guide to use distortion effect in premiere pro
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## A Guide to Use Distortion Effect in Premeiere Pro
@@ -139,9 +139,7 @@ This fun effect utilizes fractal noise to create turbulent Premiere Pro distorti
 * Evolution
 * Pinning
 * Resize Layer
-* Antialiasing For Best Quality
-
-![Turbulent Displace effect in premiere pro](https://images.wondershare.com/filmora/article-images/2022/04/premiere-pro-distortion-effects-9.png)
+* Antialiasing For Best Quality ![Turbulent Displace effect in premiere pro](https://images.wondershare.com/filmora/article-images/2022/04/premiere-pro-distortion-effects-9.png)
 
 #### 9\. Twirl Effect
 
@@ -313,9 +311,7 @@ This fun effect utilizes fractal noise to create turbulent Premiere Pro distorti
 * Evolution
 * Pinning
 * Resize Layer
-* Antialiasing For Best Quality
-
-![Turbulent Displace effect in premiere pro](https://images.wondershare.com/filmora/article-images/2022/04/premiere-pro-distortion-effects-9.png)
+* Antialiasing For Best Quality ![Turbulent Displace effect in premiere pro](https://images.wondershare.com/filmora/article-images/2022/04/premiere-pro-distortion-effects-9.png)
 
 #### 9\. Twirl Effect
 
@@ -487,9 +483,7 @@ This fun effect utilizes fractal noise to create turbulent Premiere Pro distorti
 * Evolution
 * Pinning
 * Resize Layer
-* Antialiasing For Best Quality
-
-![Turbulent Displace effect in premiere pro](https://images.wondershare.com/filmora/article-images/2022/04/premiere-pro-distortion-effects-9.png)
+* Antialiasing For Best Quality ![Turbulent Displace effect in premiere pro](https://images.wondershare.com/filmora/article-images/2022/04/premiere-pro-distortion-effects-9.png)
 
 #### 9\. Twirl Effect
 
@@ -661,9 +655,7 @@ This fun effect utilizes fractal noise to create turbulent Premiere Pro distorti
 * Evolution
 * Pinning
 * Resize Layer
-* Antialiasing For Best Quality
-
-![Turbulent Displace effect in premiere pro](https://images.wondershare.com/filmora/article-images/2022/04/premiere-pro-distortion-effects-9.png)
+* Antialiasing For Best Quality ![Turbulent Displace effect in premiere pro](https://images.wondershare.com/filmora/article-images/2022/04/premiere-pro-distortion-effects-9.png)
 
 #### 9\. Twirl Effect
 
@@ -1487,9 +1479,7 @@ Presentation and slide show are the most widely used methods of presenting and e
 
 03 [Five OBS Slideshow Maker Alternatives](#Part 3)
 
-## Part 1 What Are the Advantages of Creating Slideshow with OBS
-
-![Advantages of Creating Slideshow with OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow2.jpg)
+## Part 1 What Are the Advantages of Creating Slideshow with OBS ![Advantages of Creating Slideshow with OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow2.jpg)
 
 OBS is an incredible tool for advanced level user for creating some fine presentation, slideshow, videos and content. It is the most widely used software for numerous applications. The reason for its wide application and usage is its various advantages which it offers to the various categories of users. Let’s see some of the advantages of creating Slideshow with OBS.
 
@@ -1523,9 +1513,7 @@ OBS is an incredible tool for advanced level user for creating some fine present
 
 **●** Duplicate slides can be effectively and easily created in OBS slideshow.
 
-## Part 2 How to Create an Image Slideshow in OBS
-
-![How to Create an Image Slideshow in OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow3.png)
+## Part 2 How to Create an Image Slideshow in OBS ![How to Create an Image Slideshow in OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow3.png)
 
 When you look upon so many advantages of making slideshow through OBS, you may be eager to know how you can create an images, videos and image slideshow in OBS. Let’s see the process of **OBS image slideshow**:
 
@@ -1565,33 +1553,23 @@ This is an easy way to create an image in OBS slideshow. You can also learn crea
 
 Although OBS is one of the popular slideshow maker, but due to its advanced features and usage, it may not be fit for everyone. So, here are some of OBS Slideshow maker alternatives you can try:
 
-### 01Camtasia
-
-![Camtasia- OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow4.jpg)
+### 01Camtasia ![Camtasia- OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow4.jpg)
 
 For those who are new to making videos and slides using software, Camtasia is a good option. One can easily record the specific areas of the screen on the computer screen. Drag and drop, remove, trim, selecting and movement, effects, adding music and effects are easily possible through Camtasia.
 
-### 02ShareX
-
-![ShareX:OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow5.jpg)
+### 02ShareX ![ShareX:OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow5.jpg)
 
 It is a free and open source tool with a lot of features and addition. It some unique features like one can record the screen as it is scrolled down and time can also be set. It is also useful for text files also. One can take the screen shot of text which make easier for the users as it saves time. It supports many destinations like image, file and text uploaders. It is good for window users who are looking for easy and free alternatives for OBS.
 
-### 03XSplit Broadcaster
-
-![XSplit Broadcaster-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow6.jpg)
+### 03XSplit Broadcaster ![XSplit Broadcaster-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow6.jpg)
 
 When you are looking for a good alternative for OBS to make live streaming and recording go easier, then XSplit Broadcaster is the best option. Its application is seen in both gamming and esports. You have so many features like drag, drop, customization, image resizing and including videos and gif. This is good for the people who love to do customization and create media slideshows by including multiple of images.
 
-### 04Streamlabs OBS
-
-![Streamlabs OBS-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow7.jpg)
+### 04Streamlabs OBS ![Streamlabs OBS-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow7.jpg)
 
 This is open source and free software good for recording and live streaming purpose. This is good for gamers and live event organizers. Layout editor, drag and drop and control over recording make this software an exceptional one. One can easily watch the recent events, save the replays and chat on chat box over the screen.
 
-### 05Lightstream Studio
-
-![Lightstream Studio -OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow8.png)
+### 05Lightstream Studio ![Lightstream Studio -OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow8.png)
 
 If you desire to go live in few minutes having a computer and good internet connection, the best alternative software other than OBS is Lightstream Studio. It is good for gamers and creators who just cannot wait to go live along with some great customization features. Layout making, creation of unlimited projects and scenes, motion graphics and social media messaging can be done effectively with the use of this software.
 
@@ -1635,9 +1613,7 @@ Presentation and slide show are the most widely used methods of presenting and e
 
 03 [Five OBS Slideshow Maker Alternatives](#Part 3)
 
-## Part 1 What Are the Advantages of Creating Slideshow with OBS
-
-![Advantages of Creating Slideshow with OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow2.jpg)
+## Part 1 What Are the Advantages of Creating Slideshow with OBS ![Advantages of Creating Slideshow with OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow2.jpg)
 
 OBS is an incredible tool for advanced level user for creating some fine presentation, slideshow, videos and content. It is the most widely used software for numerous applications. The reason for its wide application and usage is its various advantages which it offers to the various categories of users. Let’s see some of the advantages of creating Slideshow with OBS.
 
@@ -1671,9 +1647,7 @@ OBS is an incredible tool for advanced level user for creating some fine present
 
 **●** Duplicate slides can be effectively and easily created in OBS slideshow.
 
-## Part 2 How to Create an Image Slideshow in OBS
-
-![How to Create an Image Slideshow in OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow3.png)
+## Part 2 How to Create an Image Slideshow in OBS ![How to Create an Image Slideshow in OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow3.png)
 
 When you look upon so many advantages of making slideshow through OBS, you may be eager to know how you can create an images, videos and image slideshow in OBS. Let’s see the process of **OBS image slideshow**:
 
@@ -1713,33 +1687,23 @@ This is an easy way to create an image in OBS slideshow. You can also learn crea
 
 Although OBS is one of the popular slideshow maker, but due to its advanced features and usage, it may not be fit for everyone. So, here are some of OBS Slideshow maker alternatives you can try:
 
-### 01Camtasia
-
-![Camtasia- OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow4.jpg)
+### 01Camtasia ![Camtasia- OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow4.jpg)
 
 For those who are new to making videos and slides using software, Camtasia is a good option. One can easily record the specific areas of the screen on the computer screen. Drag and drop, remove, trim, selecting and movement, effects, adding music and effects are easily possible through Camtasia.
 
-### 02ShareX
-
-![ShareX:OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow5.jpg)
+### 02ShareX ![ShareX:OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow5.jpg)
 
 It is a free and open source tool with a lot of features and addition. It some unique features like one can record the screen as it is scrolled down and time can also be set. It is also useful for text files also. One can take the screen shot of text which make easier for the users as it saves time. It supports many destinations like image, file and text uploaders. It is good for window users who are looking for easy and free alternatives for OBS.
 
-### 03XSplit Broadcaster
-
-![XSplit Broadcaster-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow6.jpg)
+### 03XSplit Broadcaster ![XSplit Broadcaster-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow6.jpg)
 
 When you are looking for a good alternative for OBS to make live streaming and recording go easier, then XSplit Broadcaster is the best option. Its application is seen in both gamming and esports. You have so many features like drag, drop, customization, image resizing and including videos and gif. This is good for the people who love to do customization and create media slideshows by including multiple of images.
 
-### 04Streamlabs OBS
-
-![Streamlabs OBS-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow7.jpg)
+### 04Streamlabs OBS ![Streamlabs OBS-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow7.jpg)
 
 This is open source and free software good for recording and live streaming purpose. This is good for gamers and live event organizers. Layout editor, drag and drop and control over recording make this software an exceptional one. One can easily watch the recent events, save the replays and chat on chat box over the screen.
 
-### 05Lightstream Studio
-
-![Lightstream Studio -OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow8.png)
+### 05Lightstream Studio ![Lightstream Studio -OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow8.png)
 
 If you desire to go live in few minutes having a computer and good internet connection, the best alternative software other than OBS is Lightstream Studio. It is good for gamers and creators who just cannot wait to go live along with some great customization features. Layout making, creation of unlimited projects and scenes, motion graphics and social media messaging can be done effectively with the use of this software.
 
@@ -1783,9 +1747,7 @@ Presentation and slide show are the most widely used methods of presenting and e
 
 03 [Five OBS Slideshow Maker Alternatives](#Part 3)
 
-## Part 1 What Are the Advantages of Creating Slideshow with OBS
-
-![Advantages of Creating Slideshow with OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow2.jpg)
+## Part 1 What Are the Advantages of Creating Slideshow with OBS ![Advantages of Creating Slideshow with OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow2.jpg)
 
 OBS is an incredible tool for advanced level user for creating some fine presentation, slideshow, videos and content. It is the most widely used software for numerous applications. The reason for its wide application and usage is its various advantages which it offers to the various categories of users. Let’s see some of the advantages of creating Slideshow with OBS.
 
@@ -1819,9 +1781,7 @@ OBS is an incredible tool for advanced level user for creating some fine present
 
 **●** Duplicate slides can be effectively and easily created in OBS slideshow.
 
-## Part 2 How to Create an Image Slideshow in OBS
-
-![How to Create an Image Slideshow in OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow3.png)
+## Part 2 How to Create an Image Slideshow in OBS ![How to Create an Image Slideshow in OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow3.png)
 
 When you look upon so many advantages of making slideshow through OBS, you may be eager to know how you can create an images, videos and image slideshow in OBS. Let’s see the process of **OBS image slideshow**:
 
@@ -1861,33 +1821,23 @@ This is an easy way to create an image in OBS slideshow. You can also learn crea
 
 Although OBS is one of the popular slideshow maker, but due to its advanced features and usage, it may not be fit for everyone. So, here are some of OBS Slideshow maker alternatives you can try:
 
-### 01Camtasia
-
-![Camtasia- OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow4.jpg)
+### 01Camtasia ![Camtasia- OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow4.jpg)
 
 For those who are new to making videos and slides using software, Camtasia is a good option. One can easily record the specific areas of the screen on the computer screen. Drag and drop, remove, trim, selecting and movement, effects, adding music and effects are easily possible through Camtasia.
 
-### 02ShareX
-
-![ShareX:OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow5.jpg)
+### 02ShareX ![ShareX:OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow5.jpg)
 
 It is a free and open source tool with a lot of features and addition. It some unique features like one can record the screen as it is scrolled down and time can also be set. It is also useful for text files also. One can take the screen shot of text which make easier for the users as it saves time. It supports many destinations like image, file and text uploaders. It is good for window users who are looking for easy and free alternatives for OBS.
 
-### 03XSplit Broadcaster
-
-![XSplit Broadcaster-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow6.jpg)
+### 03XSplit Broadcaster ![XSplit Broadcaster-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow6.jpg)
 
 When you are looking for a good alternative for OBS to make live streaming and recording go easier, then XSplit Broadcaster is the best option. Its application is seen in both gamming and esports. You have so many features like drag, drop, customization, image resizing and including videos and gif. This is good for the people who love to do customization and create media slideshows by including multiple of images.
 
-### 04Streamlabs OBS
-
-![Streamlabs OBS-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow7.jpg)
+### 04Streamlabs OBS ![Streamlabs OBS-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow7.jpg)
 
 This is open source and free software good for recording and live streaming purpose. This is good for gamers and live event organizers. Layout editor, drag and drop and control over recording make this software an exceptional one. One can easily watch the recent events, save the replays and chat on chat box over the screen.
 
-### 05Lightstream Studio
-
-![Lightstream Studio -OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow8.png)
+### 05Lightstream Studio ![Lightstream Studio -OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow8.png)
 
 If you desire to go live in few minutes having a computer and good internet connection, the best alternative software other than OBS is Lightstream Studio. It is good for gamers and creators who just cannot wait to go live along with some great customization features. Layout making, creation of unlimited projects and scenes, motion graphics and social media messaging can be done effectively with the use of this software.
 
@@ -1931,9 +1881,7 @@ Presentation and slide show are the most widely used methods of presenting and e
 
 03 [Five OBS Slideshow Maker Alternatives](#Part 3)
 
-## Part 1 What Are the Advantages of Creating Slideshow with OBS
-
-![Advantages of Creating Slideshow with OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow2.jpg)
+## Part 1 What Are the Advantages of Creating Slideshow with OBS ![Advantages of Creating Slideshow with OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow2.jpg)
 
 OBS is an incredible tool for advanced level user for creating some fine presentation, slideshow, videos and content. It is the most widely used software for numerous applications. The reason for its wide application and usage is its various advantages which it offers to the various categories of users. Let’s see some of the advantages of creating Slideshow with OBS.
 
@@ -1967,9 +1915,7 @@ OBS is an incredible tool for advanced level user for creating some fine present
 
 **●** Duplicate slides can be effectively and easily created in OBS slideshow.
 
-## Part 2 How to Create an Image Slideshow in OBS
-
-![How to Create an Image Slideshow in OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow3.png)
+## Part 2 How to Create an Image Slideshow in OBS ![How to Create an Image Slideshow in OBS](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow3.png)
 
 When you look upon so many advantages of making slideshow through OBS, you may be eager to know how you can create an images, videos and image slideshow in OBS. Let’s see the process of **OBS image slideshow**:
 
@@ -2009,33 +1955,23 @@ This is an easy way to create an image in OBS slideshow. You can also learn crea
 
 Although OBS is one of the popular slideshow maker, but due to its advanced features and usage, it may not be fit for everyone. So, here are some of OBS Slideshow maker alternatives you can try:
 
-### 01Camtasia
-
-![Camtasia- OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow4.jpg)
+### 01Camtasia ![Camtasia- OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow4.jpg)
 
 For those who are new to making videos and slides using software, Camtasia is a good option. One can easily record the specific areas of the screen on the computer screen. Drag and drop, remove, trim, selecting and movement, effects, adding music and effects are easily possible through Camtasia.
 
-### 02ShareX
-
-![ShareX:OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow5.jpg)
+### 02ShareX ![ShareX:OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow5.jpg)
 
 It is a free and open source tool with a lot of features and addition. It some unique features like one can record the screen as it is scrolled down and time can also be set. It is also useful for text files also. One can take the screen shot of text which make easier for the users as it saves time. It supports many destinations like image, file and text uploaders. It is good for window users who are looking for easy and free alternatives for OBS.
 
-### 03XSplit Broadcaster
-
-![XSplit Broadcaster-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow6.jpg)
+### 03XSplit Broadcaster ![XSplit Broadcaster-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow6.jpg)
 
 When you are looking for a good alternative for OBS to make live streaming and recording go easier, then XSplit Broadcaster is the best option. Its application is seen in both gamming and esports. You have so many features like drag, drop, customization, image resizing and including videos and gif. This is good for the people who love to do customization and create media slideshows by including multiple of images.
 
-### 04Streamlabs OBS
-
-![Streamlabs OBS-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow7.jpg)
+### 04Streamlabs OBS ![Streamlabs OBS-OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow7.jpg)
 
 This is open source and free software good for recording and live streaming purpose. This is good for gamers and live event organizers. Layout editor, drag and drop and control over recording make this software an exceptional one. One can easily watch the recent events, save the replays and chat on chat box over the screen.
 
-### 05Lightstream Studio
-
-![Lightstream Studio -OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow8.png)
+### 05Lightstream Studio ![Lightstream Studio -OBS Slideshow Maker](https://images.wondershare.com/filmora/article-images/2022/05/how-to-create-obs-slideshow8.png)
 
 If you desire to go live in few minutes having a computer and good internet connection, the best alternative software other than OBS is Lightstream Studio. It is good for gamers and creators who just cannot wait to go live along with some great customization features. Layout making, creation of unlimited projects and scenes, motion graphics and social media messaging can be done effectively with the use of this software.
 

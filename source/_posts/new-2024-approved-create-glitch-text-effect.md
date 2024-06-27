@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Create Glitch Text Effect
-date: 2024-04-24T07:08:31.395Z
-updated: 2024-04-25T07:08:31.395Z
+date: 2024-06-26T06:24:25.787Z
+updated: 2024-06-27T06:24:25.787Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved Create Glitch Text Effect
 excerpt: This Article Describes New 2024 Approved Create Glitch Text Effect
 keywords: ai animation how to create a glitch text effect,glitch effect premiere pro,ai animation create glitch text effect,ai animation ai animation create glitch text effect,create chroma key written text effects,how to create a glitch text effect,create glitch text effect
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## How to Create a Glitch Text Effect?
@@ -1107,13 +1107,13 @@ Also available for both iOS and Android devices, Vimeo can also be a handy solut
 
 ![vimeo](https://images.wondershare.com/filmora/article-images/edit-vimeo-video-on-iphone.jpg)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 </article
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

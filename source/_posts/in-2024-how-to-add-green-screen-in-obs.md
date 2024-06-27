@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Add Green Screen in OBS
-date: 2024-05-20T03:38:32.499Z
-updated: 2024-05-21T03:38:32.499Z
+date: 2024-06-26T06:24:13.025Z
+updated: 2024-06-27T06:24:13.025Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, How to Add Green Screen in OBS
 excerpt: This Article Describes In 2024, How to Add Green Screen in OBS
 keywords: add green screen video on tiktok,how to add green screen effects in phhotoshop,ai animation how to add green screen in obs,ai animation how to add a green screen to zoom,add a green screen to zoom,how to add green screen in obs,how to add a green screen to zoom
-thumbnail: https://www.lifewire.com/thmb/cLzdzaXCHQmL2C9Qufq6ZiO1gSQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642250032-010d3026f565420eac9ac098bced6278.jpg
+thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b59cc59254c5cb25869dff46a.jpg
 ---
 
 ## How to Add Green Screen in OBS
@@ -1326,13 +1326,13 @@ LUTs are an amazing tool in video editing to improve the color scheme of your vi
 
 Does the work of Danny Gevirtz inspire you? Here are some of the most popular Danny Gevirtz-style LUTs you can use for your content.
 
-### 1\. [Creative Filmmaking LUTs](https://danny-gevirtz.sellfy.store/p/creative-filmmaking-luts/)
+### 1\. Creative Filmmaking LUTs
 
 The creative Filmmaking LUT pack consists of 7 unique LUTs designed to enhance your videos. Each LUT offers a unique look, from vintage vibes to the iconic Nolan Blue. Inspired by Christopher Nolan's film "Dunkirk," the Nolan Blue LUT gives you a similar color grading. Moreover, you can achieve the perfect sunset color grading with the Warm Nostalgia LUT. There are so many more to explore in this pack that you can use.
 
 ![creative filmmaking luts](https://images.wondershare.com/filmora/article-images/2023/creative-filmmaking-luts.jpg)
 
-### 2\. [Sellfy Danny Gevirtz Filmmaker LUT Pack](https://vfxdownload.net/danny-gevirtz-filmmaker-lut-pack/)
+### 2\. Sellfy Danny Gevirtz Filmmaker LUT Pack
 
 Danny Gevirtz's color grading inspires this LUT pack. It provides a collection of 8 unique LUTs designed to give your content a different look. Furthermore, this LUT pack has LUTs from moody and cinematic to basic skin tone LUTs. This pack's Teal and Orange LUT are designed to enhance skin tones in a video or photo. Moreover, this pack also offers LUT for outdoor scenery and nature footage.
 
@@ -1376,13 +1376,13 @@ LUTs are an amazing tool in video editing to improve the color scheme of your vi
 
 Does the work of Danny Gevirtz inspire you? Here are some of the most popular Danny Gevirtz-style LUTs you can use for your content.
 
-### 1\. [Creative Filmmaking LUTs](https://danny-gevirtz.sellfy.store/p/creative-filmmaking-luts/)
+### 1\. Creative Filmmaking LUTs
 
 The creative Filmmaking LUT pack consists of 7 unique LUTs designed to enhance your videos. Each LUT offers a unique look, from vintage vibes to the iconic Nolan Blue. Inspired by Christopher Nolan's film "Dunkirk," the Nolan Blue LUT gives you a similar color grading. Moreover, you can achieve the perfect sunset color grading with the Warm Nostalgia LUT. There are so many more to explore in this pack that you can use.
 
 ![creative filmmaking luts](https://images.wondershare.com/filmora/article-images/2023/creative-filmmaking-luts.jpg)
 
-### 2\. [Sellfy Danny Gevirtz Filmmaker LUT Pack](https://vfxdownload.net/danny-gevirtz-filmmaker-lut-pack/)
+### 2\. Sellfy Danny Gevirtz Filmmaker LUT Pack
 
 Danny Gevirtz's color grading inspires this LUT pack. It provides a collection of 8 unique LUTs designed to give your content a different look. Furthermore, this LUT pack has LUTs from moody and cinematic to basic skin tone LUTs. This pack's Teal and Orange LUT are designed to enhance skin tones in a video or photo. Moreover, this pack also offers LUT for outdoor scenery and nature footage.
 

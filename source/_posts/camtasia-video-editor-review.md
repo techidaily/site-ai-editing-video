@@ -1,7 +1,7 @@
 ---
 title: Camtasia Video Editor Review
-date: 2024-05-20T03:37:20.430Z
-updated: 2024-05-21T03:37:20.430Z
+date: 2024-06-26T06:24:23.119Z
+updated: 2024-06-27T06:24:23.119Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Camtasia Video Editor Review
 excerpt: This Article Describes Camtasia Video Editor Review
 keywords: camtasia review is it the best video editor,ai animation camtasia video editor review,kdenlive video editor review,camtasia video editor review,movavi video editor review,bandicut video editor review,shotcut video editor review
-thumbnail: https://www.lifewire.com/thmb/UchI0OfcFuiZjMJhTw31h6uHSHQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Race-982fb219114a48fb96b9c5a2c6f93847.jpg
+thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
 ## Camtasia Video Editor Review

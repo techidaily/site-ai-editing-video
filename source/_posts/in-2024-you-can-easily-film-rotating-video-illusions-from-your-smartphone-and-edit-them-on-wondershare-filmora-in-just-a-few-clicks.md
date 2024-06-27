@@ -1,7 +1,7 @@
 ---
 title: In 2024, You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks
-date: 2024-04-24T07:08:25.327Z
-updated: 2024-04-25T07:08:25.327Z
+date: 2024-06-26T06:23:58.797Z
+updated: 2024-06-27T06:23:58.797Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks
 excerpt: This Article Describes In 2024, You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks
 keywords: ai animation how can you import and adjust the video clips on wondershare filmora,you can easily film rotating video illusions from your smartphone and edit them on wondershare filmora in just a few clicks,this article will focus on understanding the secret tips in wondershare filmora that you can use to edit videos faster and more efficiently,how can you import and adjust the video clips on wondershare filmora,in this article you will learn how to record creative cinematic videos using a smartphone and edit the video with wondershare filmora,this article will explore in detail how you can use the features available in wondershare filmora to export the video by changing the resolution of the footage,ai animation ai animation how can you import and adjust the video clips on wondershare filmora
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks
@@ -98,9 +98,7 @@ To create a professional rotating video illusion, [Wondershare Filmora](https://
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![interface of wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-6.png)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later ![interface of wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-6.png)
 
 ##### Step1 Download Wondershare Filmora
 
@@ -218,9 +216,7 @@ To create a professional rotating video illusion, [Wondershare Filmora](https://
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![interface of wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-6.png)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later ![interface of wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-6.png)
 
 ##### Step1 Download Wondershare Filmora
 
@@ -660,9 +656,9 @@ Had you ever thought about creating a video along with the music tracks? Is it e
 
 #### In this article
 
-01 [Video Maker with Song – Filmora Video Editor ](#Part 1)
+01 [Video Maker with Song – Filmora Video Editor](#Part 1)
 
-02 [Tip: Additional video edits using the Filmora video editor ](#Part 2)
+02 [Tip: Additional video edits using the Filmora video editor](#Part 2)
 
 ## Part 1 Video Maker with Song – Filmora Video Editor
 
@@ -708,19 +704,19 @@ The stepwise guide to editing the media file using the Video Maker with a song l
 
 Go to the official webpage of Filmora and download the appropriate version of this program based on your system OS. You can either choose Windows or Mac and download according to your needs. Then, install the app by following the instruction wizard. Launch the program and insert the media file into the working space by tapping the Import Media files option. You must drag and drop the uploaded media file into the timeline to make further edits.
 
-![Import-media-files ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![Import-media-files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 ##### Step2 Add song to the uploaded video
 
 Now, click the Audio in the Menu option and choose Sound effects from the left panel of the screen. From the displayed items at the right panel, choose the desired ones and make a right-click on them. Then, select Apply option from the pop-up screen. You can also drag and drop it to the timeline to merge this audio track with the video file.
 
-![Add-sound-effects ](https://images.wondershare.com/filmora/guide/audio-effects-2.png)
+![Add-sound-effects](https://images.wondershare.com/filmora/guide/audio-effects-2.png)
 
 ##### Step3 Preview and export
 
 After adding the desired audio tracks with the uploaded video content, preview the video by playing them on this video editor screen. When you are convinced with the edit operations, then export it by tapping the Export button. In the Export screen, you can change the display settings like resolution, and file format to overcome the file compatibility issues. You can store it on any external or internal storage space based on your needs.
 
-![Export-edited-video ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
+![Export-edited-video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
 
 Use the above instructions to edit the media files using the Filmora app the video maker with song and enhance the quality of the video content professionally.
 
@@ -728,9 +724,7 @@ Use the above instructions to edit the media files using the Filmora app the vid
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
@@ -758,9 +752,9 @@ Had you ever thought about creating a video along with the music tracks? Is it e
 
 #### In this article
 
-01 [Video Maker with Song – Filmora Video Editor ](#Part 1)
+01 [Video Maker with Song – Filmora Video Editor](#Part 1)
 
-02 [Tip: Additional video edits using the Filmora video editor ](#Part 2)
+02 [Tip: Additional video edits using the Filmora video editor](#Part 2)
 
 ## Part 1 Video Maker with Song – Filmora Video Editor
 
@@ -806,19 +800,19 @@ The stepwise guide to editing the media file using the Video Maker with a song l
 
 Go to the official webpage of Filmora and download the appropriate version of this program based on your system OS. You can either choose Windows or Mac and download according to your needs. Then, install the app by following the instruction wizard. Launch the program and insert the media file into the working space by tapping the Import Media files option. You must drag and drop the uploaded media file into the timeline to make further edits.
 
-![Import-media-files ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![Import-media-files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 ##### Step2 Add song to the uploaded video
 
 Now, click the Audio in the Menu option and choose Sound effects from the left panel of the screen. From the displayed items at the right panel, choose the desired ones and make a right-click on them. Then, select Apply option from the pop-up screen. You can also drag and drop it to the timeline to merge this audio track with the video file.
 
-![Add-sound-effects ](https://images.wondershare.com/filmora/guide/audio-effects-2.png)
+![Add-sound-effects](https://images.wondershare.com/filmora/guide/audio-effects-2.png)
 
 ##### Step3 Preview and export
 
 After adding the desired audio tracks with the uploaded video content, preview the video by playing them on this video editor screen. When you are convinced with the edit operations, then export it by tapping the Export button. In the Export screen, you can change the display settings like resolution, and file format to overcome the file compatibility issues. You can store it on any external or internal storage space based on your needs.
 
-![Export-edited-video ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
+![Export-edited-video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
 
 Use the above instructions to edit the media files using the Filmora app the video maker with song and enhance the quality of the video content professionally.
 
@@ -826,9 +820,7 @@ Use the above instructions to edit the media files using the Filmora app the vid
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
@@ -856,9 +848,9 @@ Had you ever thought about creating a video along with the music tracks? Is it e
 
 #### In this article
 
-01 [Video Maker with Song – Filmora Video Editor ](#Part 1)
+01 [Video Maker with Song – Filmora Video Editor](#Part 1)
 
-02 [Tip: Additional video edits using the Filmora video editor ](#Part 2)
+02 [Tip: Additional video edits using the Filmora video editor](#Part 2)
 
 ## Part 1 Video Maker with Song – Filmora Video Editor
 
@@ -904,19 +896,19 @@ The stepwise guide to editing the media file using the Video Maker with a song l
 
 Go to the official webpage of Filmora and download the appropriate version of this program based on your system OS. You can either choose Windows or Mac and download according to your needs. Then, install the app by following the instruction wizard. Launch the program and insert the media file into the working space by tapping the Import Media files option. You must drag and drop the uploaded media file into the timeline to make further edits.
 
-![Import-media-files ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![Import-media-files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 ##### Step2 Add song to the uploaded video
 
 Now, click the Audio in the Menu option and choose Sound effects from the left panel of the screen. From the displayed items at the right panel, choose the desired ones and make a right-click on them. Then, select Apply option from the pop-up screen. You can also drag and drop it to the timeline to merge this audio track with the video file.
 
-![Add-sound-effects ](https://images.wondershare.com/filmora/guide/audio-effects-2.png)
+![Add-sound-effects](https://images.wondershare.com/filmora/guide/audio-effects-2.png)
 
 ##### Step3 Preview and export
 
 After adding the desired audio tracks with the uploaded video content, preview the video by playing them on this video editor screen. When you are convinced with the edit operations, then export it by tapping the Export button. In the Export screen, you can change the display settings like resolution, and file format to overcome the file compatibility issues. You can store it on any external or internal storage space based on your needs.
 
-![Export-edited-video ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
+![Export-edited-video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
 
 Use the above instructions to edit the media files using the Filmora app the video maker with song and enhance the quality of the video content professionally.
 
@@ -924,9 +916,7 @@ Use the above instructions to edit the media files using the Filmora app the vid
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
@@ -954,9 +944,9 @@ Had you ever thought about creating a video along with the music tracks? Is it e
 
 #### In this article
 
-01 [Video Maker with Song – Filmora Video Editor ](#Part 1)
+01 [Video Maker with Song – Filmora Video Editor](#Part 1)
 
-02 [Tip: Additional video edits using the Filmora video editor ](#Part 2)
+02 [Tip: Additional video edits using the Filmora video editor](#Part 2)
 
 ## Part 1 Video Maker with Song – Filmora Video Editor
 
@@ -1002,19 +992,19 @@ The stepwise guide to editing the media file using the Video Maker with a song l
 
 Go to the official webpage of Filmora and download the appropriate version of this program based on your system OS. You can either choose Windows or Mac and download according to your needs. Then, install the app by following the instruction wizard. Launch the program and insert the media file into the working space by tapping the Import Media files option. You must drag and drop the uploaded media file into the timeline to make further edits.
 
-![Import-media-files ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![Import-media-files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 ##### Step2 Add song to the uploaded video
 
 Now, click the Audio in the Menu option and choose Sound effects from the left panel of the screen. From the displayed items at the right panel, choose the desired ones and make a right-click on them. Then, select Apply option from the pop-up screen. You can also drag and drop it to the timeline to merge this audio track with the video file.
 
-![Add-sound-effects ](https://images.wondershare.com/filmora/guide/audio-effects-2.png)
+![Add-sound-effects](https://images.wondershare.com/filmora/guide/audio-effects-2.png)
 
 ##### Step3 Preview and export
 
 After adding the desired audio tracks with the uploaded video content, preview the video by playing them on this video editor screen. When you are convinced with the edit operations, then export it by tapping the Export button. In the Export screen, you can change the display settings like resolution, and file format to overcome the file compatibility issues. You can store it on any external or internal storage space based on your needs.
 
-![Export-edited-video ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
+![Export-edited-video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
 
 Use the above instructions to edit the media files using the Filmora app the video maker with song and enhance the quality of the video content professionally.
 
@@ -1022,9 +1012,7 @@ Use the above instructions to edit the media files using the Filmora app the vid
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 

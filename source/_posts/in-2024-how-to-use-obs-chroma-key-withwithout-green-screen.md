@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use OBS Chroma Key With/Without Green Screen
-date: 2024-06-18T14:31:13.956Z
-updated: 2024-06-19T14:31:13.956Z
+date: 2024-06-26T06:24:09.072Z
+updated: 2024-06-27T06:24:09.072Z
 tags: 
   - ai
   - animation videos
@@ -704,7 +704,7 @@ Therefore, if you're looking for a video trimmer with all the bells and whistles
 
 Videos are an excellent way to share memories, tell stories, or just have some fun. But sometimes, you might want to trim a clip to make it shorter, edit out certain parts, or just give it a different look. Flexclip's video trimmer is a splendid way to do this in just a few steps:
 
-Step1 First, ensure you have a stable internet connection. Now, launch a browser of your choice on your PC and visit the[Flexclip Video Trimmer](https://www.flexclip.com/tools/trim-video/)website.
+Step1 First, ensure you have a stable internet connection. Now, launch a browser of your choice on your PC and visit the [Flexclip Video Trimmer](https://www.flexclip.com/tools/trim-video/) website.
 
 Step2 Now, drag and drop your video clip or click the **“Browse Video”** option to find and upload the video from your computer in the supported MP4, M4V, MOV, or WEBM video formats.
 
@@ -798,7 +798,7 @@ Therefore, if you're looking for a video trimmer with all the bells and whistles
 
 Videos are an excellent way to share memories, tell stories, or just have some fun. But sometimes, you might want to trim a clip to make it shorter, edit out certain parts, or just give it a different look. Flexclip's video trimmer is a splendid way to do this in just a few steps:
 
-Step1 First, ensure you have a stable internet connection. Now, launch a browser of your choice on your PC and visit the[Flexclip Video Trimmer](https://www.flexclip.com/tools/trim-video/)website.
+Step1 First, ensure you have a stable internet connection. Now, launch a browser of your choice on your PC and visit the [Flexclip Video Trimmer](https://www.flexclip.com/tools/trim-video/) website.
 
 Step2 Now, drag and drop your video clip or click the **“Browse Video”** option to find and upload the video from your computer in the supported MP4, M4V, MOV, or WEBM video formats.
 

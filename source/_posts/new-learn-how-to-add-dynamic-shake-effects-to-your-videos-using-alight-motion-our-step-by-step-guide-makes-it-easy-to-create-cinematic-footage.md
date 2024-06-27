@@ -1,7 +1,7 @@
 ---
 title: New Learn How to Add Dynamic Shake Effects to Your Videos Using Alight Motion. Our Step-by-Step Guide Makes It Easy to Create Cinematic Footage
-date: 2024-04-24T07:08:21.535Z
-updated: 2024-04-25T07:08:21.535Z
+date: 2024-06-26T06:24:05.682Z
+updated: 2024-06-27T06:24:05.682Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Learn How to Add Dynamic Shake Effects to Your Videos Using Alight Motion. Our Step-by-Step Guide Makes It Easy to Create Cinematic Footage
 excerpt: This Article Describes New Learn How to Add Dynamic Shake Effects to Your Videos Using Alight Motion. Our Step-by-Step Guide Makes It Easy to Create Cinematic Footage
 keywords: if you want to record video streams on windows or mac using ffmpeg read our guide and learn how to do this with easy step by step instructions,learn how to add dynamic shake effects to your videos using alight motion our step by step guide makes it easy to create cinematic footage,start your creative journey now follow this step by step guide on how to add double exposure effects to your personal videos by using the filmora video editor,learn how to effortlessly mirror video clips in adobe premiere pro with this step by step guide perfect for creating a symmetrical look in your videos,interested in adding a cinematic strobe light effect to your movie or video title follow the steps explained in detail here,follow a few simple steps and learn how to create a professional glowing edge effect to your videos in filmora,add some sci fi touch to your next video content using wondershare filmora editing tools to create an alternate reality effect
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## Learn How to Add Dynamic Shake Effects to Your Videos Using Alight Motion. Our Step-by-Step Guide Makes It Easy to Create Cinematic Footage

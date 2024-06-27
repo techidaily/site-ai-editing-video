@@ -1,7 +1,7 @@
 ---
 title: Updated How to Create a Light Sweep (Shine) Effect with Filmora
-date: 2024-05-20T03:38:33.897Z
-updated: 2024-05-21T03:38:33.897Z
+date: 2024-06-26T06:24:15.820Z
+updated: 2024-06-27T06:24:15.820Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Create a Light Sweep (Shine) Effect with Filmora
 excerpt: This Article Describes Updated How to Create a Light Sweep (Shine) Effect with Filmora
 keywords: ai animation how to create a text effect video with filmora,ai animation how to create a light sweep shine effect with filmora,create a light sweep shine effect,how to create a text effect video with filmora,ai animation ai animation how to create a text effect video with filmora,how to create a light sweep shine effect with filmora,how to create a light sweep shine effect
-thumbnail: https://www.lifewire.com/thmb/Dp9islCb9GD3RtQaIU23WoKYMSs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-lgbt-movies-on-netflix-right-now-5069913-92c9bcd3792548908be32c420bc4fa27.jpg
+thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997cdcaec1704f07c09aed014e.jpg
 ---
 
 ## How to Create a Light Sweep (Shine) Effect with Filmora

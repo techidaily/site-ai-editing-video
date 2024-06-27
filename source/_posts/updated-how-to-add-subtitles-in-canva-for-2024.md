@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Subtitles in Canva for 2024
-date: 2024-04-24T07:08:34.224Z
-updated: 2024-04-25T07:08:34.224Z
+date: 2024-06-26T06:24:36.675Z
+updated: 2024-06-27T06:24:36.675Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Add Subtitles in Canva for 2024
 excerpt: This Article Describes Updated How to Add Subtitles in Canva for 2024
 keywords: ai animation how to add subtitles in canva,how to add subtitles in vlc media play,ai animation ai animation how to add subtitles in canva,add subtitles in canva,steps to add subtitles in canva,ai animation steps to add subtitles in canva,how to add subtitles in canva
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## How to Add Subtitles in Canva?
@@ -787,9 +787,7 @@ You can trim your video, add music, add effects, adjust speed, correct colors, a
 
 In this article, the focus of the discussion is how to replace Sky After Effects. Users can also learn about the advantages of using background replacers. If you want to learn sky replacement in After Effects, there is an instruction manual. It will give you some tips and tricks for replacing and adjusting the sky. At the end, we will discuss another [software for replacing video backgrounds](https://tools.techidaily.com/wondershare/filmora/download/).
 
-**Sky Replacement** A cross-platform works like magic for background removal or sky replacement photos!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
+**Sky Replacement** A cross-platform works like magic for background removal or sky replacement photos ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 

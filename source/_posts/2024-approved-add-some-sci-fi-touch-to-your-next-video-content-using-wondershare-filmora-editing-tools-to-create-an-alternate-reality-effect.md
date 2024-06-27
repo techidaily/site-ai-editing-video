@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Add some Sci-Fi Touch to Your Next Video Content Using Wondershare Filmora Editing Tools to Create an Alternate Reality Effect
-date: 2024-05-20T03:37:48.747Z
-updated: 2024-05-21T03:37:48.747Z
+date: 2024-06-26T06:23:55.702Z
+updated: 2024-06-27T06:23:55.702Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved Add some Sci-Fi Touch to Your Next Video Content Using Wondershare Filmora Editing Tools to Create an Alternate Reality Effect
 excerpt: This Article Describes 2024 Approved Add some Sci-Fi Touch to Your Next Video Content Using Wondershare Filmora Editing Tools to Create an Alternate Reality Effect
 keywords: add neon effects to your dance videos with the help of wondershare filmora after reading this article it will give a more thrilling and exciting appearance,add some sci fi touch to your next video content using wondershare filmora editing tools to create an alternate reality effect,have the desire to create a stylish glitch effect to a text on your video use filmora for the editing following the given steps explained in detail,this blog post shows how to create an eye catching paper rip effect for your videos using wondershare filmora with these easy to follow steps,this easy hack using wondershare filmora new masking feature will be a great addition to your next horror video content,in this article you will learn how to record creative cinematic videos using a smartphone and edit the video with wondershare filmora,looking for simple steps to apply fade in effect to your text in premiere pro here are two different methods along with an alternative way to fade text in videos
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## Add some Sci-Fi Touch to Your Next Video Content Using Wondershare Filmora Editing Tools to Create an Alternate Reality Effect
@@ -449,9 +449,7 @@ The Import section is located in the top left corner of the screen. This default
 
 ![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-37.jpg)
 
-Step 3: Check layout and adjust volume levels
-
-![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-38.jpg)
+Step 3: Check layout and adjust volume levels ![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-38.jpg)
 
 ![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-39.jpg)
 
@@ -845,9 +843,7 @@ The Import section is located in the top left corner of the screen. This default
 
 ![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-37.jpg)
 
-Step 3: Check layout and adjust volume levels
-
-![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-38.jpg)
+Step 3: Check layout and adjust volume levels ![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-38.jpg)
 
 ![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-39.jpg)
 
@@ -1241,9 +1237,7 @@ The Import section is located in the top left corner of the screen. This default
 
 ![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-37.jpg)
 
-Step 3: Check layout and adjust volume levels
-
-![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-38.jpg)
+Step 3: Check layout and adjust volume levels ![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-38.jpg)
 
 ![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-39.jpg)
 
@@ -1637,9 +1631,7 @@ The Import section is located in the top left corner of the screen. This default
 
 ![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-37.jpg)
 
-Step 3: Check layout and adjust volume levels
-
-![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-38.jpg)
+Step 3: Check layout and adjust volume levels ![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-38.jpg)
 
 ![edit flv](https://images.wondershare.com/filmora/article-images/2022/05/edit-flv-39.jpg)
 
@@ -2167,9 +2159,7 @@ Calculating the aspect resolution is pretty straightforward. The steps mentioned
 
 If you want to change the video aspect ratio, you can easily crop the size of the video online with the help of different websites. These websites offer other aspect ratio options. So, let us learn more about them:
 
-### Free Convert
-
-![Free Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-1.jpg)
+### Free Convert ![Free Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-1.jpg)
 
 FreeConvert.com is a free editing website that allows you to edit video aspect ratio online. Usually, it is a cloud-based editor that converts a variety of files. So, you can use it to change the video aspect ratio of your clip.
 
@@ -2187,9 +2177,7 @@ Then, this converter will fix the clip automatically in the resolution selected 
 
 * You have a limit of 25 minutes to convert files. After that, you need to upgrade to pro by making monthly payments.
 
-### CloudConvert
-
-![Cloud Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-2.jpg)
+### CloudConvert ![Cloud Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-2.jpg)
 
 Cloud Convert is a file conversion service supporting around 200 file formats online for free. You can adjust the aspect ratio of videos on this website easily.
 
@@ -2208,9 +2196,7 @@ You have to upload a video clip and select its output format as per your origina
 
 * Get 25 minutes a day to convert the files
 
-### Kapwing
-
-![Kapwing](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-3.jpg)
+### Kapwing ![Kapwing](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-3.jpg)
 
 It is a free online aspect ratio editor to create content online. This tool has several features and a collection of online material. For example, through this aspect ratio editor, you can crop the size of video online.
 
@@ -2231,9 +2217,7 @@ You can select or resize video aspect ratio according to different social media 
 * Export video clips for 7 minutes
 * Edit or store content till two days
 
-### IMOVIE
-
-![ IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
+### IMOVIE ![IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
 
 Try the iMovie iPhone aspect ratio editor if you want to drag or drop the interface for editing videos simply. It has primitive tools to edit videos or images, and you can also import content from local drives or cloud storage with it.
 
@@ -2264,9 +2248,7 @@ You can even assign hotkeys shortcuts for various tools to save your time. Moreo
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -2290,7 +2272,7 @@ For instance, if the aspect ratio of media source files is 4:3, select the stand
 
 In case of any discordance or if you want to change the aspect ratio, choose the proper ratio from project settings.
 
-![ Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
+![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
 
 ### Method 3: Change Aspect Ratio during Editing
 
@@ -2314,13 +2296,9 @@ If you use Filmora’s latest versions, you will notice Auto Reframe helps to ch
 
 The following are steps to change the aspect ratio using the Auto-Reframe option:
 
-##### Step1 Once you upload the video clips to the media library, right-click on it and choose the Auto-Reframe option
+##### Step1 Once you upload the video clips to the media library, right-click on it and choose the Auto-Reframe option ![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
 
-![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
-
-##### Step2 You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed. Make sure to change the aspect ratio that fits most with different social media platforms
-
-![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
+##### Step2 You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed. Make sure to change the aspect ratio that fits most with different social media platforms ![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
 
 ##### Step3 Once you choose the aspect ratio, click on the "Analyze" button. Filmora will Auto-Reframe the video itself. Once the process completes, you can see results in the preview window
 
@@ -2332,7 +2310,7 @@ Drag box to adjust the frame or to keep the object in it. It will automatically 
 
 Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Change Aspect Ratio at Exporting
 
@@ -2414,9 +2392,7 @@ Calculating the aspect resolution is pretty straightforward. The steps mentioned
 
 If you want to change the video aspect ratio, you can easily crop the size of the video online with the help of different websites. These websites offer other aspect ratio options. So, let us learn more about them:
 
-### Free Convert
-
-![Free Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-1.jpg)
+### Free Convert ![Free Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-1.jpg)
 
 FreeConvert.com is a free editing website that allows you to edit video aspect ratio online. Usually, it is a cloud-based editor that converts a variety of files. So, you can use it to change the video aspect ratio of your clip.
 
@@ -2434,9 +2410,7 @@ Then, this converter will fix the clip automatically in the resolution selected 
 
 * You have a limit of 25 minutes to convert files. After that, you need to upgrade to pro by making monthly payments.
 
-### CloudConvert
-
-![Cloud Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-2.jpg)
+### CloudConvert ![Cloud Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-2.jpg)
 
 Cloud Convert is a file conversion service supporting around 200 file formats online for free. You can adjust the aspect ratio of videos on this website easily.
 
@@ -2455,9 +2429,7 @@ You have to upload a video clip and select its output format as per your origina
 
 * Get 25 minutes a day to convert the files
 
-### Kapwing
-
-![Kapwing](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-3.jpg)
+### Kapwing ![Kapwing](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-3.jpg)
 
 It is a free online aspect ratio editor to create content online. This tool has several features and a collection of online material. For example, through this aspect ratio editor, you can crop the size of video online.
 
@@ -2478,9 +2450,7 @@ You can select or resize video aspect ratio according to different social media 
 * Export video clips for 7 minutes
 * Edit or store content till two days
 
-### IMOVIE
-
-![ IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
+### IMOVIE ![IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
 
 Try the iMovie iPhone aspect ratio editor if you want to drag or drop the interface for editing videos simply. It has primitive tools to edit videos or images, and you can also import content from local drives or cloud storage with it.
 
@@ -2511,9 +2481,7 @@ You can even assign hotkeys shortcuts for various tools to save your time. Moreo
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -2537,7 +2505,7 @@ For instance, if the aspect ratio of media source files is 4:3, select the stand
 
 In case of any discordance or if you want to change the aspect ratio, choose the proper ratio from project settings.
 
-![ Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
+![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
 
 ### Method 3: Change Aspect Ratio during Editing
 
@@ -2561,13 +2529,9 @@ If you use Filmora’s latest versions, you will notice Auto Reframe helps to ch
 
 The following are steps to change the aspect ratio using the Auto-Reframe option:
 
-##### Step1 Once you upload the video clips to the media library, right-click on it and choose the Auto-Reframe option
+##### Step1 Once you upload the video clips to the media library, right-click on it and choose the Auto-Reframe option ![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
 
-![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
-
-##### Step2 You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed. Make sure to change the aspect ratio that fits most with different social media platforms
-
-![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
+##### Step2 You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed. Make sure to change the aspect ratio that fits most with different social media platforms ![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
 
 ##### Step3 Once you choose the aspect ratio, click on the "Analyze" button. Filmora will Auto-Reframe the video itself. Once the process completes, you can see results in the preview window
 
@@ -2579,7 +2543,7 @@ Drag box to adjust the frame or to keep the object in it. It will automatically 
 
 Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Change Aspect Ratio at Exporting
 
@@ -2661,9 +2625,7 @@ Calculating the aspect resolution is pretty straightforward. The steps mentioned
 
 If you want to change the video aspect ratio, you can easily crop the size of the video online with the help of different websites. These websites offer other aspect ratio options. So, let us learn more about them:
 
-### Free Convert
-
-![Free Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-1.jpg)
+### Free Convert ![Free Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-1.jpg)
 
 FreeConvert.com is a free editing website that allows you to edit video aspect ratio online. Usually, it is a cloud-based editor that converts a variety of files. So, you can use it to change the video aspect ratio of your clip.
 
@@ -2681,9 +2643,7 @@ Then, this converter will fix the clip automatically in the resolution selected 
 
 * You have a limit of 25 minutes to convert files. After that, you need to upgrade to pro by making monthly payments.
 
-### CloudConvert
-
-![Cloud Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-2.jpg)
+### CloudConvert ![Cloud Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-2.jpg)
 
 Cloud Convert is a file conversion service supporting around 200 file formats online for free. You can adjust the aspect ratio of videos on this website easily.
 
@@ -2702,9 +2662,7 @@ You have to upload a video clip and select its output format as per your origina
 
 * Get 25 minutes a day to convert the files
 
-### Kapwing
-
-![Kapwing](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-3.jpg)
+### Kapwing ![Kapwing](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-3.jpg)
 
 It is a free online aspect ratio editor to create content online. This tool has several features and a collection of online material. For example, through this aspect ratio editor, you can crop the size of video online.
 
@@ -2725,9 +2683,7 @@ You can select or resize video aspect ratio according to different social media 
 * Export video clips for 7 minutes
 * Edit or store content till two days
 
-### IMOVIE
-
-![ IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
+### IMOVIE ![IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
 
 Try the iMovie iPhone aspect ratio editor if you want to drag or drop the interface for editing videos simply. It has primitive tools to edit videos or images, and you can also import content from local drives or cloud storage with it.
 
@@ -2758,9 +2714,7 @@ You can even assign hotkeys shortcuts for various tools to save your time. Moreo
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -2784,7 +2738,7 @@ For instance, if the aspect ratio of media source files is 4:3, select the stand
 
 In case of any discordance or if you want to change the aspect ratio, choose the proper ratio from project settings.
 
-![ Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
+![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
 
 ### Method 3: Change Aspect Ratio during Editing
 
@@ -2808,13 +2762,9 @@ If you use Filmora’s latest versions, you will notice Auto Reframe helps to ch
 
 The following are steps to change the aspect ratio using the Auto-Reframe option:
 
-##### Step1 Once you upload the video clips to the media library, right-click on it and choose the Auto-Reframe option
+##### Step1 Once you upload the video clips to the media library, right-click on it and choose the Auto-Reframe option ![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
 
-![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
-
-##### Step2 You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed. Make sure to change the aspect ratio that fits most with different social media platforms
-
-![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
+##### Step2 You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed. Make sure to change the aspect ratio that fits most with different social media platforms ![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
 
 ##### Step3 Once you choose the aspect ratio, click on the "Analyze" button. Filmora will Auto-Reframe the video itself. Once the process completes, you can see results in the preview window
 
@@ -2826,7 +2776,7 @@ Drag box to adjust the frame or to keep the object in it. It will automatically 
 
 Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Change Aspect Ratio at Exporting
 
@@ -2908,9 +2858,7 @@ Calculating the aspect resolution is pretty straightforward. The steps mentioned
 
 If you want to change the video aspect ratio, you can easily crop the size of the video online with the help of different websites. These websites offer other aspect ratio options. So, let us learn more about them:
 
-### Free Convert
-
-![Free Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-1.jpg)
+### Free Convert ![Free Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-1.jpg)
 
 FreeConvert.com is a free editing website that allows you to edit video aspect ratio online. Usually, it is a cloud-based editor that converts a variety of files. So, you can use it to change the video aspect ratio of your clip.
 
@@ -2928,9 +2876,7 @@ Then, this converter will fix the clip automatically in the resolution selected 
 
 * You have a limit of 25 minutes to convert files. After that, you need to upgrade to pro by making monthly payments.
 
-### CloudConvert
-
-![Cloud Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-2.jpg)
+### CloudConvert ![Cloud Convert](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-2.jpg)
 
 Cloud Convert is a file conversion service supporting around 200 file formats online for free. You can adjust the aspect ratio of videos on this website easily.
 
@@ -2949,9 +2895,7 @@ You have to upload a video clip and select its output format as per your origina
 
 * Get 25 minutes a day to convert the files
 
-### Kapwing
-
-![Kapwing](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-3.jpg)
+### Kapwing ![Kapwing](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-3.jpg)
 
 It is a free online aspect ratio editor to create content online. This tool has several features and a collection of online material. For example, through this aspect ratio editor, you can crop the size of video online.
 
@@ -2972,9 +2916,7 @@ You can select or resize video aspect ratio according to different social media 
 * Export video clips for 7 minutes
 * Edit or store content till two days
 
-### IMOVIE
-
-![ IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
+### IMOVIE ![IMOVIE](https://images.wondershare.com/filmora/article-images/2022/01/calculate-aspect-ratio-4.jpg)
 
 Try the iMovie iPhone aspect ratio editor if you want to drag or drop the interface for editing videos simply. It has primitive tools to edit videos or images, and you can also import content from local drives or cloud storage with it.
 
@@ -3005,9 +2947,7 @@ You can even assign hotkeys shortcuts for various tools to save your time. Moreo
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -3031,7 +2971,7 @@ For instance, if the aspect ratio of media source files is 4:3, select the stand
 
 In case of any discordance or if you want to change the aspect ratio, choose the proper ratio from project settings.
 
-![ Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
+![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
 
 ### Method 3: Change Aspect Ratio during Editing
 
@@ -3055,13 +2995,9 @@ If you use Filmora’s latest versions, you will notice Auto Reframe helps to ch
 
 The following are steps to change the aspect ratio using the Auto-Reframe option:
 
-##### Step1 Once you upload the video clips to the media library, right-click on it and choose the Auto-Reframe option
+##### Step1 Once you upload the video clips to the media library, right-click on it and choose the Auto-Reframe option ![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
 
-![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
-
-##### Step2 You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed. Make sure to change the aspect ratio that fits most with different social media platforms
-
-![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
+##### Step2 You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed. Make sure to change the aspect ratio that fits most with different social media platforms ![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
 
 ##### Step3 Once you choose the aspect ratio, click on the "Analyze" button. Filmora will Auto-Reframe the video itself. Once the process completes, you can see results in the preview window
 
@@ -3073,7 +3009,7 @@ Drag box to adjust the frame or to keep the object in it. It will automatically 
 
 Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Change Aspect Ratio at Exporting
 

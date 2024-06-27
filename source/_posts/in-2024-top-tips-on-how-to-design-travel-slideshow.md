@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top Tips on How to Design Travel Slideshow
-date: 2024-04-24T07:08:15.766Z
-updated: 2024-04-25T07:08:15.766Z
+date: 2024-06-26T06:23:59.267Z
+updated: 2024-06-27T06:23:59.267Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Top Tips on How to Design Travel Slideshow
 excerpt: This Article Describes In 2024, Top Tips on How to Design Travel Slideshow
 keywords: top tips on how to design travel slideshow,ai animation best tips on how to design travel slideshow,ai animation ai animation best tips on how to design travel slideshow,ai animation top tips on how to design travel slideshow,ai animation top 10 ipad slideshow apps to create a slideshow,best tips on how to design travel slideshow,how to speed up pictures on tiktok slideshow
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## Top Tips on How to Design Travel Slideshow

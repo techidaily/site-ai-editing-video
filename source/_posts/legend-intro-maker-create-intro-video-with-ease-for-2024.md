@@ -1,7 +1,7 @@
 ---
 title: Legend Intro Maker – Create Intro Video with Ease for 2024
-date: 2024-05-20T03:38:14.568Z
-updated: 2024-05-21T03:38:14.568Z
+date: 2024-06-26T06:23:50.680Z
+updated: 2024-06-27T06:23:50.680Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Legend Intro Maker – Create Intro Video with Ease for 2024
 excerpt: This Article Describes Legend Intro Maker – Create Intro Video with Ease for 2024
 keywords: legend intro maker create intro video with ease,how to create intro video with kinemaster,ai animation legend intro maker create intro video with ease,ai animation ai animation legend intro maker create intro video with ease,how to create intro with legend intro maker,ai animation how to create intro with legend intro maker,guide to create intro video with kinemaster
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## Legend Intro Maker – Create Intro Video with Ease

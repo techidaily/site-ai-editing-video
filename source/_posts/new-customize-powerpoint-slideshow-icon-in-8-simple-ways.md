@@ -1,7 +1,7 @@
 ---
 title: New Customize PowerPoint Slideshow Icon in 8 Simple Ways
-date: 2024-06-09T16:15:16.649Z
-updated: 2024-06-10T16:15:16.649Z
+date: 2024-06-26T06:23:53.443Z
+updated: 2024-06-27T06:23:53.443Z
 tags: 
   - ai
   - animation videos
@@ -1183,9 +1183,7 @@ That's why we've compiled a list of the top five video to ppt converter to make 
 
 ## Top 5 Best Video to PPT Converters
 
-### 1.Moyea
-
-![moyea-poster](https://images.wondershare.com/filmora/article-images/moyea-poster.jpg)
+### 1.Moyea ![moyea-poster](https://images.wondershare.com/filmora/article-images/moyea-poster.jpg)
 
 **Price:** _$49.95, Free trial available_
 
@@ -1205,9 +1203,7 @@ There aren't any HD output choices available.
 
 To be able to convert presentations, you must have PowerPoint installed.
 
-### 2.Leawo Video to PPT Pro
-
-![leawo-poster](https://images.wondershare.com/filmora/article-images/leawo-poster.jpg)
+### 2.Leawo Video to PPT Pro ![leawo-poster](https://images.wondershare.com/filmora/article-images/leawo-poster.jpg)
 
 **Price: $44.95**
 
@@ -1227,9 +1223,7 @@ The Mac OS cannot run this program.
 
 Requirements for a complicated system.
 
-### 3.iSpring River
-
-![ispring-river-poster.png](https://images.wondershare.com/filmora/article-images/ispring-river-poster.png)
+### 3.iSpring River ![ispring-river-poster.png](https://images.wondershare.com/filmora/article-images/ispring-river-poster.png)
 
 **Price: $97 for a single lifetime license**
 
@@ -1249,9 +1243,7 @@ Cannot be used as a standalone application.
 
 There isn't any support for high-definition video.
 
-### 4.RZ PowerPoint Converter
-
-![rz-powerpoint-poster](https://images.wondershare.com/filmora/article-images/rz-powerpoint-poster.jpg)
+### 4.RZ PowerPoint Converter ![rz-powerpoint-poster](https://images.wondershare.com/filmora/article-images/rz-powerpoint-poster.jpg)
 
 **Price:** _There is a free version available, and prices begin at $29.99._
 
@@ -1271,9 +1263,7 @@ However, basic PPT to video file conversion is only available in the free editio
 
 There is no possibility to convert many files at once.
 
-### 5.Camtasia Studio
-
-![camtasia-studio-poster](https://images.wondershare.com/filmora/article-images/camtasia-studio-poster.jpg)
+### 5.Camtasia Studio ![camtasia-studio-poster](https://images.wondershare.com/filmora/article-images/camtasia-studio-poster.jpg)
 
 **Price: A free trial is offered, and a single-user license is $249.**
 
@@ -1323,9 +1313,7 @@ There aren't any HD output choices available.
 
 To be able to convert presentations, you must have PowerPoint installed.
 
-### 2.Leawo Video to PPT Pro
-
-![leawo-poster](https://images.wondershare.com/filmora/article-images/leawo-poster.jpg)
+### 2.Leawo Video to PPT Pro ![leawo-poster](https://images.wondershare.com/filmora/article-images/leawo-poster.jpg)
 
 **Price: $44.95**
 
@@ -1345,9 +1333,7 @@ The Mac OS cannot run this program.
 
 Requirements for a complicated system.
 
-### 3.iSpring River
-
-![ispring-river-poster.png](https://images.wondershare.com/filmora/article-images/ispring-river-poster.png)
+### 3.iSpring River ![ispring-river-poster.png](https://images.wondershare.com/filmora/article-images/ispring-river-poster.png)
 
 **Price: $97 for a single lifetime license**
 
@@ -1367,9 +1353,7 @@ Cannot be used as a standalone application.
 
 There isn't any support for high-definition video.
 
-### 4.RZ PowerPoint Converter
-
-![rz-powerpoint-poster](https://images.wondershare.com/filmora/article-images/rz-powerpoint-poster.jpg)
+### 4.RZ PowerPoint Converter ![rz-powerpoint-poster](https://images.wondershare.com/filmora/article-images/rz-powerpoint-poster.jpg)
 
 **Price:** _There is a free version available, and prices begin at $29.99._
 
@@ -1389,9 +1373,7 @@ However, basic PPT to video file conversion is only available in the free editio
 
 There is no possibility to convert many files at once.
 
-### 5.Camtasia Studio
-
-![camtasia-studio-poster](https://images.wondershare.com/filmora/article-images/camtasia-studio-poster.jpg)
+### 5.Camtasia Studio ![camtasia-studio-poster](https://images.wondershare.com/filmora/article-images/camtasia-studio-poster.jpg)
 
 **Price: A free trial is offered, and a single-user license is $249.**
 
@@ -1441,9 +1423,7 @@ There aren't any HD output choices available.
 
 To be able to convert presentations, you must have PowerPoint installed.
 
-### 2.Leawo Video to PPT Pro
-
-![leawo-poster](https://images.wondershare.com/filmora/article-images/leawo-poster.jpg)
+### 2.Leawo Video to PPT Pro ![leawo-poster](https://images.wondershare.com/filmora/article-images/leawo-poster.jpg)
 
 **Price: $44.95**
 
@@ -1463,9 +1443,7 @@ The Mac OS cannot run this program.
 
 Requirements for a complicated system.
 
-### 3.iSpring River
-
-![ispring-river-poster.png](https://images.wondershare.com/filmora/article-images/ispring-river-poster.png)
+### 3.iSpring River ![ispring-river-poster.png](https://images.wondershare.com/filmora/article-images/ispring-river-poster.png)
 
 **Price: $97 for a single lifetime license**
 
@@ -1485,9 +1463,7 @@ Cannot be used as a standalone application.
 
 There isn't any support for high-definition video.
 
-### 4.RZ PowerPoint Converter
-
-![rz-powerpoint-poster](https://images.wondershare.com/filmora/article-images/rz-powerpoint-poster.jpg)
+### 4.RZ PowerPoint Converter ![rz-powerpoint-poster](https://images.wondershare.com/filmora/article-images/rz-powerpoint-poster.jpg)
 
 **Price:** _There is a free version available, and prices begin at $29.99._
 
@@ -1507,9 +1483,7 @@ However, basic PPT to video file conversion is only available in the free editio
 
 There is no possibility to convert many files at once.
 
-### 5.Camtasia Studio
-
-![camtasia-studio-poster](https://images.wondershare.com/filmora/article-images/camtasia-studio-poster.jpg)
+### 5.Camtasia Studio ![camtasia-studio-poster](https://images.wondershare.com/filmora/article-images/camtasia-studio-poster.jpg)
 
 **Price: A free trial is offered, and a single-user license is $249.**
 
@@ -1559,9 +1533,7 @@ There aren't any HD output choices available.
 
 To be able to convert presentations, you must have PowerPoint installed.
 
-### 2.Leawo Video to PPT Pro
-
-![leawo-poster](https://images.wondershare.com/filmora/article-images/leawo-poster.jpg)
+### 2.Leawo Video to PPT Pro ![leawo-poster](https://images.wondershare.com/filmora/article-images/leawo-poster.jpg)
 
 **Price: $44.95**
 
@@ -1581,9 +1553,7 @@ The Mac OS cannot run this program.
 
 Requirements for a complicated system.
 
-### 3.iSpring River
-
-![ispring-river-poster.png](https://images.wondershare.com/filmora/article-images/ispring-river-poster.png)
+### 3.iSpring River ![ispring-river-poster.png](https://images.wondershare.com/filmora/article-images/ispring-river-poster.png)
 
 **Price: $97 for a single lifetime license**
 
@@ -1603,9 +1573,7 @@ Cannot be used as a standalone application.
 
 There isn't any support for high-definition video.
 
-### 4.RZ PowerPoint Converter
-
-![rz-powerpoint-poster](https://images.wondershare.com/filmora/article-images/rz-powerpoint-poster.jpg)
+### 4.RZ PowerPoint Converter ![rz-powerpoint-poster](https://images.wondershare.com/filmora/article-images/rz-powerpoint-poster.jpg)
 
 **Price:** _There is a free version available, and prices begin at $29.99._
 
@@ -1625,9 +1593,7 @@ However, basic PPT to video file conversion is only available in the free editio
 
 There is no possibility to convert many files at once.
 
-### 5.Camtasia Studio
-
-![camtasia-studio-poster](https://images.wondershare.com/filmora/article-images/camtasia-studio-poster.jpg)
+### 5.Camtasia Studio ![camtasia-studio-poster](https://images.wondershare.com/filmora/article-images/camtasia-studio-poster.jpg)
 
 **Price: A free trial is offered, and a single-user license is $249.**
 
@@ -1977,9 +1943,7 @@ Step 2With the project open, click on the blue “Plus” icon under the main me
 
 ![click plus icon adobe rush](https://images.wondershare.com/filmora/article-images/2022/08/click-plus-icon-adobe-rush.jpg)
 
-Step 3Select “Graphics” from the options that appear
-
-![select graphics adobe rush](https://images.wondershare.com/filmora/article-images/2022/08/select-graphics-adobe-rush.jpg)
+Step 3Select “Graphics” from the options that appear ![select graphics adobe rush](https://images.wondershare.com/filmora/article-images/2022/08/select-graphics-adobe-rush.jpg)
 
 Step 4Click on “More” under “Titles” and then search for “Basic Default Title.” Tap “Add” to add a title to the video's sequence.
 
@@ -1999,93 +1963,9 @@ If Adobe Rush is not a viable solution for you, perhaps because of the cost of t
 
 This video editing suite is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), an easy-to-use and highly effective solution that offers numerous ways to edit videos. The following simple steps show you how you can use Filmora to [add text effects to your video](https://tools.techidaily.com/wondershare/filmora/download/) project;
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
-
-##### Step 1Install Wondershare Filmora
-
-Start by installing Wondershare Filmora on your computer. You can download the setup file from the main website and then follow the instructions on the installation Wizard to install the program on your computer.
-
-When the installation is complete, open Filmora on your computer.
-
-##### Step 2Import the Video Files
-
-On the main screen, click on “New Project” to start editing your video.
-
-At this point, you may want to adjust several settings such as the aspect ratio and frame rates. You can do that in the “Project Settings” window.
-
-Once you have all the settings as needed depending on your project, click “Import” to select the video that you would like to edit.
-
-You can also just drag and drop the video into the main window to open it.
-
-![open the video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
-
-##### Step 3Add the Video/Videos to the Timeline
-
-To edit the video and any of its components, you will need to add the video to the timeline. You can do that by simply dragging and dropping the video clips from the media library to the timeline below.
-
-This will allow you to see the locations within the video that you can add and effects to.
-
-##### Step 4Select Text Presets and Add Your Text
-
-With the video in the timeline, you are now ready to add your text. To do that, click on the “Titles” tab and then open the “Text & Title” presets.
-
-Filmora offers more than 200+ text effects that apply to various types of videos. Find the title preset that you would like to use and double-click on it and you should be able to see the effect in the “Preview” window.
-
-![see effect in the preview window](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
-
-If you like what you see, place your Playhead icon where you want the add the text and title in the timeline, and then drag and drop the track above the video.
-
-##### Step 5Select the Duration of the Text
-
-The default duration of any text overlay that you add to the project is 5 seconds. But you can extend this timeline to fit your needs.
-
-To change the duration of the text overlay, select the text in the timeline and click on the “Timer” icon.
-
-![click on the timer](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
-
-##### Step 6Edit and Customize Your Text
-
-You also have the option to customize your text in various ways including changing the text font, color, and size.
-
-To edit the text, double-click on the “Title” frame in the timeline, and in the window that appears, make as many changes as you want. There are more than 20 text effects to choose from. Just select one and then double-click on any style to apply it to the text.
-
-![double click on the title](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
-
-You can also use the “Animation” icon if you want to change the animation of the text overlay.
-
-You can also click on the “Advanced” tab to get more advanced editing options for the text that you add to the video. In the advanced options window, you can apply a preset and animation or even customize the Text Fill, Border, and Shadow elements of your text.
-
-##### Step 7Export Your Video
-
-Once you've made all the changes you wanted to make to the video, you can click on the “Play” icon to see a preview of the video to make sure it is just the way you want it to be.
-
-If you are happy with everything and you don't need to make any more changes, click on the “Export” button. In the window that appears, select the output format for the video and if you need to, you can also select other parameters including the Bit Rate, Encoder, Resolution, and more.
-
-Once all your settings are just how you want them to be, click on “Export” to name the video and save all the changes that you just made.
-
-Filmora also gives you the option to upload the video directly to YouTube and you can also choose to burn the video to DVD. If you will be playing the video on mobile devices, click on the “Devices” tab and select the device you will be using from the options listed here including iPhone, iPad, Samsung Galaxy, and more.
-
-## Related FAQs
-
-### 1\. Can I Add Captions in Adobe Rush?
-
-Yes. Adobe Premiere Rush does allow you to add captions and subtitles to any video project. The process is very easy, just open the video in Adobe Rush and add an unformatted “Title” as we did in part 1 above. You can then move the title to any section of the screen and format it any way you want. Ensure that you extend the text to cover the full length of the video. Then simply copy and paste the subtitles from the video's SRT file to the Title. Set the timing of the text to correspond to the video's duration and you're all set.
-
-### 2\. Can You Move Text in Adobe Rush?
-
-Yes, you can easily move text in Adobe Rush. Add the text to the video as described in the first part of this article and once it is on the timeline, you can simply drag the text clip to any desired area on the timeline to change its location.
-
-### 3\. How Do I Add a Title in Adobe Rush Mobile?
-
-One of the greatest advantages of choosing Adobe Rush over other video editors is that it can be very easy to use on mobile devices. The steps to add a title using Adobe Rush for mobile are just as simple as the steps to do it on a desktop. Just open Adobe Rush on your mobile device and then open the video you want to edit, tap on the blue “+” icon at the bottom and select “Graphics > More > Basic Default Title” and then tap “Add” to add your title. You also get the same options to edit the text in various ways including the font size, color, and effects.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ##### Step 1Install Wondershare Filmora
 
@@ -2165,9 +2045,93 @@ Yes, you can easily move text in Adobe Rush. Add the text to the video as descri
 
 One of the greatest advantages of choosing Adobe Rush over other video editors is that it can be very easy to use on mobile devices. The steps to add a title using Adobe Rush for mobile are just as simple as the steps to do it on a desktop. Just open Adobe Rush on your mobile device and then open the video you want to edit, tap on the blue “+” icon at the bottom and select “Graphics > More > Basic Default Title” and then tap “Add” to add your title. You also get the same options to edit the text in various ways including the font size, color, and effects.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+##### Step 1Install Wondershare Filmora
+
+Start by installing Wondershare Filmora on your computer. You can download the setup file from the main website and then follow the instructions on the installation Wizard to install the program on your computer.
+
+When the installation is complete, open Filmora on your computer.
+
+##### Step 2Import the Video Files
+
+On the main screen, click on “New Project” to start editing your video.
+
+At this point, you may want to adjust several settings such as the aspect ratio and frame rates. You can do that in the “Project Settings” window.
+
+Once you have all the settings as needed depending on your project, click “Import” to select the video that you would like to edit.
+
+You can also just drag and drop the video into the main window to open it.
+
+![open the video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
+
+##### Step 3Add the Video/Videos to the Timeline
+
+To edit the video and any of its components, you will need to add the video to the timeline. You can do that by simply dragging and dropping the video clips from the media library to the timeline below.
+
+This will allow you to see the locations within the video that you can add and effects to.
+
+##### Step 4Select Text Presets and Add Your Text
+
+With the video in the timeline, you are now ready to add your text. To do that, click on the “Titles” tab and then open the “Text & Title” presets.
+
+Filmora offers more than 200+ text effects that apply to various types of videos. Find the title preset that you would like to use and double-click on it and you should be able to see the effect in the “Preview” window.
+
+![see effect in the preview window](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
+
+If you like what you see, place your Playhead icon where you want the add the text and title in the timeline, and then drag and drop the track above the video.
+
+##### Step 5Select the Duration of the Text
+
+The default duration of any text overlay that you add to the project is 5 seconds. But you can extend this timeline to fit your needs.
+
+To change the duration of the text overlay, select the text in the timeline and click on the “Timer” icon.
+
+![click on the timer](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
+
+##### Step 6Edit and Customize Your Text
+
+You also have the option to customize your text in various ways including changing the text font, color, and size.
+
+To edit the text, double-click on the “Title” frame in the timeline, and in the window that appears, make as many changes as you want. There are more than 20 text effects to choose from. Just select one and then double-click on any style to apply it to the text.
+
+![double click on the title](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
+
+You can also use the “Animation” icon if you want to change the animation of the text overlay.
+
+You can also click on the “Advanced” tab to get more advanced editing options for the text that you add to the video. In the advanced options window, you can apply a preset and animation or even customize the Text Fill, Border, and Shadow elements of your text.
+
+##### Step 7Export Your Video
+
+Once you've made all the changes you wanted to make to the video, you can click on the “Play” icon to see a preview of the video to make sure it is just the way you want it to be.
+
+If you are happy with everything and you don't need to make any more changes, click on the “Export” button. In the window that appears, select the output format for the video and if you need to, you can also select other parameters including the Bit Rate, Encoder, Resolution, and more.
+
+Once all your settings are just how you want them to be, click on “Export” to name the video and save all the changes that you just made.
+
+Filmora also gives you the option to upload the video directly to YouTube and you can also choose to burn the video to DVD. If you will be playing the video on mobile devices, click on the “Devices” tab and select the device you will be using from the options listed here including iPhone, iPad, Samsung Galaxy, and more.
+
+## Related FAQs
+
+### 1\. Can I Add Captions in Adobe Rush?
+
+Yes. Adobe Premiere Rush does allow you to add captions and subtitles to any video project. The process is very easy, just open the video in Adobe Rush and add an unformatted “Title” as we did in part 1 above. You can then move the title to any section of the screen and format it any way you want. Ensure that you extend the text to cover the full length of the video. Then simply copy and paste the subtitles from the video's SRT file to the Title. Set the timing of the text to correspond to the video's duration and you're all set.
+
+### 2\. Can You Move Text in Adobe Rush?
+
+Yes, you can easily move text in Adobe Rush. Add the text to the video as described in the first part of this article and once it is on the timeline, you can simply drag the text clip to any desired area on the timeline to change its location.
+
+### 3\. How Do I Add a Title in Adobe Rush Mobile?
+
+One of the greatest advantages of choosing Adobe Rush over other video editors is that it can be very easy to use on mobile devices. The steps to add a title using Adobe Rush for mobile are just as simple as the steps to do it on a desktop. Just open Adobe Rush on your mobile device and then open the video you want to edit, tap on the blue “+” icon at the bottom and select “Graphics > More > Basic Default Title” and then tap “Add” to add your title. You also get the same options to edit the text in various ways including the font size, color, and effects.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

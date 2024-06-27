@@ -1,7 +1,7 @@
 ---
 title: In 2024, Create Intro Video with Flixpress
-date: 2024-05-20T03:37:59.569Z
-updated: 2024-05-21T03:37:59.569Z
+date: 2024-06-26T06:24:03.462Z
+updated: 2024-06-27T06:24:03.462Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Create Intro Video with Flixpress
 excerpt: This Article Describes In 2024, Create Intro Video with Flixpress
 keywords: how to create intro video with kinemaster,how to create intro video with filmora,ai animation ai animation create intro video with flixpress,create intro video with flixpress,guide to create an intro video with filmora,ai animation create intro video with flixpress,guide to create intro video with kinemaster
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## Create Intro Video with Flixpress
@@ -523,13 +523,9 @@ Step5 And now you will see the changes. The “star” symbol on the imported vi
 
 **Raw Footage vs With Applied Filter Effect**
 
-_Raw Footage_
+_Raw Footage_ ![raw footage movavi slideshow](https://images.wondershare.com/filmora/article-images/2022/11/raw-footage-movavi-slideshow.jpg)
 
-![raw footage movavi slideshow](https://images.wondershare.com/filmora/article-images/2022/11/raw-footage-movavi-slideshow.jpg)
-
-_Brush – Sketch Filter effect_
-
-![brush sketch filter effect](https://images.wondershare.com/filmora/article-images/2022/11/brush-sketch-filter-effect.jpg)
+_Brush – Sketch Filter effect_ ![brush sketch filter effect](https://images.wondershare.com/filmora/article-images/2022/11/brush-sketch-filter-effect.jpg)
 
 ## Adding Transition Effect
 

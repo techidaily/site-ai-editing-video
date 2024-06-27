@@ -1,7 +1,7 @@
 ---
 title: How to Use Zoom in Google
-date: 2024-05-20T03:37:29.977Z
-updated: 2024-05-21T03:37:29.977Z
+date: 2024-06-26T06:23:53.355Z
+updated: 2024-06-27T06:23:53.355Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Use Zoom in Google
 excerpt: This Article Describes How to Use Zoom in Google
 keywords: how to use slow zoom effect in your video,how to zoom in and out on mac,how to use kahoot on zoom,how to use zoom in google,use zoom in google,ai animation how to use zoom in google,how to zoom in discord
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## How to Use Zoom in Google
