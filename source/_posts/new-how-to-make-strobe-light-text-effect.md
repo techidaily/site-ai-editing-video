@@ -1,7 +1,7 @@
 ---
 title: New How to Make Strobe Light Text Effect?
-date: 2024-04-24T07:08:12.527Z
-updated: 2024-04-25T07:08:12.527Z
+date: 2024-07-04T02:57:34.081Z
+updated: 2024-07-05T02:57:34.081Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Make Strobe Light Text Effect?
 excerpt: This Article Describes New How to Make Strobe Light Text Effect?
 keywords: how to make text reveal effect easily,how to make strobe light text effect,how to add scrolling text effect,make strobe light text effect,how to make falling text effect in filmora,ai animation how to make strobe light text effect,how to create a light sweep shine effect
-thumbnail: https://www.lifewire.com/thmb/xSHtE9tL82nCUVR18o4SkLJaAw8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-962954554-5c338fc146e0fb0001346aec.jpg
+thumbnail: https://thmb.techidaily.com/fff656b551e024a92bec77f08e34169fdbb7972daf3e003aecf76e9fd40fed20.jpg
 ---
 
 ## How to Make Strobe Light Text Effect?
@@ -397,7 +397,7 @@ This video from [HEDGEHOG ヅ](https://www.youtube.com/watch?v=wQlxN49jn6Y) has 
 
 The thumbnail shows a clear-as-crystal screenshot of a team of 4 players on the battlefield. At the top left corner is the PS5 logo. Then, at the bottom left is an icon that says the video is in 4K UHD. If you're also uploading 4K Warzone videos, you can try doing this. Users are attracted to videos that are eye-pleasing.
 
-### 4\. Call of Duty: Warzone Battle Royale | RTX 3080 10GB ( 4K Maximum Settings Ray Tracing OFF )
+### 4\. Call of Duty: Warzone Battle Royale | RTX 3080 10GB (4K Maximum Settings Ray Tracing OFF)
 
 ![warzone thumbnail by gtx 1050 ti](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-4.JPG)
 
@@ -529,7 +529,7 @@ This video from [HEDGEHOG ヅ](https://www.youtube.com/watch?v=wQlxN49jn6Y) has 
 
 The thumbnail shows a clear-as-crystal screenshot of a team of 4 players on the battlefield. At the top left corner is the PS5 logo. Then, at the bottom left is an icon that says the video is in 4K UHD. If you're also uploading 4K Warzone videos, you can try doing this. Users are attracted to videos that are eye-pleasing.
 
-### 4\. Call of Duty: Warzone Battle Royale | RTX 3080 10GB ( 4K Maximum Settings Ray Tracing OFF )
+### 4\. Call of Duty: Warzone Battle Royale | RTX 3080 10GB (4K Maximum Settings Ray Tracing OFF)
 
 ![warzone thumbnail by gtx 1050 ti](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-4.JPG)
 

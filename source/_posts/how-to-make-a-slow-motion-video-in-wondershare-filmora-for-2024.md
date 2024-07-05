@@ -1,7 +1,7 @@
 ---
 title: How to Make a Slow Motion Video in Wondershare Filmora for 2024
-date: 2024-05-20T03:38:10.312Z
-updated: 2024-05-21T03:38:10.312Z
+date: 2024-07-04T02:57:33.861Z
+updated: 2024-07-05T02:57:33.861Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Make a Slow Motion Video in Wondershare Filmora for 2024
 excerpt: This Article Describes How to Make a Slow Motion Video in Wondershare Filmora for 2024
 keywords: ai animation how to make a video by mouse in filmora,ai animation ai animation how to make a slow motion video in wondershare filmora,how to film a slow motion video,how to make a slow motion video in wondershare filmora,ai animation how to make flying objects in wondershare filmora,ai animation how to make a slow motion video in wondershare filmora,how to make a video by mouse in filmora
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## How to Make a Slow Motion Video in Wondershare Filmora
@@ -771,7 +771,7 @@ Step6 Use the shortcuts you assigned to the keys in Step 4 to rotate your video 
 
 For instance, you can rotate your video from landscape to portrait by clicking "Alt-Num 1" and "Alt-Num 3," respectively. To revert your video to its original state, press "Alt-Num 5."
 
-## Need an alternative to Media Player Classic? Try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) To Rotate a Video
+## Need an alternative to Media Player Classic? Try Wondershare Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 

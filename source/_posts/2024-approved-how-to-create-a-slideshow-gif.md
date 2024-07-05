@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Create a Slideshow GIF?
-date: 2024-05-20T03:38:33.955Z
-updated: 2024-05-21T03:38:33.955Z
+date: 2024-07-04T02:57:27.845Z
+updated: 2024-07-05T02:57:27.845Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved How to Create a Slideshow GIF?
 excerpt: This Article Describes 2024 Approved How to Create a Slideshow GIF?
 keywords: how to make a slideshow gif,how to create a slideshow on iphone,ai animation how to create a slideshow gif,how to create a video slideshow in imovie,how to create obs slideshow,how to create a clideo slideshow,how to create a slideshow gif
-thumbnail: https://www.lifewire.com/thmb/xq071plgy_1otjoV-WHCm4Y1Nhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-6783e356feb74fb7a09b84953620c5ed.jpg
+thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d7c87ab230819ca4dc98d6d3.jpg
 ---
 
 ## How to Create a Slideshow GIF?

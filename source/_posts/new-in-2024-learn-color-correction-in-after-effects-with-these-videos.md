@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Learn Color Correction in After Effects with These Videos
-date: 2024-04-24T07:08:37.669Z
-updated: 2024-04-25T07:08:37.669Z
+date: 2024-07-04T02:57:30.664Z
+updated: 2024-07-05T02:57:30.664Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, Learn Color Correction in After Effects with These Videos
 excerpt: This Article Describes New In 2024, Learn Color Correction in After Effects with These Videos
 keywords: learn color correction in after effects with these videos,ai animation learn color correction in after effects with these videos,ai animation ai animation learn color correction in after effects with these videos,after effects color correction,ai animation learn color correction in after effects with these youtube videos,learn color correction in after effects with these youtube videos,3 effective methods to correct color distortion in videos
-thumbnail: https://www.lifewire.com/thmb/9P6TB9sqO-6Yq23O2BOj91c-Cvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541365354-5c8ad42246e0fb00014a9687.jpg
+thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9fefb2b304db02c765d66484d.jpg
 ---
 
 ## Learn Color Correction in After Effects with These Videos

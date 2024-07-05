@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Add Custom Subtitles to Netflix
-date: 2024-05-20T03:38:04.871Z
-updated: 2024-05-21T03:38:04.871Z
+date: 2024-07-04T02:57:33.808Z
+updated: 2024-07-05T02:57:33.808Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, How to Add Custom Subtitles to Netflix
 excerpt: This Article Describes In 2024, How to Add Custom Subtitles to Netflix
 keywords: how to add subtitles in canva,2 ways to add custom subtitles to netflix,add subtitles to netflix,how to add custom subtitles to netflix,ai animation 2 ways to add custom subtitles to netflix,ai animation ai animation how to add custom subtitles to netflix,ai animation how to add custom subtitles to netflix
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## How to Add Custom Subtitles to Netflix

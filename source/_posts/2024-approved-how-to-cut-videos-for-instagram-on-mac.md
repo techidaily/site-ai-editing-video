@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How To Cut Videos For Instagram On Mac
-date: 2024-05-20T03:38:07.981Z
-updated: 2024-05-21T03:38:07.981Z
+date: 2024-07-04T02:57:48.593Z
+updated: 2024-07-05T02:57:48.593Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved How To Cut Videos For Instagram On Mac
 excerpt: This Article Describes 2024 Approved How To Cut Videos For Instagram On Mac
 keywords: how to convert a gif to a video for instagram,ai animation ai animation how to cut videos for instagram on mac,ai animation how to cut videos for instagram on mac,ai animation 7 solutions cut video for instagram on mac,how to cut videos for instagram on mac,7 solutions cut video for instagram on mac,ai animation how to convert a gif to a video for instagram
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## How To Cut Videos For Instagram On Mac
@@ -1555,7 +1555,7 @@ Just click **Export** and your final video will be created. The output file is M
 
 Even though an online image-to-video maker is not as powerful as photo and video editing software products like [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you can still use this online image-to-video maker to create videos effortlessly. However, to save time, you should prepare all the material you want to use in your video in advance so that you can upload it to the platform of your choice and have your video ready in minutes. Let's take a look at the image-to-video maker that you can use to create captivating social media videos.
 
-### 2\. [Image to video](https://imagetovideo.com/)
+### 2\. Image to video
 
 ![image to video](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-3.jpg)
 
@@ -1571,45 +1571,9 @@ This web application makes converting JPEG files to MP4 video files a simple two
 
 **How to convert image to video on desktop using Filmora**
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
-
-First, download and install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) on your Windows or Mac computer. In the following section, I will cover how to add photos to a video using Filmora on Windows. The procedure for adding photos to a video on Mac is similar.
-
-##### Step1Import both photos and video files into Filmora
-
-![import files to filmora](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-5.jpg)
-
-Launch Filmora Video Editor and click "**New Project**" to get started. Click "**Import**" and then "**Import media files**" or click "**Import media files here**" to find your video and photos on your computer. Double-click the files and they will be imported into the program. You can also directly drag and drop photo and video files into the video editing program. Then you need to set up the project such as aspect ratio and resolution.
-
-##### Step2Add a photo to the video and apply some effects
-
-After importing the files into the program, drag the video clip to the video editor timeline at the bottom of the screen. Then drag the photo to the track above the video. Click the "**Play**" icon to preview the video. Move the photo on the track to the point where you want to view it and drag the end to shorten or increase the duration of the photo.
-
-![add a photo to video](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-6.jpg)
-
-After that, edit your photo as you choose. Place the image anywhere you want, then drag its edge to change the size of the playing windows. The picture-in-picture track can also be customized using a variety of customizable settings provided by Filmora. To access the picture, color, and motion panel, double-click the additional image on the track. Here, you can select from more than 30 motion effects to animate the added photo, alter its saturation and hue, perform some color correction, or alter its transformation.
-
-![edit photos](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-7.jpg)
-
-Then click the "**Effects**" button for more mask and effect options. Go to the Utility option under Filters and then drag the image mask onto the photo on the timeline. Double click on the photo and then you can change the shape, height, width, and blending of the image mask. On the mask tab, you can shape the photo with a single click. You can also invert the mask to create a new shape. Choose one of the effects according to your wish to make your video more unique.
-
-##### Step3Save the new video file
-
-![save the new video file](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-8.jpg)
-
-After adding a photo to a video and making basic adjustments, you can export it in various ways by pressing the "**Export**" button. You can save it in different formats in the Format tab. If you want to play the video creation on iPod, iPhone, or iPad, click "**Device**" and select the device from the list. You can also upload your video directly to YouTube or burn it to DVDs for playback on your TV using a DVD player. You can also share the video directly on social networks.
-
-## Conclusion
-
-The above article talks about different software that can convert images to videos, hope it is helpful if you were wondering how to do that. As we can see above, using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) video editor, you will be more creative in making videos with fun or using Kapwing online software to convert your images to videos.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 First, download and install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) on your Windows or Mac computer. In the following section, I will cover how to add photos to a video using Filmora on Windows. The procedure for adding photos to a video on Mac is similar.
 
@@ -1641,9 +1605,45 @@ After adding a photo to a video and making basic adjustments, you can export it 
 
 The above article talks about different software that can convert images to videos, hope it is helpful if you were wondering how to do that. As we can see above, using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) video editor, you will be more creative in making videos with fun or using Kapwing online software to convert your images to videos.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+First, download and install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) on your Windows or Mac computer. In the following section, I will cover how to add photos to a video using Filmora on Windows. The procedure for adding photos to a video on Mac is similar.
+
+##### Step1Import both photos and video files into Filmora
+
+![import files to filmora](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-5.jpg)
+
+Launch Filmora Video Editor and click "**New Project**" to get started. Click "**Import**" and then "**Import media files**" or click "**Import media files here**" to find your video and photos on your computer. Double-click the files and they will be imported into the program. You can also directly drag and drop photo and video files into the video editing program. Then you need to set up the project such as aspect ratio and resolution.
+
+##### Step2Add a photo to the video and apply some effects
+
+After importing the files into the program, drag the video clip to the video editor timeline at the bottom of the screen. Then drag the photo to the track above the video. Click the "**Play**" icon to preview the video. Move the photo on the track to the point where you want to view it and drag the end to shorten or increase the duration of the photo.
+
+![add a photo to video](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-6.jpg)
+
+After that, edit your photo as you choose. Place the image anywhere you want, then drag its edge to change the size of the playing windows. The picture-in-picture track can also be customized using a variety of customizable settings provided by Filmora. To access the picture, color, and motion panel, double-click the additional image on the track. Here, you can select from more than 30 motion effects to animate the added photo, alter its saturation and hue, perform some color correction, or alter its transformation.
+
+![edit photos](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-7.jpg)
+
+Then click the "**Effects**" button for more mask and effect options. Go to the Utility option under Filters and then drag the image mask onto the photo on the timeline. Double click on the photo and then you can change the shape, height, width, and blending of the image mask. On the mask tab, you can shape the photo with a single click. You can also invert the mask to create a new shape. Choose one of the effects according to your wish to make your video more unique.
+
+##### Step3Save the new video file
+
+![save the new video file](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-8.jpg)
+
+After adding a photo to a video and making basic adjustments, you can export it in various ways by pressing the "**Export**" button. You can save it in different formats in the Format tab. If you want to play the video creation on iPod, iPhone, or iPad, click "**Device**" and select the device from the list. You can also upload your video directly to YouTube or burn it to DVDs for playback on your TV using a DVD player. You can also share the video directly on social networks.
+
+## Conclusion
+
+The above article talks about different software that can convert images to videos, hope it is helpful if you were wondering how to do that. As we can see above, using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) video editor, you will be more creative in making videos with fun or using Kapwing online software to convert your images to videos.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

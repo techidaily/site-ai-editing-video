@@ -1,7 +1,7 @@
 ---
 title: In 2024, Step by Step to Crop a Video Using Lightworks
-date: 2024-04-24T07:08:14.568Z
-updated: 2024-04-25T07:08:14.568Z
+date: 2024-07-04T02:57:28.238Z
+updated: 2024-07-05T02:57:28.238Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Step by Step to Crop a Video Using Lightworks
 excerpt: This Article Describes In 2024, Step by Step to Crop a Video Using Lightworks
 keywords: step by step to crop a video using lightworks,step by step to cut a video in lightworks,ai animation step by step to crop a video using lightworks,step by step to crop videos using lightworks,ai animation ai animation step by step to crop videos using lightworks,step by step to cut videos in lightworks,ai animation step by step to crop videos using lightworks
-thumbnail: https://www.lifewire.com/thmb/6d3Pk0OpPHgsMtYTh0RE0ehMopY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-758317893-3ab5c26f770448db8b4a58205fb549f1.jpg
+thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3ee5edf935baeb75dd083d47.jpg
 ---
 
 ## Step by Step to Crop a Video Using Lightworks
@@ -315,13 +315,13 @@ This 2022 release brings 50+ film and TV-inspired color grades to assist you in 
 
 Boris FX Continuum is available for $495 and $2,195 depending on your payment plan.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 </article
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

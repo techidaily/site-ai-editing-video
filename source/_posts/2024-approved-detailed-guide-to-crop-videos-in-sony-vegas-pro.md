@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Detailed Guide to Crop Videos in Sony Vegas Pro
-date: 2024-05-20T03:38:28.583Z
-updated: 2024-05-21T03:38:28.583Z
+date: 2024-07-04T02:57:27.758Z
+updated: 2024-07-05T02:57:27.758Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved Detailed Guide to Crop Videos in Sony Vegas Pro
 excerpt: This Article Describes 2024 Approved Detailed Guide to Crop Videos in Sony Vegas Pro
 keywords: detailed guide to crop videos in sony vegas pro,detailed guide to crop video in sony vegas pro,a detailed guid to remove background from a video in premier pro,detailed guide to rotate videos in blender,ai animation detailed guide to crop video in sony vegas pro,ai animation detailed guide to crop videos in sony vegas pro,ai animation ai animation detailed guide to crop video in sony vegas pro
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## Detailed Guide to Crop Videos in Sony Vegas Pro

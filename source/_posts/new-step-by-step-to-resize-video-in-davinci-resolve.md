@@ -1,7 +1,7 @@
 ---
 title: New Step by Step to Resize Video in Davinci Resolve
-date: 2024-05-20T03:38:18.072Z
-updated: 2024-05-21T03:38:18.072Z
+date: 2024-07-04T02:57:45.772Z
+updated: 2024-07-05T02:57:45.772Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Step by Step to Resize Video in Davinci Resolve
 excerpt: This Article Describes New Step by Step to Resize Video in Davinci Resolve
 keywords: ai animation step by step to resize video in davinci resolve,detailed steps to resize video in davinci resolve,how to crop a video in davinci resolve step by step,cropping a video in davinci resolve step by step,step by step to resize video in davinci resolve,ai animation ai animation step by step to resize video in davinci resolve,step by step to rotate videos in davinci resolve
-thumbnail: https://www.lifewire.com/thmb/eHGlVdFJN-X634CkMYdDJQQVhoU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-165567842-58e5bd253df78c51625e84ab.jpg
+thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg
 ---
 
 ## Step by Step to Resize Video in Davinci Resolve
@@ -489,7 +489,7 @@ Step5 Now adjust the Opacity to 100% and Flow to 50%. Moreover, select "Current 
 
 It may be possible that you don't get satisfactory results from Photoshop removing motion blur. Or, if you find the interface of Photoshop intimidating, it can affect your productivity. For your assistance, this section will bring you the best alternatives to Photoshop.
 
-### 1\. [IMAGamigo](https://imageamigo.com/deblur/)
+### 1\. IMAGamigo
 
 IMAGamigo is an online tool that allows you to perform different operations on pictures efficiently. To fix motion blur, it offers a Deblurrer feature. Using this feature, you can automatically remove blur from your photos without any external effort. It also provides other distinct features such as Background Remover, Restorer, Colorizer, Upscale, etc.
 
@@ -497,7 +497,7 @@ To use this tool, first, navigate to its official website. From its tools, selec
 
 ![imageamigo automatic background removal tool](https://images.wondershare.com/filmora/article-images/2022/12/remove-blur-in-photoshop-6.jpg)
 
-### 2\. [Vance.AI](https://vanceai.com/sharpen-ai/)
+### 2\. Vance.AI
 
 This online platform is also a well-trusted tool by professionals and content creators. It provides AI-supported tools such as AI Image Denoiser, AI Image Upscaler, AI Photo Enhancer, etc. You can use its AI Image Sharpener to eliminate motion blur from pictures. It supports all popular image file formats, such as JPEG, PNG, and JPG. Thus, without any installations, you can quickly utilize this tool to fix motion blur photos.
 
@@ -505,7 +505,7 @@ To use this tool, access the official webpage of Vance.AI and select the "AI Ima
 
 ![vanceai sharpen tool online](https://images.wondershare.com/filmora/article-images/2022/12/remove-blur-in-photoshop-7.jpg)
 
-### 3\. [AKVIS Refocus AI](https://akvis.com/en/refocus/index.php)
+### 3\. AKVIS Refocus AI
 
 AKVIS is an offline tool that produces high-end results at a fast processing speed. You can find multiple options in this tool, such as Airbrush, Retoucher, Sketch, Decorator, etc. When it comes to fixing blurry pictures, this tool provides an exclusive feature called "Refocus AI." Through this feature, you can instantly increase the sharpness of your photo. Also, it offers different modes such as Motion Blur, Radial Blur, Refocus-AI, and Tilt-Shift.
 
@@ -581,7 +581,7 @@ Step5 Now adjust the Opacity to 100% and Flow to 50%. Moreover, select "Current 
 
 It may be possible that you don't get satisfactory results from Photoshop removing motion blur. Or, if you find the interface of Photoshop intimidating, it can affect your productivity. For your assistance, this section will bring you the best alternatives to Photoshop.
 
-### 1\. [IMAGamigo](https://imageamigo.com/deblur/)
+### 1\. IMAGamigo
 
 IMAGamigo is an online tool that allows you to perform different operations on pictures efficiently. To fix motion blur, it offers a Deblurrer feature. Using this feature, you can automatically remove blur from your photos without any external effort. It also provides other distinct features such as Background Remover, Restorer, Colorizer, Upscale, etc.
 
@@ -589,7 +589,7 @@ To use this tool, first, navigate to its official website. From its tools, selec
 
 ![imageamigo automatic background removal tool](https://images.wondershare.com/filmora/article-images/2022/12/remove-blur-in-photoshop-6.jpg)
 
-### 2\. [Vance.AI](https://vanceai.com/sharpen-ai/)
+### 2\. Vance.AI
 
 This online platform is also a well-trusted tool by professionals and content creators. It provides AI-supported tools such as AI Image Denoiser, AI Image Upscaler, AI Photo Enhancer, etc. You can use its AI Image Sharpener to eliminate motion blur from pictures. It supports all popular image file formats, such as JPEG, PNG, and JPG. Thus, without any installations, you can quickly utilize this tool to fix motion blur photos.
 
@@ -597,7 +597,7 @@ To use this tool, access the official webpage of Vance.AI and select the "AI Ima
 
 ![vanceai sharpen tool online](https://images.wondershare.com/filmora/article-images/2022/12/remove-blur-in-photoshop-7.jpg)
 
-### 3\. [AKVIS Refocus AI](https://akvis.com/en/refocus/index.php)
+### 3\. AKVIS Refocus AI
 
 AKVIS is an offline tool that produces high-end results at a fast processing speed. You can find multiple options in this tool, such as Airbrush, Retoucher, Sketch, Decorator, etc. When it comes to fixing blurry pictures, this tool provides an exclusive feature called "Refocus AI." Through this feature, you can instantly increase the sharpness of your photo. Also, it offers different modes such as Motion Blur, Radial Blur, Refocus-AI, and Tilt-Shift.
 

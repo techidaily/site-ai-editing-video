@@ -1,7 +1,7 @@
 ---
 title: New 4 Methods to Resize a WebM File
-date: 2024-05-20T03:37:42.618Z
-updated: 2024-05-21T03:37:42.618Z
+date: 2024-07-04T02:57:49.407Z
+updated: 2024-07-05T02:57:49.407Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 4 Methods to Resize a WebM File
 excerpt: This Article Describes New 4 Methods to Resize a WebM File
 keywords: 4 methods to resize a webm file,ai animation 4 methods how to make a recap video,ai animation ai animation 4 methods to resize a webm file,ai animation 4 solutions to resize a webm file,ai animation 4 methods to resize a webm file,4 methods how to make a recap video,4 solutions to resize a webm file
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## 4 Methods to Resize a WebM File

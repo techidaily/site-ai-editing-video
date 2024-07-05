@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Best Things People Know About Wedding Slideshow
-date: 2024-04-24T07:08:41.447Z
-updated: 2024-04-25T07:08:41.447Z
+date: 2024-07-04T02:57:41.363Z
+updated: 2024-07-05T02:57:41.363Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, Best Things People Know About Wedding Slideshow
 excerpt: This Article Describes New In 2024, Best Things People Know About Wedding Slideshow
 keywords: ai animation top things people know about wedding slideshow,best things people know about wedding slideshow,top things people know about wedding slideshow,ai animation ai animation top things people know about wedding slideshow,things you need to know about color grading in photography,ai animation best things people know about wedding slideshow,ways to make sure your recording slideshow in powerpoint is not wrong
-thumbnail: https://www.lifewire.com/thmb/uayRyPYo9UvTUkcunakDixhwqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Robothandholdinganapple-fbe6ff482ed641e188dd6650b9ac132e.jpg
+thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e1719fd0426ca459ec8dc06e9a5.jpg
 ---
 
 ## Best Things People Know About Wedding Slideshow

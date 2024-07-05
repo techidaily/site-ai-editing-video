@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Designs with Feather Shapes in After Effects for 2024
-date: 2024-04-24T07:08:33.247Z
-updated: 2024-04-25T07:08:33.247Z
+date: 2024-07-04T02:57:40.788Z
+updated: 2024-07-05T02:57:40.788Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Elevate Your Designs with Feather Shapes in After Effects for 2024
 excerpt: This Article Describes New Elevate Your Designs with Feather Shapes in After Effects for 2024
 keywords: ai animation want to feather shapes in after effects read this,learn color correction in after effects with these youtube videos,ai animation ai animation elevate your designs with feather shapes in after effects,elevate your designs with feather shapes in after effects,want to feather shapes in after effects read this,how to create datamoshing effect to your footage in after effects,ai animation elevate your designs with feather shapes in after effects
-thumbnail: https://www.lifewire.com/thmb/UCCJI6MO1FwbR0mTqx5aB-FS3_0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-add-tiktok-filters-and-effects-f3c195b2fe1449cb8b2906eea3305b22.jpg
+thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2f2b7f6dd74a2f0921700773.jpg
 ---
 
 ## Elevate Your Designs with Feather Shapes in After Effects
@@ -223,7 +223,7 @@ Also, while this form of rotating might be the most basic implementation of the 
 
 The process of rotating clips is fairly straightforward; once you have PowerDirector 365 open, follow the steps listed below.
 
-_If you do not have CyberLink PowerDirector 365, download the software by visiting_ [_Cyberlink's official website_](https://www.cyberlink.com/products/powerdirector-video-editing-software/features%5Fen%5FUS.html)_._
+_If you do not have CyberLink PowerDirector 365, download the software by visiting_ [_Cyberlink's official website_](https://www.cyberlink.com/products/powerdirector-video-editing-software/features%5Fen%5FUS.html) _._
 
 **Step 1:** Create a new video project in Cyberlink PowerDirector 365 and choose Full Mode.
 

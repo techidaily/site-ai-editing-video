@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Add a Custom Transition to OBS
-date: 2024-04-24T07:08:29.014Z
-updated: 2024-04-25T07:08:29.014Z
+date: 2024-07-04T02:57:23.727Z
+updated: 2024-07-05T02:57:23.727Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved How to Add a Custom Transition to OBS
 excerpt: This Article Describes Updated 2024 Approved How to Add a Custom Transition to OBS
 keywords: ai animation how to add a custom transition to obs,add a custom transition to obs,ai animation ai animation how to add customized transitions to obs,how to add a custom transition to obs,ai animation how to add customized transitions to obs,how to add customized transitions to obs,ai animation how to add custom filters in vn app 2024 quick guide
-thumbnail: https://www.lifewire.com/thmb/oixs9Iru3DkbJ5qQpMfNaiErF04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/woman-with-remote-cropped-getty-169707531-5b2ebd5943a1030036b1eb56.jpg
+thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c8dd3de60bc0fcf279454931.jpg
 ---
 
 ## How to Add a Custom Transition to OBS

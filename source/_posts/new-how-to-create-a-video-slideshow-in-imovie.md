@@ -1,7 +1,7 @@
 ---
 title: New How to Create a Video Slideshow in iMovie
-date: 2024-05-20T03:38:34.213Z
-updated: 2024-05-21T03:38:34.213Z
+date: 2024-07-04T02:57:41.890Z
+updated: 2024-07-05T02:57:41.890Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Create a Video Slideshow in iMovie
 excerpt: This Article Describes New How to Create a Video Slideshow in iMovie
 keywords: how to create a video slideshow in imovie,ai animation how to make a video slideshow in imovie,how to make a video slideshow in imovie,how to create a clideo slideshow,ai animation how to create a video slideshow in imovie,how to create a slideshow on iphone,how to create a clideo slideshow simply
-thumbnail: https://www.lifewire.com/thmb/3UFOh7_Yk35mO3BSnykTStwc6K4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tclsclass-0185b3ecd41d454589d2a9984629b919.jpg
+thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f4891dd7a8e040210befb5bf6c.jpg
 ---
 
 ## How to Create a Video Slideshow in iMovie

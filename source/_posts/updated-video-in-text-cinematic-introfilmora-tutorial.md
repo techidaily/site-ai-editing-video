@@ -1,7 +1,7 @@
 ---
 title: Updated Video in Text Cinematic Intro【Filmora Tutorial】
-date: 2024-04-24T07:08:16.335Z
-updated: 2024-04-25T07:08:16.335Z
+date: 2024-07-04T02:57:26.707Z
+updated: 2024-07-05T02:57:26.707Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Video in Text Cinematic Intro【Filmora Tutorial】
 excerpt: This Article Describes Updated Video in Text Cinematic Intro【Filmora Tutorial】
 keywords: text animation intro tutorial in filmora,video in text cinematic introfilmora tutorial,ai animation video in text cinematic introfilmora tutorial,video in text cinematic intro,repeated text animation tutorial in filmora,detailed tutorial to crop a video in kinemaster,ai animation text animation intro tutorial in filmora
-thumbnail: https://www.lifewire.com/thmb/z0FcObDyImu70neTKRlkwzqQTeM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-17-best-graphic-design-software-2024-1dd6c15b34124b25b65e4b096e4e6ba4.jpg
+thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a044e30e2240a2331d8bec84.jpg
 ---
 
 ## Video in Text Cinematic Intro【Filmora Tutorial】

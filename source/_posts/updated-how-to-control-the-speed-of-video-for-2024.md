@@ -1,7 +1,7 @@
 ---
 title: Updated How to Control the Speed of Video for 2024
-date: 2024-06-18T14:30:52.093Z
-updated: 2024-06-19T14:30:52.093Z
+date: 2024-07-04T02:57:31.573Z
+updated: 2024-07-05T02:57:31.573Z
 tags: 
   - ai
   - animation videos
@@ -1522,7 +1522,7 @@ Finally, it's done. Let's play the video and see how the paper effect and transi
 
 ## Conclusion
 
-We hope this post has helped you achieve the desired effect on your video. With Filmora's intuitive user interface, you can customize your paper rip effect with text, images, and more to create a truly unique and eye-catching video. So get creative and start turning your videos into paper rip effects today![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+We hope this post has helped you achieve the desired effect on your video. With Filmora's intuitive user interface, you can customize your paper rip effect with text, images, and more to create a truly unique and eye-catching video. So get creative and start turning your videos into paper rip effects today ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 * Over 1,000 video effects, transitions, titles, etc., to spice up high-quality videos.
 * Support speech-to-text that allows smooth conversion of voiceover to text.

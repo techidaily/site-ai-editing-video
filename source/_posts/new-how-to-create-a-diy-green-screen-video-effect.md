@@ -1,7 +1,7 @@
 ---
 title: New How to Create a DIY Green Screen Video Effect?
-date: 2024-05-20T03:38:06.478Z
-updated: 2024-05-21T03:38:06.478Z
+date: 2024-07-04T02:57:28.853Z
+updated: 2024-07-05T02:57:28.853Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Create a DIY Green Screen Video Effect?
 excerpt: This Article Describes New How to Create a DIY Green Screen Video Effect?
 keywords: ai animation how to create a green screen video in after effects,how to create a diy green screen video effect,ai animation ai animation how to create a diy green screen video effect,ai animation easy way to create a diy green screen video effect,ai animation how to create a diy green screen video effect,how to create a green screen video in after effects,easy way to create a diy green screen video effect
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## How to Create a DIY Green Screen Video Effect?
@@ -159,7 +159,7 @@ A raw video without any effect will fall flat on its face when it comes to engag
 
 The slow zoom effect is one of the most common but widely loved video effects that work for any video. Human eyes love when there is slow motion effect of panning and zooming into the central or specific portion of a video. The slow zoom in effect is extremely popular among TikTok videos. We will illustrate how to apply slow zoom effect to your video on your smartphone as well as on your computer.
 
-## Part 1\. How to create slow zoom-in effect in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part 1\. How to create slow zoom-in effect in Filmora
 
 If you want to add slow zoom to any recorded video on your computer, you will need a dedicated video editor. There are many popular video editors available where slow zoom effect is not available. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) which is a professional video editor that is available for Windows and Mac users. You will need to combine slow motion and keyframe to achieve the desired slow zoom effect. Here are the steps on how to create slow zoom in effect for your videos.
 
@@ -750,11 +750,11 @@ Step 3: On the next window, select “Add” and browse the output destination o
 
 Step 4: Following this, select the output format of the video file that you need to save your download video in. Ensure that the option of “Activate Transcoding” is enabled. Tap on “Next” to proceed.
 
-![select your output format ](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-5.jpg)
+![select your output format](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-5.jpg)
 
 Step 5: With all settings specified, click "Stream" to download the video across the specified destination.
 
-![ tap on stream button](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-6.jpg)
+![tap on stream button](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-6.jpg)
 
 Step 6: Once the video is downloaded, select "Media" and tap on "Open Files." You can access the specific file folder and play the video from there across VLC Media Player with ease.
 
@@ -923,11 +923,11 @@ Step 3: On the next window, select “Add” and browse the output destination o
 
 Step 4: Following this, select the output format of the video file that you need to save your download video in. Ensure that the option of “Activate Transcoding” is enabled. Tap on “Next” to proceed.
 
-![select your output format ](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-5.jpg)
+![select your output format](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-5.jpg)
 
 Step 5: With all settings specified, click "Stream" to download the video across the specified destination.
 
-![ tap on stream button](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-6.jpg)
+![tap on stream button](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-6.jpg)
 
 Step 6: Once the video is downloaded, select "Media" and tap on "Open Files." You can access the specific file folder and play the video from there across VLC Media Player with ease.
 
@@ -1096,11 +1096,11 @@ Step 3: On the next window, select “Add” and browse the output destination o
 
 Step 4: Following this, select the output format of the video file that you need to save your download video in. Ensure that the option of “Activate Transcoding” is enabled. Tap on “Next” to proceed.
 
-![select your output format ](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-5.jpg)
+![select your output format](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-5.jpg)
 
 Step 5: With all settings specified, click "Stream" to download the video across the specified destination.
 
-![ tap on stream button](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-6.jpg)
+![tap on stream button](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-6.jpg)
 
 Step 6: Once the video is downloaded, select "Media" and tap on "Open Files." You can access the specific file folder and play the video from there across VLC Media Player with ease.
 
@@ -1269,11 +1269,11 @@ Step 3: On the next window, select “Add” and browse the output destination o
 
 Step 4: Following this, select the output format of the video file that you need to save your download video in. Ensure that the option of “Activate Transcoding” is enabled. Tap on “Next” to proceed.
 
-![select your output format ](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-5.jpg)
+![select your output format](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-5.jpg)
 
 Step 5: With all settings specified, click "Stream" to download the video across the specified destination.
 
-![ tap on stream button](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-6.jpg)
+![tap on stream button](https://images.wondershare.com/filmora/article-images/2022/vlc-guide-6.jpg)
 
 Step 6: Once the video is downloaded, select "Media" and tap on "Open Files." You can access the specific file folder and play the video from there across VLC Media Player with ease.
 

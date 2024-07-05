@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, A Guide to Color Grade Your Picture in LightRoom
-date: 2024-04-24T07:08:28.716Z
-updated: 2024-04-25T07:08:28.716Z
+date: 2024-07-04T02:57:45.654Z
+updated: 2024-07-05T02:57:45.654Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, A Guide to Color Grade Your Picture in LightRoom
 excerpt: This Article Describes Updated In 2024, A Guide to Color Grade Your Picture in LightRoom
 keywords: ai animation ai animation how to color grade your picture in lightroom,how to color grade your picture in lightroom,ai animation how to color grade your picture in lightroom,ai animation a guide to color grade your picture in lightroom,a guide to adopting lumetri color presets in effective color grading,how to uue adobe lightroom color grading,a guide to color grade your picture in lightroom
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## A Guide to Color Grade Your Picture in LightRoom

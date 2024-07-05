@@ -1,7 +1,7 @@
 ---
 title: New How to Make Double Exposure Effect in Filmora
-date: 2024-04-24T07:08:12.467Z
-updated: 2024-04-25T07:08:12.467Z
+date: 2024-07-04T02:57:36.060Z
+updated: 2024-07-05T02:57:36.060Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Make Double Exposure Effect in Filmora
 excerpt: This Article Describes New How to Make Double Exposure Effect in Filmora
 keywords: how to make falling text effect in filmora,ai animation how to make double exposure effect in filmora,ai animation how to make falling text effect in filmora,make double exposure effect in filmora,how to make glitch effect with filmora,how to make double exposure effect in filmora,how to make a neon dance effect with filmora
-thumbnail: https://www.lifewire.com/thmb/nkL-0VwZC4rZHc_IxhqFzu82L6A=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps6-concept-trailer-64aac5b7323041ad93d7535eccf7df40.png
+thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2edc67c914e7a3a40f4a1feb7f.png
 ---
 
 ## How to Make Double Exposure Effect in Filmora
@@ -334,13 +334,13 @@ LUTs are an amazing tool in video editing to improve the color scheme of your vi
 
 Does the work of Danny Gevirtz inspire you? Here are some of the most popular Danny Gevirtz-style LUTs you can use for your content.
 
-### 1\. [Creative Filmmaking LUTs](https://danny-gevirtz.sellfy.store/p/creative-filmmaking-luts/)
+### 1\. Creative Filmmaking LUTs
 
 The creative Filmmaking LUT pack consists of 7 unique LUTs designed to enhance your videos. Each LUT offers a unique look, from vintage vibes to the iconic Nolan Blue. Inspired by Christopher Nolan's film "Dunkirk," the Nolan Blue LUT gives you a similar color grading. Moreover, you can achieve the perfect sunset color grading with the Warm Nostalgia LUT. There are so many more to explore in this pack that you can use.
 
 ![creative filmmaking luts](https://images.wondershare.com/filmora/article-images/2023/creative-filmmaking-luts.jpg)
 
-### 2\. [Sellfy Danny Gevirtz Filmmaker LUT Pack](https://vfxdownload.net/danny-gevirtz-filmmaker-lut-pack/)
+### 2\. Sellfy Danny Gevirtz Filmmaker LUT Pack
 
 Danny Gevirtz's color grading inspires this LUT pack. It provides a collection of 8 unique LUTs designed to give your content a different look. Furthermore, this LUT pack has LUTs from moody and cinematic to basic skin tone LUTs. This pack's Teal and Orange LUT are designed to enhance skin tones in a video or photo. Moreover, this pack also offers LUT for outdoor scenery and nature footage.
 
@@ -384,13 +384,13 @@ LUTs are an amazing tool in video editing to improve the color scheme of your vi
 
 Does the work of Danny Gevirtz inspire you? Here are some of the most popular Danny Gevirtz-style LUTs you can use for your content.
 
-### 1\. [Creative Filmmaking LUTs](https://danny-gevirtz.sellfy.store/p/creative-filmmaking-luts/)
+### 1\. Creative Filmmaking LUTs
 
 The creative Filmmaking LUT pack consists of 7 unique LUTs designed to enhance your videos. Each LUT offers a unique look, from vintage vibes to the iconic Nolan Blue. Inspired by Christopher Nolan's film "Dunkirk," the Nolan Blue LUT gives you a similar color grading. Moreover, you can achieve the perfect sunset color grading with the Warm Nostalgia LUT. There are so many more to explore in this pack that you can use.
 
 ![creative filmmaking luts](https://images.wondershare.com/filmora/article-images/2023/creative-filmmaking-luts.jpg)
 
-### 2\. [Sellfy Danny Gevirtz Filmmaker LUT Pack](https://vfxdownload.net/danny-gevirtz-filmmaker-lut-pack/)
+### 2\. Sellfy Danny Gevirtz Filmmaker LUT Pack
 
 Danny Gevirtz's color grading inspires this LUT pack. It provides a collection of 8 unique LUTs designed to give your content a different look. Furthermore, this LUT pack has LUTs from moody and cinematic to basic skin tone LUTs. This pack's Teal and Orange LUT are designed to enhance skin tones in a video or photo. Moreover, this pack also offers LUT for outdoor scenery and nature footage.
 
@@ -931,7 +931,7 @@ Follow the below-mentioned steps to play video at 2x speed with sound in Quickti
 * Then moving forward, change the music synthesizer to Promethean Audio Device, Promethean USB Audio or USB Audio Device. These options might vary depending on the user's specific hardware.
 * Click on Apply and then OK.
 
-## Use Quick Time Features in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Use Quick Time Features in Filmora
 
 ### What is Wondershare Filmora?
 
@@ -1156,7 +1156,7 @@ Follow the below-mentioned steps to play video at 2x speed with sound in Quickti
 * Then moving forward, change the music synthesizer to Promethean Audio Device, Promethean USB Audio or USB Audio Device. These options might vary depending on the user's specific hardware.
 * Click on Apply and then OK.
 
-## Use Quick Time Features in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Use Quick Time Features in Filmora
 
 ### What is Wondershare Filmora?
 
@@ -1381,7 +1381,7 @@ Follow the below-mentioned steps to play video at 2x speed with sound in Quickti
 * Then moving forward, change the music synthesizer to Promethean Audio Device, Promethean USB Audio or USB Audio Device. These options might vary depending on the user's specific hardware.
 * Click on Apply and then OK.
 
-## Use Quick Time Features in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Use Quick Time Features in Filmora
 
 ### What is Wondershare Filmora?
 
@@ -1606,7 +1606,7 @@ Follow the below-mentioned steps to play video at 2x speed with sound in Quickti
 * Then moving forward, change the music synthesizer to Promethean Audio Device, Promethean USB Audio or USB Audio Device. These options might vary depending on the user's specific hardware.
 * Click on Apply and then OK.
 
-## Use Quick Time Features in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Use Quick Time Features in Filmora
 
 ### What is Wondershare Filmora?
 

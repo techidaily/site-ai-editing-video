@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Special Animated Transition Tutorial【SUPER EASY】
-date: 2024-04-24T07:08:14.352Z
-updated: 2024-04-25T07:08:14.352Z
+date: 2024-07-04T02:57:38.528Z
+updated: 2024-07-05T02:57:38.528Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved Special Animated Transition Tutorial【SUPER EASY】
 excerpt: This Article Describes 2024 Approved Special Animated Transition Tutorial【SUPER EASY】
 keywords: ai animation repeated text animation tutorial,repeated text animation tutorial,special animated transition tutorial,repeated text animation tutorial in filmora,ai animation dvd slideshow builder 2024 review and tutorial,special animated transition tutorialsuper easy,ai animation special animated transition tutorialsuper easy
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## Special Animated Transition Tutorial【SUPER EASY】

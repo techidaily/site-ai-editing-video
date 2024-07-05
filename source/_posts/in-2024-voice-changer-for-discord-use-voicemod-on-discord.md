@@ -1,7 +1,7 @@
 ---
 title: In 2024, Voice Changer for Discord | Use Voicemod on Discord
-date: 2024-05-20T03:38:22.389Z
-updated: 2024-05-21T03:38:22.389Z
+date: 2024-07-04T02:57:31.482Z
+updated: 2024-07-05T02:57:31.482Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Voice Changer for Discord | Use Voicemod on Discord
 excerpt: This Article Describes In 2024, Voice Changer for Discord | Use Voicemod on Discord
 keywords: ai animation ai animation voice changer for discord use voicemod on discord,ai animation how to use voicemod on discord desktopmobile,how to use voicemod voice changer on discord,voice changer for discord use voicemod on discord,and when it comes to voice changers for discord none is as easy to operate as the voicemod here is a detailed guide about how to use voicemod on discord on mobile and desktop devices,ai animation voice changer for discord use voicemod on discord,how to use voicemod on discord desktopmobile
-thumbnail: https://www.lifewire.com/thmb/XF8XZEIjsJng0yh72ZnUp_8O804=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/young-muslim-woman-using-phone-1137305438-75947aa7fb484506bf9da8c38fc68a03.jpg
+thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913b07ba9cca730be764e6c410.jpg
 ---
 
 ## Voice Changer for Discord | Use Voicemod on Discord
@@ -1032,16 +1032,16 @@ You can trip unnecessary content at the start or end of your video clip. However
 1. You'll see a small editing window that allows you to trim video in PowerPoint.
 2. Enter the end and start times for the sections of the video you would like to keep. Alternatively, you can use the markers to choose the start and endpoints.
 
-![trim vidoe in powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-2.png)
+![trim vidoe in powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-2.png)
 
 1. To adjust the start and end times in smaller increments, you can use the arrows you see on the sides of those boxes. If you know the exact times, enter them into the corresponding boxes.
 2. You can also select the portion you would like to keep using the end and start time markers. In this case, sliding the red marker allows you to the end time while the green one lets you set the start time.
 
-![trim vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-3.png)
+![trim vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-3.png)
 
 1. If you want to use a combination of the tools above to pinpoint where to start and end the video, hit the Play button, then click the Pause button when you reach the time you want.
 
-![how to trim vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-4.png)
+![how to trim vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-4.png)
 
 1. Enter this time into the End Time or Start Time box, depending on the portion you would like to keep. Or you can move any of the markers to this spot.
 2. Hit the OK button once the portion of the video clip you want is all set. The video will appear on your slide update, and it will only play the section that you kept when trimming the video.
@@ -1052,12 +1052,12 @@ If you trim video in PowerPoint and change your mind, you can always edit where 
 
 1. Select your video, and then find the Playback tab.
 
-![how to reset or edit a trimmed vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-5.png)
+![how to reset or edit a trimmed vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-5.png)
 
 1. Hit the Trim Video button, and the Trim Video Settings will be as they were when you were trimming the video. That means you can make the necessary adjustments.
 2. To reset a trimmed video back to its original length, slide the red end marker to the right and the green start maker to the left. The OK button allows you to play the whole video in your presentation.
 
-![reset or edit a trimmed vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-6.png)
+![reset or edit a trimmed vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-6.png)
 
 ### How to Save a Trimmed Video
 
@@ -1072,7 +1072,7 @@ After compressing your trimmed video, only the trimmed section will show up on y
 5. Go back to the slide that contains your trimmed video, which has now been compressed.
 6. Right-click the compressed video, and select the Save Media As option.
 
-![save trimmed vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-7.png)
+![save trimmed vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-7.png)
 
 1. Choose the location where you want to save your video. You can change its name if you want and click the Save button.
 
@@ -1089,13 +1089,13 @@ Once you have inserted your video in the slide, you have the option of cropping 
 1. Open your presentation and then go to the slide where you have inserted your video clip.
 2. Double-click or select the video, and the two Video Tools tabs will appear in the ribbon: Playback and Format. Hit the Format tab option to activate it.
 
-![how to crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-8.png)
+![how to crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-8.png)
 
 1. Your slide may show a black rectangle after you insert your video.
 2. Add a Poster Frame to the video clip to get rid of the black rectangle.
 3. Click Crop in the Video Tools Format tab.
 
-![crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-9.png)
+![crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-9.png)
 
 1. On the edges of your video clip, you'll see dark crop handles. If you use the Video Shape option, the crop handles will appear on the edge of that shape.
 2. Pressing the Ctrl key on your keyboard while you drag allows you to alter how you crop. Pressing Ctrl plus dragging the side cropping handles resizes two opposite sides, while Ctrl plus dragging the corner cropping handles resizes all the four sides.
@@ -1105,11 +1105,11 @@ Once you have inserted your video in the slide, you have the option of cropping 
 6. You can access more crop options by right-clicking the video, where a contextual menu will appear. Select the Format Video option.
 7. You'll see the Format Video Task Pane; select the Crop option.
 
-![guide to crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-10.png)
+![guide to crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-10.png)
 
 1. You can crop sections of the video by specifying the Picture or Crop Position. You can also change other crop parameters, such as Top, Left, Offset Y, Offset X, Height, and Width.
 
-![learn to crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-11.png)
+![learn to crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-11.png)
 
 #### How to Play Video Inside a Shape
 
@@ -1117,7 +1117,7 @@ If you want to edit your video and enhance its appearance, you can have it play 
 
 To play your video in an unusual shape, select your video and navigate to the Format tab. Then, go to the Video Shape menu, where you'll see multiple shapes to choose from.
 
-![how to play videos inside a shape in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-12.png)
+![how to play videos inside a shape in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-12.png)
 
 #### How to Apply Preset Video Styles
 
@@ -1125,7 +1125,7 @@ You can also liven up your video by applying one of the pre-designed styles that
 
 Applying preset video styles is a simple process. Select the video, then navigate to the Format tab. Click More under the Video Style section. You'll see a gallery of preset styles; roll your mouse over it and hold the cursor over any style type. The program will apply a live preview of this style to your video.
 
-![How to Apply Preset Video Styles powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-13.png)
+![How to Apply Preset Video Styles powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-13.png)
 
 ## Conclusion
 
@@ -1160,16 +1160,16 @@ You can trip unnecessary content at the start or end of your video clip. However
 1. You'll see a small editing window that allows you to trim video in PowerPoint.
 2. Enter the end and start times for the sections of the video you would like to keep. Alternatively, you can use the markers to choose the start and endpoints.
 
-![trim vidoe in powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-2.png)
+![trim vidoe in powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-2.png)
 
 1. To adjust the start and end times in smaller increments, you can use the arrows you see on the sides of those boxes. If you know the exact times, enter them into the corresponding boxes.
 2. You can also select the portion you would like to keep using the end and start time markers. In this case, sliding the red marker allows you to the end time while the green one lets you set the start time.
 
-![trim vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-3.png)
+![trim vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-3.png)
 
 1. If you want to use a combination of the tools above to pinpoint where to start and end the video, hit the Play button, then click the Pause button when you reach the time you want.
 
-![how to trim vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-4.png)
+![how to trim vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-4.png)
 
 1. Enter this time into the End Time or Start Time box, depending on the portion you would like to keep. Or you can move any of the markers to this spot.
 2. Hit the OK button once the portion of the video clip you want is all set. The video will appear on your slide update, and it will only play the section that you kept when trimming the video.
@@ -1180,12 +1180,12 @@ If you trim video in PowerPoint and change your mind, you can always edit where 
 
 1. Select your video, and then find the Playback tab.
 
-![how to reset or edit a trimmed vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-5.png)
+![how to reset or edit a trimmed vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-5.png)
 
 1. Hit the Trim Video button, and the Trim Video Settings will be as they were when you were trimming the video. That means you can make the necessary adjustments.
 2. To reset a trimmed video back to its original length, slide the red end marker to the right and the green start maker to the left. The OK button allows you to play the whole video in your presentation.
 
-![reset or edit a trimmed vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-6.png)
+![reset or edit a trimmed vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-6.png)
 
 ### How to Save a Trimmed Video
 
@@ -1200,7 +1200,7 @@ After compressing your trimmed video, only the trimmed section will show up on y
 5. Go back to the slide that contains your trimmed video, which has now been compressed.
 6. Right-click the compressed video, and select the Save Media As option.
 
-![save trimmed vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-7.png)
+![save trimmed vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-7.png)
 
 1. Choose the location where you want to save your video. You can change its name if you want and click the Save button.
 
@@ -1217,13 +1217,13 @@ Once you have inserted your video in the slide, you have the option of cropping 
 1. Open your presentation and then go to the slide where you have inserted your video clip.
 2. Double-click or select the video, and the two Video Tools tabs will appear in the ribbon: Playback and Format. Hit the Format tab option to activate it.
 
-![how to crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-8.png)
+![how to crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-8.png)
 
 1. Your slide may show a black rectangle after you insert your video.
 2. Add a Poster Frame to the video clip to get rid of the black rectangle.
 3. Click Crop in the Video Tools Format tab.
 
-![crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-9.png)
+![crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-9.png)
 
 1. On the edges of your video clip, you'll see dark crop handles. If you use the Video Shape option, the crop handles will appear on the edge of that shape.
 2. Pressing the Ctrl key on your keyboard while you drag allows you to alter how you crop. Pressing Ctrl plus dragging the side cropping handles resizes two opposite sides, while Ctrl plus dragging the corner cropping handles resizes all the four sides.
@@ -1233,11 +1233,11 @@ Once you have inserted your video in the slide, you have the option of cropping 
 6. You can access more crop options by right-clicking the video, where a contextual menu will appear. Select the Format Video option.
 7. You'll see the Format Video Task Pane; select the Crop option.
 
-![guide to crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-10.png)
+![guide to crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-10.png)
 
 1. You can crop sections of the video by specifying the Picture or Crop Position. You can also change other crop parameters, such as Top, Left, Offset Y, Offset X, Height, and Width.
 
-![learn to crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-11.png)
+![learn to crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-11.png)
 
 #### How to Play Video Inside a Shape
 
@@ -1245,7 +1245,7 @@ If you want to edit your video and enhance its appearance, you can have it play 
 
 To play your video in an unusual shape, select your video and navigate to the Format tab. Then, go to the Video Shape menu, where you'll see multiple shapes to choose from.
 
-![how to play videos inside a shape in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-12.png)
+![how to play videos inside a shape in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-12.png)
 
 #### How to Apply Preset Video Styles
 
@@ -1253,7 +1253,7 @@ You can also liven up your video by applying one of the pre-designed styles that
 
 Applying preset video styles is a simple process. Select the video, then navigate to the Format tab. Click More under the Video Style section. You'll see a gallery of preset styles; roll your mouse over it and hold the cursor over any style type. The program will apply a live preview of this style to your video.
 
-![How to Apply Preset Video Styles powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-13.png)
+![How to Apply Preset Video Styles powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-13.png)
 
 ## Conclusion
 
@@ -1288,16 +1288,16 @@ You can trip unnecessary content at the start or end of your video clip. However
 1. You'll see a small editing window that allows you to trim video in PowerPoint.
 2. Enter the end and start times for the sections of the video you would like to keep. Alternatively, you can use the markers to choose the start and endpoints.
 
-![trim vidoe in powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-2.png)
+![trim vidoe in powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-2.png)
 
 1. To adjust the start and end times in smaller increments, you can use the arrows you see on the sides of those boxes. If you know the exact times, enter them into the corresponding boxes.
 2. You can also select the portion you would like to keep using the end and start time markers. In this case, sliding the red marker allows you to the end time while the green one lets you set the start time.
 
-![trim vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-3.png)
+![trim vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-3.png)
 
 1. If you want to use a combination of the tools above to pinpoint where to start and end the video, hit the Play button, then click the Pause button when you reach the time you want.
 
-![how to trim vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-4.png)
+![how to trim vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-4.png)
 
 1. Enter this time into the End Time or Start Time box, depending on the portion you would like to keep. Or you can move any of the markers to this spot.
 2. Hit the OK button once the portion of the video clip you want is all set. The video will appear on your slide update, and it will only play the section that you kept when trimming the video.
@@ -1308,12 +1308,12 @@ If you trim video in PowerPoint and change your mind, you can always edit where 
 
 1. Select your video, and then find the Playback tab.
 
-![how to reset or edit a trimmed vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-5.png)
+![how to reset or edit a trimmed vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-5.png)
 
 1. Hit the Trim Video button, and the Trim Video Settings will be as they were when you were trimming the video. That means you can make the necessary adjustments.
 2. To reset a trimmed video back to its original length, slide the red end marker to the right and the green start maker to the left. The OK button allows you to play the whole video in your presentation.
 
-![reset or edit a trimmed vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-6.png)
+![reset or edit a trimmed vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-6.png)
 
 ### How to Save a Trimmed Video
 
@@ -1328,7 +1328,7 @@ After compressing your trimmed video, only the trimmed section will show up on y
 5. Go back to the slide that contains your trimmed video, which has now been compressed.
 6. Right-click the compressed video, and select the Save Media As option.
 
-![save trimmed vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-7.png)
+![save trimmed vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-7.png)
 
 1. Choose the location where you want to save your video. You can change its name if you want and click the Save button.
 
@@ -1345,13 +1345,13 @@ Once you have inserted your video in the slide, you have the option of cropping 
 1. Open your presentation and then go to the slide where you have inserted your video clip.
 2. Double-click or select the video, and the two Video Tools tabs will appear in the ribbon: Playback and Format. Hit the Format tab option to activate it.
 
-![how to crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-8.png)
+![how to crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-8.png)
 
 1. Your slide may show a black rectangle after you insert your video.
 2. Add a Poster Frame to the video clip to get rid of the black rectangle.
 3. Click Crop in the Video Tools Format tab.
 
-![crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-9.png)
+![crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-9.png)
 
 1. On the edges of your video clip, you'll see dark crop handles. If you use the Video Shape option, the crop handles will appear on the edge of that shape.
 2. Pressing the Ctrl key on your keyboard while you drag allows you to alter how you crop. Pressing Ctrl plus dragging the side cropping handles resizes two opposite sides, while Ctrl plus dragging the corner cropping handles resizes all the four sides.
@@ -1361,11 +1361,11 @@ Once you have inserted your video in the slide, you have the option of cropping 
 6. You can access more crop options by right-clicking the video, where a contextual menu will appear. Select the Format Video option.
 7. You'll see the Format Video Task Pane; select the Crop option.
 
-![guide to crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-10.png)
+![guide to crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-10.png)
 
 1. You can crop sections of the video by specifying the Picture or Crop Position. You can also change other crop parameters, such as Top, Left, Offset Y, Offset X, Height, and Width.
 
-![learn to crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-11.png)
+![learn to crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-11.png)
 
 #### How to Play Video Inside a Shape
 
@@ -1373,7 +1373,7 @@ If you want to edit your video and enhance its appearance, you can have it play 
 
 To play your video in an unusual shape, select your video and navigate to the Format tab. Then, go to the Video Shape menu, where you'll see multiple shapes to choose from.
 
-![how to play videos inside a shape in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-12.png)
+![how to play videos inside a shape in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-12.png)
 
 #### How to Apply Preset Video Styles
 
@@ -1381,7 +1381,7 @@ You can also liven up your video by applying one of the pre-designed styles that
 
 Applying preset video styles is a simple process. Select the video, then navigate to the Format tab. Click More under the Video Style section. You'll see a gallery of preset styles; roll your mouse over it and hold the cursor over any style type. The program will apply a live preview of this style to your video.
 
-![How to Apply Preset Video Styles powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-13.png)
+![How to Apply Preset Video Styles powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-13.png)
 
 ## Conclusion
 
@@ -1416,16 +1416,16 @@ You can trip unnecessary content at the start or end of your video clip. However
 1. You'll see a small editing window that allows you to trim video in PowerPoint.
 2. Enter the end and start times for the sections of the video you would like to keep. Alternatively, you can use the markers to choose the start and endpoints.
 
-![trim vidoe in powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-2.png)
+![trim vidoe in powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-2.png)
 
 1. To adjust the start and end times in smaller increments, you can use the arrows you see on the sides of those boxes. If you know the exact times, enter them into the corresponding boxes.
 2. You can also select the portion you would like to keep using the end and start time markers. In this case, sliding the red marker allows you to the end time while the green one lets you set the start time.
 
-![trim vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-3.png)
+![trim vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-3.png)
 
 1. If you want to use a combination of the tools above to pinpoint where to start and end the video, hit the Play button, then click the Pause button when you reach the time you want.
 
-![how to trim vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-4.png)
+![how to trim vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-4.png)
 
 1. Enter this time into the End Time or Start Time box, depending on the portion you would like to keep. Or you can move any of the markers to this spot.
 2. Hit the OK button once the portion of the video clip you want is all set. The video will appear on your slide update, and it will only play the section that you kept when trimming the video.
@@ -1436,12 +1436,12 @@ If you trim video in PowerPoint and change your mind, you can always edit where 
 
 1. Select your video, and then find the Playback tab.
 
-![how to reset or edit a trimmed vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-5.png)
+![how to reset or edit a trimmed vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-5.png)
 
 1. Hit the Trim Video button, and the Trim Video Settings will be as they were when you were trimming the video. That means you can make the necessary adjustments.
 2. To reset a trimmed video back to its original length, slide the red end marker to the right and the green start maker to the left. The OK button allows you to play the whole video in your presentation.
 
-![reset or edit a trimmed vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-6.png)
+![reset or edit a trimmed vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-6.png)
 
 ### How to Save a Trimmed Video
 
@@ -1456,7 +1456,7 @@ After compressing your trimmed video, only the trimmed section will show up on y
 5. Go back to the slide that contains your trimmed video, which has now been compressed.
 6. Right-click the compressed video, and select the Save Media As option.
 
-![save trimmed vidoe in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-7.png)
+![save trimmed vidoe in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-7.png)
 
 1. Choose the location where you want to save your video. You can change its name if you want and click the Save button.
 
@@ -1473,13 +1473,13 @@ Once you have inserted your video in the slide, you have the option of cropping 
 1. Open your presentation and then go to the slide where you have inserted your video clip.
 2. Double-click or select the video, and the two Video Tools tabs will appear in the ribbon: Playback and Format. Hit the Format tab option to activate it.
 
-![how to crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-8.png)
+![how to crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-8.png)
 
 1. Your slide may show a black rectangle after you insert your video.
 2. Add a Poster Frame to the video clip to get rid of the black rectangle.
 3. Click Crop in the Video Tools Format tab.
 
-![crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-9.png)
+![crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-9.png)
 
 1. On the edges of your video clip, you'll see dark crop handles. If you use the Video Shape option, the crop handles will appear on the edge of that shape.
 2. Pressing the Ctrl key on your keyboard while you drag allows you to alter how you crop. Pressing Ctrl plus dragging the side cropping handles resizes two opposite sides, while Ctrl plus dragging the corner cropping handles resizes all the four sides.
@@ -1489,11 +1489,11 @@ Once you have inserted your video in the slide, you have the option of cropping 
 6. You can access more crop options by right-clicking the video, where a contextual menu will appear. Select the Format Video option.
 7. You'll see the Format Video Task Pane; select the Crop option.
 
-![guide to crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-10.png)
+![guide to crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-10.png)
 
 1. You can crop sections of the video by specifying the Picture or Crop Position. You can also change other crop parameters, such as Top, Left, Offset Y, Offset X, Height, and Width.
 
-![learn to crop video in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-11.png)
+![learn to crop video in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-11.png)
 
 #### How to Play Video Inside a Shape
 
@@ -1501,7 +1501,7 @@ If you want to edit your video and enhance its appearance, you can have it play 
 
 To play your video in an unusual shape, select your video and navigate to the Format tab. Then, go to the Video Shape menu, where you'll see multiple shapes to choose from.
 
-![how to play videos inside a shape in microsoft powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-12.png)
+![how to play videos inside a shape in microsoft powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-12.png)
 
 #### How to Apply Preset Video Styles
 
@@ -1509,7 +1509,7 @@ You can also liven up your video by applying one of the pre-designed styles that
 
 Applying preset video styles is a simple process. Select the video, then navigate to the Format tab. Click More under the Video Style section. You'll see a gallery of preset styles; roll your mouse over it and hold the cursor over any style type. The program will apply a live preview of this style to your video.
 
-![How to Apply Preset Video Styles powerpoint ](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-13.png)
+![How to Apply Preset Video Styles powerpoint](https://images.wondershare.com/filmora/article-images/2022/02/trim-video-in-powerpoint-13.png)
 
 ## Conclusion
 

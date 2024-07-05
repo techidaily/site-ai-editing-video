@@ -1,7 +1,7 @@
 ---
 title: Free 3D Intro Makers
-date: 2024-05-20T03:37:21.057Z
-updated: 2024-05-21T03:37:21.057Z
+date: 2024-07-04T02:57:46.394Z
+updated: 2024-07-05T02:57:46.394Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Free 3D Intro Makers
 excerpt: This Article Describes Free 3D Intro Makers
 keywords: make intro video,free 3d intro makers,legend intro maker,ai animation free 3d intro makers,top 4 free 3d intro maker to use,ai animation ai animation free 3d intro makers,free 3d intro maker
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## Free 3D Intro Makers

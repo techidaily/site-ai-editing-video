@@ -1,7 +1,7 @@
 ---
 title: Updated How To Add Motion Blur Effect To Photos in GIMP
-date: 2024-05-20T03:38:32.575Z
-updated: 2024-05-21T03:38:32.575Z
+date: 2024-07-04T02:57:41.720Z
+updated: 2024-07-05T02:57:41.720Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How To Add Motion Blur Effect To Photos in GIMP
 excerpt: This Article Describes Updated How To Add Motion Blur Effect To Photos in GIMP
 keywords: how to add motion blur in after effects,ai animation how to add motion blur effect to photos in gimp,ai animation how to add motion blur in after effects,how to add zoom blur effect in photoshop,ai animation how to add zoom blur effect in photoshop,use path blur in photoshop to create motion effect,how to add motion blur effect to photos in gimp
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## How To Add Motion Blur Effect To Photos in GIMP
@@ -60,7 +60,7 @@ Step4 Once you are satisfied with your changes, click **“OK”** to apply the 
 
 GIMP is a popular image editor that you can use to create motion blur effects. However, some users find it difficult to use the software for this purpose.
 
-To simplify the process, we recommend using[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) an all-in-one editing software that offers multiple advanced features to help you quickly enhance your project.
+To simplify the process, we recommend using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) an all-in-one editing software that offers multiple advanced features to help you quickly enhance your project.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 

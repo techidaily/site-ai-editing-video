@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How To Add Text In After Effects
-date: 2024-04-24T07:08:30.049Z
-updated: 2024-04-25T07:08:30.049Z
+date: 2024-07-04T02:57:30.544Z
+updated: 2024-07-05T02:57:30.544Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, How To Add Text In After Effects
 excerpt: This Article Describes New In 2024, How To Add Text In After Effects
 keywords: how to add text in after effects,how to add motion blur in after effects,ai animation how to add text in after effects,ai animation how to add expression in after effects,how to add expression in after effects,adding text in after effects,how to add text effects in adobe premiere pro
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## How To Add Text In After Effects
@@ -97,13 +97,13 @@ Step5You can edit the text effect by double clicking on the text layer on Timeli
 
 If you want to add animated text to photo and video, After Effects is a great editor you can use. We have illustrated how you can add text and customize the text and finally, animate it as per your preference. However, if you are looking for AE alternative, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) where you can add text to video instantly and choose from a wide range of text effects and animations.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 </article
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

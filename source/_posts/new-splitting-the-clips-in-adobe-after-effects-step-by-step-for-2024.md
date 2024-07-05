@@ -1,7 +1,7 @@
 ---
 title: New Splitting the Clips in Adobe After Effects Step by Step for 2024
-date: 2024-04-24T07:08:38.169Z
-updated: 2024-04-25T07:08:38.169Z
+date: 2024-07-04T02:57:23.435Z
+updated: 2024-07-05T02:57:23.435Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Splitting the Clips in Adobe After Effects Step by Step for 2024
 excerpt: This Article Describes New Splitting the Clips in Adobe After Effects Step by Step for 2024
 keywords: ai animation splitting clips in adobe after effects step by step,splitting clips in adobe after effects step by step,ai animation using slow motion in adobe after effects a step by step procession,using slow motion in adobe after effects a step by step procession,ai animation ai animation splitting the clips in adobe after effects step by step,splitting the clips in adobe after effects step by step,ai animation splitting the clips in adobe after effects step by step
-thumbnail: https://www.lifewire.com/thmb/7wF4Y8OF7ONJDet9sjTpYolWJ8M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-475157855-5b24021b04d1cf00369d7e11-5c66f1c04cedfd00010a2553.jpg
+thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f64d610e7943b29ad8777b2c6.jpg
 ---
 
 ## Splitting the Clips in Adobe After Effects [Step by Step]
@@ -43,7 +43,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 
@@ -102,7 +102,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 
@@ -161,7 +161,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 
@@ -220,7 +220,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 

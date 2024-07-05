@@ -1,7 +1,7 @@
 ---
 title: New How to Make a Slow Motion Video Complete Guide
-date: 2024-06-26T06:24:21.067Z
-updated: 2024-06-27T06:24:21.067Z
+date: 2024-07-04T02:57:25.455Z
+updated: 2024-07-05T02:57:25.455Z
 tags: 
   - ai
   - animation videos
@@ -410,7 +410,8 @@ Now the fun part begins. It is time to get the movie on camera. All the producer
 
 Production
 
-## 3\. Post-Production ![Post-Production](https://images.wondershare.com/filmora/article-images/2022/06/what-are-the-stages-of-film-production-04.jpg)
+## 3\. Post-Production
+![Post-Production](https://images.wondershare.com/filmora/article-images/2022/06/what-are-the-stages-of-film-production-04.jpg)
 
 Post-Production
 
@@ -478,7 +479,8 @@ Now the fun part begins. It is time to get the movie on camera. All the producer
 
 Production
 
-## 3\. Post-Production ![Post-Production](https://images.wondershare.com/filmora/article-images/2022/06/what-are-the-stages-of-film-production-04.jpg)
+## 3\. Post-Production
+![Post-Production](https://images.wondershare.com/filmora/article-images/2022/06/what-are-the-stages-of-film-production-04.jpg)
 
 Post-Production
 

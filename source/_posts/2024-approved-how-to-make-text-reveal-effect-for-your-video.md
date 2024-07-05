@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Make Text Reveal Effect for Your Video
-date: 2024-04-24T07:08:12.547Z
-updated: 2024-04-25T07:08:12.547Z
+date: 2024-07-04T02:57:49.242Z
+updated: 2024-07-05T02:57:49.242Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved How to Make Text Reveal Effect for Your Video
 excerpt: This Article Describes 2024 Approved How to Make Text Reveal Effect for Your Video
 keywords: 3 ways to create motion text effects for your video,how to make text reveal effect easily,ai animation how to create motion text effects for your video,how to make text reveal effect for your video,ai animation how to make text reveal effect easily,ai animation how to make text reveal effect for your video,how to create motion text effects for your video
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## How to Make Text Reveal Effect for Your Video
@@ -19,7 +19,7 @@ Have you ever seen the text reveal led by a subject when moving across the frame
 
 While it may look complicated, it's actually quite easy to create with a video editing program like Filmora. Filmora's masking feature allows users to create impressive and eye-catching text reveals in their videos. For those looking for a tutorial on how to make text reveal, here's a step-by-step guide to help you out.
 
-## How to add text reveal effect using [Filmora's](https://tools.techidaily.com/wondershare/filmora/download/) masking tool
+## How to add text reveal effect using Filmora's
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 

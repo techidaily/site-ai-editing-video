@@ -1,7 +1,7 @@
 ---
 title: Steps To Fade Audio In Premier Pro
-date: 2024-05-20T03:37:30.483Z
-updated: 2024-05-21T03:37:30.483Z
+date: 2024-07-04T02:57:23.538Z
+updated: 2024-07-05T02:57:23.538Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Steps To Fade Audio In Premier Pro
 excerpt: This Article Describes Steps To Fade Audio In Premier Pro
 keywords: how to add filter to video in premiere pro,fade to black in premiere pro,split audio from video in premiere pro,ai animation steps to fade audio in premier pro,how to fade audio in kinemaster,2 ways to fade in text in premiere pro,steps to fade audio in premier pro
-thumbnail: https://www.lifewire.com/thmb/kSmIkt41HTX2fBvFrYUa0wu300k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TikTok-vs-YouTube-a42ac0c72a4f4b1d9da8b7ae85b4205e.jpg
+thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1eb26d7f5f5a9a68662ceb542.jpg
 ---
 
 ## Steps To Fade Audio In Premier Pro
@@ -95,13 +95,13 @@ Adding audio transitions in Premiere Pro is very easy; just open the audio that 
 
 To add a duration for the audio transitions, go to Edit > Preferences > Timeline (PC) or Premiere Pro Menu > Preferences (macOS) and enter the duration value under “Audio Transition Default Duration.”
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 </article
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

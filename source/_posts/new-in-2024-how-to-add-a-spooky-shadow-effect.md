@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Add a Spooky Shadow Effect
-date: 2024-04-24T07:08:29.750Z
-updated: 2024-04-25T07:08:29.750Z
+date: 2024-07-04T02:57:42.873Z
+updated: 2024-07-05T02:57:42.873Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, How to Add a Spooky Shadow Effect
 excerpt: This Article Describes New In 2024, How to Add a Spooky Shadow Effect
 keywords: how to add camera shake to video in adobe after effects,how to add a spooky shadow effect,adding a spooky shadow effect with filmora,ai animation adding a spooky shadow effect with filmora,how to add text in after effects,add spooky shadow effect,ai animation how to add a spooky shadow effect
-thumbnail: https://www.lifewire.com/thmb/Rjkf6fiPF-oXAs-UqYWshvM3oZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CODA-d4dd2a9b6c3d4a008a05c9718c9bce1e.jpg
+thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371dbf02532bc0633c00063d56.jpg
 ---
 
 ## How to Add a Spooky Shadow Effect
@@ -425,7 +425,7 @@ Step4 Once you are satisfied with your changes, click **“OK”** to apply the 
 
 GIMP is a popular image editor that you can use to create motion blur effects. However, some users find it difficult to use the software for this purpose.
 
-To simplify the process, we recommend using[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) an all-in-one editing software that offers multiple advanced features to help you quickly enhance your project.
+To simplify the process, we recommend using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) an all-in-one editing software that offers multiple advanced features to help you quickly enhance your project.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 

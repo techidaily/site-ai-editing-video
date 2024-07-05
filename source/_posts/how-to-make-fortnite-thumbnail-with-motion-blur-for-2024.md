@@ -1,7 +1,7 @@
 ---
 title: How to Make Fortnite Thumbnail with Motion Blur for 2024
-date: 2024-04-24T07:08:12.491Z
-updated: 2024-04-25T07:08:12.491Z
+date: 2024-07-04T02:57:44.051Z
+updated: 2024-07-05T02:57:44.051Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Make Fortnite Thumbnail with Motion Blur for 2024
 excerpt: This Article Describes How to Make Fortnite Thumbnail with Motion Blur for 2024
 keywords: how to turn onoff motion blur in fortnite is it good for fortnite,ai animation how to make tutorial video with filmora,ai animation how to make a video by mouse with filmora,make thumbnail for ortnite video,how to make fortnite thumbnail with motion blur,ai animation how to make fortnite thumbnail with motion blur,ai animation how to make cool cod warzone thumbnail
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## How to Make Fortnite Thumbnail with Motion Blur?

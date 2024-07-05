@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Use Slow Zoom Effect in Your Video?
-date: 2024-04-24T07:08:13.070Z
-updated: 2024-04-25T07:08:13.070Z
+date: 2024-07-04T02:57:37.724Z
+updated: 2024-07-05T02:57:37.724Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, How To Use Slow Zoom Effect in Your Video?
 excerpt: This Article Describes In 2024, How To Use Slow Zoom Effect in Your Video?
 keywords: top vhs sound effect that you can use in video making,ai animation how to use slow zoom effect in your video,guide to use slow motion in after effects,how to use slow zoom effect in your video,how to add selective color effect to your videos,how to use visual effect for zoom,use slow zoom effect in your video
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## How To Use Slow Zoom Effect in Your Video?
@@ -19,7 +19,7 @@ A raw video without any effect will fall flat on its face when it comes to engag
 
 The slow zoom effect is one of the most common but widely loved video effects that work for any video. Human eyes love when there is slow motion effect of panning and zooming into the central or specific portion of a video. The slow zoom in effect is extremely popular among TikTok videos. We will illustrate how to apply slow zoom effect to your video on your smartphone as well as on your computer.
 
-## Part 1\. How to create slow zoom-in effect in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part 1\. How to create slow zoom-in effect in Filmora
 
 If you want to add slow zoom to any recorded video on your computer, you will need a dedicated video editor. There are many popular video editors available where slow zoom effect is not available. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) which is a professional video editor that is available for Windows and Mac users. You will need to combine slow motion and keyframe to achieve the desired slow zoom effect. Here are the steps on how to create slow zoom in effect for your videos.
 

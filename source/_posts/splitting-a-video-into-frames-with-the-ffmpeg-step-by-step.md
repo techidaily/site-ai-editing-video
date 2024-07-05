@@ -1,7 +1,7 @@
 ---
 title: Splitting a Video Into Frames with the FFmpeg Step by Step
-date: 2024-06-26T06:24:19.776Z
-updated: 2024-06-27T06:24:19.776Z
+date: 2024-07-04T02:57:24.572Z
+updated: 2024-07-05T02:57:24.572Z
 tags: 
   - ai
   - animation videos
@@ -723,7 +723,8 @@ Cool, isn't it? Now we have added smoke to our timeline. Combined with the flick
 
 To mimic a real fire, we also have one more element that is missing, And that will be the **sparks and the flames**. And if you want to bring the fire effect of your video to the pro level, we would have to use the **film stock effects.** Flames and sparks are also available in the Wondershare Filmora.
 
-##### #Step1 Search for Fire Tab ![search for fire tab](https://images.wondershare.com/filmora/article-images/2022/12/realistic-fire-effect-using-wondershare-filmora-6.jpg)
+##### #Step1 Search for Fire Tab
+![search for fire tab](https://images.wondershare.com/filmora/article-images/2022/12/realistic-fire-effect-using-wondershare-filmora-6.jpg)
 
 * To do so, **click** on the bar above the element's icon.
 * Once you have opened the elements tab, look to your **left** window, where further options are available.
@@ -889,7 +890,8 @@ Cool, isn't it? Now we have added smoke to our timeline. Combined with the flick
 
 To mimic a real fire, we also have one more element that is missing, And that will be the **sparks and the flames**. And if you want to bring the fire effect of your video to the pro level, we would have to use the **film stock effects.** Flames and sparks are also available in the Wondershare Filmora.
 
-##### #Step1 Search for Fire Tab ![search for fire tab](https://images.wondershare.com/filmora/article-images/2022/12/realistic-fire-effect-using-wondershare-filmora-6.jpg)
+##### #Step1 Search for Fire Tab
+![search for fire tab](https://images.wondershare.com/filmora/article-images/2022/12/realistic-fire-effect-using-wondershare-filmora-6.jpg)
 
 * To do so, **click** on the bar above the element's icon.
 * Once you have opened the elements tab, look to your **left** window, where further options are available.

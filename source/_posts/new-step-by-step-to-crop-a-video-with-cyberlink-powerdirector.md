@@ -1,7 +1,7 @@
 ---
 title: New Step by Step to Crop a Video with CyberLink PowerDirector
-date: 2024-04-24T07:08:14.575Z
-updated: 2024-04-25T07:08:14.575Z
+date: 2024-07-04T02:57:38.569Z
+updated: 2024-07-05T02:57:38.569Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Step by Step to Crop a Video with CyberLink PowerDirector
 excerpt: This Article Describes New Step by Step to Crop a Video with CyberLink PowerDirector
 keywords: ai animation step by step to crop videos with cyberlink powerdirector,step by step to crop videos with cyberlink powerdirector,step by step to crop a video with cyberlink powerdirector,ai animation ai animation step by step to crop videos with cyberlink powerdirector,ai animation step by step to crop a video with cyberlink powerdirector,step by step to crop a video using lightworks,detailed tutorial to rotate a video in cyberlink powerdirector
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## Step by Step to Crop a Video with CyberLink PowerDirector
@@ -31,7 +31,7 @@ To preface, CyberLink PowerDirector is a free video editing tool capable of acco
 
 The idea of cropping into clips has always been an easy action to perform; once you have PowerDirector 365 open, follow the steps listed below.
 
-_If you do not already have CyberLink PowerDirector 365, download the software by visiting_ [_Cyberlink's official website_](https://www.cyberlink.com/products/powerdirector-video-editing-software/features%5Fen%5FIN.html)_._
+_If you do not already have CyberLink PowerDirector 365, download the software by visiting_ [_Cyberlink's official website_](https://www.cyberlink.com/products/powerdirector-video-editing-software/features%5Fen%5FIN.html) _._
 
 **Step 1:** Create a new video project in Cyberlink PowerDirector 365 by choosing Full Mode.
 
@@ -405,13 +405,13 @@ You can also use the software's Preview window to check the animation you've cho
 
 Text and titles may be used to easily build simple animations in Premiere. In summary, learning how to change text on premiere pro is addressed in detail. The majority of the change text in Premiere Pro presets will be compatible to you now. Though there are loads of complications with different versions of PR, Filmora, on the other hand, gives you the option to add some excellent text effects to your films in a simplified manner. Refer to this toolkit as PR alternative to change text in Premiere Pro files effectively.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 </article
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

@@ -1,7 +1,7 @@
 ---
 title: Updated How to Use LUTS to Color Grade on Your iPhone for 2024
-date: 2024-04-24T07:08:37.547Z
-updated: 2024-04-25T07:08:37.547Z
+date: 2024-07-04T02:57:40.052Z
+updated: 2024-07-05T02:57:40.052Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Use LUTS to Color Grade on Your iPhone for 2024
 excerpt: This Article Describes Updated How to Use LUTS to Color Grade on Your iPhone for 2024
 keywords: ai animation ai animation how to use luts to color grade on your iphone,color lut in video how to color grade your video,how to use luts to color grade on your iphone,ai animation the ultimate guide to use luts to color grade on iphone,ai animation color lut in video how to color grade your video,the ultimate guide to use luts to color grade on iphone,ai animation how to use luts to color grade on your iphone
-thumbnail: https://www.lifewire.com/thmb/Ngm9bpatigonc3AlRSUUdm9EIUQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
 ## How to Use LUTS to Color Grade on Your iPhone

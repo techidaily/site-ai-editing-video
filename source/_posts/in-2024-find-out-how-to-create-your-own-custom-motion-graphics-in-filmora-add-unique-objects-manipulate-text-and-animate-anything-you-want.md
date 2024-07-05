@@ -1,7 +1,7 @@
 ---
 title: In 2024, Find Out How to Create Your Own Custom Motion Graphics in Filmora. Add Unique Objects, Manipulate Text, and Animate Anything You Want
-date: 2024-04-24T07:08:19.456Z
-updated: 2024-04-25T07:08:19.456Z
+date: 2024-07-04T02:57:26.807Z
+updated: 2024-07-05T02:57:26.807Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Find Out How to Create Your Own Custom Motion Graphics in Filmora. Add Unique Objects, Manipulate Text, and Animate Anything You Want
 excerpt: This Article Describes In 2024, Find Out How to Create Your Own Custom Motion Graphics in Filmora. Add Unique Objects, Manipulate Text, and Animate Anything You Want
 keywords: learn how to change aspect ratio in imovie on mac ipad and iphone in this guide and you can also use imovie alternatives like wondershare filmora to edit your videos,learn how to create custom titles in filmora and add a unique lower third animation effect in six simple steps,do you want to add a motion blur effect in valorant read this guide to find out how to create a motion blur effect in valorant without any hassle,find out how to create your own custom motion graphics in filmora add unique objects manipulate text and animate anything you want,this post will make you learn anything and everything about animated gifs the ways to use cool gifs in my marketing and how to create unique custom animated gifs,ai animation ai animation how to create custom lower thirds in filmora,you can make attractive videos by adding text behind objects this article will explain how to use wondershare filmora to create these videos
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## Find Out How to Create Your Own Custom Motion Graphics in Filmora. Add Unique Objects, Manipulate Text, and Animate Anything You Want

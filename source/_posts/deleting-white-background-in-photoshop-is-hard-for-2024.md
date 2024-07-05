@@ -1,7 +1,7 @@
 ---
 title: Deleting White Background in Photoshop Is Hard for 2024
-date: 2024-06-18T14:30:47.747Z
-updated: 2024-06-19T14:30:47.747Z
+date: 2024-07-04T02:57:33.737Z
+updated: 2024-07-05T02:57:33.737Z
 tags: 
   - ai
   - animation videos
@@ -763,11 +763,11 @@ Step5When you're done editing the video, tap on the “Export” icon at the top
 
 ![export video powerdirector](https://images.wondershare.com/filmora/article-images/2022/08/export-video-powerdirector.jpg)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

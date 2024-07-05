@@ -1,7 +1,7 @@
 ---
 title: In 2024, Make Eye Zoom Transition Effect with Filmora
-date: 2024-04-24T07:08:13.670Z
-updated: 2024-04-25T07:08:13.670Z
+date: 2024-07-04T02:57:49.452Z
+updated: 2024-07-05T02:57:49.452Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Make Eye Zoom Transition Effect with Filmora
 excerpt: This Article Describes In 2024, Make Eye Zoom Transition Effect with Filmora
 keywords: ai animation make eye zoom transition effect with filmora,how to make a neon dance effect with filmora,make eye zoom transition effect with filmora,ai animation how to make eye zoom transition effect with filmora,ai animation ai animation how to make eye zoom transition effect with filmora,eye zoom transition effect,how to make eye zoom transition effect with filmora
-thumbnail: https://www.lifewire.com/thmb/tP3PGqv5XalObxjPn5UrSpbUwa0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/preaknessstakes-5c804f1b46e0fb00019b8ee0.jpg
+thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be090a3ce22bfc91cc23bb5f7.jpg
 ---
 
 ## How to Make Eye Zoom Transition Effect with Filmora
