@@ -1,7 +1,7 @@
 ---
 title: Updated A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing
-date: 2024-05-20T03:37:45.920Z
-updated: 2024-05-21T03:37:45.920Z
+date: 2024-07-20T11:42:15.664Z
+updated: 2024-07-21T11:42:15.664Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing
 excerpt: This Article Describes Updated A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing
 keywords: if you are trying to create a countdown effect but youre not sure where to start then this post is going to show you some ways to create a countdown animation for your videos,if youre trying to create a countdown effect but youre not sure where to start then this post is going to show you some ways to create a countdown animation for your videos,a countdown effect is widely used in gaming and report videos so how to create your own countdown video this article will tell you some ideas about contdown video editing,speed control is frequently used in video editing by speed up or slow down the video speed you can achieve different visual results this article will show you how to control the speed of a video,want to add an exciting countdown timer to your wedding product launch or any other video using after effects or an alternative tool this article will help you learn all about after effects countdown and the procedure,filmora is a great video editor that many users are making intro video with it this article will guide you how to create an intro video with filmora,as video editing has become a pillar stone in post production work you might need to upgrade your knowledge about it in this article you will learn how to rotate the video
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing
@@ -21,6 +21,9 @@ In this article, we will demonstrate how to use Adobe After Effects to put toget
 
 Let's begin!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Part 1\. Create a new composition
 
 It's possible that you only want to show the minutes and seconds. Make a mask around the entire area you intend to use in order to quickly remove undesired information.
@@ -33,6 +36,9 @@ It's possible that you only want to show the minutes and seconds. Make a mask ar
 
 4\. Everything should be pre-composed, and the composition's tempo should be reversed to make it count down. Right-click the composition and choose Time > Time Reverse Layer to change its pace.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![create new text countdown video](https://images.wondershare.com/filmora/article-images/2022/11/create-new-text-countdown-video.jpg)
 
 ## Part 2\. Using the timecode plugin
@@ -113,14 +119,28 @@ Step1Launch Windows Movie Maker on your PC. Create a new project and import your
 
 Step2When you are done editing your video, go to Home tab> Save Movie button available on Share section.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![windows movie maker save movie](https://images.wondershare.com/filmora/article-images/2022/09/windows-movie-maker-save-movie.jpg)
 
 Step3Instead of clicking on Save Movie button, click on the small triangle icon on Save Movie button. Click on Recommended for this project option. You can hold your mouse pointer on the option for a few seconds before clicking to check out the different parameters of your video file that you are going to save.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![recommend for this project](https://images.wondershare.com/filmora/article-images/2022/09/recommend-for-this-project.jpg)
 
 Step4The Save Movie dialog box will open on the screen. Go to the Save as type section and make sure it is selected for "MPEG-4/ Vide File". MP4 is the abbreviation of MPEG-4\. Finally, click on Save button and your video file will be saved in MP4 file format as per the destination you have chosen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![save movie maker as mp4](https://images.wondershare.com/filmora/article-images/2022/09/save-movie-maker-as-mp4.jpg)
 
 ## Part 2\. Windows Movie Maker Alternative to Save as MP4
@@ -135,6 +155,9 @@ We have already stated that Windows Movie Maker from Microsoft has been disconti
 
 Step1Download and install Wondershare Filmora. Click on New Project option on the welcome screen. Drag and drop your video clips into Project Media folder. Thereafter, bring them onto the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![click on new project option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step2Edit the video clips, add effects and animations as well as titles. Once your editing is done, click on Export button.
@@ -143,6 +166,9 @@ Step2Edit the video clips, add effects and animations as well as titles. Once yo
 
 Step3Select MP4 file format on the left corner and specify the file name. Select the destination folder from Save To and other parameters as required. Finally, click on Export button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![click on export button](https://images.wondershare.com/filmora/guide/export-to-local-win-1.png)
 
 #### Related FAQs of Movie Maker
@@ -165,6 +191,13 @@ If you are using Windows Movie Maker on your PC, we have stated how you can save
 
 Step1Download and install Wondershare Filmora. Click on New Project option on the welcome screen. Drag and drop your video clips into Project Media folder. Thereafter, bring them onto the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![click on new project option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step2Edit the video clips, add effects and animations as well as titles. Once your editing is done, click on Export button.
@@ -197,6 +230,9 @@ If you are using Windows Movie Maker on your PC, we have stated how you can save
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Top 5 Free Online Video Filter Editors
 
 In the era of digital storytelling, everyone desires to make their content stand out. Applying video filters is a surefire way to enhance your videos' mood, style, and overall appeal.
@@ -216,6 +252,9 @@ With many video filter editors available online, choosing the right one can be d
 
 ### Veed.io
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![filter online4](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors4.png)
 
 Veed.io is more than just an online video editor. This platform is designed with the user in mind, ensuring a hassle-free experience as they navigate its diverse video editing tools. One of the standout features is, undoubtedly, its video filter capabilities.
@@ -232,8 +271,14 @@ One of the commendable aspects of Veed.io is its commitment to transparency. Use
 
 **Disadvantages:** The free version watermarks the videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### Clideo
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![filter online1](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors1.jpg)
 
 Clideo is a multifaceted online video editing solution that caters to a broad spectrum of editing needs.
@@ -254,6 +299,9 @@ Yes, the filter function can be tested without any charges.
 
 ### Flixier
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filter online3](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors3.png)
 
 Flixier emerges as a dynamic online video editing platform, aiming to bridge the gap between advanced editing tools and user accessibility.
@@ -272,8 +320,14 @@ The video filter function is available in the free tier.
 
 **Disadvantages:** Slightly steeper learning curve for beginners.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Flexclip
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![filter online5](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors5.webp)
 
 Flexclip positions itself as a holistic online video editor designed with both beginners and advanced users in mind.
@@ -328,6 +382,18 @@ When it comes to alternative video filter editors, Filmora undoubtedly stands ou
 1. **Pricing and Value** **:** While Filmora isn't free, the value it offers makes the investment worthwhile. The tool offers various pricing plans designed for both individuals and businesses. Given the quality and diversity of its video filters, many content creators view it as a justifiable expense.
 1. **Community and Tutorials** **:** Filmora boasts a vibrant community of users. Their official website and channels regularly release tutorials, guiding users on the various functionalities, ensuring you make the most out of the software.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Summary
 
 The digital space is flooded with content, making it crucial for creators to ensure their videos capture attention and engage viewers. Utilizing video filters can significantly boost the visual appeal of your content.
@@ -340,6 +406,9 @@ Part 1: Top 5 Free Online Video Filter Editors
 
 ### Veed.io
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![filter online4](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors4.png)
 
 Veed.io is more than just an online video editor. This platform is designed with the user in mind, ensuring a hassle-free experience as they navigate its diverse video editing tools. One of the standout features is, undoubtedly, its video filter capabilities.
@@ -378,6 +447,9 @@ Yes, the filter function can be tested without any charges.
 
 ### Flixier
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filter online3](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors3.png)
 
 Flixier emerges as a dynamic online video editing platform, aiming to bridge the gap between advanced editing tools and user accessibility.
@@ -418,6 +490,9 @@ Absolutely, users can enjoy filter functions for free.
 
 ### Kapwing
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filter online2](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors2.png)
 
 KAPWING has swiftly carved its niche in the world of online video editing, offering a unique blend of simplicity and versatility. Beyond just a video editor, KAPWING is a creative toolkit that empowers users to bring their video visions to life with ease.
@@ -434,6 +509,9 @@ The video filter function is accessible in the free version.
 
 **Disadvantages:** Some advanced filters are limited to premium users.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Best Alternatives
 
 When it comes to alternative video filter editors, Filmora undoubtedly stands out. Although it's not exclusively an online tool, Filmora has firmly established its reputation in the digital video editing community, and here's why:
@@ -502,6 +580,10 @@ Simply add sound effects on video with [Filmora Video Effect Editor](https://too
 
 [Apply VHS Sound Effect](https://tools.techidaily.com/wondershare/filmora/download/) [Apply VHS Sound Effect](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -512,6 +594,9 @@ Simply add sound effects on video with [Filmora Video Effect Editor](https://too
 
 A video is incomplete without good-quality audio and sound effects. So, if you want to create a VHS-style video, make sure to use **VHS audio filters** as well. Here are some classic VHS sounds you can use for your content.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### 1\. [Video Cass. Recorder 06](https://www.videvo.net/sound-effect/video-cass-recorder-06/449397/)
 
 This audio effect gives your video the nostalgic feel of an old video reel playing. Its VHS-inspired audio effects last for 30 seconds. You can use this effect to create a vintage atmosphere in your videos. This effect can also transport your viewers back to the era of classic video recordings.
@@ -520,6 +605,9 @@ This audio effect gives your video the nostalgic feel of an old video reel playi
 
 You can create a haunting and unsettling atmosphere with this sound effect. It adds a creepy **VHS sound distortion effect** to your content. This effect is perfect for horror or suspenseful scenes. Moreover, this audio filter has a duration of 30 seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [VCR Deck Insert VHS Ta PE416803](https://www.videvo.net/sound-effect/vcr-deck-insert-vhs-ta-pe416803/260694/)
 
 With this audio effect, you can simulate the experience of inserting a tape into a VCR. You can add this effect to your video to enhance the authenticity and realism of a scene. It will help you in a situation where a tape is being loaded into a VCR. The duration of this audio is 20 seconds.
@@ -544,6 +632,10 @@ You can use this effect in your VHS-styled videos. It produces the sound of a VH
 
 Take a trip back in time with the sound of a VHS tape being rewound. This audio file adds a **VHS rewind sound effect** to your video. The duration of this file is 1 minute and 9 seconds. It will provide the nostalgic sound of a quick rewinding of a VHS tape.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 9\. [Video Cass. Recorder 07](https://www.videvo.net/sound-effect/video-cass-recorder-07/449398/)
 
 Using this audio effect, you can create the sensation of a video reel playing in a video cassette recorder. This **VHS audio filter** lasts for 30 seconds. You can use this effect to emphasize the vintage vibe of your video further. It also adds an old-fashioned charm to your video content.
@@ -576,6 +668,11 @@ Open Wondershare Filmora and click on "New Project" to begin. This will bring up
 
 It's time to add the VHS effects to your video. Look for the "Effects" option in the top bar and click on it. Next, search for "VHS" to find a variety of VHS overlays. Choose the one that suits your style and drag it onto the timeline, placing it over your video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![add vhs effect to filmora](https://images.wondershare.com/filmora/article-images/2023/add-vhs-effect-to-filmora.jpg)
 
 ##### Step 3Apply VHS Sound Effects
@@ -588,6 +685,9 @@ For the **VHS audio filter**, go to the "Audio" tab, select "Sound Effect," and 
 
 Once satisfied with the result, click the "Export" tab at the top left of the screen to save your video with the applied VHS effects.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export final vhs video](https://images.wondershare.com/filmora/article-images/2023/export-final-vhs-video.jpg)
 
 ## Conclusion
@@ -600,16 +700,25 @@ In conclusion, a good video depends not only on your camera. There is so much po
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## Part 2: Best VHS Sound Effects To Use in 2024
 
 A video is incomplete without good-quality audio and sound effects. So, if you want to create a VHS-style video, make sure to use **VHS audio filters** as well. Here are some classic VHS sounds you can use for your content.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. [Video Cass. Recorder 06](https://www.videvo.net/sound-effect/video-cass-recorder-06/449397/)
 
 This audio effect gives your video the nostalgic feel of an old video reel playing. Its VHS-inspired audio effects last for 30 seconds. You can use this effect to create a vintage atmosphere in your videos. This effect can also transport your viewers back to the era of classic video recordings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. [Creepy Distortion](https://pixabay.com/sound-effects/creepy-distortion-29539/)
 
 You can create a haunting and unsettling atmosphere with this sound effect. It adds a creepy **VHS sound distortion effect** to your content. This effect is perfect for horror or suspenseful scenes. Moreover, this audio filter has a duration of 30 seconds.
@@ -634,6 +743,9 @@ Get the feeling of fast-forwarding through a VHS tape with this sound effect. It
 
 You can use this effect in your VHS-styled videos. It produces the sound of a VHS tape rewinding, followed by the **VHS pause sound effect**. This effect adds a distinct audio cue for rewinding and pausing scenes involving a VHS. The duration of this VHS effect is 4 seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 8\. [VCR: Rewind](https://bigsoundbank.com/sound-2693-vcr-rewind.html)
 
 Take a trip back in time with the sound of a VHS tape being rewound. This audio file adds a **VHS rewind sound effect** to your video. The duration of this file is 1 minute and 9 seconds. It will provide the nostalgic sound of a quick rewinding of a VHS tape.
@@ -642,10 +754,16 @@ Take a trip back in time with the sound of a VHS tape being rewound. This audio 
 
 Using this audio effect, you can create the sensation of a video reel playing in a video cassette recorder. This **VHS audio filter** lasts for 30 seconds. You can use this effect to emphasize the vintage vibe of your video further. It also adds an old-fashioned charm to your video content.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### 10\. [VHS Player Rewind](https://pixabay.com/sound-effects/vhs-player-rewind-20295/)
 
 This sound effect, provided by Pixabay, lasts 1 minute and 13 seconds. It starts with a glitchy and nostalgic VHS rewind sound to your video. The audio file brings back memories of vintage technology by adding the **VHS rewind effect**. You can recreate the experience of the 90s using this audio filter.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Bonus Part: Creating The Best VHS-Themed Videos With Wondershare Filmora
 
 [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is the ultimate tool and an incredible software for video editing. From audio effects to professional video edits, this tool can do a lot of stuff. This tool is now powered with AI technology which means more features are added in its latest version. You can edit your video and add sound effects that sync with your content feel.
@@ -664,6 +782,9 @@ To make such videos having VHS effects, first, you need to learn how to use Wond
 
 Open Wondershare Filmora and click on "New Project" to begin. This will bring up a new window where you can get started on your video. Import your video file by selecting the "Import Media" option and choosing the file from your system. Then, drag and drop the video into the timeline area to organize and prepare it for editing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![import video to filmora](https://images.wondershare.com/filmora/article-images/2023/import-video-to-filmora.jpg)
 
 ##### Step 2Apply VHS Effect to the Video
@@ -676,14 +797,23 @@ It's time to add the VHS effects to your video. Look for the "Effects" option in
 
 For the **VHS audio filter**, go to the "Audio" tab, select "Sound Effect," and search for "VHS." Proceed further by selecting a suitable sound effect and dragging it onto the timeline beneath your video.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![add vhs sound effect to video](https://images.wondershare.com/filmora/article-images/2023/add-vhs-sound-effect-to-video.jpg)
 
 ##### Step 4Export Your File
 
 Once satisfied with the result, click the "Export" tab at the top left of the screen to save your video with the applied VHS effects.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export final vhs video](https://images.wondershare.com/filmora/article-images/2023/export-final-vhs-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In conclusion, a good video depends not only on your camera. There is so much post-production work behind good-quality content. You have to create a feel and ambiance in a video using effects and other overlays. You can create an old-themed video using the right filter and adding a VHS audio effect. Wondershare Filmora provides you with a platform where you can create such content with ease.
@@ -708,3 +838,67 @@ In conclusion, a good video depends not only on your camera. There is so much po
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-behind-the-scenes-insights-deciphering-what-unlisted-means-for-youtube-users-for-2024/"><u>[New] Behind-the-Scenes Insights  Deciphering What 'Unlisted' Means for YouTube Users for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-high-fidelity-screen-capture-suite-review-march-2023-for-2024/"><u>[New] High-Fidelity Screen Capture Suite Review – March 2023 for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-integrate-free-audio-in-your-videos-effortlessly/"><u>[New] In 2024, Integrate FREE Audio in Your Videos Effortlessly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-leveraging-captivate-for-professional-demos/"><u>[New] Leveraging Captivate for Professional Demos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-leveraging-social-media-tactics-more-insta-vids-watched/"><u>[Updated] 2024 Approved  Leveraging Social Media Tactics  More Insta Vids Watched</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-windows-11-unveiled-the-new-era-begins/"><u>[Updated] 2024 Approved  Windows 11 Unveiled  The New Era Begins</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-guide-to-premium-free-online-screen-recorders/"><u>[Updated] In 2024, Guide to Premium Free Online Screen Recorders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-superior-5-cameras-for-extended-time-lapses/"><u>[Updated] Superior 5 Cameras for Extended Time-Lapses</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2-methods-to-crop-video-in-vlc-for-2024/"><u>2 Methods to Crop Video in VLC for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2-methods-to-cut-video-in-vlc-on-windows-for-2024/"><u>2 Methods to Cut Video in VLC on Windows for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2-solutions-to-crop-a-video-using-after-effects-for-2024/"><u>2 Solutions to Crop a Video Using After Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2-solutions-to-cut-video-in-vlc-on-windows-for-2024/"><u>2 Solutions to Cut Video in VLC on Windows for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2-ways-to-fade-in-text-in-premiere-pro-for-2024/"><u>2 Ways to Fade in Text in Premiere Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/20-best-text-to-speech-software-windows-mac-android-iphone-and-o-for-2024/"><u>20 Best Text To Speech Software Windows, Mac, Android, iPhone & O for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/20-best-video-background-templates-for-2024/"><u>20 Best Video Background Templates for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-world-of-digital-photo-manipulation/"><u>2024 Approved  Exploring the World of Digital Photo Manipulation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-osblend-the-vmix-alternative/"><u>2024 Approved  OSBlend  The VMix Alternative</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-step-by-step-process-for-personalizing-your-tiktok-soundtrack/"><u>2024 Approved  Step-by-Step Process for Personalizing Your TikTok Soundtrack</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-2-practical-ways-to-combine-videos-on-tiktok/"><u>2024 Approved 2 Practical Ways to Combine Videos on TikTok</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-2-solutions-to-cut-video-in-vlc-on-windows/"><u>2024 Approved 2 Solutions to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-2-ways-to-add-custom-subtitles-to-netflix/"><u>2024 Approved 2 Ways to Add Custom Subtitles to Netflix</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-2-ways-to-fade-in-text-in-premiere-pro/"><u>2024 Approved 2 Ways to Fade in Text in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-20-best-video-background-templates/"><u>2024 Approved 20 Best Video Background Templates</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/colorful-compositions-in-a-click-photoshops-guide-for-2024/"><u>Colorful Compositions in a Click  Photoshop's Guide for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/free-up-space-9-best-video-compression-software-for-windows-10/"><u>Free Up Space 9 Best Video Compression Software for Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-2-methods-to-crop-video-in-vlc/"><u>In 2024, 2 Methods to Crop Video in VLC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-2-methods-to-cut-video-in-vlc-on-windows/"><u>In 2024, 2 Methods to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-2-solutions-to-crop-a-video-using-after-effects/"><u>In 2024, 2 Solutions to Crop a Video Using After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-2-solutions-to-cut-video-in-vlc-on-windows/"><u>In 2024, 2 Solutions to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-2-ways-to-add-custom-subtitles-to-netflix/"><u>In 2024, 2 Ways to Add Custom Subtitles to Netflix</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-20-best-luts-for-music-videos/"><u>In 2024, 20 Best LUTs for Music Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-20-best-video-background-templates/"><u>In 2024, 20 Best Video Background Templates</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-audio-transformation-complete-morphvox-techniques/"><u>In 2024, Mastering Audio Transformation  Complete MorphVOX Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-premiere-pro-streamline-for-online-video-uploads/"><u>In 2024, Premiere Pro Streamline for Online Video Uploads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-list-of-12-superior-flipscreen-vlog-cameras/"><u>In 2024, The Ultimate List of 12 Superior Flipscreen Vlog Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mirthvid-quick-start-for-video-makers-for-2024/"><u>MirthVid  Quick Start for Video Makers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/moving-data-quick-techniques-to-send-files-to-your-computer/"><u>Moving Data  Quick Techniques to Send Files to Your Computer</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-magic-6-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor Magic 6 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2-methods-to-crop-video-in-vlc/"><u>New 2 Methods to Crop Video in VLC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2-methods-to-cut-video-in-vlc-on-windows/"><u>New 2 Methods to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2-practical-ways-to-combine-videos-on-tiktok/"><u>New 2 Practical Ways to Combine Videos on TikTok</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2-solutions-to-crop-a-video-using-after-effects/"><u>New 2 Solutions to Crop a Video Using After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2-solutions-to-cut-video-in-vlc-on-windows/"><u>New 2 Solutions to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2-ways-to-add-custom-subtitles-to-netflix/"><u>New 2 Ways to Add Custom Subtitles to Netflix</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-20-best-text-to-speech-software-windows-mac-android-iphone-and-o/"><u>New 20 Best Text To Speech Software Windows, Mac, Android, iPhone & O</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-20-best-video-background-templates/"><u>New 20 Best Video Background Templates</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-expert-techniques-for-crafting-complex-audio-edits-with-keyframes-in-premiere-pro-mac-edition/"><u>New 2024 Approved Expert Techniques for Crafting Complex Audio Edits with Keyframes in Premiere Pro, Mac Edition</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-free-flv-video-editing-for-2024/"><u>New The Ultimate Guide to Free FLV Video Editing for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/nocostcam-the-infinite-gaming-screen-record-tool/"><u>NoCostCam  The Infinite Gaming Screen Record Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-pcs-touch-interface-a-user-friendly-tutorial/"><u>Tailoring Your PC’s Touch Interface: A User-Friendly Tutorial</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-three-key-techniques-to-uniform-audio-amplitude/"><u>The Three Key Techniques to Uniform Audio Amplitude</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/unlocking-the-potential-a-basic-guide-to-using-lexis-sound-laboratory-for-2024/"><u>Unlocking the Potential A Basic Guide to Using Lexis Sound Laboratory for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2-methods-to-crop-video-in-vlc/"><u>Updated 2 Methods to Crop Video in VLC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2-solutions-to-crop-a-video-using-after-effects/"><u>Updated 2 Solutions to Crop a Video Using After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2-solutions-to-cut-video-in-vlc-on-windows/"><u>Updated 2 Solutions to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2-ways-to-add-custom-subtitles-to-netflix/"><u>Updated 2 Ways to Add Custom Subtitles to Netflix</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2-ways-to-fade-in-text-in-premiere-pro/"><u>Updated 2 Ways to Fade in Text in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-20-best-text-to-speech-software-windows-mac-android-iphone-and-o/"><u>Updated 20 Best Text To Speech Software Windows, Mac, Android, iPhone & O</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-online-video-trimming-made-easy-a-kapwing-tutorial/"><u>Updated Online Video Trimming Made Easy A Kapwing Tutorial</u></a></li>
+</ul></div>

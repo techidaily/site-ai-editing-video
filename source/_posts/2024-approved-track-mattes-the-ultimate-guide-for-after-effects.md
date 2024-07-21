@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Track Mattes The Ultimate Guide For After Effects
-date: 2024-04-24T07:08:15.854Z
-updated: 2024-04-25T07:08:15.854Z
+date: 2024-07-20T11:45:23.888Z
+updated: 2024-07-21T11:45:23.888Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved Track Mattes The Ultimate Guide For After Effects
 excerpt: This Article Describes 2024 Approved Track Mattes The Ultimate Guide For After Effects
 keywords: track matte after effects,guiding principles of track matte and tracking in adobe after effects,how to use track matte and tracking in adobe after effects,3d ray traced settings in after effects a comprehensive guide,ai animation track mattes the ultimate guide for after effects,track mattes the ultimate guide for after effects,ai animation guiding principles of track matte and tracking in adobe after effects
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## Track Mattes: The Ultimate Guide For After Effects
@@ -50,6 +50,9 @@ Here're some key differences between a Mask and a Track Matte:
 
 Track Matte is located by default in the Timeline Window of the After Effects interface, but if it is unavailable there for some reason, toggle the **Transfer Control Pane** button on the bottom-left of the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track matte in the timeline window of the after effects](https://images.wondershare.com/filmora/article-images/2022/07/track-matter-in-the-timeline-window-of-the-after-effects.png)
 
 If you are still unable to find the Track Matte option, press the **F1 key** or do the following steps in sequence:
@@ -71,6 +74,9 @@ After Effects provides four types of Track Matte options: Alpha Matte, Alpha Inv
 
 **Luma:** This Track Matte type uses the top layer's brightness to mask the bottom layer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![the four track matte options in after effects](https://images.wondershare.com/filmora/article-images/2022/07/the-four-track-matte-options-in-after-effects.png)
 
 Let's find out the functions of each option one by one:
@@ -79,6 +85,9 @@ Let's find out the functions of each option one by one:
 
 Alpha Matte is an important option under the Track Matte menu, as it allows you to create a mask based on the transparency of the layer you are using it on. Like the mask, it will use any pixel above 0% opacity and can be useful for various purposes, such as creating a vignette or isolating a certain area of the frame.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Alpha Inverted Matte
 
 The Alpha Inverted Matte option is quite the opposite of the Alpha Matte, and around the Alpha channel, it uses negative space from the above layer and will therefore use pixels with 0% opacity as it had 100% opacity.
@@ -87,6 +96,9 @@ The Alpha Inverted Matte option is quite the opposite of the Alpha Matte, and ar
 
 Instead of using the Alpha channel, Luma Mattes uses the brightness level or Luma channel of the upper layer to create a mask for the bottom layer.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Luma Inverted Matte
 
 Opposite of the Luma Matte, the Luma Inverted Matte uses dark or low luminance areas of the upper layer to create a mask for the lower layer.
@@ -97,6 +109,9 @@ When altering the opacity of a layer, it may look like the brightness settings a
 
 Alpha channel is a type of Track Matte that stores transparency information. This information determines how opaque or transparent a layer will be when superimposed over another layer.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![alpha channel in track matte](https://images.wondershare.com/filmora/article-images/2022/07/alpha-channel-in-track-matte.png)
 
 On the other hand, a Luma channel is a video track that stores brightness information. This information is used to determine how bright or dark an image will be and is further divided into three channels, i.e., Red, Green, and Blue (RGB). Their value ranges from 0 to 255, where 0 represents the darkest value while 255 represents the brightest value.
@@ -134,10 +149,17 @@ Here're some key differences between a Mask and a Track Matte:
 1. A mask is dependent on a specific layer, while the Track Matter is independent of any layer.
 2. A mask is applied directly to a layer having an image or a video and transforms with the layers. On the other hand, Track Matte is a stationary mask applied to the composition rather than a layer.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Finding The Track Matte Tool In After Effects
 
 Track Matte is located by default in the Timeline Window of the After Effects interface, but if it is unavailable there for some reason, toggle the **Transfer Control Pane** button on the bottom-left of the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![track matte in the timeline window of the after effects](https://images.wondershare.com/filmora/article-images/2022/07/track-matter-in-the-timeline-window-of-the-after-effects.png)
 
 If you are still unable to find the Track Matte option, press the **F1 key** or do the following steps in sequence:
@@ -159,6 +181,9 @@ After Effects provides four types of Track Matte options: Alpha Matte, Alpha Inv
 
 **Luma:** This Track Matte type uses the top layer's brightness to mask the bottom layer.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the four track matte options in after effects](https://images.wondershare.com/filmora/article-images/2022/07/the-four-track-matte-options-in-after-effects.png)
 
 Let's find out the functions of each option one by one:
@@ -175,6 +200,9 @@ The Alpha Inverted Matte option is quite the opposite of the Alpha Matte, and ar
 
 Instead of using the Alpha channel, Luma Mattes uses the brightness level or Luma channel of the upper layer to create a mask for the bottom layer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Luma Inverted Matte
 
 Opposite of the Luma Matte, the Luma Inverted Matte uses dark or low luminance areas of the upper layer to create a mask for the lower layer.
@@ -217,6 +245,9 @@ Hopefully, this guide resolves your queries, and you now have a better understan
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Discover the Top 5 Free Online Video Filter Editors to Transform Your Videos with Captivating Color Grading and Correction Presets. Elevate Your Digital Storytelling Effortlessly
 
 In the era of digital storytelling, everyone desires to make their content stand out. Applying video filters is a surefire way to enhance your videos' mood, style, and overall appeal.
@@ -292,8 +323,14 @@ The video filter function is available in the free tier.
 
 **Disadvantages:** Slightly steeper learning curve for beginners.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Flexclip
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filter online5](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors5.webp)
 
 Flexclip positions itself as a holistic online video editor designed with both beginners and advanced users in mind.
@@ -330,12 +367,23 @@ The video filter function is accessible in the free version.
 
 **Disadvantages:** Some advanced filters are limited to premium users.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part 2: Best Alternatives
 
 When it comes to alternative video filter editors, Filmora undoubtedly stands out. Although it's not exclusively an online tool, Filmora has firmly established its reputation in the digital video editing community, and here's why:
 
 1. **Extensive Library of Video Filters** **:** One of Filmora's shining points is its rich, extensive library of video filters. From adding a touch of nostalgia with sepia tones to creating blockbuster cinematic vibes with dramatic contrasts, Filmora ensures every creative vision can be realized.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Video Filter Editor
 
 [Create AI Filter](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -348,6 +396,9 @@ When it comes to alternative video filter editors, Filmora undoubtedly stands ou
 1. **Pricing and Value** **:** While Filmora isn't free, the value it offers makes the investment worthwhile. The tool offers various pricing plans designed for both individuals and businesses. Given the quality and diversity of its video filters, many content creators view it as a justifiable expense.
 1. **Community and Tutorials** **:** Filmora boasts a vibrant community of users. Their official website and channels regularly release tutorials, guiding users on the various functionalities, ensuring you make the most out of the software.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Summary
 
 The digital space is flooded with content, making it crucial for creators to ensure their videos capture attention and engage viewers. Utilizing video filters can significantly boost the visual appeal of your content.
@@ -360,6 +411,9 @@ Part 1: Top 5 Free Online Video Filter Editors
 
 ### Veed.io
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filter online4](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors4.png)
 
 Veed.io is more than just an online video editor. This platform is designed with the user in mind, ensuring a hassle-free experience as they navigate its diverse video editing tools. One of the standout features is, undoubtedly, its video filter capabilities.
@@ -376,8 +430,14 @@ One of the commendable aspects of Veed.io is its commitment to transparency. Use
 
 **Disadvantages:** The free version watermarks the videos.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Clideo
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filter online1](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors1.jpg)
 
 Clideo is a multifaceted online video editing solution that caters to a broad spectrum of editing needs.
@@ -398,6 +458,9 @@ Yes, the filter function can be tested without any charges.
 
 ### Flixier
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filter online3](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors3.png)
 
 Flixier emerges as a dynamic online video editing platform, aiming to bridge the gap between advanced editing tools and user accessibility.
@@ -416,6 +479,9 @@ The video filter function is available in the free tier.
 
 **Disadvantages:** Slightly steeper learning curve for beginners.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Flexclip
 
 ![filter online5](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors5.webp)
@@ -438,6 +504,9 @@ Absolutely, users can enjoy filter functions for free.
 
 ### Kapwing
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![filter online2](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors2.png)
 
 KAPWING has swiftly carved its niche in the world of online video editing, offering a unique blend of simplicity and versatility. Beyond just a video editor, KAPWING is a creative toolkit that empowers users to bring their video visions to life with ease.
@@ -504,12 +573,19 @@ PowerPoint's Zoom feature is a clever tool for creating and watching presentatio
 
 Additionally, you may access the Zoom dialog box and choose a different zoom level by clicking the Zoom button on the View tab of the ribbon. choose the Ribbon's "View" tab. the "Zoom" button from the "Zoom" button group, and then.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/select-view-zoom-in-powerpoint.jpg)
 
 ##### Step2Click the Zoom Button
 
 Zoom in by going to the View tab attributes. Select Zoom in from the View menu after clicking. There will be a Zoom window where you may choose or input the zoom level. More options for adjusting the zoom level are available under the Zoom group on the View tab of the ribbon.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/click-zoom-button-powerpoint.jpg)
 
 ##### Step3Click Fit to Window
@@ -526,6 +602,9 @@ In PowerPoint, the Status Bar's lower-right application window has the Zoom slid
 
 The horizontal scroll bar will then display underneath the slide if you zoom in on the slide until it can no longer fit horizontally on the screen. The slide may then be thoroughly examined at the selected magnification level by using it to scroll left and right.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/adjust-zoom-status-bar.jpg)
 
 ##### Step2Click the Zoom Out (-) button on the status bar
@@ -536,8 +615,14 @@ Changing the magnification level is simple using PowerPoint's Zoom slider. Click
 
 Click the "Fit slide to current window" button to the right of the Zoom slider to force the slide to fit inside the view's available slide area.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/fit-slide-to-current-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. The Ctrl + Mouse Spin Wheel Shortcut
 
 Ctrl + scroll wheel is a typical shortcut for zooming in Windows. Open the worksheet or presentation you wish to save with the desired zoom level, then complete the procedures listed below:
@@ -546,6 +631,9 @@ Step1Launch PowerPoint on your Windows computer and go to the slide of the prese
 
 Step2To zoom in on a slide in PowerPoint, just hold the CTRL key on your keyboard while spinning your mouse wheel in an upwards direction.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/mouse-spin-wheel-shortcut.jpg)
 
 Step3In a similar manner, to zoom out on your presentation, hold down the CTRL key on your computer while dragging the mouse wheel downward as seen below.
@@ -562,6 +650,9 @@ How often have you wished you could zoom in to more fully illustrate a point on 
 
 You are giving a presentation at a meeting and have a number of possibilities. Zoom in PowerPoint Presentation enables you to create an introduction slide that includes thumbnails for the slides you wish to skip to in any order to discuss those choices throughout your meeting. It builds a navigable interactive dashboard for your presentation. When you leave the opening slide and go through all the slides in a part, you are immediately returned to the beginning. So where does PowerPoint's magic reside? PowerPoint The most recent addition to the lengthy and ever-expanding list of new functions is Zoom. Zoom is incredible since it effectively turns a slide or many slides from your project into a changeable hotspot. A hotspot is a clickable item that connects to a certain area, in case you forgot. You will thus be directed to that slide if you choose it as a hotspot when you click on the item.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Part 1: 3 Techniques to Zoom PowerPoint Presentations
 
 Microsoft is always developing new tools to help you create and construct amazing presentations. The PowerPoint Zoom function is one of them. It is not the straightforward zoom capability that has been a part of PowerPoint for a long time. Zoom in PowerPoint is a useful feature that enables you to go right to the information you want and promotes an interactive presentation that is seamless. You just need to be aware of three distinct sorts of Zooms to do it quickly and easily. They are described below:
@@ -574,6 +665,9 @@ PowerPoint's Zoom feature is a clever tool for creating and watching presentatio
 
 Additionally, you may access the Zoom dialog box and choose a different zoom level by clicking the Zoom button on the View tab of the ribbon. choose the Ribbon's "View" tab. the "Zoom" button from the "Zoom" button group, and then.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/select-view-zoom-in-powerpoint.jpg)
 
 ##### Step2Click the Zoom Button
@@ -586,6 +680,9 @@ Zoom in by going to the View tab attributes. Select Zoom in from the View menu a
 
 Additionally, if you choose Fit, Presentation will resize the window to a proper size.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/zoom-to-fit-powerpoint.jpg)
 
 ### 2\. Use the Zoom Slider at The Bottom of the Screen
@@ -608,6 +705,9 @@ Click the "Fit slide to current window" button to the right of the Zoom slider t
 
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/fit-slide-to-current-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. The Ctrl + Mouse Spin Wheel Shortcut
 
 Ctrl + scroll wheel is a typical shortcut for zooming in Windows. Open the worksheet or presentation you wish to save with the desired zoom level, then complete the procedures listed below:
@@ -616,10 +716,16 @@ Step1Launch PowerPoint on your Windows computer and go to the slide of the prese
 
 Step2To zoom in on a slide in PowerPoint, just hold the CTRL key on your keyboard while spinning your mouse wheel in an upwards direction.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/mouse-spin-wheel-shortcut.jpg)
 
 Step3In a similar manner, to zoom out on your presentation, hold down the CTRL key on your computer while dragging the mouse wheel downward as seen below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/drag-mouse-wheel-downward.jpg)
 
 After that, you will be able to get the desired value to Zoom in or out on your PowerPoint presentation.
@@ -634,24 +740,44 @@ Are you prepared to use the new PowerPoint zoom feature in Microsoft Office to b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Beginners Guide to Green Screen Keying
 
 Did they have dinner on Mars? Photographers are becoming more daring with their creations thanks to the advancement in editing software. For example, after effects green screen keying allows you to alter your image's background during post-production.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![green screen key](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-1.jpg)
 
 The following is all you need to know about the green screen key effect and how to apply it using different video editing software. In addition, you will discover why the effect is popular with video editors. Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: What is keying in green screen?
 
 Keying refers to a post-production process of separating and isolating an image's aspects using color or brightness. Typically, filmmakers use it to remove green screens and make color corrections to add warmth to the subjects' skin tones.
 
 It involves identifying a color or brightness value that you will make transparent in the photo. In addition, you can use two types of keys during the keying process.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Chroma Keys
 
 These allow you to select a specific color in your image and make everything that features the color transparent. Typically, chrome keys are best for images and videos featuring lots of green or blue backgrounds.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Luma Keys
 
 Alternatively, you can use luma keys to determine which backgrounds will be transparent according to the brightness level. In addition, you can use them to designate the backgrounds you want opaque in your final image.
@@ -672,6 +798,9 @@ Adobe After Effects green screen keying tool is arguably one of the top favorite
 
 Follow these steps to do green screen keying using Adobe After Effects.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 1\. Upload your footage to Adobe After Effects
 
 ![upload footage to adobe](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-2.jpg)
@@ -680,10 +809,16 @@ Launch the program from your macOS or Windows device, and click on the **New Com
 
 ### 2\. Using the green screen key presets
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using the green screen key presets](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-3.jpg)
 
 Once the footage is imported, click on the **Window** menu option on your workspace, and click on **Effects & Presets** from the sub-menu. Once the panel opens, tap **Animation Presets** and highlight the **Keylight + Key Cleaner + Advanced Spill Suppressor** preset from the **Image-Utilities** menu.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Drag and drop the preset to your footage
 
 Then drag and drop the effect to your uploaded footage to begin the keying process. The green screen key preset applies three effects to your image:
@@ -700,6 +835,9 @@ The key cleaner effect sharpens your subject's edges for a more detailed finish.
 
 Sometimes your green screen background can spill to your subject's edges resulting in a messy outline. For example, you may find a green outline on your subject's hair or clothing. The **Advanced Spill Suppressor** eliminates these outlines automatically. You can enable the effect by clicking the check box next to the effect from the **Animation Presets** panel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### 4\. Apply a new background
 
 Once you apply the green screen key effect, you can add any custom background to your footage. You need to **Import** the file to your After Effects library and then drag & drop it into your footage's timeline.
@@ -786,3 +924,57 @@ Yes. It is possible to create a green screen video without a green background. S
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-end-your-active-discord-association/"><u>[New] In 2024, End Your Active Discord Association</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-what-makes-a-youtube-short-go-viral/"><u>[New] What Makes a YouTube Short Go Viral?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-initial-filming-document-evaluation-guide/"><u>[Updated] In 2024, Initial Filming Document Evaluation Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-intro-excellence-app-your-device-friendly-solution/"><u>[Updated] Intro Excellence App  Your Device-Friendly Solution</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-repeated-text-animation-tutorial/"><u>2024 Approved Repeated Text Animation Tutorial</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-repeated-text-animation-tutorial-in-filmora/"><u>2024 Approved Repeated Text Animation Tutorial in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-replace-sky-background-in-video-figuring-out-the-best-options/"><u>2024 Approved Replace Sky Background in Video Figuring Out the Best Options</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-review-whats-top-10-software-to-make-ai-upscaling-video/"><u>2024 Approved REVIEW Whats Top 10 Software to Make AI Upscaling Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-right-tools-for-converting-60fps-frame-rate-in-videos/"><u>2024 Approved Right Tools for Converting 60FPS Frame Rate in Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-sbv-to-srt-how-to-convert-youtube-sbv-subtitle-to-srt-format/"><u>2024 Approved SBV to SRT How to Convert YouTube SBV Subtitle to SRT Format</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cing-video-appeal-20-premium-thumbnail-fonts/"><u>Enhancing Video Appeal  20 Premium Thumbnail Fonts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/excellent-screen-grabber-aid-for-youtube-content-creators-for-2024/"><u>Excellent Screen Grabber Aid for YouTube Content Creators for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-tecno-camon-20-pro-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Tecno Camon 20 Pro 5G?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-a38-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo A38 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-maximizing-your-reach-live-360-videos-on-facebook/"><u>In 2024, Maximizing Your Reach  Live 360 Videos on Facebook</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-k11x-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo K11x Phone? Unlock It Now</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-repeated-text-animation-tutorial-in-filmora/"><u>In 2024, Repeated Text Animation Tutorial in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-replace-sky-background-in-video-figuring-out-the-best-options/"><u>In 2024, Replace Sky Background in Video Figuring Out the Best Options</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-review-whats-top-10-software-to-make-ai-upscaling-video/"><u>In 2024, REVIEW Whats Top 10 Software to Make AI Upscaling Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-revisionfx-reelsmart-motion-blur-plugin-for-premiere-pro/"><u>In 2024, ReVisionFX ReelSmart Motion Blur Plugin For Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-right-tools-for-converting-60fps-frame-rate-in-videos/"><u>In 2024, Right Tools for Converting 60FPS Frame Rate in Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-rotate-video-in-imovie/"><u>In 2024, Rotate Video in iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-scaling-and-setting-videos-in-filmora-tutorial/"><u>In 2024, Scaling and Setting Videos in Filmora | Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-s17-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo S17 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-demystifying-ai-game-generators/"><u>New Demystifying AI Game Generators</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-premier-3-online-audio-amplification-apps-for-maximum-volume-control/"><u>New Premier 3 Online Audio Amplification Apps for Maximum Volume Control</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-repeated-text-animation-tutorial-in-filmora/"><u>New Repeated Text Animation Tutorial in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-replace-sky-background-in-video-figuring-out-the-best-options/"><u>New Replace Sky Background in Video Figuring Out the Best Options</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-review-whats-top-10-software-to-make-ai-upscaling-video/"><u>New REVIEW Whats Top 10 Software to Make AI Upscaling Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-revisionfx-reelsmart-motion-blur-plugin-for-premiere-pro/"><u>New ReVisionFX ReelSmart Motion Blur Plugin For Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-right-tools-for-converting-60fps-frame-rate-in-videos/"><u>New Right Tools for Converting 60FPS Frame Rate in Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-rotate-video-in-imovie/"><u>New Rotate Video in iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-sbv-to-srt-how-to-convert-youtube-sbv-subtitle-to-srt-format/"><u>New SBV to SRT How to Convert YouTube SBV Subtitle to SRT Format</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-unveiling-the-artistic-audio-editor-a-comprehensive-review-with-pros-cons-and-alternatives-for-2024/"><u>New Unveiling the Artistic Audio Editor A Comprehensive Review with Pros, Cons, and Alternatives for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/review-whats-top-10-software-to-make-ai-upscaling-video-for-2024/"><u>REVIEW Whats Top 10 Software to Make AI Upscaling Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/revisionfx-reelsmart-motion-blur-plugin-for-premiere-pro-for-2024/"><u>ReVisionFX ReelSmart Motion Blur Plugin For Premiere Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/right-tools-for-converting-60fps-frame-rate-in-videos-for-2024/"><u>Right Tools for Converting 60FPS Frame Rate in Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/rotate-video-in-imovie-for-2024/"><u>Rotate Video in iMovie for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/sbv-to-srt-how-to-convert-youtube-sbv-subtitle-to-srt-format-for-2024/"><u>SBV to SRT How to Convert YouTube SBV Subtitle to SRT Format for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/scaling-and-setting-videos-in-filmora-tutorial-for-2024/"><u>Scaling and Setting Videos in Filmora | Tutorial for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sj7-takes-action-filming-to-the-next-level-review-of-its-star-4k-cam-for-2024/"><u>SJ7 Takes Action Filming to the Next Level  Review of Its Star 4K Cam for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-y200e-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo Y200e 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-repeated-text-animation-tutorial-in-filmora/"><u>Updated Repeated Text Animation Tutorial in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-replace-sky-background-in-video-figuring-out-the-best-options/"><u>Updated Replace Sky Background in Video Figuring Out the Best Options</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-revisionfx-reelsmart-motion-blur-plugin-for-premiere-pro/"><u>Updated ReVisionFX ReelSmart Motion Blur Plugin For Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-rotate-video-in-imovie/"><u>Updated Rotate Video in iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-sbv-to-srt-how-to-convert-youtube-sbv-subtitle-to-srt-format/"><u>Updated SBV to SRT How to Convert YouTube SBV Subtitle to SRT Format</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like-for-2024/"><u>Updated Top 6 Celebrity Text to Speech AI Voice Generators You May Like for 2024</u></a></li>
+</ul></div>

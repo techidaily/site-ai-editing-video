@@ -1,7 +1,7 @@
 ---
 title: Updated How To Use Speed Ramping to Create an Intense Action Footage for 2024
-date: 2024-04-24T07:08:37.553Z
-updated: 2024-04-25T07:08:37.553Z
+date: 2024-07-20T11:48:52.540Z
+updated: 2024-07-21T11:48:52.540Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How To Use Speed Ramping to Create an Intense Action Footage for 2024
 excerpt: This Article Describes Updated How To Use Speed Ramping to Create an Intense Action Footage for 2024
 keywords: ai animation how to use speed ramping to create a footage,ai animation how to create datamoshing effect to your footage in after effects,how to use speed ramping to create an intense action footage,use speed ramping to create footage,how to use speed ramping to create a footage,ai animation ai animation how to use speed ramping to create an intense action footage,ai animation how to use speed ramping to create an intense action footage
-thumbnail: https://www.lifewire.com/thmb/z0FcObDyImu70neTKRlkwzqQTeM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-17-best-graphic-design-software-2024-1dd6c15b34124b25b65e4b096e4e6ba4.jpg
+thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a044e30e2240a2331d8bec84.jpg
 ---
 
 ## How To Use Speed Ramping to Create an Intense Action Footage
@@ -32,6 +32,9 @@ You've probably seen speed ramping used in suspenseful moments of a basketball v
 
 With speed ramping, we can slow down our most exciting moments to show our audience. And then speed it up again to keep pace with the music or action. So it will give you a smooth transition effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Part 2\. How to enhance action videos with the speed ramping effect?
 
 For example, we'll create an intense basketball video with speed ramping and glitch effects in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Then, to show you how to show off your filming, editing, and basketball skills.
@@ -44,6 +47,9 @@ For example, we'll create an intense basketball video with speed ramping and gli
 
 To edit a montage, you must first capture it correctly. For our example footage, we want to ensure we have set our camera to a higher frame rate for filming this type of video since we're going to use slow motion.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![shot footage from a higher angels](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-2.jpg)
 
 **How to capture the best footage?**
@@ -79,6 +85,9 @@ To apply the speed ramping feature, **right-click** on the clip on the timeline.
 
 You can choose different speed templates in the setting window. Or, on the left corner, click on the customize option to adjust the keyframes and create the speed you want for the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![speed templates on wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-5.jpg)
 
 The lower keyframe is when the video is slowest, and the peak is when the video is fastest. The middle parts between the keyframes are when it speeds up or slows down to reach the specific speed you set on each keyframe.
@@ -95,10 +104,17 @@ Since speed ramping can only be used for paid users, we also provide you with an
 
 1\. You can **drag** the video from your library to the timeline. While in the **timeline**, double-click to open the speed menu. Then choose the starting speed you want your video to be with the speed slider.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![uniform speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-7.jpg)
 
 2\. Next, move your playhead to the **point of the video** you want to slow down the speed. Here we will cut and then double-click that clip to open the speed menu again. Change the pace with the speed slider again
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![split adjusting the clips](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-8.gif)
 
 Following the above steps, a speed ramping style effect can be created without using the premium feature. Stealthy, isn't it?
@@ -164,6 +180,9 @@ You can choose different speed templates in the setting window. Or, on the left 
 
 The lower keyframe is when the video is slowest, and the peak is when the video is fastest. The middle parts between the keyframes are when it speeds up or slows down to reach the specific speed you set on each keyframe.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjusting key-frames wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-6.gif)
 
 Grab the keyframes and move them up to increase the speed or down to slow down the rate. You can also add more keyframes by moving the playhead to the spot where you want to change speed and clicking the plus button.
@@ -176,6 +195,9 @@ Since speed ramping can only be used for paid users, we also provide you with an
 
 1\. You can **drag** the video from your library to the timeline. While in the **timeline**, double-click to open the speed menu. Then choose the starting speed you want your video to be with the speed slider.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![uniform speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-7.jpg)
 
 2\. Next, move your playhead to the **point of the video** you want to slow down the speed. Here we will cut and then double-click that clip to open the speed menu again. Change the pace with the speed slider again
@@ -194,6 +216,9 @@ We will use Boris FX BCC glitch to add some intensity to our video. It is a plug
 * A drop-down menu at the top of the screen has tons of glitch presets to try out.
 * We are going to scroll down and select shake with motion blur. This preset will use the exact look we want for our basketball video to make the speed ramping more intense.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![present a drop-down menu and reduce the effect](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-9.gif)
 
 * You can change the settings around after choosing a preset. For example, let's turn up the glitch intensity to have our glitch a little more extreme. Moving further, we can change the glitch duration to our specific needs.
@@ -232,6 +257,9 @@ Step 2: Set up your webcam perfectly so that its angle is direct to your face.
 
 Step 3: Open Snap Camera app and you will see yourself on the app through your webcam. Select the appropriate Lens(filter) and you have to select Green Screen Snap Filter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![free virtual green screen](https://images.wondershare.com/filmora/article-images/free-virtual-green-screen.jpg)
 
 Step 4: You should see a green virtual background by now. Now, you have to launch OBS Studio (webcam recording software).
@@ -242,10 +270,16 @@ Step 5: Go to Sources and click on “+” icon and select Video Capture Device 
 
 Step 6: While configuration the new device, select Snap Camera as Device. This will enable green screen virtual backgrounds and you can start recording. After recording is done, save the file on your hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![save the file](https://images.wondershare.com/filmora/article-images/save-the-file.jpg)
 
 Now that you have recorded the video with green virtual background without green screen, it is time to edit the virtual greenscreen out with the video editor.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Best Way To Apply Green Screen Effect To Your Recorded Video
 
 The best video editor to add green effect to your recorded video with virtual green screen is Wondershare Filmora. There are loads of video editors available with green screen feature but Filmora has the simplest steps to add green screen effects. That is why you do not have to be an expert video editor to add green screen effects to your video.
@@ -320,6 +354,9 @@ Step 3: Get the stunning photo or video effect with which you want to replace th
 
 Please note that your recorded green screen video is above the replacement video on the Timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![replacement](https://images.wondershare.com/filmora/article-images/replacement.jpg)
 
 Step 4: Double-click on the recorded video and you will see a panel on the upper-left side. From that panel, turn on Chroma Key option. We have already stated that green screen effect is technically referred to as Chroma Key.
@@ -330,6 +367,9 @@ Now you will the superimposed version of the replacement video effect on the gre
 
 Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 You can now have virtual background without green screen purchase on your video. All you need is a proper application to replace your physical background with a virtual green screen and record the entire video. We have recommended free Snap Camera app and OBS Studio for this job. Then you need to edit the green screen virtual backgrounds with a video editor for which we have recommended Wondershare Filmora.
@@ -356,6 +396,9 @@ Now you will the superimposed version of the replacement video effect on the gre
 
 Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 You can now have virtual background without green screen purchase on your video. All you need is a proper application to replace your physical background with a virtual green screen and record the entire video. We have recommended free Snap Camera app and OBS Studio for this job. Then you need to edit the green screen virtual backgrounds with a video editor for which we have recommended Wondershare Filmora.
@@ -366,6 +409,9 @@ You can now have virtual background without green screen purchase on your video.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Art of Time Manipulation: A Guide to After Effects Slow Motion Mastery
 
 The discovery of manipulating various aspects of video is advancing in every era. One such advancement is manipulating time duration to create slow-mo. Slowing down a video has advantages in many industries and multiple contexts. For instance, it focuses the audience's attention on a video shot or during a sports match. They also help in comprehending scientific processes during research.
@@ -390,12 +436,18 @@ The software has undergone multiple updates since its creation. With each versio
 * **Masking:** Many video editors offer masking options, but a few offer precision. Precision is very important during masking, and After Effects is a master of that. Along with different masking options, it offers custom settings to bring accuracy.
 * **Timeline Editing:** To see how professional software is, see if it has a timeline panel. Timeline editing is one of the functions that bring accuracy and professionalism. You can cut, align, apply effects, transitions, and much more on it.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: A Guide to Slow Down Video in Adobe After Effects During Editing
 
 Upon learning about After Effects and its functionalities, let’s move forward. This section highlights the step-by-step procedure of creating a video slow mo. This is a quick and simple method to slow down a video using After Effects. Keep reading the below section for a seamless **slow-down clip After Effects**:
 
 **Step 1:** After importing a video, navigate towards the timeline video layer and right-click on it. From the dropdown menu, select "Time" and then select the "Time Stretch" option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![access time stretch feature](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-1.jpg)
 
 **Step 2:** In the Time Stretch window, increase the default value of "Stretch Factor." Then click "OK," and this will slow down your clip.
@@ -406,6 +458,9 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 
 ![look for pixel motion](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Part 3: Alternative: Slowing Down Video in Wondershare Filmora with Clarity
 
 Even though **slow-down footage After Effects** retains video quality, there are certain drawbacks. It is a professional video editing platform used by filmmakers. This means the software must have some technicalities and costs a fortune. Hence, we provide you with a simpler yet professional alternative called [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is a video editing software that offers multiple editing functions and effects.
@@ -431,6 +486,9 @@ Users can employ the manual speed adjustment option along with the automated slo
 
 Once you have downloaded Filmora, start it and click the “New Project” tab. After accessing the editing interface, click the “Import” button to download media. From the Project Media panel, drag and drop media to the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add videos to timeline](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-8.jpg)
 
 ##### Step 2Access Uniform Speed Option
@@ -443,6 +501,9 @@ Once the media is in the timeline, select it and right-click on it. From the opt
 
 A settings panel will appear on the right side of the screen; navigate towards it. Under the "Uniform Speed" tab, adjust the "Speed" slider to slow down your video. If its value decreases, your video will become slow motion. Further, hit the play button to preview and export your slow-mo video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![adjust speed and execute](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-10.jpg)
 
 #### Method 2\. Step-by-Step Guide to Slow a Video Using Optical Flow Option
@@ -459,12 +520,18 @@ After importing media and bringing it to the timeline panel, select it. Then, na
 
 Continue to select a specific preset for speed ramping. As you select one, locate and expand the “AI Frame Interpolation” section. From the appearing option, select the “Optical Flow” option.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set preset and change frame interpolation](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-12.jpg)
 
 ##### Step 3Render Preview for Results
 
 Once you have enabled this option, navigate towards the timeline toolbar. Search and select the "Render Preview" option from the given icons. Play the video to see the results, adjust, and click the "Export" button to download.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
 
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
@@ -495,8 +562,14 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: A Complete Overview of Adobe After Effects
 
 Before learning **how to slow mo in After Effects**, we want to introduce you to the software. [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) is a professional software designed to assist in post-production. Those unrealistic scenes you see in a sci-fi movie are its creation. Users can work with multiple effects categories to create animated scenes and titles.
@@ -519,6 +592,9 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 
 **Step 2:** In the Time Stretch window, increase the default value of "Stretch Factor." Then click "OK," and this will slow down your clip.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![change stretch factor](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-2.jpg)
 
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
@@ -562,6 +638,9 @@ Once the media is in the timeline, select it and right-click on it. From the opt
 
 A settings panel will appear on the right side of the screen; navigate towards it. Under the "Uniform Speed" tab, adjust the "Speed" slider to slow down your video. If its value decreases, your video will become slow motion. Further, hit the play button to preview and export your slow-mo video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![adjust speed and execute](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-10.jpg)
 
 #### Method 2\. Step-by-Step Guide to Slow a Video Using Optical Flow Option
@@ -572,6 +651,9 @@ If you prefer the automated creation of slow-mo, then Filmora offers an AI Frame
 
 After importing media and bringing it to the timeline panel, select it. Then, navigate towards the top toolbar and select the “Tools” tab. From the expansion menu, click on the “Speed Ramping” option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![look for speed ramping section](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-11.jpg)
 
 ##### Step 2Access the AI Frame Interpolation
@@ -584,6 +666,9 @@ Continue to select a specific preset for speed ramping. As you select one, locat
 
 Once you have enabled this option, navigate towards the timeline toolbar. Search and select the "Render Preview" option from the given icons. Play the video to see the results, adjust, and click the "Export" button to download.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
 
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
@@ -606,6 +691,9 @@ Filmora offers multiple mask options to infuse effects and filters to specific p
 
 Thumbnails increase video views by evoking the audience's interest in seeing a video. In Filmora, you can employ the AI Thumbnail creator to auto-create thumbnails. It analyzes the best frame out of your video and chooses it as a thumbnail. You can further apply many templates to this thumbnail according to context.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article has expanded your knowledge and expertise about two powerful video editors. With **how to slow down video in After Effects**, we introduced you to the software. There is no limitation of features in either software as both bring out the best in videos.
@@ -630,3 +718,40 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-tips-to-counteract-obs-fullscreen-woes/"><u>[New] In 2024, Tips to Counteract OBS Fullscreen Woes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-capturing-victories-effective-strategies-with-w11-for-2024/"><u>[Updated] Capturing Victories  Effective Strategies with W11 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-skyrocket-likes-and-views-on-your-tiktok-unboxings/"><u>[Updated] How to Skyrocket 'Likes' And Views on Your TikTok Unboxings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-propel-your-digital-presence-past-the-thousand-mark/"><u>2024 Approved  Propel Your Digital Presence Past the Thousand Mark</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>2024 Approved  The Future of Mobile Videography  6 Pioneering Apps Beyond Periscope</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-11-pro-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 11 Pro Max Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-reno-11f-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-blaze-2-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Lava Blaze 2 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-majority-of-top-tiktok-money-predicting-apps/"><u>In 2024, Majority of Top TikTok Money-Predicting Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-luts-for-enhanced-photoshop-images/"><u>Mastering LUTs for Enhanced Photoshop Images</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-best-ar-video-app-top-10-picks/"><u>New 2024 Approved Best AR Video App - Top 10 Picks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-best-audio-plug-ins-for-video-editors/"><u>New 2024 Approved Best Audio Plug-Ins For Video Editors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-best-audio-waveform-generator/"><u>New 2024 Approved Best Audio Waveform Generator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-best-capcut-templates-for-slow-motion-video-trend/"><u>New 2024 Approved Best CapCut Templates for Slow Motion Video Trend</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-animated-video-makers-for-2024/"><u>New Best Animated Video Makers for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-ar-video-app-top-10-picks-for-2024/"><u>New Best AR Video App - Top 10 Picks for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-audio-plug-ins-for-video-editors-for-2024/"><u>New Best Audio Plug-Ins For Video Editors for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-audio-plug-ins-for-video-editors/"><u>New In 2024, Best Audio Plug-Ins For Video Editors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-capcut-templates-for-slow-motion-video-trend/"><u>New In 2024, Best CapCut Templates for Slow Motion Video Trend</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-cinematic-luts-for-premiere-pro-you-can-come-across/"><u>New In 2024, Best Cinematic LUTs For Premiere Pro You Can Come Across</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-ar-video-app-top-10-picks/"><u>Updated 2024 Approved Best AR Video App - Top 10 Picks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-audio-waveform-generator/"><u>Updated 2024 Approved Best Audio Waveform Generator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-capcut-templates-for-slow-motion-video-trend/"><u>Updated 2024 Approved Best CapCut Templates for Slow Motion Video Trend</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-ar-video-app-top-10-picks-for-2024/"><u>Updated Best AR Video App - Top 10 Picks for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-audio-plug-ins-for-video-editors-for-2024/"><u>Updated Best Audio Plug-Ins For Video Editors for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-audio-waveform-generator-for-2024/"><u>Updated Best Audio Waveform Generator for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-capcut-templates-for-slow-motion-video-trend-for-2024/"><u>Updated Best CapCut Templates for Slow Motion Video Trend for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-animated-video-makers/"><u>Updated In 2024, Best Animated Video Makers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-ar-video-app-top-10-picks/"><u>Updated In 2024, Best AR Video App - Top 10 Picks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-audio-plug-ins-for-video-editors/"><u>Updated In 2024, Best Audio Plug-Ins For Video Editors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-audio-waveform-generator/"><u>Updated In 2024, Best Audio Waveform Generator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-capcut-templates-for-slow-motion-video-trend/"><u>Updated In 2024, Best CapCut Templates for Slow Motion Video Trend</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-cinematic-luts-for-premiere-pro-you-can-come-across/"><u>Updated In 2024, Best Cinematic LUTs For Premiere Pro You Can Come Across</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Top 10 Sony LUT for Different Purposes
-date: 2024-06-09T16:15:21.731Z
-updated: 2024-06-10T16:15:21.731Z
+date: 2024-07-20T11:49:18.143Z
+updated: 2024-07-21T11:49:18.143Z
 tags: 
   - ai
   - animation videos
@@ -31,12 +31,18 @@ You'll eventually come up with a blend of your own LUTs to use, resulting in you
 
 However, for the time being, employing LUTs is the most cost-effective way to obtain a cinematic look.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. It saves your time
 
 Because LUTs are predefined colors used to establish a specific look on a picture, they save you time. Having a trustworthy LUT to use for video will save the life of freelance editors who are constantly meeting commitments and modifications. Isn't the purpose of color grading to generate a visual emotion for your movie? So, with LUTs, you can create one without going through the time-consuming process of manual color correction. Only one-color preset will be applied to all scenes in a single LUT.
 
 However, there's a good probability that it won't look the same in all of the images. This is where you'll adjust the colors to make them more evenly match the film. It's nothing significant most of the time, just some little saturation adjustments, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Work on a budget
 
 Time spent in a color-grade suite may be highly costly, and it can lead your films to go over budget in order to achieve a specific aesthetic. LUTs, on the other hand, are available for free online or for a fee for more complex versions. Even if you buy your LUTs, you could save thousands of dollars based on the size of your film. LUTs can also assist you in meeting tight deadlines, and setting targets too optimistically is something I'm sure we've all done at some point.
@@ -47,10 +53,22 @@ Whether it's a client or a personal project, things can often get pushed to the 
 
 LUTs are beneficial because they allow videos shot with cameras that shoot very dark, discolored images to have more vivid tones and contrast. This is excellent for grabbing viewers' attention and making videos more intriguing and engaging. LUTs add an artistic element to videos and can help you develop a visual artistic identity for your videos if you use the same colors. Another advantage of LUTs is that they enhance the color quality of videos shot on smartphones with particular color schemes. Although this varies significantly from brand to brand, you can use LUTs to make a Smartphone video more vibrant and appealing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Top 10 Sony LUT for Different Purposes
 
 The highlights in your videos will seem smooth with this set of Free Sony LUTs, while the shadows will add intensity and depth without sacrificing any details. It's easy to use Sony LUTs in.CUBE and.LOOK versions, and they help you get the cinematic appearance you want.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### 1\. SLog2 & SLog3 to Enhanced Rec709 LUTs
 
 The Sony Natural Enhanced LUT pack was created to address Sony's color science-related difficulties with skin tones and hue levels. These LUTs correct and fix the colors in your S-Log2 and S-Log3 videos, giving them a colorful natural look.
@@ -71,6 +89,9 @@ Filmic Tone Creative LUTs
 
 Nature has influenced it. Nature LUTs are designed to complement the natural environs in which we live. Bali, woods, forests, greenery, streams, and beaches are all excellent choices for this design.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Sony Lut - Sony Nature LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-3.jpg)
 
 Sony Nature LUTs
@@ -95,6 +116,10 @@ Sony Cine-4 Film and Standard LUTs
 
 The Urban Dark LUT pack aims to provide users with some dark, fascinating tones that work well with urban landscapes. These LUTs have a dark vibe that complements skin tones well.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Sony Lut - Sony Urban Dark LUT](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-6.jpg)
 
 Sony Urban Dark LUT
@@ -115,18 +140,34 @@ This Sony LUT adds a creamy feel to the video, making it more appealing while al
 
 Sony LUT "Dessert"
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. Sony LUTs for the premiere
 
 If you want to make your video clip look professional without the color grading being too obvious, Sony LUTs for Premiere is one of the best options available. It cools down the image and enhances the contrast slightly to make the topic stand out without being overpowering. This LUT is particularly well suited to business, real estate, and action-oriented videos.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sony Lut - Sony LUTs for the premiere](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-9.jpg)
 
 Sony LUTs for the premiere
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### 10\. Sony Base LUT pack
 
 The Sony Base LUT Pack replaces Sony's rec709 LUT and color space. These LUTs have a wonderful warm tone to them and more accurate green colors, and these LUTs are merely a starting point or base for your grading. We recommend grading beyond the simple use of the LUT if you want the best results. Each LUT in this bundle was built with the Sony S-log2 color profile in mind. These LUTs are intended to assist you in achieving proper exposure during filming and grading while maintaining a pleasant image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Sony Lut - Sony Base LUT pack](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-9.jpg)
 
 Sony Base LUT pack
@@ -145,6 +186,9 @@ LUTs should be present in every videographer's toolbox since they may save time 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -163,6 +207,9 @@ LUTs should be present in every videographer's toolbox since they may save time 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Do You Have the Habit to Create Subtitle for Your Video? You Can Always Add Open and Close Subtitles to Your Video to Make It Perfect. Follow This Article to Learn More About It
 
 Subtitles are very common for people who watch videos very often. It is simply the text or dialogue usually displayed at the base of the screen of a video. We often use subtitles to watch movies or television programs, play video games, etc. The subtitle makes all the difference when you are watching a video in a language different from the one you know and understand.
@@ -198,6 +245,9 @@ Subtitle formats are often represented funnily. You see extensions like .srt, .s
 
 **Spruce subtitle format:** They usually operate in sequential periods and frames. They have the ‘.stl’ format.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. What Are Subtitles Used For?
 
 Now that we’ve known what subtitles are and the various formats they exist in, let’s take a deeper dive into what they’re used for.
@@ -268,12 +318,18 @@ Subtitled videos are more likely to be used than videos without subtitles. So as
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## How to Make Vintage Film Effect 1980S
 
 The 1980s is widely regarded as the golden era of music and film-making. If you play a video recorded in the 80s, you'll notice graininess, blurriness, and light exposure, giving the footage a dreamy vintage touch. So, in this short tutorial, we'll learn how to create a vintage 1980-style video with a retro effect that will leave your audience yearning for more.
 
 ## Preparation
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![1980s vintage scene](https://images.wondershare.com/filmora/article-images/2023/01/1980s-vintage-scene.gif)
 
 In this tutorial, you'll need at least two video clips. First, take clear footage of a hoop dancer playing to music and a disco ball footage that you'll add to the background. You can also add another footage to give your dancing video the perfect transition.
@@ -292,10 +348,98 @@ First, run Wondershare Filmora and add the video with the hoop dancer on the fir
 
 ##### Step2 Add an animation keyframe
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
 
 With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
+
+Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
+
+Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
+
+##### Step3 Add retro filters and effects to the video
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
+
+Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
+
+## Summary
+
+Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![import the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-1.jpg)
+
+First, run Wondershare Filmora and add the video with the hoop dancer on the first track. Then, move the disco ball footage right above the first video track.
+
+##### Step2 Add an animation keyframe
+
+![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
+
+With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
+
+![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
+
+Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
+
+![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
+
+Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
+
+##### Step3 Add retro filters and effects to the video
+
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
+
+Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Summary
+
+Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![import the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-1.jpg)
+
+First, run Wondershare Filmora and add the video with the hoop dancer on the first track. Then, move the disco ball footage right above the first video track.
+
+##### Step2 Add an animation keyframe
+
+![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
+
+With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
 
 Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
@@ -330,66 +474,9 @@ With the two videos imported on Filmora, move the playhead to the point where th
 
 Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
 
-![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
-
-Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
-
-##### Step3 Add retro filters and effects to the video
-
-![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
-
-Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
-
-## Summary
-
-Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![import the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-1.jpg)
-
-First, run Wondershare Filmora and add the video with the hoop dancer on the first track. Then, move the disco ball footage right above the first video track.
-
-##### Step2 Add an animation keyframe
-
-![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
-
-With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
-
-![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
-
-Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
-
-![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
-
-Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
-
-##### Step3 Add retro filters and effects to the video
-
-![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
-
-Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
-
-## Summary
-
-Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![import the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-1.jpg)
-
-First, run Wondershare Filmora and add the video with the hoop dancer on the first track. Then, move the disco ball footage right above the first video track.
-
-##### Step2 Add an animation keyframe
-
-![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
-
-With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
-
-![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
-
-Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
 
 Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
@@ -414,6 +501,9 @@ Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. Yo
 
 Do you wish you could control when it's nighttime to daytime? It would make getting ready in the morning much faster! This tutorial will show you how to use the keyframe and mask feature in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to make a remarkable night-to-day transition.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How-to Guide
 
 **_1) Preparation_**
@@ -437,6 +527,9 @@ First, get the daytime shot. For this tutorial, we will pretend that you are wal
 
 Now, let's film the nighttime clip. You will walk through the living room and do the same movement again at the same spot. You can dim the light and change the camera's white balance settings to bluer to create a night feeling.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![film the nighttime clip](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-2.gif)
 
 After you have both clips that you need, let's go to Filmora and start editing.
@@ -447,6 +540,9 @@ Step1 Launch Filmora and import the footage into the program. If you haven't ins
 
 Step2 Place the nighttime video clip on the first video track of the timeline and place the daytime clip on the top.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![place the daytime clip on the top](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-3.jpg)
 
 Step3 Find the spot where you want to create a transition between the day and nighttime. Then, you can delete the unwanted part.
@@ -461,10 +557,16 @@ For the next step, we will make a masking transition with the Filmora mask featu
 
 Step1 Double-click the daytime clip on the timeline. In the Filmora setting, find the **Mask section > Circle**. You can see the mask is applied in the preview screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![double-click the daytime clip](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-5.jpg)
 
 Step2 Scroll down the setting and click add a keyframe at the beginning of the clip.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![scroll down the setting](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-6.jpg)
 
 Step3 Change the scale of the mask to the smallest number and adjust the Width and Height down to 0\. You can set the blur strength to 15 to make the transition edge smoother.
@@ -485,6 +587,10 @@ If the movement in the two clips is a bit off, you can fix it by adding more key
 
 You can add one more effect in Filmora to make it more magical. To do this, open the Effects window on the top left and find “Heartbeat” under the Basic section.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![add one more effect in filmora](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-10.jpg)
 
 Drag and drop it onto the third video track and start the effect when the mask opens up. Then, trim the effect length to match the movement. Adjust the speed of this effect if needed.
@@ -525,3 +631,36 @@ That is how to do this night-to-day transition night-to-day time shift effect in
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/xporting-your-creativity-imovie-videos-for-youtube-audiences/"><u>[New] Exporting Your Creativity  IMovie Videos for YouTube Audiences</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-live-recording-simplified-logitech-webcam-setup-steps-for-2024/"><u>[New] Live Recording Simplified  Logitech Webcam Setup Steps for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-iphone-photo-mastering-free-picture-smoothing-techniques/"><u>[Updated] In 2024, IPhone Photo  Mastering FREE Picture Smoothing Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719202743817-function-failures-on-win10-quick-remedies-available/"><u>Function Failures on Win10? Quick Remedies Available</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/how-to-make-slow-motion-video-with-photos-app-and-online-for-2024/"><u>How to Make Slow Motion Video with Photos App and Online for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-upload-multiple-photos-and-videos-to-instagram-for-2024/"><u>How to Upload Multiple Photos and Videos to Instagram for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-make-timelapse-video-with-imovie/"><u>New 2024 Approved Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-selecting-and-using-the-best-braw-luts/"><u>New 2024 Approved Guide To Selecting and Using the Best Braw Luts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-synchronizing-your-audio-and-videos-properly/"><u>New 2024 Approved Guide to Synchronizing Your Audio And Videos Properly?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie-for-2024/"><u>New Guide to Make Timelapse Video with iMovie for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-synchronizing-your-audio-and-videos-properly-in-2024/"><u>New Guide to Synchronizing Your Audio And Videos Properly, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-using-luts-perfectly-in-final-cut-pro-for-2024/"><u>New Guide To Using Luts Perfectly in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-guide-to-synchronizing-your-audio-and-videos-properly/"><u>New In 2024, Guide to Synchronizing Your Audio And Videos Properly?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-guide-to-using-luts-perfectly-in-final-cut-pro/"><u>New In 2024, Guide To Using Luts Perfectly in Final Cut Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-instruction-manual-for-wm6-for-2024/"><u>Perfect Instruction Manual for WM6 for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/streamlining-screen-record-on-snapchats-with-your-phone-for-2024/"><u>Streamlining Screen Record on Snapchats with Your Phone for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-method-for-recorded-instagram-stories-for-2024/"><u>The Ultimate Method for Recorded Instagram Stories for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-make-a-youtube-intro-by-filmora/"><u>Updated 2024 Approved Guide To Make a YouTube Intro by Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-make-timelapse-video-with-imovie/"><u>Updated 2024 Approved Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-scaling-and-setting-videos-in-filmora-tutorial/"><u>Updated 2024 Approved Guide To Scaling and Setting Videos in Filmora | Tutorial</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-synchronizing-your-audio-and-videos-properly/"><u>Updated 2024 Approved Guide to Synchronizing Your Audio And Videos Properly?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-are-you-thinking-about-whether-or-not-you-should-get-your-hands-on-a-vn-video-editor-for-mac-read-the-article-to-know-about-the-vn-video-editors-uni/"><u>Updated Are You Thinking About Whether or Not You Should Get Your Hands on a VN Video Editor for Mac? Read the Article to Know About the VN Video Editors Unique Features and some of Its Alternatives for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-selecting-and-using-the-best-braw-luts-for-2024/"><u>Updated Guide To Selecting and Using the Best Braw Luts for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-synchronizing-your-audio-and-videos-properly-in-2024/"><u>Updated Guide to Synchronizing Your Audio And Videos Properly, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-using-luts-perfectly-in-final-cut-pro-for-2024/"><u>Updated Guide To Using Luts Perfectly in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-make-timelapse-video-with-imovie/"><u>Updated In 2024, Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-scaling-and-setting-videos-in-filmora-tutorial/"><u>Updated In 2024, Guide To Scaling and Setting Videos in Filmora | Tutorial</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-selecting-and-using-the-best-braw-luts/"><u>Updated In 2024, Guide To Selecting and Using the Best Braw Luts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-using-luts-perfectly-in-final-cut-pro/"><u>Updated In 2024, Guide To Using Luts Perfectly in Final Cut Pro</u></a></li>
+</ul></div>

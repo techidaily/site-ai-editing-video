@@ -1,7 +1,7 @@
 ---
 title: Updated Text Animation Intro Tutorial in Filmora
-date: 2024-05-20T03:38:18.501Z
-updated: 2024-05-21T03:38:18.501Z
+date: 2024-07-20T11:43:33.542Z
+updated: 2024-07-21T11:43:33.542Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Text Animation Intro Tutorial in Filmora
 excerpt: This Article Describes Updated Text Animation Intro Tutorial in Filmora
 keywords: repeated text animation tutorial in filmora,text animation intro tutorial in filmora,ai animation video in text cinematic introfilmora tutorial,ai animation repeated text animation tutorial in filmora,ai animation ai animation text animation intro tutorial in filmora,ai animation text animation intro tutorial in filmora,repeated text animation tutorial
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## Text Animation Intro Tutorial in Filmora
@@ -55,6 +55,138 @@ Step 6
 
 Drop the **Black** snapshot you took earlier to Track 2\. Double-click on it, go to **Animation**, and apply these settings. After this, move the Playhead to the end of the clip and change the **X-axis** value to “**\-800**”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
+![snapshot settings](https://images.wondershare.com/filmora/article-images/2023/01/black.png)
+
+Step 7
+
+Go to **Effects** and drag the **Square Blur** effect to Track 4 on the Timeline. Increase its duration to match the other clips. Then, click on the effect and change its **Size** bar value to 4\. Click **OK.**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![add effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/effect.png)
+
+Step 8
+
+Place the Playhead at the beginning of the clip. Go to **My Media** and drag the Black snapshot to Track 5\. Double-click on it → go to **Animation** and change the settings to look like this. Then, move the Playhead to 9 seconds. Here, change the **X-axis** to “**150”** and the **Scale** to **75%.**
+
+![edit snapshot in filmora](https://images.wondershare.com/filmora/article-images/2023/01/black-snapshot.png)
+
+Step 9
+
+Now, place the Playhead at the starting point and drag the colored snapshot in Track 6\. Double-click on it and change the **Scale** to **50%**. Then, move the Playhead to 9 seconds again and change the **Scale** to **75%.** Click **OK.**
+
+Step 10
+
+Go to **Sample Color** and drag “Gradient 4” to Track 7 on the Timeline. Double-click on it → go to the **Video** tab → change the Blending Mode to **Overlay** → decrease the Opacity to **25%.** Click **OK.**
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![gradient sample color](https://images.wondershare.com/filmora/article-images/2023/01/gradient.png)
+
+Step 11
+
+Drag a Default Title to Track 8 and double-click on it to open its Advanced settings. From here, delete the yellow text clip located under the video. Then, insert a Line shape.
+
+![insert line shape](https://images.wondershare.com/filmora/article-images/2023/01/line.png)
+
+Step 12
+
+Increase the Line’s length to be almost as long as the screen. Then adjust its position until half of the Line is visible on the screen. Like this.
+
+![edit shape in filmora](https://images.wondershare.com/filmora/article-images/2023/01/edit-line.png)
+
+Step 13
+
+Copy this Default Title and paste it into Track 9\. Open its Advanced settings and change the Line color to something different than the previous one. Then, move it to the other side of the screen, slightly above the previous line. Click **OK.**
+
+![add line shapes](https://images.wondershare.com/filmora/article-images/2023/01/lines.png)
+
+Step 14
+
+Now, select the Default Title on Track 9, double-click it, and go to the **Animation** tab. Move the Playhead at the starting point of the Timeline and add a keyframe. Then, move the Playhead to the end of the clip. Drag the **X-axis** position to the right until the Line shape moves all the way to the right side of the screen.
+
+Do the same for the Default Title on Track 8\. But this time, drag the **X-axis** position toward the other side. When you’re done, press **OK.**
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+![animate shapes filmora](https://images.wondershare.com/filmora/article-images/2023/01/line-move.png)
+
+Step 15
+
+Go to the **Effects** tab → drag the **Luma Sharp** effect to Track 10\. Click it and change its **Intensity** to **10.**
+
+![add luma sharp effect](https://images.wondershare.com/filmora/article-images/2023/01/luma-sharp.png)
+
+Step 16
+
+You’re all done. Click on the Render button to render all the clips and finally preview your creation. Congratulations on creating a text animation intro in Filmora.
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+![render video filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
+
+Summary
+
+**What you've learned:**
+
+* Create a unique text animation intro in Filmora
+* Animate text and titles
+* How to add and animate different shapes in Filmora
+* Edit the advanced settings of elements in the Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+Download and Install the [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/). Then, click on **New Project** once the program starts.
+
+Step 2
+
+Go to **Titles** and drag the Default Title to the Timeline. Then, double-click on the Default Title clip to open its settings. Here, type in your text → change the text color to **Black** → click **OK** → take a snapshot.
+
+![edit title filmora](https://images.wondershare.com/filmora/article-images/2023/01/snapshot.png)
+
+Step 3
+
+Double-click on the Default Title once more and simply change the text color to anything other than black this time. Then, click **OK** and take another snapshot. After this, delete the Default Title from the Timeline.
+
+Step 4
+
+Next, go to **Sample Color** and drag the White color to the Timeline. Increase the White Color clip’s duration to 10 seconds by dragging the tail of the clip to the right.
+
+![sample color filmora](https://images.wondershare.com/filmora/article-images/2023/01/white.png)
+
+Step 5
+
+For the next step, you need to download a simple [Vignette png image](https://www.pngfind.com/mpng/ihbooTJ%5Feffect-gfx-png-black-vignette-png-transparent-png/). Then, import the Vignette image into Filmora. Go to **My Media** and click on **Import Media.** Import it and drag the image to the Timeline. Then, move that clip to Track 3.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![vignette png](https://images.wondershare.com/filmora/article-images/2023/01/vignette.png)
+
+Step 6
+
+Drop the **Black** snapshot you took earlier to Track 2\. Double-click on it, go to **Animation**, and apply these settings. After this, move the Playhead to the end of the clip and change the **X-axis** value to “**\-800**”.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![snapshot settings](https://images.wondershare.com/filmora/article-images/2023/01/black.png)
 
 Step 7
@@ -154,18 +286,27 @@ Step 4
 
 Next, go to **Sample Color** and drag the White color to the Timeline. Increase the White Color clip’s duration to 10 seconds by dragging the tail of the clip to the right.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![sample color filmora](https://images.wondershare.com/filmora/article-images/2023/01/white.png)
 
 Step 5
 
 For the next step, you need to download a simple [Vignette png image](https://www.pngfind.com/mpng/ihbooTJ%5Feffect-gfx-png-black-vignette-png-transparent-png/). Then, import the Vignette image into Filmora. Go to **My Media** and click on **Import Media.** Import it and drag the image to the Timeline. Then, move that clip to Track 3.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vignette png](https://images.wondershare.com/filmora/article-images/2023/01/vignette.png)
 
 Step 6
 
 Drop the **Black** snapshot you took earlier to Track 2\. Double-click on it, go to **Animation**, and apply these settings. After this, move the Playhead to the end of the clip and change the **X-axis** value to “**\-800**”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![snapshot settings](https://images.wondershare.com/filmora/article-images/2023/01/black.png)
 
 Step 7
@@ -178,6 +319,9 @@ Step 8
 
 Place the Playhead at the beginning of the clip. Go to **My Media** and drag the Black snapshot to Track 5\. Double-click on it → go to **Animation** and change the settings to look like this. Then, move the Playhead to 9 seconds. Here, change the **X-axis** to “**150”** and the **Scale** to **75%.**
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit snapshot in filmora](https://images.wondershare.com/filmora/article-images/2023/01/black-snapshot.png)
 
 Step 9
@@ -188,6 +332,9 @@ Step 10
 
 Go to **Sample Color** and drag “Gradient 4” to Track 7 on the Timeline. Double-click on it → go to the **Video** tab → change the Blending Mode to **Overlay** → decrease the Opacity to **25%.** Click **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![gradient sample color](https://images.wondershare.com/filmora/article-images/2023/01/gradient.png)
 
 Step 11
@@ -214,6 +361,9 @@ Now, select the Default Title on Track 9, double-click it, and go to the **Anima
 
 Do the same for the Default Title on Track 8\. But this time, drag the **X-axis** position toward the other side. When you’re done, press **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![animate shapes filmora](https://images.wondershare.com/filmora/article-images/2023/01/line-move.png)
 
 Step 15
@@ -226,6 +376,9 @@ Step 16
 
 You’re all done. Click on the Render button to render all the clips and finally preview your creation. Congratulations on creating a text animation intro in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![render video filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
 
 Summary
@@ -255,6 +408,9 @@ Step 2
 
 Go to **Titles** and drag the Default Title to the Timeline. Then, double-click on the Default Title clip to open its settings. Here, type in your text → change the text color to **Black** → click **OK** → take a snapshot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![edit title filmora](https://images.wondershare.com/filmora/article-images/2023/01/snapshot.png)
 
 Step 3
@@ -265,12 +421,19 @@ Step 4
 
 Next, go to **Sample Color** and drag the White color to the Timeline. Increase the White Color clip’s duration to 10 seconds by dragging the tail of the clip to the right.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![sample color filmora](https://images.wondershare.com/filmora/article-images/2023/01/white.png)
 
 Step 5
 
 For the next step, you need to download a simple [Vignette png image](https://www.pngfind.com/mpng/ihbooTJ%5Feffect-gfx-png-black-vignette-png-transparent-png/). Then, import the Vignette image into Filmora. Go to **My Media** and click on **Import Media.** Import it and drag the image to the Timeline. Then, move that clip to Track 3.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![vignette png](https://images.wondershare.com/filmora/article-images/2023/01/vignette.png)
 
 Step 6
@@ -299,12 +462,18 @@ Step 10
 
 Go to **Sample Color** and drag “Gradient 4” to Track 7 on the Timeline. Double-click on it → go to the **Video** tab → change the Blending Mode to **Overlay** → decrease the Opacity to **25%.** Click **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gradient sample color](https://images.wondershare.com/filmora/article-images/2023/01/gradient.png)
 
 Step 11
 
 Drag a Default Title to Track 8 and double-click on it to open its Advanced settings. From here, delete the yellow text clip located under the video. Then, insert a Line shape.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![insert line shape](https://images.wondershare.com/filmora/article-images/2023/01/line.png)
 
 Step 12
@@ -317,6 +486,9 @@ Step 13
 
 Copy this Default Title and paste it into Track 9\. Open its Advanced settings and change the Line color to something different than the previous one. Then, move it to the other side of the screen, slightly above the previous line. Click **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![add line shapes](https://images.wondershare.com/filmora/article-images/2023/01/lines.png)
 
 Step 14
@@ -331,117 +503,9 @@ Step 15
 
 Go to the **Effects** tab → drag the **Luma Sharp** effect to Track 10\. Click it and change its **Intensity** to **10.**
 
-![add luma sharp effect](https://images.wondershare.com/filmora/article-images/2023/01/luma-sharp.png)
-
-Step 16
-
-You’re all done. Click on the Render button to render all the clips and finally preview your creation. Congratulations on creating a text animation intro in Filmora.
-
-![render video filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
-
-Summary
-
-**What you've learned:**
-
-* Create a unique text animation intro in Filmora
-* Animate text and titles
-* How to add and animate different shapes in Filmora
-* Edit the advanced settings of elements in the Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-Download and Install the [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/). Then, click on **New Project** once the program starts.
-
-Step 2
-
-Go to **Titles** and drag the Default Title to the Timeline. Then, double-click on the Default Title clip to open its settings. Here, type in your text → change the text color to **Black** → click **OK** → take a snapshot.
-
-![edit title filmora](https://images.wondershare.com/filmora/article-images/2023/01/snapshot.png)
-
-Step 3
-
-Double-click on the Default Title once more and simply change the text color to anything other than black this time. Then, click **OK** and take another snapshot. After this, delete the Default Title from the Timeline.
-
-Step 4
-
-Next, go to **Sample Color** and drag the White color to the Timeline. Increase the White Color clip’s duration to 10 seconds by dragging the tail of the clip to the right.
-
-![sample color filmora](https://images.wondershare.com/filmora/article-images/2023/01/white.png)
-
-Step 5
-
-For the next step, you need to download a simple [Vignette png image](https://www.pngfind.com/mpng/ihbooTJ%5Feffect-gfx-png-black-vignette-png-transparent-png/). Then, import the Vignette image into Filmora. Go to **My Media** and click on **Import Media.** Import it and drag the image to the Timeline. Then, move that clip to Track 3.
-
-![vignette png](https://images.wondershare.com/filmora/article-images/2023/01/vignette.png)
-
-Step 6
-
-Drop the **Black** snapshot you took earlier to Track 2\. Double-click on it, go to **Animation**, and apply these settings. After this, move the Playhead to the end of the clip and change the **X-axis** value to “**\-800**”.
-
-![snapshot settings](https://images.wondershare.com/filmora/article-images/2023/01/black.png)
-
-Step 7
-
-Go to **Effects** and drag the **Square Blur** effect to Track 4 on the Timeline. Increase its duration to match the other clips. Then, click on the effect and change its **Size** bar value to 4\. Click **OK.**
-
-![add effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/effect.png)
-
-Step 8
-
-Place the Playhead at the beginning of the clip. Go to **My Media** and drag the Black snapshot to Track 5\. Double-click on it → go to **Animation** and change the settings to look like this. Then, move the Playhead to 9 seconds. Here, change the **X-axis** to “**150”** and the **Scale** to **75%.**
-
-![edit snapshot in filmora](https://images.wondershare.com/filmora/article-images/2023/01/black-snapshot.png)
-
-Step 9
-
-Now, place the Playhead at the starting point and drag the colored snapshot in Track 6\. Double-click on it and change the **Scale** to **50%**. Then, move the Playhead to 9 seconds again and change the **Scale** to **75%.** Click **OK.**
-
-Step 10
-
-Go to **Sample Color** and drag “Gradient 4” to Track 7 on the Timeline. Double-click on it → go to the **Video** tab → change the Blending Mode to **Overlay** → decrease the Opacity to **25%.** Click **OK.**
-
-![gradient sample color](https://images.wondershare.com/filmora/article-images/2023/01/gradient.png)
-
-Step 11
-
-Drag a Default Title to Track 8 and double-click on it to open its Advanced settings. From here, delete the yellow text clip located under the video. Then, insert a Line shape.
-
-![insert line shape](https://images.wondershare.com/filmora/article-images/2023/01/line.png)
-
-Step 12
-
-Increase the Line’s length to be almost as long as the screen. Then adjust its position until half of the Line is visible on the screen. Like this.
-
-![edit shape in filmora](https://images.wondershare.com/filmora/article-images/2023/01/edit-line.png)
-
-Step 13
-
-Copy this Default Title and paste it into Track 9\. Open its Advanced settings and change the Line color to something different than the previous one. Then, move it to the other side of the screen, slightly above the previous line. Click **OK.**
-
-![add line shapes](https://images.wondershare.com/filmora/article-images/2023/01/lines.png)
-
-Step 14
-
-Now, select the Default Title on Track 9, double-click it, and go to the **Animation** tab. Move the Playhead at the starting point of the Timeline and add a keyframe. Then, move the Playhead to the end of the clip. Drag the **X-axis** position to the right until the Line shape moves all the way to the right side of the screen.
-
-Do the same for the Default Title on Track 8\. But this time, drag the **X-axis** position toward the other side. When you’re done, press **OK.**
-
-![animate shapes filmora](https://images.wondershare.com/filmora/article-images/2023/01/line-move.png)
-
-Step 15
-
-Go to the **Effects** tab → drag the **Luma Sharp** effect to Track 10\. Click it and change its **Intensity** to **10.**
-
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add luma sharp effect](https://images.wondershare.com/filmora/article-images/2023/01/luma-sharp.png)
 
 Step 16
@@ -496,10 +560,16 @@ The user interface is extremely intuitive and hence, it is equally suitable for 
 * Extensive audio editing, color matching and correction
 * Edit 4K videos, export in any desired file format
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Adobe Express
 
 Adobe has a wide range of video editors and it is the most reliable brand among professional video editors. Adobe Express is a premium text animation online tool where you can add animated text to your photos instantly and export them as MP4 file. Therefore, the online tool is extremely useful for social media enthusiasts. However, the platform does not support adding animated text to video.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adobe express](https://images.wondershare.com/filmora/article-images/adobe-express.jpg)
 
 Adobe Express is labelled as the branding tool where you can create trendy images with templates and choose from different animated text presets. You can access the online tool from all devices from your web browser. Most importantly, it is a completely free animated text generator from Adobe and you can add animated text to your images within a few minutes.
@@ -525,6 +595,9 @@ You can publish your video in 4K resolution and resize them for different platfo
 * Simple but powerful character builder
 * Edit 4K videos and adjust aspect ratio
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. [Textanim](https://textanim.com/)
 
 Textanim is a true animated text generator GIF online. All you need to do is type your text and select a text style from the templates available. Thereafter, you can adjust certain text style and format such as background color, animation motion direction, animation duration and likewise. After setting all the parameters, click on Generate button and you will see the animated text generated on your screen. You can simply download the animated text in GIF format or you can get embed code to integrate anywhere including social media platforms. Here are the key features of Textanim.
@@ -549,6 +622,9 @@ MakerMoon comes with a dedicated animated text generator even though there is a 
 
 ![makermoon animated text](https://images.wondershare.com/filmora/article-images/2022/08/makermoon-animated-text.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. [Loading.io](https://loading.io/animation/text/)
 
 Loading.io is a dedicated animated text generator GIF online platform. There are demo effects available that you can choose and customize as per your preference. The user interface is as easy as it can get and hence, it is suitable for amateurs as well. Starting from color palette and background color to font style and speed of animation, you can edit everything so that you can personalize the animated text. You can save your animated text in different file formats including GIF. There are several advanced options available to customize the animation on the text. Here are the key features of Loading.io.
@@ -562,6 +638,9 @@ Loading.io is a dedicated animated text generator GIF online platform. There are
 
 ![loading io text](https://images.wondershare.com/filmora/article-images/2022/08/loading-io-text.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. [FlexClip Animated Text Generator](https://www.flexclip.com/features/text-animation.html)
 
 FlexClip is a renowned online video editor and it features a free animated text generator. You can create engaging and attractive animated text video conveniently. There are different categories of customizable text animation templates available to get started. In fact, there are different text styles available with animations that you can apply to your video and customize them instantly.
@@ -602,8 +681,14 @@ There are literally unlimited 3D text animation templates. The user interface is
 * Supports multiple native languages
 * Save animated text video in different file formats
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![text studio generator](https://images.wondershare.com/filmora/article-images/2022/08/text-studio-generator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. [Kapwing](https://www.kapwing.com/animated-text-video-maker)
 
 You can create stunning animated text videos with Kapwing animated text video editor. Kapwing is a full-featured online video editor and you can choose from various templates available. Thereafter, you can customize them as per your requirements. Alternatively, you can upload your video and add different animated text effects to enhance your video content. In fact, you can create animated text videos from scratch for different devices and platforms. Here are the key features of Kapwing animated text video editor.
@@ -614,6 +699,10 @@ You can create stunning animated text videos with Kapwing animated text video ed
 * Add audio effects to animated text for better impact.
 * Wide range of graphical elements to enhance text content.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![kapwing](https://images.wondershare.com/filmora/article-images/kapwing-editor.jpg)
 
 ## Editor's Pick: Wondershare Filmora
@@ -642,6 +731,13 @@ Getting animated text for your video is no more a job of experts. You can genera
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## 5 Tips for Faster Editing in Filmora Video Editor
 
 It’s an indisputable fact that editing is an essential aspect of video creation, and it’s what brings your initial idea to life. However, it can be very daunting and time-consuming, especially when working on a video project containing lots of footage.
@@ -662,18 +758,30 @@ Step1 Launch Filmora and click Create Project.
 
 Step2 Navigate to the bottom left corner before the Timeline > click the Folder icon from there, as shown in the image below;
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![navigate to the bottom left corner](https://images.wondershare.com/filmora/article-images/2022/12/organize-media-filmora-2.jpg)
 
 Step3 Click on the folder icon until you reach the total number of folders you need to categorize your video files.
 
 Right-click on each folder and name it accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on the folder icon](https://images.wondershare.com/filmora/article-images/2022/12/organize-media-filmora-3.jpg)
 
 After you name each folder, use the Import button to upload each video files you need to edit your video.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use the Import button to upload each video files](https://images.wondershare.com/filmora/article-images/2022/12/organize-media-filmora-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** since the media files you import into your project get the name associated with the code given by the source, it becomes hard to capture a specific file while editing. You need to rename each of the elements you imported for easier access.
@@ -690,6 +798,9 @@ A tool like Filmora editor can help create proxies of your video file flawlessly
 
 Step1 Locate the large video file you imported to Filmora and right-click it. Then, select Create Proxy File.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![locate the large video file to filmora](https://images.wondershare.com/filmora/article-images/2022/12/use-proxies-filmora-1.jpg)
 
 Step2 You should see the proxy icon at the bottom right corner of your video once it completes. This takes only a few minutes.
@@ -698,6 +809,9 @@ Step2 You should see the proxy icon at the bottom right corner of your video onc
 
 Step3 Drag-n-drop the video to the timeline and perform the necessary editing. Afterward, use the Export button to save the file to your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on the export button](https://images.wondershare.com/filmora/article-images/2022/12/use-proxies-filmora-3.jpg)
 
 ## 3\. Keep Your Videos and Audio Tracks Organized
@@ -726,10 +840,16 @@ Step2 Select Keyboard Shortcuts from the drop-down list.
 
 Step3 The new pop-up window on your PC screen will display all shortcuts you can employ while using Filmora, and the interesting part is that you can customize the shortcut keys to your preference. Moreover, you can freely switch keyboard shortcuts between Filmora, Adobe Premiere Pro, and Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![customize the shortcut keys](https://images.wondershare.com/filmora/article-images/2022/12/use-keyboard-shortcuts-filmora-2.jpg)
 
 Step4 For clicking CTRL+ALT+N will allow you to create a new folder for your file.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Edit in Stages
 
 Our final tip is to edit in stages. Yes, it is necessary to edit in stages when dealing with editing work. This helps to limit the time you spend on a project. In the beginning, you should do a rough cut. You can begin by editing the A roll at first and then move on to edit the B roll, moving on to the Sound FX, Music, Graphics, and Color Correction, and then reviewing the entire project before exporting it.
@@ -762,6 +882,9 @@ Step4 Rename all imported files. To rename your imported files, right-click on t
 
 ![rename all imported files](https://images.wondershare.com/filmora/article-images/2022/12/organize-media-filmora-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. The Use of Proxies
 
 Another tip that enhances a quick editing process is the use of proxies. Proxies can be described as low-resolution versions of your video files. So, if you’re working on video files that drag back playback speed, like 4K footage, you can create a proxy to enable your PC to handle the file seamlessly.
@@ -774,6 +897,9 @@ Step1 Locate the large video file you imported to Filmora and right-click it. Th
 
 Step2 You should see the proxy icon at the bottom right corner of your video once it completes. This takes only a few minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![finish proxy](https://images.wondershare.com/filmora/article-images/2022/12/use-proxies-filmora-2.jpg)
 
 Step3 Drag-n-drop the video to the timeline and perform the necessary editing. Afterward, use the Export button to save the file to your PC.
@@ -788,10 +914,16 @@ You will also do the same for Audio, for instance, Audio track #1 for music, Aud
 
 Step1 Click on the Add icon at the left side of the Timeline and select Add Video Track or Add Audio Track to add more timelines for your clips.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on the add icon](https://images.wondershare.com/filmora/article-images/2022/12/organize-audio-and-video-tracks-1.jpg)
 
 Step2 Drag-n-drop the video clips and audio clips to the relevant timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![drag-n-drop the video clips and audio clips](https://images.wondershare.com/filmora/article-images/2022/12/organize-audio-and-video-tracks-2.jpg)
 
 ## 4\. Keyboard Shortcuts
@@ -806,6 +938,9 @@ Step2 Select Keyboard Shortcuts from the drop-down list.
 
 Step3 The new pop-up window on your PC screen will display all shortcuts you can employ while using Filmora, and the interesting part is that you can customize the shortcut keys to your preference. Moreover, you can freely switch keyboard shortcuts between Filmora, Adobe Premiere Pro, and Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![customize the shortcut keys](https://images.wondershare.com/filmora/article-images/2022/12/use-keyboard-shortcuts-filmora-2.jpg)
 
 Step4 For clicking CTRL+ALT+N will allow you to create a new folder for your file.
@@ -818,6 +953,9 @@ In case while editing the A roll, you find something that requires a quick fix i
 
 Step1 Firstly, focus on your video footage. Move them to the required timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![focus on your video footage](https://images.wondershare.com/filmora/article-images/2022/12/edit-in-stages-1.jpg)
 
 Step2 Next, move your B-roll to the relevant timeline. Then, apply the required editing.
@@ -828,6 +966,9 @@ Step3 Afterward, move drag-n-drop the audio clips to the timeline and apply the 
 
 Repeat the process for different operations in stages until you finish.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 The editing process is about having a free mind where creativity is the primary focus. When you can do that, you will be able to complete your projects in a short time and work on various tasks simultaneously. The tips discussed in this article will go a long way in helping you handle your projects using Filmora.
@@ -844,6 +985,10 @@ You can use Filmora to edit videos and other media files downloaded from YouTube
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Do You Want to Make Your Background Disappear and Replace with an Attractive Background? Here Is How to Add a Green Screen to Zoom App and Add Any Virtual Background of Your Choice
 
 If you are a regular user of Zoom app because you have to attend meetings and video conferences every now and then, you should know how to create a green screen for Zoom calls. There are going to be times when you would not want to show what is in your background because it might look distracting. Besides, changing the background from time to time breaks the monotony of your Zoom calls.
@@ -864,6 +1009,14 @@ Step3Once Settings window opens, click on Virtual background option on the left 
 
 Step4Turn on the option “I have a green screen” located at the bottom. Thereafter, choose a virtual background with which you want to replace the green screen in your video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![visual background on zoom](https://images.wondershare.com/filmora/article-images/2022/08/visual-background-on-zoom.jpg)
 
 Step5Apart from the present virtual background, you can add photo or video to replace green screen background.
@@ -872,6 +1025,9 @@ Step5Apart from the present virtual background, you can add photo or video to re
 
 Step6Close Settings window and you will see that your green screen is replaced by your selected virtual background.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part 2\. How to add green screen to Zoom on mobile?
 
 If you are an occasional Zoom user, you are more likely to use your smartphone to attend Zoom conferences. If you want green screen effect on your Zoom call, make sure you have a sizeable green screen in your background. This is because even if you happen to move your phone during the meeting, green screen background should come in the video frame all the time.
@@ -882,6 +1038,9 @@ Step1Open Zoom app on your smartphone and make sure you are signed into your acc
 
 Step2Start a Zoom meeting and tap on More option located in the bottom-right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap more zoom app phone](https://images.wondershare.com/filmora/article-images/2022/08/tap-more-zoom-app-phone.jpg)
 
 Step3Tap on Virtual background and you can select any preset virtual background.
@@ -914,6 +1073,9 @@ Focus On Lighting - Lighting is extremely important when you want to use green s
 
 Select A Proper Background - Last but not least, when you change your green screen to any virtual background photo or video, make sure you keep your audiences in mind. If you are attending a meeting, you should keep a professional-looking background. The background should not be distracting and match the theme of your meeting.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We have answered your question, “How do you add a green screen to zoom?” You can use green screen on your Zoom desktop app as well as smartphone app. This will help you to make your usual background cover up with green screen and replace green screen with any virtual background. Keep in mind all the tips we have provided you so that the green screen effect is perfect.
@@ -944,3 +1106,61 @@ We have answered your question, “How do you add a green screen to zoom?” You
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhance-and-clean-up-youtube-footage-borderless-tutorial/"><u>[New] In 2024, Enhance and Clean Up YouTube Footage  Borderless Tutorial</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expertly-selected-graphics-cards-for-peak-streaming-clarity-for-2024/"><u>[Updated] Expertly Selected Graphics Cards for Peak Streaming Clarity for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-room-prep-101-ensuring-your-system-is-ready-for-oculus-rift/"><u>[Updated] Room Prep 101  Ensuring Your System Is Ready for Oculus Rift</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-ios-photo-editors-to-eliminate-objects-effectively/"><u>2024 Approved  Best iOS Photo Editors to Eliminate Objects Effectively</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-precision-audio-editing-removing-background-noise-with-audacity/"><u>2024 Approved  Precision Audio Editing  Removing Background Noise with Audacity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-pros-choices-top-4-fullscreen-recording-software-for-pcmac/"><u>2024 Approved  Pros' Choices  Top 4 Fullscreen Recording Software for PC/Mac</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-blueprint-for-creating-stellar-tiktok-promotional-content/"><u>2024 Approved  The Blueprint for Creating Stellar TikTok Promotional Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transforming-viewers-into-fans-with-top-yt-video-reacts/"><u>2024 Approved  Transforming Viewers Into Fans with Top YT Video Reacts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-a-vacation-slideshow-in-5-minutes/"><u>2024 Approved How to Make a Vacation Slideshow in 5 Minutes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-a-video-by-mouse-in-filmora/"><u>2024 Approved How To Make a Video by Mouse in Filmora?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-a-video-slideshow-in-imovie/"><u>2024 Approved How to Make a Video Slideshow in iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-canva-collages/"><u>2024 Approved How to Make Canva Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-discord-gif-pfp-solved/"><u>2024 Approved How to Make Discord GIF PFP? Solved</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-discord-logo-gif/"><u>2024 Approved How to Make Discord Logo GIF</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-eye-zoom-transition-effect-with-filmora/"><u>2024 Approved How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-gifs-from-videos-on-mac/"><u>2024 Approved How to Make GIFs From Videos on Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/breakthrough-techniques-for-streaming-success-obs-studio-android-for-2024/"><u>Breakthrough Techniques for Streaming Success  OBS Studio (Android) for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/controlling-who-sees-your-fb-photos/"><u>Controlling Who Sees Your Fb Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-tools-to-transform-your-youtube-titling-skills/"><u>Cutting-Edge Tools to Transform Your YouTube Titling Skills</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-11-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 11 Pro Max If Youve Tried Everything</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-itel-s23-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Itel S23’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-video-by-mouse-in-filmora-for-2024/"><u>How To Make a Video by Mouse in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-video-by-mouse-in-filmora-in-2024/"><u>How To Make a Video by Mouse in Filmora, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-an-aesthetic-slideshow-for-2024/"><u>How to Make an Aesthetic Slideshow for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-canva-collages-for-2024/"><u>How to Make Canva Collages for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-discord-gif-pfp-solved-for-2024/"><u>How to Make Discord GIF PFP? Solved for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora-for-2024/"><u>How to Make Eye Zoom Transition Effect with Filmora for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-essential-sound-editing-apps-for-mobile-iphone-and-ipad-edition-2023-edition/"><u>In 2024, Essential Sound Editing Apps for Mobile IPhone & iPad Edition, 2023 Edition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-m6-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco M6 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-a-video-by-mouse-in-filmora/"><u>In 2024, How To Make a Video by Mouse in Filmora?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-a-video-longer/"><u>In 2024, How To Make A Video Longer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-an-aesthetic-slideshow/"><u>In 2024, How to Make an Aesthetic Slideshow</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-discord-gif-pfp-solved/"><u>In 2024, How to Make Discord GIF PFP? Solved</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-discord-logo-gif/"><u>In 2024, How to Make Discord Logo GIF</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-eye-zoom-transition-effect-with-filmora/"><u>In 2024, How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-vacation-slideshow-in-5-minutes/"><u>New How to Make a Vacation Slideshow in 5 Minutes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-video-longer/"><u>New How To Make A Video Longer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-discord-gif-pfp-solved/"><u>New How to Make Discord GIF PFP? Solved</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-discord-logo-gif/"><u>New How to Make Discord Logo GIF</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-eye-zoom-transition-effect-with-filmora/"><u>New How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-gifs-from-videos-on-mac/"><u>New How to Make GIFs From Videos on Mac</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-enhancing-videos-with-voiceover-modern-techniques/"><u>New In 2024, Enhancing Videos with Voiceover Modern Techniques</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ranking-10-must-see-history-youtube-channels-for-learners/"><u>Ranking 10 Must-See History YouTube Channels for Learners</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-vacation-slideshow-in-5-minutes/"><u>Updated How to Make a Vacation Slideshow in 5 Minutes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-longer/"><u>Updated How To Make A Video Longer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-slideshow-in-imovie/"><u>Updated How to Make a Video Slideshow in iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-an-aesthetic-slideshow/"><u>Updated How to Make an Aesthetic Slideshow</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-canva-collages/"><u>Updated How to Make Canva Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-discord-gif-pfp-solved/"><u>Updated How to Make Discord GIF PFP? Solved</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/user-choice-top-free-streaming-sites-for-sports/"><u>User Choice Top Free Streaming Sites for Sports</u></a></li>
+</ul></div>

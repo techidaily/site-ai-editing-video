@@ -1,7 +1,7 @@
 ---
 title: How to Fade in Text in Adobe Premiere Pro for 2024
-date: 2024-05-20T03:38:09.004Z
-updated: 2024-05-21T03:38:09.004Z
+date: 2024-07-20T11:43:02.752Z
+updated: 2024-07-21T11:43:02.752Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Fade in Text in Adobe Premiere Pro for 2024
 excerpt: This Article Describes How to Fade in Text in Adobe Premiere Pro for 2024
 keywords: how to fade in text in adobe premiere pro,ai animation ai animation how to fade in text in adobe premiere pro,ai animation 2 ways to fade in text in premiere pro,2 ways to fade in text in premiere pro,how to add text effects in adobe premiere pro,ai animation how to fade in text in adobe premiere pro,fade in text in premiere pro
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## How to Fade in Text in Adobe Premiere Pro
@@ -25,6 +25,13 @@ If you have added any text or any graphical object in your video on Premiere Pro
 
 Step1 You must have your video clip as well as text clip on the Timeline of Premiere Pro. Make sure that you add text from Essential Graphics panel. Select the text clip from the Timeline to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![select text sample pr](https://images.wondershare.com/filmora/article-images/2022/07/select-text-sample-pr.jpg)
 
 Step2 Go to Effect Controls and click on Text option to expand it. Click on Opacity option from the dropdown menu.
@@ -49,20 +56,32 @@ Step1 You should have multiple video clips added to Timeline. Select the video c
 
 Step2 Go to Effects panel and click on Video Transitions option.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click video transitions pr](https://images.wondershare.com/filmora/article-images/2022/07/click-video-transitions-pr.jpg)
 
 Step3 Click on Dissolve and from the dropdown list, drag and drop Film Dissolve to the beginning of the selected video clip for fade in effect.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag film dissolve pr](https://images.wondershare.com/filmora/article-images/2022/07/drag-film-dissolve-pr.jpg)
 
 Step4 Click on the added effect on Timeline to adjust speed, duration, and alignment of the effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![adjust effects control pr](https://images.wondershare.com/filmora/article-images/2022/07/adjust-effects-control-pr.jpg)
 
 Step5 Play the video to ensure that the effect looks perfect. Therefore, go to File> Share> Export File to save the video.
 
 You can place the transition at the end of the video for fading out effect. Instead of Film Dissolve, you can use Crossfade or Dip to Black effect for fade in and fade out effect on video clips.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Alternative way to fade in text in videos
 
 If you do not have Adobe Premiere Pro or you find the steps difficult to fade in text in videos using Premiere Pro, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Filmora is a professional video editor that is available for Windows as well as Mac users. There is a wide range of video effects available in Filmora in comparison to Premiere Pro. Most importantly, Filmora is super easy and intuitive to use, and even amateur users can use it comfortably. Here are the steps to fade in text in videos using Filmora.
@@ -89,6 +108,9 @@ Step5 You can go to settings by clicking on Advanced button and adjust parameter
 
 Step6 Once you are done, play the video and thereafter, click on Export to save the video on your hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We have stated the steps on how to fade text in Premiere Pro. You can use the same steps to apply the effect to graphical objects. We have also illustrated how to apply fade in and fade out effects between video clips and scenes using transition effects. If you are looking for an alternative and easier way to fade in texts in your videos, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -97,6 +119,9 @@ We have stated the steps on how to fade text in Premiere Pro. You can use the sa
 
 Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Launch Filmora and click on New Project option.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download and install filmora](https://images.wondershare.com/filmora/guide/create-new-project-01.png)
 
 Step2 Import the video clip under Project Media folder. Drag and drop the video clip to Timeline.
@@ -113,6 +138,9 @@ Step5 You can go to settings by clicking on Advanced button and adjust parameter
 
 Step6 Once you are done, play the video and thereafter, click on Export to save the video on your hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 We have stated the steps on how to fade text in Premiere Pro. You can use the same steps to apply the effect to graphical objects. We have also illustrated how to apply fade in and fade out effects between video clips and scenes using transition effects. If you are looking for an alternative and easier way to fade in texts in your videos, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -133,14 +161,27 @@ We have stated the steps on how to fade text in Premiere Pro. You can use the sa
 
 Want to add selective blur to make everything look smaller? Don't have any idea how to focus on specific mini-things? Then don't worry! In this article, you'll get a step-by-step process to add miniature effects to your video. At the end of the process, you'll have cinematic shots. Then start with us now! Scroll more to get pro tips!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## What Is a Miniature Effect?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![after adding a miniature effect](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-1.jpg)
 
 But first, let's learn the logic of making the miniature effect. As many video editing pros present on Tiktok, the miniature effect is a fun way to brighten up your photography or video shots. For example, when taking a video or a time-lapse of a landscape, we always have a bigger depth of field, so most objects in the frame are in focus.
 
 However, when we film a miniature model, the depth of field is shallow. So, we only see some objects in focus, and the rest is blurry. This visual trick makes our brain believe that the big landscape we're seeing is actually a tiny model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![a miniature effect for landscape](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-2.jpg)
 
 To create a miniature look, we can use specific effects to fake a shallow depth of field, and then the landscape view will look like a tiny model. While some keys to notice before making the miniature effect are:
@@ -194,6 +235,9 @@ Want to get stock media? You can only have access to the stock media library if 
 
 As we are working on miniature effects, what do we need first? First, we ensure that we have a **Blur** effect on the video.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![search for the blur effect on effect panel in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-5.gif)
 
 To add a blur effect from the panel, follow the below-mentioned steps:
@@ -224,6 +268,9 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 * Then, if you still want more blurriness, add **Blur 2** effect multiple times on the video.
 * Finally, add effect by just the **Drag and Drop**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![add blur effect in video multiple times](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-7.gif)
 
 ##### Step6 Drop the same video clip
@@ -232,6 +279,9 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 * Add it by just the **Drag and Drop**
 * Make sure you add it to 2nd video track in the timeline above the first one.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
 
 ##### Step7 Add masks on the Video
@@ -246,6 +296,9 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 
 ![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** you can adjust the mask size and position by rotating and changing its shape.
@@ -271,6 +324,9 @@ Want to change the shape of the mask? Then follow the below steps:
 * Then click on the **Mask** tab to open it.
 * Select the **Rectangular** mask from the list and apply it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** make sure you are masking the same extent and excluding the object you want to be out of focus.
@@ -281,6 +337,9 @@ Now, it's time to mask the whole object, which is far, but we want to make it in
 * Then add a mask in a **Rectangle** shape on the building.
 * Don't **blur** the edge of this mask.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![mask the object far from the camera for the main focus](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-13.gif)
 
 ##### Step8 Final Look
@@ -325,6 +384,9 @@ Want to get stock media? You can only have access to the stock media library if 
 
 As we are working on miniature effects, what do we need first? First, we ensure that we have a **Blur** effect on the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![search for the blur effect on effect panel in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-5.gif)
 
 To add a blur effect from the panel, follow the below-mentioned steps:
@@ -345,6 +407,9 @@ After selecting and downloading the blur effect, it's time to add it to the vide
 * **First, drag** and **Drop** the effect toward the timeline.
 * Then, make sure to release the effect on the video to give it a lens blur appearance.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add effect on the video in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-6.gif)
 
 ##### Step5 Add the effect multiple times
@@ -363,6 +428,9 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 * Add it by just the **Drag and Drop**
 * Make sure you add it to 2nd video track in the timeline above the first one.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
 
 ##### Step7 Add masks on the Video
@@ -377,12 +445,18 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 
 ![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** you can adjust the mask size and position by rotating and changing its shape.
 
 Watch the rotating and adjusting actions as shown below!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![rotation of mask in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-10.gif)
 
 For example, when we add a mask in the below time-lapse video, follow the above mask adjustments. Unfortunately, we can't get good results. Therefore, we will apply another way to add a mask by changing shape and position. Follow the instructions for modifications:
@@ -458,6 +532,9 @@ Using these two websites, you can easily find the YouTube video clip you want to
 
 The straightforward interface has just one function. Enter the start and end times in the box after entering the right YouTube link, then click **“Crop!”** to create a string of links.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![click crop](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-1.jpg)
 
 1. [YouTube Trimmer](https://www.youtubetrimmer.com/)
@@ -506,10 +583,16 @@ Step3After uploading the media file, Click on **'Trim'** from the editing sectio
 
 Step4A pop-up screen will appear on your screen labeled as Trim Video. Trim the parts of the video as per your requirement and Click **'Trim'** to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trim](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-10.jpg)
 
 Step5Once you have completed editing, click on **'Export'** to save the video to your device.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to trim YouTube videos on a desktop?
 
 Using an online video trimmer has been one of the last options that anyone would consider, but due to the expensive software, they have turned out to be a friendly and easy approach to editing videos. But the online video trimmers still rank at the bottom of the list because they're unstable, and you can't save the project at any time. If the online program breaks down, all your effort will be wasted. But desktop programs such as Filmora will never make you encounter such problems unless you experience a technical glitch.
@@ -524,6 +607,9 @@ Step1Click **"Import"** on the main windows and then select the desired video fi
 
 Step2By moving the playhead over the unwanted section and choosing the trash can icon, you can delete it.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choosing the trash can icon](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-12.jpg)
 
 Step3When you're through trimming, click **"Export"**, then select a location to store the edited video.
@@ -560,14 +646,23 @@ Having multiple transitions can create a unique look for your videos with minima
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![add transitions art video](https://images.wondershare.com/filmora/article-images/2022/07/add-transitions-art-video.jpg)
 
 As you can see here, I have duplicated my image onto separate channels as to always keep the image in the scene.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![duplicated image onto separate channels](https://images.wondershare.com/filmora/article-images/2022/07/duplicated-image-onto-separate-channels.jpg)
 
 In the image above you can see how I used multiple transitions, I did this as my image is off center and I wanted to emphasize that, I picked transitions that had clear symmetry and lines so that the viewer had a reference point of where center was without me having to place that in my art. This is a very useful way of adding information to your art without telling the viewer directly. As for the color theory, I went with oranges and yellows predominantly here as they are neighboring colors on the color wheel and we know they work well together with my main color of yellow. As for the composition I have tried to keep all the eye-catching points along the top third of the image as to create a piece more pleasing to the eye even with all this information going on.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Effects
 
 The inclusion of effect onto your art should not be discouraged depending on what the art is used for, in my example i created this as though it was album art and the musician wanted to upload a simple music video using that art, on its own it is static and can loose engagement but by applying relevant effects you can capture the viewer's eye and make the listening experience more enjoyable. Effects can also be stacked to create unique assets for your art and help tell a story, if your art includes fire why not add a fire effect breaking the stillness of the image or maybe your art has motion, you could include a motion effect to your still image and give the viewer more information.
@@ -578,10 +673,16 @@ Even when using effects you can use fundamentals such as color theory or composi
 
 In this image you can see I have added an audio visualizer effect as well as a spectral light effect. I did this to reinforce the face of my image having a strong light source, it creates dynamic movement and the audio visualizer was added due to the nature of the video being music oriented but I felt this could have been done better. The composition of the audio visualizer was front and center and seemed boring and uninteresting. This is where the research into art fundamentals comes into play as remembering the rule of thirds and how all the main features of the image are in the top horizontal third, we can make use of the vertical thirds to gain a better composition and hopefully create more engagement.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pewview art video effects](https://images.wondershare.com/filmora/article-images/2022/07/pewview-art-video-effects.jpg)
 
 As you can see, we have duplicated the audio visualizer and made better use of the thirds nor having opposing placement within the scene, the same information is being given by the effect but we have managed to use the space more effectively and created a visually pleasing aesthetic to our video. Trick like this can make your still image feel more animated and have more purpose within the video itself.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Adding Titles and Text
 
 Adding text is another way of adding information to your art. It's said an image can speak a thousand words but sometimes you need words to talk for an image. When words are needed for your video, there should be some thought into how them words are presented as just selecting any text and inserting that to your video may look jarring to the viewer and result in a loss of interest towards your videos. Selecting the right transition for your text or the color or even the font can have different results and can help with affordance depending on what you're looking to portray.
@@ -596,6 +697,9 @@ By incorporating all the art fundamentals and skills we have learned we can use 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![add transitions art video](https://images.wondershare.com/filmora/article-images/2022/07/add-transitions-art-video.jpg)
 
 As you can see here, I have duplicated my image onto separate channels as to always keep the image in the scene.
@@ -610,6 +714,9 @@ The inclusion of effect onto your art should not be discouraged depending on wha
 
 Even when using effects you can use fundamentals such as color theory or composition to better enhance your imagery.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![choose effect art video](https://images.wondershare.com/filmora/article-images/2022/07/choose-effect-art-video.jpg)
 
 In this image you can see I have added an audio visualizer effect as well as a spectral light effect. I did this to reinforce the face of my image having a strong light source, it creates dynamic movement and the audio visualizer was added due to the nature of the video being music oriented but I felt this could have been done better. The composition of the audio visualizer was front and center and seemed boring and uninteresting. This is where the research into art fundamentals comes into play as remembering the rule of thirds and how all the main features of the image are in the top horizontal third, we can make use of the vertical thirds to gain a better composition and hopefully create more engagement.
@@ -618,10 +725,16 @@ In this image you can see I have added an audio visualizer effect as well as a s
 
 As you can see, we have duplicated the audio visualizer and made better use of the thirds nor having opposing placement within the scene, the same information is being given by the effect but we have managed to use the space more effectively and created a visually pleasing aesthetic to our video. Trick like this can make your still image feel more animated and have more purpose within the video itself.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Adding Titles and Text
 
 Adding text is another way of adding information to your art. It's said an image can speak a thousand words but sometimes you need words to talk for an image. When words are needed for your video, there should be some thought into how them words are presented as just selecting any text and inserting that to your video may look jarring to the viewer and result in a loss of interest towards your videos. Selecting the right transition for your text or the color or even the font can have different results and can help with affordance depending on what you're looking to portray.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add text title art video](https://images.wondershare.com/filmora/article-images/2022/07/add-text-title-art-video.jpg)
 
 In my example I wanted to say thank you and felt sharp edges would seem formal and because of the main image it would be too similar so I went with a font that was more rounded. When inserting text onto a scene such as this one you are given a lot of information for your selections, we already have color in there to help us choose our font and background color, I went with yellow and pink due to the fact it was already in the scene and I didn’t want to take the attention away from the focus. The way the text transitions onto the screen secures just enough attention to itself that the viewer knows it's there and can read it if they wish to. If I wanted to gain full attention i would have picked a transition that overlaps the key element and picked complementary colors on the opposite sides of the color wheel guaranteeing the viewer's eyes would notice and engage with the motion.
@@ -648,3 +761,56 @@ By incorporating all the art fundamentals and skills we have learned we can use 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-creative-channel-titling-techniques-for-growth/"><u>[New] In 2024, Creative Channel Titling Techniques for Growth</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-income-levels-of-mr-beast/"><u>[New] Income Levels of Mr. Beast</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-a-beginners-primer-to-modifying-your-status-on-discord/"><u>[Updated] In 2024, A Beginner's Primer to Modifying Your Status on Discord</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-secrets-of-the-top-8-social-apps-for-popularity-on-facebook-platform/"><u>[Updated] In 2024, Secrets of the Top 8 Social Apps for Popularity on Facebook Platform</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-leading-live-game-networks-unveiled/"><u>2024 Approved  Leading Live Game Networks Unveiled</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-parable-pedagogues-group-ultimate-eight/"><u>2024 Approved  Parable Pedagogues Group - Ultimate Eight</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-movie-sneak-peeks-ensemble/"><u>2024 Approved  Premier Movie Sneak Peeks Ensemble</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-sizzling-stories-from-tiktoks-foodies/"><u>2024 Approved  Sizzling Stories From TikTok's Foodies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-create-the-night-to-day-effect-videos/"><u>2024 Approved Create the Night-to-Day Effect Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-create-your-slow-zoom-tiktok-in-minutes/"><u>2024 Approved Create Your Slow Zoom TikTok in Minutes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-creating-video-testimonials/"><u>2024 Approved Creating Video Testimonials</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-cropping-a-video-in-final-cut-pro-step-by-step/"><u>2024 Approved Cropping a Video in Final Cut Pro Step by Step</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-deep-learning-of-ai-video-recognition/"><u>2024 Approved Deep Learning of AI Video Recognition</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-deleting-white-background-in-photoshop-is-hard-no/"><u>2024 Approved Deleting White Background in Photoshop Is Hard? No</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/copyrights-and-creatives-uploading-tiktoks-safely/"><u>Copyrights and Creatives  Uploading TikToks Safely</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-the-night-to-day-effect-videos-for-2024/"><u>Create the Night-to-Day Effect Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-the-stranger-things-upside-down-effect-video-for-2024/"><u>Create the Stranger Things Upside Down Effect Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-your-face-zoom-tiktok-now-for-2024/"><u>Create Your Face Zoom TikTok Now for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/creating-video-testimonials-for-2024/"><u>Creating Video Testimonials for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/cropping-a-video-in-final-cut-pro-step-by-step-for-2024/"><u>Cropping a Video in Final Cut Pro Step by Step for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/cropping-video-in-vlc-step-by-step-for-2024/"><u>Cropping Video in VLC Step by Step for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/customize-powerpoint-slideshow-icon-in-8-simple-ways-for-2024/"><u>Customize PowerPoint Slideshow Icon in 8 Simple Ways for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/deleting-white-background-in-photoshop-is-hard-no-for-2024/"><u>Deleting White Background in Photoshop Is Hard? No for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-for-2024/"><u>Demystifying the Vectorscope A Comprehensive Guide for Premiere Pro Color Correction for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-create-the-night-to-day-effect-videos/"><u>In 2024, Create the Night-to-Day Effect Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-create-your-face-zoom-tiktok-now/"><u>In 2024, Create Your Face Zoom TikTok Now</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-create-your-slow-zoom-tiktok-in-minutes/"><u>In 2024, Create Your Slow Zoom TikTok in Minutes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-creating-testimonial-videos-for-health-and-wellness-business-industry/"><u>In 2024, Creating Testimonial Videos For Health And Wellness Business Industry</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-creating-video-testimonials/"><u>In 2024, Creating Video Testimonials</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-cropping-a-video-in-final-cut-pro-step-by-step/"><u>In 2024, Cropping a Video in Final Cut Pro Step by Step</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-customize-powerpoint-slideshow-icon-in-8-simple-ways/"><u>In 2024, Customize PowerPoint Slideshow Icon in 8 Simple Ways</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-deep-learning-of-ai-video-recognition/"><u>In 2024, Deep Learning of AI Video Recognition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-go-2023-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark Go (2023) Phone without Any Data Loss</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-create-the-night-to-day-effect-videos/"><u>New Create the Night-to-Day Effect Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-create-the-stranger-things-upside-down-effect-video/"><u>New Create the Stranger Things Upside Down Effect Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-create-your-slow-zoom-tiktok-in-minutes/"><u>New Create Your Slow Zoom TikTok in Minutes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-creating-testimonial-videos-for-health-and-wellness-business-industry/"><u>New Creating Testimonial Videos For Health And Wellness Business Industry</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-cropping-a-video-in-final-cut-pro-step-by-step/"><u>New Cropping a Video in Final Cut Pro Step by Step</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-cropping-video-in-vlc-step-by-step/"><u>New Cropping Video in VLC Step by Step</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-customize-powerpoint-slideshow-icon-in-8-simple-ways/"><u>New Customize PowerPoint Slideshow Icon in 8 Simple Ways</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-deep-learning-of-ai-video-recognition/"><u>New Deep Learning of AI Video Recognition</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-deleting-white-background-in-photoshop-is-hard-no/"><u>New Deleting White Background in Photoshop Is Hard? No</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-poco-f5-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Poco F5 5G</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-guide-10-superior-sound-recording-programs-for-2024/"><u>The Ultimate Guide 10 Superior Sound Recording Programs for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-create-slide-masking-effect-intro/"><u>Updated Create Slide Masking Effect Intro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-create-the-night-to-day-effect-videos/"><u>Updated Create the Night-to-Day Effect Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-creating-video-testimonials/"><u>Updated Creating Video Testimonials</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-customize-powerpoint-slideshow-icon-in-8-simple-ways/"><u>Updated Customize PowerPoint Slideshow Icon in 8 Simple Ways</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-deep-learning-of-ai-video-recognition/"><u>Updated Deep Learning of AI Video Recognition</u></a></li>
+</ul></div>

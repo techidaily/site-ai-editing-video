@@ -1,7 +1,7 @@
 ---
 title: New Guide to Add Transition Effects in Premiere Pro
-date: 2024-05-20T03:38:03.684Z
-updated: 2024-05-21T03:38:03.684Z
+date: 2024-07-20T11:42:51.532Z
+updated: 2024-07-21T11:42:51.532Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Guide to Add Transition Effects in Premiere Pro
 excerpt: This Article Describes New Guide to Add Transition Effects in Premiere Pro
 keywords: how to add transitions in adobe premiere pro,ai animation guide to add transition effects in premiere pro,how to add effects in premiere pro,guide to add transition effects in premiere pro,ai animation how to add effects in premiere pro,add transitions in adobe premiere pro,ai animation ai animation guide to add transition effects in premiere pro
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## Guide to Add Transition Effects in Premiere Pro
@@ -19,6 +19,9 @@ Shooting a video is a job half done and editing the video is equally important. 
 
 Premiere Pro is not the most user-friendly video editor, and the learning curve is rather steep. That is why you need to know how to add transitions in Premiere accurately so that the cuts in your videos look eye-soothing. You also need to learn about how to edit the transition effects in Premier Pro to suit your requirements and preferences. We have illustrated how to add and edit transitions in Premium Pro as well as mentioned an alternative way to add video transitions easily.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to add transitions in Premiere
 
 Adding transitions to videos is very common in video editing. Premiere Pro is popular for its variety of video transition effects. Applying video transition effects in Premiere Pro is very easy. You get access to transitions from Effects panel that is located at the topmost bar. Here are the steps on how to add transition effects in Premiere Pro.
@@ -33,6 +36,9 @@ Step2 Drag the video clip from the Project panel and drop it to Timeline for add
 
 Step3 Go to Effects tab located at the top and click on Video transitions option.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![video transitions in premiere](https://images.wondershare.com/filmora/article-images/2022/07/video-transitions-in-premiere.jpg)
 
 Step4 You will see different categories of video transitions and select your desired transition.
@@ -59,6 +65,9 @@ Step4 You can adjust the slider below A label to change the start time of the tr
 
 Step5 Instead of setting the start and end time of the transition, you can set the duration of the transition as a whole. Go to Duration option located above A and B labels and drag right and left to change the duration.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![effects control duration](https://images.wondershare.com/filmora/article-images/2022/07/effects-control-duration.jpg)
 
 Step6 You can also change the Alignment to place the transition as a Center at cut, Star at Cut, and End at cut of video clips.
@@ -83,6 +92,9 @@ Step1 Open [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Step2 Drag and drop the video clips on Timeline. If it is one video clip, you can cut it into multiple clips to add transitions in between them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![drag and drop video clips](https://images.wondershare.com/filmora/guide/panel-layout-01.png)
 
 Step3 There are different categories of transition effects and drag and drop your desired transition on the Timeline.
@@ -93,12 +105,21 @@ Step4 Place the transitions in between video clips and drag the transition as pe
 
 ![click on export button](https://images.wondershare.com/filmora/guide/add-transitions-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Part 4\. Related FAQs about Premiere Transitions
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How do I add transitions to all clips in Premiere?
 
 Import all the video clips to Timeline in Premiere. Go to Effects> Video Transitions and drag and drop the video transitions of your choice to Timeline. You should place the transitions in between the video clips and adjust their duration as per your requirements for smoother transition for jump cuts.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Where are the transitions in Premiere Pro?
 
 The transitions are present under Effects tab located at the topmost bar. There are different types of video transitions as well as audio transitions available. If you are looking for how to add text transitions in Premiere Pro, you can type the text and add effects from Graphics tab.
@@ -115,10 +136,16 @@ We have illustrated how to add a transition in Premiere in simple steps. Besides
 
 Step1 Open [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and click on New Project. Drag and drop your video clips under Project Media folder.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open filmora and click on new project](https://images.wondershare.com/filmora/guide/open-project-02.png)
 
 Step2 Drag and drop the video clips on Timeline. If it is one video clip, you can cut it into multiple clips to add transitions in between them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag and drop video clips](https://images.wondershare.com/filmora/guide/panel-layout-01.png)
 
 Step3 There are different categories of transition effects and drag and drop your desired transition on the Timeline.
@@ -127,22 +154,37 @@ Step3 There are different categories of transition effects and drag and drop you
 
 Step4 Place the transitions in between video clips and drag the transition as per the duration requirements. Play the video and once you are satisfied, click on Export button to save the video.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![click on export button](https://images.wondershare.com/filmora/guide/add-transitions-2.png)
 
 ## Part 4\. Related FAQs about Premiere Transitions
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How do I add transitions to all clips in Premiere?
 
 Import all the video clips to Timeline in Premiere. Go to Effects> Video Transitions and drag and drop the video transitions of your choice to Timeline. You should place the transitions in between the video clips and adjust their duration as per your requirements for smoother transition for jump cuts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Where are the transitions in Premiere Pro?
 
 The transitions are present under Effects tab located at the topmost bar. There are different types of video transitions as well as audio transitions available. If you are looking for how to add text transitions in Premiere Pro, you can type the text and add effects from Graphics tab.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to add transitions to photos in Premiere Pro?
 
 Adding transitions to photos in Premiere Pro is the same as videos. Therefore, you should import photos to Project panel and drag and drop them to Timeline. Go to Effects> Video Transitions and drop the selected transitions in between the photos.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 We have illustrated how to add a transition in Premiere in simple steps. Besides, we have also explained how to edit the transitions in Premiere to fit in your video clips perfectly. If you are looking for an alternative to Premiere Pro for adding video transitions, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) where there are more transitions, and the user interface is super easy and intuitive.
@@ -175,6 +217,9 @@ Before diving into any details, it is important to introduce you to what is a Yo
 
 There are two popular online YouTube trimmers available; one only allows you to edit the YouTube link, which means you can only view the edited video online, while the other allows you to do related operations on the video file and download and save it as an mp4 or other file type for offline viewing.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to online trim YouTube videos?
 
 ### 1\. Online YouTube trimmer (no edit and download)
@@ -195,6 +240,9 @@ The video's beginning and ending times are selected in the same way as on the pr
 
 Once you are done trimming your videos, you can download or export your videos in different formats, depending on your preference. It can be in mp4, mp3, or any other supported format.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### 2\. Online YouTube trimmer (edit and download)
 
 The websites that are listed after that combine an online YouTube downloader with a video editor, allowing you to make a variety of further edits to the selected video clip before downloading it locally.
@@ -225,6 +273,9 @@ Step1Launch Kapwing.com on your web browser. If you are not directed to the trim
 
 Step2From the main page, click 'Click to upload' to upload the media file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![click to upload](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-8.jpg)
 
 Step3After uploading the media file, Click on **'Trim'** from the editing section on the right side of the screen.
@@ -233,6 +284,9 @@ Step3After uploading the media file, Click on **'Trim'** from the editing sectio
 
 Step4A pop-up screen will appear on your screen labeled as Trim Video. Trim the parts of the video as per your requirement and Click **'Trim'** to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trim](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-10.jpg)
 
 Step5Once you have completed editing, click on **'Export'** to save the video to your device.
@@ -247,6 +301,9 @@ With the help of a variety of strong editing tools and [Wondershare Filmora](htt
 
 Step1Click **"Import"** on the main windows and then select the desired video files from your computer to add video files to the Timeline for cutting. Movies can also be dropped directly into the Media Library.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![import](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-11.jpg)
 
 Step2By moving the playhead over the unwanted section and choosing the trash can icon, you can delete it.
@@ -275,6 +332,9 @@ Depending on the comparison of how different software work, it is justifiable to
 
 A loop fashion lookbook will be familiar to you if you are a fashion YouTuber. Here we will show you how to record shots and make a creative lookbook to show off your best outfits in an excellent way with Wondershare Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![loop video](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-1.gif)
 
 ## Shots recording for loop masking
@@ -293,10 +353,16 @@ Step2 Set it so that you have a door on one side and enough room for the subject
 
 Step3 Make sure all your outfits are ready.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![outfits ready](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-4.png)
 
 Step4 Start recording on your camera. Walk through the door wearing the first outfit. Change your outfits and repeat the step with all your dresses. It would help if you kept the camera rolling while recording all these clips. Turning the recording on and off with every shot will result in many small movements.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Editing footage with a professional video editor - Wondershare Filmora
 
 After recording the shots, the next step is to edit them. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best software for this purpose. Creating a loop video using filmora is an easy task.
@@ -307,6 +373,10 @@ After recording the shots, the next step is to edit them. [Wondershare Filmora](
 
 Below is the step-by-step guide on using Wondershare Filmora to create a loop masking or lookbook video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### How to edit a loop lookbook video
 
 Step1 Download and install Wondershare Filmora on your PC or Mac.
@@ -329,22 +399,37 @@ Step5 We are done with the first track so lock it.
 
 Step6 Import the clip again on the second track. And find the sections of the clips where the subject is walking in the video. Cut the remaining part.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![import the clip on the second track](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-9.gif)
 
 Step7 It will create several small sections on the second track.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![second track sections](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-10.png)
 
 Step8 Put the first clip at the start of the timeline and move the playhead to find the frame containing enough room for the second outfit.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![put the first outfit clip](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-11.gif)
 
 Step9 Move the second outfit to that playhead area.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![put the second outfit](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-12.gif)
 
 Step10 Double-click on the clip, go to effects, and choose a single-line mask.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![choose single line mask](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-13.gif)
 
 Step11 Drag the mask to the point where it shows the outfit on its right side.
@@ -357,10 +442,16 @@ Step12 Blur the mask edges by increasing blur numbers.
 
 Step13 Click on the add button to add a mask keyframe and move the play head forward until the first outfit leaves the frame.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![add a mask keyframe](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-16.gif)
 
 Step14 Move the mask to the left to reveal the entire frame, and repeat the same process with all outfits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reveal the frame and repeat with all outfits](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-17.gif)
 
 Step15 After finishing all outfits, copy the clip from the first outfit. And paste it on top of all the tracks after the last outfit. And add a mask keyframe to this section too.
@@ -373,6 +464,14 @@ Step16 Unlock the first track and move the playhead to find the point where the 
 
 Step17 Now move the playhead to the first frame and find where it coincides with the last part of the final frame. Cut the previous piece.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move playhead to first frame](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-20.gif)
 
 Post it on Instagram, and it will keep playing automatically and act like a loop video. Otherwise, duplicate this edited clip several times to create a longer loop video. Background music plays a vital role in these videos, setting the tone and pace. Follow all the steps in the correct order. Then, create and post loop videos on your social media platforms.
@@ -381,6 +480,9 @@ Post it on Instagram, and it will keep playing automatically and act like a loop
 
 Below is the step-by-step guide on using Wondershare Filmora to create a loop masking or lookbook video.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to edit a loop lookbook video
 
 Step1 Download and install Wondershare Filmora on your PC or Mac.
@@ -391,10 +493,16 @@ Step2 Launch Wondershare Filmora, import the video clip into Filmora and place i
 
 Step3 Find a frame with an empty background, i.e., without the subject, and freeze the frame.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![empty background frame](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-6.png)
 
 Step4 Extend the frozen frame and cut out the rest of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![extend the frozen frame](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-7.png)
 
 Step5 We are done with the first track so lock it.
@@ -423,6 +531,9 @@ Step10 Double-click on the clip, go to effects, and choose a single-line mask.
 
 Step11 Drag the mask to the point where it shows the outfit on its right side.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag the mask line](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-14.gif)
 
 Step12 Blur the mask edges by increasing blur numbers.
@@ -443,6 +554,9 @@ Step15 After finishing all outfits, copy the clip from the first outfit. And pas
 
 Step16 Unlock the first track and move the playhead to find the point where the subject with 4th outfit moves out of the frame. Then, cut the remaining part of the freeze frame on the right.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![unlock first track](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-19.gif)
 
 Step17 Now move the playhead to the first frame and find where it coincides with the last part of the final frame. Cut the previous piece.
@@ -465,6 +579,9 @@ Going by the same, Wondershare Filmora offers different video and audio transiti
 
 The dedicated transitions tab allows Wondershare Filmora users to apply different transitions quickly and easily. Let us go into detail about creating a smooth-cut transition effect in Wondershare Filmora in this step-by-step guide.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Steps to create a smooth cut transition effect in Wondershare Filmora
 
 Wondershare Filmora is a popular video editing tool used by content creators, including social media influencers, marketers, content creators, etc. The following are the quick and detailed steps to create a smooth cut transition effect in Wondershare Filmora:
@@ -480,6 +597,9 @@ Before even jumping to the smooth-cut transition effect in Wondershare Filmora, 
 1. Go to the official website of [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 2. Go to the Download button located in the top right corner of the official website.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download button in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-smooth-transition-effect-1.jpg)
 
 1. The Filmora Installer will download quickly for your Windows or Mac system.
@@ -496,6 +616,9 @@ The first step in creating a smooth cut transition effect is to import the foota
 * Then, paste the current layer over the other layer of the footage.
 * Move towards the end of this step by unlocking the layer. Then you need to hide the below layer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![importing the footage in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-smooth-transition-effect-2.gif)
 
 ##### Step3Go to the effects tab and apply preset settings
@@ -509,6 +632,9 @@ After importing the footage and applying different layers. The next step is to g
 * You can select to blur the edges of the footage by ticking on the option.
 * Repeat the same steps for the second footage.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![effects in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-smooth-transition-effect-3.gif)
 
 ##### Step4Go to the Transitions tab
@@ -573,6 +699,18 @@ The first step in creating a smooth cut transition effect is to import the foota
 * Then, paste the current layer over the other layer of the footage.
 * Move towards the end of this step by unlocking the layer. Then you need to hide the below layer.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![importing the footage in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-smooth-transition-effect-2.gif)
 
 ##### Step3Go to the effects tab and apply preset settings
@@ -643,3 +781,69 @@ Reset the crop settings of the first footage and select the right and left param
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-from-real-time-to-leisurely-iphone-methods-for-slow-motion-video/"><u>[New] In 2024, From Real Time to Leisurely  IPhone Methods for Slow Motion Video</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-mastering-srt-file-sharing-on-social-platforms/"><u>[New] In 2024, Mastering SRT File Sharing on Social Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-step-by-step-guide-for-creating-channel-trailers-that-convert-viewers-into-customers/"><u>[Updated] 2024 Approved  A Step-by-Step Guide for Creating Channel Trailers that Convert Viewers Into Customers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-a6400-absent-actors-where-are-the-videos/"><u>[Updated] A6400 Absent Actors  Where Are the Videos?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-detailed-study-of-frozen-delights-playback-gadgets/"><u>[Updated] Detailed Study of Frozen Delights Playback Gadgets</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-ig-boomerangs-crafting-compelling-circular-content-for-2024/"><u>[Updated] IG Boomerangs  Crafting Compelling Circular Content for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photoshop-stabilizers-role-crucial-for-creatives/"><u>[Updated] Photoshop Stabilizer's Role - Crucial for Creatives?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-webcam-recording-guide-for-hp-and-chromebook-users/"><u>[Updated] Webcam Recording Guide for HP & Chromebook Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-influence-without-compromise/"><u>2024 Approved  Instagram Influence Without Compromise</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-prime-chrome-enhancements-accelerated-vimeo-access/"><u>2024 Approved  Prime Chrome Enhancements  Accelerated Vimeo Access</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-all-things-about-adding-effects-in-kinemaster/"><u>2024 Approved All Things About Adding Effects In Kinemaster</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-an-introduction-to-luts-their-overview-and-benefits/"><u>2024 Approved An Introduction to LUTs | Their Overview and Benefits</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-an-overview-of-the-best-free-luts-to-use/"><u>2024 Approved An Overview of the Best Free LUTs to Use</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-avi-editor-for-windows-11108187-easily-edit-avi-files-on-pc/"><u>2024 Approved AVI Editor for Windows 11/10/8.1/8/7 Easily Edit AVI Files on PC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-list-of-whatsapp-video-format-that-you-may-need-to-know/"><u>2024 Approved List of Whatsapp Video Format That You May Need to Know</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-srt-file-creator/"><u>2024 Approved Srt File Creator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-zoom-in-and-out-on-discord/"><u>2024 Approved Zoom In and Out on Discord</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-zoom-in-and-out-on-snapchat/"><u>2024 Approved Zoom In and Out on Snapchat</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-pova-6-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Pova 6 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-gt-5-240w-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme GT 5 (240W) PC | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-ways-to-open-the-print-management-tool-in-windows-11/"><u>9 Ways to Open the Print Management Tool in Windows 11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ai-features-of-wondershare-filmora-silence-detection-in-videos-for-2024/"><u>AI Features of Wondershare Filmora - Silence Detection in Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/all-things-about-adding-effects-in-kinemaster-for-2024/"><u>All Things About Adding Effects In Kinemaster for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/an-introduction-to-luts-their-overview-and-benefits-for-2024/"><u>An Introduction to LUTs | Their Overview and Benefits for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/an-overview-of-the-best-free-luts-to-use-for-2024/"><u>An Overview of the Best Free LUTs to Use for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-x-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone X? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/avi-editor-for-windows-11108187-easily-edit-avi-files-on-pc-for-2024/"><u>AVI Editor for Windows 11/10/8.1/8/7 Easily Edit AVI Files on PC for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-retouch-erasing-unwanted-backdrops-in-photos/"><u>Cutting-Edge Retouch  Erasing Unwanted Backdrops in Photos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-ai-features-of-wondershare-filmora-silence-detection-in-videos/"><u>In 2024, AI Features of Wondershare Filmora - Silence Detection in Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-all-things-about-adding-effects-in-kinemaster/"><u>In 2024, All Things About Adding Effects In Kinemaster</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-an-overview-of-the-best-free-luts-to-use/"><u>In 2024, An Overview of the Best Free LUTs to Use</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-avi-editor-for-windows-11108187-easily-edit-avi-files-on-pc/"><u>In 2024, AVI Editor for Windows 11/10/8.1/8/7 Easily Edit AVI Files on PC</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-sony-xperia-1-v-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Sony Xperia 1 V Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-interactive-lessons-expert-video-editing-for-classroom/"><u>In 2024, Interactive Lessons  Expert Video Editing for Classroom</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-list-of-whatsapp-video-format-that-you-may-need-to-know/"><u>In 2024, List of Whatsapp Video Format That You May Need to Know</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-zoom-in-and-out-on-snapchat/"><u>In 2024, Zoom In and Out on Snapchat</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/is-youtube-premium-worth-it-a-user-guide-for-2024/"><u>Is YouTube Premium Worth It  A User Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/list-of-whatsapp-video-format-that-you-may-need-to-know-for-2024/"><u>List of Whatsapp Video Format That You May Need to Know for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/masterful-movies-on-the-move-optical-image-correction-tech-leaders/"><u>Masterful Movies on the Move  Optical Image Correction Tech Leaders</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastery-of-gaming-understanding-and-acquiring-your-disconitro-credentials/"><u>Mastery of Gaming  Understanding and Acquiring Your DiscoNitro Credentials</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-ai-features-of-wondershare-filmora-silence-detection-in-videos/"><u>New AI Features of Wondershare Filmora - Silence Detection in Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-an-introduction-to-luts-their-overview-and-benefits/"><u>New An Introduction to LUTs | Their Overview and Benefits</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-an-overview-of-the-best-free-luts-to-use/"><u>New An Overview of the Best Free LUTs to Use</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-list-of-whatsapp-video-format-that-you-may-need-to-know/"><u>New List of Whatsapp Video Format That You May Need to Know</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-zoom-in-and-out-on-discord/"><u>New Zoom In and Out on Discord</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-zoom-in-and-out-on-snapchat/"><u>New Zoom In and Out on Snapchat</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-10-best-free-avi-concatenators-for-seamless-video-editing/"><u>The 10 Best Free AVI Concatenators for Seamless Video Editing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-10-gratis-video-call-tools-for-virtual-gatherings/"><u>Top 10 Gratis Video Call Tools for Virtual Gatherings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-creative-potential-using-google-trends-insights-for-2024/"><u>Unlocking Creative Potential Using Google Trends Insights for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-witness-the-power-of-4k-the-most-impressive-video-demos/"><u>Updated 2024 Approved Witness the Power of 4K The Most Impressive Video Demos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-ai-features-of-wondershare-filmora-silence-detection-in-videos/"><u>Updated AI Features of Wondershare Filmora - Silence Detection in Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-all-things-about-adding-effects-in-kinemaster/"><u>Updated All Things About Adding Effects In Kinemaster</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-an-introduction-to-luts-their-overview-and-benefits/"><u>Updated An Introduction to LUTs | Their Overview and Benefits</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-an-overview-of-the-best-free-luts-to-use/"><u>Updated An Overview of the Best Free LUTs to Use</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-video-slow-motion/"><u>Updated How to Make Video Slow Motion?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-srt-file-creator/"><u>Updated Srt File Creator</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-voice-text-to-speech-in-2024/"><u>Updated What Is AI Voice Text to Speech, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-zoom-in-and-out-on-discord/"><u>Updated Zoom In and Out on Discord</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/zoom-in-and-out-on-discord-for-2024/"><u>Zoom In and Out on Discord for 2024</u></a></li>
+</ul></div>
