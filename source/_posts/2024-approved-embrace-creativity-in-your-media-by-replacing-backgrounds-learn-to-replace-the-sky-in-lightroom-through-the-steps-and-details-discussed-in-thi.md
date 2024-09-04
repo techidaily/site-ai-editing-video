@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article
-date: 2024-08-03T01:10:45.469Z
-updated: 2024-08-04T01:10:45.469Z
+date: 2024-09-03T22:57:58.852Z
+updated: 2024-09-04T22:57:58.852Z
 tags: 
   - ai
   - animation videos
@@ -35,9 +35,6 @@ Humans love to show creativity and express themselves from different perspective
 * **Entertainment:** Another aim of the creator is to provide new and exciting content to the audience. It allows them to temporarily escape their world and enjoy it.
 * **Discovery:** You might have seen virtual landscapes in video games that uncover hidden secrets. Such backgrounds are designed to facilitate adventure through media.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: A Guide to Replace Sky in Lightroom: Step-by-Step
 
 As discussed earlier, [**changing the sky**](https://tools.techidaily.com/wondershare/filmora/download/) **in Lightroom** proves fruitful for many reasons. Altering media scenes can also create a powerful emotional impact. Likewise, shifting from a green meadow to a messy landscape can turn a calm mood into chaos. If you intend to replace your current media background, then let us help you. Here are the steps below to change the environment in Lightroom:
@@ -48,16 +45,10 @@ As discussed earlier, [**changing the sky**](https://tools.techidaily.com/wonder
 
 **Step 2:** Now, go to the top toolbar and press the “Edit” option next to “File.” From the drop-down list, access the “Sky Replacement” option. Head to the "Sky Replacement" panel and click the downward icon next to the sky preview. Scroll to pick one sky of your choice and hit the "OK" button.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access sky replacement feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-2.jpg)
 
 **Step 3:** To import more skies, press the “Settings” icon on the Sky Replacement panel. Select the first option of “Get More Skies” and click on “Import Images.” You can explore skies from the Blue Skies, Spectacular, and Sunsets folders from that panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![try other skies](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-3.jpg)
 
 **Step 4:** Bring this picture back to the Lightroom and go to its right-side panel. There, use the Exposure, Contrast, and Highlights sliders below the "Light" downward icon. After enhancing your image, right-click on it and look for the “Export” option to save the file.
@@ -74,9 +65,6 @@ Notably, it’s a better solution that accommodates all users from beginner prof
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features Marking Filmora’s Importance
 
 Instantly remove or change your videos and image backgrounds with Filmora. Reimagine your world by knowing the given key features of Filmora in changing backgrounds:
@@ -91,12 +79,14 @@ Applying green-screen in effect in video and images will generate professional c
 
 If you want to focus on the portrait while ignoring the background, use this feature. It can remove the background with accuracy by recognizing the main object. Filmora detects humans with AI and allows manual adjustments after removing the background. You can change the Edge Thickness and Edge Feature to the required extent.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![ai portrait filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### 3\. [Basic Background](https://tools.techidaily.com/wondershare/filmora/download/)
 
 While editing any media, you might require a blur option to hide distortion in the background. Filmora offers background blur options with different types and styles in them. You can opt for a Pattern, Color, and blur option from blur types. Then, it allows you to choose from blur styles like Grainy, Direction, and Radial. Afterward, users can select the level of blur as per their choice.
@@ -107,14 +97,8 @@ While editing any media, you might require a blur option to hide distortion in t
 
 Aside from changing background, you can unleash your creativity with an AI Image stylizer. It's the latest feature of Filmora that can turn your image into a devil, clown, or zombie. If you want to follow certain social media trends of making anime, explore this feature. You can find 19 styles that also include soft image looks like Flower and Angel image styles.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![ai image filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Steps to Change Background with Different Ways Using Filmora
 
 Instead of **lightroom sky replacement**, Filmora offers the simplest way to edit images and videos. Let’s explore the quickest ways to change backgrounds using Filmora.
@@ -137,12 +121,24 @@ From the media panel, use “Import” and bring your media to the Timeline sect
 
 ![using chroma key feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3: Continue Editing or Export Media at Desired Location**
 
 When you have finished the editing, move to the "Export" option at the top right. Using the "Export" window, define parameters and export the file wherever you want.
 
 ![export final video](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Method 2: Accessing AI Portrait
 
 **Step 1: Set the Videos at the Correct Place in the Timeline**
@@ -151,6 +147,12 @@ Import your Background video and main clips in the media panel. Drag the main vi
 
 ![adding clips in filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2: Explore and Utilize AI Portrait for Changing Background**
 
 Head to the right-side panel and access the AI tools option for choosing “AI Portrait.” Toggle this option and get the background automatically changed. To further enhance, you can use “Edge Thickness” and “Edge Feather” sliders.
@@ -163,11 +165,14 @@ Head to the right-side panel and access the AI tools option for choosing “AI P
 
 Drag your main video in the timeline. Then, tap the "Stock Media" icon from the toolbar of the media panel. Browse one background clip and bring it to the timeline at the second track.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![adding background from stock media](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2: Draw a Mask to Replace the Background with Stock Media**
 
 Look for the “Mask” option before the “AI tools” option on the right-side panel. Pick the “Draw Mask” icon and try to draw the lines around the main figure. When you finish drawing, the background will be replaced. You can use the “Blur Strength” slider to give a natural look.
@@ -175,7 +180,16 @@ Look for the “Mask” option before the “AI tools” option on the right-sid
 ![using mask to change background](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<span id="1993651">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -183,9 +197,6 @@ In short, sky replacement is a feature of Adobe Photoshop that turns clear skies
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## Part 1: Why Do Creators Look Forward to Changing the Environment Across Their Recorded or Captured Media?
@@ -198,9 +209,6 @@ Humans love to show creativity and express themselves from different perspective
 * **Entertainment:** Another aim of the creator is to provide new and exciting content to the audience. It allows them to temporarily escape their world and enjoy it.
 * **Discovery:** You might have seen virtual landscapes in video games that uncover hidden secrets. Such backgrounds are designed to facilitate adventure through media.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: A Guide to Replace Sky in Lightroom: Step-by-Step
 
 As discussed earlier, [**changing the sky**](https://tools.techidaily.com/wondershare/filmora/download/) **in Lightroom** proves fruitful for many reasons. Altering media scenes can also create a powerful emotional impact. Likewise, shifting from a green meadow to a messy landscape can turn a calm mood into chaos. If you intend to replace your current media background, then let us help you. Here are the steps below to change the environment in Lightroom:
@@ -209,29 +217,47 @@ As discussed earlier, [**changing the sky**](https://tools.techidaily.com/wonder
 
 ![open image in photoshop](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2:** Now, go to the top toolbar and press the “Edit” option next to “File.” From the drop-down list, access the “Sky Replacement” option. Head to the "Sky Replacement" panel and click the downward icon next to the sky preview. Scroll to pick one sky of your choice and hit the "OK" button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![access sky replacement feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** To import more skies, press the “Settings” icon on the Sky Replacement panel. Select the first option of “Get More Skies” and click on “Import Images.” You can explore skies from the Blue Skies, Spectacular, and Sunsets folders from that panel.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![try other skies](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** Bring this picture back to the Lightroom and go to its right-side panel. There, use the Exposure, Contrast, and Highlights sliders below the "Light" downward icon. After enhancing your image, right-click on it and look for the “Export” option to save the file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![change image parameters in lightroom](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: Make Background Changing Easy with Wondershare Filmora
 
@@ -253,24 +279,54 @@ Applying green-screen in effect in video and images will generate professional c
 
 ![chroma key filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="150" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### 2\. [AI Portrait](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you want to focus on the portrait while ignoring the background, use this feature. It can remove the background with accuracy by recognizing the main object. Filmora detects humans with AI and allows manual adjustments after removing the background. You can change the Edge Thickness and Edge Feature to the required extent.
 
 ![ai portrait filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### 3\. [Basic Background](https://tools.techidaily.com/wondershare/filmora/download/)
 
 While editing any media, you might require a blur option to hide distortion in the background. Filmora offers background blur options with different types and styles in them. You can opt for a Pattern, Color, and blur option from blur types. Then, it allows you to choose from blur styles like Grainy, Direction, and Radial. Afterward, users can select the level of blur as per their choice.
 
 ![background changing filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### 4\. [AI Image Stylizer](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Aside from changing background, you can unleash your creativity with an AI Image stylizer. It's the latest feature of Filmora that can turn your image into a devil, clown, or zombie. If you want to follow certain social media trends of making anime, explore this feature. You can find 19 styles that also include soft image looks like Flower and Angel image styles.
 
 ![ai image filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to Change Background with Different Ways Using Filmora
 
 Instead of **lightroom sky replacement**, Filmora offers the simplest way to edit images and videos. Let’s explore the quickest ways to change backgrounds using Filmora.
@@ -285,27 +341,24 @@ Instead of **lightroom sky replacement**, Filmora offers the simplest way to edi
 
 Successfully launch the latest version of Filmora in your system. Double-tap on it to enter the home screen. Click on “New Project” and access the editing screen of Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![opening new project filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2: Use the Chroma Key and Change the Background**
 
 From the media panel, use “Import” and bring your media to the Timeline section. Place the background video first and then bring the Main Clip below it. Head to the right-side panel and press the “AI Tools” option from the top. Now enable the “Chroma Key” option, and the background will be replaced. You can adjust the edges through “Edge Thickness” and “Edge Feather” sliders.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using chroma key feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-10.jpg)
 
 **Step 3: Continue Editing or Export Media at Desired Location**
 
 When you have finished the editing, move to the "Export" option at the top right. Using the "Export" window, define parameters and export the file wherever you want.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![export final video](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-11.jpg)
 
 #### Method 2: Accessing AI Portrait
@@ -316,13 +369,16 @@ Import your Background video and main clips in the media panel. Drag the main vi
 
 ![adding clips in filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2: Explore and Utilize AI Portrait for Changing Background**
 
 Head to the right-side panel and access the AI tools option for choosing “AI Portrait.” Toggle this option and get the background automatically changed. To further enhance, you can use “Edge Thickness” and “Edge Feather” sliders.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using ai portrait feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-13.jpg)
 
 #### Method 3: Change the Background through Masking
@@ -333,6 +389,12 @@ Drag your main video in the timeline. Then, tap the "Stock Media" icon from the 
 
 ![adding background from stock media](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2: Draw a Mask to Replace the Background with Stock Media**
 
 Look for the “Mask” option before the “AI tools” option on the right-side panel. Pick the “Draw Mask” icon and try to draw the lines around the main figure. When you finish drawing, the background will be replaced. You can use the “Blur Strength” slider to give a natural look.
@@ -355,20 +417,20 @@ In short, sky replacement is a feature of Adobe Photoshop that turns clear skies
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Vintage Film Effect 1990S - How to Make
 
 In the 90s, movie production technology improved a lot. This decade saw horror movies become much more fun and immersive than in the 80s and 50s because they were more psychological. In fact, we can say that the horror movies of the 90s laid the foundation for current horror movies. So, without wasting time, let's create a 1990s horror movie similar to The Blair Witch Project.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Preparation
 
 ![1990s vintage scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-scene.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The preparation for this horror film production is relatively self-explanatory if you've watched The Blair Witch Project. Simply shoot footage inside a dark room and apply some light to your face. It's even better if you can shoot the video inside the woods. Just add some drama and a few screaming scenes to evoke emotions.
 
 How to create a 1990s horror film with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/):
@@ -387,166 +449,18 @@ Open Wondershare Filmora on your computer, then load the video you want to edit.
 
 ![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
 
-Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
-
-![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
-
-Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
-
-##### Step3 Add creepiness to the video
-
-![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
-
-Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
-
-![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
-
-We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
-
-##### Step4 Add a retro filming effect
-
-![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
-
-Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
-
-![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
-
-## Summary
-
-That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-##### Step1 Add the horror video to the timeline
-
-![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
-
-Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
-
-##### Step2 Apply color grading
-
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
-
-Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
-
-![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
-
-Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
-
-##### Step3 Add creepiness to the video
-
-![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
-
-Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
-
-We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
-
-##### Step4 Add a retro filming effect
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
-
-Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
-![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-## Summary
-
-That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-##### Step1 Add the horror video to the timeline
-
-![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
-
-Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
-
-##### Step2 Apply color grading
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
-![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
-
-Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
-
-![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
-
-Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
-
-##### Step3 Add creepiness to the video
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
-![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
-
-Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
-
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
-
-We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
-
-##### Step4 Add a retro filming effect
-
-![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
-
-Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
-
-![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+<span id="1975658">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## Summary
-
-That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-##### Step1 Add the horror video to the timeline
-
-![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
-
-Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
-
-##### Step2 Apply color grading
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
-
 Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
 
 ![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
@@ -565,20 +479,251 @@ We'll now change the size and positioning of the smokescreen effect to match the
 
 ##### Step4 Add a retro filming effect
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
 
 Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
 
+![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
+
+## Summary
+
+That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+##### Step1 Add the horror video to the timeline
+
+![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
+
+##### Step2 Apply color grading
+
+![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
+
+Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
+
+![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
+
+Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
+
+##### Step3 Add creepiness to the video
+
+![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
+
+Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
+
+![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
+
+##### Step4 Add a retro filming effect
+
+![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
+
 ![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<span id="2135472">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="150" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Summary
+
+That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+##### Step1 Add the horror video to the timeline
+
+![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
+
+##### Step2 Apply color grading
+
+![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
+
+![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
+
+Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
+
+##### Step3 Add creepiness to the video
+
+![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
+
+![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
+
+##### Step4 Add a retro filming effect
+
+![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
+
+Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
+
+![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Summary
+
+That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+##### Step1 Add the horror video to the timeline
+
+![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
+
+##### Step2 Apply color grading
+
+![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
+
+Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
+
+![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
+
+Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
+
+##### Step3 Add creepiness to the video
+
+![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
+
+Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
+
+![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
+
+##### Step4 Add a retro filming effect
+
+![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
+
+Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
+
+![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Summary
 
@@ -590,6 +735,12 @@ That's it! With these tips and tricks, you can effortlessly create a retro-style
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add Text in Adobe Rush
 
 Adobe Premiere Rush is a tool designed to make it easier to make simple video edits on desktop and mobile devices. But most users who are used to video editing using Adobe Premiere may find Adobe Rush a little complicated. This includes simple tasks like [adding text to your video](https://tools.techidaily.com/wondershare/filmora/download/), which can be difficult unless you know how to do it.
@@ -608,9 +759,6 @@ Step 2With the project open, click on the blue “Plus” icon under the main me
 
 Step 3Select “Graphics” from the options that appear
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![select graphics adobe rush](https://images.wondershare.com/filmora/article-images/2022/08/select-graphics-adobe-rush.jpg)
 
 Step 4Click on “More” under “Titles” and then search for “Basic Default Title.” Tap “Add” to add a title to the video's sequence.
@@ -625,6 +773,12 @@ For the purpose of this tutorial, we chose to use the basic title, but Adobe Pre
 
 You can also very easily duplicate the formatted text as many times as you need to. Just right-click on the formatted text and select “duplicate” to create a copy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Alternative Way to Add Text Effects to a Video
 
 If Adobe Rush is not a viable solution for you, perhaps because of the cost of the program or even its complexity, we have a video editing platform that is easy to use and has all the features you would find on Adobe Rush and so much more.
@@ -651,11 +805,20 @@ Once you have all the settings as needed depending on your project, click “Imp
 
 You can also just drag and drop the video into the main window to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![open the video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="150" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 3Add the Video/Videos to the Timeline
 
 To edit the video and any of its components, you will need to add the video to the timeline. You can do that by simply dragging and dropping the video clips from the media library to the timeline below.
@@ -670,6 +833,12 @@ Filmora offers more than 200+ text effects that apply to various types of videos
 
 ![see effect in the preview window](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If you like what you see, place your Playhead icon where you want the add the text and title in the timeline, and then drag and drop the track above the video.
 
 ##### Step 5Select the Duration of the Text
@@ -678,9 +847,6 @@ The default duration of any text overlay that you add to the project is 5 second
 
 To change the duration of the text overlay, select the text in the timeline and click on the “Timer” icon.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![click on the timer](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 ##### Step 6Edit and Customize Your Text
@@ -707,17 +873,26 @@ Filmora also gives you the option to upload the video directly to YouTube and yo
 
 ## Related FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Can I Add Captions in Adobe Rush?
 
 Yes. Adobe Premiere Rush does allow you to add captions and subtitles to any video project. The process is very easy, just open the video in Adobe Rush and add an unformatted “Title” as we did in part 1 above. You can then move the title to any section of the screen and format it any way you want. Ensure that you extend the text to cover the full length of the video. Then simply copy and paste the subtitles from the video's SRT file to the Title. Set the timing of the text to correspond to the video's duration and you're all set.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Can You Move Text in Adobe Rush?
 
 Yes, you can easily move text in Adobe Rush. Add the text to the video as described in the first part of this article and once it is on the timeline, you can simply drag the text clip to any desired area on the timeline to change its location.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. How Do I Add a Title in Adobe Rush Mobile?
 
 One of the greatest advantages of choosing Adobe Rush over other video editors is that it can be very easy to use on mobile devices. The steps to add a title using Adobe Rush for mobile are just as simple as the steps to do it on a desktop. Just open Adobe Rush on your mobile device and then open the video you want to edit, tap on the blue “+” icon at the bottom and select “Graphics > More > Basic Default Title” and then tap “Add” to add your title. You also get the same options to edit the text in various ways including the font size, color, and effects.
@@ -746,6 +921,18 @@ You can also just drag and drop the video into the main window to open it.
 
 ![open the video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 3Add the Video/Videos to the Timeline
 
 To edit the video and any of its components, you will need to add the video to the timeline. You can do that by simply dragging and dropping the video clips from the media library to the timeline below.
@@ -758,11 +945,14 @@ With the video in the timeline, you are now ready to add your text. To do that, 
 
 Filmora offers more than 200+ text effects that apply to various types of videos. Find the title preset that you would like to use and double-click on it and you should be able to see the effect in the “Preview” window.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![see effect in the preview window](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If you like what you see, place your Playhead icon where you want the add the text and title in the timeline, and then drag and drop the track above the video.
 
 ##### Step 5Select the Duration of the Text
@@ -781,6 +971,12 @@ To edit the text, double-click on the “Title” frame in the timeline, and in 
 
 ![double click on the title](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can also use the “Animation” icon if you want to change the animation of the text overlay.
 
 You can also click on the “Advanced” tab to get more advanced editing options for the text that you add to the video. In the advanced options window, you can apply a preset and animation or even customize the Text Fill, Border, and Shadow elements of your text.
@@ -797,20 +993,20 @@ Filmora also gives you the option to upload the video directly to YouTube and yo
 
 ## Related FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Can I Add Captions in Adobe Rush?
 
 Yes. Adobe Premiere Rush does allow you to add captions and subtitles to any video project. The process is very easy, just open the video in Adobe Rush and add an unformatted “Title” as we did in part 1 above. You can then move the title to any section of the screen and format it any way you want. Ensure that you extend the text to cover the full length of the video. Then simply copy and paste the subtitles from the video's SRT file to the Title. Set the timing of the text to correspond to the video's duration and you're all set.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Can You Move Text in Adobe Rush?
 
 Yes, you can easily move text in Adobe Rush. Add the text to the video as described in the first part of this article and once it is on the timeline, you can simply drag the text clip to any desired area on the timeline to change its location.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### 3\. How Do I Add a Title in Adobe Rush Mobile?
 
 One of the greatest advantages of choosing Adobe Rush over other video editors is that it can be very easy to use on mobile devices. The steps to add a title using Adobe Rush for mobile are just as simple as the steps to do it on a desktop. Just open Adobe Rush on your mobile device and then open the video you want to edit, tap on the blue “+” icon at the bottom and select “Graphics > More > Basic Default Title” and then tap “Add” to add your title. You also get the same options to edit the text in various ways including the font size, color, and effects.
@@ -831,6 +1027,12 @@ One of the greatest advantages of choosing Adobe Rush over other video editors i
 
 The distortion in your video may irritate you when you're working on the video's edit. When you take images or record sound, you frequently end up with distorted results due to lens distortion. In this article, we will discuss what lens distortion is, how it may be fixed, and the factors you need to pay attention to avoid lens distortion when taking or recording videos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Basic introduction to lens distortion
 
 **1\. What is lens distortion**
@@ -845,6 +1047,12 @@ Lens distortion happens with all lenses. It is because of several things, such a
 
 Most geometric lens distortions happen when the focal distance is short (barrel distortion), long (pincushion distortion), or when a fish-eye lens is used to take a picture from a low angle (keystone distortion).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to correct a distorted lens?
 
 A lot of times, with lower-end wide-angle lenses, especially action cams like GoPro, you get pretty gnarly distortion when you're filming. As we know, the Earth is round, but it shouldn't look like this when you take a picture. Indeed, it's very distorted, it has the horizon line bending all over the place, and basically, all of the lines in the video have some level of curvature.
@@ -853,12 +1061,14 @@ Hence, follow all the steps below to know how to fix it:
 
 Step1 Import your video to [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![import your video to filmora](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
@@ -875,13 +1085,25 @@ You can see a bit of curvature, but it looks much more natural, and all of the l
 
 Step4 Lastly, if you play the video back, you will see the video look much better than before.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![play the video back](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-4.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to avoid distorted lens while shooting?
 
@@ -907,24 +1129,30 @@ for this. A 50mm lens is great for portraits, street photography, and many other
 
 Step2 Click on the clip and head over to the lens correction. Choose the "Camera model" based on what you used, but in this tutorial, the video was taken with a GoPro Hero 7\. However, you can choose some other camera model options there.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on the clip](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-2.jpg)
 
 Step3 To adjust the distortion, you can slide the bar to the left or the right. If you slide the bar to the right (maximum level), there will be no adjustment. However, if you slide the bar to the left, you can see it pulling those lines as high up as possible.
 
 You can see a bit of curvature, but it looks much more natural, and all of the lines in the video look so much better.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust the distortion](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-3.gif)
 
 Step4 Lastly, if you play the video back, you will see the video look much better than before.
 
 ![play the video back](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-4.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to avoid distorted lens while shooting?
 
 **1\. Avoid very wide-angle lenses**

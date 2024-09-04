@@ -1,7 +1,7 @@
 ---
 title: Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024
-date: 2024-08-03T01:10:30.617Z
-updated: 2024-08-04T01:10:30.617Z
+date: 2024-09-03T22:57:59.985Z
+updated: 2024-09-04T22:57:59.985Z
 tags: 
   - ai
   - animation videos
@@ -41,9 +41,6 @@ Okay, young director, you've chosen your filter. But what if you want to tweak i
 
 Once a filter is applied, you'll notice sliders or dials – these are your video filter editor tools. Play around with them! You can adjust the filter's intensity, making it as subtle or dramatic as you like. Tweak the brightness, contrast, and saturation until your video looks like you envisioned.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Download External Filter Installation Package
 
 **_Step 1: Locate the My Filters Feature_**
@@ -66,9 +63,6 @@ Here comes the cool part! To get new custom filters:
 
 After importing your snazzy new filter, the next step is super easy. Simply apply it to your video, and if you love how it looks, save it as a preset. This way, the next time you're editing, you can head straight to **"My Filters**," find your favorite custom filter and slap it onto your video without a hitch. Talk about convenience!
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Best Alternatives
 
 Though VN offers many fantastic filter options, it's always nice to have alternatives, right? Meet Filmora, another stellar video editing tool known for its expansive video filter collection.
@@ -84,6 +78,18 @@ Filmora is more than just an editor; it's a canvas for videographers. One of its
 
 While Filmora is a great tool, the best fit depends on personal preferences and specific project needs. However, it's always good to have choices in your editing toolkit. Variety is, after all, the spice of life (and video editing)!
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Summary
 
 The beauty of video editing lies in the limitless possibilities it offers. With every video filter, editor tweak, and custom preset, you're not just editing – you're storytelling. And with tools like VN and Filmora at your fingertips, you have everything you need to tell your story your way.
@@ -108,6 +114,12 @@ Okay, young director, you've chosen your filter. But what if you want to tweak i
 
 Once a filter is applied, you'll notice sliders or dials – these are your video filter editor tools. Play around with them! You can adjust the filter's intensity, making it as subtle or dramatic as you like. Tweak the brightness, contrast, and saturation until your video looks like you envisioned.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Download External Filter Installation Package
 
 **_Step 1: Locate the My Filters Feature_**
@@ -130,6 +142,12 @@ Here comes the cool part! To get new custom filters:
 
 After importing your snazzy new filter, the next step is super easy. Simply apply it to your video, and if you love how it looks, save it as a preset. This way, the next time you're editing, you can head straight to **"My Filters**," find your favorite custom filter and slap it onto your video without a hitch. Talk about convenience!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Best Alternatives
 
 Though VN offers many fantastic filter options, it's always nice to have alternatives, right? Meet Filmora, another stellar video editing tool known for its expansive video filter collection.
@@ -163,9 +181,6 @@ Remember, whether you're a seasoned videographer or someone just starting, there
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Unlock Your Video Editing Potential With Wondershare Filmora
 
 Are you looking to make a cool, fun video for a special occasion? Look no further than Wondershare Filmora.
@@ -186,9 +201,6 @@ In this article, we will discuss the benefits of using Filmora and look further 
 
 Let's dig a little deeper to see how Filmora can benefit you.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Benefits of Using Filmora
 
 Filmora, as compared to its contestants, has much more to offer. From a range of tools and effects to an easy-to-use interface to affordability, Filmora has it all!
@@ -213,9 +225,6 @@ With packages starting at just $49.99 per year to $79.99 perpetual, you can avai
 
 So, what are you waiting for? Download Filmora now. And don't worry; we have got you covered with some great tips to begin your Filmora journey.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Some Stunning Features in Filmora
 
 Although Filmora is easy to use, and you can explore it on your own, it never hurts to know a few features before you dive in.
@@ -234,6 +243,12 @@ Launch Filmora and click on "New Project."
 
 ![wondershare filmora interface](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step2Choose a split screen preset
 
 On the top, go to "Templates" and then "Split Screen."
@@ -246,31 +261,45 @@ Choose the preset that you need. You can also preview the layout.
 
 Add the chosen preset to the timeline track.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![adding split screen to timeline](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step4Add videos to the layout
 
 Import media from your library or use stock media to add videos to your layout. Drag and drop your media on the layout.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add videos to the layout](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step5Edit the split screen
 
 Once you have all the videos added to the layout, double-click on the split screen in the timeline panel. The edit options will appear on the left.
 
 ![edit the split screen](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Choose how you want to edit your video and then save it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2.Filters and LUTs
 
@@ -286,27 +315,48 @@ Import all the video or audio files that you want to edit to the media section.
 
 ![import media file](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step2Go to "Filter & LUT"
 
 Under the "Effects" tab, go to "Filter & LUT." Choose the LUT that you want to add to your video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![browse different luts](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step3Add the LUT to your video
 
 Add the LUT to your timeline by drag-n-drop.
 
 ![add lut to your video](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Drag it to adjust it according to your video. In order to adjust the strength of the LUT, double-click on it.
 
 ![edit the opacity of the lut](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-10.jpg)
 
 You can adjust the opacity of the LUT according to your preference. You can make it as soft or as strong as you want.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.Animated Keyframes
 
 Moving on, another one of the cool Filmora features is keyframing. Filmora allows you to add animated keyframes in your videos to add moving text or such effects. Follow the steps below to do so.
@@ -319,35 +369,40 @@ Moving on, another one of the cool Filmora features is keyframing. Filmora allow
 
 Add a video to your timeline and double-click on it to open up the editing options. Go to the "Animation" tab.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add video to the timeline panel](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Here, you have different preset animations that you can use for your video.
 
 ##### Step2Add a keyframe
 
 Add your chosen preset and hit play. You will see how that keyframe works. You can also add multiple keyframes to your video to make it look cooler.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add a keyframe](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Once you play the video, it will look like this.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the final look of the animated keyframe](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-13.gif)
 
 This is an easy way of making intros or outros of your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### 4.Detach Audio
 
 Suppose you have a video where you like the audio and want to use it for another video. How would you separate the audio? This is where the Detach Audio feature comes in.
@@ -360,9 +415,6 @@ Suppose you have a video where you like the audio and want to use it for another
 
 Drag and drop the video on the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add video to the timeline panel](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-14.jpg)
 
 ##### Step2Detach audio
@@ -371,6 +423,12 @@ To separate the audio, right-click on the video and choose "Detach Audio." The a
 
 ![detach the audio](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5.Blur Effects
 
 Next up, we have the feature of blurring your video or the background in your video. To do so, follow these simple steps.
@@ -385,26 +443,38 @@ After adding the video to your timeline, go to the Effects tab on top.
 
 ![go to the effects tab](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step2Search for blur effects
 
 In the search bar, type "blur." You will see several blur effects. Choose any effect and see a preview of it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![search for the blur effects](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-17.jpg)
 
 ##### Step3Add effects to videos
 
 Add the chosen effect to your video. Then adjust its position accordingly. Double-click on the blur effect in the timeline panel to change its size and opacity.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![adjust the chosen blur effect](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-18.jpg)
 
 These are some of the most amazing features that we have listed here. FYI, this is just the brink of the iceberg. There is a whole lot more that Filmora has to offer.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final Words
 
 If you're looking for a simple and intuitive video editing platform to help you create stunning videos, look no further than Filmora. It is packed with powerful features that let you turn your raw footage into captivating movies in no time.
@@ -415,6 +485,18 @@ With its user-friendly design, you can easily access all the tools you need to m
 
 Let's dig a little deeper to see how Filmora can benefit you.
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Benefits of Using Filmora
 
 Filmora, as compared to its contestants, has much more to offer. From a range of tools and effects to an easy-to-use interface to affordability, Filmora has it all!
@@ -439,13 +521,22 @@ With packages starting at just $49.99 per year to $79.99 perpetual, you can avai
 
 So, what are you waiting for? Download Filmora now. And don't worry; we have got you covered with some great tips to begin your Filmora journey.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Some Stunning Features in Filmora
 
 Although Filmora is easy to use, and you can explore it on your own, it never hurts to know a few features before you dive in.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1.Split Screen Presets
 
 Starting with split screens that are a great way of enhancing your videos. You can show multiple videos side by side, which gives a very chic look to your overall video. Here's how to do it in Filmora.
@@ -458,17 +549,26 @@ Starting with split screens that are a great way of enhancing your videos. You c
 
 Launch Filmora and click on "New Project."
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare filmora interface](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step2Choose a split screen preset
 
 On the top, go to "Templates" and then "Split Screen."
 
 ![split screen templates](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Choose the preset that you need. You can also preview the layout.
 
 ##### Step3Add to timeline
@@ -481,27 +581,34 @@ Add the chosen preset to the timeline track.
 
 Import media from your library or use stock media to add videos to your layout. Drag and drop your media on the layout.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add videos to the layout](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step5Edit the split screen
 
 Once you have all the videos added to the layout, double-click on the split screen in the timeline panel. The edit options will appear on the left.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![edit the split screen](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Choose how you want to edit your video and then save it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.Filters and LUTs
 
 Another cool feature that Filmora offers is Filters and LUTs. In order to do so, follow these simple steps.
@@ -516,16 +623,36 @@ Import all the video or audio files that you want to edit to the media section.
 
 ![import media file](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step2Go to "Filter & LUT"
 
 Under the "Effects" tab, go to "Filter & LUT." Choose the LUT that you want to add to your video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![browse different luts](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-8.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step3Add the LUT to your video
 
 Add the LUT to your timeline by drag-n-drop.
@@ -539,7 +666,16 @@ Drag it to adjust it according to your video. In order to adjust the strength of
 You can adjust the opacity of the LUT according to your preference. You can make it as soft or as strong as you want.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<span id="1977028">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3.Animated Keyframes
 
@@ -565,13 +701,22 @@ Add your chosen preset and hit play. You will see how that keyframe works. You c
 
 Once you play the video, it will look like this.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![the final look of the animated keyframe](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-13.gif)
 
 This is an easy way of making intros or outros of your videos.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.Detach Audio
 
 Suppose you have a video where you like the audio and want to use it for another video. How would you separate the audio? This is where the Detach Audio feature comes in.
@@ -586,6 +731,12 @@ Drag and drop the video on the timeline.
 
 ![add video to the timeline panel](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step2Detach audio
 
 To separate the audio, right-click on the video and choose "Detach Audio." The audio track will appear separately in the timeline. You can then use it as you wish.
@@ -604,9 +755,6 @@ Next up, we have the feature of blurring your video or the background in your vi
 
 After adding the video to your timeline, go to the Effects tab on top.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![go to the effects tab](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-16.jpg)
 
 ##### Step2Search for blur effects
@@ -615,17 +763,26 @@ In the search bar, type "blur." You will see several blur effects. Choose any ef
 
 ![search for the blur effects](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step3Add effects to videos
 
 Add the chosen effect to your video. Then adjust its position accordingly. Double-click on the blur effect in the timeline panel to change its size and opacity.
 
 ![adjust the chosen blur effect](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 These are some of the most amazing features that we have listed here. FYI, this is just the brink of the iceberg. There is a whole lot more that Filmora has to offer.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Final Words
 
 If you're looking for a simple and intuitive video editing platform to help you create stunning videos, look no further than Filmora. It is packed with powerful features that let you turn your raw footage into captivating movies in no time.
@@ -647,7 +804,10 @@ Moreover, you can add adjustment layers on After Effects to make your video edit
 ![after effects featured image](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1: What is the Adjustment Layer in After Effects?
 
@@ -655,10 +815,6 @@ The adjustment layer can save you time and energy from adding effects to multipl
 
 You can add the adjustment layers in your timeline for creating visual effects such as film grain or color grading. Using the adjustment layer, you can produce transition effects by adding effects to shorter compositions. However, if you want to use the adjustment layer properly, you should select its position carefully in the layer’s stack.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![adjustment layer in after effects](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-2.jpg)
 
 Moreover, always keep in mind that anything placed under the adjustment layer will have a direct effect. In contrast, anything above the adjustment layer won’t get affected. Hence, you can use adjustment layers in After Effects for your convenience to apply all kinds of effects from color to distortion.
@@ -671,10 +827,34 @@ Do you want to learn **how to add an adjustment layer in After Effects**? In thi
 
 ![select the adjustment layer option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="960" height="540" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Way 2:** Once done with uploading the project on After Effects, go to the blank space in the timeline section on the left side. Right-click using your mouse and select the option "New." Afterward, click on "Adjustment Layer" to proceed. This will add the adjustment layer on the top of your layers stack.
 
 ![choose the adjustment layer option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tips – Keyboard Shortcuts of Adjustment Layers in After Effects
 
 Do you want to save time while creating an adjustment layer in After Effects? Through the following table, you can learn the shortcuts that you can utilize to generate adjustment layers quickly.
@@ -683,22 +863,16 @@ Do you want to save time while creating an adjustment layer in After Effects? Th
 | --------------- | ---------------- |
 | Ctrl+Alt+Y      | Command+Option+Y |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Popular Effects You Can Try With Adjustment Layers in After Effects
 
 In this section, you can find out different effects that you can try with the adjustment layer in After Effects. By applying these effects with an adjustment layer, you can transform your video drastically.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Animated Ink Text
 
 Do you want to give a unique sense of style to your added text in the video? This particular effect can add animation to your text to produce engaging and distinctive visuals for your text. To make animated ink text illustrations efficiently, you can check the following steps:
@@ -707,9 +881,6 @@ Step1 Once you have uploaded the project on After Effects, you can begin with th
 
 Step2 Make sure to select a suitable text font and color to craft a vibrant output. Afterward, head to the “Effect” tab and select tap on "Transition." From there, select "Linear Wipe." Now adjust the settings of the “Linear Wipe” effect from the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![choose the linear wipe option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-5.jpg)
 
 Step3 Now add an adjustment layer to your timeline and select “Distort” from the “Effect” tab. From the “Distort” drop-down menu, choose “Turbulent Displace." After making its settings, such as adjusting the evolution time, head back to the “Effects” tab and select "Blur and Sharpen." From there, click on "Fast Box Blur."
@@ -728,16 +899,10 @@ There are various blur effects, such as Gaussian blur, motion blur, radial blur,
 
 Step1 Once you have imported the video clip to the timeline of After Effects, add an adjustment layer. Afterward, go to the "Effects" tab and locate any of your preferred effects, such as Gaussian blur. After locating this effect, apply it to the adjustment layer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add the required blur effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-7.jpg)
 
 Step2 After applying the effect to the adjustment layer, you can change its settings from the left side. From the left panel, you can change the blurriness value and blur dimensions according to your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Color Correction
 
 Color correction effects can add and manage the colors in your videos effortlessly. You can change the basic corrections of your video by adjusting the brightness, contrast, hue, exposure, highlight, and other elements. Here are the simple steps to use the adjustment layer for color correction:
@@ -748,9 +913,6 @@ Step2 Once you have found the suitable color correction effect, apply it to the 
 
 ![apply the color correction](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Many beginners are unaware of the term called adjustment layer in video editing. By reading this article, you can find out brief and authentic details about the adjustment layer. Moreover, we have also addressed **how to add an adjustment layer in After Effects** in simple and easy steps. You can also check about the common effects that people use in Adobe After Effects, using adjustment layers to enhance their videos.
@@ -759,6 +921,12 @@ Part 3: Popular Effects You Can Try With Adjustment Layers in After Effects
 
 In this section, you can find out different effects that you can try with the adjustment layer in After Effects. By applying these effects with an adjustment layer, you can transform your video drastically.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Animated Ink Text
 
 Do you want to give a unique sense of style to your added text in the video? This particular effect can add animation to your text to produce engaging and distinctive visuals for your text. To make animated ink text illustrations efficiently, you can check the following steps:
@@ -769,6 +937,18 @@ Step2 Make sure to select a suitable text font and color to craft a vibrant outp
 
 ![choose the linear wipe option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Now add an adjustment layer to your timeline and select “Distort” from the “Effect” tab. From the “Distort” drop-down menu, choose “Turbulent Displace." After making its settings, such as adjusting the evolution time, head back to the “Effects” tab and select "Blur and Sharpen." From there, click on "Fast Box Blur."
 
 Step4 Manage the threshold value properly and then add a new effect called “Stylize." From its drop-down menu, click on "Roughen Edges." Afterward, you can add some elements, such as ink droplets, to create a more vibrant look. To ensure a flawless illustration, make sure to match the color of ink droplets with your text color.
@@ -777,14 +957,8 @@ Step5 If you want to give a highlight effect to your animated text, you can add 
 
 Moreover, you can also add blur and matte effects for more modifications. You can use the blending mode to adjust all the colors. Also, you can apply noise and grain effects to eliminate all the harsh edges from the text.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the perspective effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-6.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### 2\. Add Blur Effect
 
 There are various blur effects, such as Gaussian blur, motion blur, radial blur, etc. You can add any of the blur effects in your video clip to craft a smoother look. In After Effects, you can find a variety of blur effects that can help you change your video's perspective. To use an adjustment layer for adding the blur effect, here are the accurate steps:
@@ -795,6 +969,12 @@ Step1 Once you have imported the video clip to the timeline of After Effects, ad
 
 Step2 After applying the effect to the adjustment layer, you can change its settings from the left side. From the left panel, you can change the blurriness value and blur dimensions according to your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Color Correction
 
 Color correction effects can add and manage the colors in your videos effortlessly. You can change the basic corrections of your video by adjusting the brightness, contrast, hue, exposure, highlight, and other elements. Here are the simple steps to use the adjustment layer for color correction:
@@ -803,14 +983,8 @@ Step1 After uploading the video on After Effects, go to the “Layer” tab and 
 
 Step2 Once you have found the suitable color correction effect, apply it to the adjustment layer. You can always change the settings of the applied effect from the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![apply the color correction](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Many beginners are unaware of the term called adjustment layer in video editing. By reading this article, you can find out brief and authentic details about the adjustment layer. Moreover, we have also addressed **how to add an adjustment layer in After Effects** in simple and easy steps. You can also check about the common effects that people use in Adobe After Effects, using adjustment layers to enhance their videos.
@@ -837,6 +1011,12 @@ Step1Launch Premiere Pro on your computer. Go to File> Import to bring in the vi
 
 ![import video ito premiere pro.jpg](https://images.wondershare.com/filmora/article-images/2022/08/import-video-ito-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2Go to Effects tab from the top and open Lumetri Presets folder. You will find different categories of filters and effects such Cinematic, Desaturation, Style, Temperature and much more. Open up these categories and drag and drop any desired filter into the Timeline. The video filter will get applied to your video automatically.
 
 ![preview filters and effects premiere](https://images.wondershare.com/filmora/article-images/2022/08/preview-filters-and-effects-premiere.jpg)
@@ -847,9 +1027,6 @@ Step3If you are looking for color grading, go to Color tab from the top. Go to L
 
 Step4Thereafter, you can adjust certain parameters like intensity, saturation, sharpen as per requirements. You can also go for Basic correction which acts like applying a filter to your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. Alternative Way to Add Video Filters
 
 If you find the steps on how to add colour filter in Premiere Pro difficult or the filters are not appealing to you, you can opt for an alternative. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as the best alternative to Premiere Pro to add video filters. Filmora comes with a super easy and intuitive and applying filter to your videos cannot get any easier.
@@ -858,26 +1035,38 @@ The wide range of filters available on Filmora outshines Premiere Pro. Most impo
 
 Step1Download and install Wondershare Filmora which is available for Windows and Mac users. Launch [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and click on New Project option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2Drag and drop your video into Project Media folder and thereafter, into Timeline.
 
 ![drag and drop video into timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3Go Effects located at the top and go to Filters option from the left panel.
 
 ![filters option](https://images.wondershare.com/filmora/Tutorial/add-customize-filter-5.png)
 
 Step4Drag the desired filter into Timeline to apply to your video. You can set the duration of the video filter as per your preference. Play the video and click on Export button to save the edited video.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![save the edited video](https://images.wondershare.com/filmora/Tutorial/add-customize-filter-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Free Premiere Filter Presets to Use
 
 Adobe Premiere Pro comes with a handful of video filters. However, you can add various free Premiere Pro filter presets and apply them to your video. Here is the list of the free Premiere Pro filter presets to use on your video.

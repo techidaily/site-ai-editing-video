@@ -1,7 +1,7 @@
 ---
 title: Score Big Savings on Gadgets During Amazon's 2024 Prime Day Extravaganza
-date: 2024-08-10T01:59:28.026Z
-updated: 2024-08-11T01:59:28.026Z
+date: 2024-09-03T22:57:44.958Z
+updated: 2024-09-04T22:57:44.958Z
 categories:
   - BestProducts
 description: This Article Describes Score Big Savings on Gadgets During Amazon's 2024 Prime Day Extravaganza
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/2ujChWj8nQ5WSBrDdcHxmJ6dE5s=/400x300/fi
 
 3.8
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Days Gone
 
 ![Days Gone](https://www.lifewire.com/thmb/Tqpk70Y2I4WyH7fJQ4l_C66NHaI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Days-Gone-Zombie-Game-PS4-1-ecafdc83e8e0460cbc31b8b0e4976faa.jpg)
@@ -39,9 +36,6 @@ Lifewire / Kelsey Simon
 
 3.8
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Days Gone
 
 ![Days Gone](https://www.lifewire.com/thmb/OhLBxtaDQ5jb89rJmIMnan1soS4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Days-Gone-Zombie-Game-PS4-1-ecafdc83e8e0460cbc31b8b0e4976faa.jpg)
@@ -71,20 +65,20 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: A long installation process**
 
  If you purchased the game on disc, when you first pop it into your PlayStation 4 you’ll have to update. The update is fairly large, so be prepared to wait. The game finally launches, you'll be prompted to select between easy, normal, or hard difficulty, and then treated to a scene-setting introductory cutscene.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Days Gone](https://www.lifewire.com/thmb/HE8j4XoxbKMWIQagUtGCXFf6bKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-2-3b29272bf1b2423781e104041dc00457.jpg)
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Plot: A man who lost his wife**
 
  The first cutscene you’re shown involves three characters: the protagonist Deacon, his loyal friend Boozer, and Sarah, Deacon’s wife. Sarah has been stabbed, and with chaos breaking out as a deadly virus spreads through the city, the trio is desperate to find help. When a helicopter lands nearby, they load Sarah onboard, but there's only room for two passengers. When Boozer refuses to board, Deacon stays behind to make sure he gets out of the city alive. You don’t actually see any zombies in this beginning sequence, or even much of the world. It's about establishing the relationships between these people and the desperate circumstances unfolding around them.
@@ -99,11 +93,14 @@ As in most zombie fiction, the real monster is man.
 
 ![Days Gone](https://www.lifewire.com/thmb/XWR-CgFF865KBE1ipv7cwdi-P3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-5-b1914ac9859b409d9460fea24fc7f251.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## **Gameplay: Standard zombie action with bikers**
 
  Days Gone is a third-person, action-adventure, zombie survival game with single-player gameplay. It operates in an open-world where you drive around your bike and explore different camps to collect supplies and complete missions. You’ll find a range of enemies from wild animals, zombies, and even other survivors.
@@ -116,13 +113,22 @@ As in most zombie fiction, the real monster is man.
 
  Unfortunately, Days Gone overcomplicates a huge number of its systems and interactions. It feels like there’s a button you have to press, hold, or mash for every interaction. Then there's the crafting system, which is overly complicated and unintuitive. A little streamlining on the design side would've dramatically improved the quality of the entire game.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Days Gone](https://www.lifewire.com/thmb/9B_OIRiqlP1YbsMLjs-zzDc3WAs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-3-cc2a2d9c613d4330b5d4d38408d6eae3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Graphics: Smooth and detailed**
 
  The graphics, on the other hand, are remarkable. The details of the characters feel real, especially with Deacon. His tattoos, attire, even the rings on his fingers are well rendered. The scenery also looks great—cracks in the roads are filled with grass and wildflowers, and pine trees have individual needles rather than compressed, low-res clumps of green.
@@ -131,19 +137,25 @@ As in most zombie fiction, the real monster is man.
 
  Character animations also look great. Deacon moves in a way that feels natural and real, whether he’s slitting someone's throat or sneaking around an enemy camp. The bike is smooth visually and looks good drifting around corners. Even the zombies have their own sort of animalistic movements that give them a creepy, predatory feel.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![Days Gone](https://www.lifewire.com/thmb/gE-LorHWCGsO4NUFW801LGts5t4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-4-a82aed08ab7a4b29bce78268b729563b.jpg)
 
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Still expensive as a newer release**
 
  On the official PlayStation Store, the game goes for $40, but you can regularly find it on sale on Amazon or other online retailers (as of this writing, it's down to $20). At a discount, Days Gone is an easy purchase, a big, entertaining, open-world zombie romp that rarely if ever stagnates until the credits roll.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Days Gone vs. The Last of Us Remastered**
 

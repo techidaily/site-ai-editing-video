@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Edit Facebook Video Ads for E-Commerce Business
-date: 2024-08-10T01:57:40.437Z
-updated: 2024-08-11T01:57:40.437Z
+date: 2024-09-03T22:57:50.925Z
+updated: 2024-09-04T22:57:50.925Z
 tags: 
   - ai
   - animation videos
@@ -23,9 +23,6 @@ In this article, we'll show you how to use Filmora to create eCommerce video ads
 
 ![facebook ecommerce video ads](https://images.wondershare.com/filmora/article-images/2022/09/facebook-ecommerce-video-ads.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Video Ads Are Effective for E-commerce Business
 
 Video ads are a very effective way to promote your e-commerce business. They can help you reach a wider audience, and they can also be more engaging than traditional advertising methods.
@@ -36,9 +33,6 @@ There are a few things to keep in mind when creating video ads for your e-commer
 * Secondly, focus on creating videos that are short and to the point.
 * Finally, make sure to include a call to action in your video so that viewers know what they should do after watching it.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Use Wondershare Filmora for Editing E-commerce Video Ads
 
 Wondershare Filmora is a powerful video editing software that you can use to create videos for your e-commerce business. It's also very user-friendly, which means it's easy to use even if you have no prior experience with video editing software. You can create professional looking videos using this software, and it comes with built-in templates that make it easier for you to get started quickly.
@@ -51,6 +45,12 @@ With [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/down
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Steps to Edit Facebook Video Ads for E-commerce Business
 
 ##### Step1Prepare your script for Video Editing
@@ -83,9 +83,6 @@ Once you have decided on the project aspect ratio, you can start importing your 
 
 Now that you have all of your content imported into Filmora, you can start editing it. One thing you may want to do is set the background color for your video. To do this, go to the "Media" tab and click on the "Sample Color" section. Then, select the desired color for your background. Make sure to use your branding color palette.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set bg color fb video](https://images.wondershare.com/filmora/article-images/2022/09/set-bg-color-fb-video.jpg)
 
 ##### Step7Add Catchy headline and text
@@ -100,12 +97,14 @@ Catchy headlines will help you stand out from the competition and get your video
 
 By using text to voice feature, you can generate voice-over that will help you create a more professional video. To do this, go to the "Text" tab and click on the "Add Text" option. Then, type in your script. Once you have finished typing, click on the "Text-ti-Voice Over" button and select the desired language.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![convert script into voice facebook video](https://images.wondershare.com/filmora/article-images/2022/09/convert-script-into-voice-facebook-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step9Arrange your video clips
 
 Now that you have all of your content imported into [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you can start arranging them into a cohesive video. To do this, go to the "Timeline" tab and drag and drop the desired photos or video clips into the correct order.
@@ -124,9 +123,6 @@ Adding music to your video will help to set the mood and make your video more en
 
 Drag and drop the audio file into place on the timeline. You can also use the "Fade In" and "Fade Out" options to make the music flow better with the video.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fade audio facebook video ads](https://images.wondershare.com/filmora/article-images/2022/09/fade-audio-facebook-video-ads.jpg)
 
 ##### Step11Export your Video
@@ -135,6 +131,12 @@ To export your video, click on the "Export" button at the top section. Select th
 
 ![export facebook ads video filmora](https://images.wondershare.com/filmora/article-images/2022/09/export-facebook-ads-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Recommended Export Quality
 
 * Format: MP4
@@ -151,6 +153,18 @@ Now that you know how to create a Facebook video ad, it's time to start creating
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Steps to Edit Facebook Video Ads for E-commerce Business
 
 ##### Step1Prepare your script for Video Editing
@@ -167,29 +181,40 @@ Now that you have your content ready, open Filmora and click on "Create a New Pr
 
 ![create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step4Select the right Project Aspect Ratio
 
 It is important to use the correct project aspect ratio when creating a Facebook video ad because if you don't, your video may not be in the correct format when it is uploaded to Facebook. When selecting the project aspect ratio, make sure to choose Widescreen (16:9) or Instagram (1:10) to ensure that your video is in the correct format.
 
 ![select aspect ratio fb video ads](https://images.wondershare.com/filmora/article-images/2022/09/select-aspect-ratio-fb-video-ads.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step5Import your media files into Filmora
 
 Once you have decided on the project aspect ratio, you can start importing your video and photo files. To do this, go to the "Media Library" and click on "Import Media Files." Find the folder where you saved your content and select all of the files that you want to use. Then, click "Open" to import the files into Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import your media files into filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 ##### Step6Set the background color for your Facebook Video Ads
 
 Now that you have all of your content imported into Filmora, you can start editing it. One thing you may want to do is set the background color for your video. To do this, go to the "Media" tab and click on the "Sample Color" section. Then, select the desired color for your background. Make sure to use your branding color palette.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![set bg color fb video](https://images.wondershare.com/filmora/article-images/2022/09/set-bg-color-fb-video.jpg)
 
 ##### Step7Add Catchy headline and text
@@ -200,22 +225,34 @@ Catchy headlines will help you stand out from the competition and get your video
 
 ![add text facebook video ads](https://images.wondershare.com/filmora/article-images/2022/09/add-text-facebook-video-ads.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step8Convert your script into a voice-over narrator
 
 By using text to voice feature, you can generate voice-over that will help you create a more professional video. To do this, go to the "Text" tab and click on the "Add Text" option. Then, type in your script. Once you have finished typing, click on the "Text-ti-Voice Over" button and select the desired language.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![convert script into voice facebook video](https://images.wondershare.com/filmora/article-images/2022/09/convert-script-into-voice-facebook-video.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step9Arrange your video clips
 
 Now that you have all of your content imported into [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you can start arranging them into a cohesive video. To do this, go to the "Timeline" tab and drag and drop the desired photos or video clips into the correct order.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![arrange facebook video clips ads](https://images.wondershare.com/filmora/article-images/2022/09/arrange-facebook-video-clips-ads.jpg)
 
 If you need to trim or split any of the photos or video clips, you can do so by using the "Trim" and "Split" options. To trim a photo or video clip, hover over the desired clip and click on the " scissors " icon. Then, drag it to the desired location. To split a photo or video clip, hover over the desired clip and click on the " split " icon. Then, drag it to the desired location.
@@ -228,17 +265,32 @@ Adding music to your video will help to set the mood and make your video more en
 
 ![add music facebook video ads](https://images.wondershare.com/filmora/article-images/2022/09/add-music-facebook-video-ads.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="360" height="640" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Drag and drop the audio file into place on the timeline. You can also use the "Fade In" and "Fade Out" options to make the music flow better with the video.
 
 ![fade audio facebook video ads](https://images.wondershare.com/filmora/article-images/2022/09/fade-audio-facebook-video-ads.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step11Export your Video
 
 To export your video, click on the "Export" button at the top section. Select the desired file format and click "Export" to save your video to your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![export facebook ads video filmora](https://images.wondershare.com/filmora/article-images/2022/09/export-facebook-ads-video-filmora.jpg)
 
 Recommended Export Quality
@@ -267,9 +319,6 @@ Now that you know how to create a Facebook video ad, it's time to start creating
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use a Stabilization Tool in Filmora
 
 Does your video shake so much? Shaking movement on your camera is often inevitable, especially if you don't use a camera stabilizer or a camera with no built-in image stabilization. As a result, it can make your video look distracting and difficult to watch.
@@ -284,6 +333,12 @@ Another time you may want to stabilize your video is if you're shooting in a low
 
 Finally, if you're shooting a video that's going to be displayed on a large screen, you may want to stabilize your video. Stabilizing your video will help ensure the output is crisp and clear.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to stabilize your video with Filmora
 
 Filmora has a stabilization feature that can help to smooth your video and make it look more professional. If you haven't installed Filmora yet, you can download it for free.
@@ -298,24 +353,36 @@ Step1 Launch Filmora 11 and **create a new project**.
 
 Step2 Import your video to Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import your video to filmora](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 After you import your video to Filmora, the Stabilization must have been off. So, **switch the Stabilization toggle on**, then a loading bar will start going up to analyze the clip.
 
 ![switch the stabilization toggle on](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Once it finishes analyzing, the smooth level will default to 10\. See the preview whether you like how it turns out.
 
 **Before**
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![before finish analyzing](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-3.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **After**
 
 ![after finish analyzing](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-4.gif)
@@ -324,9 +391,6 @@ Please note that the center point of your image will always be the most stable. 
 
 If you are unsatisfied with the default setting, increasing the Smoothness Level will result in more cropping to the image. On the contrary, if you put the Smoothness Level down to zero, you are no longer cropping into the image, but the result won't be as smooth.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![adjust smothness level as byou like](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-5.gif)
 
 Should the cropping bother you, such as it crops the subject's hair out of the frame, you can adjust it with **Edge Processing**.
@@ -335,15 +399,22 @@ If you change it to **None**, you will see the black bars that simulate how it s
 
 ![hit play on the preview screen](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-6.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 As **Reflect** is the default, the **Extend** uses artificial intelligence to extend the pixels, as you are often aware in Photoshop.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![extend the pixels](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Besides the three, there is also the **Tile** option. Each of them would give a different result. You can try and use the one that works best for you.
 
 ## Summary
@@ -362,52 +433,86 @@ Step2 Import your video to Filmora.
 
 ![import your video to filmora](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 After you import your video to Filmora, the Stabilization must have been off. So, **switch the Stabilization toggle on**, then a loading bar will start going up to analyze the clip.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![switch the stabilization toggle on](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Once it finishes analyzing, the smooth level will default to 10\. See the preview whether you like how it turns out.
 
 **Before**
 
 ![before finish analyzing](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-3.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **After**
 
 ![after finish analyzing](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-4.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Please note that the center point of your image will always be the most stable. The more shaky a clip is, the more it will crop into that image.
 
 If you are unsatisfied with the default setting, increasing the Smoothness Level will result in more cropping to the image. On the contrary, if you put the Smoothness Level down to zero, you are no longer cropping into the image, but the result won't be as smooth.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust smothness level as byou like](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-5.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Should the cropping bother you, such as it crops the subject's hair out of the frame, you can adjust it with **Edge Processing**.
 
 If you change it to **None**, you will see the black bars that simulate how it stabilizes the clip. Try to hit play on the preview screen, and then you can see more clearly how the tool keeps the center of the frame to make it stable and less shaky.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hit play on the preview screen](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-6.gif)
 
 As **Reflect** is the default, the **Extend** uses artificial intelligence to extend the pixels, as you are often aware in Photoshop.
 
 ![extend the pixels](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Besides the three, there is also the **Tile** option. Each of them would give a different result. You can try and use the one that works best for you.
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="150" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summary
 
 When you're shooting a video, you must have wanted it to be as smooth and stable as possible. By stabilizing your video, you can help ensure it's smooth and easy to watch.
@@ -421,7 +526,10 @@ Filmora offers a Stabilization feature that allows you to easily improve your vi
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Add a Miniature Effect on Your Video for Filmy Looks. To Add This Effect, Read the Complete Guide and Make Your Video Cinematic by Wondershare Filmora
 
@@ -429,11 +537,14 @@ Want to add selective blur to make everything look smaller? Don't have any idea 
 
 ## What Is a Miniature Effect?
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![after adding a miniature effect](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 But first, let's learn the logic of making the miniature effect. As many video editing pros present on Tiktok, the miniature effect is a fun way to brighten up your photography or video shots. For example, when taking a video or a time-lapse of a landscape, we always have a bigger depth of field, so most objects in the frame are in focus.
 
 However, when we film a miniature model, the depth of field is shallow. So, we only see some objects in focus, and the rest is blurry. This visual trick makes our brain believe that the big landscape we're seeing is actually a tiny model.
@@ -448,9 +559,6 @@ To create a miniature look, we can use specific effects to fake a shallow depth 
 
 Are you all set to add miniature effects to your video and make film-like shots? Then scroll more and get the step-by-step process.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Make a Miniature effect?
 
 You are excited to add a miniature effect, and enjoy the rest! Without any further delay, follow the below instructions and get results!
@@ -462,6 +570,12 @@ You are excited to add a miniature effect, and enjoy the rest! Without any furth
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** filmora has a unique **"stock media"** option that enables us to use all these elements and more to boost our videos!
 
 ##### Step2 Choose any stock footage
@@ -494,12 +608,14 @@ Want to get stock media? You can only have access to the stock media library if 
 
 As we are working on miniature effects, what do we need first? First, we ensure that we have a **Blur** effect on the video.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![search for the blur effect on effect panel in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-5.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 To add a blur effect from the panel, follow the below-mentioned steps:
 
 * First of all, move toward the above tabs.
@@ -518,9 +634,6 @@ After selecting and downloading the blur effect, it's time to add it to the vide
 * **First, drag** and **Drop** the effect toward the timeline.
 * Then, make sure to release the effect on the video to give it a lens blur appearance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add effect on the video in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-6.gif)
 
 ##### Step5 Add the effect multiple times
@@ -539,9 +652,6 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 * Add it by just the **Drag and Drop**
 * Make sure you add it to 2nd video track in the timeline above the first one.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
 
 ##### Step7 Add masks on the Video
@@ -554,9 +664,6 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 * After this, **click** on the **Double-line**.
 * Set the mask on video according to your style and choice.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
@@ -569,9 +676,6 @@ Watch the rotating and adjusting actions as shown below!
 
 For example, when we add a mask in the below time-lapse video, follow the above mask adjustments. Unfortunately, we can't get good results. Therefore, we will apply another way to add a mask by changing shape and position. Follow the instructions for modifications:
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![blur the object near to camera and focus on the distant object](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-11.gif)
 
 * Make a building or any object **Blurry** near the camera because it is not present within the depth of field.
@@ -587,9 +691,6 @@ Want to change the shape of the mask? Then follow the below steps:
 * Then click on the **Mask** tab to open it.
 * Select the **Rectangular** mask from the list and apply it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** make sure you are masking the same extent and excluding the object you want to be out of focus.
@@ -602,12 +703,30 @@ Now, it's time to mask the whole object, which is far, but we want to make it in
 
 ![mask the object far from the camera for the main focus](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-13.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step8 Final Look
 
 You are excited now to see the final look of your miniature effect! Finally, it's in front of you! Just modify it more if you want to make it more precise.
 
 ![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -620,11 +739,14 @@ If you don't have good-quality footage, but want to boost your video, here is ho
 
 * Open Filmora and select any stock footage in Wondershare Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![choose stock footage from stock media in filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Move to the **stock media** folder on the above bar in the Wondershare Filmora. Or you can look towards the left window, where you will see the sample **videos tab.**
 
 * Click on the sample videos tab, and a new **window** will appear on the library screen.
@@ -636,6 +758,18 @@ Here you will see almost more than **20 videos.** So, instead of using the actua
 
 ![add stock video in the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-4.gif)
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Who will get Stock Media?**
 
 Want to get stock media? You can only have access to the stock media library if you already buy the license of Wondershare Filmora.
@@ -669,6 +803,12 @@ After selecting and downloading the blur effect, it's time to add it to the vide
 
 ![add effect on the video in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-6.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step5 Add the effect multiple times
 
 Want to get an ideal blur level? If you need more blur level in your video and make it more cinematic, then follow the below steps:
@@ -685,15 +825,6 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 * Add it by just the **Drag and Drop**
 * Make sure you add it to 2nd video track in the timeline above the first one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
 
 ##### Step7 Add masks on the Video
@@ -709,7 +840,10 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 ![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -717,9 +851,6 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 
 Watch the rotating and adjusting actions as shown below!
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotation of mask in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-10.gif)
 
 For example, when we add a mask in the below time-lapse video, follow the above mask adjustments. Unfortunately, we can't get good results. Therefore, we will apply another way to add a mask by changing shape and position. Follow the instructions for modifications:
@@ -751,12 +882,30 @@ Now, it's time to mask the whole object, which is far, but we want to make it in
 
 ![mask the object far from the camera for the main focus](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-13.gif)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step8 Final Look
 
 You are excited now to see the final look of your miniature effect! Finally, it's in front of you! Just modify it more if you want to make it more precise.
 
 ![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -769,15 +918,15 @@ Have you tried to add a miniature effect before? If yes, then share your experie
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## S-Log Is a Gamma Curve Optimized for Digital Cameras to Maximize the Image Sensor’s Performance. Although These Videos May Look Flat and Washed Out, They Contain Lots of Color Information
 
 S-Log is a gamma curve optimized for digital cameras to maximize the image sensor's performance. Although these videos may look flat and washed out, they contain lots of color information. Even better, video creators can use color correction to edit the S-Log videos and make them look as natural as possible. That's what this article is all about.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Color-Correct an S-Log Footage
 
@@ -797,191 +946,120 @@ Start by adding your video to the timeline on [Wondershare Filmora](https://tool
 
 ![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step2 Read and study the histogram
 
 Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
 
 ![read and study the histogram](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-2.jpg)
 
-##### Step3 Adjust the image colors
-
-Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
-
-![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
-
-After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
-
-![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
-
-Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
-
-**Pro tip**: Ensure that the darkest and brightest points don't cross the broken lines on the edge, or the video will start losing details.
-
-##### Step4 Adjust the color saturation
-
-Does your video still look a little flat? Probably yes! In that case, click the **Color** section and adjust the **Saturation** slider to the right to make the video less flat. Saturation simply means how colorful a video clip is to the viewer. Apart from the color saturation, you can also adjust the **Vibrance** to make your video objects look more colorful.
-
-![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
-
-##### Step5 Preview and compare the video
-
-Now it's time to check and compare the results. To make it easier, click the **Eye** icon at the top-right corner to switch between the original S-Log video and the color-corrected clip. You can also tap the **AB** icon and choose **Split View-Left/Right** to view the clips in the side-by-side mode.
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
-![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
-
-## Summary
-
-I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
-
-##### Step2 Read and study the histogram
-
-Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
-
-![read and study the histogram](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-2.jpg)
-
-##### Step3 Adjust the image colors
-
-Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
-
-After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
-
-![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
-
-Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
-
-**Pro tip**: Ensure that the darkest and brightest points don't cross the broken lines on the edge, or the video will start losing details.
-
-##### Step4 Adjust the color saturation
-
-Does your video still look a little flat? Probably yes! In that case, click the **Color** section and adjust the **Saturation** slider to the right to make the video less flat. Saturation simply means how colorful a video clip is to the viewer. Apart from the color saturation, you can also adjust the **Vibrance** to make your video objects look more colorful.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
-![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
-
-##### Step5 Preview and compare the video
-
-Now it's time to check and compare the results. To make it easier, click the **Eye** icon at the top-right corner to switch between the original S-Log video and the color-corrected clip. You can also tap the **AB** icon and choose **Split View-Left/Right** to view the clips in the side-by-side mode.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
-
-## Summary
-
-I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
-
-##### Step2 Read and study the histogram
-
-Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![read and study the histogram](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-2.jpg)
-
-##### Step3 Adjust the image colors
-
-Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
-
-![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
-
-After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
-
-![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
-
-Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
-
-**Pro tip**: Ensure that the darkest and brightest points don't cross the broken lines on the edge, or the video will start losing details.
-
-##### Step4 Adjust the color saturation
-
-Does your video still look a little flat? Probably yes! In that case, click the **Color** section and adjust the **Saturation** slider to the right to make the video less flat. Saturation simply means how colorful a video clip is to the viewer. Apart from the color saturation, you can also adjust the **Vibrance** to make your video objects look more colorful.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
-![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
-
-##### Step5 Preview and compare the video
-
-Now it's time to check and compare the results. To make it easier, click the **Eye** icon at the top-right corner to switch between the original S-Log video and the color-corrected clip. You can also tap the **AB** icon and choose **Split View-Left/Right** to view the clips in the side-by-side mode.
-
-![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
-
-## Summary
-
-I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
-
-##### Step2 Read and study the histogram
-
-Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+<span id="1983588">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![read and study the histogram](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-2.jpg)
-
 ##### Step3 Adjust the image colors
 
 Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
 
 After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
 
+![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<span id="1938136">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
+
+**Pro tip**: Ensure that the darkest and brightest points don't cross the broken lines on the edge, or the video will start losing details.
+
+##### Step4 Adjust the color saturation
+
+Does your video still look a little flat? Probably yes! In that case, click the **Color** section and adjust the **Saturation** slider to the right to make the video less flat. Saturation simply means how colorful a video clip is to the viewer. Apart from the color saturation, you can also adjust the **Vibrance** to make your video objects look more colorful.
+
+![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
+
+##### Step5 Preview and compare the video
+
+Now it's time to check and compare the results. To make it easier, click the **Eye** icon at the top-right corner to switch between the original S-Log video and the color-corrected clip. You can also tap the **AB** icon and choose **Split View-Left/Right** to view the clips in the side-by-side mode.
+
+![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Summary
+
+I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##### Step2 Read and study the histogram
+
+Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
+
+![read and study the histogram](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##### Step3 Adjust the image colors
+
+Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
+
+![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
+
+After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
+
 ![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
 
 Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
@@ -998,11 +1076,136 @@ Does your video still look a little flat? Probably yes! In that case, click the 
 
 Now it's time to check and compare the results. To make it easier, click the **Eye** icon at the top-right corner to switch between the original S-Log video and the color-corrected clip. You can also tap the **AB** icon and choose **Split View-Left/Right** to view the clips in the side-by-side mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
 
+## Summary
+
+I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
+
+##### Step2 Read and study the histogram
+
+Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
+
+![read and study the histogram](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="120" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##### Step3 Adjust the image colors
+
+Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
+
+![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
+
+After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
+
+![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
+
+Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
+
+**Pro tip**: Ensure that the darkest and brightest points don't cross the broken lines on the edge, or the video will start losing details.
+
+##### Step4 Adjust the color saturation
+
+Does your video still look a little flat? Probably yes! In that case, click the **Color** section and adjust the **Saturation** slider to the right to make the video less flat. Saturation simply means how colorful a video clip is to the viewer. Apart from the color saturation, you can also adjust the **Vibrance** to make your video objects look more colorful.
+
+![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##### Step5 Preview and compare the video
+
+Now it's time to check and compare the results. To make it easier, click the **Eye** icon at the top-right corner to switch between the original S-Log video and the color-corrected clip. You can also tap the **AB** icon and choose **Split View-Left/Right** to view the clips in the side-by-side mode.
+
+![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
+
+## Summary
+
+I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##### Step2 Read and study the histogram
+
+Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
+
+![read and study the histogram](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##### Step3 Adjust the image colors
+
+Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
+
+![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
+
+![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
+
+Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
+
+**Pro tip**: Ensure that the darkest and brightest points don't cross the broken lines on the edge, or the video will start losing details.
+
+##### Step4 Adjust the color saturation
+
+Does your video still look a little flat? Probably yes! In that case, click the **Color** section and adjust the **Saturation** slider to the right to make the video less flat. Saturation simply means how colorful a video clip is to the viewer. Apart from the color saturation, you can also adjust the **Vibrance** to make your video objects look more colorful.
+
+![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
+
+##### Step5 Preview and compare the video
+
+Now it's time to check and compare the results. To make it easier, click the **Eye** icon at the top-right corner to switch between the original S-Log video and the color-corrected clip. You can also tap the **AB** icon and choose **Split View-Left/Right** to view the clips in the side-by-side mode.
+
+![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summary
 
 I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!

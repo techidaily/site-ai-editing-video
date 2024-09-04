@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Make A Countdown Video
-date: 2024-08-10T01:57:14.687Z
-updated: 2024-08-11T01:57:14.687Z
+date: 2024-09-03T22:57:49.336Z
+updated: 2024-09-04T22:57:49.336Z
 tags: 
   - ai
   - animation videos
@@ -53,14 +53,8 @@ Timecode:
 
 Displays the current time as timecode in the time rulers of the Timeline, Layer, and Footage panels. You have the option of utilizing the timecode from the source media (Use Media Source) or beginning at 00:00:00:00\. To use timecode rather than frames, select the Timecode option from the menu. It is important to take note that there are no options available for changing the frame rate or whether or not to delete frames, as the source timecode is recognized and used instead.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![customize timecode countdown video](https://images.wondershare.com/filmora/article-images/2022/11/customize-timecode-countdown-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Part 3\. Source timecode
 
 Support for various file formats for the source timecode QuickTime, DV, AVI, P2, MPEG-2, MPEG-4, H.264, AVCHD, RED, XDCAM EX, XDCAM HD, and WAV image sequence importers are just some of the formats that After Effects is able to read and apply timecode for.
@@ -83,6 +77,12 @@ The Import section of the Preferences dialog box is capable of handling source t
 
 ![box preference countdown video](https://images.wondershare.com/filmora/article-images/2022/11/box-preference-countdown-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 That's it! You are now familiar with the process of creating a straightforward countdown and a countdown timer in After Effects, and you have three options to choose from. Make use of this information to give your videos an interesting spin and to round out the experience for the audience.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -103,9 +103,6 @@ That's it! You are now familiar with the process of creating a straightforward c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add Adjustment Layer in Premiere Pro
 
 Are you using Premiere Pro frequently? Adobe Premiere Pro is considered advanced software for editing video clips proficiently. You can find a diverse range of features in Premiere Pro that allows you to transform your videos immensely.
@@ -114,6 +111,12 @@ If you want to be a professional video editor, you must know the basic technique
 
 ![premiere pro featured image](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is Adjustment Layer in Premiere Pro?
 
 In Premiere Pro, you can save time efficiently by editing each layer individually. To do so, you can find the feature of the adjustment layer in Premiere Pro that enables you to apply the same effect to multiple clips instantly. This will eventually save you time and manual effort. However, you must ensure that the adjustment layer has been placed on top of the layers stack section.
@@ -122,40 +125,46 @@ In an adjustment layer in Premiere Pro, you can add multiple effects to create a
 
 ![adjustment layer in premiere pro](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Furthermore, you can also remove the adjustment layer from your timeline easily without modifying the composition settings of your video. If you get a basic understanding of creating and managing the adjustment layer in Premiere Pro, you can efficiently enhance the visual appeal of your videos. To learn more about the **Premiere Pro adjustment layer**, continue reading.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Add an Adjustment Layer in Premiere Pro?
 
 In this section, we will briefly address **how to add an adjustment layer in Premiere Pro** in a simpler manner.
 
 Step1 Once you have uploaded your project in Premiere Pro, go to the "File" tab and select the "New" option. Afterward, tap on "Adjustment Layer."
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the adjustment layer option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 You can also go to the bottom of your project's panel and tap on the "New Item" icon. After clicking on this icon, you can click on the “Adjustment layer” option. Afterward, you can modify the video settings to change the settings of the adjustment layer. Once done, hit the “OK” button.
 
 ![choose the adjustment layer option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-4.jpg)
 
 Step3 Once the adjustment layer has been created, you can drag and drop it into the timeline. To change its name, you can right-click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add an adjustment layer to timeline](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Three Ways to Use Adjustment Layer in Premiere Pro
 
 Do you want to use the **Premiere Pro adjustment layer** significantly? In this section, we will highlight three ways through which you can use the adjustment layer in Premiere Pro to edit your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Color Grading
 
 Color grading in Premiere Pro can help you to adjust the balance and tone of your video. You can use the color grading effects and tools to set the exposure, brightness, saturation, and light according to your preference. It will also let you redefine the colors in your video efficiently. To use the adjustment layer for color grading, you can read the below instructions:
@@ -164,10 +173,19 @@ Step1 After uploading the video clip in Premiere Pro, create a new adjustment la
 
 ![select the film convert nitrate option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Apply this effect to the adjustment layer and choose your camera to match the color profile. Afterward, you can adjust the saturation, exposure filmstock, and curves according to your choice. You can also increase the vibrancy and hue saturation curves for more enhancement. You can also navigate to the basic correction section to modify the contrast value accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Transition
 
@@ -185,20 +203,26 @@ By using masks in Premiere Pro, you can efficiently blur, highlight, or add an e
 
 Step1 Add the adjustment layer to the timeline and head to the “Effects” library to locate the “Crop” effect. Add this effect to the adjustment layer and then head to the Effects control.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add the crop effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-8.jpg)
 
 Step2 Now enhance the top and bottom properties to 15%. You can also adjust the headspace of the person accordingly. Also, you can animate the black bars to produce a more cinematic look in your video.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: FAQ about Adjustment Layers in Premiere Pro
 
 If you have some questions or concerns about using the adjustment layer in Premiere Pro, we have discussed the commonly asked question below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Why is the adjustment layer greyed out in my Premiere Pro?
 
 To fix grayed adjustment layer in Premiere Pro, there are two methods that you can follow:
@@ -207,6 +231,12 @@ To fix grayed adjustment layer in Premiere Pro, there are two methods that you c
 
 **Method 2:** Click on your “Project Panel” and then navigate to the “File” tab. From there, select “New” and then click on “Adjustment Layer.” Once done, you can drag and drop the adjustment layer at the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Premiere Pro is a famous video editing software that lets you enhance your videos proficiently. In this tool, using adjustment layers can help you in making your editing process quicker and easier. That’s why, in this article, we have focused on **how to add an adjustment layer in Premiere Pro**. Moreover, we have also shed light on how to use the adjustment layer precisely with various effects to enhance your videos.
@@ -217,18 +247,6 @@ If you want to be a professional video editor, you must know the basic technique
 
 ![premiere pro featured image](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is Adjustment Layer in Premiere Pro?
 
 In Premiere Pro, you can save time efficiently by editing each layer individually. To do so, you can find the feature of the adjustment layer in Premiere Pro that enables you to apply the same effect to multiple clips instantly. This will eventually save you time and manual effort. However, you must ensure that the adjustment layer has been placed on top of the layers stack section.
@@ -237,11 +255,14 @@ In an adjustment layer in Premiere Pro, you can add multiple effects to create a
 
 ![adjustment layer in premiere pro](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Furthermore, you can also remove the adjustment layer from your timeline easily without modifying the composition settings of your video. If you get a basic understanding of creating and managing the adjustment layer in Premiere Pro, you can efficiently enhance the visual appeal of your videos. To learn more about the **Premiere Pro adjustment layer**, continue reading.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Add an Adjustment Layer in Premiere Pro?
 
 In this section, we will briefly address **how to add an adjustment layer in Premiere Pro** in a simpler manner.
@@ -250,6 +271,12 @@ Step1 Once you have uploaded your project in Premiere Pro, go to the "File" tab 
 
 ![select the adjustment layer option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 You can also go to the bottom of your project's panel and tap on the "New Item" icon. After clicking on this icon, you can click on the “Adjustment layer” option. Afterward, you can modify the video settings to change the settings of the adjustment layer. Once done, hit the “OK” button.
 
 ![choose the adjustment layer option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-4.jpg)
@@ -259,12 +286,16 @@ Step3 Once the adjustment layer has been created, you can drag and drop it into 
 ![add an adjustment layer to timeline](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: Three Ways to Use Adjustment Layer in Premiere Pro
 
@@ -281,7 +312,10 @@ Step1 After uploading the video clip in Premiere Pro, create a new adjustment la
 Step2 Apply this effect to the adjustment layer and choose your camera to match the color profile. Afterward, you can adjust the saturation, exposure filmstock, and curves according to your choice. You can also increase the vibrancy and hue saturation curves for more enhancement. You can also navigate to the basic correction section to modify the contrast value accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Transition
 
@@ -291,9 +325,6 @@ Step1 First, drag and drop your video clips into the timeline. Once done, create
 
 Step2 Now add the keyframe to the position where you want to start and end the transition effect. Afterward, right-click on the first keyframe and select "Temporal Interpolation." From there, choose "Ease Out." Repeat the same process with the last keyframe. Once done, add the “Directional blur” effect to the adjustment layer for a smoother look.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![select the ease-out option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-7.jpg)
 
 ### 3\. Mask
@@ -307,7 +338,16 @@ Step1 Add the adjustment layer to the timeline and head to the “Effects” lib
 Step2 Now enhance the top and bottom properties to 15%. You can also adjust the headspace of the person accordingly. Also, you can animate the black bars to produce a more cinematic look in your video.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<span id="1328683">
+					<video width="125" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: FAQ about Adjustment Layers in Premiere Pro
 
@@ -322,7 +362,16 @@ To fix grayed adjustment layer in Premiere Pro, there are two methods that you c
 **Method 2:** Click on your “Project Panel” and then navigate to the “File” tab. From there, select “New” and then click on “Adjustment Layer.” Once done, you can drag and drop the adjustment layer at the timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<span id="1983582">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -378,12 +427,24 @@ Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video
 
 ![change blending mode](https://images.wondershare.com/filmora/article-images/2023/01/difference.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 7
 
 Delete the clip on Track 1\. Then, move the clip from Track 2 to Track 1\. Now, Import the clip that you just Exported and drag it to Track 2.
 
 ![import clip to filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 8
 
 Go to **Effects** and find the **Blur** effect. Drag the Blur effect to the clip on Track 2.
@@ -434,11 +495,20 @@ Step 2
 
 Go to **My Media** and Import any video you want to add a glowing edge effect to. Then, drag the video to Track 1 on the Timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import video filmora](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3
 
 Copy the Clip from Track 1 and paste it on Track 2.
@@ -449,6 +519,12 @@ Go to the **Effects** tab and apply the “**Pixelated Edges**” effect to the 
 
 ![add effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/effect.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 5
 
 Double-click on the Clip in Track 1\. Go to **Video → Effects.** Here, change the color to anything you want. This will determine what color your glowing edge effect will be. When you’re done choosing a color, click **OK.**
@@ -467,13 +543,16 @@ Delete the clip on Track 1\. Then, move the clip from Track 2 to Track 1\. Now, 
 
 ![import clip to filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 8
 
 Go to **Effects** and find the **Blur** effect. Drag the Blur effect to the clip on Track 2.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![add blur effect](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
 
 Step 9
@@ -494,6 +573,12 @@ You’re done. The glow effect will now be applied to your video. You have succe
 
 ![](https://images.wondershare.com/filmora/article-images/2023/01/.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Summary
 
 **What you've learned:**
@@ -522,6 +607,12 @@ Go to **My Media** and Import any video you want to add a glowing edge effect to
 
 ![import video filmora](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3
 
 Copy the Clip from Track 1 and paste it on Track 2.
@@ -530,44 +621,80 @@ Step 4
 
 Go to the **Effects** tab and apply the “**Pixelated Edges**” effect to the clip on Track 1\. Then, hide Track 2 by clicking the “eye” button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![add effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/effect.png)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="150" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 5
 
 Double-click on the Clip in Track 1\. Go to **Video → Effects.** Here, change the color to anything you want. This will determine what color your glowing edge effect will be. When you’re done choosing a color, click **OK.**
 
 ![glowing edge color](https://images.wondershare.com/filmora/article-images/2023/01/color.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 6
 
 Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video → Basic.** Scroll down and change the **Blending Mode** to “**Difference**”. Click **OK** and **Export** the clip at a higher rate. Click on the blue Export button at the top center.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![change blending mode](https://images.wondershare.com/filmora/article-images/2023/01/difference.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 7
 
 Delete the clip on Track 1\. Then, move the clip from Track 2 to Track 1\. Now, Import the clip that you just Exported and drag it to Track 2.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import clip to filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 8
 
 Go to **Effects** and find the **Blur** effect. Drag the Blur effect to the clip on Track 2.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add blur effect](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 9
 
 Double-click on the clip in Track 2\. Go to **Video → Effects.** Change the **Zoom Rate** to **1\.** Click **OK.** Now, find the **Glow** effect in the Effects tab and apply it **two times** to the clip on Track 2\. Copy the Track 2 clip and paste it on Track 3.
@@ -586,6 +713,12 @@ You’re done. The glow effect will now be applied to your video. You have succe
 
 ![](https://images.wondershare.com/filmora/article-images/2023/01/.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Summary
 
 **What you've learned:**
@@ -614,6 +747,12 @@ Go to **My Media** and Import any video you want to add a glowing edge effect to
 
 ![import video filmora](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3
 
 Copy the Clip from Track 1 and paste it on Track 2.
@@ -630,28 +769,40 @@ Double-click on the Clip in Track 1\. Go to **Video → Effects.** Here, change 
 
 ![glowing edge color](https://images.wondershare.com/filmora/article-images/2023/01/color.png)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 6
 
 Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video → Basic.** Scroll down and change the **Blending Mode** to “**Difference**”. Click **OK** and **Export** the clip at a higher rate. Click on the blue Export button at the top center.
 
 ![change blending mode](https://images.wondershare.com/filmora/article-images/2023/01/difference.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 7
 
 Delete the clip on Track 1\. Then, move the clip from Track 2 to Track 1\. Now, Import the clip that you just Exported and drag it to Track 2.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import clip to filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
 
 Step 8
 
 Go to **Effects** and find the **Blur** effect. Drag the Blur effect to the clip on Track 2.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![add blur effect](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
 
 Step 9
@@ -702,6 +853,18 @@ It’s is so simple and will not take much of your time.
 
 Let’s dive in…
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Rotating videos in google photos**
 
 Rotating a video in google photos is pretty simple and will not take much of your time. You can easily fix the rotation and aspect ratio of your videos. But it’s a little tricky.
@@ -710,219 +873,22 @@ I'm going to show you how to flip your videos from portrait mode to landscape mo
 
 You need to open up your google photos app and choose the video you want to flip, then you're going to pick the button in the bottom middle with the levers on it and in the bottom right hand corner.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-1.png)
 
 You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
 
-Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
-
-## **An easier way to rotate videos in Google Photos**
-
-If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
-
-But stop worrying, you can set your video at any angle with [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . It is one of the best video editing software that provides you with the editing tools you need to edit and share your videos across the globe. It allows you to flip and rotate the orientation of the video. It also supports many popular formats used on different social media platforms like Linkedin, Instagram, Twitter, YouTube and so many more.
-
-Let’s have look at this professionally designed software that everyone can master in a few minutes and can film professional videos. Since it provides all the features that you will need to make movies in a good way. Moreover, its interface is very simple to use.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-Here’s How to do it…
-
-### Rotate video at any angle
-
-You can also rotate the video by using the **Transform** tab located at the top right corner.
-
-* Drag your video into the **timeline**.
-* Double click on the video to bring up the **editing panel**.
-* Hit the **basic** tab under the **video** tab in the menu bar.
-* Select the **Transform**
-* Click the **rotate**
-* Here you can move the rotate slider or directly enter the rotating value.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
-
-You will notice that I have changed the rotation of my video from its original position to the rotated angle.
-
-You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
-
-* Hit the **ok**
-* Select the **save**
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
-
-Similarly, you can drag the video from the preview panel and adjust it as required.
-
-Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
-
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
-
-Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
-
-Just go ahead and start…
-
- Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
-
-### **What’s more you can do with Filmora**
-
-**Changing the Aspect ratio**
-
-After you rotate the video at an angle you like. You can change the aspect ratio of the video furthermore.
-
-* **Import** the desired video and drag it into the **timeline**. Then click the Aspect Ratio icon at the bottom of the preview window.
-* You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
-* Press **OK**
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
-
-By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
-## **Conclusion**
-
-Here’s how you can rotate your video using two different softwares. Now you can shoot your videos without setting the proper video orientation. Sometimes, while shooting a video, the real scene unfolds in making a lot settings. I hope, after reading this content, you will be confident enough to start shooting videos and then editing them without having trouble of learning the software.
-
-Let’s dive in!
-
-Go ahead…
-
-A good destiny is waiting for you.
-
-You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
-
-Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
-## **An easier way to rotate videos in Google Photos**
-
-If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
-
-But stop worrying, you can set your video at any angle with [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . It is one of the best video editing software that provides you with the editing tools you need to edit and share your videos across the globe. It allows you to flip and rotate the orientation of the video. It also supports many popular formats used on different social media platforms like Linkedin, Instagram, Twitter, YouTube and so many more.
-
-Let’s have look at this professionally designed software that everyone can master in a few minutes and can film professional videos. Since it provides all the features that you will need to make movies in a good way. Moreover, its interface is very simple to use.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-Here’s How to do it…
-
-### Rotate video at any angle
-
-You can also rotate the video by using the **Transform** tab located at the top right corner.
-
-* Drag your video into the **timeline**.
-* Double click on the video to bring up the **editing panel**.
-* Hit the **basic** tab under the **video** tab in the menu bar.
-* Select the **Transform**
-* Click the **rotate**
-* Here you can move the rotate slider or directly enter the rotating value.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
-
-You will notice that I have changed the rotation of my video from its original position to the rotated angle.
-
-You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
-
-* Hit the **ok**
-* Select the **save**
-
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
-
-Similarly, you can drag the video from the preview panel and adjust it as required.
-
-Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
-
-Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
-
-Just go ahead and start…
-
- Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
-
-### **What’s more you can do with Filmora**
-
-**Changing the Aspect ratio**
-
-After you rotate the video at an angle you like. You can change the aspect ratio of the video furthermore.
-
-* **Import** the desired video and drag it into the **timeline**. Then click the Aspect Ratio icon at the bottom of the preview window.
-* You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
-* Press **OK**
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
-
-By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
-
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
-## **Conclusion**
-
-Here’s how you can rotate your video using two different softwares. Now you can shoot your videos without setting the proper video orientation. Sometimes, while shooting a video, the real scene unfolds in making a lot settings. I hope, after reading this content, you will be confident enough to start shooting videos and then editing them without having trouble of learning the software.
-
-Let’s dive in!
-
-Go ahead…
-
-A good destiny is waiting for you.
-
-You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
-
-Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
+
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **An easier way to rotate videos in Google Photos**
 
 If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
@@ -941,9 +907,6 @@ For macOS 10.14 or later
 
 Here’s How to do it…
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Rotate video at any angle
 
 You can also rotate the video by using the **Transform** tab located at the top right corner.
@@ -955,11 +918,14 @@ You can also rotate the video by using the **Transform** tab located at the top 
 * Click the **rotate**
 * Here you can move the rotate slider or directly enter the rotating value.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You will notice that I have changed the rotation of my video from its original position to the rotated angle.
 
 You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
@@ -975,6 +941,12 @@ Here, you can **Flip** function your video to change the direction. Like in this
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
 
 Just go ahead and start…
@@ -991,16 +963,10 @@ After you rotate the video at an angle you like. You can change the aspect ratio
 * You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
 * Press **OK**
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
 
 By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## **Conclusion**
 
 Here’s how you can rotate your video using two different softwares. Now you can shoot your videos without setting the proper video orientation. Sometimes, while shooting a video, the real scene unfolds in making a lot settings. I hope, after reading this content, you will be confident enough to start shooting videos and then editing them without having trouble of learning the software.
@@ -1013,20 +979,125 @@ A good destiny is waiting for you.
 
 You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
 
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<span id="1982499">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **An easier way to rotate videos in Google Photos**
+
+If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
+
+But stop worrying, you can set your video at any angle with [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . It is one of the best video editing software that provides you with the editing tools you need to edit and share your videos across the globe. It allows you to flip and rotate the orientation of the video. It also supports many popular formats used on different social media platforms like Linkedin, Instagram, Twitter, YouTube and so many more.
+
+Let’s have look at this professionally designed software that everyone can master in a few minutes and can film professional videos. Since it provides all the features that you will need to make movies in a good way. Moreover, its interface is very simple to use.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Here’s How to do it…
+
+### Rotate video at any angle
+
+You can also rotate the video by using the **Transform** tab located at the top right corner.
+
+* Drag your video into the **timeline**.
+* Double click on the video to bring up the **editing panel**.
+* Hit the **basic** tab under the **video** tab in the menu bar.
+* Select the **Transform**
+* Click the **rotate**
+* Here you can move the rotate slider or directly enter the rotating value.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
+
+You will notice that I have changed the rotation of my video from its original position to the rotated angle.
+
+You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
+
+* Hit the **ok**
+* Select the **save**
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
+
+Similarly, you can drag the video from the preview panel and adjust it as required.
+
+Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
+
+Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
+
+Just go ahead and start…
+
+ Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
+
+### **What’s more you can do with Filmora**
+
+**Changing the Aspect ratio**
+
+After you rotate the video at an angle you like. You can change the aspect ratio of the video furthermore.
+
+* **Import** the desired video and drag it into the **timeline**. Then click the Aspect Ratio icon at the bottom of the preview window.
+* You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
+* Press **OK**
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
+
+## **Conclusion**
+
+Here’s how you can rotate your video using two different softwares. Now you can shoot your videos without setting the proper video orientation. Sometimes, while shooting a video, the real scene unfolds in making a lot settings. I hope, after reading this content, you will be confident enough to start shooting videos and then editing them without having trouble of learning the software.
+
+Let’s dive in!
+
+Go ahead…
+
+A good destiny is waiting for you.
+
+You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
+
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
 
 Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **An easier way to rotate videos in Google Photos**
 
@@ -1047,7 +1118,10 @@ For macOS 10.14 or later
 Here’s How to do it…
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Rotate video at any angle
 
@@ -1069,11 +1143,20 @@ You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 1
 * Hit the **ok**
 * Select the **save**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Similarly, you can drag the video from the preview panel and adjust it as required.
 
 Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
@@ -1086,9 +1169,131 @@ Just go ahead and start…
 
  Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
 
+### **What’s more you can do with Filmora**
+
+**Changing the Aspect ratio**
+
+After you rotate the video at an angle you like. You can change the aspect ratio of the video furthermore.
+
+* **Import** the desired video and drag it into the **timeline**. Then click the Aspect Ratio icon at the bottom of the preview window.
+* You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
+* Press **OK**
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
+
+## **Conclusion**
+
+Here’s how you can rotate your video using two different softwares. Now you can shoot your videos without setting the proper video orientation. Sometimes, while shooting a video, the real scene unfolds in making a lot settings. I hope, after reading this content, you will be confident enough to start shooting videos and then editing them without having trouble of learning the software.
+
+Let’s dive in!
+
+Go ahead…
+
+A good destiny is waiting for you.
+
+You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="150" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **An easier way to rotate videos in Google Photos**
+
+If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
+
+But stop worrying, you can set your video at any angle with [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . It is one of the best video editing software that provides you with the editing tools you need to edit and share your videos across the globe. It allows you to flip and rotate the orientation of the video. It also supports many popular formats used on different social media platforms like Linkedin, Instagram, Twitter, YouTube and so many more.
+
+Let’s have look at this professionally designed software that everyone can master in a few minutes and can film professional videos. Since it provides all the features that you will need to make movies in a good way. Moreover, its interface is very simple to use.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Here’s How to do it…
+
+### Rotate video at any angle
+
+You can also rotate the video by using the **Transform** tab located at the top right corner.
+
+* Drag your video into the **timeline**.
+* Double click on the video to bring up the **editing panel**.
+* Hit the **basic** tab under the **video** tab in the menu bar.
+* Select the **Transform**
+* Click the **rotate**
+* Here you can move the rotate slider or directly enter the rotating value.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
+
+You will notice that I have changed the rotation of my video from its original position to the rotated angle.
+
+You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
+
+* Hit the **ok**
+* Select the **save**
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Similarly, you can drag the video from the preview panel and adjust it as required.
+
+Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
+
+Just go ahead and start…
+
+ Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **What’s more you can do with Filmora**
 
@@ -1102,6 +1307,12 @@ After you rotate the video at an angle you like. You can change the aspect ratio
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
 
 ## **Conclusion**

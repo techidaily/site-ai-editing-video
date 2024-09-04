@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Easy Steps to Export Video in Filmora
-date: 2024-08-10T01:56:42.015Z
-updated: 2024-08-11T01:56:42.015Z
+date: 2024-09-03T22:57:47.221Z
+updated: 2024-09-04T22:57:47.221Z
 tags: 
   - ai
   - animation videos
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/fff656b551e024a92bec77f08e34169fdbb7972da
 
 After you edit your video with Filmora you may wonder how to export your video in Filmora Indeed, you can export your video in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in various options. This article will show you the multiple options you can get if you want to export your video in Filmora.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Steps to export your video with Filmora
 
 To open the export box, press "CTRL+E" on your keyboard. After that, you'll see many export options you can do.
@@ -30,9 +27,6 @@ To open the export box, press "CTRL+E" on your keyboard. After that, you'll see 
 
 If you want your video to end up on YouTube, you can click on the "YouTube" option, sign in, and enter all the basic metadata you need for your YouTube video. Then you can click "Export", and the video will go straight to YouTube. Also, you can have all of your privacy settings, descriptions, and everything else.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![export video platform](https://images.wondershare.com/filmora/article-images/2022/12/export-video-in-filmora-2.jpg)
 
 Similar to YouTube, you can do the same thing if you want to export your video on Vimeo.
@@ -43,9 +37,6 @@ Similar to YouTube, you can do the same thing if you want to export your video o
 
 You can also directly burn your video to a DVD. Even though video to DVD isn't as common as it used to be, it's still nice to be able to do it, especially if you like making DVDs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![export and burn video into dvd](https://images.wondershare.com/filmora/article-images/2022/12/export-video-in-filmora-4.jpg)
 
 **Export Video to Other Devices**
@@ -56,9 +47,6 @@ Go to the "Devices" option if you want to export your video to specific devices 
 
 You can also adjust the quality of your video based on your needs by clicking on "Setting."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust the quality of video](https://images.wondershare.com/filmora/article-images/2022/12/export-video-in-filmora-6.jpg)
 
 **Export Videos in High Res Quality**
@@ -69,9 +57,6 @@ In the “Format” option you can choose the file extension, the format, or the
 
 You can choose "Apple Prores" if you want the least amount of compression possible and don't care about the file size. For example, if you want to export a video from Filmora and then import it into another video editor without losing too much quality, you should definitely choose "Apple Prores."
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose apple prores](https://images.wondershare.com/filmora/article-images/2022/12/export-video-in-filmora-8.jpg)
 
 Before exporting, there is the option to upload to the cloud. If you do not know what it is, Wondershare has its own Drive, which allows you to save and remotely view your video files.
@@ -82,14 +67,8 @@ In the meantime, if you have a decent PC, you can enable "Hardware acceleration 
 
 When you click Export, you can see the progress with thumbnails and everything. Lastly, your video has been exported successfully when the exporting process reaches 100%.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![finish exporting video](https://images.wondershare.com/filmora/article-images/2022/12/export-video-in-filmora-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Summary
 
 Indeed, there are many options to export your video using Filmora. If you wish to export your video directly to YouTube, simply select the YouTube option in the Export box. Meanwhile, if you want to export your video on your computer and upload it to various social media platforms, it's much better to export it with a format option.
@@ -112,6 +91,12 @@ Indeed, there are many options to export your video using Filmora. If you wish t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Before & After Editing Trick - Filmora
 
 How do travel vloggers instantly grab everyone's attention with their magical content? The unique animation preset is the answer. Video makers use them to morph video clips into scenic views that make viewers' jaws drop in awe. Also, these edits can cover up any flaws made during the production of the original video clip. Isn’t it cool?
@@ -119,7 +104,10 @@ How do travel vloggers instantly grab everyone's attention with their magical co
 You might be wondering how to add these effects to the video. Keep reading to discover some of the simplest effects that are bound to add soul to your content. Before diving into the details, let’s first understand these effects.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1\. What are the before/after effects?
 
@@ -131,21 +119,33 @@ In films, for example, the dissolve effect is employed to signify a time change.
 
 The history of after-effects can be traced back to 1993\. These effects enabled the crew to mix 3D and 2D images to produce virtual dinosaur motion visuals in the Jurassic Park film, which we all love. Now that you have a fundamental understanding of the origins of after-effects, let's take a look at where they might be applied!
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. Where can you use these before/after effects?
 
 If you are a fan of fiction movies, then you must have noticed that some of their scenes though fake, look so realistic that they blow our minds. And now you might have an idea of how these shots are created!
 
 Whether it be shooting a movie or a commercial, these transitions have the power to make our content irresistible. Once you are familiar with the purpose of these after-effects, it’s time to show you how you can edit your videos using these effects.
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to edit your videos using before/after effects?
 
 If you're new to editing and don't know much about video graphics, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) video editor is the finest platform for you. It is not only easier to use but also more entertaining than other online video editors. Filmora is a free video editor that is accessible for both Windows and macOS.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Steps for installing the Filmora video editor
 
@@ -161,6 +161,12 @@ Step4 Now, you can use the Filmora video editor to beautify your content.
 
 Now, let's explore some of the coolest transition effects that you can use in your videos for before and after comparison.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Filmora's top three transition effects for beginners
 
 Wondershare Filmora can help video editors achieve their goals in the most basic and economical fashion. The best three transition effects that may completely transform your videos are shown below.
@@ -177,21 +183,48 @@ Step1 Drag and drop the video clip 'before color correction' onto the timeline's
 
 ![drag and drop the video clip](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Then, drag and drop the color-corrected video clip on the second video track. Ensure that the clips are piled on top of one another so they may all be played simultaneously. It will make it easier for us to trim the footage.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drag and drop the color-corrected video clip](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Place the play head where we want the transformation to begin. Then trim the second clip.
 
 ![place the play](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Go to the Transitions window and select "Erase slide." Drag the transition to the start of the second video clip. Then, double-click the transition on the timeline to open the settings box.
 
 ![go to the transitions window](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 Adjust the length of the "Erase slide." Let's see how it turns out!
 
 ![adjust the length of the erase slide](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-6.gif)
@@ -206,20 +239,20 @@ We may utilize the dissolve transition to display the differences between two vi
 
 Step1 Drag and drop the first video clip onto the timeline's first video track.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![drag and drop the first video clip](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Then, on the second video track, drag and drop the second video clip. Make sure the start of the second clip is where you want the transition to begin.
 
 ![drag and drop the second video clip](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-8.jpg)
 
 Step3 Then Go to the Transitions window and choose the "Dissolve" effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![choose the dissolve effect](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-9.jpg)
 
 Step4 Drag the transition to the start of the second video clip.
@@ -230,6 +263,12 @@ Step5 Then, on the timeline, double-click the transition to open the settings bo
 
 ![double-click the transition to open the settings box](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can see how it looks in the image below. If we play the timeline, we can watch the green court convert into the old basketball court. However, the two visuals don't truly match each other during the transformation.
 
 ##### Steps to adjust the frames of the clips
@@ -244,13 +283,16 @@ Step4 Find the transform section and scale it to 110%.
 
 Step5 Then, move the first video's frame to match the second video's placement. We may notice a more natural transition when we replay the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Split Screen Effect
 
 The split-screen technique first appeared in the film "The Queen of Spades," which was released in 1949\. It depicted a man suffering from a psychological illness. The split-screen effect was used to demonstrate the contrast between reality and his hallucinations. It made the viewer more aware of what was actually happening in the film.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![split screen effect](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-12.jpg)
 
 Since then, the split screen has been used as the simplest technique to demonstrate the before/after comparison. This effect is also ideal for emphasizing the changes in only one section of the video.
@@ -269,9 +311,6 @@ Step3 You'll see the split-screen template in the preview box when you double-cl
 
 Step4 Drag the two video clips you wish to compare to the template's left and right sides.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drag the two video clips](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-14.gif)
 
 Step5 If necessary, you may also adjust the location of the videos in the preview clip.
@@ -284,14 +323,19 @@ Step7 All of the steps for the before/after split screen are now complete.
 
 Step8 Let's wait and see how it turns out!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![split screen are complete](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-16.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Final words
 
@@ -312,7 +356,10 @@ By the end of this article, you must understand how to employ the wipe effect, t
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Crop a Video in Windows Media Player
 
@@ -326,6 +373,18 @@ Cropping is the manner of shifting or adjusting the rims of a photograph or vide
 
 In this article you will learn how to crop a video through windows media player and with Filmora Wondershare. Here are ways to crop your video clip.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to crop a video in Windows Media Player
 
 Actually, Windows Media Player can not crop a video directly. However plug-ins including the SolveigMM WMP Trimmer may be set up and used to cut or edit videos in Windows Media Player for free. Detailed steps are furnished right here to train you a way to deployation and use this unique plug-in.
@@ -336,23 +395,206 @@ Step 1: Download and install the SolveigMM WMP Trimmer plug-in. To download the 
 
 Step 3: On Windows Media Player, click on the principle menu object and navigate to Tools Plug-ins SolveigMM WMP Trimmer Plugin.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-1.png)
 
 Your plug-in will be enabled after selecting it from the menu.
 
 Step 4: While playingthe document you need to edit, flow the blue slider to the segment of the film you need to trim/reduce and click "Start". Manually type the time of the video you need to begin deciding on into the Start box in case you discover the usage of the slider difficult. Click the "End" button on the factor you need the trimming to end.
 
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-2.png)
+
+Step 5: Find and press the "In" button to trim the chosen component; The "Out" button to reduce the chosen component out of the authentic media document.
+
+Note that SolveigMM WMP Trimmer Plugin supports to edit videos including cutting or trimming, however, it doesn’t offer an option to crop video.
+
+## An alternative way to crop video on Windows by Wondershare Filmora
+
+Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is one of the great video enhancing software program with cool functions that compares to different competing video enhancing Softwares program. Many video enhancing applications claimed to provide expert results; Filmora is one in every of some consumer-stage equipment that definitely delivers.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Here in Filmora, it is not just trimming but this tool can help you to adjust the focus of your video clip. Here are steps on how to crop a video using wondershare filmora.
+
+1\. Install and launch your Filmora Wondershare app.
+
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-3.png)
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="125" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+2\. Find the import media. Click it and choose your preferred video fromyour files that you want to edit. Wait a second until the video is finished importing.
+
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-4.png)
+
+3\. Drag the video to the lower left side. After dragging ,right-click yourmouse and choose video and then click “crop and zoom.”
+
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-5.jpeg)
+
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-6.png)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="360" height="640" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-7.png)
+
+4\. Now, you can adjust the focus of your video.
+
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5\. After cropping, if you are satisfied with your edit you can now save your project by clicking the save project icon.
+
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+In this guide, you have acquired some knowledge about using crop on a video clip. Though this process or step could be very difficult but using Filmora Wondershare you can easily follow the steps provided above.
+
+Therefore, cropping video is necessary. It is one of the basic editing skill that you need to know. It is functional to your online business, work projects, school projects and other related stuffs. Cropping will help you to emphasize more about your subject.
+
+It is easier for you to do the edit if you used some software programs. You can used Filmora Wondershare or any of the best editing software programs. While you are giving the best videos and photos of your costumer and viewers you are also improving and enhancing your editing skills.
+
+However, you also need to be careful in doing some edits. Before you save your project you need to make sure that you are cropping the right portion of your video.
+
+Your plug-in will be enabled after selecting it from the menu.
+
+Step 4: While playingthe document you need to edit, flow the blue slider to the segment of the film you need to trim/reduce and click "Start". Manually type the time of the video you need to begin deciding on into the Start box in case you discover the usage of the slider difficult. Click the "End" button on the factor you need the trimming to end.
+
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-2.png)
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="120" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 5: Find and press the "In" button to trim the chosen component; The "Out" button to reduce the chosen component out of the authentic media document.
+
+Note that SolveigMM WMP Trimmer Plugin supports to edit videos including cutting or trimming, however, it doesn’t offer an option to crop video.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## An alternative way to crop video on Windows by Wondershare Filmora
+
+Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is one of the great video enhancing software program with cool functions that compares to different competing video enhancing Softwares program. Many video enhancing applications claimed to provide expert results; Filmora is one in every of some consumer-stage equipment that definitely delivers.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Here in Filmora, it is not just trimming but this tool can help you to adjust the focus of your video clip. Here are steps on how to crop a video using wondershare filmora.
+
+1\. Install and launch your Filmora Wondershare app.
+
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-3.png)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="150" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+2\. Find the import media. Click it and choose your preferred video fromyour files that you want to edit. Wait a second until the video is finished importing.
+
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-4.png)
+
+3\. Drag the video to the lower left side. After dragging ,right-click yourmouse and choose video and then click “crop and zoom.”
+
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-5.jpeg)
+
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-7.png)
+
+4\. Now, you can adjust the focus of your video.
+
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-8.png)
+
+5\. After cropping, if you are satisfied with your edit you can now save your project by clicking the save project icon.
+
+![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+In this guide, you have acquired some knowledge about using crop on a video clip. Though this process or step could be very difficult but using Filmora Wondershare you can easily follow the steps provided above.
+
+Therefore, cropping video is necessary. It is one of the basic editing skill that you need to know. It is functional to your online business, work projects, school projects and other related stuffs. Cropping will help you to emphasize more about your subject.
+
+It is easier for you to do the edit if you used some software programs. You can used Filmora Wondershare or any of the best editing software programs. While you are giving the best videos and photos of your costumer and viewers you are also improving and enhancing your editing skills.
+
+However, you also need to be careful in doing some edits. Before you save your project you need to make sure that you are cropping the right portion of your video.
+
+Your plug-in will be enabled after selecting it from the menu.
+
+Step 4: While playingthe document you need to edit, flow the blue slider to the segment of the film you need to trim/reduce and click "Start". Manually type the time of the video you need to begin deciding on into the Start box in case you discover the usage of the slider difficult. Click the "End" button on the factor you need the trimming to end.
+
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-2.png)
 
 Step 5: Find and press the "In" button to trim the chosen component; The "Out" button to reduce the chosen component out of the authentic media document.
@@ -381,18 +623,24 @@ Here in Filmora, it is not just trimming but this tool can help you to adjust th
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3\. Drag the video to the lower left side. After dragging ,right-click yourmouse and choose video and then click “crop and zoom.”
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-5.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-7.png)
 
 4\. Now, you can adjust the focus of your video.
@@ -403,6 +651,12 @@ Here in Filmora, it is not just trimming but this tool can help you to adjust th
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this guide, you have acquired some knowledge about using crop on a video clip. Though this process or step could be very difficult but using Filmora Wondershare you can easily follow the steps provided above.
@@ -449,83 +703,19 @@ Here in Filmora, it is not just trimming but this tool can help you to adjust th
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-5.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-7.png)
-
-4\. Now, you can adjust the focus of your video.
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-8.png)
-
-5\. After cropping, if you are satisfied with your edit you can now save your project by clicking the save project icon.
-
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-9.png)
-
-## Conclusion
-
-In this guide, you have acquired some knowledge about using crop on a video clip. Though this process or step could be very difficult but using Filmora Wondershare you can easily follow the steps provided above.
-
-Therefore, cropping video is necessary. It is one of the basic editing skill that you need to know. It is functional to your online business, work projects, school projects and other related stuffs. Cropping will help you to emphasize more about your subject.
-
-It is easier for you to do the edit if you used some software programs. You can used Filmora Wondershare or any of the best editing software programs. While you are giving the best videos and photos of your costumer and viewers you are also improving and enhancing your editing skills.
-
-However, you also need to be careful in doing some edits. Before you save your project you need to make sure that you are cropping the right portion of your video.
-
-Your plug-in will be enabled after selecting it from the menu.
-
-Step 4: While playingthe document you need to edit, flow the blue slider to the segment of the film you need to trim/reduce and click "Start". Manually type the time of the video you need to begin deciding on into the Start box in case you discover the usage of the slider difficult. Click the "End" button on the factor you need the trimming to end.
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-2.png)
-
-Step 5: Find and press the "In" button to trim the chosen component; The "Out" button to reduce the chosen component out of the authentic media document.
-
-Note that SolveigMM WMP Trimmer Plugin supports to edit videos including cutting or trimming, however, it doesn’t offer an option to crop video.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## An alternative way to crop video on Windows by Wondershare Filmora
-
-Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is one of the great video enhancing software program with cool functions that compares to different competing video enhancing Softwares program. Many video enhancing applications claimed to provide expert results; Filmora is one in every of some consumer-stage equipment that definitely delivers.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-Here in Filmora, it is not just trimming but this tool can help you to adjust the focus of your video clip. Here are steps on how to crop a video using wondershare filmora.
-
-1\. Install and launch your Filmora Wondershare app.
-
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-3.png)
-
-2\. Find the import media. Click it and choose your preferred video fromyour files that you want to edit. Wait a second until the video is finished importing.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-4.png)
-
-3\. Drag the video to the lower left side. After dragging ,right-click yourmouse and choose video and then click “crop and zoom.”
-
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-5.jpeg)
-
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-7.png)
 
@@ -537,74 +727,24 @@ Here in Filmora, it is not just trimming but this tool can help you to adjust th
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-9.png)
 
-## Conclusion
-
-In this guide, you have acquired some knowledge about using crop on a video clip. Though this process or step could be very difficult but using Filmora Wondershare you can easily follow the steps provided above.
-
-Therefore, cropping video is necessary. It is one of the basic editing skill that you need to know. It is functional to your online business, work projects, school projects and other related stuffs. Cropping will help you to emphasize more about your subject.
-
-It is easier for you to do the edit if you used some software programs. You can used Filmora Wondershare or any of the best editing software programs. While you are giving the best videos and photos of your costumer and viewers you are also improving and enhancing your editing skills.
-
-However, you also need to be careful in doing some edits. Before you save your project you need to make sure that you are cropping the right portion of your video.
-
-Your plug-in will be enabled after selecting it from the menu.
-
-Step 4: While playingthe document you need to edit, flow the blue slider to the segment of the film you need to trim/reduce and click "Start". Manually type the time of the video you need to begin deciding on into the Start box in case you discover the usage of the slider difficult. Click the "End" button on the factor you need the trimming to end.
-
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-2.png)
-
-Step 5: Find and press the "In" button to trim the chosen component; The "Out" button to reduce the chosen component out of the authentic media document.
-
-Note that SolveigMM WMP Trimmer Plugin supports to edit videos including cutting or trimming, however, it doesn’t offer an option to crop video.
-
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<span id="1983575">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## An alternative way to crop video on Windows by Wondershare Filmora
-
-Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is one of the great video enhancing software program with cool functions that compares to different competing video enhancing Softwares program. Many video enhancing applications claimed to provide expert results; Filmora is one in every of some consumer-stage equipment that definitely delivers.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-Here in Filmora, it is not just trimming but this tool can help you to adjust the focus of your video clip. Here are steps on how to crop a video using wondershare filmora.
-
-1\. Install and launch your Filmora Wondershare app.
-
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-3.png)
-
-2\. Find the import media. Click it and choose your preferred video fromyour files that you want to edit. Wait a second until the video is finished importing.
-
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-4.png)
-
-3\. Drag the video to the lower left side. After dragging ,right-click yourmouse and choose video and then click “crop and zoom.”
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-5.jpeg)
-
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-6.png)
-
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-7.png)
-
-4\. Now, you can adjust the focus of your video.
-
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-8.png)
-
-5\. After cropping, if you are satisfied with your edit you can now save your project by clicking the save project icon.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
-![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-9.png)
-
 ## Conclusion
 
 In this guide, you have acquired some knowledge about using crop on a video clip. Though this process or step could be very difficult but using Filmora Wondershare you can easily follow the steps provided above.
@@ -623,6 +763,12 @@ However, you also need to be careful in doing some edits. Before you save your p
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Put a Filter on a Video in iMovie
 
 There are times when you record a video and find out that the light and color in the video have been up to the mark. The light could be too bright or too dark while there could be some color overlays in certain portion as well as the entire frame of the video. Thanks to the video editing apps, you can correct any lighting and coloration issues with different filters available to apply to your video.
@@ -637,9 +783,6 @@ You have to install iMovie app from App Store as it does not come pre-install. I
 
 Step1 Open iMovie app on your iPhone. Tap on Create Project option and tap on Movie on the next screen.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![new project imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/new-project-imovie-iphone.jpg)
 
 Step2 Select the video from your iPhone that you want to edit and add filters. After your selection, tap on Create Movie option located at the bottom.
@@ -648,33 +791,43 @@ Step2 Select the video from your iPhone that you want to edit and add filters. A
 
 Step3 Your selected video will now be available on the Timeline where you can edit your video. Tap on Filters icon located at the bottom-right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![filter timeline iphone imovie](https://images.wondershare.com/filmora/article-images/2022/07/filter-timeline-iphone-imovie.jpg)
 
 Step4 You will see all the different filters available on iMovie app. You can also find a slider above each selected filter. You can adjust the filter to increase or decrease the filter intensity.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filter options imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/filter-options-imovie-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 Tap on Play icon to check how the filter is looking on your video. Once you are satisfied, tap on Done option located at the top-left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![apply filter imovie video](https://images.wondershare.com/filmora/article-images/2022/07/apply-filter-imovie-video.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step6 Tap on Share icon at the bottom and then tap on Save Video option to save the modified video on your iPhone.
 
 ![save video imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/save-video-imovie-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2\. How to add filters on Mac iMovie
 
@@ -682,28 +835,36 @@ If you are someone who regularly makes videos for social media account or video 
 
 Step1 Launch iMovie from Applications folder. Click on Create New option to start a new Project.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create new projects imovie mac](https://images.wondershare.com/filmora/article-images/2022/07/create-new-projects-imovie-mac.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Drag and drop the target video from Photos app to Desktop. Thereafter, drag and drop the video file from Desktop to the Timeline of iMovie project.
 
 Step3 Click on the video clip on the Timeline and click on Crop Filter and Audio Effects icon above the Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![crop filter imovie mac](https://images.wondershare.com/filmora/article-images/2022/07/crop-filter-imovie-mac.jpg)
 
 Step4 Click on Clip Filter option and you will see different filters in a window to the left. Place the mouse pointer over the filters, and you will see the filter in the Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![apply filters imovie mac](https://images.wondershare.com/filmora/article-images/2022/07/apply-filters-imovie-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 Once you are satisfied with a filter, click on that filter to apply it to the video clip.
 
 ## Part 3\. iMovie Alternative to add filters on Computer
@@ -720,17 +881,26 @@ Step2 Drag and drop video clips under Project Media folder. Thereafter, drag and
 
 ![drag and drop video clip](https://images.wondershare.com/filmora/guide/create-new-project-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Go to Effects from the top panel and click on Filters from the left panel. You will see all the different categories of filters.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![click on filters](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
 
 Step4 Select any filter and drag and drop it on Timeline. You can stretch the duration of the filter as per your requirements.
 
 You can also check Overlay> Utility option from the left panel to add face filters to your video in the same manner. If you want to save the modified video, click on Export button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you are an iPhone user or a Mac user, you can add filters to your video using iMovie app. You have to install iMovie app on your iPhone, but iMovie comes pre-installed on Mac. But there are limited filters available on iMovie and there is a lack of face filters which are trending in today’s viral videos. That is why we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) where there is a wide range of filters available to apply to your video conveniently as per your requirements.
@@ -741,9 +911,6 @@ Step1 Download and install [Wondershare Filmora](https://tools.techidaily.com/wo
 
 Step2 Drag and drop video clips under Project Media folder. Thereafter, drag and drop video clips to Timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![drag and drop video clip](https://images.wondershare.com/filmora/guide/create-new-project-02.png)
 
 Step3 Go to Effects from the top panel and click on Filters from the left panel. You will see all the different categories of filters.

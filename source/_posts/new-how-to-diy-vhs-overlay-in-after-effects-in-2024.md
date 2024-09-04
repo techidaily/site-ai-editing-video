@@ -1,7 +1,7 @@
 ---
 title: New How to DIY VHS Overlay in After Effects, In 2024
-date: 2024-08-10T01:57:41.418Z
-updated: 2024-08-11T01:57:41.418Z
+date: 2024-09-03T22:57:50.994Z
+updated: 2024-09-04T22:57:50.994Z
 tags: 
   - ai
   - animation videos
@@ -39,9 +39,6 @@ Note: Here, I changed the number to get the effect I wanted. You can change the 
 
 Now, click on the Curves option. Drag down the white curve and then align it with the original curve. Move the green curve up a bit and bring down the blue curve. Then comes the Vignette tab. Open it and set the number to -1.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![changing white green and blue curves on after effects](https://images.wondershare.com/filmora/article-images/2022/changing-white-green-and-blue-curve-on-after-effects.jpg)
 
 Step 3: Now, we will give our video a subtle RGB spit appearance. For that, we need to use the Channel Blur effect twice. First, go to Effect < Blur & Sharpen < Channel Blur. Set red blurriness to 20\. Turn on the repeat edge pixels. Then change the Blur Dimensions from horizontal and vertical to vertical.
@@ -52,9 +49,6 @@ Step 4: Again, go to Effect < Blur & Sharpen < Channel Blur. Set blue blurriness
 
 Step 5: Next comes giving the video artificial sharpening look using Unsharp Mask. So, go to Effect < Blur & Sharpen < Unsharp Mask. Under the Unmask Mask menu, set the amount to 100 and the radius to 10.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![using unsharp mask to give you video sharpening look](https://images.wondershare.com/filmora/article-images/2022/using-unsharp-mask-to-give-your-video-sharpening-look.jpg)
 
 Step 6: To add a font to your video, simply search VHS font on Google. Look for the one you want to use in your video and download it. To give your video that authentic VHS-style look, we suggest downloading free VCR OSD Mono font and installing the font on your system.
@@ -63,9 +57,6 @@ Step 7: Go to Layer < New < Solid and choose any color. We chose white. Now, und
 
 If you are a beginner and want a simple VHS effect, you can follow these easy steps and create the VHS video that will transport you back to the 90s.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## BONUS TIP: How to Add VHS Overlays and Glitch Effects to Make Retro Videos in Filmora Video Editor?
 
 Do you remember the look of the VHS and miss it? You can bring your memories back! With Wondershare Filmora, you can add this effect easily to your videos. Adding a VHS overlay transparent brings drama and creates an atmosphere of distortion. It can significantly change the appearance and feel of your video.
@@ -104,8 +95,59 @@ The smart generation has access to HD videos and high-tech devices, yet VHS is a
 
 By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
 
+### Conclusion
+
+Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Do you want to add retro videos on Filmora? It is simple!
+
+To create a VHS overlay video, you should first download the Filmora app for free if you haven't! Let's learn how the effect can transform your video. You will have to choose various effects and values to get the final VHS overlay video. These effects can be added to any lyric video, intro, outro, and many others.
+
+Let's look at the steps:
+
+Open your draft in Filmora software and select sample colors from the Media tab on the top left.
+
+![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
+
+You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
+
+In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
+
+You can also add effects like Strong Glitch, Chromatic Aberration, Glitch Distortion, Distort, etc., to enhance the vintage look of the video.
+
+When finished, click export and choose the format and target folder to save the processed file with the added effects.
+
+![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
+
+By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Conclusion
 
@@ -145,6 +187,12 @@ When finished, click export and choose the format and target folder to save the 
 
 ![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
 
 By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
@@ -177,6 +225,12 @@ Open your draft in Filmora software and select sample colors from the Media tab 
 
 ![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
 
 In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
@@ -187,12 +241,21 @@ When finished, click export and choose the format and target folder to save the 
 
 ![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
 
 By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Conclusion
 
@@ -208,48 +271,6 @@ Detailed tutorials provided by the official channel
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Do you want to add retro videos on Filmora? It is simple!
-
-To create a VHS overlay video, you should first download the Filmora app for free if you haven't! Let's learn how the effect can transform your video. You will have to choose various effects and values to get the final VHS overlay video. These effects can be added to any lyric video, intro, outro, and many others.
-
-Let's look at the steps:
-
-Open your draft in Filmora software and select sample colors from the Media tab on the top left.
-
-![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
-
-You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
-
-In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
-
-You can also add effects like Strong Glitch, Chromatic Aberration, Glitch Distortion, Distort, etc., to enhance the vintage look of the video.
-
-When finished, click export and choose the format and target folder to save the processed file with the added effects.
-
-![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
-
-The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
-
-By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
-
-### Conclusion
-
-Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -264,27 +285,22 @@ Detailed tutorials provided by the official channel
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Premiere Pro Video Templates Help Make Original Content of Broadcast Quality. The Article Introduces 10 Free Premiere Pro Templates that Are Sure to Make Your Life Easy
 
 The Premiere Pro templates are a great help to start working on the video right away. You don’t need to create your video from scratch thus, saving time. Moreover, there are fully adaptable features that make your video eye-catching. The article provides knowledge about 10 free Premiere Pro templates. So, let us commence this! Are you with us?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Part 1: 10 Popular Websites to Find Premiere Pro Templates
 
 There is an extensive range of websites to access the free Adobe Premiere templates. It is important to know the workability of such websites and what they bring to the house. Therefore, the sub-section of this write-up would shed light on 10 of such websites where you can download Adobe Premiere templates and find them compatible with the software.
 
 So, what are we waiting for? Let us begin the process!
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### 1\. [Envato Elements](https://elements.envato.com/video-templates/compatible-with-premiere-pro)
 
 The first website offering Adobe Premiere templates is known as Envato Elements. One can count on this webpage to access millions of creative assets. Envato Elements comes up with Adobe Premiere Pro templates free, stock videos, graphic templates, photos, and website templates.
@@ -294,7 +310,10 @@ Moreover, if you are into print and website design, you will find Envato Element
 ![envato elements website](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. [Storyblocks](https://www.storyblocks.com/video/premiere-pro-templates)
 
@@ -304,6 +323,12 @@ The filtering option of Storyblocks is to die for. Style or software can filter 
 
 ![storyblocks premiere pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [MotionElements](https://www.motionelements.com/free/premiere-pro-templates)
 
 The third royalty-free marketplace making a brand name for itself is MotionElements. The website offers more than 3 million assets for its users in different industry sectors. You can access Premiere Pro templates free download with other stock videos and audio files.
@@ -312,9 +337,6 @@ From images, music, templates, effects to transitions, logos, and animations, Mo
 
 ![motionelements templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. [Motion Array](https://motionarray.com/browse/premiere-pro-templates/)
 
 Claiming to be an all-in-one video and filmmaker’s platform, Motion Array takes complete responsibility for making your projects successful. The website takes the raw concept of your project and turns it into completion. Adobe Premiere Pro templates can be downloaded via Motion Array with other effects.
@@ -323,6 +345,18 @@ You can have Adobe Premiere Pro, Final Cut, DaVinci, and After Effects templates
 
 ![premiere pro templates by motion array](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. [Adobe Stock](https://stock.adobe.com/search/templates?k=premiere)
 
 While we are on the subject of template Adobe Premiere free, how can we forget about Adobe Stock? Adobe Stock is a serious archive for templates, especially for Adobe Creative Suite applications. Moreover, getting hands-on an impeccable library of stock photos, audio, and videos, is one of the strongest traits of Adobe Stock.
@@ -331,23 +365,31 @@ The search filter has different options to make the search easier, for instance,
 
 ![adobe stock website interface](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### 6\. [Mixkit](https://mixkit.co/free-premiere-pro-templates/)
 
 Mixkit is the top choice for getting Premiere Pro split-screen template among other royalty-free assets. Mixkit offers free Premiere Pro templates with After Effects, Final Cut Pro, DaVinci Resolve, and much more.
 
 Moreover, Mixkit can be used for stock videos, music, sound effects, and music tracks. The quality is always high, so you don’t need to worry about that.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mixkit premiere pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 7\. [VideoHive](https://videohive.net/category/premiere-pro-templates)
 
@@ -365,6 +407,24 @@ The resolution can also be decided as Videezy offers SD, HD 720, HD 1080, 4K, an
 
 ![videezy pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-8.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. [Videvo](https://www.videvo.net/premiere-pro-templates/)
 
 Videvo is the right shop for you if you prefer the ease-of-use over-complicated workability. Offering an interactive interface and progressive search results, Videvo boosts the production value of your projects multifold. Furthermore, this free Premiere Pro templates provider is an allrounder from the video footage, motion graphics, templates, music, and sound effects.
@@ -374,7 +434,16 @@ The user is free to customize titles, intros, typographs, overlays, and transiti
 ![videvo premiere pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 10\. [Monsterone](https://monsterone.com/video/premiere-pro-templates/)
 
@@ -385,7 +454,16 @@ The templates can be effortlessly previewed and launched before accessing them. 
 ![mosterone pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### The Bottom Line
 
@@ -405,35 +483,56 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
+![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Create Vintage Film Effect 1950S
 
 So, what's the difference between a vintage film shot in the 1920s and 1950s? It's simple; in the 1950s, video-making technologies were slightly advanced, although films were more about rock and roll and poodle skirts. So, without further dilly-dallying, let's learn how to create a retro 1950-style video with this simple Filmora tutorial.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Preparation
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![1950 vintage scene](https://images.wondershare.com/filmora/article-images/2023/01/1950-vintage-scene.gif)
 
 Shooting a video to teleport yourself to the 1950s doesn't need to be complicated. You simply need to look the part in the video. For example, you can wear velvet-collar jackets, stovepipe trousers, carefully combed back hair, and other trendy styles in the 50s. It's even better if you can find those vintage chairs in your grandparent's collection.
@@ -448,56 +547,24 @@ How to create a 1950s vintage film:
 
 ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
 
 ##### Step 2 Apply a cropping effect to the video
 
 ![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
 
-Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
-
-Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
-
-##### Step 3 Add a Warm Film color effect
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
-![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
-
-Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
-
-##### Step 4 Apply more graininess to the film
-
-![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
-
-Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Summary
-
-And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
-
-First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
-
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
-
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
@@ -508,16 +575,37 @@ Double-click the Crop effect, then change the Left and Right values to make the 
 
 ![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
 
 ##### Step 4 Apply more graininess to the film
 
 ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<span id="1983588">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Summary
 
@@ -533,6 +621,74 @@ First, fire up Filmora and load the video you want to send back to the 1950s. Th
 
 ![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
+
+![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
+
+##### Step 3 Add a Warm Film color effect
+
+![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+
+Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
+
+##### Step 4 Apply more graininess to the film
+
+![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+
+Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Summary
+
+And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="125" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
+
+##### Step 2 Apply a cropping effect to the video
+
+![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
@@ -547,9 +703,6 @@ Up to here, you'll realize that your video doesn't still look like a 1950s film 
 
 ##### Step 4 Apply more graininess to the film
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
@@ -560,9 +713,6 @@ And that's all there is today! With these steps, you can create an engaging 1950
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
 
 First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
@@ -573,34 +723,34 @@ First, fire up Filmora and load the video you want to send back to the 1950s. Th
 
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
 
 ##### Step 3 Add a Warm Film color effect
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
 
 Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
 
 ##### Step 4 Apply more graininess to the film
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Summary
 
 And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
@@ -620,7 +770,16 @@ With kickass thumbnails, the eyes of users searching for Call of Duty: Warzone v
 ![how to create cod warzone thumbnail](https://images.wondershare.com/filmora/article-images/create-cod-warzone-thumbnail.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How To Make an Impressive Warzone Thumbnail for Free
 
@@ -651,24 +810,21 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 1. Download and launch Wondershare Filmora.
 2. Click "New Project."
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![creating new project on wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Click "File" button. In the drop-down menu, select "Project Settings."
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![select project settings](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 1. In the pop-up window, set the resolution to 1280\*720, which is the recommended resolution of YouTube Thumbnail.
 1. Drag and drop the screenshot you took into the Filmora window. Alternatively, click the "Click here to import media" link to locate and import it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![importing the image to wondershare filmora](https://images.wondershare.com/filmora/article-images/import-screenshot-filmora.jpg)
 
 ##### Step4 Drag the Media to the Timeline, Add Effects, Stickers & Texts
@@ -677,11 +833,23 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![adding warzone image to the timeline](https://images.wondershare.com/filmora/article-images/drag-media-to-timeline-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Click "Effects." Select an effect to use and drag it into the timeline.
 1. Click "Stickers." Select stickers to use and drag them into the timeline.
 
 ![adding stickers to the warzone image](https://images.wondershare.com/filmora/article-images/add-stickers-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Add Text overlays to the video. To do so, click "Titles." Select the text style and drag it into the timeline. Double-click it to edit the written text.
 
 ##### Step5 Find a Desired Frame and Take a Screenshot
@@ -690,18 +858,18 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 2. Pause the video when you see the best frame to use as the thumbnail.
 3. Click the "Camera" icon below the video preview to take a snapshot.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![taking a snapshot on wondershare filmora](https://images.wondershare.com/filmora/article-images/take-snapshot-filmora.jpg)
 
 1. Select a file format and a target destination folder for the image.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![saving the warzone thumbnail snapshot](https://images.wondershare.com/filmora/article-images/snapshot-window-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Click "Ok."
 
 ##### Step6 Use the Screenshot as Your New COD Warzone Thumbnail
@@ -709,27 +877,30 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 1. The screenshot will appear in the Project Media section in Filmora. Right-click the image.
 2. Click "Reveal in Explorer." It will open the folder where the screenshot is saved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![opening the folder containing the snapshot](https://images.wondershare.com/filmora/article-images/reveal-in-explorer-filmora.jpg)
 
 1. Use the screenshot as your video thumbnail.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![warzone video thumbnail made with filmora](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-result.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** The free version of Wondershare Filmora will add a watermark to saved videos. But it will not add a watermark to a snapshot. Indeed, it is a free Warzone thumbnail creator.
 
 If you want to know more tricks about creating a nice Warzone thumbnail, please check the video below:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Tips for a Superb Call of Duty: Warzone Thumbnail
 
 A thumbnail is useless if it does not look good on YouTube. But how can you ensure it looks good on YouTube? That's a good question. Actually, the YouTube help center gave pointers on how your video thumbnail should be. These are the five important things you should know about:
@@ -742,15 +913,18 @@ A thumbnail is useless if it does not look good on YouTube. But how can you ensu
 
 The next question is how the actual thumbnail image should look. There's only one rule for that. Make it as cool as possible. Call of Duty: Warzone is a first-person shooter/battle royale game. People who are into these games are drawn to this aesthetic.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 Best Call of Duty: Warzone Thumbnails on YouTube That May Inspire You
 
 Research is always key to accomplishing something. If you want to create kickass COD: Warzone video thumbnails, you should look at the ones that worked. Visit YouTube and find videos that have great success. That will help you get some ideas for your thumbnails.
 
 Let us help you with that. Here are 5 Call of Duty: Warzone thumbnails you should check out.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Call of Duty Warzone: THE BATTLE OF VERDANSK GAMEPLAY! (No Commentary)
 
 ![warzone thumbnail by noannoyingcommentary](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-1.JPG)
@@ -761,6 +935,12 @@ This video from the channel [NoAnnoyingCommentary](https://www.youtube.com/watch
 
 ![warzone thumbnail by red arcade](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-2.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 This video is made by [Red Arcade](https://www.youtube.com/watch?v=u1UFojIiiK8). It has attracted more than 12 million views. Admittedly, the title and the video concept are already enough to attract many viewers. But we can't say that the thumbnail did not help. It's actually really good.
 
 The thumbnail shows a screenshot from Warzone. A player's character is in the middle, with his back facing the camera. The words "AFK. Don't shoot!" are written on the wall he is facing. The character is viewed through a sniper scope. It's more "funny" than cool. But for what the video is about, it works fantastic.
@@ -769,13 +949,22 @@ The thumbnail shows a screenshot from Warzone. A player's character is in the mi
 
 ![warzone thumbnail by hedgehog](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-3.JPG)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 This video from [HEDGEHOG ヅ](https://www.youtube.com/watch?v=wQlxN49jn6Y) has a whopping 12 million views. Again, the title likely is the main reason why it got that many views. But for sure, people did not read that long title at first. They were drawn to it by the thumbnail.
 
 The thumbnail shows a clear-as-crystal screenshot of a team of 4 players on the battlefield. At the top left corner is the PS5 logo. Then, at the bottom left is an icon that says the video is in 4K UHD. If you're also uploading 4K Warzone videos, you can try doing this. Users are attracted to videos that are eye-pleasing.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Call of Duty: Warzone Battle Royale | RTX 3080 10GB ( 4K Maximum Settings Ray Tracing OFF )
 
 ![warzone thumbnail by gtx 1050 ti](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-4.JPG)
@@ -786,13 +975,16 @@ The thumbnail for this video (made by [GTX 1050 Ti](https://www.youtube.com/watc
 
 ![warzone thumbnail by vikkstar123](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-5.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Like most Warzone thumbnails, this thumbnail from a [Vikkstar123](https://www.youtube.com/watch?v=V5VNeLLs2yM) video features a gun. At the top right is the victory banner, and at the bottom is the logo for kills with the number 64 next to it. The top right shows the logo of COD Warzone.
 
 Players are attracted to amazing gameplay. Unsurprisingly, the player who got 64 kills got 3.1 million views in his video. The gist is that if you have achieved something amazing, try to incorporate it into the thumbnail.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Using in-game screenshots is recommended for making amazing COD Warzone thumbnails. But you should not use raw photos. You must edit them to ensure they have visual appeal. Of course, that means you need a good thumbnail maker.
@@ -816,26 +1008,23 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 1. Download and launch Wondershare Filmora.
 2. Click "New Project."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![creating new project on wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 1. Click "File" button. In the drop-down menu, select "Project Settings."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select project settings](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 1. In the pop-up window, set the resolution to 1280\*720, which is the recommended resolution of YouTube Thumbnail.
 1. Drag and drop the screenshot you took into the Filmora window. Alternatively, click the "Click here to import media" link to locate and import it.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![importing the image to wondershare filmora](https://images.wondershare.com/filmora/article-images/import-screenshot-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step4 Drag the Media to the Timeline, Add Effects, Stickers & Texts
 
 1. Drag the image from the Project Media section into the timeline.
@@ -868,9 +1057,6 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 1. The screenshot will appear in the Project Media section in Filmora. Right-click the image.
 2. Click "Reveal in Explorer." It will open the folder where the screenshot is saved.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![opening the folder containing the snapshot](https://images.wondershare.com/filmora/article-images/reveal-in-explorer-filmora.jpg)
 
 1. Use the screenshot as your video thumbnail.
@@ -883,9 +1069,6 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 If you want to know more tricks about creating a nice Warzone thumbnail, please check the video below:
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tips for a Superb Call of Duty: Warzone Thumbnail
 
 A thumbnail is useless if it does not look good on YouTube. But how can you ensure it looks good on YouTube? That's a good question. Actually, the YouTube help center gave pointers on how your video thumbnail should be. These are the five important things you should know about:
@@ -904,12 +1087,30 @@ Research is always key to accomplishing something. If you want to create kickass
 
 Let us help you with that. Here are 5 Call of Duty: Warzone thumbnails you should check out.
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Call of Duty Warzone: THE BATTLE OF VERDANSK GAMEPLAY! (No Commentary)
 
 ![warzone thumbnail by noannoyingcommentary](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-1.JPG)
 
 This video from the channel [NoAnnoyingCommentary](https://www.youtube.com/watch?v=k3pBdi2Cf9Y) has 3.3 million views. It shows the player pointing their gun upwards. Flying in the sky are many fighter planes (obviously edited.) Then, a sepia filter is applied to make it look like a shot from past real-world wars. It is cool and sure to attract the attention of the COD: Warzone demographics.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. TOP 300 FUNNIEST FAILS IN WARZONE
 
 ![warzone thumbnail by red arcade](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-2.JPG)
@@ -918,40 +1119,40 @@ This video is made by [Red Arcade](https://www.youtube.com/watch?v=u1UFojIiiK8).
 
 The thumbnail shows a screenshot from Warzone. A player's character is in the middle, with his back facing the camera. The words "AFK. Don't shoot!" are written on the wall he is facing. The character is viewed through a sniper scope. It's more "funny" than cool. But for what the video is about, it works fantastic.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Clean House \[PS5 UHD 4K\] Next-Gen Ultra Realistic Graphics PlayStation 5 Call of Duty Gameplay
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![warzone thumbnail by hedgehog](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-3.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 This video from [HEDGEHOG ヅ](https://www.youtube.com/watch?v=wQlxN49jn6Y) has a whopping 12 million views. Again, the title likely is the main reason why it got that many views. But for sure, people did not read that long title at first. They were drawn to it by the thumbnail.
 
 The thumbnail shows a clear-as-crystal screenshot of a team of 4 players on the battlefield. At the top left corner is the PS5 logo. Then, at the bottom left is an icon that says the video is in 4K UHD. If you're also uploading 4K Warzone videos, you can try doing this. Users are attracted to videos that are eye-pleasing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Call of Duty: Warzone Battle Royale | RTX 3080 10GB ( 4K Maximum Settings Ray Tracing OFF )
 
 ![warzone thumbnail by gtx 1050 ti](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-4.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The thumbnail for this video (made by [GTX 1050 Ti](https://www.youtube.com/watch?v=fU9zMSBcius)), with 5.2 million views, is just an in-game screenshot. At the top-right is a large logo of GEFORCE RTX 3080 and at the bottom left is an Intel logo. Like the previous one, it attracts viewers by stating the visual appeal of the video.
 
 ### 5\. NEW RECORD! 64 KILL GAME in CoD WARZONE! (Best Classes / Loadouts)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![warzone thumbnail by vikkstar123](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-5.JPG)
 
 Like most Warzone thumbnails, this thumbnail from a [Vikkstar123](https://www.youtube.com/watch?v=V5VNeLLs2yM) video features a gun. At the top right is the victory banner, and at the bottom is the logo for kills with the number 64 next to it. The top right shows the logo of COD Warzone.
@@ -959,7 +1160,10 @@ Like most Warzone thumbnails, this thumbnail from a [Vikkstar123](https://www.yo
 Players are attracted to amazing gameplay. Unsurprisingly, the player who got 64 kills got 3.1 million views in his video. The gist is that if you have achieved something amazing, try to incorporate it into the thumbnail.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 

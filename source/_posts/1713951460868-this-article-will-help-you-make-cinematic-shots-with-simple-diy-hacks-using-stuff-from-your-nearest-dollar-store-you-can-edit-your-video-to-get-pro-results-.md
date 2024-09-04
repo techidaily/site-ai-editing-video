@@ -1,7 +1,7 @@
 ---
 title: This Article Will Help You Make Cinematic Shots with Simple DIY Hacks Using Stuff From Your Nearest Dollar Store. You Can Edit Your Video to Get Pro Results by Wondershare Filmora for 2024
-date: 2024-08-03T01:11:20.077Z
-updated: 2024-08-04T01:11:20.077Z
+date: 2024-09-03T22:57:56.304Z
+updated: 2024-09-04T22:57:56.304Z
 tags: 
   - ai
   - animation videos
@@ -29,21 +29,12 @@ Let's start with something we can do to enhance your framing. Sometimes we want 
 
 You can place it in front of your lens. Then focus on the talent behind it, giving a blurry foreground that perfectly frames the talent. Here's how the shot looks with and without foreground elements.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![framing the subject](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Remember, you can also use a **different angle** than simply approaching the object from the front. You can try and use different perspectives until you find the shot or footage you are looking for.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Tip 2\. Adjust lights with poster boards
 
 The shot below looks dark and boring because the background has no light. Here's the shot with and without the lights.
@@ -58,9 +49,6 @@ Others even have lights with adhesive backings that allow you to place them all 
 
 On film sets, crews use a bounce to reflect light from one light source in another direction. At the dollar store, we can find something like this poster board to get a similar effect.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use bounce to reflect light](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-6.png)
 
 By reflecting the light onto the bounce, we get softer, more spread-out light when it's reflected. Then you will get the result in a nicer look. Using poster boards, you can do multiple things with light.
@@ -68,10 +56,6 @@ By reflecting the light onto the bounce, we get softer, more spread-out light wh
 * Use white to bounce light.
 * Use black as a flag to shape or block light.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![use white to bounce light](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-7.png)
 
 * You can also use green for a small green screen when filming a product video
@@ -87,17 +71,35 @@ The concept is recording your object in front of a green screen behind it. Then,
 Do you ever have audio pop while you are recording? It can get annoying. So, to fix the issues, we are now teaching you three practical ways.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. Felt pads
 
 Felt pads with adhesive backs can be stuck onto noisy props like a coffee mug. This way, we won't hear the mug hitting the table when we're recording sound.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![felt pads](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Socks as pop filters
 
 Professionals use what they call a pop filter because a pop filter can reduce the loud pops from their mouths. But what is pop? Pops usually occur when people say words that start with the letter P or B.
@@ -108,6 +110,24 @@ It will make your voiceover slightly quieter, but it should also get rid of the 
 
 ![add socks to a mic to make voice quieter](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-10.png)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="540" height="540" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 See how easy it was! Keep in mind these dollar store hacks in your next video. And you can edit your footage like a pro with an easy-to-use video editor like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Keep exploring different ideas and perspectives to record.
@@ -116,9 +136,6 @@ See how easy it was! Keep in mind these dollar store hacks in your next video. A
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Tip 2\. Adjust lights with poster boards
 
 The shot below looks dark and boring because the background has no light. Here's the shot with and without the lights.
@@ -129,24 +146,23 @@ A practical light is a light that shows up on screen rather than lighting talent
 
 Others even have lights with adhesive backings that allow you to place them all over the room—creating great lighting accents with small eye-catching pockets of light.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![lights with adhesive backings](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-5.png)
 
 On film sets, crews use a bounce to reflect light from one light source in another direction. At the dollar store, we can find something like this poster board to get a similar effect.
 
 ![use bounce to reflect light](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 By reflecting the light onto the bounce, we get softer, more spread-out light when it's reflected. Then you will get the result in a nicer look. Using poster boards, you can do multiple things with light.
 
 * Use white to bounce light.
 * Use black as a flag to shape or block light.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use white to bounce light](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-7.png)
 
 * You can also use green for a small green screen when filming a product video
@@ -161,17 +177,23 @@ The concept is recording your object in front of a green screen behind it. Then,
 
 Do you ever have audio pop while you are recording? It can get annoying. So, to fix the issues, we are now teaching you three practical ways.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Felt pads
 
 Felt pads with adhesive backs can be stuck onto noisy props like a coffee mug. This way, we won't hear the mug hitting the table when we're recording sound.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![felt pads](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Socks as pop filters
 
@@ -209,9 +231,6 @@ So you have your work flow sorted out and you're well on your way with Filmora b
 
 I'm sure you may have heard of the rule of thirds for art or photography and you may not know or understand what it is. You may even be wondering how the rule of thirds can help you with your video creation. Well, that is what I'm going to show and explain to you today.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What is the rule of thirds
 
 At its core the rule of thirds is a guide to follow whenever you create something visual.
@@ -222,6 +241,12 @@ To gain a better understanding of this here is a visual example of the gridlines
 
 ![rule of thirds gridline](https://images.wondershare.com/filmora/article-images/2022/11/rule-of-thirds-gridline.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 This may seem simple but is often overlooked due to time restraints and eagerness to get that video out there. By following these guidelines your overall composition will gain interesting and pleasing results that can help with viewer engagement. This is only one piece of the puzzle but as any photography professional or artist will tell you, It's the small things that add up.
 
 ## How to use the rule of thirds
@@ -232,9 +257,6 @@ This will be our scene example, you can see buildings, boats, water and skyline.
 
 I will now show this picture with no compositional thought and without the use of the thirds system.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![shoot a scene with three thirds](https://images.wondershare.com/filmora/article-images/2022/11/shoot-a-scene-with-three-thirds.jpg)
 
 Notice how all the elements are in the scene but it just looks interesting and something just seems off when you look at it. You may find yourself searching for understanding of the image rather than taking the image in and concentrating on what the creator intended. This is seen commonly due to the need to fit every element in the scene but sometimes it is best to sacrifice something you may see as important for the sake of the whole picture.
@@ -249,6 +271,12 @@ Placing key elements directly in the center of your scene can seem static and bo
 
 Studies have shown that this is the humans natural way of viewing imagery, we first find something interesting to look at and then journey around that. So by using this rule you are creating a more natural process for your viewer.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips when starting using the rule of thirds
 
 The first tip I would say is to view other videos, YouTube is a good starting point. Watch interviews and notice where the chairs are aligned. Watch reviewers and notice where they position themselves in the scene. Lastly watch movies and pause on an interesting scene and try to deconstruct where everything is placed and why they chose that composition.
@@ -269,9 +297,6 @@ The rule is very useful when you're aiming to grab the attention towards a certa
 
 Even when working with a symmetrical scene you can incorporate the rule within for elements such as people or key figures but in this situation it is down to the creator to figure what they feel is best in any given shot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use Rule of Thirds in Filmora
 
 The tools provided within Filmora are generous and one great feature is the crop and size tool.
@@ -282,22 +307,46 @@ For reference I will show you what this looks like.
 
 First right click the timeline on the image you want to reposition. Alternatively you can select the desired insert and press Alt+C this will also bring up the same editing box.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![crop rule of thirds video](https://images.wondershare.com/filmora/article-images/2022/11/crop-rule-of-thirds-video.jpg)
 
 Now click on the crop and zoom option and this editor will appear.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![crop rule of thirds filmora](https://images.wondershare.com/filmora/article-images/2022/11/crop-rule-of-thirds-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 As you can see you are able to align the shot and change the aspect ratio to align with your project. For a better look at the built in grid lines see image below.
 
 ![rule of thirds final video](https://images.wondershare.com/filmora/article-images/2022/11/rule-of-thirds-final-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="125" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 To conclude, the rule of thirds is very important within visual media and is tough within the fundamentals of art and photography from beginner level right up to the highest point of education, Practice thinking about your placement of key elements within your videos and how this affects your overall composition. The goal is to have this as an automatic thought when shooting your videos or still images. This is a small change you can make but has a big impact on how a viewer engages your content and in return leaves a positive opinion towards your creativity and eye for detail.
@@ -316,6 +365,18 @@ To conclude, the rule of thirds is very important within visual media and is tou
 
 
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="150" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects
 
 No matter how big the budget of a Hollywood movie is, at the end of the day, it has to rely on the humble green screens for special video effects. The stunning studios from where your favorite YouTubers and gamers stream their videos are graphical video effects created through green screens. Even the studios that you see on TV channels are a graphical creation of green screens. You must be wondering how they could achieve such awesome graphics with a simple green screen.
@@ -323,7 +384,10 @@ No matter how big the budget of a Hollywood movie is, at the end of the day, it 
 All you need is a good-quality green fabric, a professional video editing software, and a camera. You may not believe it, but that is all you need for creating DIY green screen video effect. You do not have to be a professional video editor to edit the green screen on your videos and add any special video effect. In this article, you will learn how to create your own DIY green backdrop.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Is Green Screen Technique?
 
@@ -341,9 +405,6 @@ Therefore, the video editor can save a lot of time in editing and the editing st
 
 You can replace green screens with anything you want. It could be a still image of a beautiful studio with 3D effect like you see in case of YouTubers and gamers. It could be a moving, real-life landscape on any place in the world instead of a beautiful background picture. Similarly, it could be replaced by video effects such as explosions, stadiums full of people, battlefields, and likewise. At times, it could be live animations as you see on TV channels.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## How To Create DIY Green Screen Stand Setup and Add Green Screen Effect?
 
 If you want to have a green screen setup for your video, you need to have the following things ready.
@@ -372,32 +433,17 @@ There are various video editors available, but not all of them are suitable for 
 
 Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
 
-## Conclusion
-
-Making videos with DIY green screen stand is no more an esoteric concept. You can set it up anywhere and start shooting video. The magic begins in the post-production stage where you can use Wondershare Filmora to replace the green screen with video effects that will blow the mind of your viewers and followers. Filmora has intuitive options and controls through which you can apply green screen effect in simple steps.
-
-Step 1: Setup DIY Green Backdrop
-
-Your green fabric should be soft and bright. If you are going to be the subject of the video, make sure you are not wearing anything green. Moreover, do not keep any object within the video frame that is green in color. If there are too many green objects, you can use a blue screen.
-
-When it comes to hanging the green cloth in the background, people find it very difficult. If your video frame is going to be a close-up to the subject, you can use a green screen panel to hang green cloth. A green screen panel generally has a collapsible structure for easy storage and transportation.
-
-Otherwise, you need to install hooks in the wall if you are planning to replace the green screen with a studio-like scene so that the entire background of the video frame stays covered with green screen. You should opt for multiple green screens and stitch them together to cover the background completely.
-
-Step 2: Setup Camera and Light
-
-Whether you are shooting with a DSLR camera or smartphone camera or webcam, make sure you are shooting at least HD video quality so that the editing could be great. Lights are important when you are using green screen though they are not a necessity. The video quality and brightness get enhanced with lights. Diffused lights work the best and the background should be well-lit.
-
-Most importantly, you have to place the lights in such a way that your body arms should not be casting any shadow on the green screen. You can either stand very close to the green screen or away from the green screen so that your shadow does not go till the green screen. Instead of starting to shoot the video from the very beginning, you should capture for a few seconds and make sure everything is perfect including the camera angle.
-
-Step 3: Get The Best Video Editor For Green Screen Effect
-
-There are various video editors available, but not all of them are suitable for green screen effect. We recommend Wondershare Filmora as the best video editor to apply green screen effects on your video while editing. The reason behind the recommendation is that the steps to replace the green screen with any image or video are super simple and anyone can do it. There is no need to be a professional video editor.
-
-Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
-
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="150" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -424,7 +470,10 @@ There are various video editors available, but not all of them are suitable for 
 Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -451,7 +500,46 @@ There are various video editors available, but not all of them are suitable for 
 Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+Making videos with DIY green screen stand is no more an esoteric concept. You can set it up anywhere and start shooting video. The magic begins in the post-production stage where you can use Wondershare Filmora to replace the green screen with video effects that will blow the mind of your viewers and followers. Filmora has intuitive options and controls through which you can apply green screen effect in simple steps.
+
+Step 1: Setup DIY Green Backdrop
+
+Your green fabric should be soft and bright. If you are going to be the subject of the video, make sure you are not wearing anything green. Moreover, do not keep any object within the video frame that is green in color. If there are too many green objects, you can use a blue screen.
+
+When it comes to hanging the green cloth in the background, people find it very difficult. If your video frame is going to be a close-up to the subject, you can use a green screen panel to hang green cloth. A green screen panel generally has a collapsible structure for easy storage and transportation.
+
+Otherwise, you need to install hooks in the wall if you are planning to replace the green screen with a studio-like scene so that the entire background of the video frame stays covered with green screen. You should opt for multiple green screens and stitch them together to cover the background completely.
+
+Step 2: Setup Camera and Light
+
+Whether you are shooting with a DSLR camera or smartphone camera or webcam, make sure you are shooting at least HD video quality so that the editing could be great. Lights are important when you are using green screen though they are not a necessity. The video quality and brightness get enhanced with lights. Diffused lights work the best and the background should be well-lit.
+
+Most importantly, you have to place the lights in such a way that your body arms should not be casting any shadow on the green screen. You can either stand very close to the green screen or away from the green screen so that your shadow does not go till the green screen. Instead of starting to shoot the video from the very beginning, you should capture for a few seconds and make sure everything is perfect including the camera angle.
+
+Step 3: Get The Best Video Editor For Green Screen Effect
+
+There are various video editors available, but not all of them are suitable for green screen effect. We recommend Wondershare Filmora as the best video editor to apply green screen effects on your video while editing. The reason behind the recommendation is that the steps to replace the green screen with any image or video are super simple and anyone can do it. There is no need to be a professional video editor.
+
+Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -469,6 +557,12 @@ The main focus of color grading is changing the colors and tones in your photogr
 
 All forms of photography benefit from and depend on color grading. The color grading tools in Lightroom and Photoshop will be especially appreciated by landscape and portrait photographers. If you're wondering what happened to split toning, it was replaced by the Color Grading module, which is why split toning is now referred to as color grading.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Getting to Color Grading
 
 Select the photo you want to modify and go to the develop module in Lightroom to access the Color Grading tool. Then, move your cursor down to the Color Grading menu on the right side of the screen. To see three separate color wheels, choose this.
@@ -508,7 +602,16 @@ The strength of the hue is known as saturation. (Remember that this HSL panel mo
 Each color's luminance measures how brightly it reflects light. Use this tool to brighten or darken specific areas of your image (it works especially well to provide contrast to black and white images). To make the water and sky behind the model darker in this example photograph, I decreased the Luminance setting on the aqua panel.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="150" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Adjustment Brush
 
