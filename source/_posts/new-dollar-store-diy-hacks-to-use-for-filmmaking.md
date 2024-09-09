@@ -1,7 +1,7 @@
 ---
 title: New Dollar-Store DIY Hacks to Use for Filmmaking
-date: 2024-08-03T01:09:19.821Z
-updated: 2024-08-04T01:09:19.821Z
+date: 2024-09-08T23:51:41.625Z
+updated: 2024-09-09T23:51:41.625Z
 tags: 
   - ai
   - animation videos
@@ -19,50 +19,80 @@ Filmmaking is usually an expensive hobby, but slowly over time, it's become more
 
 Making DIY film gear may not give you the same look as professional gear, but it could be a fun project and give you similar looks on a budget. In this article, let's look at some dollar-store DIY hacks that you can use for filmmaking on a budget.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![diy film gear](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tip 1\. Add foreground elements to improve the frame of videos
 
 Let's start with something we can do to enhance your framing. Sometimes we want to direct our audience's attention to a specific part of the frame. In this case, it's the talent of placing an object in the shot's foreground that can help us do that. While also making a more attractive frame. At the dollar store, try using something like these fake plants.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![fake plants](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-2.png)
 
 You can place it in front of your lens. Then focus on the talent behind it, giving a blurry foreground that perfectly frames the talent. Here's how the shot looks with and without foreground elements.
 
 ![framing the subject](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Remember, you can also use a **different angle** than simply approaching the object from the front. You can try and use different perspectives until you find the shot or footage you are looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tip 2\. Adjust lights with poster boards
 
 The shot below looks dark and boring because the background has no light. Here's the shot with and without the lights.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![shot with or without lights](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 A practical light is a light that shows up on screen rather than lighting talent from off-screen. For example, some dollar stores have small LED accent lights for around three dollars.
 
 Others even have lights with adhesive backings that allow you to place them all over the room—creating great lighting accents with small eye-catching pockets of light.
 
 ![lights with adhesive backings](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 On film sets, crews use a bounce to reflect light from one light source in another direction. At the dollar store, we can find something like this poster board to get a similar effect.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![use bounce to reflect light](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 By reflecting the light onto the bounce, we get softer, more spread-out light when it's reflected. Then you will get the result in a nicer look. Using poster boards, you can do multiple things with light.
 
 * Use white to bounce light.
@@ -70,6 +100,12 @@ By reflecting the light onto the bounce, we get softer, more spread-out light wh
 
 ![use white to bounce light](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * You can also use green for a small green screen when filming a product video
 
 You might have seen how big production companies create those alienated landscapes, such as in the movie Avatar and many more.
@@ -79,21 +115,39 @@ The concept is recording your object in front of a green screen behind it. Then,
 ![green screen to create the fake background](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-8.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Tip 3\. Smooth audio with felt pads or socks
 
 Do you ever have audio pop while you are recording? It can get annoying. So, to fix the issues, we are now teaching you three practical ways.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### 1\. Felt pads
 
 Felt pads with adhesive backs can be stuck onto noisy props like a coffee mug. This way, we won't hear the mug hitting the table when we're recording sound.
 
 ![felt pads](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-9.png)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Socks as pop filters
 
 Professionals use what they call a pop filter because a pop filter can reduce the loud pops from their mouths. But what is pop? Pops usually occur when people say words that start with the letter P or B.
@@ -102,11 +156,14 @@ Then what is a pop filter? You might have seen in some YouTube videos, especiall
 
 It will make your voiceover slightly quieter, but it should also get rid of the popping. So keep adding socks until you hear no more pops in your voiceover.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add socks to a mic to make voice quieter](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 See how easy it was! Keep in mind these dollar store hacks in your next video. And you can edit your footage like a pro with an easy-to-use video editor like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Keep exploring different ideas and perspectives to record.
@@ -125,18 +182,24 @@ A practical light is a light that shows up on screen rather than lighting talent
 
 Others even have lights with adhesive backings that allow you to place them all over the room—creating great lighting accents with small eye-catching pockets of light.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lights with adhesive backings](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 On film sets, crews use a bounce to reflect light from one light source in another direction. At the dollar store, we can find something like this poster board to get a similar effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![use bounce to reflect light](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 By reflecting the light onto the bounce, we get softer, more spread-out light when it's reflected. Then you will get the result in a nicer look. Using poster boards, you can do multiple things with light.
 
 * Use white to bounce light.
@@ -144,6 +207,12 @@ By reflecting the light onto the bounce, we get softer, more spread-out light wh
 
 ![use white to bounce light](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * You can also use green for a small green screen when filming a product video
 
 You might have seen how big production companies create those alienated landscapes, such as in the movie Avatar and many more.
@@ -153,27 +222,26 @@ The concept is recording your object in front of a green screen behind it. Then,
 ![green screen to create the fake background](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-8.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Tip 3\. Smooth audio with felt pads or socks
 
 Do you ever have audio pop while you are recording? It can get annoying. So, to fix the issues, we are now teaching you three practical ways.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Felt pads
 
 Felt pads with adhesive backs can be stuck onto noisy props like a coffee mug. This way, we won't hear the mug hitting the table when we're recording sound.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![felt pads](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Socks as pop filters
 
@@ -205,23 +273,44 @@ See how easy it was! Keep in mind these dollar store hacks in your next video. A
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Quickly Turn Any Video Into a Paper Rip Effect
 
 Video editors use different effects to add creative flair to their projects. These effects can also create a transition between clips, make text or images stand out, or add movement to a static image.
 
 One of the most fantastic effects is the paper rip effect. It can add a unique look to videos and a touch of creativity to any project. We will discuss the best software and techniques to achieve this effect quickly. So, let's get started!
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. What Is a Paper Rip Effect?
 
 You must be wondering what is a paper rip effect in videos. It is a visual effect in which a piece of paper or other material appears torn apart or ripped. It is often used for transitions between shots or scenes in a video. Or, you can make the effect for your thumbnail.
 
 ![paper rip effect](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-01.png)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now, as we have seen what a paper rip effect looks like, isn't it cool? So let's see which software we need to make the magic happen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to Make a Paper Rip Effect
 
 We here take [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as our editing tool to make the paper rip effect. It has many practical features allow you to customize your video with special effects, transitions, and more.
@@ -235,6 +324,12 @@ We here take [Wondershare Filmora](https://tools.techidaily.com/wondershare/film
 * Over 2,000+ audio resources range from music and audio effects, and much more.
 * The shortcut key saves you time while editing videos.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Stepwise Guide to Make the Paper Rip Effect
 
 Step1 Download Wondershare Filmora from the official website. If you have already downloaded the Wondershare Filmora. Open it, and let's start editing the video.
@@ -257,11 +352,14 @@ Step5 After adding a freeze frame, cut here.
 
 ![adding a cut](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step6 Drag and drop the paper photo onto the second video track of the timeline, and make sure it starts at the cut on the first video track.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![dropping paper photo](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-06.png)
 
 Step7 Double-click the paper picture on the timeline to open the settings window and then open the **Compositing** menu. Then Change the **Blending Mode** from Normal to **Multiply**.
@@ -270,18 +368,30 @@ Step7 Double-click the paper picture on the timeline to open the settings window
 
 In the preview window, we can see that the freeze frame has the paper texture now!
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![freeze frame has a paper texture](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-08.png)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step8 Now you can use the new feature of Filmora to export this small portion of the video. First, click and drag the playhead to the start of the freeze frame and press **"I"** on the keyboard to set the **IN POINT**, then move the playhead to the end of this freeze frame and press **"O"** on the keyboard to set the **OUT POINT**.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![setting the in point](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-09.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** If you have the latest version, Filmora will automatically set the OUT POINT on the timeline.
@@ -292,9 +402,6 @@ Step9 Then click **Export** and choose **Create Video**. Let's name it **freeze 
 
 It will only export the selected part on the timeline. Once the exporting process is completed, **Right-Click** on the timeline and **Cancel** the selected range.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![exporting the video](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-011.png)
 
 Step10 Import the **Freeze Frame 1** to the media folder and replace the **Freeze Frame + Paper Photo** with this clip. Then adjust the length of this clip to 1 second.
@@ -303,16 +410,24 @@ Step10 Import the **Freeze Frame 1** to the media folder and replace the **Freez
 
 Step11 Now let's make the second part of the transition effect. You should drag and Drop **Clip 2** onto the timeline and move the playhead to the clip's first frame. Then Add a Freeze Frame; you can also do it by pressing the **Alt+F** keys. Now click and drag the playhead to the end of the freeze frame and make a **Cut**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![adding clip 2 to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-013.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step12 Drag and drop the paper photo onto the second video track of the timeline and make sure it starts at the beginning of the freeze frame on the first video track. And again, change the blending mode to Multiply as well.
 
 ![adding paper photo](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-014.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step13 Select the range you want to export by setting **IN and OUT** points as we did before. Press the **I** key on the keyboard to set the in point, drag the playhead to the out point, and press the **O** key.
 
 ![selecting in and out points](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-015.png)
@@ -323,28 +438,58 @@ Step15 You can use the keyboard shortcut **Shift + X** to cancel the selected ra
 
 ![replaced the freeze frame and paper photo](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-016.png)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step16 Now you can add several Filmora transitions to finish the effect. Go to the **Transitions window** and find Evaporate 2.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the transition effect](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-017.png)
 
 Step17 Drag and drop it onto the cut between **clip 1** and **freeze frame 1** and the cut between **clip 2** and **freeze frame 2**. You can also adjust the length of the transition.
 
 ![dropping the transition effect](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-018.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step18 Then, find **Torned Paper Transition 4** in the **Transitions window**. Drag and drop it to the cut between **freeze frame 1** and **freeze frame 2**. Then choose **Prefix** mode in the transition setting video. Adjust the length if needed.
 
 ![dropping another transition effect](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-019.gif)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Finally, it's done. Let's play the video and see how the paper effect and transitions enhanced the video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![the outcome](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-020.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We hope this post has helped you achieve the desired effect on your video. With Filmora's intuitive user interface, you can customize your paper rip effect with text, images, and more to create a truly unique and eye-catching video. So get creative and start turning your videos into paper rip effects today!
@@ -356,6 +501,12 @@ We hope this post has helped you achieve the desired effect on your video. With 
 * Over 2,000+ audio resources range from music and audio effects, and much more.
 * The shortcut key saves you time while editing videos.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Stepwise Guide to Make the Paper Rip Effect
 
 Step1 Download Wondershare Filmora from the official website. If you have already downloaded the Wondershare Filmora. Open it, and let's start editing the video.
@@ -368,23 +519,50 @@ Step3 Drag and drop **Clip 1** onto the timeline and move the playhead to the la
 
 ![drag-drop clip 1](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-03.png)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Alt text: Paper rip effect.
 
 Step4 Now right-click on **Clip 1** to open the menu and select **Add Freeze Frame**.
 
 ![selecting add freeze frame](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 After adding a freeze frame, cut here.
 
 ![adding a cut](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-05.png)
 
 Step6 Drag and drop the paper photo onto the second video track of the timeline, and make sure it starts at the cut on the first video track.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![dropping paper photo](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-06.png)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step7 Double-click the paper picture on the timeline to open the settings window and then open the **Compositing** menu. Then Change the **Blending Mode** from Normal to **Multiply**.
 
 ![opening compositing menu](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-07.png)
@@ -397,9 +575,6 @@ Step8 Now you can use the new feature of Filmora to export this small portion of
 
 ![setting the in point](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-09.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** If you have the latest version, Filmora will automatically set the OUT POINT on the timeline.
@@ -410,18 +585,30 @@ Step9 Then click **Export** and choose **Create Video**. Let's name it **freeze 
 
 It will only export the selected part on the timeline. Once the exporting process is completed, **Right-Click** on the timeline and **Cancel** the selected range.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![exporting the video](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-011.png)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step10 Import the **Freeze Frame 1** to the media folder and replace the **Freeze Frame + Paper Photo** with this clip. Then adjust the length of this clip to 1 second.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![replaced the freeze frame and paper photo](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-012.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step11 Now let's make the second part of the transition effect. You should drag and Drop **Clip 2** onto the timeline and move the playhead to the clip's first frame. Then Add a Freeze Frame; you can also do it by pressing the **Alt+F** keys. Now click and drag the playhead to the end of the freeze frame and make a **Cut**.
 
 ![adding clip 2 to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-013.png)
@@ -434,6 +621,12 @@ Step13 Select the range you want to export by setting **IN and OUT** points as w
 
 ![selecting in and out points](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-015.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step14 This time use the shortcut **Control + E** to open the export window. Again, let's name it **freeze frame 2** and then export it.
 
 Step15 You can use the keyboard shortcut **Shift + X** to cancel the selected range. Then import **freeze frame 2** into the media folder and replace the freeze frame + paper photo. Adjust the length of this new clip to about 1 second.
@@ -442,16 +635,10 @@ Step15 You can use the keyboard shortcut **Shift + X** to cancel the selected ra
 
 Step16 Now you can add several Filmora transitions to finish the effect. Go to the **Transitions window** and find Evaporate 2.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![select the transition effect](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-017.png)
 
 Step17 Drag and drop it onto the cut between **clip 1** and **freeze frame 1** and the cut between **clip 2** and **freeze frame 2**. You can also adjust the length of the transition.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![dropping the transition effect](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-018.png)
 
 Step18 Then, find **Torned Paper Transition 4** in the **Transitions window**. Drag and drop it to the cut between **freeze frame 1** and **freeze frame 2**. Then choose **Prefix** mode in the transition setting video. Adjust the length if needed.
@@ -460,13 +647,13 @@ Step18 Then, find **Torned Paper Transition 4** in the **Transitions window**. D
 
 Finally, it's done. Let's play the video and see how the paper effect and transitions enhanced the video.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the outcome](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-020.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -485,7 +672,16 @@ Maybe you already heard of the word live streaming people use in different socia
 Live streaming is a streaming media simultaneously recorded and broadcast in real-time over the internet. It is often referred to simply as streaming. Non-live media such as video-on-demand, vlogs and YouTube videos are technically are streamed, but not live streamed. Live stream services encompass a wide variety of topics, from social media to video games (e.g., overwatch) to professional sports. Platform such as YouTube, Facebook, Twitch, and Instagram can be one of your biggest choices to showcase any of your talent.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to go on Live on YouTube?
 
@@ -500,37 +696,52 @@ Live streaming is a streaming media simultaneously recorded and broadcast in rea
 
 * And since I’m not using the live streaming a very long time ago, I was amazed that it has now options that you can choose from. Whether you want to go on live right away, or you can pick up the time where you’re most comfortable with.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose live stream time youtube](https://images.wondershare.com/filmora/article-images/2022/07/choose-live-stream-time-youtube.jpg)
 
 * I chose the second one since we’re not going on live at this very moment. As you can see in the image below. There you have options to choose from. Whether to use the built-in webcam of your laptop or the computer you’re using or you can use a personal computer screen recorder like OBS Studio (Open Broadcaster Software). I already break down the whereabouts of this particular screen recorder on my previous article. But, let me just discuss you a little bit, maybe it’ll be helpful if you want to go on live with a more powerful and engaging live streaming.
 
 ![select camera device youtube live](https://images.wondershare.com/filmora/article-images/2022/07/select-camera-device-youtube-live.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is OBS Studio?
 
 Open Broadcaster Software or OBS Studio is s free, open-source and cross-platform screencasting and streaming app. It is available for windows, macOS, Linux distributions, and BSD. OBS Studio provides real-time capture, encoding and broadcasting for YouTube, Twitch, Facebook, Instagram and many other social media platforms. You can download the application itself for FREE.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download obs studio software](https://images.wondershare.com/filmora/article-images/2022/07/download-obs-studio-software.jpg)
 
 * If you’re a rookie and you want to go on live for the very first time, YouTube provides the step-by-step process. But if you’re already a pro when it comes to live streaming, then you can always choose the use of a screen recorder software because it has many useful tools for you to offer. You just need to learn it firsthand.
 
 Next step, you just need to click the “Allow” button and you’re ready to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![enable camera and microphone youtube](https://images.wondershare.com/filmora/article-images/2022/07/enable-camera-and-microphone-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * You just need to simplify what is your live stream all about. Make a catchy title so that your audiences will be curious and will wait for you to be on live. Be specific with your description and find a topic that will be helpful to others. You know, everyone’s time is gold. We need to make the most out of it.
 
 ![adjust stream settings youtube](https://images.wondershare.com/filmora/article-images/2022/07/adjust-stream-settings-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * I changed the Title and the Description as an example and the thumbnail as well. You can edit it when you continue to scroll down. You'll choose what kind of category it fits in. If you want, you can also add it to your Playlist and you’ll choose your audience, if it’s suitable for kids or not.
 
 ![create stream details](https://images.wondershare.com/filmora/article-images/2022/07/create-stream-details.jpg)
@@ -539,26 +750,38 @@ Next step, you just need to click the “Allow” button and you’re ready to t
 
 ![create stream monetization](https://images.wondershare.com/filmora/article-images/2022/07/create-stream-monetization.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * As what it says, you need to customize the live stream according to your preference.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create stream customization](https://images.wondershare.com/filmora/article-images/2022/07/create-stream-customization.jpg)
 
 * And the final step before you can actually go on live, you will choose the visibility of your live broadcast. Usually, most of the people choose **_Public_** located at the bottom area of the options listed in the image below.
 
 ![create stream visibility](https://images.wondershare.com/filmora/article-images/2022/07/create-stream-visibility.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * The image below shows how it looks like after you click the “DONE” button. And the only thing that you need is to click the “GO LIVE” button and everyone can participate on your live streaming.
 
 ![go live on youtube](https://images.wondershare.com/filmora/article-images/2022/07/go-live-on-youtube.jpg)
 
 And here's an actual example of a Live streaming that I’ve already done before on my YouTube Channel. I used OBS Studio in presenting the information that I needed, to convey the message to the audiences that are interested in learning Hebrew language to be exact.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![record youtube live stream](https://images.wondershare.com/filmora/article-images/2022/07/record-youtube-live-stream.jpg)
 
 During the live streaming, you can see people interacting with you on live and that’s totally awesome!
@@ -584,9 +807,6 @@ To sum it up, if you’re someone who wants to share your ability to the virtual
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Put a Filter on a Video in iMovie
 
 There are times when you record a video and find out that the light and color in the video have been up to the mark. The light could be too bright or too dark while there could be some color overlays in certain portion as well as the entire frame of the video. Thanks to the video editing apps, you can correct any lighting and coloration issues with different filters available to apply to your video.
@@ -601,19 +821,40 @@ You have to install iMovie app from App Store as it does not come pre-install. I
 
 Step1 Open iMovie app on your iPhone. Tap on Create Project option and tap on Movie on the next screen.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![new project imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/new-project-imovie-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Select the video from your iPhone that you want to edit and add filters. After your selection, tap on Create Movie option located at the bottom.
 
 ![create movie in imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/create-movie-in-imovie-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Your selected video will now be available on the Timeline where you can edit your video. Tap on Filters icon located at the bottom-right corner.
 
 ![filter timeline iphone imovie](https://images.wondershare.com/filmora/article-images/2022/07/filter-timeline-iphone-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 You will see all the different filters available on iMovie app. You can also find a slider above each selected filter. You can adjust the filter to increase or decrease the filter intensity.
 
 ![filter options imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/filter-options-imovie-iphone.jpg)
@@ -622,16 +863,16 @@ Step5 Tap on Play icon to check how the filter is looking on your video. Once yo
 
 ![apply filter imovie video](https://images.wondershare.com/filmora/article-images/2022/07/apply-filter-imovie-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step6 Tap on Share icon at the bottom and then tap on Save Video option to save the modified video on your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![save video imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/save-video-imovie-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to add filters on Mac iMovie
 
 If you are someone who regularly makes videos for social media account or video streaming channel, you are more likely to record your video using a video camera and transfer the recorded video to you Mac for editing purposes. iMovie comes pre-installed on Mac, and therefore, once you have transferred the video, you can get started with editing and adding filters immediately. Here are the steps on how to add filters to iMovie on your Mac.
@@ -644,16 +885,22 @@ Step2 Drag and drop the target video from Photos app to Desktop. Thereafter, dra
 
 Step3 Click on the video clip on the Timeline and click on Crop Filter and Audio Effects icon above the Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![crop filter imovie mac](https://images.wondershare.com/filmora/article-images/2022/07/crop-filter-imovie-mac.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Click on Clip Filter option and you will see different filters in a window to the left. Place the mouse pointer over the filters, and you will see the filter in the Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apply filters imovie mac](https://images.wondershare.com/filmora/article-images/2022/07/apply-filters-imovie-mac.jpg)
 
 Step5 Once you are satisfied with a filter, click on that filter to apply it to the video clip.
@@ -670,16 +917,22 @@ Step1 Download and install [Wondershare Filmora](https://tools.techidaily.com/wo
 
 Step2 Drag and drop video clips under Project Media folder. Thereafter, drag and drop video clips to Timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drag and drop video clip](https://images.wondershare.com/filmora/guide/create-new-project-02.png)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Go to Effects from the top panel and click on Filters from the left panel. You will see all the different categories of filters.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on filters](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
 
 Step4 Select any filter and drag and drop it on Timeline. You can stretch the duration of the filter as per your requirements.
@@ -696,18 +949,24 @@ Step1 Download and install [Wondershare Filmora](https://tools.techidaily.com/wo
 
 Step2 Drag and drop video clips under Project Media folder. Thereafter, drag and drop video clips to Timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drag and drop video clip](https://images.wondershare.com/filmora/guide/create-new-project-02.png)
 
 Step3 Go to Effects from the top panel and click on Filters from the left panel. You will see all the different categories of filters.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![click on filters](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Select any filter and drag and drop it on Timeline. You can stretch the duration of the filter as per your requirements.
 
 You can also check Overlay> Utility option from the left panel to add face filters to your video in the same manner. If you want to save the modified video, click on Export button.

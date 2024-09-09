@@ -1,7 +1,7 @@
 ---
 title: New Step by Step to Crop a Video with CyberLink PowerDirector
-date: 2024-09-03T22:58:01.423Z
-updated: 2024-09-04T22:58:01.423Z
+date: 2024-09-08T23:51:37.463Z
+updated: 2024-09-09T23:51:37.463Z
 tags: 
   - ai
   - animation videos
@@ -13,6 +13,12 @@ keywords: ai animation step by step to crop videos with cyberlink powerdirector,
 thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step by Step to Crop a Video with CyberLink PowerDirector
 
 Video Editing is an art form dependent on various elements and factors that are part of your video; this means people, items, or objects in the background can often make or break the viewing experience.
@@ -37,16 +43,40 @@ _If you do not already have CyberLink PowerDirector 365, download the software b
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-1.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** Full Mode in Cyberlink PowerDirector 365 provides access to a full-featured video editing tool, similar to Wondershare Filmora. The other available options cater to distinct video types.
 
 **Step 2:** Import media onto the Timeline from the Media Library; in this guide, we have gone ahead and used the pre-existing stock footage.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-2.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** Now, click on the video file on the Timeline; this will activate the video toolbar giving you access to the various controls built into PowerDirector 365\. Hover over the tools open, following which you need to click on the Crop, Zoom, and Pan option.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-3.jpeg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** Pick either corner of the frame visible around the video and set the area you want the clip to focus upon; following this, click Save.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-4.jpeg)
@@ -93,6 +123,12 @@ Once you have the software open, follow the steps listed below.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-7.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** Pick any edge within the visible box and resize them to select the portion you want to keep in the clip.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-8.jpeg)
@@ -100,16 +136,10 @@ Once you have the software open, follow the steps listed below.
 Having read this bit of the guide, we believe you may have noticed how Filmora is more convenient due to the easier access it provides to the crop function.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## The Bottom Line
 
@@ -124,30 +154,42 @@ And Wondershare Filmora does just that with its modern iconography and increased
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-2.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 3:** Now, click on the video file on the Timeline; this will activate the video toolbar giving you access to the various controls built into PowerDirector 365\. Hover over the tools open, following which you need to click on the Crop, Zoom, and Pan option.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-3.jpeg)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** Pick either corner of the frame visible around the video and set the area you want the clip to focus upon; following this, click Save.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-4.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 This action will crop the video clip according to your desired size.
 
@@ -159,12 +201,6 @@ The activation of Keyframes while cropping will allow you to create an effect th
 
 We recommend experimenting with this feature if you want to bring a more dynamic feeling to your video project.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **An Easier Way to Crop Video with Wondershare Filmora**
 
 While Cyberlink PowerDirector 365 is a powerful video editing tool, in our experience, its menus are not as simple to navigate as some of the other competing video editing tools available, Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) included.
@@ -190,124 +226,20 @@ Once you have the software open, follow the steps listed below.
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-5.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 2:** Drag the clip onto the Timeline and then select it to activate further interactions.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-6.jpeg)
 
-**Step 3:** Choose the Crop Options (marked in Red) to open the Crop window.
-
-![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-7.jpeg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-**Step 4:** Pick any edge within the visible box and resize them to select the portion you want to keep in the clip.
-
-![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-8.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Having read this bit of the guide, we believe you may have noticed how Filmora is more convenient due to the easier access it provides to the crop function.
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## The Bottom Line
-
-So, at the end of the day, both software listed in this article are fully functional and highly-capable video editing tools, but saving time spent in front of the computer is a huge factor for any video editor.
-
-And Wondershare Filmora does just that with its modern iconography and increased accessibility. With its thoughtful, less-frills approach, Filmora is the one to pick if you do not want to be bogged down by needless menus and have to hunt for actions that will help you create a video that you would want to watch yourself.
-
-**Note:** Full Mode in Cyberlink PowerDirector 365 provides access to a full-featured video editing tool, similar to Wondershare Filmora. The other available options cater to distinct video types.
-
-**Step 2:** Import media onto the Timeline from the Media Library; in this guide, we have gone ahead and used the pre-existing stock footage.
-
-![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-2.jpeg)
-
-**Step 3:** Now, click on the video file on the Timeline; this will activate the video toolbar giving you access to the various controls built into PowerDirector 365\. Hover over the tools open, following which you need to click on the Crop, Zoom, and Pan option.
-
-![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-3.jpeg)
-
-**Step 4:** Pick either corner of the frame visible around the video and set the area you want the clip to focus upon; following this, click Save.
-
-![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-4.jpeg)
-
-This action will crop the video clip according to your desired size.
-
-**Tip**:
-
-The activation of Keyframes while cropping will allow you to create an effect that slowly zooms into the footage. To do this, set Keyframe Point 1 at a specific time (say the fifth second) and at one zoom level (say zero) and create Keyframe Point 2 at another time (fifteenth second) and a different zoom level (say fifty). So, between the fifth second and fifteenth second, the zoom will steadily increase and raise emphasis on an object. You can also add an element of position to this action if you want the focus to be on something not in the center of the screen.
-
-**Definition:** Keyframes while Video Editing is a software-based feature that allows you to set In and Out Points, giving clips between the two positions different properties that change as the playhead continues to move. These properties can be increased zoom, rotation, different colors, or even a gradual pan.
-
-We recommend experimenting with this feature if you want to bring a more dynamic feeling to your video project.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## **An Easier Way to Crop Video with Wondershare Filmora**
-
-While Cyberlink PowerDirector 365 is a powerful video editing tool, in our experience, its menus are not as simple to navigate as some of the other competing video editing tools available, Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) included.
-
-An emphasis on quick accessibility is present with Filmora, and we believe this is a huge plus for beginning creators. The use of iconography resemblant to mobile software is another aspect that helps increase familiarity.
-
-_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
-
-Now, to help you learn how to use the Crop Tool and to show you an example of what we mean, here is how you can use the feature Wondershare Filmora to get the desired output.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-Once you have the software open, follow the steps listed below.
-
-**Step 1:** Import the Media File into your Video Project.
-
-![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-5.jpeg)
-
-**Step 2:** Drag the clip onto the Timeline and then select it to activate further interactions.
-
-![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-6.jpeg)
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 3:** Choose the Crop Options (marked in Red) to open the Crop window.
 
@@ -318,19 +250,13 @@ Once you have the software open, follow the steps listed below.
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-8.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Having read this bit of the guide, we believe you may have noticed how Filmora is more convenient due to the easier access it provides to the crop function.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Bottom Line
 
 So, at the end of the day, both software listed in this article are fully functional and highly-capable video editing tools, but saving time spent in front of the computer is a huge factor for any video editor.
@@ -344,10 +270,16 @@ And Wondershare Filmora does just that with its modern iconography and increased
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-2.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 3:** Now, click on the video file on the Timeline; this will activate the video toolbar giving you access to the various controls built into PowerDirector 365\. Hover over the tools open, following which you need to click on the Crop, Zoom, and Pan option.
 
@@ -357,6 +289,12 @@ And Wondershare Filmora does just that with its modern iconography and increased
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-4.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 This action will crop the video clip according to your desired size.
 
 **Tip**:
@@ -368,10 +306,10 @@ The activation of Keyframes while cropping will allow you to create an effect th
 We recommend experimenting with this feature if you want to bring a more dynamic feeling to your video project.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **An Easier Way to Crop Video with Wondershare Filmora**
 
@@ -401,40 +339,114 @@ Once you have the software open, follow the steps listed below.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-6.jpeg)
 
+**Step 3:** Choose the Crop Options (marked in Red) to open the Crop window.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-7.jpeg)
+
+**Step 4:** Pick any edge within the visible box and resize them to select the portion you want to keep in the clip.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-8.jpeg)
+
+Having read this bit of the guide, we believe you may have noticed how Filmora is more convenient due to the easier access it provides to the crop function.
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+## The Bottom Line
+
+So, at the end of the day, both software listed in this article are fully functional and highly-capable video editing tools, but saving time spent in front of the computer is a huge factor for any video editor.
+
+And Wondershare Filmora does just that with its modern iconography and increased accessibility. With its thoughtful, less-frills approach, Filmora is the one to pick if you do not want to be bogged down by needless menus and have to hunt for actions that will help you create a video that you would want to watch yourself.
+
+**Note:** Full Mode in Cyberlink PowerDirector 365 provides access to a full-featured video editing tool, similar to Wondershare Filmora. The other available options cater to distinct video types.
+
+**Step 2:** Import media onto the Timeline from the Media Library; in this guide, we have gone ahead and used the pre-existing stock footage.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-2.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 3:** Now, click on the video file on the Timeline; this will activate the video toolbar giving you access to the various controls built into PowerDirector 365\. Hover over the tools open, following which you need to click on the Crop, Zoom, and Pan option.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-3.jpeg)
+
+**Step 4:** Pick either corner of the frame visible around the video and set the area you want the clip to focus upon; following this, click Save.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-4.jpeg)
+
+This action will crop the video clip according to your desired size.
+
+**Tip**:
+
+The activation of Keyframes while cropping will allow you to create an effect that slowly zooms into the footage. To do this, set Keyframe Point 1 at a specific time (say the fifth second) and at one zoom level (say zero) and create Keyframe Point 2 at another time (fifteenth second) and a different zoom level (say fifty). So, between the fifth second and fifteenth second, the zoom will steadily increase and raise emphasis on an object. You can also add an element of position to this action if you want the focus to be on something not in the center of the screen.
+
+**Definition:** Keyframes while Video Editing is a software-based feature that allows you to set In and Out Points, giving clips between the two positions different properties that change as the playhead continues to move. These properties can be increased zoom, rotation, different colors, or even a gradual pan.
+
+We recommend experimenting with this feature if you want to bring a more dynamic feeling to your video project.
+
+## **An Easier Way to Crop Video with Wondershare Filmora**
+
+While Cyberlink PowerDirector 365 is a powerful video editing tool, in our experience, its menus are not as simple to navigate as some of the other competing video editing tools available, Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) included.
+
+An emphasis on quick accessibility is present with Filmora, and we believe this is a huge plus for beginning creators. The use of iconography resemblant to mobile software is another aspect that helps increase familiarity.
+
+_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
+
+Now, to help you learn how to use the Crop Tool and to show you an example of what we mean, here is how you can use the feature Wondershare Filmora to get the desired output.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Once you have the software open, follow the steps listed below.
+
+**Step 1:** Import the Media File into your Video Project.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-5.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 2:** Drag the clip onto the Timeline and then select it to activate further interactions.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-6.jpeg)
+
 **Step 3:** Choose the Crop Options (marked in Red) to open the Crop window.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-7.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 4:** Pick any edge within the visible box and resize them to select the portion you want to keep in the clip.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-8.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Having read this bit of the guide, we believe you may have noticed how Filmora is more convenient due to the easier access it provides to the crop function.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Bottom Line
 
 So, at the end of the day, both software listed in this article are fully functional and highly-capable video editing tools, but saving time spent in front of the computer is a huge factor for any video editor.
@@ -487,6 +499,18 @@ Press the CTRL+T on Windows or if you're on MacBook, then press CMD+T keyboard s
 
 ![text panel premiere](https://images.wondershare.com/filmora/article-images/2022/08/text-panel-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step2Choosing the Type Tool
 
 Drag a text box onto your movie using the Type Tool, then start typing. You may need to go to Windows > Tools and click and hold Type Tool if it isn't already visible. Use the Type Tool by clicking on its icon in the Tool panel or by using the T key on your keyboard. A new text file should then emerge on the sequence and Program window once you click anywhere within the Program window.
@@ -499,18 +523,6 @@ You may make simple text modifications, such as changing the font's size, color,
 
 ![essential graphics text editing](https://images.wondershare.com/filmora/article-images/2022/08/essential-graphics-text-editing.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step4Make your text animated
 
 Use the Effect Controls panel, where you can add motion, to add some simple movement to your text. Keyframes may be used to make rolling credits or to give a title a rotating effect.
@@ -535,6 +547,12 @@ You must first launch the software application in order to go further without di
 
 ![adding text to the timeline](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step3Animate the Text
 
 Animate By assisting you with font, style, color, alignment, and everything else, Filmora helps you make your text animation using the controller window as shown below. The Advanced option, located in the editor tab, allows you to give your text motion.
@@ -542,10 +560,10 @@ Animate By assisting you with font, style, color, alignment, and everything else
 ![animate the text](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### Step4Export the File
 
@@ -573,18 +591,6 @@ Text and titles may be used to easily build simple animations in Premiere. In su
 
 You don't need outdated VCRs or any other broken technology to produce glitch effects. Instead, you can use a video editing program for Mac and PCs, such as [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), to transform your videos into glitch-effect masterpieces. You can also use the glitch effects to provide striking shot transitions or opening titles. Keep reading this article on how to apply various glitch video effects in Filmora 11:
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="540" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is a Glitch Effect?
 
 A glitch effect occurs when a section of your video temporarily changes look or "glitches" for a short while. Although transient glitches are typical, they can occasionally linger for a few seconds or more.
@@ -611,16 +617,16 @@ Step1 Download Wondersshare Filmora 11 on your Pc by visiting filmora.wondershar
 
 ![download wondersshare filmora 11](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 Open Filmora and click on the Effects tab.
 
 Step3 Search Chromatic aberration and drag the effect right onto your clip. It will give you a fantastic pre-made version of the effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Customize Glitch Effect with Filmora
 
 You can add final touches to your video clips by customizing Filmora's effects to take your glitch effect to the next level. You can mix and match different effects in your video to create your custom glitch effect in Filmora 11.
@@ -641,15 +647,21 @@ Step3 Double-click on the top clip.
 
 ![double-click on the top clip](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Go to Color and open the White Balance option to make this layer completely red. Next, drag both Temperature and Tint sliders to a hundred.
 
 ![open the white balance option](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step4 Now click the little eye icon on the timeline to hide the top layer and move on to the middle layer.
 
@@ -658,41 +670,41 @@ Step5 Double-click on your middle clip and go to Color, then select White Balanc
 ![go to color](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step6 Finally, hide this layer just like before. Repeat the same steps for the last clip but make this clip the blue layer by leaving the Temperature at zero and setting the Tint to -100.
 
 ![setting the tint to -100](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step7 Double-click the clip in the top layer, click the Video Tab, and open the Compositing options. Set the Blending Mode of this top layer to Soft Light.
 
 ![click the video tab](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now click on the clip in your preview window and move the image over by pressing the left Arrow key on your keyboard a few times. Once you're happy with the top clip, hide that layer by clicking the eye icon.
 
 ![click on the clip in your preview window](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_12.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step8 To make the middle layer visible, double-click the clip in your mid layer and set the Blending Mode of this layer to Screen.
 
 ![double-click the clip in your mid layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_13.jpg)
@@ -701,18 +713,6 @@ Now click on your clip in the preview window and press the Right key as many tim
 
 ![press the right key](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_14.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Vignette**
 
 A vignette is a dark border that fades around the frame's edges in Filmora. You can easily add a vignette effect to your video by using these steps:
@@ -742,16 +742,16 @@ Step1 Click on the Effects tab.
 Step2 Search for VCR Distortion, then drag and drop this effect over your previous layer.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 5: Tips to Create Awesome Glitch Effects
 
@@ -759,18 +759,6 @@ Step2 Search for VCR Distortion, then drag and drop this effect over your previo
 2. The glitch Distortion effect is very intense, so we recommend cutting this effect very short and dropping it at random parts of your video.
 3. You can also use these effects as a sneaky way to hide Cuts in your video.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Summary
 
 You can use glitch effects created or inspired by faulty video equipment as a powerful storytelling tool. These effects can help you change the tone of the entire video by adding a specific visual aesthetic and making the narrative simpler to convey and more approachable for the audience.
@@ -783,12 +771,6 @@ Step1 Once you have your clip on the timeline, select your clip and click on Edi
 
 ![select your clip and click on edit](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 Put the new copies on the layer above the others and make sure everything is lined up exactly. To create the glitch effect, separate the color channels on your Clips into the primary colors red, green, and blue.
 
 ![put the new copies on the layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_6.jpg)
@@ -797,15 +779,21 @@ Step3 Double-click on the top clip.
 
 ![double-click on the top clip](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Go to Color and open the White Balance option to make this layer completely red. Next, drag both Temperature and Tint sliders to a hundred.
 
 ![open the white balance option](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step4 Now click the little eye icon on the timeline to hide the top layer and move on to the middle layer.
 
@@ -817,22 +805,16 @@ Step6 Finally, hide this layer just like before. Repeat the same steps for the l
 
 ![setting the tint to -100](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step7 Double-click the clip in the top layer, click the Video Tab, and open the Compositing options. Set the Blending Mode of this top layer to Soft Light.
 
 ![click the video tab](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_11.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="150" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now click on the clip in your preview window and move the image over by pressing the left Arrow key on your keyboard a few times. Once you're happy with the top clip, hide that layer by clicking the eye icon.
 
 ![click on the clip in your preview window](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_12.jpg)
@@ -841,16 +823,16 @@ Step8 To make the middle layer visible, double-click the clip in your mid layer 
 
 ![double-click the clip in your mid layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now click on your clip in the preview window and press the Right key as many times as you did before. Finally, make all the layers visible by clicking the eye icon.
 
 ![press the right key](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Vignette**
 
 A vignette is a dark border that fades around the frame's edges in Filmora. You can easily add a vignette effect to your video by using these steps:
@@ -879,24 +861,18 @@ Step1 Click on the Effects tab.
 
 Step2 Search for VCR Distortion, then drag and drop this effect over your previous layer.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="125" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: Tips to Create Awesome Glitch Effects
 
 1. One of the best ways to use the VCR Distortion effect is to cut it short and intersperse it around your video in random parts.
 2. The glitch Distortion effect is very intense, so we recommend cutting this effect very short and dropping it at random parts of your video.
 3. You can also use these effects as a sneaky way to hide Cuts in your video.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summary
 
 You can use glitch effects created or inspired by faulty video equipment as a powerful storytelling tool. These effects can help you change the tone of the entire video by adding a specific visual aesthetic and making the narrative simpler to convey and more approachable for the audience.
@@ -924,10 +900,10 @@ First, you need to create a close-up eye video. Although you can do that with yo
 ![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Create an Eye-zoom Transition
 
@@ -937,12 +913,30 @@ After recording a close-up eye video, add it on Wondershare Filmora and duplicat
 
 ![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 2 Add a freeze frame to the video
 
 Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
 
 ![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
 
 ##### Step 3 Add a masking effect to the eye
@@ -952,177 +946,15 @@ With the two video tracks ready, it's time to apply a masking effect. Tap the **
 ![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
 
 ![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
 
-##### Step 4 Add the transition video
-
-Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
-
-With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
-
-![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
-
-## Summary
-
-There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-**_Preparation:_**
-
-First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
-
-![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to Create an Eye-zoom Transition
-
-##### Step 1 Align the video clips on Filmora
-
-After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
-
-![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
-
-##### Step 2 Add a freeze frame to the video
-
-Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
-
-![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
-
-Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
-
-##### Step 3 Add a masking effect to the eye
-
-With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
-
-![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
-
-![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
-
-##### Step 4 Add the transition video
-
-Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
-
-With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
-
-![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Summary
-
-There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-**_Preparation:_**
-
-First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
-
-![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to Create an Eye-zoom Transition
-
-##### Step 1 Align the video clips on Filmora
-
-After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
-
-![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
-
-##### Step 2 Add a freeze frame to the video
-
-Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
-
-![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
-
-Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
-
-##### Step 3 Add a masking effect to the eye
-
-With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
-
-![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
-
-![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step 4 Add the transition video
 
 Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
@@ -1146,10 +978,22 @@ First, you need to create a close-up eye video. Although you can do that with yo
 ![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Create an Eye-zoom Transition
 
@@ -1166,10 +1010,172 @@ Next, we want to add a freeze frame to the section where the eye opens fully. To
 ![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
+
+##### Step 3 Add a masking effect to the eye
+
+With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
+
+![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
+
+![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
+
+##### Step 4 Add the transition video
+
+Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
+
+With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
+
+![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
+
+After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Summary
+
+There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+**_Preparation:_**
+
+First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
+
+![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Create an Eye-zoom Transition
+
+##### Step 1 Align the video clips on Filmora
+
+After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
+
+![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##### Step 2 Add a freeze frame to the video
+
+Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
+
+![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
+
+##### Step 3 Add a masking effect to the eye
+
+With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
+
+![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
+
+Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
+
+![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
+
+##### Step 4 Add the transition video
+
+Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
+
+With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
+
+![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
+
+## Summary
+
+There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+**_Preparation:_**
+
+First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
+
+![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Create an Eye-zoom Transition
+
+##### Step 1 Align the video clips on Filmora
+
+After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
+
+![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
+
+##### Step 2 Add a freeze frame to the video
+
+Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
+
+![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
 
@@ -1184,10 +1190,10 @@ Double-click on the freeze frame clip to adjust the Shape Mask on the preview sc
 ![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### Step 4 Add the transition video
 
@@ -1200,10 +1206,10 @@ With that done, move the playhead to the start of the freeze frame video and dou
 After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Summary
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Add Expression in After Effects
-date: 2024-08-03T01:08:06.244Z
-updated: 2024-08-04T01:08:06.244Z
+date: 2024-09-08T23:51:47.239Z
+updated: 2024-09-09T23:51:47.239Z
 tags: 
   - ai
   - animation videos
@@ -27,7 +27,16 @@ Although After Effects (AE) is a fantastic tool for creating UI animation protot
 * [How to Edit Expressions in After Effects](#part4)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1\. What is After Effects Expression
 
@@ -40,7 +49,10 @@ You may begin forming connections between a property and other layers when you w
 An expression is a brief piece of JavaScript code that can be plugged into animated properties in After Effects applications. Expressions evaluate to a single value for a single layer property at a particular instant in time. Below are a few popular expressions.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. ‘thisComp’
 
@@ -54,6 +66,12 @@ You can always simply copy and paste keyframes throughout the timeline if you wa
 
 Again, cycle is the default setting; however, you may also choose from continue, offset, and ping pong. It just requires animating an Ellipse's Scale and Opacity properties, then adding loopOut to each of them. The two keyframes are immediately cycled; it is plug and play. There are really just four keyframes in total, however the animation lasts the full length of the timeline. Use two keyframes per parameter to keep things simple, or specify which keyframes you want to loop to make things more complicated.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. ‘random’
 
 As implied by the name, each frame's value is generated randomly by this expression based on the argument you provide. It will automatically randomize between 0 and 1 if you leave it empty. The parameter will generate a value at random between 0 and the value you provide between the parentheses. It will generate random numbers between the two values you enter.
@@ -61,7 +79,10 @@ As implied by the name, each frame's value is generated randomly by this express
 Another excellent expression for rapidly producing an animation is this one. We often use it to make opacity transitions that flicker. It just takes a few clicks to do this by adding the phrase below to Opacity and keyframing it in and out from 100% Opacity.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 4\. ‘Wiggle’
 
@@ -70,7 +91,10 @@ One of the few expressions that may be used without keyframes is the Wiggle expr
 You will simultaneously move in two dimensions while using this phrase. You may sometimes just need to jiggle one dimension. The After Effects Wiggle expression (also known as AE Wiggle) is an excellent tool for creating erratic item movement, idle character movement, unpredictable camera motion, shaky lettering, and flashing lights.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 5\. ‘Time’
 
@@ -79,7 +103,10 @@ The greater the value next to "time" below, the quicker your animation will be. 
 Again, combine this with some simple arithmetic for excellent outcomes. To find a multiplier value that works for the parameter you are animating, play around and explore. Use it to gradually modify a layer's position or rotation. Time is also very useful for driving animated textures like the Fractal or Turbulent Noise effects. The evolution parameter is increased by a factor of 100 throughout time.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3\. How to Add Expressions in After Effects
 
@@ -89,15 +116,24 @@ While some idioms are brief, simple, and easy to use and comprehend, others are 
 
 Step1 Include your form or image in the timeline. When viewing the layer's properties, click on the stopwatch of the property you wish to apply the phrase to while holding "Alt" (PC) or "Option" (Mac).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![click stopwatch property](https://images.wondershare.com/filmora/article-images/2022/07/click-stopwatch-property.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Make two keyframes for the transformation you've selected; in our case, we’ve point it Beginning and the End frames as shown below:
 
 ![make 2 key frames](https://images.wondershare.com/filmora/article-images/2022/07/make-2-key-frames.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Go to the Animation menu and choose the Transform option you keyframed in the timeline. We are choosing Scale since it is what we keyframed. Multiple Transform settings may have expressions added to them, but you should do it sequentially.
 
 ![choose transform animation](https://images.wondershare.com/filmora/article-images/2022/07/choose-transform-animation.jpg)
@@ -106,32 +142,56 @@ Step4 A box will show up on the timeline after choosing Add Expression from the 
 
 ![paste expression to box](https://images.wondershare.com/filmora/article-images/2022/07/paste-expression-to-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Part 4\. How to Edit Expressions in After Effects
 
 To edit the Expressions in AE, you do need some programming skills to make the most of expressions since they employ JavaScript. However, there are many of excellent starter and expert expression examples, so you can still get a lot done with Premiere Pro without them. When you click the keyframe symbol on the property you wish to apply an expression to, hold down the Alt key to utilize expressions. There will appear an expression box where you may type and amend expressions.
 
 Step1Select the property in the Timeline panel, then choose Animation > Add Expression to add and reveal an expression. To search Expressions and other parts of a property, use the search box in the Timeline panel.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select property from timeline ae](https://images.wondershare.com/filmora/article-images/2022/07/select-property-from-timeline-ae.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2In the Timeline panel or the Effect Controls panel, click the stopwatch button next to the property name using the keyboard shortcut Alt + click for the Windows or Option + click for the MacOS. Four icons are shown under the property while the expression is active, and the value becomes red.
 
 ![select effects control ae](https://images.wondershare.com/filmora/article-images/2022/07/select-effects-control-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3To open the Expression Editor, click within the text box on the Timeline panel. Wherever you wish to alter the phrase, position the cursor. The pick whip may be moved to the name or cost of a property. The resultant expression shows all the values as one if you drag to the name of a property.
 
 ![open the expreesion editor](https://images.wondershare.com/filmora/article-images/2022/07/open-the-expreesion-editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4Press Enter on the numeric keyboard to end text editing and start the expression.
 
 ![press enter start expression](https://images.wondershare.com/filmora/article-images/2022/07/press-enter-start-expression.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 One of the most popular pieces of software for the post-production of movies is called After Effects. The tools and expressions in AE are used by many video editors and motion graphics creators to produce stunning works of art, animated films, video advertising, distinctive video effects, and many other useful things. Expressions are JavaScript lines of code that let you manipulate data in Adobe After Effects. Even though they don't have the same flashy name as a kryptonite spear, they may be just as powerful in the proper hands. The fact that they'll save you a ton of time applies to all of them, regardless of size.
@@ -148,37 +208,64 @@ Expressions are sections of code created in the JavaScript programming languages
 
 You may begin forming connections between a property and other layers when you write an expression on that property. By connecting the expressions to the numerical parameters, the expression controllers in the Effects & Presets panel may assist you in better controlling the expressions. Although they are by no means necessary, expressions come in quite handy when attempting to replicate effects like inertia or bouncing without having to specify a ton of extra keyframes. They not only provide many creative possibilities, but they may also streamline your motion design process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Common Expressions in After Effects
 
 An expression is a brief piece of JavaScript code that can be plugged into animated properties in After Effects applications. Expressions evaluate to a single value for a single layer property at a particular instant in time. Below are a few popular expressions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. ‘thisComp’
 
 Expressions in After Effects revolve entirely on manipulating values inside an object hierarchy. Objects in this context include the composition, specific layers, and even effects. Values or other things may be contained by an object.
 
 Use thisComp together with some fundamental arithmetic to precisely place things on the screen. This comes in quite helpful when exporting several versions for social media sites and reusing content. To have the logo scale in accordance with the size of the comp, you could even add a similar statement to the Scale option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. ‘loopOut’
 
 You can always simply copy and paste keyframes throughout the timeline if you want an animation to repeat. But if you wanted to make adjustments, you'd have to go back and deal with all of those keyframes again. Again, you'd never see Batman using After Effects accomplishing this. You should use the loopOut expression in these circumstances. Even four options may be used to modify how the animation loops.
 
 Again, cycle is the default setting; however, you may also choose from continue, offset, and ping pong. It just requires animating an Ellipse's Scale and Opacity properties, then adding loopOut to each of them. The two keyframes are immediately cycled; it is plug and play. There are really just four keyframes in total, however the animation lasts the full length of the timeline. Use two keyframes per parameter to keep things simple, or specify which keyframes you want to loop to make things more complicated.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. ‘random’
 
 As implied by the name, each frame's value is generated randomly by this expression based on the argument you provide. It will automatically randomize between 0 and 1 if you leave it empty. The parameter will generate a value at random between 0 and the value you provide between the parentheses. It will generate random numbers between the two values you enter.
 
 Another excellent expression for rapidly producing an animation is this one. We often use it to make opacity transitions that flicker. It just takes a few clicks to do this by adding the phrase below to Opacity and keyframing it in and out from 100% Opacity.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. ‘Wiggle’
 
 One of the few expressions that may be used without keyframes is the Wiggle expression. Watch your shape begin to wiggle by simply adding the phrase to any Transform attribute. It will jiggle between keyframes if you decide to add them.
 
 You will simultaneously move in two dimensions while using this phrase. You may sometimes just need to jiggle one dimension. The After Effects Wiggle expression (also known as AE Wiggle) is an excellent tool for creating erratic item movement, idle character movement, unpredictable camera motion, shaky lettering, and flashing lights.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. ‘Time’
 
 The greater the value next to "time" below, the quicker your animation will be. Time expression is useful for continuous animation. Utilizing time is one of the fastest and simplest methods to create an animation. Time just creates each second's numerical value in the timeline. Remember that regardless of the timecode settings, this number begins at zero at the beginning of the comp.
@@ -197,38 +284,27 @@ Step1 Include your form or image in the timeline. When viewing the layer's prope
 
 Step2 Make two keyframes for the transformation you've selected; in our case, we’ve point it Beginning and the End frames as shown below:
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make 2 key frames](https://images.wondershare.com/filmora/article-images/2022/07/make-2-key-frames.jpg)
 
 Step3 Go to the Animation menu and choose the Transform option you keyframed in the timeline. We are choosing Scale since it is what we keyframed. Multiple Transform settings may have expressions added to them, but you should do it sequentially.
 
 ![choose transform animation](https://images.wondershare.com/filmora/article-images/2022/07/choose-transform-animation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 A box will show up on the timeline after choosing Add Expression from the menu. In the box, paste your expression. The numerical parameters will become red and a text box will show up in the timeline below the layer. The Expressions will be typed or copied here. By adjusting the values in the code, you may fine-tune the expression; experiment with each to find what works for you.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![paste expression to box](https://images.wondershare.com/filmora/article-images/2022/07/paste-expression-to-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4\. How to Edit Expressions in After Effects
 
@@ -236,34 +312,37 @@ To edit the Expressions in AE, you do need some programming skills to make the m
 
 Step1Select the property in the Timeline panel, then choose Animation > Add Expression to add and reveal an expression. To search Expressions and other parts of a property, use the search box in the Timeline panel.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select property from timeline ae](https://images.wondershare.com/filmora/article-images/2022/07/select-property-from-timeline-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2In the Timeline panel or the Effect Controls panel, click the stopwatch button next to the property name using the keyboard shortcut Alt + click for the Windows or Option + click for the MacOS. Four icons are shown under the property while the expression is active, and the value becomes red.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![select effects control ae](https://images.wondershare.com/filmora/article-images/2022/07/select-effects-control-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3To open the Expression Editor, click within the text box on the Timeline panel. Wherever you wish to alter the phrase, position the cursor. The pick whip may be moved to the name or cost of a property. The resultant expression shows all the values as one if you drag to the name of a property.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![open the expreesion editor](https://images.wondershare.com/filmora/article-images/2022/07/open-the-expreesion-editor.jpg)
 
 Step4Press Enter on the numeric keyboard to end text editing and start the expression.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press enter start expression](https://images.wondershare.com/filmora/article-images/2022/07/press-enter-start-expression.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -285,13 +364,22 @@ One of the most popular pieces of software for the post-production of movies is 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Apply Video Filters
 
 In the digital age, video editing has become an increasingly popular way for people to express themselves. Technological advances make it easy to apply video filters and effects. In this article, we will find how you can use iPhone video filters, AI video filter, and cartoon video filter in 2024 through filmora quickly and easily. We will discuss the latest version of Filmora – one of the most influential and user-friendly video editors today.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Part** **1 Apply Video Filters on Mobile Devices**
 
 Applying video filters on mobile devices is a simple process that can significantly enhance the overall look of your videos.
@@ -300,6 +388,18 @@ Applying video filters on mobile devices is a simple process that can significan
 
 First, you must download a video editing app with different filters. One popular option is Filmora, which can be found in the app store.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Step2: Import your videos**
 
 Once you have downloaded the app, you can begin importing your videos. It can typically do this by selecting the "Import" option within the app and choosing the desired videos from your library. You may also record videos directly within the app if desired.
@@ -311,7 +411,10 @@ After importing your videos, you can start adding video filter effects. Filmora 
 With a few easy and quick taps on your mobile device, you can transform your video filters for iPhone to create visually stunning content.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Part** **2 Apply Video Filters on Desktop**
 
@@ -321,10 +424,22 @@ To apply video filters on your desktop, you can follow these steps using the sof
 
 [Create AI Filter](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Step 1: Download Filmora**
 
 Start by downloading and installing the Filmora software onto your desktop. This software provides a range of video editing tools, including video filters.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Step 2: Import your videos**
 
 Open Filmora and import the videos you want to apply filters to. You can do this by clicking the "Import" button and selecting the video files from your computer.
@@ -347,6 +462,12 @@ Then, click the "LUT" or "Presets" button and choose the desired effect from the
 
 Following these steps, you can easily apply video filters to your footage using Filmora on your desktop. Explore the various options and experiment with different effects to amplify the visual appeal of your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Summary**
 
 In the modern digital era, Filmora will be the best video filter editor, thanks to its intuitive interface and comprehensive feature set designed specifically for beginners and professionals! Whether looking to add a subtle touch of personalization to stand out amongst the crowd or simply wanting to enhance the overall quality of production being worked no matter the, rest assured that you are capable of doing the same without breaking the sweat and effort expended hereinabove described stepwise fashion!
@@ -359,12 +480,27 @@ In the modern digital era, Filmora will be the best video filter editor, thanks 
 
 Start by downloading and installing the Filmora software onto your desktop. This software provides a range of video editing tools, including video filters.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Step 2: Import your videos**
 
 Open Filmora and import the videos you want to apply filters to. You can do this by clicking the "Import" button and selecting the video files from your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **Step 3: Add video filter effects in 2 ways**
 
@@ -384,10 +520,6 @@ Then, click the "LUT" or "Presets" button and choose the desired effect from the
 
 Following these steps, you can easily apply video filters to your footage using Filmora on your desktop. Explore the various options and experiment with different effects to amplify the visual appeal of your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## **Summary**
 
 In the modern digital era, Filmora will be the best video filter editor, thanks to its intuitive interface and comprehensive feature set designed specifically for beginners and professionals! Whether looking to add a subtle touch of personalization to stand out amongst the crowd or simply wanting to enhance the overall quality of production being worked no matter the, rest assured that you are capable of doing the same without breaking the sweat and effort expended hereinabove described stepwise fashion!
@@ -407,30 +539,45 @@ In the modern digital era, Filmora will be the best video filter editor, thanks 
 Don't panic if you don't know the tools to accomplish this task because Wondershare Filmora got you covered in this scenario. By the end of this article, you will learn how to add camera shake effects in videos with Filmora and another impressive editor named Premiere Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1: Why Should You Involve Effects in Your Videos During Video Creation?
 
 Do you know that you can create more engaging and appealing video content by adding effects to it? Here are some benefits of using effects in your video content which you should know:
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Quality Visuals
 
 Your content's visual quality can be increased using different appealing effects. These effects can make your content more eye-catching and engaging. You can use many effects in your visual content. This includes transitions and remarkable filters that can grab the viewer's attention.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Innovative Presentation
 
 If you want to express creativity in your content, using effects is a good option. This is because effects allow you to add uniqueness to your content. You can reflect your style and creativity with the help of these effects. Experimenting with different effects can help you to create unique content.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### 3\. Emotional Resonance
 
 With the help of different effects, you can grab the attention of your viewers. This way, you can easily convey your story or message to them effectively. Effects help you to create an atmosphere that helps to convey emotions beautifully.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### 4\. Showcase of Professionalism
 
 Effects give your videos a very professional look that can engage your audience. Using effects in the right way can help you showcase your production value. This can leave a very positive impact on your audience's mind. So you can establish a good connection with them as a content creator.
@@ -453,6 +600,18 @@ Do you wish to make professional-level edits in videos and want to add the smoot
 
 You also get the fullest control over the video metrics, such as format, dimension, and length. Other than this, you can also select multiple stock media assets. As it has integrations with Giphy, Unsplash, Pexels, and other third-party media libraries, you will not face any issues.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Features of Wondershare Filmora
 
 ##### **01**of 04
@@ -494,15 +653,15 @@ For adding motion blur in your **camera shake effect** video, uncheck the "Use C
 ![set shutter angle](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: A Step-by-Step Understanding of How To Create a Camera Shake Effect with Filmora
 
 Now that you know the outclass capabilities of Filmora, you must be wondering about the procedure of [adding a camera shake effect in videos](https://youtu.be/jbALGR8ccb0). The instructions to make the camera shake video with Filmora are discussed here for you:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Filmora Tutorial - How to Add CAMERA SHAKE Effects to Your Videos
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -525,13 +684,25 @@ To add a camera shake effect, go to the "Effects" tab and click "Search Bar." Ne
 
 Finally, go to "Export" and manage "Format," "Preset," "Frame Rate," and other parameters of the video. Next, hit the "Export" button to save the video on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![execute camera shake effect on video](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -541,14 +712,6 @@ Moreover, Filmora can add exquisite level camera shake effects in videos, and yo
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 **Camera shake videos** are not easy to make, and you must invest maximum time and effort to finish the work. Yet, this can be easy if you intend to utilize the feature-rich tool named Wondershare Filmora. This video editor offers timeline-based editing along with a non-destructive procedure.
@@ -573,9 +736,6 @@ You can break the monotony and correct all the colors in the color-disruptive vi
 
 There are more than 70 [AI portraits](https://tools.techidaily.com/wondershare/filmora/download/) and sticker effects added in Filmora. By this, you can remove the background from videos without affecting humans in videos.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Part 3: Create a Camera Shake Effect Using Premiere Pro
 
 Premiere Pro stands in the top video editing platform in today's digital market. The video editing intuition helps users develop professional videos that are of the highest quality. It integrates some of the finest functions, making it easy for users to create **camera shake effect** videos. To know how it is created through Premiere Pro, follow the **camera shake effect Premiere Pro** steps:
@@ -592,13 +752,16 @@ Continue to the effects settings that open on the top-left section of the Premie
 
 ![set scale and position](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 3
 
 For adding motion blur in your **camera shake effect** video, uncheck the "Use Composition's Shutter Angle" and set it to "360" degrees. This completes the camera shake, which can be easily exported to the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set shutter angle](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-3.jpg)
 
 ## Part 4: A Step-by-Step Understanding of How To Create a Camera Shake Effect with Filmora
@@ -621,27 +784,12 @@ To [make the camera shake video](https://www.youtube.com/watch?v=a1MdfXL2ulA) wi
 
 To add a camera shake effect, go to the "Effects" tab and click "Search Bar." Next, search for an appropriate camera shake effect and hit the "Download" icon on the effect of your choice. Once the effect is downloaded, drag it on the video in the timeline and customize it as needed.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add and adjust effect](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-5.jpg)
 
 ##### Step 3Export Camera Shake Video
 
 Finally, go to "Export" and manage "Format," "Preset," "Frame Rate," and other parameters of the video. Next, hit the "Export" button to save the video on your computer.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![execute camera shake effect on video](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-6.jpg)
 
 ## Conclusion
@@ -656,15 +804,18 @@ Moreover, Filmora can add exquisite level camera shake effects in videos, and yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Make Subtitle Videos
 
 Subtitles are very common for people who watch videos very often. It is simply the text or dialogue usually displayed at the base of the screen of a video. We often use subtitles to watch movies or television programs, play video games, etc. The subtitle makes all the difference when you are watching a video in a language different from the one you know and understand.
 
 A lot of videos will be really difficult to watch when there is no knowledge of the language which the producers used in creating the video. That is where the need for subtitles is seen. It breaks language barriers to publicity of a video i.e it tries to bridge that gap of understanding that exists when you watch a video. It also assists in as little as helping you understand a video that is recorded in a language you speak but in a different accent. An American might find it a bit difficult to understand the accent used in a British movie. So basically, what subtitles do is make understanding better and easier.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## 1\. Types of Subtitle Videos
 
 There are two (2) broad types of subtitling
@@ -731,7 +882,10 @@ Subtitles are a very good way to learn new languages, sometimes consciously, oth
 If you want to improve your reading speed, subtitles equally help you do that.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Subtitle Tips and Tricks
 
@@ -752,7 +906,10 @@ When creating subtitles, ensure they are automated so as not to make it difficul
 Use a user-friendly font style. Each font style is unique for each viewing and it speaks volumes of what the video has to say or the message it wants to pass. So, it is expedient to learn more about font style, font color, font size etc. for a better-subtitled video.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## The Bottom Line
 

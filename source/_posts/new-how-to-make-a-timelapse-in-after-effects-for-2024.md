@@ -1,7 +1,7 @@
 ---
 title: New How To Make a Timelapse in After Effects for 2024
-date: 2024-09-03T22:57:50.375Z
-updated: 2024-09-04T22:57:50.375Z
+date: 2024-09-08T23:51:26.479Z
+updated: 2024-09-09T23:51:26.479Z
 tags: 
   - ai
   - animation videos
@@ -27,6 +27,18 @@ Calculating your composition length to accommodate the frame rate and number of 
 2. New Composition Creation. Selecting a frame rate: A time lapse film produced at 30 frames per second will flow smoothly, but you can select any frame rate you like.
 3. To determine the duration of your composition, divide the number of photographs you have by the frame rate you've chosen. For instance, if you use 600 photos at 30 frames per second, your composition will last 20 seconds.
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 2\. Import your images
 
 You are prepared to make a time-lapse sequence if all of your photographs are saved to the same folder and are in the same order. If you are working directly from your Camera, you will likely have Camera Raw files, although this procedure works with PNG and JPEG sequences.
@@ -39,6 +51,12 @@ You are prepared to make a time-lapse sequence if all of your photographs are sa
 
 ![import images into after effects](https://images.wondershare.com/filmora/article-images/2022/11/import-images-into-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 3\. Create movements
 
 1. After Effects' Time-Lapse Sequence can be used just like any other standalone clip. This implies that you may give your time-lapse clip movement by adding Keyframes and Effects.
@@ -47,10 +65,16 @@ You are prepared to make a time-lapse sequence if all of your photographs are sa
 4. Right-click on the timeline, choose New > Adjustment Layer, then add your effects to the Adjustment Layer to add effects like noise and grain.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Step 4\. Create slow motion from a video
 
@@ -61,6 +85,12 @@ You can import your video after you've shot it to prepare it for editing. The sa
 3. Choose Time>Time Stretch by performing a right-click on the performer clip.
 4. You can alter the Stretch Factor or Duration in the dialogue box. When you alter one parameter, the other will reflect the new Stretch Factor or Duration for you.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 5\. Make an overlay
 
 You can alter the Stretch Factor or Duration in the dialogue box. When you alter one parameter, the other will reflect the new Stretch Factor or Duration for you.
@@ -77,30 +107,12 @@ After Effects CC must be opened, a new project must be created, the Import File 
 
 Once you have clicked on the first image in the sequence. The time-lapse video that you uploaded appears in the project library. After performing a right-click on the filename, select "New Comp from Selection" from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 6\. Exporting your video
 
 After getting our sequence to perform some kind of slow, understated animation so that it appears as though the camera is moving dramatically, we will need to export a video file. Go to File > Export > Add to Render Queue, then open the Render Queue dialog box by going to Window > Render Queue. From there, you can choose the Output Module and change the settings in the options dialog box. Finally, choose the Output To option and select the location on your computer where you would like to save the video clip that we are currently rendering and exporting.
 
 ![add to render queue after effects](https://images.wondershare.com/filmora/article-images/2022/11/add-to-render-queue-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="234" height="30" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 No matter how you make your time lapse videos, After Effects has a ton of features you can use to modify and enhance the way they look. Now that you are familiar with the fundamentals, you can play with the Frame Rates and Composition options. Check out this helpful manual for more information on Time Stretching and Remapping in After Effects.
@@ -129,12 +141,6 @@ We live in a digital technology world where various applications do everything, 
 
 So, if you want to know **how to export iMovie,** we will give you a step-by-step guideline to satisfy your requirements. One of the most significant aspects of iMovie is that you can edit your videos at your convenience. You can create professional videos, enhance your creativity, and showcase your talent to the world. You can add videos and photos and edit them according to your story.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How to Export iMovie Video from iPhone?
 
 Once you design the shape of your story, it is time you make the world know about your creativity. Since iMovie has loads of exciting tools and features, you can create videos with a professional touch. With the help of your iPhone, you can easily export iMovie videos in various ways. Following are the ways **how to export iMovie:**
@@ -162,8 +168,26 @@ With the help of the iPhone, you can easily export iMovie videos to other device
 
 ![export imovie video iphone](https://images.wondershare.com/filmora/article-images/2022/09/export-imovie-video-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * You must ensure that the AirDrop option is turned on for both devices.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Export video to the web
 
 Since iMovie is versatile video editing software, you can quickly transfer them anywhere, including any social networking site. It is an excellent way of showcasing your masterpiece to the world. However, if you plan to upload your video to any social networking site, you must ensure that you have an account with it. The following steps will help you export your iMovie videos to the web.
@@ -176,10 +200,10 @@ Since iMovie is versatile video editing software, you can quickly transfer them 
 ## Part 2\. How to Export iMovie Video from Mac?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. Send video via email
 
@@ -197,18 +221,6 @@ Following are the steps for **exporting the iMovie** video via email.
 * Tap on the Add option.
 * The recipient will get your video instantly.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Add the movie to your Photos library
 
 You can add your creative iMovie videos to the Photos library on your Mac, giving you the freedom to store your videos for later use. Following are the steps to add iMovie videos to your Photos library.
@@ -230,15 +242,15 @@ iMovie allows you to share your videos on the web using any social networking pl
 
 ![export imovie video on mac](https://images.wondershare.com/filmora/article-images/2022/09/export-imovie-video-on-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * Choose a location to save your file by clicking on 'save'
 * Upload the file that you want to share on the social networking site.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. iMovie Alternative to Edit Videos on Mac
 
 If you find that **iMovie export video** is not your cup of tea, one of the best alternatives to edit your videos is to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). The advantage of using Filmora is that you can easily edit your videos. Moreover, you do not have to have previous experience in video editing as the application is easy to use. You can easily download Windows Filmora from the net and use it like a professional. It has some of the most exciting tools that will help you to make videos according to your convenience.
@@ -290,31 +302,25 @@ Therefore, it is time to empower your imagination and give it a professional loo
 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Vintage Film Effect 1980S - How to Create
 
 The 1980s is widely regarded as the golden era of music and film-making. If you play a video recorded in the 80s, you'll notice graininess, blurriness, and light exposure, giving the footage a dreamy vintage touch. So, in this short tutorial, we'll learn how to create a vintage 1980-style video with a retro effect that will leave your audience yearning for more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Preparation
 
 ![1980s vintage scene](https://images.wondershare.com/filmora/article-images/2023/01/1980s-vintage-scene.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In this tutorial, you'll need at least two video clips. First, take clear footage of a hoop dancer playing to music and a disco ball footage that you'll add to the background. You can also add another footage to give your dancing video the perfect transition.
 
 **How to create a retro-style music video shot in the 80s:**
@@ -327,12 +333,6 @@ In this tutorial, you'll need at least two video clips. First, take clear footag
 
 ![import the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 First, run Wondershare Filmora and add the video with the hoop dancer on the first track. Then, move the disco ball footage right above the first video track.
 
 ##### Step2 Add an animation keyframe
@@ -340,24 +340,36 @@ First, run Wondershare Filmora and add the video with the hoop dancer on the fir
 ![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
 
 ![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
 
 ![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
 
@@ -365,25 +377,13 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 
 ![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Summary
 
@@ -393,49 +393,25 @@ Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. Yo
 
 ![import the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 First, run Wondershare Filmora and add the video with the hoop dancer on the first track. Then, move the disco ball footage right above the first video track.
 
 ##### Step2 Add an animation keyframe
 
 ![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
 
 ![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
 
 ![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
 
@@ -443,12 +419,6 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 
 ![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
 ## Summary
@@ -465,37 +435,25 @@ First, run Wondershare Filmora and add the video with the hoop dancer on the fir
 
 ![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="540" height="810" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
 
 ![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
 
 ![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
 
@@ -503,14 +461,14 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 
 ![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summary
 
 Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
@@ -519,18 +477,18 @@ Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. Yo
 
 ![import the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 First, run Wondershare Filmora and add the video with the hoop dancer on the first track. Then, move the disco ball footage right above the first video track.
 
 ##### Step2 Add an animation keyframe
 
 ![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
 
 ![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
@@ -540,10 +498,16 @@ Now find the **Animation** tab, then click the **Customize** tab. Next, click **
 ![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
 
@@ -551,14 +515,14 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 
 ![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summary
 
 Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
@@ -569,6 +533,12 @@ Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. Yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Level Up Videos By Applying Keyframe with Filmora
 
 Everyone is fascinated by a video portraying creativity and effort in each frame. Your films can easily have this captivity through the keyframe feature. It provides you the accessibility to make even a simple, plain shot pace up, slow down, or pan across the screen.
@@ -576,10 +546,16 @@ Everyone is fascinated by a video portraying creativity and effort in each frame
 Wondershare Filmora offers you a simple yet great experience of Keyframing. It has been the editors' favorite feature for years. Under its Grow and Win Program, Filmora presents the Keyframe creativity contest. It is the ultimate solution for bringing captivity and precision to your shots.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1\. What is the Keyframe Feature?
 
@@ -594,16 +570,10 @@ You could use a keyframe to mark the spot where the audio will have faded up or 
 Editors and creators use keyframing for all kinds of stuff. These uses include:
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Animated Logo Intros
 
@@ -611,6 +581,24 @@ You can use the keyframe feature to create indigenous intros with animated logos
 
 ![animated logo intro](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-1.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Special Transparency Effects
 
 Keyframing is famous for creating blended visuals through experimentation with the transparency of the clip.
@@ -618,10 +606,10 @@ Keyframing is famous for creating blended visuals through experimentation with t
 ![varying transparency clips](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-2.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Custom Picture-in-Picture Paths
 
@@ -630,13 +618,19 @@ We use the picture-in-picture effect in many editing formats, from tutorial vide
 ![picture-in-picture effects](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 The picture will move across the screen between the 30-second and 1-minute marks if you indicate that it will be in the upper left corner of the screen at the 30-second timestamp of your video and the bottom right corner at the 1-minute timestamp.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. What Would You Need to Make a Keyframe Video
 
 Let us share the procedure for making a video using the keyframe feature.
@@ -648,16 +642,10 @@ For experimenting and creating with the keyframe feature, first, you would need 
 The high-resolution requirement is a prerequisite for the complete experience of all parameters of the keyframe feature. For example, the zooming and varying opacity effects you add might look bland and dull if the clip or image appears pixelated upon zooming and scaling.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Motion Elements
 
@@ -671,12 +659,6 @@ To utilize the keyframe feature, you need high-end video and animation editing s
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4\. How to Make a Keyframe Video With Filmora
 
 Filmora can be one of the best video editors to achieve the effect. It can personalize anything in detail. There is plenty of footage from its built-in stock media with unlimited resources. By using this platform for editing, your editing time hugely can be greatly reduced.
@@ -708,10 +690,10 @@ Launch the most recent version of the software on your computer to produce an ou
 ![importing clips to filmora](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### Step3 Add your Photos and Videos to the Timeline
 
@@ -724,6 +706,12 @@ Or you can also add them one by one wherever you need. To add an item to your ti
 
 ![adding shots to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step4 Adding Movement to your Shots
 
 The next step would be to use the movement option in Keyframing, where you can pan and zoom a shot over a specified time. To do this, follow the bullet points below.
@@ -732,12 +720,6 @@ The next step would be to use the movement option in Keyframing, where you can p
 
 ![clip editing menu](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Once opened, the editing menu will have a Basic tab; click it.
 * **Check** the key-shaped button in front of the Transform button. It will create a Keyframe in the default form of your clip.
 
@@ -752,6 +734,18 @@ The next step would be to use the movement option in Keyframing, where you can p
 
 ![final result of added movement](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-10.gif)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step5 Adding Motion to your Shots
 
 Keyframing can add motion to your project's objects, clips, or images. To perform this in Filmora, follow these instructions:
@@ -762,16 +756,22 @@ Keyframing can add motion to your project's objects, clips, or images. To perfor
 ![opening the editing menu](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 * Once opened, the **editing menu** will have a Basic tab; **click**
 * **Check** the key-shaped button in the Basic Tab. It will create a Keyframe in the default form of your motion element.
 
 ![adding keyframes from the transform option](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * Next, move it to the end of the clip, check the key-shaped button in front of the Transform button, and add another keyframe there, but this time, change its scale and rotation attributes as you like.
 
 ![changing scale and rotation of clip at the second keyframe](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-13.png)
@@ -780,12 +780,6 @@ Keyframing can add motion to your project's objects, clips, or images. To perfor
 
 ![final result of added motion](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-14.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step6 Keyframing Opacity
 
 Keyframing allows creators to integrate variable opacity in their shots to instill a dramatic feel. This technique also helps create perfect fade-in and fade-out shots for your videos. Additionally, it is for theatrically dissolving shots too.  
@@ -796,30 +790,54 @@ For an illustrated guide to keyframing opacity, keep on reading the following in
 
 ![creating an initial keyframe](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * **Move** the red cursor to the end of the clip.
 
 ![moving the keyframe to the end of the clip](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-16.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 * Next, add another keyframe, scroll down in the editing menu, and remove the **opacity** from the slider below the Bend Mode option.
 
 ![decreasing the opacity at the second keyframe](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-17.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * That's it; you have a theatrical variation of the clip's visible opacity throughout the timeline.
 
 ![keyframing opacity final result](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-18.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 On the whole, keyframing is all about creativity at your fingertips. When detailed effort becomes necessary, the keyframe feature is always there to save the day. This tool is a delight, from adding movement and motion to your playful and immersive shots to crafting a cinematic scene out of your films. This contest is your chance to show us how creative you can get with this beautiful feature. Good luck creating!
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. How to Make a Keyframe Video With Filmora
 
 Filmora can be one of the best video editors to achieve the effect. It can personalize anything in detail. There is plenty of footage from its built-in stock media with unlimited resources. By using this platform for editing, your editing time hugely can be greatly reduced.
@@ -850,12 +868,6 @@ Launch the most recent version of the software on your computer to produce an ou
 
 ![importing clips to filmora](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step3 Add your Photos and Videos to the Timeline
 
 Your next step will be to add the imported videos and images to the timeline. When you have many videos and photos imported into the timeline, you can add them simultaneously.
@@ -875,34 +887,28 @@ The next step would be to use the movement option in Keyframing, where you can p
 
 ![clip editing menu](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Once opened, the editing menu will have a Basic tab; click it.
 * **Check** the key-shaped button in front of the Transform button. It will create a Keyframe in the default form of your clip.
 
 ![first keyframe created](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-8.png)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * You need to add a second keyframe at the end of the clip to create movement. First, move the timeline cursor to the end of the clip. Then, check the key-shaped button in front of the Transform button again for a second Keyframe.
 * Now change the scale of the clip from the slider options in the **Custom Animation**
 
 ![adding keyframes and varying clip scale](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-9.png)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="150" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Now **play** your clip, and you'll see it zooms in and pans automatically to the state of the second keyframe over that timeline.
 
 ![final result of added movement](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-10.gif)
@@ -921,10 +927,22 @@ Keyframing can add motion to your project's objects, clips, or images. To perfor
 
 ![adding keyframes from the transform option](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * Next, move it to the end of the clip, check the key-shaped button in front of the Transform button, and add another keyframe there, but this time, change its scale and rotation attributes as you like.
 
 ![changing scale and rotation of clip at the second keyframe](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * Enter **OK** and play your clip to see the fantastic effect.
 
 ![final result of added motion](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-14.gif)
@@ -940,27 +958,15 @@ For an illustrated guide to keyframing opacity, keep on reading the following in
 ![creating an initial keyframe](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 * **Move** the red cursor to the end of the clip.
 
 ![moving the keyframe to the end of the clip](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-16.png)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Next, add another keyframe, scroll down in the editing menu, and remove the **opacity** from the slider below the Bend Mode option.
 
 ![decreasing the opacity at the second keyframe](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-17.png)
@@ -970,10 +976,16 @@ For an illustrated guide to keyframing opacity, keep on reading the following in
 ![keyframing opacity final result](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-18.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 

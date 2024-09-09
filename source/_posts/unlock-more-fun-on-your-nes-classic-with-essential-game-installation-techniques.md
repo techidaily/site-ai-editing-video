@@ -1,7 +1,7 @@
 ---
 title: Unlock More Fun on Your NES Classic with Essential Game Installation Techniques
-date: 2024-09-03T22:57:44.854Z
-updated: 2024-09-04T22:57:44.854Z
+date: 2024-09-08T23:51:21.125Z
+updated: 2024-09-09T23:51:21.125Z
 categories:
   - BestProducts
 description: This Article Describes Unlock More Fun on Your NES Classic with Essential Game Installation Techniques
@@ -9,6 +9,12 @@ excerpt: This Article Describes Unlock More Fun on Your NES Classic with Essenti
 thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Entertainment-System-NES-Controller-FR-5c5a494bc9e77c0001d00e2b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unlock New Gaming Adventures for Your NES Classic Console
 ### What to Know
 
@@ -18,6 +24,12 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
 
  This article explains how to add games to an NEC Classic using NES game ROMs you own and a Windows PC.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add Games to NES Classic
 
  While the re-release of Nintendo's original home console comes with just 30 of the best classic games built in, a new program makes it extremely easy to add more games to your NES Classic edition using a Windows PC. That said, you'll need your own NES game ROMs.
@@ -29,21 +41,69 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
 2. Download the most recent version of[Hakchi2](https://github.com/TeamShinkansen/hakchi2/releases) . If it comes in a[ZIP](https://www.lifewire.com/zip-file-2622675) file, extract the contents to your PC.  
 ![Latest version of Hakchi 2 download from Github](https://www.lifewire.com/thmb/ldwuHaj8b2scKx14RPSLHSJ9N0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot140-5c577d1446e0fb000152f11e.png)
 3. Open**hakchi.exe** (the icon is an NES controller).  
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you're prompted to download additional resources and[restart your device](https://www.lifewire.com/why-does-restarting-seem-to-fix-most-computer-problems-2624569) , go ahead and open hakchi.exe again after you restart.  
 ![Open hakchi.exe](https://www.lifewire.com/thmb/3sEWApEsJlQ3WfD3dwm44L9fV20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-add-more-games-to-the-nes-classic-7f6bf93f026a42bd95f6d179aca086a1.jpg)
 4. Select**NES (USA/Europe)** .  
 ![Choose NES (USA/Europe)](https://www.lifewire.com/thmb/K0_MIzgjkgi5Do_SG9rO9OU-b-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-add-more-games-to-the-nes-classic-2077915796d24b319622974016b4c322.jpg)
 5. Select**Add more games** to upload the ROMs you want to add to your NES Classic. Only files with the extension .NES will work, although you can also upload ZIP folders containing them.  
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 !['Add more games' selection to upload ROMs to NES Classic](https://www.lifewire.com/thmb/7vHf5faB-1mVibSy9cF1KVJ8qfY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-add-more-games-to-the-nes-classic-089a7d2332bb4059b63d6de31fea424a.jpg)
 6. Under the Custom Games list, select the title you want to add cover art to. Select**Google** to retrieve images directly from Google.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Add cover art by clicking the titles under Custom Games](https://www.lifewire.com/thmb/neOlwOfUiIZx5S1tEn80GL82VMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-add-more-games-to-the-nes-classic-c2bdeef7eff64d139156d138e2c6e7a7.jpg)
 7. On the Hakchi2 toolbar, select**Kernel** \>**Install/Repair,** then select**Yes** when asked if you want to flash the custom kernel.  
 ![Select Kernel > Install/Repair, then click Yes](https://www.lifewire.com/thmb/N_5Vp8fvKlu15K8g8IneRPpgamA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-add-more-games-to-the-nes-classic-cf58f3c816484e8e899c26bd4f7adf5e.jpg)
 8. Follow the instructions that appear. You might be required to install some drivers if they didn't automatically install when you connected the console.  
 ![Flash the custom kernel](https://www.lifewire.com/thmb/obxjQ5w6R-YGlPa1SqmQbuWoxcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot153-5c5a42ee46e0fb000152fca2.png)
 9. When the process is complete, select**Synchronize selected games with NES/SNES Mini** and confirm you flashed the custom kernel.  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Select Synchronize selected games with NES/SNES Mini](https://www.lifewire.com/thmb/OQNrcOP_nKxq5Z51RZCf26tzUJ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-add-more-games-to-the-nes-classic-601953ec9f1947eca4af89041d99caba.jpg)
 10. After your ROMs finish uploading, turn off the console and disconnect it from your PC.
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 11. Plug in the power source to your NES Classic and turn it on. Your new games will be inside a folder named "New Games" alongside the preloaded titles.
 12. When you want to add more games, connect the NES Classic to your PC, open**Hakchi** and select**Synchronize selected games with NES/SNES Mini** . There's no need to flash the custom kernel each time.  
 ![Adding new games.](https://www.lifewire.com/thmb/6dh3kGy-feD3hiGnzsqbsMpEwjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-add-more-games-to-the-nes-classic-46e50620a2ee4df28fe95c05d5712c49.jpg)
@@ -56,12 +116,6 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
 
  You can follow these same instructions to add games to an SNES Classic using the Hakchi2 software.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Get ROMS for the NES Classic
 
  Long before the[NES Classic](https://www.liveabout.com/nes-cheat-codes-and-walkthroughs-4707366) came out, gamers had already been playing their favorite Nintendo titles thanks to emulators and ROMs. Downloading ROMs of games you don't already own is technically not legal; nonetheless, finding ROMs for NES games online is often easier than tracking down physical copies of old games.

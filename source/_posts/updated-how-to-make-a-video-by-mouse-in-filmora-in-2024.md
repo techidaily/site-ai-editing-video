@@ -1,7 +1,7 @@
 ---
 title: Updated How To Make a Video by Mouse in Filmora, In 2024
-date: 2024-09-03T22:57:50.321Z
-updated: 2024-09-04T22:57:50.321Z
+date: 2024-09-08T23:51:26.432Z
+updated: 2024-09-09T23:51:26.432Z
 tags: 
   - ai
   - animation videos
@@ -19,6 +19,12 @@ Have you ever wondered, what if somehow your keyboard just broken or disappeared
 
 This article will guide you how to use **stock videos** and **stock audio** to create a music video. The catch, you say? We will be doing that only with a use of a mouse.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Things To Know Before Editing
 
 Let us be honest, most shortcuts are not available without the keyboard. To counter that, our approach will need to be more general. **General** here means you need to know all the necessary controls and panels.
@@ -31,30 +37,12 @@ To counter these difficulties, even if you have a keyboard, you can imagine your
 
 Therefore, presenting us with a challenge, so if you someday come across a situation like this, you will be prepared. All in all, you would be learning more things by returning to the roots of your practice, which in most cases, can prove helpful.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Ready With the Professional Editing Tool
 
 Before getting into the editing process handicapped from resources, you need to be familiar with the software that we will use. We will use [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) You can click the link below and catch it up.
 
 ![buying wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-2.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Create a Music Video Without a Keyboard
 
 Let us get started! Whether you have a real mouseless experience or want to take it as a challenge, let's get the things clear first.
@@ -97,10 +85,10 @@ If you like to add a more **classical vibe**, pick a classical song or audio fro
 ![still shot of a bench](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-5.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Now that a scenario is constructed, our next step is to arrange these clips in the Wondershare Filmora timeline.
 
@@ -118,10 +106,10 @@ If you want your audio to **start** at a certain point. You have to follow the b
 ![splitting the audio on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-6.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 * **Add** your audio to the timeline.
 * Then move the **timer** or the slider where you want your audio to start.
@@ -144,6 +132,12 @@ When you have your audio in the timeline, your next step is adding the video. Af
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** now, remember you have multiple videos to match the audio length as we create a music video. The more, the more optimistic. Now, remember you have multiple videos to match the audio length as we create a music video. The more, the more optimistic.
 
 Download the remaining videos that you would wish to be added to the music and follow the steps mentioned above to add the clips where you desire.
@@ -155,16 +149,10 @@ You can add some transitions to give your music video a fine touch**.** To add t
 ![adding effects on wondershare filmora 11](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-8.gif)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="120" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 * First, **click** on the transition icon on the bar above. Then, browse as far as your imagination takes you.
 * If the effect you want still needs to be downloaded, click on the **download** icon in the bottom right corner and download the effect.
@@ -183,6 +171,18 @@ If you have time, you can also add a few of the effects in the Wondershare Filmo
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** you can do so as many times as you want for the remaining video clips in the timeline.
 
 It seems our 15 minutes are running out! Play the music video from the beginning and review the edits you made. Then, finalize your edits and Voila. You have successfully created a music video using a mouse on Wondershare Filmora.
@@ -206,10 +206,10 @@ You can add some transitions to give your music video a fine touch**.** To add t
 ![adding effects on wondershare filmora 11](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-8.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 * First, **click** on the transition icon on the bar above. Then, browse as far as your imagination takes you.
 * If the effect you want still needs to be downloaded, click on the **download** icon in the bottom right corner and download the effect.
@@ -229,16 +229,10 @@ If you have time, you can also add a few of the effects in the Wondershare Filmo
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Note:** you can do so as many times as you want for the remaining video clips in the timeline.
 
@@ -246,12 +240,6 @@ It seems our 15 minutes are running out! Play the music video from the beginning
 
 So in a rare scenario when you don't have a keyboard, you can just use your mouse to browse the Wondershare Filmora and put those creative ideas to work.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 With just a mouse, you have created a music video! How easy is that? Try different music, audio, and video, and then enjoy the rest! Creativity has no limits if you know how to make the most of it by using the tools at your hand. Tell out more about your creative ideas! We love to hear from your side!
@@ -273,10 +261,10 @@ With just a mouse, you have created a music video! How easy is that? Try differe
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Easy Ways to Add Text Overlay to Video
 
@@ -285,10 +273,10 @@ Text overlay refers to adding a text element over a video scene. The viewers wil
 If you want to add text overlay video, you will need a video editor on your device. Every video editor has text overlay option, but you need to choose that video editor which offers a wide range of text overlay options. We will illustrate how to add text overlay to your video on your computer, smartphone, as well as online from your web browser.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1\. Add Text Overlay to Video on PC
 
@@ -306,12 +294,6 @@ Step2 Import your video file into Project Media folder and drop it on Timeline.
 
 ![import video file into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 Go to Titles option at the top and you will find different categories of text styles to apply to your video.
 
 ![go to titles option](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
@@ -326,6 +308,18 @@ Step5 Double-click on Text layer present on Timeline and customize the text labe
 
 Step6 Finally, play the video and click on Export button to save the video on your hard drive.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Add Text Overlay to Video on Mac
 
 When it comes to editing videos on Mac, iMovie is a popular choice. This is because iMovie is an Apple product and it comes pre-installed on Mac. Adding text to your video is super easy on iMovie. There are different types of text styles available and here are the steps to add video overlay using iMovie.
@@ -334,6 +328,12 @@ Step1 Open iMovie from Applications folder. Click on Create New button and there
 
 ![create new project imovie](https://images.wondershare.com/filmora/article-images/2022/07/create-new-project-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Drag and drop the video file from Media folder to Timeline. Select Titles at the top and you will see different text styles. Place your mouse pointer over them to preview them. Drag and drop any desired text style on Timeline and place it where you want it to appear in the video.
 
 ![drag media timeline imovie](https://images.wondershare.com/filmora/article-images/2022/07/drag-media-timeline-imovie.jpg)
@@ -344,6 +344,18 @@ Step3 Edit the text from Preview Screen instantly. You can also change font, siz
 
 Step4 If you are satisfied with the text overlay, go to File> Share> File to export the video file.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Add Text Overlay to Video on iPhone
 
 If you have captured a video on your iPhone and you want to add some texts over the video, you can do it instantly with iMovie app. Yes, iMovie app from Apple is available for iPhone as well. There is no need to transfer the video file to your PC or Mac for text overlay video. Here are the steps to follow.
@@ -362,22 +374,16 @@ Step4 Tap on the Viewer to place the default text and tap on Edit option to chan
 
 ![edit text imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/edit-text-imovie-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 You can also reposition the text as well as adjust the size, font, as well as color. When you are satisfied, tap on Done.
 
 ![reposition text imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/reposition-text-imovie-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5\. Add Text Overlay to Video Online
 
 If you are not a regular video creator and you edit video rarely, installing an app on your phone or computer is going to be useless. You can use an online video editor to add text overlay to your video. This can be done on any device starting from smartphones to computers. Here are the steps to add overlay video online.
@@ -388,14 +394,32 @@ Step2 Wait for the video to get uploaded. Move the playhead on video navigation 
 
 ![add text button online video cutter](https://images.wondershare.com/filmora/article-images/2022/07/add-text-button-online-video-cutter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Click on the video where you want to place the text and type in the required text.
 
 Step4 Select the text and below the navigation panel, you will find all the tools to customize the text as per your preference.
 
 ![text navigation panel online](https://images.wondershare.com/filmora/article-images/2022/07/text-navigation-panel-online.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 Once done and you are satisfied, click on Save button.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Adding text overlay to video is a basic operation in video editing. We have illustrated how you can use iMovie for Mac as well as iPhone to add text overlay video. For Windows users, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the perfect video editor with different categories of tile and text styles to add text to any video. Furthermore, you can use the online video editor for text overlay video on the go.
@@ -406,54 +430,48 @@ Step1 Download and install Wondershare Filmora for Windows. Launch the applicati
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 Import your video file into Project Media folder and drop it on Timeline.
 
 ![import video file into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step3 Go to Titles option at the top and you will find different categories of text styles to apply to your video.
 
 ![go to titles option](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="540" height="540" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4 Select any category and any desired text style and drop it on Timeline. Place the text to that position on Timeline where you want the text to appear on the video.
 
 ![select any category](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 Double-click on Text layer present on Timeline and customize the text label and other parameters as per your requirements.
 
 ![double click on text layer](https://images.wondershare.com/filmora/guide/text-presets-win-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step6 Finally, play the video and click on Export button to save the video on your hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. Add Text Overlay to Video on Mac
 
 When it comes to editing videos on Mac, iMovie is a popular choice. This is because iMovie is an Apple product and it comes pre-installed on Mac. Adding text to your video is super easy on iMovie. There are different types of text styles available and here are the steps to add video overlay using iMovie.
@@ -467,21 +485,15 @@ Step2 Drag and drop the video file from Media folder to Timeline. Select Titles 
 ![drag media timeline imovie](https://images.wondershare.com/filmora/article-images/2022/07/drag-media-timeline-imovie.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step3 Edit the text from Preview Screen instantly. You can also change font, size, and other text elements.
 
 ![edit text video imovie](https://images.wondershare.com/filmora/article-images/2022/07/edit-text-video-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4 If you are satisfied with the text overlay, go to File> Share> File to export the video file.
 
 ## Part 3\. Add Text Overlay to Video on iPhone
@@ -495,16 +507,10 @@ Step2 Tap on the video clip and tap on “T” icon located at the bottom.
 ![click text imove iphone](https://images.wondershare.com/filmora/article-images/2022/07/click-text-imove-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step3 You need to choose the text style as per your preference from the bottom.
 
@@ -519,10 +525,16 @@ Step5 You can also reposition the text as well as adjust the size, font, as well
 ![reposition text imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/reposition-text-imovie-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 5\. Add Text Overlay to Video Online
 
@@ -534,12 +546,6 @@ Step2 Wait for the video to get uploaded. Move the playhead on video navigation 
 
 ![add text button online video cutter](https://images.wondershare.com/filmora/article-images/2022/07/add-text-button-online-video-cutter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 Click on the video where you want to place the text and type in the required text.
 
 Step4 Select the text and below the navigation panel, you will find all the tools to customize the text as per your preference.
@@ -560,6 +566,12 @@ Adding text overlay to video is a basic operation in video editing. We have illu
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Detailed Tutorial to Rotate Videos in Cyberlink PowerDirector
 
 Video Editing is a craft that is highly dependent on various characteristics of your video. But the way one presents it or goes about filming clips also has a profound effect on the end product. And as you may know, not every aspect of a video production activity always goes without hiccups. But editing can come in clutch as it can easily solve minor problems like skewed footage that was shot at the wrong angle or is upside down (an issue that can happen while using mobile phones).
@@ -568,18 +580,6 @@ Thus, with this article, we will be looking at steps to rotate a video in Cyberl
 
 **_Note:_** _We documented the steps in this guide with PowerDirector 365 and WonderShare Filmora X._
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="125" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Steps to Rotate Videos with CyberLink PowerDirector
 
 Put yourself in a situation where you've just finished filming a project with your smartphone but end up realizing that the footage isn't in the right orientation by default. While the error has an easy fix on most smartphones, you can also perform this action with video editing tools.
@@ -596,6 +596,12 @@ _If you do not have CyberLink PowerDirector 365, download the software by visiti
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-1.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** Full Mode in Cyberlink PowerDirector 365 will provide users access to a full-featured video editing tool similar in function to Wondershare Filmora. The other option available is Ad Designer.
 
 **Step 2:** Now, import media onto the Timeline from the Media Library.
@@ -605,15 +611,21 @@ For this guide, we used the pre-existing stock footage in Cyberlink PowerDirecto
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-2.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 3:** Now, click on the video file on the Timeline; this will activate the video in the Preview Window. And it will provide you with access to the rotation circle, allowing you to change the orientation of the source file.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **EXTRA**
 
 Rotation added in the PiP Designer will function as a keyframe-based rotation action. Right-click on the video in the preview window, choose Edit and then Modify to access this menu.
@@ -624,12 +636,6 @@ Following this, you can click on the Motion Tab, go into Rotation Settings, and 
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-5.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **An Easier Way to Crop Video with Wondershare Filmora**
 
 Though Cyberlink PowerDirector 365 is a powerful video editing tool, we felt its menus were not as simple to navigate. Accessing the rotate function while available in the forefront, the use of PiP Designer didn't feel intuitive.
@@ -660,18 +666,6 @@ Once you have a new project open in Filmora, follow the steps listed below.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** Choose the Edit Option (marked in Red).
 
 This will bring up the Edit Window in the left-top corner of your screen.
@@ -683,10 +677,16 @@ This will bring up the Edit Window in the left-top corner of your screen.
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-9.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Having read this stretch of the guide, we believe you may have noticed how Filmora is more user-friendly and accessible due to its menu layout.
 
@@ -696,6 +696,12 @@ Click on the Keyframe Button (marked in Green) to access the Keyframe Menu that 
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-10.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 This marks the end of our guide on how to rotate video in PowerDirector 365 and Wondershare Filmora X. Now, while both software are high-capable tools, we feel the keyframe-based working on rotation in Filmora is a lot more intuitive and easy to use. The ability to only have number-based rotation within the edit menu is also a positive, as rotating with a swivel like in PowerDirector isn't always the most accurate.
@@ -711,31 +717,43 @@ For this guide, we used the pre-existing stock footage in Cyberlink PowerDirecto
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-2.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 3:** Now, click on the video file on the Timeline; this will activate the video in the Preview Window. And it will provide you with access to the rotation circle, allowing you to change the orientation of the source file.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **EXTRA**
 
 Rotation added in the PiP Designer will function as a keyframe-based rotation action. Right-click on the video in the preview window, choose Edit and then Modify to access this menu.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-4.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Following this, you can click on the Motion Tab, go into Rotation Settings, and modify the angle with greater precision. In the Preview Window, you will now be able to see the rotating video.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-5.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **An Easier Way to Crop Video with Wondershare Filmora**
 
 Though Cyberlink PowerDirector 365 is a powerful video editing tool, we felt its menus were not as simple to navigate. Accessing the rotate function while available in the forefront, the use of PiP Designer didn't feel intuitive.
@@ -763,117 +781,11 @@ Once you have a new project open in Filmora, follow the steps listed below.
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-6.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-**Step 2:** Drag the video clip onto the Timeline and then select it with a mouse click to activate further interactions.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-**Step 3:** Choose the Edit Option (marked in Red).
-
-This will bring up the Edit Window in the left-top corner of your screen.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-**Step 4:** Click on the Transform Menu and use the Rotation Slider to edit the orientation.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-9.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Having read this stretch of the guide, we believe you may have noticed how Filmora is more user-friendly and accessible due to its menu layout.
-
-**BONUS**
-
-Click on the Keyframe Button (marked in Green) to access the Keyframe Menu that allows you to set points between which a decided amount of rotation can happen.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-10.jpeg)
-
-## The Bottom Line
-
-This marks the end of our guide on how to rotate video in PowerDirector 365 and Wondershare Filmora X. Now, while both software are high-capable tools, we feel the keyframe-based working on rotation in Filmora is a lot more intuitive and easy to use. The ability to only have number-based rotation within the edit menu is also a positive, as rotating with a swivel like in PowerDirector isn't always the most accurate.
-
-And lastly, the modern iconography-based design of Wondershare Filmora is a factor to keep in mind, as this increases usability manifolds.
-
-**Note:** Full Mode in Cyberlink PowerDirector 365 will provide users access to a full-featured video editing tool similar in function to Wondershare Filmora. The other option available is Ad Designer.
-
-**Step 2:** Now, import media onto the Timeline from the Media Library.
-
-For this guide, we used the pre-existing stock footage in Cyberlink PowerDirector.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-2.jpeg)
-
-**Step 3:** Now, click on the video file on the Timeline; this will activate the video in the Preview Window. And it will provide you with access to the rotation circle, allowing you to change the orientation of the source file.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
-
-**EXTRA**
-
-Rotation added in the PiP Designer will function as a keyframe-based rotation action. Right-click on the video in the preview window, choose Edit and then Modify to access this menu.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-4.jpeg)
-
-Following this, you can click on the Motion Tab, go into Rotation Settings, and modify the angle with greater precision. In the Preview Window, you will now be able to see the rotating video.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-5.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## **An Easier Way to Crop Video with Wondershare Filmora**
-
-Though Cyberlink PowerDirector 365 is a powerful video editing tool, we felt its menus were not as simple to navigate. Accessing the rotate function while available in the forefront, the use of PiP Designer didn't feel intuitive.
-
-In Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) , rotating footage only happens via the Edit Option, and this straightforward approach felt simple. As for those who want to use Keyframes, the integration of this feature right above the Timeline is an appreciated convenience.
-
-This emphasis on quick accessibility is present with almost every function in Filmora, and we believe this to be a significant advantage. The use of modern and unique iconography also increases familiarity, an aspect that will always be welcoming to new and budding creators.
-
-_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
-
-To help you learn how to use the rotate function and show you an example of the easy accessibility in Filmora, here is how you can use the feature to get the output you desire.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-Once you have a new project open in Filmora, follow the steps listed below.
-
-**Step 1:** Import a Media File to edit into your Video Project.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-6.jpeg)
-
 **Step 2:** Drag the video clip onto the Timeline and then select it with a mouse click to activate further interactions.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
@@ -885,16 +797,10 @@ This will bring up the Edit Window in the left-top corner of your screen.
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 4:** Click on the Transform Menu and use the Rotation Slider to edit the orientation.
 
@@ -922,62 +828,20 @@ For this guide, we used the pre-existing stock footage in Cyberlink PowerDirecto
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-2.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** Now, click on the video file on the Timeline; this will activate the video in the Preview Window. And it will provide you with access to the rotation circle, allowing you to change the orientation of the source file.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **EXTRA**
 
 Rotation added in the PiP Designer will function as a keyframe-based rotation action. Right-click on the video in the preview window, choose Edit and then Modify to access this menu.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-4.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Following this, you can click on the Motion Tab, go into Rotation Settings, and modify the angle with greater precision. In the Preview Window, you will now be able to see the rotating video.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-5.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **An Easier Way to Crop Video with Wondershare Filmora**
 
 Though Cyberlink PowerDirector 365 is a powerful video editing tool, we felt its menus were not as simple to navigate. Accessing the rotate function while available in the forefront, the use of PiP Designer didn't feel intuitive.
@@ -1008,12 +872,6 @@ Once you have a new project open in Filmora, follow the steps listed below.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** Choose the Edit Option (marked in Red).
 
 This will bring up the Edit Window in the left-top corner of your screen.
@@ -1024,17 +882,141 @@ This will bring up the Edit Window in the left-top corner of your screen.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-9.jpeg)
 
+Having read this stretch of the guide, we believe you may have noticed how Filmora is more user-friendly and accessible due to its menu layout.
+
+**BONUS**
+
+Click on the Keyframe Button (marked in Green) to access the Keyframe Menu that allows you to set points between which a decided amount of rotation can happen.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-10.jpeg)
+
+## The Bottom Line
+
+This marks the end of our guide on how to rotate video in PowerDirector 365 and Wondershare Filmora X. Now, while both software are high-capable tools, we feel the keyframe-based working on rotation in Filmora is a lot more intuitive and easy to use. The ability to only have number-based rotation within the edit menu is also a positive, as rotating with a swivel like in PowerDirector isn't always the most accurate.
+
+And lastly, the modern iconography-based design of Wondershare Filmora is a factor to keep in mind, as this increases usability manifolds.
+
+**Note:** Full Mode in Cyberlink PowerDirector 365 will provide users access to a full-featured video editing tool similar in function to Wondershare Filmora. The other option available is Ad Designer.
+
+**Step 2:** Now, import media onto the Timeline from the Media Library.
+
+For this guide, we used the pre-existing stock footage in Cyberlink PowerDirector.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-2.jpeg)
+
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 3:** Now, click on the video file on the Timeline; this will activate the video in the Preview Window. And it will provide you with access to the rotation circle, allowing you to change the orientation of the source file.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
+
+**EXTRA**
+
+Rotation added in the PiP Designer will function as a keyframe-based rotation action. Right-click on the video in the preview window, choose Edit and then Modify to access this menu.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-4.jpeg)
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Following this, you can click on the Motion Tab, go into Rotation Settings, and modify the angle with greater precision. In the Preview Window, you will now be able to see the rotating video.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-5.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **An Easier Way to Crop Video with Wondershare Filmora**
+
+Though Cyberlink PowerDirector 365 is a powerful video editing tool, we felt its menus were not as simple to navigate. Accessing the rotate function while available in the forefront, the use of PiP Designer didn't feel intuitive.
+
+In Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) , rotating footage only happens via the Edit Option, and this straightforward approach felt simple. As for those who want to use Keyframes, the integration of this feature right above the Timeline is an appreciated convenience.
+
+This emphasis on quick accessibility is present with almost every function in Filmora, and we believe this to be a significant advantage. The use of modern and unique iconography also increases familiarity, an aspect that will always be welcoming to new and budding creators.
+
+_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
+
+To help you learn how to use the rotate function and show you an example of the easy accessibility in Filmora, here is how you can use the feature to get the output you desire.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Once you have a new project open in Filmora, follow the steps listed below.
+
+**Step 1:** Import a Media File to edit into your Video Project.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-6.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 2:** Drag the video clip onto the Timeline and then select it with a mouse click to activate further interactions.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 3:** Choose the Edit Option (marked in Red).
+
+This will bring up the Edit Window in the left-top corner of your screen.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 4:** Click on the Transform Menu and use the Rotation Slider to edit the orientation.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-9.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Having read this stretch of the guide, we believe you may have noticed how Filmora is more user-friendly and accessible due to its menu layout.
 
@@ -1045,16 +1027,22 @@ Click on the Keyframe Button (marked in Green) to access the Keyframe Menu that 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-10.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## The Bottom Line
 
@@ -1073,10 +1061,10 @@ And lastly, the modern iconography-based design of Wondershare Filmora is a fact
 So, what's the difference between a vintage film shot in the 1920s and 1950s? It's simple; in the 1950s, video-making technologies were slightly advanced, although films were more about rock and roll and poodle skirts. So, without further dilly-dallying, let's learn how to create a retro 1950-style video with this simple Filmora tutorial.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Preparation
 
@@ -1094,68 +1082,18 @@ How to create a 1950s vintage film:
 
 ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
 
-First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
-
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
-
-![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
-
-Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
-
-##### Step 3 Add a Warm Film color effect
-
-![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
-
-##### Step 4 Apply more graininess to the film
-
-![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Summary
-
-And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
-
 First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
 
 ##### Step 2 Apply a cropping effect to the video
@@ -1163,21 +1101,15 @@ First, fire up Filmora and load the video you want to send back to the 1950s. Th
 ![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
 
 ##### Step 3 Add a Warm Film color effect
@@ -1185,66 +1117,10 @@ Double-click the Crop effect, then change the Left and Right values to make the 
 ![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
-
-##### Step 4 Apply more graininess to the film
-
-![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Summary
-
-And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
-
-First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
-
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
-
-Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
-
-![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
-
-##### Step 3 Add a Warm Film color effect
-
-![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
 
@@ -1263,10 +1139,10 @@ And that's all there is today! With these steps, you can create an engaging 1950
 ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
 
@@ -1274,15 +1150,21 @@ First, fire up Filmora and load the video you want to send back to the 1950s. Th
 
 ![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
 
@@ -1298,6 +1180,142 @@ Up to here, you'll realize that your video doesn't still look like a 1950s film 
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Summary
+
+And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
+
+First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
+
+##### Step 2 Apply a cropping effect to the video
+
+![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+
+Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
+
+![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
+
+Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
+
+##### Step 3 Add a Warm Film color effect
+
+![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
+
+##### Step 4 Apply more graininess to the film
+
+![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+
+Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Summary
+
+And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
+
+First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
+
+##### Step 2 Apply a cropping effect to the video
+
+![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
+
+![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
+
+##### Step 3 Add a Warm Film color effect
+
+![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
+
+##### Step 4 Apply more graininess to the film
+
+![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summary
 
 And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!

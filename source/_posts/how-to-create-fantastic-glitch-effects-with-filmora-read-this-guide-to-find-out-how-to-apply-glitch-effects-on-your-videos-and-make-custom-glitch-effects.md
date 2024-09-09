@@ -1,7 +1,7 @@
 ---
 title: How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects
-date: 2024-08-03T01:07:46.911Z
-updated: 2024-08-04T01:07:46.911Z
+date: 2024-09-08T23:51:48.673Z
+updated: 2024-09-09T23:51:48.673Z
 tags: 
   - ai
   - animation videos
@@ -13,6 +13,12 @@ keywords: how to create fantastic glitch effects with filmora read this guide to
 thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects
 
 You don't need outdated VCRs or any other broken technology to produce glitch effects. Instead, you can use a video editing program for Mac and PCs, such as [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), to transform your videos into glitch-effect masterpieces. You can also use the glitch effects to provide striking shot transitions or opening titles. Keep reading this article on how to apply various glitch video effects in Filmora 11:
@@ -25,12 +31,30 @@ A glitch effect occurs when a section of your video temporarily changes look or 
 
 You can use a glitch effect to temporarily change the appearance of the image in the video to give the impression that a machine is processing it. Additionally, it gives your finished piece a fantastic, dreamlike aspect.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: When Should you Apply a Glitch Effect?
 
 A few years back, we had no choice but to watch glitchy movies on rusty VCR devices. Nowadays, retro video effects are very popular in TV movies and even games. You can use these effects in many ways, like making fake vintage footage or emulating a glitching computer.
 
 Filmmakers frequently employ glitching in their videos to give the impression that a character has been affected by a technical abnormality, is having a flashback, or is being watched by someone else via a digital camera system. Something happens when the person or image flashes, often without their knowledge. In addition, you can apply the glitch effect to a composition to evoke a feeling of dramatic irony.
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Tutorial to Chromatic Aberration Effect
 
 Chromatic aberration refers to how old lenses tend to split colors. This effect is very common in Old media like VHS or LaserDisc.
@@ -41,15 +65,18 @@ Here is a complete breakdown of each component of the Retro look and how you can
 
 Step1 Download Wondersshare Filmora 11 on your Pc by visiting filmora.wondershare.com.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download wondersshare filmora 11](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_4.jpg)
 
 Step2 Open Filmora and click on the Effects tab.
 
 Step3 Search Chromatic aberration and drag the effect right onto your clip. It will give you a fantastic pre-made version of the effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Customize Glitch Effect with Filmora
 
 You can add final touches to your video clips by customizing Filmora's effects to take your glitch effect to the next level. You can mix and match different effects in your video to create your custom glitch effect in Filmora 11.
@@ -64,15 +91,24 @@ Step1 Once you have your clip on the timeline, select your clip and click on Edi
 
 Step2 Put the new copies on the layer above the others and make sure everything is lined up exactly. To create the glitch effect, separate the color channels on your Clips into the primary colors red, green, and blue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![put the new copies on the layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Double-click on the top clip.
 
 ![double-click on the top clip](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Go to Color and open the White Balance option to make this layer completely red. Next, drag both Temperature and Tint sliders to a hundred.
 
 ![open the white balance option](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_8.jpg)
@@ -83,35 +119,80 @@ Step5 Double-click on your middle clip and go to Color, then select White Balanc
 
 ![go to color](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step6 Finally, hide this layer just like before. Repeat the same steps for the last clip but make this clip the blue layer by leaving the Temperature at zero and setting the Tint to -100.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![setting the tint to -100](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step7 Double-click the clip in the top layer, click the Video Tab, and open the Compositing options. Set the Blending Mode of this top layer to Soft Light.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![click the video tab](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now click on the clip in your preview window and move the image over by pressing the left Arrow key on your keyboard a few times. Once you're happy with the top clip, hide that layer by clicking the eye icon.
 
 ![click on the clip in your preview window](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_12.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step8 To make the middle layer visible, double-click the clip in your mid layer and set the Blending Mode of this layer to Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![double-click the clip in your mid layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_13.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now click on your clip in the preview window and press the Right key as many times as you did before. Finally, make all the layers visible by clicking the eye icon.
 
 ![press the right key](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Vignette**
 
 A vignette is a dark border that fades around the frame's edges in Filmora. You can easily add a vignette effect to your video by using these steps:
@@ -140,12 +221,24 @@ Step1 Click on the Effects tab.
 
 Step2 Search for VCR Distortion, then drag and drop this effect over your previous layer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Tips to Create Awesome Glitch Effects
 
 1. One of the best ways to use the VCR Distortion effect is to cut it short and intersperse it around your video in random parts.
 2. The glitch Distortion effect is very intense, so we recommend cutting this effect very short and dropping it at random parts of your video.
 3. You can also use these effects as a sneaky way to hide Cuts in your video.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summary
 
 You can use glitch effects created or inspired by faulty video equipment as a powerful storytelling tool. These effects can help you change the tone of the entire video by adding a specific visual aesthetic and making the narrative simpler to convey and more approachable for the audience.
@@ -162,11 +255,14 @@ Step2 Put the new copies on the layer above the others and make sure everything 
 
 ![put the new copies on the layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Double-click on the top clip.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![double-click on the top clip](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_7.jpg)
 
 Go to Color and open the White Balance option to make this layer completely red. Next, drag both Temperature and Tint sliders to a hundred.
@@ -177,11 +273,14 @@ Step4 Now click the little eye icon on the timeline to hide the top layer and mo
 
 Step5 Double-click on your middle clip and go to Color, then select White Balance and set your Temperature to -100 and your Tint to 100.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![go to color](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step6 Finally, hide this layer just like before. Repeat the same steps for the last clip but make this clip the blue layer by leaving the Temperature at zero and setting the Tint to -100.
 
 ![setting the tint to -100](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_10.jpg)
@@ -194,14 +293,32 @@ Now click on the clip in your preview window and move the image over by pressing
 
 ![click on the clip in your preview window](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step8 To make the middle layer visible, double-click the clip in your mid layer and set the Blending Mode of this layer to Screen.
 
 ![double-click the clip in your mid layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now click on your clip in the preview window and press the Right key as many times as you did before. Finally, make all the layers visible by clicking the eye icon.
 
 ![press the right key](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Vignette**
 
 A vignette is a dark border that fades around the frame's edges in Filmora. You can easily add a vignette effect to your video by using these steps:
@@ -230,6 +347,12 @@ Step1 Click on the Effects tab.
 
 Step2 Search for VCR Distortion, then drag and drop this effect over your previous layer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Tips to Create Awesome Glitch Effects
 
 1. One of the best ways to use the VCR Distortion effect is to cut it short and intersperse it around your video in random parts.
@@ -255,7 +378,10 @@ We recommend using Filmora 11 for adding built-in glitch effects. You can also u
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## In This Article, We Will Show You How to Rotate Videos Using Obs
 
@@ -287,24 +413,20 @@ Step 1: Open the video editor and drag your video to the editor.
 
 Step 2: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-3.png)
 
 Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-4.png)
 
 How to rotate using the advance controls in obs?
@@ -315,132 +437,24 @@ Step 1: Open obs and click on the Edit tab > Transform > Edit transform. You can
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2: Go to the Rotation section.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3: Select the rotation degree you want to use.
 
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-7.png)
-
-Step 4: Click on enter on your keyboard to rotate it.
-
-How to rotate using right-clicking on the video?
-
-Third, to use right-clicking on the video, follow the following:
-
-Step 1: Open obs and right-click on the clip that you want to rotate.
-
-Step 2: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-8.png)
-
-Step 3: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-9.png)
-
-Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
-## An Easy Way to Rotate Videos Using Filmora
-
-To conclude, there are a number of ways to rotate videos on different devices. In this article, we have shown you how to rotate videos using Obs. Meanwhile, we have another suggestion which is using [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate videos. Filmora is a Wondershare product that helps you to rotate videos without quality loss. With its easy-to-use interface, you can rotate videos with just a few clicks. If you are interested in it, please feel free to check the guide below:
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-### Step-by-step on how to rotate videos using Filmora
-
-How to rotate videos using Filmora?
-
-First, to rotate videos using Filmora, follow the steps below:
-
-Step 1: Import the video you want to rotate into Filmora.
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-11.png)
-
-Step 2: Click on the "Edit" button in the toolbar.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-12.png)
-
-Step 3: Go to Transform > Rotate.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-13.png)
-
-Step 4: Select the rotation angle you want to use.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-14.png)
-
-Step 5: Click on the ‘Ok’ to rotate it.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-15.png)
-
-Second, if you want to rotate a video and flip it, follow the steps below:
-
-Click on the flip option that you want to use, either upside down or sideways, vertically or horizontally.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-16.png)
-
-Click on ‘Ok’ to apply the rotation and the flip.
-
-Third, if you want to rotate a video by a specific number of degrees, follow the steps below:
-
-To conclude, Filmora provides a number of ways for you to rotate your videos as well as using Obs. If you are looking for an easy way to rotate your videos without quality loss, then Filmora is the best option for you.
-
-Step 2: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-2.png)
-
-Step 3: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-3.png)
-
-Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-4.png)
-
-How to rotate using the advance controls in obs?
-
-Second, to use the filters in obs, follow the steps below:
-
-Step 1: Open obs and click on the Edit tab > Transform > Edit transform. You can also click Ctrl + E.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-5.png)
-
-Step 2: Go to the Rotation section.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-6.png)
-
-Step 3: Select the rotation degree you want to use.
-
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-7.png)
 
 Step 4: Click on enter on your keyboard to rotate it.
@@ -483,23 +497,28 @@ First, to rotate videos using Filmora, follow the steps below:
 
 Step 1: Import the video you want to rotate into Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2: Click on the "Edit" button in the toolbar.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-12.png)
 
 Step 3: Go to Transform > Rotate.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: Select the rotation angle you want to use.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-14.png)
@@ -514,6 +533,12 @@ Click on the flip option that you want to use, either upside down or sideways, v
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-16.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Click on ‘Ok’ to apply the rotation and the flip.
 
 Third, if you want to rotate a video by a specific number of degrees, follow the steps below:
@@ -522,18 +547,18 @@ To conclude, Filmora provides a number of ways for you to rotate your videos as 
 
 Step 2: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-2.png)
 
 Step 3: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-4.png)
@@ -544,34 +569,180 @@ Second, to use the filters in obs, follow the steps below:
 
 Step 1: Open obs and click on the Edit tab > Transform > Edit transform. You can also click Ctrl + E.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-5.png)
 
 Step 2: Go to the Rotation section.
 
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-6.png)
+
+Step 3: Select the rotation degree you want to use.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-7.png)
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 4: Click on enter on your keyboard to rotate it.
+
+How to rotate using right-clicking on the video?
+
+Third, to use right-clicking on the video, follow the following:
+
+Step 1: Open obs and right-click on the clip that you want to rotate.
+
+Step 2: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-8.png)
+
+Step 3: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-10.png)
+
+## An Easy Way to Rotate Videos Using Filmora
+
+To conclude, there are a number of ways to rotate videos on different devices. In this article, we have shown you how to rotate videos using Obs. Meanwhile, we have another suggestion which is using [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate videos. Filmora is a Wondershare product that helps you to rotate videos without quality loss. With its easy-to-use interface, you can rotate videos with just a few clicks. If you are interested in it, please feel free to check the guide below:
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+### Step-by-step on how to rotate videos using Filmora
+
+How to rotate videos using Filmora?
+
+First, to rotate videos using Filmora, follow the steps below:
+
+Step 1: Import the video you want to rotate into Filmora.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-11.png)
+
+Step 2: Click on the "Edit" button in the toolbar.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-12.png)
+
+Step 3: Go to Transform > Rotate.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 4: Select the rotation angle you want to use.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-14.png)
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-6.png)
+Step 5: Click on the ‘Ok’ to rotate it.
 
-Step 3: Select the rotation degree you want to use.
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+Second, if you want to rotate a video and flip it, follow the steps below:
+
+Click on the flip option that you want to use, either upside down or sideways, vertically or horizontally.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-16.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Click on ‘Ok’ to apply the rotation and the flip.
+
+Third, if you want to rotate a video by a specific number of degrees, follow the steps below:
+
+To conclude, Filmora provides a number of ways for you to rotate your videos as well as using Obs. If you are looking for an easy way to rotate your videos without quality loss, then Filmora is the best option for you.
+
+Step 2: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 3: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-3.png)
+
+Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-4.png)
+
+How to rotate using the advance controls in obs?
+
+Second, to use the filters in obs, follow the steps below:
+
+Step 1: Open obs and click on the Edit tab > Transform > Edit transform. You can also click Ctrl + E.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 2: Go to the Rotation section.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 3: Select the rotation degree you want to use.
+
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: Click on enter on your keyboard to rotate it.
 
 How to rotate using right-clicking on the video?
@@ -582,22 +753,28 @@ Step 1: Open obs and right-click on the clip that you want to rotate.
 
 Step 2: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-8.png)
 
 Step 3: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## An Easy Way to Rotate Videos Using Filmora
 
 To conclude, there are a number of ways to rotate videos on different devices. In this article, we have shown you how to rotate videos using Obs. Meanwhile, we have another suggestion which is using [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate videos. Filmora is a Wondershare product that helps you to rotate videos without quality loss. With its easy-to-use interface, you can rotate videos with just a few clicks. If you are interested in it, please feel free to check the guide below:
@@ -611,7 +788,10 @@ For Win 7 or later (64-bit)
 For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step-by-step on how to rotate videos using Filmora
 
@@ -629,25 +809,22 @@ Step 2: Click on the "Edit" button in the toolbar.
 
 Step 3: Go to Transform > Rotate.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-13.png)
 
 Step 4: Select the rotation angle you want to use.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-14.png)
 
 Step 5: Click on the ‘Ok’ to rotate it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Second, if you want to rotate a video and flip it, follow the steps below:
 
 Click on the flip option that you want to use, either upside down or sideways, vertically or horizontally.
@@ -672,29 +849,26 @@ Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 How to rotate using the advance controls in obs?
 
 Second, to use the filters in obs, follow the steps below:
 
 Step 1: Open obs and click on the Edit tab > Transform > Edit transform. You can also click Ctrl + E.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-5.png)
 
 Step 2: Go to the Rotation section.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-6.png)
 
 Step 3: Select the rotation degree you want to use.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-7.png)
 
 Step 4: Click on enter on your keyboard to rotate it.
@@ -707,9 +881,6 @@ Step 1: Open obs and right-click on the clip that you want to rotate.
 
 Step 2: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-8.png)
 
 Step 3: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
@@ -718,11 +889,14 @@ Step 3: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degre
 
 Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## An Easy Way to Rotate Videos Using Filmora
 
 To conclude, there are a number of ways to rotate videos on different devices. In this article, we have shown you how to rotate videos using Obs. Meanwhile, we have another suggestion which is using [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate videos. Filmora is a Wondershare product that helps you to rotate videos without quality loss. With its easy-to-use interface, you can rotate videos with just a few clicks. If you are interested in it, please feel free to check the guide below:
@@ -735,9 +909,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Step-by-step on how to rotate videos using Filmora
 
 How to rotate videos using Filmora?
@@ -748,17 +919,32 @@ Step 1: Import the video you want to rotate into Filmora.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2: Click on the "Edit" button in the toolbar.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3: Go to Transform > Rotate.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: Select the rotation angle you want to use.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-14.png)
@@ -771,11 +957,14 @@ Second, if you want to rotate a video and flip it, follow the steps below:
 
 Click on the flip option that you want to use, either upside down or sideways, vertically or horizontally.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-16.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Click on ‘Ok’ to apply the rotation and the flip.
 
 Third, if you want to rotate a video by a specific number of degrees, follow the steps below:
@@ -789,7 +978,10 @@ To conclude, Filmora provides a number of ways for you to rotate your videos as 
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Create a Movie with Windows Movie Maker
 
@@ -799,16 +991,18 @@ Are you interested in making movies? Well, If your answer is yes, you're in luck
 
 Let's get started.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Make a Video with Windows Movie Maker
 
 Here are the steps you need to take to **make movies on windows 10**:
 
 ##### Step1 Import Media Into Movie Maker
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![import media into windows movie maker](https://images.wondershare.com/filmora/article-images/2022/09/import-media-into-windows-movie-maker.jpg)
 
 The first thing you need to do is get all of your video footage and images into Windows Movie Maker.
@@ -830,6 +1024,12 @@ Your selected file will now appear in the "Collections" pane. You can double-cli
 
 ![windows movie maker timeline edit](https://images.wondershare.com/filmora/article-images/2022/09/windows-movie-maker-timeline-edit.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After you have imported all of your desired clips and images into Windows Movie Maker, it is time to start editing them into your movie. Here are the things that you need to do to edit your clips and images:
 
 * For cutting the image, you need to select the part of the image that you want to cut. To do this, just click on the image and drag it to where you want it to be cut. The cutting process will automatically happen when you release your mouse button.
@@ -842,6 +1042,12 @@ By doing these minor things, you can edit your clips and images in the timeline 
 
 ![add effects windows movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-effects-windows-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Video effects are a great way to make your movies look more professional. Windows Movie Maker has various built-in effects that you can use to improve the quality of your videos. These effects can be applied to your movie's video and audio tracks. Moreover, they can add transitions between clips and even change the way your video looks.
 
 There are hundreds of different effects that you can use in Windows Movie Maker. So experiment with them until you find a style that suits your needs. With a bit of practice, you'll be making movies that look like they were made by a professional in no time!
@@ -857,9 +1063,6 @@ When you're happy with your added effects, click on the "Ok" button to save your
 
 ##### Step4 Edit Audio & Titles
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![edit audio title windows movie maker](https://images.wondershare.com/filmora/article-images/2022/09/edit-audio-title-windows-movie-maker.jpg)
 
 Audio and Title are both crucial aspects when you want to **make movie windows 10 movie** perfectly. You can edit both of these in Windows Movie Maker. Editing is one of the most creative aspects of making a movie. In Windows Movie Maker, you easily edit your audio and titles in the video. Even if you want to do the editing multiple times, you can do so without any problem. All you need to do is have the latest version of Windows Movie Maker installed on your computer.
@@ -887,6 +1090,12 @@ To export and save the video:
 * Give the video a name
 * Save it to your computer
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Movie Maker Alternative to Create Videos
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video creating and editing software developed by Wondershare. Although it is not as widely known as some of its competitors, it has many features that make it a great alternative to Windows Movie Maker. Anyone can use this software to create high-quality videos, from beginners to professionals. The software is compatible with both Windows and Mac operating systems.
@@ -907,25 +1116,24 @@ Step1 Import your video into the software. You can do this by clicking on "Impor
 
 Step2 Once your video is imported, you can see it in the "Project Library". You can drag and drop it from here into the "Video Timeline" located at the bottom of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![drag and drop video into timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 Step3 Now that your video is in the timeline, you can start editing it. To do this, simply click on the item in the timeline you want to edit and then make your changes in the "Video Inspector" panel on the screen's right-hand side.
 
 ![click on item in timeline](https://images.wondershare.com/filmora/guide/filmora-split-video-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can make changes, including cropping the video, adjusting the volume, adding filters and effects, and more.
 
 Step4 Once you are happy with your edits, you can preview your video by clicking on the "Play" button in the tight and save it if it seems perfect to you.
 
 If you are satisfied with what you see, then you can go ahead and export your video. To do this, click on "File" located in the top left-hand corner of the screen and then select "Export". From here, you can choose what format you want to export your video and where you want to save it on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 If you're looking for an easy way to make movies on your Windows computer, then you should definitely check out Windows Movie Maker. This free from Microsoft makes it simple to create and edit videos, and it's perfect for beginners. Another alternative for making movies on Windows is to use the Filmora video editor. This program is more robust and has multiple features just like Movie Maker.
@@ -934,20 +1142,20 @@ If you're looking for an easy way to make movies on your Windows computer, then 
 
 Step1 Import your video into the software. You can do this by clicking on "Import" and selecting the file from your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![import video into software](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Once your video is imported, you can see it in the "Project Library". You can drag and drop it from here into the "Video Timeline" located at the bottom of the screen.
 
 ![drag and drop video into timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 Step3 Now that your video is in the timeline, you can start editing it. To do this, simply click on the item in the timeline you want to edit and then make your changes in the "Video Inspector" panel on the screen's right-hand side.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on item in timeline](https://images.wondershare.com/filmora/guide/filmora-split-video-option.jpg)
 
 You can make changes, including cropping the video, adjusting the volume, adding filters and effects, and more.
@@ -956,6 +1164,12 @@ Step4 Once you are happy with your edits, you can preview your video by clicking
 
 If you are satisfied with what you see, then you can go ahead and export your video. To do this, click on "File" located in the top left-hand corner of the screen and then select "Export". From here, you can choose what format you want to export your video and where you want to save it on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you're looking for an easy way to make movies on your Windows computer, then you should definitely check out Windows Movie Maker. This free from Microsoft makes it simple to create and edit videos, and it's perfect for beginners. Another alternative for making movies on Windows is to use the Filmora video editor. This program is more robust and has multiple features just like Movie Maker.
@@ -966,6 +1180,12 @@ If you're looking for an easy way to make movies on your Windows computer, then 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add a Lower Third to Your Video
 
 Preparation
@@ -986,11 +1206,20 @@ Step 2
 
 Go to **My Media** and click on **“Import Media”** to load your photos or images into the video editor.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3
 
 Drag the media you want to use to the Timeline.
@@ -1007,75 +1236,6 @@ Step 5
 
 Double-click on the Lower Third Title clip. Then, edit the text inside the new panel that pops up. Here, you can change its size, color, font, and a few other features. When you’re done, click **OK.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![edit text filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
-
-Step 6
-
-All that’s left to do now is to watch the final preview and Export the video. Render the video first and then hit the blue **Export button.** Congratulations on adding a lower-third animated title to your video in Filmora.
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![render video filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
-
-Summary
-
-**What you've learned:**
-
-* How to add and create unique titles in Filmora
-* Edit and customize text in the Filmora video editor
-* How to open a new project in Filmora and export it when you’re done
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-Download and Install the [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/). After it’s done installing, let the app run automatically and click on **“New Project”.**
-
-Step 2
-
-Go to **My Media** and click on **“Import Media”** to load your photos or images into the video editor.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
-![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
-
-Step 3
-
-Drag the media you want to use to the Timeline.
-
-![drag media to timeline](https://images.wondershare.com/filmora/article-images/2023/01/drag.png)
-
-Step 4
-
-Head over to **Titles** → **Lower Thirds**. Then, drag the one you like to use to the Timeline and place it above the clip you imported earlier.
-
-![lower third filmora](https://images.wondershare.com/filmora/article-images/2023/01/titles.png)
-
-Step 5
-
-Double-click on the Lower Third Title clip. Then, edit the text inside the new panel that pops up. Here, you can change its size, color, font, and a few other features. When you’re done, click **OK.**
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![edit text filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
 
 Step 6
@@ -1110,11 +1270,20 @@ Step 2
 
 Go to **My Media** and click on **“Import Media”** to load your photos or images into the video editor.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3
 
 Drag the media you want to use to the Timeline.
@@ -1133,13 +1302,16 @@ Double-click on the Lower Third Title clip. Then, edit the text inside the new p
 
 ![edit text filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 6
 
 All that’s left to do now is to watch the final preview and Export the video. Render the video first and then hit the blue **Export button.** Congratulations on adding a lower-third animated title to your video in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![render video filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
 
 Summary
@@ -1168,9 +1340,82 @@ Step 2
 
 Go to **My Media** and click on **“Import Media”** to load your photos or images into the video editor.
 
+![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+Step 3
+
+Drag the media you want to use to the Timeline.
+
+![drag media to timeline](https://images.wondershare.com/filmora/article-images/2023/01/drag.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 4
+
+Head over to **Titles** → **Lower Thirds**. Then, drag the one you like to use to the Timeline and place it above the clip you imported earlier.
+
+![lower third filmora](https://images.wondershare.com/filmora/article-images/2023/01/titles.png)
+
+Step 5
+
+Double-click on the Lower Third Title clip. Then, edit the text inside the new panel that pops up. Here, you can change its size, color, font, and a few other features. When you’re done, click **OK.**
+
+![edit text filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 6
+
+All that’s left to do now is to watch the final preview and Export the video. Render the video first and then hit the blue **Export button.** Congratulations on adding a lower-third animated title to your video in Filmora.
+
+![render video filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
+
+Summary
+
+**What you've learned:**
+
+* How to add and create unique titles in Filmora
+* Edit and customize text in the Filmora video editor
+* How to open a new project in Filmora and export it when you’re done
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+Download and Install the [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/). After it’s done installing, let the app run automatically and click on **“New Project”.**
+
+Step 2
+
+Go to **My Media** and click on **“Import Media”** to load your photos or images into the video editor.
+
 ![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
 
 Step 3
@@ -1183,9 +1428,6 @@ Step 4
 
 Head over to **Titles** → **Lower Thirds**. Then, drag the one you like to use to the Timeline and place it above the clip you imported earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![lower third filmora](https://images.wondershare.com/filmora/article-images/2023/01/titles.png)
 
 Step 5
@@ -1198,9 +1440,6 @@ Step 6
 
 All that’s left to do now is to watch the final preview and Export the video. Render the video first and then hit the blue **Export button.** Congratulations on adding a lower-third animated title to your video in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![render video filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
 
 Summary

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro
-date: 2024-09-03T22:57:51.915Z
-updated: 2024-09-04T22:57:51.915Z
+date: 2024-09-08T23:51:28.007Z
+updated: 2024-09-09T23:51:28.007Z
 tags: 
   - ai
   - animation videos
@@ -19,6 +19,12 @@ Adobe Premiere Pro is an excellent tool for video editing. It is a tool that can
 
 VHS effect has characteristics of old video tapes with lines and scales. It also adds distortion, noise, and color shifting to your videos. There are many filters and overlays that you can apply to get the VHS look. However, if you are using a PC tool, such as Premiere Pro, then you have to learn how to apply it. You can easily create a **VHS effect Premiere** look once you learn to add the effect to your video.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What Are The Benefits of Using VHS Effects in Video?
 
 Using VHS effects in your videos can bring several benefits. You can easily use multiple **VHS effects in Premiere Pro**. However, firstly, explore why incorporating VHS effects can be advantageous:
@@ -42,6 +48,12 @@ Simply add video effects on Video with [Filmora Video Effect Editor](https://too
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How To Add VHS Effect in Premiere Pro: An Overview
 
 Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry because this guideline will provide you with the required information. These simple steps will let you add your favorite VHS look to your video using Premiere Pro.
@@ -58,10 +70,22 @@ Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry beca
 
 ![add channel blur effect](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** In the "Channel Blur" effect tab, enable "Repeat Edge Pixel" and increase "Red Blurriness" to 30\. Repeat the same step but this time increase "Blue Blurriness" to 30 and "Red Blurriness" to 15 and change "Blur Dimensions" to "Vertical."
 
 ![change channel blur parameters](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 5:** Continue to add the "Unsharp Mask" and "Color Emboss" effects from the "Effect" tab. Proceed and change "Amount" and "Radius" for "Unsharp Mask" to 85 and 20, respectively. Slightly increase the "Relief" values for the "Color Emboss" effect.
 
 ![add unsharp and color emboss](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-5.jpg)
@@ -70,6 +94,12 @@ Proceed to apply the "Noise" effect from the "Noise & Grain" section and further
 
 ![add noise and wave warp](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 6:** You can crop your video to a 4:3 aspect ratio to give your video more authenticity. To do this, create two "Color Matte" layers using the "New Item" icon. Name and place them over the video clip. Apply the "Crop" effect to both layers. Set the "Left" option to 86 for the first layer and the "Right" option to 86 for the second layer. Set the "Edge Feather" to 30 for both layers.
 
 ![add crop effect and adjust](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-7.jpg)
@@ -79,10 +109,10 @@ Make sure to save your VHS effect as a preset for future use by right-clicking a
 ![combine to create vhs preset](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: Using Wondershare Filmora to Add The Perfect VHS Effect in No Time
 
@@ -95,10 +125,16 @@ Wondershare has provided us with so many tools and applications for different pu
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -110,12 +146,6 @@ To apply a similar VHS overlay Premiere effect to your video, first access Wonde
 
 ![create new project on filmora](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step 2Import and Arrange Your Video
 
 Next, import your video by either dragging and dropping it into the software or using the import media option. Once imported, drag and drop your video into the timeline area to begin working with it.
@@ -135,10 +165,16 @@ To refine the intensity of the VHS effect, go to the "Effects" tab located on th
 ![export final video](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -148,33 +184,15 @@ To conclude, there are many different overlays, effects, and filters that you ca
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="960" height="540" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: How To Add VHS Effect in Premiere Pro: An Overview
 
@@ -184,16 +202,16 @@ Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry beca
 
 ![set lumetri color parameters](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2:** Navigate to the "Creative" tab in the "Lumetri Color" panel. Increase the "Faded Film" and decrease the "Sharpness," "Saturation," and "Vibrance" to your liking. Use the color wheels in the "Color Wheels & Match" section to give the right tone. Further, proceed to increase the "Vignette" value from the same tab.
 
 ![change other lumetri parameters](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** Enable editing mode by selecting "Editing" in the main bar. Choose "Edit" from the lower section and search for the "Channel Blur" effect. Apply the effect by dragging and dropping it onto your video clip. Place the effect above previous adjustments and effects.
 
 ![add channel blur effect](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-3.jpg)
@@ -202,21 +220,15 @@ Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry beca
 
 ![change channel blur parameters](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 5:** Continue to add the "Unsharp Mask" and "Color Emboss" effects from the "Effect" tab. Proceed and change "Amount" and "Radius" for "Unsharp Mask" to 85 and 20, respectively. Slightly increase the "Relief" values for the "Color Emboss" effect.
 
 ![add unsharp and color emboss](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Proceed to apply the "Noise" effect from the "Noise & Grain" section and further adjust the "Amount of Noise" to your preference. Induce the "Wave Warp" effect and set the parameters of "Wave Height" to 2 and "Wave Width" to 1000\. Change "Direction" to 0 and "Pinning" to "Horizontal Edges."
 
@@ -226,15 +238,27 @@ Proceed to apply the "Noise" effect from the "Noise & Grain" section and further
 
 ![add crop effect and adjust](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Make sure to save your VHS effect as a preset for future use by right-clicking and selecting "Save Preset." Finally, export your **VHS effect Premiere Pro** video to your desired format.
 
 ![combine to create vhs preset](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: Using Wondershare Filmora to Add The Perfect VHS Effect in No Time
 
@@ -246,6 +270,12 @@ Wondershare has provided us with so many tools and applications for different pu
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you want to add **VHS effect Vegas Pro** overlays using Filmora, you can. In order to apply such effects to your videos, you need to follow the guide. There are 4 simple steps to add the perfect VHS look to your video in no time.
@@ -256,12 +286,6 @@ To apply a similar VHS overlay Premiere effect to your video, first access Wonde
 
 ![create new project on filmora](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step 2Import and Arrange Your Video
 
 Next, import your video by either dragging and dropping it into the software or using the import media option. Once imported, drag and drop your video into the timeline area to begin working with it.
@@ -274,12 +298,6 @@ Access the "Effects" option from the top bar of the software. Search for "VHS" i
 
 ![add vhs effect to filmora](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step 4Adjust Opacity and Export
 
 To refine the intensity of the VHS effect, go to the "Effects" tab located on the right side of the screen. From there, you can adjust the effect's opacity by changing its transparency. Then, click "Export" at the top left of the screen to save your video with the applied VHS effects.
@@ -287,10 +305,22 @@ To refine the intensity of the VHS effect, go to the "Effects" tab located on th
 ![export final video](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -309,10 +339,16 @@ To conclude, there are many different overlays, effects, and filters that you ca
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2 Ways to Fade in Text in Premiere Pro
 
@@ -320,6 +356,18 @@ Every video is unappealing until you edit the video properly. Editing videos not
 
 Fade in effect is available in all video editors. Among video editors, Adobe Premiere Pro is one of the best professional video editors. However, the learning curve of Premiere Pro is steep and hence, you have to know the exact steps to add fade in text Premiere Pro. We will illustrate how to apply fade in text effect Pro as well as add fade in and fade out transition effects in Premiere Pro. We will also state an alternative way to fade in texts in your videos.
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Fade in text in Premiere Pro with Opacity option
 
 If you have added any text or any graphical object in your video on Premiere Pro, you can apply fade in effect to your text and object easily. When you add fade in effect to your text or object, they slowly appear on the screen which is very soothing to watch instead of sudden and abrupt appearance. Here are the steps on how to fade text in Premiere Pro.
@@ -333,39 +381,27 @@ Step2 Go to Effect Controls and click on Text option to expand it. Click on Opac
 ![click opacity in pr](https://images.wondershare.com/filmora/article-images/2022/07/click-opacity-in-pr.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step3 Put the timeline cursor at the beginning of the selected text clip. Thereafter, make the Opacity value to zero. Click on Stopwatch icon beside Opacity to add a keyframe.
 
 ![make opacity to zero pr](https://images.wondershare.com/filmora/article-images/2022/07/make-opacity-to-zero-pr.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4 Put the timeline cursor at that point in the clip where you want the text to appear completely. Now make the Opacity value to 100\. Click on Stopwatch to add a keyframe here.
 
 ![make opacity to 100 pr](https://images.wondershare.com/filmora/article-images/2022/07/make-opacity-to-100-pr.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step5 Play the video to watch the fade in effect on your selected text. You can move the keyframes to speed up or slow down fade in effect.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Make fade in or out with transition effects
 
 If you have multiple video clips or scenes, you should add fade in and fade out transition effects so that the transition from one clip to another or one scene to another is smooth. The fade in or fade out effect for video clips look similar to fade text Premiere Pro. In fact, you can use the steps of how to fade in text in Premiere Pro to get the job done. But there is an easier way available with Video Transitions option. Here are the steps on how to apply fade in or out effect on your video clips in Premiere Pro.
@@ -376,6 +412,12 @@ Step2 Go to Effects panel and click on Video Transitions option.
 
 ![click video transitions pr](https://images.wondershare.com/filmora/article-images/2022/07/click-video-transitions-pr.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Click on Dissolve and from the dropdown list, drag and drop Film Dissolve to the beginning of the selected video clip for fade in effect.
 
 ![drag film dissolve pr](https://images.wondershare.com/filmora/article-images/2022/07/drag-film-dissolve-pr.jpg)
@@ -385,15 +427,21 @@ Step4 Click on the added effect on Timeline to adjust speed, duration, and align
 ![adjust effects control pr](https://images.wondershare.com/filmora/article-images/2022/07/adjust-effects-control-pr.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step5 Play the video to ensure that the effect looks perfect. Therefore, go to File> Share> Export File to save the video.
 
 You can place the transition at the end of the video for fading out effect. Instead of Film Dissolve, you can use Crossfade or Dip to Black effect for fade in and fade out effect on video clips.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Alternative way to fade in text in videos
 
 If you do not have Adobe Premiere Pro or you find the steps difficult to fade in text in videos using Premiere Pro, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Filmora is a professional video editor that is available for Windows as well as Mac users. There is a wide range of video effects available in Filmora in comparison to Premiere Pro. Most importantly, Filmora is super easy and intuitive to use, and even amateur users can use it comfortably. Here are the steps to fade in text in videos using Filmora.
@@ -410,10 +458,28 @@ Step2 Import the video clip under Project Media folder. Drag and drop the video 
 
 ![import video clip](https://images.wondershare.com/filmora/guide/create-new-project-02.png)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Go to Titles located at the top and drag and drop any title style on Timeline. Double-click on the Title clip on Timeline and type in your required text in the Viewer. You can stretch the Title clip to extend its duration as per your requirement.
 
 ![go to titles](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Double-click on Title clip again on the Timeline and go to Text> Animation tab located at the top-left corner. Scroll down to go to Fade1 option and double-click Fade1 to apply it to your text.
 
 Step5 You can go to settings by clicking on Advanced button and adjust parameters such as speed and duration of the fade effect for better visibility.
@@ -421,16 +487,10 @@ Step5 You can go to settings by clicking on Advanced button and adjust parameter
 Step6 Once you are done, play the video and thereafter, click on Export to save the video on your hard drive.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -442,6 +502,12 @@ Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/fi
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/create-new-project-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Import the video clip under Project Media folder. Drag and drop the video clip to Timeline.
 
 ![import video clip](https://images.wondershare.com/filmora/guide/create-new-project-02.png)
@@ -450,24 +516,12 @@ Step3 Go to Titles located at the top and drag and drop any title style on Timel
 
 ![go to titles](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4 Double-click on Title clip again on the Timeline and go to Text> Animation tab located at the top-left corner. Scroll down to go to Fade1 option and double-click Fade1 to apply it to your text.
 
 Step5 You can go to settings by clicking on Advanced button and adjust parameters such as speed and duration of the fade effect for better visibility.
 
 Step6 Once you are done, play the video and thereafter, click on Export to save the video on your hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 We have stated the steps on how to fade text in Premiere Pro. You can use the same steps to apply the effect to graphical objects. We have also illustrated how to apply fade in and fade out effects between video clips and scenes using transition effects. If you are looking for an alternative and easier way to fade in texts in your videos, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -478,12 +532,6 @@ We have stated the steps on how to fade text in Premiere Pro. You can use the sa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Want to Add the Amazing Video Text Effects that You Generally See on Video Streaming Platforms? Use Filmora to Add Popular Video Text Effects Instantly
 
 If your video needs to have texts and titles, instead of static text effects, you should opt for video text effects. Basically, you will be showing eye-catching animated texts instead of unappealing still texts. You can get the attention of the audience towards your texts instantly and get the messages across swiftly. There are literally unlimited types of video editing text effects available but a handful of them are widely used by video creators.
@@ -504,10 +552,10 @@ If you want to add those popular text effects to your video, you will need a pro
 There are unlimited text effects available in Filmora but some of them are extremely popular that video creators regularly use in their videos. Here is the list of the popular Filmora video editor text effects that you should be aware of.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. Text Swipe Effect
 
@@ -521,6 +569,18 @@ The type text effect in Filmora is referred to as the typewriter text effect in 
 
 The type text effect is particularly useful when you are displaying a large size of text on the screen. It is also widely used when showing a paragraph of text instead of a simple line. This helps in drawing the attention of the audience to the paragraph and retaining the attention for a longer duration of time.
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. WordArt Effect
 
 WordArt is synonymous with MS Word where large words have 3D effects and highlighted background. Apart from 3D effect, text can have a thick stroke or outline as well as a gradient color style when WordArt effect is applied. In Filmora, you will find a plethora of WordArt effects and some are them are modern while others have a retro feel to them.
@@ -528,10 +588,10 @@ WordArt is synonymous with MS Word where large words have 3D effects and highlig
 The WordArt effect is particularly popular while displaying titles and funny texts on the entire screen or covering a large part of the video. These are mostly used in the opening or ending scenes of the video. Besides, some video creators use them while making transitions from one scene to another.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 4\. Keyframe
 
@@ -539,12 +599,6 @@ If you want to create text animations as per your requirements, you have to use 
 
 If you want to add uniqueness to text animations so that you can make the audience wonder and appreciate, keyframes are the way. Adding keyframes in the text layer on Filmora is super easy and you can get effects like texts slowly scaling up, dancing randomly, changing fonts, and much more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Color Text Effect
 
 The color text effect is becoming extremely popular and it is widely used for opening and ending credits. Flashing different colors through your texts and titles against a darker background can act as a feast for the human eyes. There are different types of color text effects available that can make your text stand out.
@@ -573,29 +627,41 @@ Step2 Import your video clips under Project Media folder and drop them onto the 
 
 ![import text video clip into filmora](https://images.wondershare.com/filmora/article-images/2022/09/import-text-video-clip-into-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Search for a popular text effect from the search box. Select a text effect template and drop it on the timeline. Adjust its place on the timeline depending on where you want the text to appear. Double-click on the text layer and edit the text as per your requirements.
 
 ![edit text in videos filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-text-in-videos-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 You can edit the style from fonts and settings section. You can also go to Advanced section available for more minute editing and get the desired text effect.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -605,18 +671,18 @@ Part 1\. Popular text effects in Filmora
 
 There are unlimited text effects available in Filmora but some of them are extremely popular that video creators regularly use in their videos. Here is the list of the popular Filmora video editor text effects that you should be aware of.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Text Swipe Effect
 
 Text swipe effects are the most commonly used in today’s videos on social media and video streaming platforms. In this effect, the text slides into the video frame from a particular direction. The entire text can swipe in if it is a one-liner and it can even swipe in word by word or sentence by sentence.
 
 If you want to show short texts and you do not want to experiment with text animations, the text swipe effect is the safest option. For example, if you want to display your social media handles, your location, a coupon code, or a correction phrase that you have uttered wrongly, text swipe effects should be on your video.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Type Text Effect
 
 The type text effect in Filmora is referred to as the typewriter text effect in Premiere Pro and After Effects. The effect displays the text as if it is being typed in real-time as it is done in a typewriter. The characters will appear on the screen with a cursor on the screen and therefore, it takes more duration than most other text effects.
@@ -629,24 +695,30 @@ WordArt is synonymous with MS Word where large words have 3D effects and highlig
 
 The WordArt effect is particularly popular while displaying titles and funny texts on the entire screen or covering a large part of the video. These are mostly used in the opening or ending scenes of the video. Besides, some video creators use them while making transitions from one scene to another.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Keyframe
 
 If you want to create text animations as per your requirements, you have to use keyframes in any video editor. You can always apply the ready-made video editing text effects but if you want to customize and personalize, you can add keyframes in between two timestamps. Thereafter, you need to change text styles and parameters for each frame so that it looks like an animation.
 
 If you want to add uniqueness to text animations so that you can make the audience wonder and appreciate, keyframes are the way. Adding keyframes in the text layer on Filmora is super easy and you can get effects like texts slowly scaling up, dancing randomly, changing fonts, and much more.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Color Text Effect
 
 The color text effect is becoming extremely popular and it is widely used for opening and ending credits. Flashing different colors through your texts and titles against a darker background can act as a feast for the human eyes. There are different types of color text effects available that can make your text stand out.
 
 When you are using color text effect, you need to maintain a large font size for your text so that it is widely visible. Even if your background is not dark, you can use a darker box in the background of the text or a darker frame around the text to amplify the effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Bounce to Zoom Effect
 
 The bounce to zoom effect is widely used during a transition from one scene to another. It is regarded as a funny text effect where the text can swipe in and bounce and enlarge in size. Alternatively, the characters can bounce individually and zoom in and out with the motion as if they are dancing.
@@ -669,18 +741,6 @@ Step2 Import your video clips under Project Media folder and drop them onto the 
 
 ![import text video clip into filmora](https://images.wondershare.com/filmora/article-images/2022/09/import-text-video-clip-into-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 Search for a popular text effect from the search box. Select a text effect template and drop it on the timeline. Adjust its place on the timeline depending on where you want the text to appear. Double-click on the text layer and edit the text as per your requirements.
 
 ![edit text in videos filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-text-in-videos-filmora.jpg)
@@ -688,10 +748,10 @@ Step3 Search for a popular text effect from the search box. Select a text effect
 You can edit the style from fonts and settings section. You can also go to Advanced section available for more minute editing and get the desired text effect.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -712,10 +772,10 @@ Before you can publish your recorded video to your viewers, you need to polish t
 Instead of showing static texts, you should create animated texts and place them in the video wherever appropriate. You do not need to download a video editor on your computer or smartphone to add animated text to your video. You can make text animation online using an online text animation maker. We will illustrate the steps to create animated text with three different online editors.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1\. Use Biteable Animated Text
 
@@ -729,27 +789,15 @@ Step2Create an account by following the on-screen instructions. Click on New Vid
 
 ![create video from scratch](https://images.wondershare.com/filmora/article-images/2022/08/create-video-from-scratch.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="150" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3Enter a name for the video and select a video shape as per your preference. Click on Continue button.
 
 ![edit video name biteable](https://images.wondershare.com/filmora/article-images/2022/08/edit-video-name-biteable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step4Under Titles, select any template and it will be added to the Timeline. Similarly, you can add multiple titles templates, text templates, number templates and likewise. You will see them in the Timeline placed side by side. You can stretch their durations as per your requirements.
 
@@ -760,10 +808,10 @@ Step5Double-click on each template to edit the text in them and select the text 
 ![edit title template biteable](https://images.wondershare.com/filmora/article-images/2022/08/edit-title-template-biteable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2\. Use Motionden Video Maker
 
@@ -773,41 +821,29 @@ Step1Open your web browser and visit “motionden.com/video-maker/text-animation
 
 ![make a video motionden](https://images.wondershare.com/filmora/article-images/2022/08/make-a-video-motionden.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2Go to Create menu option and select any category of video templates. You can also check out the popular video templates and select anyone as per your preference.
 
 ![choose popular templates motionden](https://images.wondershare.com/filmora/article-images/2022/08/choose-popular-templates-motionden.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3For the selected category, you need to select the desired video template. Click on Edit Video and you can make changes to the template on the video editor as per your requirements. You need to sign up for free in order to continue and edit the template.
 
 ![edit video motionden](https://images.wondershare.com/filmora/article-images/2022/08/edit-video-motionden.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4Click on individual scenes and click on texts to customize them. Once the editing is done for each scene, click on Make Video button to build and save the text video.
 
 ![customize text motionden](https://images.wondershare.com/filmora/article-images/2022/08/customize-text-motionden.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3\. Use Flexclip Text Animation Tool
 
@@ -817,18 +853,6 @@ Step1Open web browser and visit “flexclip.com/features/text-animation.html”.
 
 ![flexclip text animation maker](https://images.wondershare.com/filmora/article-images/2022/08/flexclip-text-animation-maker.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2You can choose from the available templates to create video with text from scratch. If you want to add text to your recorded video, go to Media tab. Click on Local Files button and upload your recorded video.
 
 ![upload video flexclip](https://images.wondershare.com/filmora/article-images/2022/08/upload-video-flexclip.jpg)
@@ -837,6 +861,12 @@ Step3Drag and drop the uploaded video into the Timeline. Thereafter, go to Text 
 
 ![drop upload video timeline flexclip](https://images.wondershare.com/filmora/article-images/2022/08/drop-upload-video-timeline-flexclip.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4You will see all the different text effects and animations. Place your mouse pointer to preview the animation. Drag and drop the select text template to the video on the Viewer. You can check the Timeline and stretch or compress the text layer as per your requirements.
 
 ![flexclip viewer text video](https://images.wondershare.com/filmora/article-images/2022/08/flexclip-viewer-text-video.jpg)
@@ -846,10 +876,16 @@ Step5Double-click on the text on Viewer window and customize the text as per you
 ![customize text in flexclip](https://images.wondershare.com/filmora/article-images/2022/08/customize-text-in-flexclip.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Color Grading in Final Cut Pro
-date: 2024-08-03T01:08:29.952Z
-updated: 2024-08-04T01:08:29.952Z
+date: 2024-09-08T23:51:45.413Z
+updated: 2024-09-09T23:51:45.413Z
 tags: 
   - ai
   - animation videos
@@ -22,7 +22,10 @@ In order to help, we decided to compile a thorough beginner's article to color g
 With that said, let's begin!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 1\. Discover how you color grade in Final Cut Pro
 
@@ -52,15 +55,18 @@ After importing your film, you may be concerned about the general dull look of y
 
 The Scopes in Final Cut Pro are panels that display the color information of your shots. They are quite complicated and can be difficult to comprehend if you did not use them ever before. You can activate Video Scopes by clicking View > Show in Viewer > Video Scopes from the View menu. The three components of grading are the highlights, mid-tones, and shadows. Your highlights are shown at the top and your shadows are at the bottom in all grading tools and scopes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Include Color Wheels
 
 Now that your setup is complete, you can begin grading your footage. Grading is done in multiple layers stacked on top of each other. It may take multiple levels to create the desired look. Follow the instructions below to modify your settings to match your clip if you want to give your footage a cinematic look.
 
 You may access a wider range of color manipulation tools with the built-in color wheels, exposure adjustments, including isolation of color selection, RGB modifications across tone ranges, and simple masking.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Color board
 
 A vertical color spectrum is shown on the Color Board, and it is intersected by a horizontal line that features four nodes. These are the ranges of the footage that are designated as the Highlights, Midtones, and Shadows, respectively.
@@ -79,6 +85,18 @@ The order can be changed by dragging and dropping, and either method can be disa
 
 If you are experienced with more advanced picture editing software, such as Adobe Photoshop, you will benefit greatly from using color curves. Adjustments can be made independently to both the Luma (the brightest areas) and the primary composite colors (red, blue, and green).
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Match Colors
 
 Match Color is an additional choice that may be made from the improvement's menu. This function will try to replicate the visual style of one video clip in another. First, choose the clip whose color you want to change, click on that clip that has the desired appearance, and last, choose Match Color.
@@ -87,6 +105,12 @@ You will still be able to utilize these settings as shortcuts even after you hav
 
 It's not likely that a single tool or adjustment will solve an issue or produce the desired result; rather, it's more likely that a number of different impacts will be required. In the same way that different visual effects in Final Cut Pro X may be toggled on and off, any layers that you add to a clip can have their visibility controlled from the Inspector window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In Final Cut Pro X, you may choose from a wide variety of grading plugins, ranging from more affordable solutions like FCPeffects to more expensive ones like Magic Bullet Looks, which are designed specifically for feature film-style grades.
@@ -120,14 +144,20 @@ We live in a digital technology world where various applications do everything, 
 So, if you want to know **how to export iMovie,** we will give you a step-by-step guideline to satisfy your requirements. One of the most significant aspects of iMovie is that you can edit your videos at your convenience. You can create professional videos, enhance your creativity, and showcase your talent to the world. You can add videos and photos and edit them according to your story.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1\. How to Export iMovie Video from iPhone?
 
 Once you design the shape of your story, it is time you make the world know about your creativity. Since iMovie has loads of exciting tools and features, you can create videos with a professional touch. With the help of your iPhone, you can easily export iMovie videos in various ways. Following are the ways **how to export iMovie:**
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. Send video via email or text message
 
@@ -152,11 +182,14 @@ With the help of the iPhone, you can easily export iMovie videos to other device
 
 ![export imovie video iphone](https://images.wondershare.com/filmora/article-images/2022/09/export-imovie-video-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * You must ensure that the AirDrop option is turned on for both devices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Export video to the web
 
 Since iMovie is versatile video editing software, you can quickly transfer them anywhere, including any social networking site. It is an excellent way of showcasing your masterpiece to the world. However, if you plan to upload your video to any social networking site, you must ensure that you have an account with it. The following steps will help you export your iMovie videos to the web.
@@ -167,10 +200,25 @@ Since iMovie is versatile video editing software, you can quickly transfer them 
 * Click on Next to upload your iMovie video.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2\. How to Export iMovie Video from Mac?
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Send video via email
 
 Mac offers you the comfort to send your videos to your friends, colleagues, and loved ones via email. You can create professional videos and send them instantly. However, you must make sure that the videos do not have a high resolution, otherwise it will take some time to transfer the files.
@@ -188,7 +236,10 @@ Following are the steps for **exporting the iMovie** video via email.
 * The recipient will get your video instantly.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Add the movie to your Photos library
 
@@ -201,6 +252,18 @@ You can add your creative iMovie videos to the Photos library on your Mac, givin
 * Choose a location to save your iMovie video.
 * Drag the file that you want to transfer to the photos library.
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Share video to web
 
 iMovie allows you to share your videos on the web using any social networking platform. Following are the steps to share your videos on the web.
@@ -228,18 +291,6 @@ With the help of Filmora, you can easily create and transfer your videos in any 
 
 Moreover, you can export the videos in any of the formats of your choice for better viewing, as it works on any given platform. Filmora is great at creating and editing Youtube videos, professional videos, and other videos on social networks. It is one of the best applications for editing your videos.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Apple's iMovie is one of the most exciting video editing applications that will enhance your creativity. It offers a wide range of tools to create and edit videos according to your choice. Therefore, with the help of iMovie export, you can explore your creativity and showcase the world of your talent. Moreover, it allows you to export files in any video format so you can play them on any device.
@@ -254,6 +305,18 @@ Therefore, it is time to empower your imagination and give it a professional loo
 
 ![edit videos](https://images.wondershare.com/filmora/guide/workflow-and-overview-for-exporting-2.png)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 With the help of Filmora, you can easily create and transfer your videos in any format. You can even edit any particular area of the videos and add subtitles and music to give it a professional look. One of the most exciting features of Filmora is that the application has one of the best special effects that will enhance the pro touch of your video. You can even make tutorials and other educational videos for your students. It is because you can add your audio and use it best for educational purposes. It is the best application for professionals as well as beginners.
 
 Moreover, you can export the videos in any of the formats of your choice for better viewing, as it works on any given platform. Filmora is great at creating and editing Youtube videos, professional videos, and other videos on social networks. It is one of the best applications for editing your videos.
@@ -274,6 +337,18 @@ Therefore, it is time to empower your imagination and give it a professional loo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add Custom Filters in VN App: 2024 Quick Guide
 
 In the colorful world of video editing, the ability to personalize and enhance your clips with unique looks is what stands your work out. Enter the VN app, the game-changer in mobile video editing, bursting with user-friendly features.
@@ -284,9 +359,6 @@ If you've been searching for a simple way to dive into the realm of video filter
 * [Part 3: Best Alternatives](#part3)
 * [Part 4: Summary](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Use VN App Built-in Video Filters (LUTs)
 
 **_Step 1: Locate the Filters Feature_**
@@ -305,9 +377,6 @@ Okay, young director, you've chosen your filter. But what if you want to tweak i
 
 Once a filter is applied, you'll notice sliders or dials – these are your video filter editor tools. Play around with them! You can adjust the filter's intensity, making it as subtle or dramatic as you like. Tweak the brightness, contrast, and saturation until your video looks like you envisioned.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Download External Filter Installation Package
 
 **_Step 1: Locate the My Filters Feature_**
@@ -331,7 +400,10 @@ Here comes the cool part! To get new custom filters:
 After importing your snazzy new filter, the next step is super easy. Simply apply it to your video, and if you love how it looks, save it as a preset. This way, the next time you're editing, you can head straight to **"My Filters**," find your favorite custom filter and slap it onto your video without a hitch. Talk about convenience!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: Best Alternatives
 
@@ -348,9 +420,6 @@ Filmora is more than just an editor; it's a canvas for videographers. One of its
 
 While Filmora is a great tool, the best fit depends on personal preferences and specific project needs. However, it's always good to have choices in your editing toolkit. Variety is, after all, the spice of life (and video editing)!
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Summary
 
 The beauty of video editing lies in the limitless possibilities it offers. With every video filter, editor tweak, and custom preset, you're not just editing – you're storytelling. And with tools like VN and Filmora at your fingertips, you have everything you need to tell your story your way.
@@ -376,8 +445,16 @@ Okay, young director, you've chosen your filter. But what if you want to tweak i
 Once a filter is applied, you'll notice sliders or dials – these are your video filter editor tools. Play around with them! You can adjust the filter's intensity, making it as subtle or dramatic as you like. Tweak the brightness, contrast, and saturation until your video looks like you envisioned.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: Download External Filter Installation Package
 
@@ -429,7 +506,10 @@ Remember, whether you're a seasoned videographer or someone just starting, there
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Use Rule of Thirds in Video
 
@@ -437,6 +517,12 @@ So you have your work flow sorted out and you're well on your way with Filmora b
 
 I'm sure you may have heard of the rule of thirds for art or photography and you may not know or understand what it is. You may even be wondering how the rule of thirds can help you with your video creation. Well, that is what I'm going to show and explain to you today.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is the rule of thirds
 
 At its core the rule of thirds is a guide to follow whenever you create something visual.
@@ -445,9 +531,6 @@ You break an image into thirds both horizontally and vertically, in doing this y
 
 To gain a better understanding of this here is a visual example of the gridlines and nine boxes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![rule of thirds gridline](https://images.wondershare.com/filmora/article-images/2022/11/rule-of-thirds-gridline.jpg)
 
 This may seem simple but is often overlooked due to time restraints and eagerness to get that video out there. By following these guidelines your overall composition will gain interesting and pleasing results that can help with viewer engagement. This is only one piece of the puzzle but as any photography professional or artist will tell you, It's the small things that add up.
@@ -460,18 +543,18 @@ This will be our scene example, you can see buildings, boats, water and skyline.
 
 I will now show this picture with no compositional thought and without the use of the thirds system.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![shoot a scene with three thirds](https://images.wondershare.com/filmora/article-images/2022/11/shoot-a-scene-with-three-thirds.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Notice how all the elements are in the scene but it just looks interesting and something just seems off when you look at it. You may find yourself searching for understanding of the image rather than taking the image in and concentrating on what the creator intended. This is seen commonly due to the need to fit every element in the scene but sometimes it is best to sacrifice something you may see as important for the sake of the whole picture.
 
 We will now look at the example image with the rule of thirds in place and see if overall this makes a more interesting scene.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![place thirds points in photo](https://images.wondershare.com/filmora/article-images/2022/11/place-thirds-points-in-photo.jpg)
 
 We have aligned the skyline with the first horizontal grid line and aligned the boats with the vertical grid lines. We have sacrificed the crane in the scene but overall I'm sure you can agree that this is more pleasing and makes more sense when you're viewing this. The whole middle section of the scene now has information within it and the contrast between the middle and the rest of the scene directs your eyes to what was intended to be viewed, This is called effect use of empty space. In doing this you save yourself time from adding more information to direct the viewer.
@@ -500,6 +583,12 @@ The rule is very useful when you're aiming to grab the attention towards a certa
 
 Even when working with a symmetrical scene you can incorporate the rule within for elements such as people or key figures but in this situation it is down to the creator to figure what they feel is best in any given shot.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Rule of Thirds in Filmora
 
 The tools provided within Filmora are generous and one great feature is the crop and size tool.
@@ -510,15 +599,24 @@ For reference I will show you what this looks like.
 
 First right click the timeline on the image you want to reposition. Alternatively you can select the desired insert and press Alt+C this will also bring up the same editing box.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![crop rule of thirds video](https://images.wondershare.com/filmora/article-images/2022/11/crop-rule-of-thirds-video.jpg)
 
 Now click on the crop and zoom option and this editor will appear.
 
 ![crop rule of thirds filmora](https://images.wondershare.com/filmora/article-images/2022/11/crop-rule-of-thirds-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 As you can see you are able to align the shot and change the aspect ratio to align with your project. For a better look at the built in grid lines see image below.
 
 ![rule of thirds final video](https://images.wondershare.com/filmora/article-images/2022/11/rule-of-thirds-final-video.jpg)

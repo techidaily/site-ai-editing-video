@@ -1,7 +1,7 @@
 ---
 title: Step by Step to Split a Clip in VLC for 2024
-date: 2024-09-03T22:58:01.365Z
-updated: 2024-09-04T22:58:01.365Z
+date: 2024-09-08T23:51:37.405Z
+updated: 2024-09-09T23:51:37.405Z
 tags: 
   - ai
   - animation videos
@@ -13,6 +13,12 @@ keywords: how to split a clip in davinci resolve step by step,step by step to sp
 thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step by Step to Split a Clip in VLC
 
 The VLC media player is top-rated as it is freely available and operates on different platforms efficiently. Its framework helps play almost all the audios, videos, DVDs and various resources available on your systems. Even optimizing the videos and audio as the playback from your devices is possible. There is also a possibility of integrating a number of programs along with the streaming services.
@@ -31,6 +37,12 @@ VLC Media player has all the amazing tools for playing back the audios and video
 
 ![split clip in vlc](https://images.wondershare.com/filmora/article-images/2022/01/split-clip-vlc-1.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** Now, you can easily play the video simply by clicking the “Open File” option present in the media menu. The drag and drop option is available inside the VLC media player.
 
 You should start playing the video now and recording the parts with the help of a decoder. Look for the position from where you want to begin the recording and press both Play and Pause buttons one after the other.
@@ -47,6 +59,96 @@ Almost all, playing any video and audio format is possible in VLC media player. 
 
 ![split clip in vlc](https://images.wondershare.com/filmora/article-images/2022/01/split-clip-vlc-3.jpeg)
 
+## An easier way to split the video
+
+The whole process of splitting the video into a VLC media player is extremely easy for managing and handling without any requirement of technical knowledge. But unfortunately, you can apply the frame-by-frame technique on the short videos. Monitoring is essential during the split and looking at the complete process whenever the recording is in VLC.
+
+This causes the loss of quality. Here, the substitute that is also available is [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . It is the recommendation of the graphic designers, web developers and videographers because it is freely available and lightweight software for the systems. You can apply its features to your images and videos. This includes the cutting, rotating and resizing of your videos along with the images.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+**Features:**
+
+* There are 300+ special effects available
+* Splitting of the screens and video clips
+* Adding and tracking the motion graphics
+* Unlimitedly sharing of the videos
+* Addition of the transitional effects
+* Dragging and dropping the video contents
+* Customization of the effects
+
+You can easily split and cut the large videos in Wondershare Filmora simply. There is no loss of video quality. Follow the steps below for splitting the video from Wondershare Filmora:
+
+**Step 1:**
+
+Import your videos to Filmora Video Cutter After installing the video cutter, launch it and select New Project to enter the video editing interface. Now, you need to import the video that needs to cut into several parts.
+
+![split clip in vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-14.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 2:**
+
+Drag and drop the videos in the timeline to start the splitting. Click the Split icon (scissor icon) on the toolbar or the Split button on the playhead to split the video
+
+![split clip in vlc](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Apart from splitting the videos, you can even combine and merge different videos into one. Even the rotation of the videos is possible.
+
+Therefore, Wondershare Filmora has received recognition due to its simple features. It is available for everyone, whether for individual, educational, or business purposes. It can help you in changing the look of your brand completely. Even adding the logos in the videos is also possible, along with adjusting the sizes. There is a huge range of features without any watermark, and all the upgrades are freely available.
+
+Also, tech support is available for any assistance you need. Edit your images and videos on the social media platforms with ease, along with the adjusting tool. The perfect video editor is Wondershare Filmora, as it has compatibility with both Windows and Mac users. Correct and match the colour with the customization tools. Start using the Wondershare Filmora today without being concerned regarding the format of the video clips. You will definitely enjoy using it.
+
+**Step 3:** Now, you can easily play the video simply by clicking the “Open File” option present in the media menu. The drag and drop option is available inside the VLC media player.
+
+You should start playing the video now and recording the parts with the help of a decoder. Look for the position from where you want to begin the recording and press both Play and Pause buttons one after the other.
+
+Even the Frame-by-Frame button is also available. It is the last one in the advance controls for navigating the actual frame from where you want to begin the recording.
+
+![split clip in vlc](https://images.wondershare.com/filmora/article-images/2022/01/split-clip-vlc-2.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 4:**
+
+Press the button “Record” again whenever you want the recording to stop. This is the final step for cutting the videos in VLC. The split video from the actual video saves automatically as the MP4 video file in the folder of Libraries or Videos if you are using Windows operating system.
+
+Almost all, playing any video and audio format is possible in VLC media player. It includes AVI, MP4, FLV, WMV, RMVB and Quick time. You can even play the videos partially or preview them even before completing the downloads.
+
+![split clip in vlc](https://images.wondershare.com/filmora/article-images/2022/01/split-clip-vlc-3.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## An easier way to split the video
 
 The whole process of splitting the video into a VLC media player is extremely easy for managing and handling without any requirement of technical knowledge. But unfortunately, you can apply the frame-by-frame technique on the short videos. Monitoring is essential during the split and looking at the complete process whenever the recording is in VLC.
@@ -99,6 +201,12 @@ Even the Frame-by-Frame button is also available. It is the last one in the adva
 
 ![split clip in vlc](https://images.wondershare.com/filmora/article-images/2022/01/split-clip-vlc-2.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:**
 
 Press the button “Record” again whenever you want the recording to stop. This is the final step for cutting the videos in VLC. The split video from the actual video saves automatically as the MP4 video file in the folder of Libraries or Videos if you are using Windows operating system.
@@ -108,10 +216,16 @@ Almost all, playing any video and audio format is possible in VLC media player. 
 ![split clip in vlc](https://images.wondershare.com/filmora/article-images/2022/01/split-clip-vlc-3.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## An easier way to split the video
 
@@ -151,6 +265,12 @@ Drag and drop the videos in the timeline to start the splitting. Click the Split
 
 ![split clip in vlc](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apart from splitting the videos, you can even combine and merge different videos into one. Even the rotation of the videos is possible.
 
 Therefore, Wondershare Filmora has received recognition due to its simple features. It is available for everyone, whether for individual, educational, or business purposes. It can help you in changing the look of your brand completely. Even adding the logos in the videos is also possible, along with adjusting the sizes. There is a huge range of features without any watermark, and all the upgrades are freely available.
@@ -173,12 +293,6 @@ Almost all, playing any video and audio format is possible in VLC media player. 
 
 ![split clip in vlc](https://images.wondershare.com/filmora/article-images/2022/01/split-clip-vlc-3.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## An easier way to split the video
 
 The whole process of splitting the video into a VLC media player is extremely easy for managing and handling without any requirement of technical knowledge. But unfortunately, you can apply the frame-by-frame technique on the short videos. Monitoring is essential during the split and looking at the complete process whenever the recording is in VLC.
@@ -212,10 +326,16 @@ Import your videos to Filmora Video Cutter After installing the video cutter, la
 ![split clip in vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 2:**
 
@@ -223,84 +343,6 @@ Drag and drop the videos in the timeline to start the splitting. Click the Split
 
 ![split clip in vlc](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Apart from splitting the videos, you can even combine and merge different videos into one. Even the rotation of the videos is possible.
-
-Therefore, Wondershare Filmora has received recognition due to its simple features. It is available for everyone, whether for individual, educational, or business purposes. It can help you in changing the look of your brand completely. Even adding the logos in the videos is also possible, along with adjusting the sizes. There is a huge range of features without any watermark, and all the upgrades are freely available.
-
-Also, tech support is available for any assistance you need. Edit your images and videos on the social media platforms with ease, along with the adjusting tool. The perfect video editor is Wondershare Filmora, as it has compatibility with both Windows and Mac users. Correct and match the colour with the customization tools. Start using the Wondershare Filmora today without being concerned regarding the format of the video clips. You will definitely enjoy using it.
-
-**Step 3:** Now, you can easily play the video simply by clicking the “Open File” option present in the media menu. The drag and drop option is available inside the VLC media player.
-
-You should start playing the video now and recording the parts with the help of a decoder. Look for the position from where you want to begin the recording and press both Play and Pause buttons one after the other.
-
-Even the Frame-by-Frame button is also available. It is the last one in the advance controls for navigating the actual frame from where you want to begin the recording.
-
-![split clip in vlc](https://images.wondershare.com/filmora/article-images/2022/01/split-clip-vlc-2.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-**Step 4:**
-
-Press the button “Record” again whenever you want the recording to stop. This is the final step for cutting the videos in VLC. The split video from the actual video saves automatically as the MP4 video file in the folder of Libraries or Videos if you are using Windows operating system.
-
-Almost all, playing any video and audio format is possible in VLC media player. It includes AVI, MP4, FLV, WMV, RMVB and Quick time. You can even play the videos partially or preview them even before completing the downloads.
-
-![split clip in vlc](https://images.wondershare.com/filmora/article-images/2022/01/split-clip-vlc-3.jpeg)
-
-## An easier way to split the video
-
-The whole process of splitting the video into a VLC media player is extremely easy for managing and handling without any requirement of technical knowledge. But unfortunately, you can apply the frame-by-frame technique on the short videos. Monitoring is essential during the split and looking at the complete process whenever the recording is in VLC.
-
-This causes the loss of quality. Here, the substitute that is also available is [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . It is the recommendation of the graphic designers, web developers and videographers because it is freely available and lightweight software for the systems. You can apply its features to your images and videos. This includes the cutting, rotating and resizing of your videos along with the images.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-**Features:**
-
-* There are 300+ special effects available
-* Splitting of the screens and video clips
-* Adding and tracking the motion graphics
-* Unlimitedly sharing of the videos
-* Addition of the transitional effects
-* Dragging and dropping the video contents
-* Customization of the effects
-
-You can easily split and cut the large videos in Wondershare Filmora simply. There is no loss of video quality. Follow the steps below for splitting the video from Wondershare Filmora:
-
-**Step 1:**
-
-Import your videos to Filmora Video Cutter After installing the video cutter, launch it and select New Project to enter the video editing interface. Now, you need to import the video that needs to cut into several parts.
-
-![split clip in vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-14.png)
-
-**Step 2:**
-
-Drag and drop the videos in the timeline to start the splitting. Click the Split icon (scissor icon) on the toolbar or the Split button on the playhead to split the video
-
-![split clip in vlc](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Apart from splitting the videos, you can even combine and merge different videos into one. Even the rotation of the videos is possible.
 
 Therefore, Wondershare Filmora has received recognition due to its simple features. It is available for everyone, whether for individual, educational, or business purposes. It can help you in changing the look of your brand completely. Even adding the logos in the videos is also possible, along with adjusting the sizes. There is a huge range of features without any watermark, and all the upgrades are freely available.
@@ -321,12 +363,6 @@ Also, tech support is available for any assistance you need. Edit your images an
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 Ways to Create Motion Text Effects for Your Video
 
 When you think about text effects, you generally refer to the amazing static text styles that will make any text look stunning. But when you talk about any text or title in a video, static text effects do not draw a scratch in the minds of the beholders. You have to get your text in motion and that is where text animations come into the scene.
@@ -351,22 +387,16 @@ Step2 Drop the video clip onto timeline. If you do not have any background video
 
 ![drag motion background timeline filmora](https://images.wondershare.com/filmora/article-images/2022/09/drag-motion-background-timeline-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 Go to Titles and search for “animation” and you will get all the motion text effect and animation templates. Select any one of them and drop onto the timeline above the background layer.
 
 ![select animation title text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-animation-title-text-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Double-click on the text layer to type in your desired text. Reposition the text layer on the timeline and on the video from Viewer.
 
 ![customize animation type text filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-animation-type-text-filmora.jpg)
@@ -380,10 +410,16 @@ Step1 Go to Graphics> Essential Graphics and select a motion text effect templat
 ![select motion text template premiere](https://images.wondershare.com/filmora/article-images/2022/09/select-motion-text-template-premiere.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step2 Double-click on the text to edit the words and type in your text. Go to Essential Graphics panel to customize the text effect parameters as per your requirements.
 
@@ -393,20 +429,14 @@ Step3 If you want to edit the animation, select the text layer and go to Effects
 
 ![adjust key frame premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/adjust-key-frame-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bring the keyframes closer or spread them apart to speed up or slow down. Tweak parameters like? Velocity Controls under different text properties to edit the animation effectively.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to Make Motion Text in After Effects
 
 After Effects is the most popular video editor when it comes to motion text effects. This is because there are different categories of motion text animation templates and presets available like Filmora. Even though the user interface is slightly complicated like Premiere Pro, most professionals use the tool for video editing and adding text effects. Here are the steps to add motion text effect Alight Motion like using After Effects.
@@ -419,16 +449,16 @@ Step2 Go to Effects and Presets panel, go through and search for the desired mot
 
 ![drag preset text layer after effects](https://images.wondershare.com/filmora/article-images/2022/09/drag-preset-text-layer-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 From Current Time Indicator, slide the keyframes to adjust the animation. Click on the text layer to expand it and adjust different parameters to get the desired text animation.
 
 ![adjust desired text animation after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-desired-text-animation-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4\. Best Motion Effects Ideas to Try
 
 There are several text motions effects available that make your text look stunning and grab the attention of the viewers instantly. If you are confused which text motion effects you should try out, there are some of the best text motion effects you can try out on After Effects and Filmora.
@@ -443,6 +473,18 @@ Comic and Life Effect – You get this motion effect on Filmora where the large 
 
 Corporate Title Effect – This comes as a pack on After Effects whereby you get amazing text motion effects that you mostly see in professional videos. Starting from oblique stripe and emerge effect to slide in and out with modern touches and objects, you get stunning text motion to enhance your video content.?
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 If there are texts and titles in your video, you have to use motion text effect to make your video content interesting. We have illustrated the simple steps to create and edit motion text effects. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as the best video editor for creating motion text effects as the user interface is intuitive and there are unlimited motion text effects to choose from.
@@ -453,41 +495,35 @@ Step1 Download and install Wondershare Filmora on your computer. Click on New Pr
 
 ![download wondershare filmora](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 Drop the video clip onto timeline. If you do not have any background video, you can select background from Stock Media> pexels/Pixabay> Video and drop animated background onto the timeline.
 
 ![drag motion background timeline filmora](https://images.wondershare.com/filmora/article-images/2022/09/drag-motion-background-timeline-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Go to Titles and search for “animation” and you will get all the motion text effect and animation templates. Select any one of them and drop onto the timeline above the background layer.
 
 ![select animation title text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-animation-title-text-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4 Double-click on the text layer to type in your desired text. Reposition the text layer on the timeline and on the video from Viewer.
 
 ![customize animation type text filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-animation-type-text-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2\. Use Premiere Pro to Make Motion Text
 
@@ -501,36 +537,18 @@ Step2 Double-click on the text to edit the words and type in your text. Go to Es
 
 ![customize text premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/customize-text-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 If you want to edit the animation, select the text layer and go to Effects Control panel. Open up Keyframe box by dragging it to the right. Adjust the keyframe as per your animation requirements.
 
 ![adjust key frame premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/adjust-key-frame-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Bring the keyframes closer or spread them apart to speed up or slow down. Tweak parameters like? Velocity Controls under different text properties to edit the animation effectively.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. How to Make Motion Text in After Effects
 
 After Effects is the most popular video editor when it comes to motion text effects. This is because there are different categories of motion text animation templates and presets available like Filmora. Even though the user interface is slightly complicated like Premiere Pro, most professionals use the tool for video editing and adding text effects. Here are the steps to add motion text effect Alight Motion like using After Effects.
@@ -539,37 +557,25 @@ Step1 From Tool panel, click on Type tool and click on Composition panel to type
 
 ![adjust text style after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-text-style-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 Go to Effects and Presets panel, go through and search for the desired motion text effect preset. Drag and drop the selected preset on the text layer directly.
 
 ![drag preset text layer after effects](https://images.wondershare.com/filmora/article-images/2022/09/drag-preset-text-layer-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 From Current Time Indicator, slide the keyframes to adjust the animation. Click on the text layer to expand it and adjust different parameters to get the desired text animation.
 
 ![adjust desired text animation after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-desired-text-animation-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4\. Best Motion Effects Ideas to Try
 
@@ -586,10 +592,10 @@ Comic and Life Effect – You get this motion effect on Filmora where the large 
 Corporate Title Effect – This comes as a pack on After Effects whereby you get amazing text motion effects that you mostly see in professional videos. Starting from oblique stripe and emerge effect to slide in and out with modern touches and objects, you get stunning text motion to enhance your video content.?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## The Bottom Line
 
@@ -601,6 +607,18 @@ If there are texts and titles in your video, you have to use motion text effect 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 In-Camera Transitions Tricks To Make Videos
 
 You must have seen it in videos when a scene changes to another place or time. How is it possible? Video transitions are a post-production technique that connects two different shots together. And it makes the whole video goes smooth and fluent.
@@ -609,6 +627,12 @@ Hopping directly from one clip to the next looks pretty queer. It disturbs the w
 
 You may think it is not easy, but after reading this article, you will know how simple it is. All you need is a camera and a few skills. In this article, we will focus on different in-camera transitions and let you know how to edit in a powerful video editor [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Whip Your Camera
 
 You may have noticed that when an object moves quickly, the camera creates a blurred image of the object. We call it motion blur. The idea with this transition is to cut and paste your shots together by whipping your camera at the end of your first shot and at the beginning of your second one. This effect depends on two aspects. The first is by the speedy motion of the object out of the frame, and the second is by the camera's movement.
@@ -627,6 +651,12 @@ The result would be a smooth transition from the first shot to the second, as in
 
 ![whip your camera](https://images.wondershare.com/filmora/article-images/2023/04/whip-your-camera.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fill The Frame
 
 In this in-camera transition technique, you must fill the frame with an object or subject. Compose the shot with the main subject filling the frame from edge to edge. In this way, those who view the video immediately know what you want them to see.
@@ -650,16 +680,10 @@ One important thing is to match the color and brightness of the object or subjec
 ![fill the frame](https://images.wondershare.com/filmora/article-images/2023/04/fill-the-frame.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Match Cut
 
@@ -677,10 +701,16 @@ This way, you can smoothly transition from one place or scene to another. There 
 ![match cut](https://images.wondershare.com/filmora/article-images/2023/04/match-cut.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Final Words
 
@@ -699,10 +729,10 @@ One important thing is to match the color and brightness of the object or subjec
 ![fill the frame](https://images.wondershare.com/filmora/article-images/2023/04/fill-the-frame.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Match Cut
 
@@ -719,6 +749,12 @@ This way, you can smoothly transition from one place or scene to another. There 
 
 ![match cut](https://images.wondershare.com/filmora/article-images/2023/04/match-cut.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final Words
 
 You can use these techniques to create sublime in-camera transitions. Make sure to follow all the steps in the correct order. These transitions will make your videos look more creative and artistic. Plan your ideas, add these transitions to your videos, and create cool videos at home to post on social media.
@@ -735,6 +771,18 @@ If you find this article informative, remember to share it with your friends. Wh
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Ultimate Guide to Making Cinematography for Music Video
 
 To visually represent the story in the music video, cinematography shots are helpful. It'll obviously and pleasing and eye-catchy effect in your video. These major requirements for making that cinematography can be covered as the following:
@@ -753,25 +801,25 @@ Before, we go deeper to the details on how to make a cinematography for music, l
 
 Cinematography covers all aspects of how a movie or music video is made, including choosing the lighting for the scene. The type of camera equipment to use, how to frame your photographs, and how to decide on camera movement are also included in this. Let's move toward the next lines to get the cool cinematography on display.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Light a subject
 
 Although you may assume that cinematography is just concerned with the usage of the camera, lighting plays an equally important role. While planning your photographs, you should think about how the scene is lit and how your subject is illuminated.
 
 ![lighting a subject](https://images.wondershare.com/filmora/article-images/2023/04/lighting-a-subject.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The cinematographer should consider the hard and soft lights for perfect illustrations during shooting. These are depicted with the following requirements!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Hard light and soft light
 
@@ -779,12 +827,30 @@ The cinematographers mainly focus on the hard and soft lights during filmmaking.
 
 ![hard light on the subject](https://images.wondershare.com/filmora/article-images/2023/04/hard-light-on-the-subject.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The **soft light** is trying to wrap around the subject. It gives diffused shadows and soft edges to the character of the music video.
 
 ![soft light on the subject](https://images.wondershare.com/filmora/article-images/2023/04/soft-light-on-the-subject.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** To get better results of the soft look, you need to add diffusion to lower the intensity.
 
 ## Create Atmosphere
@@ -794,10 +860,10 @@ You need a haze machine to create the atmosphere and give the environment true v
 ![haze machine](https://images.wondershare.com/filmora/article-images/2023/04/haze-machine.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Filmora Video Editor** Easily create video with plenty of video effects and filters.
 
@@ -806,47 +872,41 @@ You need a haze machine to create the atmosphere and give the environment true v
 ![filmora](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![filmora](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Light a Set
 
 To give proper lights in the set is illustrated with the help of an example as shown below!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Examples
 
 In this music video of the 3lau's, the main prop used is a bus, which is presented in the middle of the set and lit very well. The bus is rounded by many tungsten lights, which give a resemblance to those street lights. They are set up automatically in such a way that this stimulates the real movement of the bus on the road.
 
 ![lighting a set](https://images.wondershare.com/filmora/article-images/2023/04/lighting-a-set.gif)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The three projectors are set to give the street footage at the back scene to add more realism.
 
 The three lights are set in the queue by the production team to get the memory of the protagonist. In the setup, soft lights are also added on top of all the upper windows of the bus to give blue interior light to the bus.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Camera Techniques
 
 The cameras used during filming play a major role in giving the cinematographic shots. All the techniques shown below are applied to the DSLRs and even the smartphones you use for filming.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Prime lenses
 
 The foremost and most helpful lenses in filming are called prime lenses, which have fixed focal lengths. There is no Johns to zoom out and zoom-in in prime lenses.
@@ -857,18 +917,6 @@ For filming, we need to choose the right level of zoom, which the DP does by pic
 
 In the close-up scenes, there is a requirement for a wider field of view which also depends on the aspect ratio of shooting.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Aspect Ratio
 
 In filmy view, the most appropriate aspect ratio is 2.35, which is also a cinematic ratio. There is also another ratio of 16:9, which is a wider ratio. While 2.35 gives a more narrow perspective as compared to the prior one.
@@ -879,14 +927,14 @@ In filmy view, the most appropriate aspect ratio is 2.35, which is also a cinema
 
 ![aspect ratio of the filming](https://images.wondershare.com/filmora/article-images/2023/04/aspect-ratio-of-the-filming.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Whenever we use a microscope, we are dealing with the aspect ratio and narrowing down to the required point where we want to look, and this is all about framing, which is discussed as shown below!
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Framing
 
 Framing is a way used to illustrate the concepts such as the rule of thirds and leading lines. To give customized headroom to the subject, the framing is used from the top of the head and the top of the frame.
@@ -897,38 +945,38 @@ The camera movement actually shows the real story presented in the music video. 
 
 ![camera movements](https://images.wondershare.com/filmora/article-images/2023/04/camera-movements.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Whenever the protagonist looks out the bus's window, the camera operator will use the "Dolly" and "Trucking" movements.
 
 ### Trucking Movement
 
 The trucking movement of the camera is done in left-to-right motion in the filming. This is used for emotional purposes and whenever the subject is in a pull-out shot.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dolly Movement
 
 The dolly movement of the camera is done by moving towards or away from the subject. This often gives a sense of importance to the character.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Final Words
 
 The above article gives the exact preferences of the "Tokyo" song by which you learned a lot of techniques for your future use. By following the above rules and tips, you'll obviously come up with a viral music video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Create Atmosphere
 
 You need a haze machine to create the atmosphere and give the environment true vibes. The haze machine gives a foggy appearance in every shoot and scene.
@@ -942,21 +990,15 @@ You need a haze machine to create the atmosphere and give the environment true v
 ![filmora](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![filmora](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Light a Set
 
 To give proper lights in the set is illustrated with the help of an example as shown below!
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Examples
 
 In this music video of the 3lau's, the main prop used is a bus, which is presented in the middle of the set and lit very well. The bus is rounded by many tungsten lights, which give a resemblance to those street lights. They are set up automatically in such a way that this stimulates the real movement of the bus on the road.
@@ -964,15 +1006,27 @@ In this music video of the 3lau's, the main prop used is a bus, which is present
 ![lighting a set](https://images.wondershare.com/filmora/article-images/2023/04/lighting-a-set.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 The three projectors are set to give the street footage at the back scene to add more realism.
 
 The three lights are set in the queue by the production team to get the memory of the protagonist. In the setup, soft lights are also added on top of all the upper windows of the bus to give blue interior light to the bus.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Camera Techniques
 
 The cameras used during filming play a major role in giving the cinematographic shots. All the techniques shown below are applied to the DSLRs and even the smartphones you use for filming.
@@ -986,24 +1040,24 @@ For filming, we need to choose the right level of zoom, which the DP does by pic
 ![prime lens of the camera](https://images.wondershare.com/filmora/article-images/2023/04/prime-lens-of-the-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 In the close-up scenes, there is a requirement for a wider field of view which also depends on the aspect ratio of shooting.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Aspect Ratio
 
@@ -1011,27 +1065,15 @@ In filmy view, the most appropriate aspect ratio is 2.35, which is also a cinema
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** The narrow ratio is helpful in showing the relationships between the subjects.
 
 ![aspect ratio of the filming](https://images.wondershare.com/filmora/article-images/2023/04/aspect-ratio-of-the-filming.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="125" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Whenever we use a microscope, we are dealing with the aspect ratio and narrowing down to the required point where we want to look, and this is all about framing, which is discussed as shown below!
 
@@ -1039,46 +1081,34 @@ Whenever we use a microscope, we are dealing with the aspect ratio and narrowing
 
 Framing is a way used to illustrate the concepts such as the rule of thirds and leading lines. To give customized headroom to the subject, the framing is used from the top of the head and the top of the frame.
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Camera Movement
 
 The camera movement actually shows the real story presented in the music video. The camera movements used for filming are mainly the pedestal, truck, pan, tilt, and roll.
 
 ![camera movements](https://images.wondershare.com/filmora/article-images/2023/04/camera-movements.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Whenever the protagonist looks out the bus's window, the camera operator will use the "Dolly" and "Trucking" movements.
 
 ### Trucking Movement
 
 The trucking movement of the camera is done in left-to-right motion in the filming. This is used for emotional purposes and whenever the subject is in a pull-out shot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dolly Movement
 
 The dolly movement of the camera is done by moving towards or away from the subject. This often gives a sense of importance to the character.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Final Words
 
 The above article gives the exact preferences of the "Tokyo" song by which you learned a lot of techniques for your future use. By following the above rules and tips, you'll obviously come up with a viral music video.

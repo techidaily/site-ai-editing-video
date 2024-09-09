@@ -1,7 +1,7 @@
 ---
 title: "Solving Your Razer Mic Issues: Five Simple Solutions to Restore Audio Functionality"
-date: 2024-09-03T22:57:44.711Z
-updated: 2024-09-04T22:57:44.711Z
+date: 2024-09-08T23:51:20.986Z
+updated: 2024-09-09T23:51:20.986Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/error-opening-sound-device-feature-image-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  FIX: Error opening sound device. Please check the recording device settings and the project sample rate.
   
 If you got error “**_Error opening sound device_**” while using Audacity to record sound, don’t worry. You can fix the error by following the simple instructions below.  
@@ -32,6 +38,12 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 5. **[Update the audio driver](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Restart the Windows Audio Endpoint Builder service](https://tools.techidaily.com/drivereasy/download/)**
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 1: Ensure the external sound device is plugged in (desktop only)
 
  If you’re using a desktop computer, _**ensure the device you use to listen to the sound such as external speakers, is plugged in**_  .  
@@ -63,6 +75,12 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d59326203.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
@@ -81,6 +99,12 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
@@ -89,6 +113,12 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6a682959.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After you set the Host to Windows WASAPI, you’ll see the values of Device field under Playback and the Device under Recording change automatically.
 
  5) Click the**OK** button.
@@ -117,6 +147,18 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##
   
  Solution 5: Update the audio driver
@@ -157,10 +199,22 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d9350bf7b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d97536340.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Check to see if you can record successfully.  
   
  Hopefully the solutions above help you resolve the problem. If you have any questions, please feel free to leave your comments. I’d love to hear of any ideas or suggestions.
@@ -242,10 +296,3 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 <li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-v30-lite-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo V30 Lite 5G Phone Network-Ready</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/what-is-the-best-frame-rate-for-4k-videos-in-2024/"><u>What Is the Best Frame Rate for 4K Videos, In 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

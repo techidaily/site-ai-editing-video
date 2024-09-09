@@ -1,7 +1,7 @@
 ---
 title: New How to Make Eye Zoom Transition Effect with Filmora for 2024
-date: 2024-09-03T22:57:50.181Z
-updated: 2024-09-04T22:57:50.181Z
+date: 2024-09-08T23:51:26.295Z
+updated: 2024-09-09T23:51:26.295Z
 tags: 
   - ai
   - animation videos
@@ -27,6 +27,12 @@ First, you need to create a close-up eye video. Although you can do that with yo
 
 ![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Create an Eye-zoom Transition
 
 ##### Step 1 Align the video clips on Filmora
@@ -35,6 +41,96 @@ After recording a close-up eye video, add it on Wondershare Filmora and duplicat
 
 ![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##### Step 2 Add a freeze frame to the video
+
+Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
+
+![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
+
+Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
+
+##### Step 3 Add a masking effect to the eye
+
+With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
+
+![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
+
+![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##### Step 4 Add the transition video
+
+Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
+
+With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
+
+![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
+
+After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Summary
+
+There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+**_Preparation:_**
+
+First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
+
+![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Create an Eye-zoom Transition
+
+##### Step 1 Align the video clips on Filmora
+
+After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
+
+![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 2 Add a freeze frame to the video
 
 Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
@@ -53,6 +149,18 @@ Double-click on the freeze frame clip to adjust the Shape Mask on the preview sc
 
 ![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 4 Add the transition video
 
 Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
@@ -63,6 +171,96 @@ With that done, move the playhead to the start of the freeze frame video and dou
 
 After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
 
+## Summary
+
+There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+**_Preparation:_**
+
+First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
+
+![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Create an Eye-zoom Transition
+
+##### Step 1 Align the video clips on Filmora
+
+After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
+
+![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##### Step 2 Add a freeze frame to the video
+
+Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
+
+![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
+
+##### Step 3 Add a masking effect to the eye
+
+With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
+
+![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
+
+Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
+
+![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##### Step 4 Add the transition video
+
+Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
+
+With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
+
+![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
+
+After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summary
 
 There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
@@ -90,10 +288,10 @@ Next, we want to add a freeze frame to the section where the eye opens fully. To
 ![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
 
@@ -108,112 +306,10 @@ Double-click on the freeze frame clip to adjust the Shape Mask on the preview sc
 ![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-##### Step 4 Add the transition video
-
-Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
-
-With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
-
-![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
-
-## Summary
-
-There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-**_Preparation:_**
-
-First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
-
-![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="540" height="810" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to Create an Eye-zoom Transition
-
-##### Step 1 Align the video clips on Filmora
-
-After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
-
-![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-##### Step 2 Add a freeze frame to the video
-
-Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
-
-![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
-
-##### Step 3 Add a masking effect to the eye
-
-With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
-
-![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
-
-![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### Step 4 Add the transition video
 
@@ -225,108 +321,6 @@ With that done, move the playhead to the start of the freeze frame video and dou
 
 After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Summary
-
-There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-**_Preparation:_**
-
-First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
-
-![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
-
-## How to Create an Eye-zoom Transition
-
-##### Step 1 Align the video clips on Filmora
-
-After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
-
-![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
-
-##### Step 2 Add a freeze frame to the video
-
-Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
-
-![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
-
-##### Step 3 Add a masking effect to the eye
-
-With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
-
-![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
-
-![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-##### Step 4 Add the transition video
-
-Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
-
-With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
-
-![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Summary
 
 There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
@@ -347,15 +341,21 @@ There you go! That's how to create an eye-zoom transition using Wondershare Film
 
 Want to add selective blur to make everything look smaller? Don't have any idea how to focus on specific mini-things? Then don't worry! In this article, you'll get a step-by-step process to add miniature effects to your video. At the end of the process, you'll have cinematic shots. Then start with us now! Scroll more to get pro tips!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is a Miniature Effect?
 
 ![after adding a miniature effect](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 But first, let's learn the logic of making the miniature effect. As many video editing pros present on Tiktok, the miniature effect is a fun way to brighten up your photography or video shots. For example, when taking a video or a time-lapse of a landscape, we always have a bigger depth of field, so most objects in the frame are in focus.
 
@@ -363,18 +363,6 @@ However, when we film a miniature model, the depth of field is shallow. So, we o
 
 ![a miniature effect for landscape](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To create a miniature look, we can use specific effects to fake a shallow depth of field, and then the landscape view will look like a tiny model. While some keys to notice before making the miniature effect are:
 
 * It utilizes **selective blur** to make things appear like **small**
@@ -384,16 +372,10 @@ To create a miniature look, we can use specific effects to fake a shallow depth 
 Are you all set to add miniature effects to your video and make film-like shots? Then scroll more and get the step-by-step process.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="125" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Make a Miniature effect?
 
@@ -407,10 +389,10 @@ You are excited to add a miniature effect, and enjoy the rest! Without any furth
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Note:** filmora has a unique **"stock media"** option that enables us to use all these elements and more to boost our videos!
 
@@ -447,10 +429,16 @@ As we are working on miniature effects, what do we need first? First, we ensure 
 ![search for the blur effect on effect panel in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-5.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 To add a blur effect from the panel, follow the below-mentioned steps:
 
@@ -491,10 +479,10 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 ![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### Step7 Add masks on the Video
 
@@ -508,32 +496,20 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 
 ![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** you can adjust the mask size and position by rotating and changing its shape.
 
 Watch the rotating and adjusting actions as shown below!
 
 ![rotation of mask in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-10.gif)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="150" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 For example, when we add a mask in the below time-lapse video, follow the above mask adjustments. Unfortunately, we can't get good results. Therefore, we will apply another way to add a mask by changing shape and position. Follow the instructions for modifications:
 
 ![blur the object near to camera and focus on the distant object](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-11.gif)
@@ -546,6 +522,12 @@ Want to change the shape of the mask? Then follow the below steps:
 
 ![changing the mask of video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-12.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * Double-click on the video present in 2nd video track.
 * **Settings** will activate on the top left side.
 * Then click on the **Mask** tab to open it.
@@ -554,10 +536,10 @@ Want to change the shape of the mask? Then follow the below steps:
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Note:** make sure you are masking the same extent and excluding the object you want to be out of focus.
 
@@ -569,6 +551,12 @@ Now, it's time to mask the whole object, which is far, but we want to make it in
 
 ![mask the object far from the camera for the main focus](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-13.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step8 Final Look
 
 You are excited now to see the final look of your miniature effect! Finally, it's in front of you! Just modify it more if you want to make it more precise.
@@ -613,12 +601,6 @@ As we are working on miniature effects, what do we need first? First, we ensure 
 
 ![search for the blur effect on effect panel in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-5.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To add a blur effect from the panel, follow the below-mentioned steps:
 
 * First of all, move toward the above tabs.
@@ -639,18 +621,6 @@ After selecting and downloading the blur effect, it's time to add it to the vide
 
 ![add effect on the video in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-6.gif)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="125" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step5 Add the effect multiple times
 
 Want to get an ideal blur level? If you need more blur level in your video and make it more cinematic, then follow the below steps:
@@ -669,6 +639,12 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 
 ![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step7 Add masks on the Video
 
 Now, it's time to select a specific video portion and add a mask. Due to this, we will have a selective blur portion. For this, follow the below guidelines:
@@ -682,19 +658,13 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 ![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** you can adjust the mask size and position by rotating and changing its shape.
 
 Watch the rotating and adjusting actions as shown below!
@@ -720,6 +690,12 @@ Want to change the shape of the mask? Then follow the below steps:
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** make sure you are masking the same extent and excluding the object you want to be out of focus.
 
 Now, it's time to mask the whole object, which is far, but we want to make it in focus! For this, follow these steps:
@@ -730,18 +706,18 @@ Now, it's time to mask the whole object, which is far, but we want to make it in
 
 ![mask the object far from the camera for the main focus](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-13.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step8 Final Look
 
 You are excited now to see the final look of your miniature effect! Finally, it's in front of you! Just modify it more if you want to make it more precise.
 
 ![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -755,16 +731,10 @@ Have you tried to add a miniature effect before? If yes, then share your experie
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Guide to Create a Timelapse Video in After Effects
 
@@ -772,6 +742,12 @@ Time-Lapse movies are great for a variety of projects; you can use them as estab
 
 With that said, let's start!
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 1\. Create a new composition
 
 Calculating your composition length to accommodate the frame rate and number of images is the first step in generating a time-lapse video.
@@ -780,12 +756,6 @@ Calculating your composition length to accommodate the frame rate and number of 
 2. New Composition Creation. Selecting a frame rate: A time lapse film produced at 30 frames per second will flow smoothly, but you can select any frame rate you like.
 3. To determine the duration of your composition, divide the number of photographs you have by the frame rate you've chosen. For instance, if you use 600 photos at 30 frames per second, your composition will last 20 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 2\. Import your images
 
 You are prepared to make a time-lapse sequence if all of your photographs are saved to the same folder and are in the same order. If you are working directly from your Camera, you will likely have Camera Raw files, although this procedure works with PNG and JPEG sequences.
@@ -814,6 +784,12 @@ You can import your video after you've shot it to prepare it for editing. The sa
 3. Choose Time>Time Stretch by performing a right-click on the performer clip.
 4. You can alter the Stretch Factor or Duration in the dialogue box. When you alter one parameter, the other will reflect the new Stretch Factor or Duration for you.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 5\. Make an overlay
 
 You can alter the Stretch Factor or Duration in the dialogue box. When you alter one parameter, the other will reflect the new Stretch Factor or Duration for you.
@@ -830,18 +806,6 @@ After Effects CC must be opened, a new project must be created, the Import File 
 
 Once you have clicked on the first image in the sequence. The time-lapse video that you uploaded appears in the project library. After performing a right-click on the filename, select "New Comp from Selection" from the context menu.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="360" height="640" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 6\. Exporting your video
 
 After getting our sequence to perform some kind of slow, understated animation so that it appears as though the camera is moving dramatically, we will need to export a video file. Go to File > Export > Add to Render Queue, then open the Render Queue dialog box by going to Window > Render Queue. From there, you can choose the Output Module and change the settings in the options dialog box. Finally, choose the Output To option and select the location on your computer where you would like to save the video clip that we are currently rendering and exporting.
@@ -865,10 +829,10 @@ No matter how you make your time lapse videos, After Effects has a ton of featur
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Add Text Animation to A Video Online
 
@@ -876,6 +840,12 @@ Do you want to make a creative video? Do you want your presentation or video to 
 
 Text animation and short captions can broaden the audience for your content as more consumers view videos without sound these days. It matters what fonts you use in the videos, and they establish the mood and facilitate interaction with most viewers who rely on video captions. Add text, alter the font, add transitions, and use text effects to draw the user's attention as they scroll. Please continue reading to discover how simple it is to make interactive video titles, words, and supers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Use Kapwing animation text editor
 
 (<https://www.kapwing.com/animated-text-video-maker>)
@@ -918,10 +888,10 @@ You can use a timeline to adjust the animation's termination when you set text a
 The video with animated text is now ready to boom. You can click on "Export Video" present at the top and wait for the process. After that, you can download that video and use the links to share it on your social media platform.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. Use veed.io text video editor
 
@@ -937,6 +907,12 @@ Tap on “Choose Video” and choose the file you want to upload on VEED. One ca
 
 ![veed io text video editor](https://images.wondershare.com/filmora/article-images/2022/07/veed-io-text-video-editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step2 Add text
 
 After that, you can add the text by tapping on the "Text" option on the left menu. You can select the text style and start typing.
@@ -946,16 +922,10 @@ After that, you can add the text by tapping on the "Text" option on the left men
 Save the video with the text you placed by tapping on "Export." The video gets saved in an MP4 file.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="540" height="540" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Use Animaker text maker
 
@@ -965,6 +935,12 @@ The Animaker is one of the best-animated video makers. This app offers the best 
 
 ![animaker video text maker](https://images.wondershare.com/filmora/article-images/2022/07/animaker-video-text-maker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step1 Upload the video clip
 
 First, you can upload your video clip present on top that you wish to add text animation.
@@ -1002,10 +978,10 @@ Let’s check the other ways of adding animated text to the video. In the previo
 * Tap on the "download video" option for downloading.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 

@@ -1,7 +1,7 @@
 ---
 title: New How to Easily Create a Free Eye-Catching Intro Videos with Invideo
-date: 2024-08-03T01:09:32.056Z
-updated: 2024-08-04T01:09:32.056Z
+date: 2024-09-08T23:51:40.625Z
+updated: 2024-09-09T23:51:40.625Z
 tags: 
   - ai
   - animation videos
@@ -20,42 +20,36 @@ Video is an increasingly popular form of media, and businesses of all sizes are 
 However, you might think that creating an intro video is a difficult process. Well, it is not! **InVideo intro maker** makes it possible for even a beginner to create an intro like a professional. It has simplified every useful feature that you need. If you want to learn how to operate **InVideo free intro maker**, read on carefully.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1\. Common Intro Video Types
 
 There are many different types of intro videos that you can create using **intro maker InVideo**. Each has its own purpose and style. Here, we will give a short overview on some common intro video types, such as Motion intro videos, YouTube intro videos, Movie intro videos, and Ads intro videos.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Motion Intro Videos**
 
 A motion intro video for your business or social media help people learn about what you do in a fun way. By using engaging motion visuals, you can quickly communicate key information about your content in a short time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **YouTube Intro Videos**
 
 An introduction is one of the first things you'll need for a YouTube video. It will appear at the beginning of your videos and give viewers a quick overview of who you are and what your channel is all about.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Movie Intro Videos**
 
 A movie intro video builds anticipation and excitement to your audience. The intro can be used to set the tone as well as introduce the cast and the house production behind your film.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Ads Intro Videos**
 
 Creating a right advertising introduction video is sufficient to promote your products to potential customers. To increase brand awareness, it should include information about your company, your products or services, and your brand.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2\. Steps to Make an Intro Video with InVideo
 
@@ -63,28 +57,56 @@ Creating a right advertising introduction video is sufficient to promote your pr
 
 Step1Go to [InVideo free intro maker](https://invideo.io/make/free-intro-maker-without-watermark/) and try InVideo's intro maker.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open invideo online editor](https://images.wondershare.com/filmora/article-images/2022/09/open-invideo-online-editor.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2Choose a template that suits your video style. There is also a filter option on the left side to help you narrow down your preferences.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![create new video invideo](https://images.wondershare.com/filmora/article-images/2022/09/create-new-video-invideo.jpg)
 
 Step3After choosing the template, you can customize it by clicking on the things you want to edit. The tools on the left allow you to add more video, images, or stickers to your project. To edit the audio, click on the audio bar below and the editing tools should appear.
 
 ![edit text invideo](https://images.wondershare.com/filmora/article-images/2022/09/edit-text-invideo.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4Once you are satisfied with the result, export your video by clicking on the "Export" button on the top-right of your workspace. InVideo will start rendering your video.
 
 ![export video from invideo](https://images.wondershare.com/filmora/article-images/2022/09/export-video-from-invideo.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. InVideo Alterative to Make Intro Video on Computer
 
 Aside from **InVideo intro maker**, Filmora is worth checking out. Filmora is a great alternative software to other more complicated video editors. Whether you are professional or not, it is perfect for those who are looking for a more user-friendly video editing tool that can create professional-looking intro videos.
@@ -107,6 +129,12 @@ Step3Edit and customize the texts by double-clicking the text on the preview box
 
 ![edit text intro video filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-text-intro-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4Change, add or customize the audio of your video on the Audio menu. You can also add and customize the text, transition, and effect from other menus. Don't forget to export your video to the preferred video format and locate it in your desired folder.
 
 ![add effects intro video filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-effects-intro-video-filmora.jpg)
@@ -137,21 +165,33 @@ Step1After opening the software, choose the aspect ratio that you desire and cli
 
 Step2Search for "Intro" from the list of templates on the Media tab. Choose a video clip that you want to use and drag it to your timeline. If you only want to use the free template, avoid the paid assets with a pink diamond icon. Otherwise, you can use free stock video clips included with Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![search intro video filmora](https://images.wondershare.com/filmora/article-images/2022/09/search-intro-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3Edit and customize the texts by double-clicking the text on the preview box. You can change the style, font, size, colors, etc.
 
 ![edit text intro video filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-text-intro-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4Change, add or customize the audio of your video on the Audio menu. You can also add and customize the text, transition, and effect from other menus. Don't forget to export your video to the preferred video format and locate it in your desired folder.
 
 ![add effects intro video filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-effects-intro-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4\. Related FAQs
 
@@ -183,6 +223,12 @@ While there is no one-size-fits-all answer to this question, there are some comm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Learn How to Effectively Use Masking in After Effects with This Comprehensive Guide. Includes Step-by-Step Instructions and an Alternative Masking Technique
 
 Masking is a powerful feature in After Effects that allows you to hide, reveal, or manipulate specific parts of a layer. Whether creating animations, visual effects, or enhancing your video content, masking can be a valuable tool in your arsenal. However, it can be intimidating for beginners, as it requires a good understanding of key concepts and techniques.
@@ -191,6 +237,12 @@ This article aims to demystify masking in After Effects and provide a comprehens
 
 ![masking in after effects](https://images.wondershare.com/filmora/article-images/after-effects-masking.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Overview of Masking in After Effects
 
 Masking in After Effects hides or reveals certain layer parts, such as an image or video. This is achieved through masks, paths that determine the visibility of specific layer parts. Masks are an incredibly versatile tool in Adobe After Effects, allowing users to cut out and combine elements, create professional transitions, isolate objects in photos or videos, and build shapes, among other things.
@@ -201,6 +253,12 @@ By default, when a mask is created, it is set to "inverted," meaning the masked 
 
 Overall, masks are an essential tool in After Effects, and it's worth taking the time to learn as much as possible about them. The possibilities are endless, and mastering masks can greatly enhance your projects.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Do Masking in AE Using Shape Tools
 
 Shape tools provide a quick and easy way to create masks in AE and are a great starting point for beginners. With these tools, you can easily create masks in various shapes and sizes to hide, reveal, or manipulate parts of a layer. We'll guide you through creating masks using different shape tools, including the rectangle, ellipse, and polygon tools. So let's get started!
@@ -217,9 +275,6 @@ Step3 **Drag** the mouse and **select** the area you want to apply the shape too
 
 ![after effect apply shape mask](https://images.wondershare.com/filmora/article-images/after-effect-apply-shape-mask.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:**
@@ -235,40 +290,52 @@ Whether you need to create a complex or a simple mask, the Pen Tool provides pre
 
 Step1 **Import** image to project and **add** to timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![after effect pen tool import media](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool-import-media.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 **Click** on the "**Pen**" icon to activate Pen Tool, and **use** it to mask out the background.
 
 ![after effect pen tool](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 **Place** a new image behind a masked image for a new background.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![after effect pen tool add background](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool-add-background.jpg)
 
 Step4 **Add** a masked image feather if needed.
 
 ![after effect pen tool add mask feather](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool-add-mask-feather.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 **Add** text, **and create** a "**shape** **layer**" to place on the text.
 
 ![after effect pen tool add shape layer](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool-add-shape-layer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step6 **Use** "**Alpha Inverted Matte**" to mask the text.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![after effect alpha inverted matte](https://images.wondershare.com/filmora/article-images/after-effect-alpha-inverted-matte.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Wondershare Filmora - A Great Alternative to After Effects Masking
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a popular video editing software that offers a range of features and tools for video editing. One of the most useful features is its masking capability, which provides a great alternative to the masking feature in Adobe After Effects.
@@ -284,7 +351,10 @@ In addition to its masking feature, Filmora offers various tools and features th
 Overall, Wondershare Filmora is a great alternative to After Effects, particularly for users looking for a more user-friendly and affordable video editing and masking option. With its comprehensive features, Filmora provides an excellent option for users who want to create professional-looking videos without needing advanced technical skills.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How To Use Shape Tool In Masking Using Filmora
 
@@ -296,14 +366,38 @@ Step1 **Enter** the Video panel, and **switch** to the Mask tab in Wondershare F
 
 ![filmora basic mask shapes](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 **Select** a shape; see only the masked area in the Preview window.
 
 ![filmora basic mask shapes preview](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes-preview.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 **Add** keyframes to animate the mask and **adjust** position, rotation, size, and blur strength.
 
 ![filmora basic mask shapes add keyframe](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes-add-keyframe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Use Pen Tool In Masking Using Filmora
 
 Pen Tool in Masking Using Filmora is a feature that enables users to create complex masks by dragging control points and modifying B-Splines. The tool allows users to draw the mask shape precisely by zooming in and out on the player screen and to create smooth curves by holding the Alt/Option key to adjust the Bessel curve for drawn masks.
@@ -318,14 +412,8 @@ Step1 **Create** a project and **add** the media to the timeline**. Enter** the 
 
 Step2 Edit the mask by adjusting the sliders in the Mask tab to resize, reposition, and change orientation. Also, **adjust** the blur strength, width, height, and radius, or invert the mask.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora draw mask adjust settings](https://images.wondershare.com/filmora/article-images/filmora-draw-mask-adjust-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Masking is an important aspect of video editing and opens up a new world of creative possibilities. After Effects provides a comprehensive set of tools for masking, and Filmora is a great alternative for those looking for a more user-friendly option.
@@ -335,6 +423,12 @@ Whether you're using After Effects or Filmora, you can use masks to control the 
 * Holding down the "**CTRL**" key for Windows or the "**CMD**" key for Mac will draw the shape from the center.
 * Holding down the "**Shift**" key will maintain equal sides and create symmetrical shapes such as squares or circles.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Use Pen Tool for Masking in After Effects
 
 The Pen Tool in After Effects is a powerful, flexible option for creating masks. This section will explore using the Pen Tool to create masks in After Effects.
@@ -345,41 +439,43 @@ Step1 **Import** image to project and **add** to timeline.
 
 ![after effect pen tool import media](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool-import-media.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 **Click** on the "**Pen**" icon to activate Pen Tool, and **use** it to mask out the background.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![after effect pen tool](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool.jpg)
 
 Step3 **Place** a new image behind a masked image for a new background.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![after effect pen tool add background](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool-add-background.jpg)
 
 Step4 **Add** a masked image feather if needed.
 
 ![after effect pen tool add mask feather](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool-add-mask-feather.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 **Add** text, **and create** a "**shape** **layer**" to place on the text.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![after effect pen tool add shape layer](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool-add-shape-layer.jpg)
 
 Step6 **Use** "**Alpha Inverted Matte**" to mask the text.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![after effect alpha inverted matte](https://images.wondershare.com/filmora/article-images/after-effect-alpha-inverted-matte.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Wondershare Filmora - A Great Alternative to After Effects Masking
 
@@ -403,21 +499,33 @@ Discover how to use the Shape Tool in Wondershare Filmora for masking, a great a
 
 Step1 **Enter** the Video panel, and **switch** to the Mask tab in Wondershare Filmora. **Choose** from basic mask shapes or create your own.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora basic mask shapes](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 **Select** a shape; see only the masked area in the Preview window.
 
 ![filmora basic mask shapes preview](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes-preview.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 **Add** keyframes to animate the mask and **adjust** position, rotation, size, and blur strength.
 
 ![filmora basic mask shapes add keyframe](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes-add-keyframe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How To Use Pen Tool In Masking Using Filmora
 
@@ -427,18 +535,18 @@ The mask created using the Pen Tool can be edited, resized, repositioned, and ad
 
 Learn how to use the Pen Tool in Wondershare Filmora for masking, a versatile alternative to After Effects masking. With the Pen Tool, you can easily outline and manipulate specific areas in your video to create unique and professional effects.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![filmora draw mask](https://images.wondershare.com/filmora/article-images/filmora-draw-mask.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step1 **Create** a project and **add** the media to the timeline**. Enter** the Mask tab.
 
 Step2 Edit the mask by adjusting the sliders in the Mask tab to resize, reposition, and change orientation. Also, **adjust** the blur strength, width, height, and radius, or invert the mask.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![filmora draw mask adjust settings](https://images.wondershare.com/filmora/article-images/filmora-draw-mask-adjust-settings.jpg)
 
 ## Conclusion
@@ -453,18 +561,12 @@ Whether you're using After Effects or Filmora, you can use masks to control the 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## OBS Green Screen Guide
 
 OBS Studio is a free and open-source app for screen-casting and live streaming. Written in C/C++ and built with Qt, OBS Studio provides real-time capture, scene composition, recording, encoding, and broadcasting via the Real Time Messaging Protocol (RTMP).It can stream Videos to any RTMP supporting destination including YouTube, Twitch, Instagram and Facebook.
 
 You only need one green screen software – OBS. The reason why OBS is the most recommended for streaming is because once you have set it up properly, you can do literally anything you can think of with the software (either with or without added plug-ins).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Chroma Key Settings in OBS
 
 Chroma keying has become incredibly popular nowadays. People use it not just for gaming, but also in Zoom conferences, live interviews, talk shows, etc. Although it may feel complicated at first glance, setting up Chroma Key in OBS Studio is actually incredibly easy.
@@ -485,10 +587,188 @@ Pro tip:
 
 You can follow the instructions above and live stream to multiple platforms at once with Restream. Multistreaming to platforms like YouTube, Facebook, Twitter, Twitch, and LinkedIn allows you to drastically increase the audience reach and grow your followers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to make OBS green screen settings better
 
 Using green screens for filmmaking isn't the most complicated or difficult thing in the world but it certainly has its pitfalls. If you ask any experienced filmmaker what to look out for when using a green screen, chances are they're going to mention lighting about a billion times and that's for good reason.
 
+### Tips on How to make OBS green screen settings better
+
+* Evenly light your green screen so you can get a good key.
+* Watch out for light flares. Use some a matte box or your trusty paw to block out any unwanted light.
+* When lighting, try to create as much separation between your subject and the green screen as you can.
+* Shutter speed: Minimize motion blur by raising your shutter speed to 1/80 or 1/100
+* Aperture: Setting your aperture to f4 or f5.6 will give you slightly more depth of field, which will blur and smooth out your green screen.
+* Format: Set your camera to the best recording format it has.
+* ISO: Try to avoid high ISOs.
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Filmora
+
+If you're just starting out with video editing, or just want a simple program that works, Wondershare Filmora might be what you're looking for. It has the essential tools, and anyone can learn to use it easily.
+
+Wondershare Filmora is the one of best video editing software with cool features that compares to other competing video editing Softwares. Many video editing programs claim to offer professional results; Filmora is one of a few consumer-level tools that actually delivers.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+### Installation Steps
+
+1. Click the icon in the center of the Media Library to add files directly.
+2. Go File > Import Media > Import Media Files.
+3. Drag and drop to the Media Library directly.
+
+While importing a media file, Wondershar Filmora may ask you if you wish to create a proxy file to accelerate the editing process. Select "Yes" to have a fast video editing experience.
+
+You can also import video clips using your Touch Bar controls if your computer has Touch Bar.
+
+![drag green screen](https://images.wondershare.com/filmora/guide/drag-green-screen-video-win.jpg)
+
+Record a media file
+
+Apart from the videos shot by your digital devices, you can also directly import media files by recording video from your webcam, capturing the computer screen, or recording a voice-over.
+
+Record computer screen:
+
+Click the "Record" option, and choose "Record PC Screen" to get the built-in Wondershare Screen Recorder. Hit the red button to get started. If you want to stop the recording, you can hit F9.
+
+Record videos from webcam:
+
+Also, click the "Record" option, and choose "Record from Webcam". In the pop-up Video Recording window, click the red button to start recording and click it again to stop recording. Then click OK to save the recorded video file.
+
+Record voice-over:
+
+Choose "Record a voiceover" under the Record menu. It would be better to connect a microphone to your Mac for a better result. Hit the Record button, and it leaves you 3 seconds to get ready.
+
+All the recorded media files will be saved into Media Library automatically and you can drag them to the Timeline for editing.
+
+Pro tip:
+
+You can follow the instructions above and live stream to multiple platforms at once with Restream. Multistreaming to platforms like YouTube, Facebook, Twitter, Twitch, and LinkedIn allows you to drastically increase the audience reach and grow your followers.
+
+### How to make OBS green screen settings better
+
+Using green screens for filmmaking isn't the most complicated or difficult thing in the world but it certainly has its pitfalls. If you ask any experienced filmmaker what to look out for when using a green screen, chances are they're going to mention lighting about a billion times and that's for good reason.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Tips on How to make OBS green screen settings better
+
+* Evenly light your green screen so you can get a good key.
+* Watch out for light flares. Use some a matte box or your trusty paw to block out any unwanted light.
+* When lighting, try to create as much separation between your subject and the green screen as you can.
+* Shutter speed: Minimize motion blur by raising your shutter speed to 1/80 or 1/100
+* Aperture: Setting your aperture to f4 or f5.6 will give you slightly more depth of field, which will blur and smooth out your green screen.
+* Format: Set your camera to the best recording format it has.
+* ISO: Try to avoid high ISOs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Filmora
+
+If you're just starting out with video editing, or just want a simple program that works, Wondershare Filmora might be what you're looking for. It has the essential tools, and anyone can learn to use it easily.
+
+Wondershare Filmora is the one of best video editing software with cool features that compares to other competing video editing Softwares. Many video editing programs claim to offer professional results; Filmora is one of a few consumer-level tools that actually delivers.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Installation Steps
+
+1. Click the icon in the center of the Media Library to add files directly.
+2. Go File > Import Media > Import Media Files.
+3. Drag and drop to the Media Library directly.
+
+While importing a media file, Wondershar Filmora may ask you if you wish to create a proxy file to accelerate the editing process. Select "Yes" to have a fast video editing experience.
+
+You can also import video clips using your Touch Bar controls if your computer has Touch Bar.
+
+![drag green screen](https://images.wondershare.com/filmora/guide/drag-green-screen-video-win.jpg)
+
+Record a media file
+
+Apart from the videos shot by your digital devices, you can also directly import media files by recording video from your webcam, capturing the computer screen, or recording a voice-over.
+
+Record computer screen:
+
+Click the "Record" option, and choose "Record PC Screen" to get the built-in Wondershare Screen Recorder. Hit the red button to get started. If you want to stop the recording, you can hit F9.
+
+Record videos from webcam:
+
+Also, click the "Record" option, and choose "Record from Webcam". In the pop-up Video Recording window, click the red button to start recording and click it again to stop recording. Then click OK to save the recorded video file.
+
+Record voice-over:
+
+Choose "Record a voiceover" under the Record menu. It would be better to connect a microphone to your Mac for a better result. Hit the Record button, and it leaves you 3 seconds to get ready.
+
+All the recorded media files will be saved into Media Library automatically and you can drag them to the Timeline for editing.
+
+Pro tip:
+
+You can follow the instructions above and live stream to multiple platforms at once with Restream. Multistreaming to platforms like YouTube, Facebook, Twitter, Twitch, and LinkedIn allows you to drastically increase the audience reach and grow your followers.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to make OBS green screen settings better
+
+Using green screens for filmmaking isn't the most complicated or difficult thing in the world but it certainly has its pitfalls. If you ask any experienced filmmaker what to look out for when using a green screen, chances are they're going to mention lighting about a billion times and that's for good reason.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tips on How to make OBS green screen settings better
 
 * Evenly light your green screen so you can get a good key.
@@ -551,6 +831,12 @@ You can follow the instructions above and live stream to multiple platforms at o
 
 Using green screens for filmmaking isn't the most complicated or difficult thing in the world but it certainly has its pitfalls. If you ask any experienced filmmaker what to look out for when using a green screen, chances are they're going to mention lighting about a billion times and that's for good reason.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tips on How to make OBS green screen settings better
 
 * Evenly light your green screen so you can get a good key.
@@ -562,7 +848,10 @@ Using green screens for filmmaking isn't the most complicated or difficult thing
 * ISO: Try to avoid high ISOs.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Filmora
 
@@ -579,141 +868,11 @@ For Win 7 or later (64-bit)
 For macOS 10.12 or later
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-### Installation Steps
-
-1. Click the icon in the center of the Media Library to add files directly.
-2. Go File > Import Media > Import Media Files.
-3. Drag and drop to the Media Library directly.
-
-While importing a media file, Wondershar Filmora may ask you if you wish to create a proxy file to accelerate the editing process. Select "Yes" to have a fast video editing experience.
-
-You can also import video clips using your Touch Bar controls if your computer has Touch Bar.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
-![drag green screen](https://images.wondershare.com/filmora/guide/drag-green-screen-video-win.jpg)
-
-Record a media file
-
-Apart from the videos shot by your digital devices, you can also directly import media files by recording video from your webcam, capturing the computer screen, or recording a voice-over.
-
-Record computer screen:
-
-Click the "Record" option, and choose "Record PC Screen" to get the built-in Wondershare Screen Recorder. Hit the red button to get started. If you want to stop the recording, you can hit F9.
-
-Record videos from webcam:
-
-Also, click the "Record" option, and choose "Record from Webcam". In the pop-up Video Recording window, click the red button to start recording and click it again to stop recording. Then click OK to save the recorded video file.
-
-Record voice-over:
-
-Choose "Record a voiceover" under the Record menu. It would be better to connect a microphone to your Mac for a better result. Hit the Record button, and it leaves you 3 seconds to get ready.
-
-All the recorded media files will be saved into Media Library automatically and you can drag them to the Timeline for editing.
-
-Pro tip:
-
-You can follow the instructions above and live stream to multiple platforms at once with Restream. Multistreaming to platforms like YouTube, Facebook, Twitter, Twitch, and LinkedIn allows you to drastically increase the audience reach and grow your followers.
-
-### How to make OBS green screen settings better
-
-Using green screens for filmmaking isn't the most complicated or difficult thing in the world but it certainly has its pitfalls. If you ask any experienced filmmaker what to look out for when using a green screen, chances are they're going to mention lighting about a billion times and that's for good reason.
-
-### Tips on How to make OBS green screen settings better
-
-* Evenly light your green screen so you can get a good key.
-* Watch out for light flares. Use some a matte box or your trusty paw to block out any unwanted light.
-* When lighting, try to create as much separation between your subject and the green screen as you can.
-* Shutter speed: Minimize motion blur by raising your shutter speed to 1/80 or 1/100
-* Aperture: Setting your aperture to f4 or f5.6 will give you slightly more depth of field, which will blur and smooth out your green screen.
-* Format: Set your camera to the best recording format it has.
-* ISO: Try to avoid high ISOs.
-
-## Filmora
-
-If you're just starting out with video editing, or just want a simple program that works, Wondershare Filmora might be what you're looking for. It has the essential tools, and anyone can learn to use it easily.
-
-Wondershare Filmora is the one of best video editing software with cool features that compares to other competing video editing Softwares. Many video editing programs claim to offer professional results; Filmora is one of a few consumer-level tools that actually delivers.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-### Installation Steps
-
-1. Click the icon in the center of the Media Library to add files directly.
-2. Go File > Import Media > Import Media Files.
-3. Drag and drop to the Media Library directly.
-
-While importing a media file, Wondershar Filmora may ask you if you wish to create a proxy file to accelerate the editing process. Select "Yes" to have a fast video editing experience.
-
-You can also import video clips using your Touch Bar controls if your computer has Touch Bar.
-
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![drag green screen](https://images.wondershare.com/filmora/guide/drag-green-screen-video-win.jpg)
-
-Record a media file
-
-Apart from the videos shot by your digital devices, you can also directly import media files by recording video from your webcam, capturing the computer screen, or recording a voice-over.
-
-Record computer screen:
-
-Click the "Record" option, and choose "Record PC Screen" to get the built-in Wondershare Screen Recorder. Hit the red button to get started. If you want to stop the recording, you can hit F9.
-
-Record videos from webcam:
-
-Also, click the "Record" option, and choose "Record from Webcam". In the pop-up Video Recording window, click the red button to start recording and click it again to stop recording. Then click OK to save the recorded video file.
-
-Record voice-over:
-
-Choose "Record a voiceover" under the Record menu. It would be better to connect a microphone to your Mac for a better result. Hit the Record button, and it leaves you 3 seconds to get ready.
-
-All the recorded media files will be saved into Media Library automatically and you can drag them to the Timeline for editing.
-
-Pro tip:
-
-You can follow the instructions above and live stream to multiple platforms at once with Restream. Multistreaming to platforms like YouTube, Facebook, Twitter, Twitch, and LinkedIn allows you to drastically increase the audience reach and grow your followers.
-
-### How to make OBS green screen settings better
-
-Using green screens for filmmaking isn't the most complicated or difficult thing in the world but it certainly has its pitfalls. If you ask any experienced filmmaker what to look out for when using a green screen, chances are they're going to mention lighting about a billion times and that's for good reason.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
-### Tips on How to make OBS green screen settings better
-
-* Evenly light your green screen so you can get a good key.
-* Watch out for light flares. Use some a matte box or your trusty paw to block out any unwanted light.
-* When lighting, try to create as much separation between your subject and the green screen as you can.
-* Shutter speed: Minimize motion blur by raising your shutter speed to 1/80 or 1/100
-* Aperture: Setting your aperture to f4 or f5.6 will give you slightly more depth of field, which will blur and smooth out your green screen.
-* Format: Set your camera to the best recording format it has.
-* ISO: Try to avoid high ISOs.
-
-## Filmora
-
-If you're just starting out with video editing, or just want a simple program that works, Wondershare Filmora might be what you're looking for. It has the essential tools, and anyone can learn to use it easily.
-
-Wondershare Filmora is the one of best video editing software with cool features that compares to other competing video editing Softwares. Many video editing programs claim to offer professional results; Filmora is one of a few consumer-level tools that actually delivers.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
 ### Installation Steps
 
 1. Click the icon in the center of the Media Library to add files directly.
