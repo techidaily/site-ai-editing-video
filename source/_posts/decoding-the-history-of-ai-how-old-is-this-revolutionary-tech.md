@@ -1,7 +1,7 @@
 ---
 title: "Decoding the History of AI: How Old Is This Revolutionary Tech?"
-date: 2024-09-08T23:51:21.467Z
-updated: 2024-09-09T23:51:21.467Z
+date: 2024-09-09T21:02:06.400Z
+updated: 2024-09-14T16:21:11.533Z
 tags:
   - chatgpt
   - open-ai
@@ -17,40 +17,16 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
 
  As the field of artificial intelligence continues to evolve at a dizzying pace, a new contender is poised to enter the playing field. TruthGPT, an AI chatbot proposed by tech billionaire Elon Musk, is generating a lot of buzz online.But what is TruthGPT? Why does Elon Musk want to create it? And how will it be different from the AI tools we already have?
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is TruthGPT?
 
 ![Man Holding Artificial Intelligence Sticky Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  TruthGPT is a proposed AI model aimed at addressing the ills of existing models that powers the likes of ChatGPT and Bard, with particular emphasis on truth and safety. According to Elon Musk, TruthGPT will be a "maximum truth-seeking" AI that understands the nature of the universe and would be unlikely to destroy humanity because it sees humans as a critical component of the universe.
 
 Maximum truth-seeking AI? Understand the nature of the universe?
 
  You'll be forgiven if Musk's description doesn't give you a clear picture of what exactly he's trying to build. However, you'll get a better idea of what he's talking about by looking at why he's trying to build it in the first place.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Is Elon Musk Building TruthGPT?
 
  In an interview with[Fox News](https://www.foxnews.com/media/elon-musk-develop-truthgpt-warns-civilizational-destruction-ai) , Elon Musk expressed his concerns about how big AI firms can perpetuate bias and disinformation through AI chatbots—an emerging tool people increasingly depend on for information. Elon Musk also commented on the threat AI poses to humanity, emphasizing the possibility of an AI apocalypse, a scenario where AI systems could take control of our daily lives.
@@ -71,22 +47,17 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
 So, is this idea of a maximum truth-seeking AI even practical?
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Building TruthGPT Is a Huge Challenge
 
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you[understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) , it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
 
  The best intervention is typically from human trainers who try to teach the language model what's good behavior and what's bad. But human trainers are biased.[Bias is passed to the AI models](https://www.makeuseof.com/what-is-ai-bias/) , defeating the whole purpose of a "maximum truth-seeking AI." Note, we're not talking about outright bias or prejudice against a people or otherwise. It's the more subtle bias about how you interpret language, situations, challenges, and so on that leach into the process. Humans are human, after all.
@@ -96,25 +67,23 @@ So, is this idea of a maximum truth-seeking AI even practical?
  For Musk, TruthGPT appears to be a chance for him to carve an AI model that he sees fit to deliver the truth. How that would come about without introducing his own biases is another question entirely and effectively leads us back to the start of the conversation. How are Musk's opinions on what is biased or not any different from those who trained and directed ChatGPT?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Is TruthGPT an Exciting Possibility?
 
  Elon Musk's plans for TruthGPT seem noble and commendable. However, building an AI model with a negligible incidence of inaccuracies is a tough task.
 
  While we'd expect a tech billionaire who has demystified rocket science to be able to pull off something of this nature, some things are easier said than done.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,38 +94,18 @@ So, is this idea of a maximum truth-seeking AI even practical?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-streamline-your-windows-10-experience-crash-free-photos-viewing/"><u>[New] Streamline Your Windows 10 Experience  Crash-Free Photos Viewing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-elevating-remote-meetings-learning-close-up-zoom-methods/"><u>[Updated] 2024 Approved  Elevating Remote Meetings  Learning Close-Up Zoom Methods</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-your-guide-to-genuine-selfies-on-instagrams-canvas/"><u>[Updated] 2024 Approved  Your Guide to Genuine Selfies on Instagram's Canvas</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-convert-fb-video-to-downloadable-mp3/"><u>[Updated] In 2024, Convert FB Video to Downloadable MP3</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-dynamics-review-2023/"><u>2024 Approved  Full Dynamics Review 2023</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-panoramic-power-play-gear-vs-lgcam-showdown/"><u>2024 Approved  Panoramic Power Play  Gear vs LGCam Showdown</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-out-what-keyframe-interval-is-why-it-is-important-and-to-change-its-value-on-obs-studio-with-simple-and-easy-to-follow-instructions/"><u>2024 Approved Find Out What Keyframe Interval Is, Why It Is Important, and to Change Its Value on OBS Studio with Simple and Easy-to-Follow Instructions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-a-green-screen-video-in-after-effects/"><u>2024 Approved How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-canva-collages/"><u>2024 Approved How to Make Canva Collages</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-speed-ramping-to-create-a-footage/"><u>2024 Approved How to Use Speed Ramping to Create a Footage</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/4-key-steps-resolving-the-icon-conundrum-on-macos/"><u>4 Key Steps: Resolving the '?' Icon Conundrum on macOS</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/boost-your-spirit-creating-motivational-status-videos/"><u>Boost Your Spirit Creating Motivational Status Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/closing-credits-collection-free-to-subscription-choices-for-2024/"><u>Closing Credits Collection  Free to Subscription Choices for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi K70? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-fantastic-glitch-effects-with-filmora-read-this-guide-to-find-out-how-to-apply-glitch-effects-on-your-videos-and-make-custom-glitch-effects/"><u>How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-8-plus-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 8 Plus? Complete Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-3-in-camera-transitions-tricks-to-make-videos-for-2024/"><u>New 3 In-Camera Transitions Tricks To Make Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-export-video-in-filmora-for-2024/"><u>New Easy Steps to Export Video in Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects/"><u>New How To Make a Timelapse in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-make-a-tattoo-disappear-like-a-magic-for-2024/"><u>New Make A Tattoo Disappear Like A Magic for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-crop-a-video-with-cyberlink-powerdirector/"><u>New Step by Step to Crop a Video with CyberLink PowerDirector</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quick-steps-to-become-a-9gag-meme-genius-for-2024/"><u>Quick Steps to Become a 9GAG Meme Genius for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/transformative-strategies-in-creating-engaging-fb-content-for-2024/"><u>Transformative Strategies in Creating Engaging FB Content for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-apple-m1-a-computing-revolution-for-2024/"><u>Unveiling the Apple M1  A Computing Revolution for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-creating-the-perfect-vhs-effect-look-in-premiere-pro/"><u>Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-create-glitch-text-effect/"><u>Updated Create Glitch Text Effect</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-find-out-what-ray-tracing-is-in-after-effects-how-it-works-and-learn-about-ray-traced-3d-settings-with-simple-instructions/"><u>Updated Find Out What Ray Tracing Is in After Effects, How It Works, and Learn About Ray-Traced 3D Settings with Simple Instructions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>Updated HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-motion-blur-on-capcut-iphone-and-android-for-2024/"><u>Updated How To Add Motion Blur On CapCut? (IPhone & Android) for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora/"><u>Updated How to Correct Lens Distortion With Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-use-speed-ramping-to-create-an-intense-action-footage/"><u>Updated In 2024, How To Use Speed Ramping to Create an Intense Action Footage</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-learning-how-to-create-luts-with-luts-generator/"><u>Updated Learning How to Create LUTs with LUTs Generator</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-avoiding-fakes-instagram-selfie-wisdom-for-2024/"><u>[New] Avoiding Fakes Instagram Selfie Wisdom for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-bebops-avian-evolution-strikes-again-with-parrot-2/"><u>2024 Approved Bebop's Avian Evolution Strikes Again with Parrot 2</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/5-ways-to-transfer-files-to-your-computer-for-2024/"><u>5 Ways To Transfer Files To Your Computer for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/access-the-best-lenovo-bluetooth-drivers-specially-tailored-for-windows-710-secure-updated-and-easy-installation/"><u>Access the Best Lenovo Bluetooth Drivers Specially Tailored for Windows 7/10 – Secure, Updated & Easy Installation</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/cut-down-input-lag-in-cyberpunk-2077-tips-and-tricks-to-enhance-your-gaming-experience/"><u>Cut Down Input Lag in Cyberpunk 2077: Tips & Tricks to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-y27s-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo Y27s? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/al-video-formats-to-skyrocket-your-youtube-popularity/"><u>Optimal Video Formats to Skyrocket Your YouTube Popularity</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/review-expose-on-netgears-advanced-x6-wifi-mesh-enhancer-a-deep-dive-into-its-innovative-traits/"><u>Review Exposé on Netgear's Advanced X6 Wifi Mesh Enhancer – A Deep Dive Into Its Innovative Traits</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/troubleshoot-your-apex-legends-engine-glitches-with-these-easy-steps/"><u>Troubleshoot Your Apex Legends Engine Glitches with These Easy Steps</u></a></li>
 </ul></div>
+
