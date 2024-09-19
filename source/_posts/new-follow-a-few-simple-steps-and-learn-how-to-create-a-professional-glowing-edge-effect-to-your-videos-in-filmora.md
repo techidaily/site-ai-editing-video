@@ -1,7 +1,7 @@
 ---
 title: New Follow a Few Simple Steps and Learn How to Create a Professional Glowing Edge Effect to Your Videos in Filmora
-date: 2024-09-10T22:52:50.396Z
-updated: 2024-09-14T19:05:45.092Z
+date: 2024-09-18T00:04:10.309Z
+updated: 2024-09-18T18:21:53.637Z
 tags: 
   - ai
   - animation videos
@@ -391,13 +391,6 @@ Axinite is packed with multiple LUTs, each with its unique mood and style. This 
 
 ![Axinite ](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. [Raw Layer](https://elements.envato.com/arta-raw-layer-presets-for-lightroom-FYJHDBP?irgwc=1&clickid=1vh2djQ7QxyNT2OUvxSEOx55UkAX3txFUS4M0o0&iradid=298927&utm%5Fcampaign=elements%5Faf%5F493214&iradtype=ONLINE%5FTRACKING%5FLINK&irmptype=mediapartner&utm%5Fmedium=affiliate&utm%5Fsource=impact%5Fradius&mp=Theme%20Junkie)
 
 The Raw Layer LUT pack provides 4 moody LUTs that can add a cinematic touch to your edits. This pack provides a darker version that gives your media files a dramatic feel. It changes your color composition in such a way that it highlights the subject and creates a more serious mood. You can use these LUTs to give your media files a more serious and dramatic appeal.
@@ -537,13 +530,6 @@ Open the VN Editor and select the “+” sign. Then a new window will appear wh
 
 ![open and import luts ](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2 Apply LUTs and Save the File
 
 After choosing the LUT you want to use, VN Editor will extract and process it. You can find the LUT in the “Filters” section and apply it to your media file. You can also adjust the intensity of the LUT to your liking. Once done with your adjustments, save your file by tapping the “Save” button.
@@ -594,13 +580,6 @@ It would be nice to find a way to rotate the video to portrait mode so you can w
 
 ![rotate videos with media player classic](https://images.wondershare.com/filmora/article-images/media-player-classic-rotate.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Media Player Classic?
 
 In a nutshell, Media Player Classic is an open-source media player suitable for 32-bit and 64-bit Microsoft Windows. If you have used the original interface, you might notice that it resembles Windows Media Player 6.4\. The only key difference is that the former is more feature-rich and provides more options. In addition, Media Player Classic is very compact and lightweight.
@@ -626,6 +605,13 @@ Step1 Launch Media Player Classic and click on the "View" tab. Select "Options" 
 Step2 Navigate to the left pane to the Player Group and click on "Keys." If the Player Group is not expanded by the time, you launch the platform, double-click it and wait a few seconds. You can then navigate to the "PnS Rotate" command on the Keys list.
 
 ![keys in media player classic](https://images.wondershare.com/filmora/article-images/media-player-classic-keys.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Go to the "PnS Rotate+" command and double-click the "Key" field. You can then click on any key to rotate your video around the x-axis. Once you are satisfied with the results, click "…" to apply the changes you have made.
 
@@ -668,19 +654,6 @@ In addition, the platform has a co-creation space where you can share your work 
 * Silence detection
 * Audio visualizer
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How To Rotate a Video 90 Degrees With Wondershare Filmora?
 
 Now that you have seen how different this platform is from Media Classic Player, you might be curious about how effectively it rotates your videos. Perhaps our detailed guide will help you decide whether you want to give Wondershare Filmora a shot.
@@ -691,24 +664,38 @@ Step1 Import the video you want to rotate to Wondershare Filmora and drag and dr
 
 ![add media to timeline wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora-add-to-timeline-rotate.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Click on the monitor icon and select "Change Project Aspect Ratio" in the drop-down menu.
 
 ![change project aspect ratio wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora-change-project-ratio-rotate.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 In the "Project Settings" window, you can change your video's Aspect Ratio, Resolution, Frame Rate, and Color space.
 
 ![select aspect ratio wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora-select-aspect-ratio-rotate.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Once you are happy with your changes, click "OK" and close the window.
 
 ![project settings wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora-project-settings-rotate.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 Double-click the video track and navigate to the Rotate option in the window. Hover your mouse over the dot in the Rotate tab until you get to 90 degrees. You could also adjust the rotation of the video by clicking on the pivot in the media player till the video is at 90 degrees.
 
@@ -795,6 +782,13 @@ Step5 Double-click the video track and navigate to the Rotate option in the wind
 Step6 Click "Export" to save a copy of the rotated video to your device.
 
 ![export video wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora-export-video-rotate.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Is Better To Rotate a Video? Media Player Classic or Wondershare Filmora?
 
@@ -839,17 +833,17 @@ If you don't fancy editing videos on your laptop, you could download the softwar
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-future-of-quick-text-conversion-from-srt/"><u>[New] The Future of Quick Text Conversion From SRT</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-journey-to-joyrides-top-housing-ideas-for-new-players/"><u>[Updated] In 2024, Journey to Joyrides Top Housing Ideas for New Players</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-maximizing-video-quality-on-periscope-live-streams/"><u>2024 Approved Maximizing Video Quality on Periscope Live Streams</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-unveiling-the-most-powerful-alternatives-to-vimeo-cameo-editor/"><u>2024 Approved Unveiling the Most Powerful Alternatives to Vimeo Cameo Editor</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/apple-vision-pro-explained-4-essential-factors-to-consider/"><u>Apple Vision Pro Explained: 4 Essential Factors to Consider</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-y100i-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Y100i</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-convert-mp4-videos-to-60-fps-gifs-with-this-easy-to-follow-tutorial-get-smooth-and-crisp-motion-in-your-gifs-in-just-a-few-simple-steps/"><u>In 2024, Learn How to Convert MP4 Videos to 60 FPS GIFs with This Easy-to-Follow Tutorial. Get Smooth and Crisp Motion in Your GIFs in Just a Few Simple Steps</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>New How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-video-by-mouse-in-filmora-for-2024/"><u>New How To Make a Video by Mouse in Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-this-article-let-me-share-with-you-how-to-start-a-vlog-ideas-and-any-tips-for-you-to-start-your-own-vlogging-channel/"><u>New In This Article Let Me Share with You How to Start a Vlog? Ideas and Any Tips for You to Start Your Own Vlogging Channel</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steady-issues-how-to-fix-arcadegeddon-crashes-on-your-computer/"><u>Troubleshooting Steady Issues: How to Fix Arcadegeddon Crashes on Your Computer</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-v29-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-from-footage-to-narrative-the-essential-guide-to-instagram-descriptive-texts/"><u>[New] From Footage to Narrative The Essential Guide to Instagram Descriptive Texts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-10-best-sony-lut-for-different-purposes/"><u>2024 Approved 10 Best Sony LUT for Different Purposes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-android-videography-6-must-try-music-videos-apps/"><u>2024 Approved Best Android Videography 6 Must-Try Music Videos Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/boost-ig-content-three-steps-for-compelling-video-descriptions-for-2024/"><u>Boost IG Content - Three Steps for Compelling Video Descriptions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-new-world-connection-error-with-these-proven-fixes/"><u>Bypassing the 'New World Connection Error' With These Proven Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/downloading-logitech-m525-mouse-software-and-required-drivers/"><u>Downloading Logitech M525 Mouse Software and Required Drivers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-play-7t-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor Play 7T Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-in-canva/"><u>New 2024 Approved How to Add Subtitles in Canva?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-use-rule-of-thirds-in-video/"><u>New In 2024, How to Use Rule of Thirds in Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/visual-vocabulary-complimentary-youtube-art-tools-for-2024/"><u>Visual Vocabulary Complimentary YouTube Art Tools for 2024</u></a></li>
 </ul></div>
 

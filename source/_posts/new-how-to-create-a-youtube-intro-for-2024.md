@@ -1,7 +1,7 @@
 ---
 title: New How To Create A YouTube Intro for 2024
-date: 2024-09-07T22:21:54.881Z
-updated: 2024-09-14T19:38:25.758Z
+date: 2024-09-18T01:57:29.395Z
+updated: 2024-09-18T22:33:54.804Z
 tags: 
   - ai
   - animation videos
@@ -54,13 +54,6 @@ Now is the time to deal with any concerns you may have with asking people for th
 After you've written your introduction, you might want to think about inserting a call to action (CTA). Users will be prompted to take the action you want them to, such as follow you on social media or subscribe to your channel, if you do this.
 
 Your CTA needs to be brief and concise. If you make it sound too airy, your audience will miss the point and you'll come out as uncertain of your goal.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Keep it simple
 
@@ -194,6 +187,13 @@ Step 5: Double-click on your video, and you will come across a panel on the uppe
 
 ![green screen background](https://images.wondershare.com/filmora/article-images/green-screen-background.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 6: Finally, adjust the parameters available to fine-tune the overall green screen effect. Lastly, click on Ok button.
 
 ## Conclusion
@@ -221,6 +221,13 @@ Step 5: Double-click on your video, and you will come across a panel on the uppe
 ![green screen background](https://images.wondershare.com/filmora/article-images/green-screen-background.jpg)
 
 Step 6: Finally, adjust the parameters available to fine-tune the overall green screen effect. Lastly, click on Ok button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -336,6 +343,19 @@ If your frame is too broad, you will face potential distractions that could inte
 
 ![setting the frame](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-6.png)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Set your position**
 
 Instead of getting closer to your talent, get further away and zoom in this way, you leave space for other people in the location, and you can still get your shot!
@@ -343,13 +363,6 @@ Instead of getting closer to your talent, get further away and zoom in this way,
 ![zoom in the talent](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-7.png)
 
 Try to get your shot and then get out quickly so you don't bother other people trying to get their photos.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Best Way to Record Audio While Filming Outdoor
 
@@ -409,6 +422,19 @@ Step4 Now select a recording device and then select the time for the countdown. 
 
 ![setting the device and timer](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-10.gif)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Click record and try to re-record your line and match it up the best you can. To get the sound and sync right, you might need to attempt a few times, but in the end, it will improve the quality of your video.
 
 ![clicking record](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-11.png)
@@ -438,16 +464,10 @@ It's not easy to get a testimonial video right. You need to know how to write on
 Fortunately for you, we're here with our step-by-step guide on how to edit testimonial videos using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). So, sit tight because we're about to take you through each stage of this process from start to finish!
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Import Your Media Files to Filmora Video Editor
@@ -463,13 +483,6 @@ It includes your testimonial videos and video/photo materials. You can import yo
 ![import your media files](https://images.wondershare.com/filmora/article-images/2022/08/import-media-to-filmora.jpg)
 
 To save time, it is best to prepare ahead of time all your videos materials before start editing your testimonial video. Save it in just one folder including your script guide, photos, and videos
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Select Your Preferred Project Aspect Ratio
 
@@ -565,13 +578,6 @@ That's all for today! With this tutorial, you can edit testimonial videos for th
 
 Hopefully, this post gave you an idea of how to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as an easy-to-use video editing software that can help you create awesome videos with just a few clicks. Thanks for reading![Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 </article
@@ -594,13 +600,20 @@ Hopefully, this post gave you an idea of how to use [Filmora](https://tools.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-global-lens-local-tales-how-to-transform-your-travel-experiences-into-content-for-2024/"><u>[New] Global Lens, Local Tales How to Transform Your Travel Experiences Into Content for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-embarking-on-twitter-steps-for-newbies-for-2024/"><u>[Updated] Embarking on Twitter Steps for Newbies for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-common-issues-with-steam-remote-play-for-a-seamless-gaming-experience/"><u>Fixing Common Issues with Steam Remote Play for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/mastering-4k-encoding-and-decoding-using-handbrakes-advanced-presets/"><u>Mastering 4K Encoding & Decoding Using HandBrake's Advanced Presets</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/score-big-savings-on-gadgets-during-amazons-2024-prime-day-extravaganza/"><u>Score Big Savings on Gadgets During Amazon's 2024 Prime Day Extravaganza</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/troubleshooting-guide-for-common-minecraft-world-connection-errors/"><u>Troubleshooting Guide for Common Minecraft World Connection Errors</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-journey-to-perfect-audio-ultimate-iphone-podcast-downloading-techniques-for-2024/"><u>[New] Journey to Perfect Audio Ultimate iPhone Podcast Downloading Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-discover-the-leading-apps-for-instagrams-vertical-igtv-edits/"><u>[Updated] Discover the Leading Apps for Instagram's Vertical IGTV Edits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-how-to-make-a-photo-video-with-pixiz/"><u>[Updated] How to Make a Photo Video with Pixiz ?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-13-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 13 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creative-ais-face-off-on-equal-ground-prompt/"><u>Creative AIs Face Off on Equal Ground Prompt</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-a-smooth-cut-transition-effect/"><u>How to Create a Smooth Cut Transition Effect?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-motorola-moto-e13-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Motorola Moto E13 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-make-timelapse-video-with-imovie/"><u>New 2024 Approved Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-follow-a-few-simple-steps-and-learn-how-to-create-a-professional-glowing-edge-effect-to-your-videos-in-filmora/"><u>New Follow a Few Simple Steps and Learn How to Create a Professional Glowing Edge Effect to Your Videos in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-diy-vhs-overlay-in-after-effects-in-2024/"><u>New How to DIY VHS Overlay in After Effects, In 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performer-picks-in-motherboards-and-cpus-spotlight-on-toms-hardware/"><u>Top Performer Picks in Motherboards and CPUs - Spotlight on Tom's Hardware</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-6-websites-to-free-download-motivational-video-footage/"><u>Updated 6 Websites to Free Download Motivational Video Footage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-easy-steps-to-create-intro-video-with-after-effects/"><u>Updated In 2024, Easy Steps to Create Intro Video with After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/we-all-know-very-well-that-a-1-second-video-has-several-images-in-a-single-row-even-with-imovie-time-lapse-you-can-create-this-so-without-any-further-ado-le/"><u>We All Know Very Well that a 1-Second-Video Has Several Images in a Single Row. Even with iMovie Time-Lapse, You Can Create This! So, without Any Further Ado, Lets Learn How to Make a Timelapse in iMovie</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-c-runtime-framework-missing/"><u>Windows C Runtime Framework Missing</u></a></li>
 </ul></div>
 

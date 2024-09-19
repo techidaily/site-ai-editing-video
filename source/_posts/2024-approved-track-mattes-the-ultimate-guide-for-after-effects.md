@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Track Mattes The Ultimate Guide For After Effects
-date: 2024-09-09T19:13:03.403Z
-updated: 2024-09-14T22:12:32.336Z
+date: 2024-09-11T19:12:46.907Z
+updated: 2024-09-19T02:23:17.276Z
 tags: 
   - ai
   - animation videos
@@ -83,6 +83,13 @@ Alpha Matte is an important option under the Track Matte menu, as it allows you 
 
 The Alpha Inverted Matte option is quite the opposite of the Alpha Matte, and around the Alpha channel, it uses negative space from the above layer and will therefore use pixels with 0% opacity as it had 100% opacity.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Luma Matte
 
 Instead of using the Alpha channel, Luma Mattes uses the brightness level or Luma channel of the upper layer to create a mask for the bottom layer.
@@ -125,13 +132,6 @@ Moreover, Track Mattes uses Alpha or Luma channels as a layer mask to determine 
 
 Thus, if you want to use an image to hide your video until you want to unveil it or add a picture in your text, Track Mattes will help you to shape the appearance of a layer above it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Differences Between A Mask And A Track Matte
 
 In Adobe After Effects, there are two types of masking tools: Masks and Track Mattes. Both are used to hide or reveal a portion of a layer.
@@ -153,13 +153,6 @@ If you are still unable to find the Track Matte option, press the **F1 key** or 
 2. Scroll down and click the **"Modes"** option to enable it.
 
 ![finding the track matte option in after effects](https://images.wondershare.com/filmora/article-images/2022/07/finding-the-track-matte-option-in-after-effects.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. **Track Matte mode, Preserve Underlying Transparency,** and **Blending Modes** will be available now.
 
@@ -393,19 +386,6 @@ One of the commendable aspects of Veed.io is its commitment to transparency. Use
 
 ![filter online1](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Clideo is a multifaceted online video editing solution that caters to a broad spectrum of editing needs.
 
 Whether you're looking to merge clips, resize videos for various platforms, or infuse creativity with video filters, Clideo offers a comprehensive toolkit.
@@ -498,13 +478,6 @@ When it comes to alternative video filter editors, Filmora undoubtedly stands ou
 1. **Pricing and Value** **:** While Filmora isn't free, the value it offers makes the investment worthwhile. The tool offers various pricing plans designed for both individuals and businesses. Given the quality and diversity of its video filters, many content creators view it as a justifiable expense.
 1. **Community and Tutorials** **:** Filmora boasts a vibrant community of users. Their official website and channels regularly release tutorials, guiding users on the various functionalities, ensuring you make the most out of the software.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Summary
 
 The digital space is flooded with content, making it crucial for creators to ensure their videos capture attention and engage viewers. Utilizing video filters can significantly boost the visual appeal of your content.
@@ -518,6 +491,13 @@ And for those willing to invest a little, Filmora stands as a robust alternative
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Zoom in on PowerPoint [Easy Ways]
 
@@ -733,6 +713,13 @@ The key cleaner effect sharpens your subject's edges for a more detailed finish.
 
 Sometimes your green screen background can spill to your subject's edges resulting in a messy outline. For example, you may find a green outline on your subject's hair or clothing. The **Advanced Spill Suppressor** eliminates these outlines automatically. You can enable the effect by clicking the check box next to the effect from the **Animation Presets** panel.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Apply a new background
 
 Once you apply the green screen key effect, you can add any custom background to your footage. You need to **Import** the file to your After Effects library and then drag & drop it into your footage's timeline.
@@ -754,6 +741,13 @@ Launch the program on your device and click on the **New Project** option. A win
 ### 2\. Adjust your green screen settings
 
 ![adjust your green screen settings](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then, double-click your green screen footage to open the **Edit Panel**. Select the Video Tab and check the **Chroma Key** box to enable the effect. Once done, you can use the following tools to edit your footage:
 
@@ -785,22 +779,16 @@ Please note that you need an active Filmora subscription to use Chroma Key. In a
 
 ## Part4: FAQs
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Is there a difference between chroma keying and green screening?
 
 No. There is no difference between chroma keying and green screening. Both processes involve you replacing a specific color in your image and replacing it with a new background. In addition, some filmmakers use the terms synonymously because green is the best color to use when chroma keying. However, you can also use other colors for your chroma keying, with blue being the next best alternative.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Can you create a green screen video without using a green screen background?
 
@@ -830,16 +818,19 @@ Yes. It is possible to create a green screen video without a green background. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-archive-instagram-movies-a-comprehensive-pc-and-mac-approach/"><u>[New] 2024 Approved How to Archive Instagram Movies A Comprehensive PC & Mac Approach</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-leveraging-facebooks-autoplay-technology-for-smooth-video-playback-for-2024/"><u>[Updated] Leveraging Facebook's Autoplay Technology for Smooth Video Playback for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/15-key-improvements-added-to-windows-11s-next-version/"><u>15 Key Improvements Added to Windows 11'S Next Version</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-leading-edge-applications-surpassing-traditional-fbx-file-capture/"><u>2024 Approved Leading-Edge Applications Surpassing Traditional FBX File Capture</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/create-slide-masking-effect-intro/"><u>Create Slide Masking Effect Intro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-y36-easily-by-drfone-android/"><u>How To Unlock a Vivo Y36 Easily?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-lava-blaze-2-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Lava Blaze 2 5G Device SIM</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-guide-eradicating-the-warzone-directx-error-with-these-4-solutions/"><u>Quick Guide: Eradicating the 'Warzone DirectX Error' With These 4 Solutions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-20-best-video-background-templates/"><u>Updated 20 Best Video Background Templates</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-best-ideas-for-time-lapse-video/"><u>Updated Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-avi-conversions-create-gifs-with-filmora-on-pcmac/"><u>[New] Streamlining AVI Conversions Create GIFs with Filmora on PC/Mac</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-a-green-screen-video-in-after-effects/"><u>2024 Approved How To Create A Green Screen Video In After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-speed-ramping-to-create-a-footage/"><u>2024 Approved How to Use Speed Ramping to Create a Footage</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-perfect-screen-recording-toolkit-systematic-how-to-manual/"><u>2024 Approved The Perfect Screen Recording Toolkit Systematic How-To Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transitioning-video-content-into-stills-with-windows-11/"><u>2024 Approved Transitioning Video Content Into Stills with Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-uninstall-printer-driver-on-windows/"><u>How to Uninstall Printer Driver on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-find-x7-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo Find X7 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects/"><u>New How To Make a Timelapse in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-crop-a-video-with-cyberlink-powerdirector/"><u>New Step by Step to Crop a Video with CyberLink PowerDirector</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/preserving-your-snapshots-mobile-and-desktop-compatible/"><u>Preserving Your Snapshots Mobile & Desktop Compatible</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-find-out-what-ray-tracing-is-in-after-effects-how-it-works-and-learn-about-ray-traced-3d-settings-with-simple-instructions/"><u>Updated Find Out What Ray Tracing Is in After Effects, How It Works, and Learn About Ray-Traced 3D Settings with Simple Instructions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>Updated HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-nintendos-decision-against-integrating-generative-ai-into-their-games-is-beneficial/"><u>Why Nintendo's Decision Against Integrating Generative AI Into Their Games Is Beneficial</u></a></li>
 </ul></div>
 

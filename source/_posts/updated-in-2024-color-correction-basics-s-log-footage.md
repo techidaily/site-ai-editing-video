@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Color Correction Basics (S-LOG Footage)
-date: 2024-09-07T23:00:09.281Z
-updated: 2024-09-14T19:32:47.716Z
+date: 2024-09-11T21:16:55.137Z
+updated: 2024-09-19T00:46:14.376Z
 tags: 
   - ai
   - animation videos
@@ -155,6 +155,13 @@ I guess that was easy, right? Up to this juncture, you should be able to perform
 
 ![adjust the color settings](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2 Read and study the histogram
 
 Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a histogram with the brightest point on the right and the darkest point on the left. From our example, you can see that the video has more dark pixels than bright ones. Horizontally, the histogram shows you how many pixels are in a certain range of brightness.
@@ -166,13 +173,6 @@ Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a h
 Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
 
 ![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
 
@@ -188,24 +188,18 @@ Does your video still look a little flat? Probably yes! In that case, click the 
 
 ![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5 Preview and compare the video
 
 Now it's time to check and compare the results. To make it easier, click the **Eye** icon at the top-right corner to switch between the original S-Log video and the color-corrected clip. You can also tap the **AB** icon and choose **Split View-Left/Right** to view the clips in the side-by-side mode.
 
 ![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -329,76 +323,76 @@ Step 4: Play the video to see the changes you have made, and click on Export but
 
 ![filmora export your video](https://images.wondershare.com/filmora/article-images/filmora-export-your-video.jpg)
 
+## Part 4\. FAQs about iMovie
+
+Is iMovie good for video editing?
+
+Yes, iMovie is good for basic video editing. You can edit 4K videos, and iMovie is available on macOS and iOS. If you are a beginner, iMovie is perfect for you. If you want advanced editing features, we recommend Wondershare Filmora.
+
+What's better Premiere Pro or iMovie?
+
+In terms of features and functionalities, Premiere Pro is far better than iMovie. However, Premiere Pro is more for advanced video editing while iMovie is more for beginners. iMovie is simpler to use than Premiere Pro, and hence, beginners will love it.
+
+Can I make YouTube videos with iMovie?
+
+Yes, you can make YouTube videos with iMovie as it has all the required tools and options. Import your video clips and audio files on the timeline, go for iMovie edit clip like trim and crop as required, add transitions, texts, and effects as applicable and publish your finished video on YouTube.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Filmora on your Mac. Launch Filmora and click on New Project.
+
+Step 2: Drag and drop your video clips and audio files Project Media folder. Drag and place the video clips on the timeline and arrange per perfectly. Place audio files on the timeline on a different track.
+
+![filmora arrange the photo](https://images.wondershare.com/filmora/article-images/filmora-arrange-the-photo.jpg)
+
+Step 3: If you want to apply transitions, go to Transitions at the top bar and drag any transition in between video clips on the timeline. You can also insert texts from Titles and objects from Elements from the top bar.
+
+![filmora beautiful transition effects](https://images.wondershare.com/filmora/article-images/filmora-beautiful-transition-effects.jpg)
+
+Step 4: Play the video to see the changes you have made, and click on Export button to save the video when you are satisfied.
+
+![filmora export your video](https://images.wondershare.com/filmora/article-images/filmora-export-your-video.jpg)
+
+## Part 4\. FAQs about iMovie
+
+Is iMovie good for video editing?
+
+Yes, iMovie is good for basic video editing. You can edit 4K videos, and iMovie is available on macOS and iOS. If you are a beginner, iMovie is perfect for you. If you want advanced editing features, we recommend Wondershare Filmora.
+
+What's better Premiere Pro or iMovie?
+
+In terms of features and functionalities, Premiere Pro is far better than iMovie. However, Premiere Pro is more for advanced video editing while iMovie is more for beginners. iMovie is simpler to use than Premiere Pro, and hence, beginners will love it.
+
+Can I make YouTube videos with iMovie?
+
+Yes, you can make YouTube videos with iMovie as it has all the required tools and options. Import your video clips and audio files on the timeline, go for iMovie edit clip like trim and crop as required, add transitions, texts, and effects as applicable and publish your finished video on YouTube.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Filmora on your Mac. Launch Filmora and click on New Project.
+
+Step 2: Drag and drop your video clips and audio files Project Media folder. Drag and place the video clips on the timeline and arrange per perfectly. Place audio files on the timeline on a different track.
+
+![filmora arrange the photo](https://images.wondershare.com/filmora/article-images/filmora-arrange-the-photo.jpg)
+
+Step 3: If you want to apply transitions, go to Transitions at the top bar and drag any transition in between video clips on the timeline. You can also insert texts from Titles and objects from Elements from the top bar.
+
+![filmora beautiful transition effects](https://images.wondershare.com/filmora/article-images/filmora-beautiful-transition-effects.jpg)
+
+Step 4: Play the video to see the changes you have made, and click on Export button to save the video when you are satisfied.
+
+![filmora export your video](https://images.wondershare.com/filmora/article-images/filmora-export-your-video.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-## Part 4\. FAQs about iMovie
-
-Is iMovie good for video editing?
-
-Yes, iMovie is good for basic video editing. You can edit 4K videos, and iMovie is available on macOS and iOS. If you are a beginner, iMovie is perfect for you. If you want advanced editing features, we recommend Wondershare Filmora.
-
-What's better Premiere Pro or iMovie?
-
-In terms of features and functionalities, Premiere Pro is far better than iMovie. However, Premiere Pro is more for advanced video editing while iMovie is more for beginners. iMovie is simpler to use than Premiere Pro, and hence, beginners will love it.
-
-Can I make YouTube videos with iMovie?
-
-Yes, you can make YouTube videos with iMovie as it has all the required tools and options. Import your video clips and audio files on the timeline, go for iMovie edit clip like trim and crop as required, add transitions, texts, and effects as applicable and publish your finished video on YouTube.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Filmora on your Mac. Launch Filmora and click on New Project.
-
-Step 2: Drag and drop your video clips and audio files Project Media folder. Drag and place the video clips on the timeline and arrange per perfectly. Place audio files on the timeline on a different track.
-
-![filmora arrange the photo](https://images.wondershare.com/filmora/article-images/filmora-arrange-the-photo.jpg)
-
-Step 3: If you want to apply transitions, go to Transitions at the top bar and drag any transition in between video clips on the timeline. You can also insert texts from Titles and objects from Elements from the top bar.
-
-![filmora beautiful transition effects](https://images.wondershare.com/filmora/article-images/filmora-beautiful-transition-effects.jpg)
-
-Step 4: Play the video to see the changes you have made, and click on Export button to save the video when you are satisfied.
-
-![filmora export your video](https://images.wondershare.com/filmora/article-images/filmora-export-your-video.jpg)
-
-## Part 4\. FAQs about iMovie
-
-Is iMovie good for video editing?
-
-Yes, iMovie is good for basic video editing. You can edit 4K videos, and iMovie is available on macOS and iOS. If you are a beginner, iMovie is perfect for you. If you want advanced editing features, we recommend Wondershare Filmora.
-
-What's better Premiere Pro or iMovie?
-
-In terms of features and functionalities, Premiere Pro is far better than iMovie. However, Premiere Pro is more for advanced video editing while iMovie is more for beginners. iMovie is simpler to use than Premiere Pro, and hence, beginners will love it.
-
-Can I make YouTube videos with iMovie?
-
-Yes, you can make YouTube videos with iMovie as it has all the required tools and options. Import your video clips and audio files on the timeline, go for iMovie edit clip like trim and crop as required, add transitions, texts, and effects as applicable and publish your finished video on YouTube.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Filmora on your Mac. Launch Filmora and click on New Project.
-
-Step 2: Drag and drop your video clips and audio files Project Media folder. Drag and place the video clips on the timeline and arrange per perfectly. Place audio files on the timeline on a different track.
-
-![filmora arrange the photo](https://images.wondershare.com/filmora/article-images/filmora-arrange-the-photo.jpg)
-
-Step 3: If you want to apply transitions, go to Transitions at the top bar and drag any transition in between video clips on the timeline. You can also insert texts from Titles and objects from Elements from the top bar.
-
-![filmora beautiful transition effects](https://images.wondershare.com/filmora/article-images/filmora-beautiful-transition-effects.jpg)
-
-Step 4: Play the video to see the changes you have made, and click on Export button to save the video when you are satisfied.
-
-![filmora export your video](https://images.wondershare.com/filmora/article-images/filmora-export-your-video.jpg)
 
 ## Part 4\. FAQs about iMovie
 
@@ -573,6 +567,13 @@ You may save a lot of time by using TunePocket title generator to create creativ
 
 ![title ideas suggestions](https://images.wondershare.com/filmora/article-images/2022/07/title-ideas-suggestions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Copy the Title to Clipboard
 
 A title generator may be processed in a matter of seconds and a few clicks. You don't need to spend hours and hours coming up with numerous titles; you can copy more than one in a matter of minutes. Simply hit the Copy to Clipboard and get done with the title:
@@ -645,13 +646,6 @@ After that, you'll have a lot of options from which to choose. Some individuals 
 
 ![copy titles from generator tool](https://images.wondershare.com/filmora/article-images/2022/07/copy-titles-from-generator-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. [TunePocket Title Generator](https://www.tunepocket.com/youtube-title-generator/)
 
 For background music for your video and YouTube video SEO, TunePocket might be a top-notch tool. Additionally, the fact that it is free to use and that no account creation is necessary is beneficial. A stock music library, TunePocket provides a variety of music services. Additionally, we have discovered some incredible YouTube tools, such as YouTube tag generators. The fact that you can use this tag generator on YouTube without creating an account is what made us appreciate it even more.
@@ -706,10 +700,10 @@ The finest titles are those that best expose the vulnerabilities of the reader. 
 Your title and description should both include your target keyword. You'll probably start to generate some ideas for a real video title after you begin your keyword research. To determine how persuasive these concepts are, use a trigger analyzer. You'll need to do study in order to accomplish this. As for the knowledge gap, consider how your target audience would respond.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -738,21 +732,18 @@ In this article, we've compiled a list of the best tag generators for videos, in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-editorxperience-deep-dive-complete-look-at-androvids-features/"><u>[New] 2024 Approved EditorXperience Deep Dive – Complete Look at AndroVid's Features</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-celestial-journey-enhanced-by-these-sj4000-gear-must-haves/"><u>[New] Celestial Journey Enhanced by These SJ4000 Gear Must-Haves</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-into-the-code-labyrinastr-facebooks-message-extraction-guide/"><u>[Updated] 2024 Approved Into the Code Labyrinastr - Facebook's Message Extraction Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-video-content-delivery-a-curated-list-of-players/"><u>2024 Approved Streamline Video Content Delivery A Curated List of Players</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/beyond-standard-recording-a-comprehensive-review-of-the-highly-enjoyable-ddpai-mini3-camera/"><u>Beyond Standard Recording: A Comprehensive Review of The Highly Enjoyable Ddpai Mini3 Camera</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-realme-c67-4g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Realme C67 4G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-to-correct-acrocefexeexe-error-and-enhance-stability/"><u>Expert Tips to Correct acrocefexe.exe Error and Enhance Stability</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-common-issues-with-steam-remote-play-for-a-seamless-gaming-experience/"><u>Fixing Common Issues with Steam Remote Play for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-xiaomi-13-ultra-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/initial-cinematic-recording-dissection/"><u>Initial Cinematic Recording Dissection</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/review-expose-on-netgears-advanced-x6-wifi-mesh-enhancer-a-deep-dive-into-its-innovative-traits/"><u>Review Exposé on Netgear's Advanced X6 Wifi Mesh Enhancer – A Deep Dive Into Its Innovative Traits</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/score-big-savings-on-gadgets-during-amazons-2024-prime-day-extravaganza/"><u>Score Big Savings on Gadgets During Amazon's 2024 Prime Day Extravaganza</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solutions-for-fixing-misinstalled-ryzen-master-driver-on-your-pc/"><u>Solutions for Fixing Misinstalled Ryzen Master Driver on Your PC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-list-top-2024-recommendations-for-quality-17-inch-laptops/"><u>The Ultimate List: Top 2024 Recommendations for Quality 17-Inch Laptops</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/troubleshooting-guide-for-common-minecraft-world-connection-errors/"><u>Troubleshooting Guide for Common Minecraft World Connection Errors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nleash-creativity-with-these-8-mirrorless-cams-for-video/"><u>[New] Unleash Creativity with These 8 Mirrorless Cams For Video</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-high-end-horizons-the-elite-8k-camera-selection/"><u>[Updated] In 2024, High-End Horizons The Elite 8K Camera Selection</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ogvogg-movavi/"><u>「オンライン無料ツールを用いた迅速かつ容易なOGV/OGGファイル変換法 - Movavi」</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the-a/"><u>2024 Approved Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-starting-the-installation-process-for-your-new-amazon-echo-dot/"><u>Guide to Starting the Installation Process for Your New Amazon Echo Dot</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-itel-p40-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora/"><u>How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-stabilizing-pixels-the-truth-behind-photoshop-shake/"><u>In 2024, Stabilizing Pixels The Truth Behind Photoshop Shake</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-create-the-night-to-day-effect-video/"><u>New 2024 Approved How to Create the Night-to-Day Effect Video</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speedy-downloads-await-with-ft232rs-user-friendly-usb-uart-driver/"><u>Speedy Downloads Await with FT232R's User-Friendly USB UART Driver</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-approach-to-capturing-and-editing-in-adobe-connect-for-2024/"><u>Step-by-Step Approach to Capturing and Editing in Adobe Connect for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-guide-to-converting-youtubes-into-vivid-gifs-no-save-for-2024/"><u>The Ultimate Guide to Converting YouTubes Into Vivid GIFs (No Save) for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-tips-to-make-cinematic-color-grading/"><u>Updated In 2024, Tips to Make Cinematic Color Grading</u></a></li>
 </ul></div>
 

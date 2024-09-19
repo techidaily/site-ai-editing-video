@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Add Subtitles in Canva?
-date: 2024-09-12T16:18:30.598Z
-updated: 2024-09-14T19:17:51.409Z
+date: 2024-09-14T22:29:55.472Z
+updated: 2024-09-18T17:20:23.496Z
 tags: 
   - ai
   - animation videos
@@ -65,13 +65,6 @@ Step2 Now, hit the "Upload Files" button from the left panel and import the vide
 
 ![upload your video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 You can also add effects and animation to your added subtitles for more enhancements. Once done with customizations, click on the “Share” button. Here select MP4 as the video file format and save the video on your system.
 
 ![hit the share button](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-5.jpg)
@@ -108,18 +101,18 @@ On your timeline, double-click on the auto-generated subtitles to open the edit 
 
 ![modify your added subtitles](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4 Export the Video File
 
 Once you are done with all the subtitle edits, click on the “Export” button. Filmora provides you with various export resolution options and file formats that you can choose. Moreover, you can also share the video file to your desired social media platform, such as YouTube, Vimeo, or TikTok.
 
 ![export or share the filmora video](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -132,6 +125,13 @@ Do you want to know **how to add subtitles in Canva**? Adding subtitles in Canva
 Step1 Begin by visiting the [video editor tool page of Canva](https://www.canva.com/video-editor/) through any web browser. After accessing the tool page, click on "Edit a Video." This will open a new window on your screen.
 
 ![tap on edit a video](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Now, hit the "Upload Files" button from the left panel and import the video file on this tool. Once done, navigate to the "Text" tab and tap "Add a little bit of body text." Now adjust the position of the text box according to your desire. You can write your **Canva captions** by choosing your preferred font, color, size, and style.
 
@@ -281,6 +281,13 @@ Overlays and video filters are effects used to enhance the appeal of the video. 
 
 Exporting a video to a variety of platforms comes after editing it. Filmora allows users to export video in a number of different file types, including mp4, Wmv, Mkv, ts, 3gp, f4v, Mkv, MOV, mpg, 3gp, GIF 4K, and mp3.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Motion blur is crucial when animating characters to move. Your videos require some blur to seem realistic when there is motion, particularly when there is quick movement. You have learnt how to include motion blur into your animation project from this guide. To add motion blur effects to your movie or animation, After Effects offers a wide variety of options. To inform you about this wonderful gesture, we utilized Filmora and Adobe After Effects and recommend [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for easiness and handy outputs.
@@ -294,13 +301,6 @@ Let's start with a little introduction before learning how to apply motion blur.
 Motion blur was introduced into animation to aid in the blending of frames and replicate the blurring that was seen in earlier cameras as a result of fast-moving objects. When a moving item keeps moving while light is still reaching our eyes, motion blur results. The goal of Motion Blur in After Effects is to replicate this phenomenon. After Effects will duplicate your layer several times when it changes in size or location. Then, it will offset it in various ways. This is closely related to the direction and pace of your layer's animation.
 
 These days, we have cameras with fast shutter speeds, which allows us to almost completely remove motion blur. Without motion blurring, each frame of your animation is like a flawless still image, making the action seem a little disorienting. Each picture captures the exact moment in time, despite the fluid motion. However, the absence of motion blur is what viewers do notice. Because of this, visual effects creators often use artificial motion blur in their effects to replicate what the viewer would experience if the element were really there in the picture.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How to Add Motion Blur in After Effects
 
@@ -354,6 +354,13 @@ Media files may be easily added to the timeline in [Filmora](https://tools.techi
 
 On [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), there is a full-service shop called Filmstock that offers a ton of exciting media and after-effects for download. You may get free sound effects and short video clips to add to your videos on this website.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Edit Effect
 
 Download films from the effect store or import them from your device and add them to your timeline in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to modify your videos. Utilize the software's drag-and-drop feature to modify the video.
@@ -406,6 +413,13 @@ Adobe After Effects is a motion picture editing program that you can also use to
 
 ![after effects](https://images.wondershare.com/filmora/article-images/after-effects-new-text.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Key Features:**
 
 * You can add simple lines of text to any section of the video
@@ -426,13 +440,6 @@ Movavi video editor is another great video editor that you can use to add and ed
 * Customizing the text by changing the font, color and size is also very easy
 * The user interface is very easy to use, allowing you to add even blocks of text very quickly
 * You also have additional options to edit the video including splitting and merging the video or adjusting the brightness, saturation, and color.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iMovie
 
@@ -530,13 +537,6 @@ MySubtitle is a simple but highly effective app that you can use to add text to 
 
 The question of which is superior between Color Finale and DaVinci Resolve may have crossed your mind if you're considering upgrading your color grading software. That's very natural, too! These two programs for color grading and color correction are among the best options for intermediate to advanced video editors. And with good cause. But what distinguishes each piece of software? Keep reading to find out.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. What is color finale?
 
 One of the best color grading and correction programs is Color Finale from Color Trix. It can only be used with Final Cut Pro X at the moment and is downloaded as a plug-in. Therefore, Color Finale is something you should definitely think about employing if you're currently using FCPX to edit your video. Color Finale 2, the most recent edition, is incredibly potent. Compared to the default Final Cut Pro coloring tools, it offers a significantly more detailed coloring experience. It's also shockingly simple to use. After installing it, Color Finale 2 will be accessible under "Video Effects." Simply drag and drop it onto the desired clips to use it. Alternately, make an adjustment layer and apply it to your entire video.
@@ -607,19 +607,19 @@ Color Finale includes several high-end color suite capabilities. Color Finale in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-nine-superior-choices-for-live-streaming-now-for-2024/"><u>[New] Nine Superior Choices for Live Streaming Now for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-top-5-methods-capturing-facebook-stories-on-devices-for-2024/"><u>[New] Top 5 Methods Capturing Facebook Stories on Devices for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchatting-humor-15-must-have-funny-gifs/"><u>[Updated] 2024 Approved Snapchatting Humor 15 Must-Have Funny GIFs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-podcast-descriptions-insights-with-examples/"><u>[Updated] Mastering Podcast Descriptions Insights with Examples</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722998189915-effortless-solutions-to-your-apex-legends-startup-woes/"><u>Effortless Solutions to Your Apex Legends Startup Woes!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-audio-systems/"><u>Expert Tips on Repairing Malfunctioning Computer Audio Systems</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/handbrake-and-av1-is-it-compatible-for-encoding/"><u>HandBrake and AV1: Is It Compatible for Encoding?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/heroic-measures-against-a-corrupted-disk-in-steam-games-a-simple-fix-guide/"><u>Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-toolwiz-evaluation-the-top-choice-in-mobile-editing/"><u>In 2024, Toolwiz Evaluation The Top Choice in Mobile Editing?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolved-troubleshooting-guide-overcoming-world-of-warcraft-wont-start-on-pc/"><u>Resolved: Troubleshooting Guide - Overcoming 'World of Warcraft Won't Start' On PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-digital-rights-management-removal-for-epubs-pdfs-and-ade-files/"><u>Seamless Digital Rights Management Removal for ePubs, PDFs, and ADE Files</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/unpacking-the-mini-powerhouse-in-depth-analysis-of-the-3rd-gen-amazon-echo-dots-alexa-capabilities/"><u>Unpacking the Mini-Powerhouse: In-Depth Analysis of the 3Rd Gen Amazon Echo Dot's Alexa Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-jumpstart-your-virtual-engagement-with-these-tips-for-livestreams/"><u>2024 Approved Jumpstart Your Virtual Engagement with These Tips for Livestreams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-perfecting-speech-interpretation-using-google-tools/"><u>2024 Approved Perfecting Speech Interpretation Using Google Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unraveling-youtubes-platform-for-content-crafting/"><u>2024 Approved Unraveling YouTube’s Platform for Content Crafting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-interface-reactivated-post-error/"><u>Display Interface Reactivated Post-Error</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-tutorial-on-making-youtubes-flv-content-playable-on-your-kindle-fire-device/"><u>Easy Tutorial on Making YouTube's FLV Content Playable on Your Kindle Fire Device</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/effortless-presentation-recording-with-modern-webcams-for-2024/"><u>Effortless Presentation Recording with Modern Webcams for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-video-by-mouse-in-filmora/"><u>How To Make a Video by Mouse in Filmora?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-premier-top-eight-for-unparalleled-4k-viewing/"><u>In 2024, Premier Top Eight for Unparalleled 4K Viewing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-practical-tips-to-improve-your-lighting-in-the-sun-for-2024/"><u>New Best Practical Tips to Improve Your Lighting in the Sun for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-everything-that-you-need-to-know-about-video-montages-ideas-techniques-and-software/"><u>New Everything That You Need to Know About Video Montages- Ideas, Techniques, and Software</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New In 2024, Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-split-clips-in-vlc-for-2024/"><u>New Step by Step to Split Clips in VLC for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-netflixs-multi-stream-technology-a-quick-guide-for-2024/"><u>Understanding Netflix's Multi-Stream Technology A Quick Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-loop-videos-with-filmora-for-2024/"><u>Updated How to Create Loop Videos with Filmora for 2024</u></a></li>
 </ul></div>
 

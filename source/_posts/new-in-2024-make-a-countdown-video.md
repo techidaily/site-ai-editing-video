@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Make A Countdown Video
-date: 2024-09-12T16:36:58.810Z
-updated: 2024-09-15T00:49:18.702Z
+date: 2024-09-14T17:46:42.433Z
+updated: 2024-09-18T16:53:00.313Z
 tags: 
   - ai
   - animation videos
@@ -113,19 +113,6 @@ In an adjustment layer in Premiere Pro, you can add multiple effects to create a
 
 ![adjustment layer in premiere pro](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Furthermore, you can also remove the adjustment layer from your timeline easily without modifying the composition settings of your video. If you get a basic understanding of creating and managing the adjustment layer in Premiere Pro, you can efficiently enhance the visual appeal of your videos. To learn more about the **Premiere Pro adjustment layer**, continue reading.
 
 ## Part 2: How to Add an Adjustment Layer in Premiere Pro?
@@ -208,13 +195,6 @@ In an adjustment layer in Premiere Pro, you can add multiple effects to create a
 
 ![adjustment layer in premiere pro](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Furthermore, you can also remove the adjustment layer from your timeline easily without modifying the composition settings of your video. If you get a basic understanding of creating and managing the adjustment layer in Premiere Pro, you can efficiently enhance the visual appeal of your videos. To learn more about the **Premiere Pro adjustment layer**, continue reading.
 
 ## Part 2: How to Add an Adjustment Layer in Premiere Pro?
@@ -267,6 +247,13 @@ Step1 Add the adjustment layer to the timeline and head to the “Effects” lib
 
 Step2 Now enhance the top and bottom properties to 15%. You can also adjust the headspace of the person accordingly. Also, you can animate the black bars to produce a more cinematic look in your video.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: FAQ about Adjustment Layers in Premiere Pro
 
 If you have some questions or concerns about using the adjustment layer in Premiere Pro, we have discussed the commonly asked question below.
@@ -278,13 +265,6 @@ To fix grayed adjustment layer in Premiere Pro, there are two methods that you c
 **Method 1:** At the bottom of your project panel, click on the “New Item” icon and select “Adjustment Layer.” Once done, adjust the settings and press the “OK” button. Now you can drag and drop the adjustment layer in the timeline.
 
 **Method 2:** Click on your “Project Panel” and then navigate to the “File” tab. From there, select “New” and then click on “Adjustment Layer.” Once done, you can drag and drop the adjustment layer at the timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -318,91 +298,11 @@ Go to **My Media** and Import any video you want to add a glowing edge effect to
 
 ![import video filmora](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
 
-Step 3
-
-Copy the Clip from Track 1 and paste it on Track 2.
-
-Step 4
-
-Go to the **Effects** tab and apply the “**Pixelated Edges**” effect to the clip on Track 1\. Then, hide Track 2 by clicking the “eye” button.
-
-![add effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/effect.png)
-
-Step 5
-
-Double-click on the Clip in Track 1\. Go to **Video → Effects.** Here, change the color to anything you want. This will determine what color your glowing edge effect will be. When you’re done choosing a color, click **OK.**
-
-![glowing edge color](https://images.wondershare.com/filmora/article-images/2023/01/color.png)
-
-Step 6
-
-Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video → Basic.** Scroll down and change the **Blending Mode** to “**Difference**”. Click **OK** and **Export** the clip at a higher rate. Click on the blue Export button at the top center.
-
-![change blending mode](https://images.wondershare.com/filmora/article-images/2023/01/difference.png)
-
-Step 7
-
-Delete the clip on Track 1\. Then, move the clip from Track 2 to Track 1\. Now, Import the clip that you just Exported and drag it to Track 2.
-
-![import clip to filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
-
-Step 8
-
-Go to **Effects** and find the **Blur** effect. Drag the Blur effect to the clip on Track 2.
-
-![add blur effect](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
-
-Step 9
-
-Double-click on the clip in Track 2\. Go to **Video → Effects.** Change the **Zoom Rate** to **1\.** Click **OK.** Now, find the **Glow** effect in the Effects tab and apply it **two times** to the clip on Track 2\. Copy the Track 2 clip and paste it on Track 3.
-
-Step 10
-
-Search for the **Wash** effect in the Effects tab and apply it twice to the Track 2 clip again. Just drag it two times on top of the clip.
-
-Step 11
-
-Double-click on the clip in Track 2 and change its **Blending Mode** to **“Screen”.** Do the same thing for the clip in Track 3.
-
-Step 12
-
-You’re done. The glow effect will now be applied to your video. You have successfully created a glowing edge effect in any dancing video you want. Congratulations!
-
-![](https://images.wondershare.com/filmora/article-images/2023/01/.png)
-
-Summary
-
-**What you've learned:**
-
-* How to add a glowing edge effect on any video you want
-* How to add other effects to clips in Filmora
-* Edit the settings and features of these effects and make them more unique
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-[Download Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and run the program. Once it starts, click on **“New Project”.**
-
-Step 2
-
-Go to **My Media** and Import any video you want to add a glowing edge effect to. Then, drag the video to Track 1 on the Timeline.
-
-![import video filmora](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3
@@ -592,6 +492,93 @@ Step 7
 Delete the clip on Track 1\. Then, move the clip from Track 2 to Track 1\. Now, Import the clip that you just Exported and drag it to Track 2.
 
 ![import clip to filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
+
+Step 8
+
+Go to **Effects** and find the **Blur** effect. Drag the Blur effect to the clip on Track 2.
+
+![add blur effect](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
+
+Step 9
+
+Double-click on the clip in Track 2\. Go to **Video → Effects.** Change the **Zoom Rate** to **1\.** Click **OK.** Now, find the **Glow** effect in the Effects tab and apply it **two times** to the clip on Track 2\. Copy the Track 2 clip and paste it on Track 3.
+
+Step 10
+
+Search for the **Wash** effect in the Effects tab and apply it twice to the Track 2 clip again. Just drag it two times on top of the clip.
+
+Step 11
+
+Double-click on the clip in Track 2 and change its **Blending Mode** to **“Screen”.** Do the same thing for the clip in Track 3.
+
+Step 12
+
+You’re done. The glow effect will now be applied to your video. You have successfully created a glowing edge effect in any dancing video you want. Congratulations!
+
+![](https://images.wondershare.com/filmora/article-images/2023/01/.png)
+
+Summary
+
+**What you've learned:**
+
+* How to add a glowing edge effect on any video you want
+* How to add other effects to clips in Filmora
+* Edit the settings and features of these effects and make them more unique
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+[Download Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and run the program. Once it starts, click on **“New Project”.**
+
+Step 2
+
+Go to **My Media** and Import any video you want to add a glowing edge effect to. Then, drag the video to Track 1 on the Timeline.
+
+![import video filmora](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
+
+Step 3
+
+Copy the Clip from Track 1 and paste it on Track 2.
+
+Step 4
+
+Go to the **Effects** tab and apply the “**Pixelated Edges**” effect to the clip on Track 1\. Then, hide Track 2 by clicking the “eye” button.
+
+![add effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/effect.png)
+
+Step 5
+
+Double-click on the Clip in Track 1\. Go to **Video → Effects.** Here, change the color to anything you want. This will determine what color your glowing edge effect will be. When you’re done choosing a color, click **OK.**
+
+![glowing edge color](https://images.wondershare.com/filmora/article-images/2023/01/color.png)
+
+Step 6
+
+Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video → Basic.** Scroll down and change the **Blending Mode** to “**Difference**”. Click **OK** and **Export** the clip at a higher rate. Click on the blue Export button at the top center.
+
+![change blending mode](https://images.wondershare.com/filmora/article-images/2023/01/difference.png)
+
+Step 7
+
+Delete the clip on Track 1\. Then, move the clip from Track 2 to Track 1\. Now, Import the clip that you just Exported and drag it to Track 2.
+
+![import clip to filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 8
 
@@ -644,6 +631,13 @@ How do you rotate them manually?
 It’s is so simple and will not take much of your time.
 
 Let’s dive in…
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Rotating videos in google photos**
 
@@ -933,13 +927,6 @@ For macOS 10.14 or later
 
 Here’s How to do it…
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Rotate video at any angle
 
 You can also rotate the video by using the **Transform** tab located at the top right corner.
@@ -967,6 +954,13 @@ Similarly, you can drag the video from the preview panel and adjust it as requir
 Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
 
@@ -1014,17 +1008,18 @@ A good destiny is waiting for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-instagrams-sideways-scenario-a-visual-glitch-examined/"><u>[New] Instagram's Sideways Scenario A Visual Glitch Examined</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fostering-engagement-creating-budget-friendly-youtube-intros/"><u>[Updated] 2024 Approved Fostering Engagement Creating Budget-Friendly YouTube Intros</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-humor-hits-the-best-funny-youtube-short-ideas-on-the-block/"><u>[Updated] Humor Hits The Best Funny YouTube Short Ideas on the Block</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-beginners-guide-to-stunning-slow-motion-shooting-with-an-android/"><u>[Updated] The Beginner's Guide to Stunning Slow-Motion Shooting with an Android</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-boost-your-sales-opening-plans/"><u>2024 Approved Boost Your Sales Opening Plans</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/8-critical-reasons-for-speaking-beyond-your-mother-tongue/"><u>8 Critical Reasons for Speaking Beyond Your Mother Tongue</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amd-rx-560-driver-troubleshooting-steps-for-windows-platforms-win111087/"><u>AMD RX 560 Driver Troubleshooting Steps for Windows Platforms (Win11/10/8/7)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/cut-down-input-lag-in-cyberpunk-2077-tips-and-tricks-to-enhance-your-gaming-experience/"><u>Cut Down Input Lag in Cyberpunk 2077: Tips & Tricks to Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/review-expose-on-netgears-advanced-x6-wifi-mesh-enhancer-a-deep-dive-into-its-innovative-traits/"><u>Review Exposé on Netgear's Advanced X6 Wifi Mesh Enhancer – A Deep Dive Into Its Innovative Traits</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5-unbeatable-whatsapp-video-editor-apps-transform-your-clips/"><u>Top 5 Unbeatable WhatsApp Video Editor Apps: Transform Your Clips!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/troubleshoot-your-apex-legends-engine-glitches-with-these-easy-steps/"><u>Troubleshoot Your Apex Legends Engine Glitches with These Easy Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gourmet-guide-culinary-video-production/"><u>[New] 2024 Approved Gourmet Guide Culinary Video Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-beginners-pathway-to-custom-vocalization-expert-tips-on-modifying-sounds-free/"><u>[Updated] The Beginner's Pathway to Custom Vocalization Expert Tips on Modifying Sounds (Free)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-7-tips-to-create-teaching-videos/"><u>2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-indoor-antennas-showdown-how-the-1byone-digital-tv-signal-booster-outperforms-its-competitors-on-a-shoestring-budget/"><u>Best Indoor Antennas Showdown: How the 1BYONE Digital TV Signal Booster Outperforms Its Competitors on a Shoestring Budget</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-tecno-phantom-v-flip-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Tecno Phantom V Flip Face Lock?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-no-cost-all-benefits-with-fcp-downloads/"><u>In 2024, No Cost, All Benefits with FCP Downloads</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-m14-4g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy M14 4G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo V29 Pro | Dr.fone</u></a></li>
 </ul></div>
 

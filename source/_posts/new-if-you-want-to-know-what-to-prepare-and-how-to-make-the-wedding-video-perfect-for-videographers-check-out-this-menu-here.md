@@ -1,7 +1,7 @@
 ---
 title: New If You Want to Know What to Prepare and How to Make the Wedding Video Perfect for Videographers, Check Out This Menu Here
-date: 2024-09-07T20:09:18.892Z
-updated: 2024-09-14T16:46:08.032Z
+date: 2024-09-13T02:18:10.094Z
+updated: 2024-09-18T21:55:55.794Z
 tags: 
   - ai
   - animation videos
@@ -70,9 +70,23 @@ Some couples may want to keep their wedding video a surprise, while others will 
 
 If you're going to be filming the wedding by yourself, it's important to make sure you have all the necessary gear. However, if you're not comfortable doing this or feel like you might need some help, consider recruiting an assistant videographer. This person can help carry gear, set up equipment, and make sure everything is running smoothly on the day of the wedding.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 9\. Have some backups on hand, just in case
 
 Wedding videography is a big responsibility, and things can sometimes go wrong. Be sure to have some backups on hand, just in case. This includes extra batteries, memory cards, and cables. It's better to be safe than sorry, and having these backups will give you peace of mind knowing that you're prepared for anything.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 10\. Arrive early to set up and test your equipment
 
@@ -302,25 +316,11 @@ Go to **Elements > Smoke > Smokescreen 2**. Drag this element on top of your Ups
 
 ![drag this element on top of your upside down clip](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can adjust the opacity by double-clicking the smoke effect to open the setting.
 
 Finally, go to the **Transition > Basic > Dissolve** to the start of the smoke and adjust it when the smoke gradually appears.
 
 ![open the setting](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Resources from Filmostock
 
@@ -351,6 +351,13 @@ Step1 Take your first clip in the “normal” world and drag it down to a video
 Step2 Drag the second clip (in the Upside Down) onto the video track on the timeline after the first clip. Trim this video, so it begins in pure black and an upward motion.
 
 ![trim video](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Cut the clips to get the timing right since it should be a very fast transition. You can cut in the black frames so they won't be too apparent.
 
@@ -387,19 +394,6 @@ You can still make your clip look even more like Upside Down with some Filmora e
 Go to **Elements > Smoke > Smokescreen 2**. Drag this element on top of your Upside Down clip and trim it, so it starts at the same time the clip leaves the black frame.
 
 ![drag this element on top of your upside down clip](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-11.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can adjust the opacity by double-clicking the smoke effect to open the setting.
 
@@ -540,13 +534,6 @@ After putting the video on the timeline add some effects to your video. If you a
 After making all the editing videos, you can also select the duration according to your requirements. You can also edit the duration of your per video.
 
 ![edit the duration of the video then export it](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -721,6 +708,13 @@ Moreover, it offers an extensive library of built-in LUTs. You can take your vid
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Why Are Lumetri Color Presets Important?
 
 There are many benefits attached to the use of a **Lumetri preset**. These benefits range from saving your time and effort to enhancing your video to new heights. Given below are some factors which emphasize the importance of Lumetri color presets:
@@ -765,13 +759,6 @@ Now, you need to access the "Cine" folder within the "Lumetri" folder. Afterward
 
 ![add looks in the cine folder](https://images.wondershare.com/filmora/article-images/2023/add-looks-in-the-cine-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How To Use Lumetri LUT Presets in Premiere Pro?
 
 Now that you have installed **free Lumetri presets**, the next part is how to use them. These presets can become a powerful feature in your Premiere Pro. It will allow you to apply a pre-defined color grading effect to your footage. In this guide, we will walk you through the steps to use Lumetri LUT presets in Adobe Premiere Pro:
@@ -781,6 +768,13 @@ Now that you have installed **free Lumetri presets**, the next part is how to us
 After downloading free Lumetri presets, you need to restart your Adobe Premier Pro. Now open your project and access the "Lumetri Color” panel through “Color” from the top bar.
 
 ![lead to the color workspace](https://images.wondershare.com/filmora/article-images/2023/lead-to-the-color-workspace.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 2Lead Into Lumetri Color Section
 
@@ -839,21 +833,18 @@ Moreover, it offers an extensive library of built-in LUTs. You can take your vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-fast-track-fame-essential-tiktok-photo-hacks/"><u>[New] Fast-Track Fame Essential TikTok Photo Hacks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-proiphone-close-ups-unlocking-stunning-image-potential/"><u>[New] Proiphone Close-Ups Unlocking Stunning Image Potential</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-reverse-image-scanning-on-instagram-photos/"><u>2024 Approved Mastering Reverse Image Scanning on Instagram Photos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-motion-blur-photo-with-gimp-step-by-step-guide/"><u>2024 Approved Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-steps-to-create-makeup-videos/"><u>2024 Approved Steps to Create Makeup Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-add-green-screen-eff/"><u>Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-personalization-with-the-help-of-cookiebot-technology/"><u>Enhanced Personalization with the Help of Cookiebot Technology</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-p55plus-drfone-by-drfone-android/"><u>How to Screen Mirroring Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-visionaries-of-virtuality-industry-breakthroughs/"><u>In 2024, Visionaries of Virtuality Industry Breakthroughs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y28-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y28 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-transitions-in-adobe-premiere-pro/"><u>New How to Add Transitions in Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-in-canva-editor/"><u>New How to Loop a Video in Canva Editor</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-ultimate-film-guide-top-15-timeless-stop-motion-classics/"><u>The Ultimate Film Guide - Top 15 Timeless Stop Motion Classics</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/this-article-aims-to-show-you-how-to-improve-your-lighting-in-the-sun/"><u>This Article Aims to Show You How to Improve Your Lighting in the Sun</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transformative-tools-for-pictorial-art/"><u>Transformative Tools for Pictorial Art</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-8-best-sites-to-get-glitch-transition-for-premiere-pro/"><u>Updated In 2024, 8 Best Sites to Get Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-artisans-guide-to-professional-level-vr-captures/"><u>[New] The Artisan's Guide to Professional-Level VR Captures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-ways-to-screen-record-on-android/"><u>[Updated] 2024 Approved Best Ways to Screen Record on Android</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-for-videos-vlc-or-mx-for-2024/"><u>Best for Videos VLC or MX for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-a-stunning-light-sweep-effect-in-filmora-use-simple-and-easy-steps-to-export-a-high-quality-video-that-will-impress-even-pro-video-editors-for-2024.m/"><u>Create a Stunning Light Sweep Effect in Filmora. Use Simple and Easy Steps to Export a High-Quality Video that Will Impress Even Pro Video Editors for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-do-masking-in-after-effects-alternative-provided-for-2024/"><u>How to Do Masking in After Effects Alternative Provided for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-guide-for-setting-tiktok-countdown-timer/"><u>In 2024, Best Guide for Setting TikTok Countdown Timer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-how-to-swiftly-find-and-access-lost-reddit-discussions/"><u>In 2024, How to Swiftly Find and Access Lost Reddit Discussions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-free-ways-to-download-mobile-phone-green-screen-videos-and-pictures-no-copyright/"><u>New Free Ways to Download Mobile Phone Green Screen Videos and Pictures No Copyright</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-filter-to-video-online/"><u>New In 2024, How to Add Filter to Video Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-whats-the-best-laptops-for-video-editing-for-2024/"><u>New Whats The Best Laptops For Video Editing for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-unexplained-input-on-iphones-a-guide-to-10-fixes-for-ghost-touch-glitches/"><u>Overcoming Unexplained Input on iPhones: A Guide to 10 Fixes for Ghost Touch Glitches</u></a></li>
 </ul></div>
 

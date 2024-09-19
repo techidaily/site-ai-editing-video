@@ -1,7 +1,7 @@
 ---
 title: In 2024, Do You Want to Create a Motion Blur Effect in Your Videos? Read This Well-Described Guide to Learn How to Add Motion Blur on CapCut on iPhone and Android Devices
-date: 2024-09-11T16:00:52.476Z
-updated: 2024-09-14T17:21:12.700Z
+date: 2024-09-11T18:09:39.870Z
+updated: 2024-09-18T18:31:51.868Z
 tags: 
   - ai
   - animation videos
@@ -40,13 +40,6 @@ Step1 After adding the desired video clip in CapCut, select it and scroll in the
 Step2 Moreover, you can choose the direction and times of the motion blur effect. Once you are done, tap on the “Tick” icon. After some seconds, the motion blur effect will be applied to your video.
 
 ![set direction and times setting](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. On Android
 
@@ -91,6 +84,13 @@ Besides being a powerful video editor, you can also use this tool to add a motio
 
 **Tutorial:** To see and learn how to use Videoleap effectively, you can see a quick tutorial following this link: <https://www.youtube.com/watch?v=e7twWHCVT8U>.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. NSMB – Motion Blur Video
 
 NSMB is a special app that can also work offline to add a motion blur effect to your videos. It has a simple interface that allows you to add a motion blur effect to your video instantly. Once you have uploaded the video on this app, you can easily apply the motion blur effect with a single tap.
@@ -126,13 +126,6 @@ It also offers various types of effects and filters that can transform your vide
 
 ![node video pro video editor](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Download:** [**Android**](https://play.google.com/store/apps/details?id=com.shallwaystudio.nodevideo&hl=en&gl=US) **|** [**iOS**](https://apps.apple.com/us/app/nodevideo-poweryourcreativity/id1467362169?platform=iphone)
 
 **Key Features**
@@ -161,6 +154,13 @@ Apps like NSMB and Node Video work efficiently as they contain built-in motion b
 Motion blur effect can immensely change the dynamic of your professional videos. If you want to instruct about specific movements in your video, the motion blur effect can enhance it easily. In this article, we have shed light on **how to do motion blur on CapCut**. For more options, we have also provided three alternatives to CapCut for your additional help.
 
 **Tutorial:** To see and learn how to use Videoleap effectively, you can see a quick tutorial following this link: <https://www.youtube.com/watch?v=e7twWHCVT8U>.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. NSMB – Motion Blur Video
 
@@ -291,13 +291,6 @@ Step1 Right-click the video clip on your timeline. From the menu, select the Ret
 Step2 Move the play head where you want to change the speed. Click the arrow next to 100% and select the Add Speed Point option. Similarly, move the play head to another point and add a new speed point.
 
 ![change the speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Click on the arrow next to 100% to change the speed between two-speed points. Go to the Change Speed option and select from the preset. Based on your preset speed selection, the video's speed within the speed points will change.
 
@@ -438,13 +431,6 @@ Step3 From the menu, go to the Fast or the Slow option and select a speed preset
 
 ![export the file](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2\. Alter Uniform Speed
 
 If you want to customize the video speed as per your need, the Uniform Speed option is for you. You can select from 0.01X to 100X speed. The selected speed will be applicable to the entire video clip uniformly. Here are the steps to set uniform speed.
@@ -470,6 +456,13 @@ Step1 Place the video file onto the timeline and go to the Speed icon.
 Step2 Select the Speed Ramping option. This will open the Speed Ramping tab.
 
 ![select the speed ramping option](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 You can select any preset or select the Customize option. When you select the Customize option, you can edit the graph accordingly.
 
@@ -572,6 +565,13 @@ Step4 Double-click on the clip and visit the effects menu at the top of the scre
 
 ![opening effects menu](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Click on the ‘first color’ and select the eye dropper tool. This will allow us to select the red flower in the preview window. You can also click different parts of the image to get the color that we want.
 
 ![select the first color and eye dropper tool](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-14.jpg)
@@ -633,13 +633,6 @@ You might ask how do we use the eyedropper tool here. It can sample colors from 
 Step1 As same as the first one, launching Wondershare Filmora is the first priority. And drag your clip to the timeline.
 
 ![drag clip to timeline](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Go to effects at the top, and find Newblue effects, and click on the Newblue filters.
 
@@ -714,6 +707,13 @@ Step5 For Transition Point Type, select Time(milliseconds) option. In the Transi
 Step6 If your video animation has audio, go to Audio Monitoring and select Monitor and Output option from the dropdown. For Audio Fade Style, you can select Crossfade option for better output.
 
 ![audio monitor output obs](https://images.wondershare.com/filmora/article-images/2022/07/audio-monitor-output-obs.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step7 Scroll down and click on Preview Transition button to check if the stinger transition is taking place as expected. You can adjust the transition point and other parameters to get it perfect.
 
@@ -815,18 +815,16 @@ Go to the OBS Forums from where you get to download transitions for OBS Studio. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/harting-the-undisclosed-territories-of-youtube-videos-for-2024/"><u>[New] Charting the Undisclosed Territories of YouTube Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-shattering-periscope-leading-video-alternatives-on-smartphones/"><u>[New] Shattering Periscope Leading Video Alternatives on Smartphones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-podcast-creation-in-garageband/"><u>[New] The Essential Guide to Podcast Creation in GarageBand</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-elevating-selfies-and-pics-on-snapchat-edit-like-a-pro/"><u>[Updated] Elevating Selfies and Pics on Snapchat – Edit Like a Pro</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-pairing-powerhouses-easy-steps-to-join-obs-zoom-for-2024/"><u>[Updated] Pairing Powerhouses Easy Steps to Join OBS, Zoom for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/amplify-iphone-imagery-with-lighting-hacks/"><u>Amplify iPhone Imagery with Lighting Hacks</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-gt-neo-5-se-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-film-a-slow-motion-video/"><u>How To Film a Slow Motion Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-a-guide-to-create-your-own-lol-montage-video-for-2024/"><u>New A Guide to Create Your Own LOL Montage Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-on-using-filmora-green-screen/"><u>New In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-metro-exodus-pc-stability-issues-top-troubleshooting-steps/"><u>Resolving Metro Exodus PC Stability Issues – Top Troubleshooting Steps</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/steps-to-fade-audio-in-premier-pro/"><u>Steps To Fade Audio In Premier Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in-this-ar/"><u>Updated Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chrome-os-talk-modifiers-selecting-the-top-5-cloud-speech-services-for-2024/"><u>Chrome OS Talk Modifiers Selecting the Top 5 Cloud Speech Services for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/giggle-guild-undead-humor-bots/"><u>Giggle Guild Undead Humor Bots</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-successfully-recover-irrecoverable-iphone-pictures-without-risk/"><u>How to Successfully Recover Irrecoverable iPhone Pictures Without Risk</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-mastery-from-novice-to-pro-video-creator/"><u>Mukbang Mastery From Novice to Pro Video Creator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-11-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 11 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
 </ul></div>
 

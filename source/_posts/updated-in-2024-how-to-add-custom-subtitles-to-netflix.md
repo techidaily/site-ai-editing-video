@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Add Custom Subtitles to Netflix
-date: 2024-09-07T18:13:49.671Z
-updated: 2024-09-14T21:19:21.698Z
+date: 2024-09-13T22:49:30.769Z
+updated: 2024-09-19T00:26:34.221Z
 tags: 
   - ai
   - animation videos
@@ -127,6 +127,13 @@ Filmora is one of the most popular and powerful video editors out there. Develop
 
 Wondershare Filmora also offers several advanced text editing tools that make it possible to customize the appearance of subtitles that you add to a video. You can change the color and size of the fonts and add a gradient effect to the text. Additionally, you can animate text to make it stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add Custom Subtitles with Filmora: A Step-by-Step Guide
 
 If you want to add subtitles to any video using Filmora, you simply need to follow the steps mentioned below. Please note that for this tutorial, we'll be using Filmora 11.
@@ -245,6 +252,13 @@ You can import your video after you've shot it to prepare it for editing. The sa
 3. Choose Time>Time Stretch by performing a right-click on the performer clip.
 4. You can alter the Stretch Factor or Duration in the dialogue box. When you alter one parameter, the other will reflect the new Stretch Factor or Duration for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 5\. Make an overlay
 
 You can alter the Stretch Factor or Duration in the dialogue box. When you alter one parameter, the other will reflect the new Stretch Factor or Duration for you.
@@ -266,6 +280,19 @@ Once you have clicked on the first image in the sequence. The time-lapse video t
 After getting our sequence to perform some kind of slow, understated animation so that it appears as though the camera is moving dramatically, we will need to export a video file. Go to File > Export > Add to Render Queue, then open the Render Queue dialog box by going to Window > Render Queue. From there, you can choose the Output Module and change the settings in the options dialog box. Finally, choose the Output To option and select the location on your computer where you would like to save the video clip that we are currently rendering and exporting.
 
 ![add to render queue after effects](https://images.wondershare.com/filmora/article-images/2022/11/add-to-render-queue-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -291,19 +318,6 @@ Although the game tentatively has a very basic graphic system, it has improved a
 
 ![minecraft motion blur featured image](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: What is Motion Blur in Games?
 
 Before you further discuss **Minecraft motion blur,** it might be vital for you to understand what the effect actually is. Motion blur effect has made a mark in video editing for presenting a realistic approach to videos.
@@ -322,18 +336,18 @@ However, you must ensure that the device you are implementing has the tendency t
 
 ![motion blur in minecraft](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Get Motion Blur in Minecraft?
 
 With an overview of the motion blur effect and what it is, we will now see how it can be obtained in the game. For the following steps, it can indeed work on the latest Minecraft versions, but it is precisely for versions 1.7.10 and 1.8.9.
 
 Furthermore, we will focus on two different techniques to go along for getting motion blur in Minecraft. Let’s proceed to find out **how to get motion blur in Minecraft** by following these two methods:
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Using PVP Clients
 
@@ -344,6 +358,13 @@ Step1 You can consider using any appropriate PVP client, such as [Lunar Client](
 Step2 Launch the client and proceed to select the version of Minecraft you are using and load the game. As you are within the game, move into the “Options” and look for “Video Settings.”
 
 ![access the video settings](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Look for the "Performance" options in the following settings and turn off "Fast Render" within the options. Once done, use the "Right Shift" button on your keyboard to access the Lunar Client menu. From there, you can set the intensity of motion blur from the available options.
 
@@ -421,13 +442,6 @@ As you have added the video, drag it on the timeline. Following this, use the pl
 
 ![split the added video](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3 Apply the Motion Blur
 
 Continue to the "Effects" tab and reach out to "Video Effects" from the left panel. Continue to search for "Blur" from the search bar. Use the first effect in the result and add it to the video in the timeline.
@@ -478,25 +492,11 @@ Continue to the "Effects" tab and reach out to "Video Effects" from the left pan
 
 ![search for the blur effect](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4 Add Transition and Export
 
 To make your video smooth, look for "Dissolve" in the "Transitions" tab. As you search for it, add it to the part of your video. Once done, use the "Export" button to get the edited gaming video with motion blur.
 
 ![export the minecraft video](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-17.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -518,17 +518,18 @@ With the guide provided, you will understand **how to get motion blur in Minecra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-solve-non-playing-fb-videos-on-iphone/"><u>[New] In 2024, Solve Non-Playing FB Videos on iPhone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-blue-band-promise-made-easy-snapping-strategies/"><u>[New] In 2024, The Blue Band Promise Made Easy Snapping Strategies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premier-cloud-storage-guide-for-enterprises/"><u>[New] Premier Cloud Storage Guide for Enterprises</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-win-11-mov-file-recording-guide-for-2024/"><u>[New] Win 11 MOV File Recording Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-gain-traction-on-youtube-deciphering-ranking-principles/"><u>[Updated] Gain Traction on YouTube Deciphering Ranking Principles</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-performance-lags-and-stutter-in-modern-warfare-2-on-windows-systems/"><u>Fixing Performance Lags & Stutter in Modern Warfare 2 on Windows Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-uncover-the-past-your-complete-guide-to-digitizing-and-preserving-old-photographs/"><u>In 2024, Uncover the Past Your Complete Guide to Digitizing & Preserving Old Photographs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10s-failure-to-shutdown-a-comprehensive-guide/"><u>Overcoming Windows 10'S Failure to Shutdown - A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722995270622-pubg-no-volume-heres-how-you-can-get-game-audio-back/"><u>PUBG No Volume? Here's How You Can Get Game Audio Back!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solution-to-stuttering-glitch-in-mass-effect-legendary-anthology-released/"><u>Solution to Stuttering Glitch in Mass Effect Legendary Anthology Released</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/success-story-escaping-the-sea-of-thieves-loading-screen-glitch/"><u>Success Story: Escaping the Sea of Thieves Loading Screen Glitch</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-guide-to-the-best-of-the-best-linksys-wrt3200acm-and-its-open-source-superiority/"><u>The Ultimate Guide to the Best of the Best: Linksys WRT3200ACM and Its Open-Source Superiority</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-uncomplicated-gameplay-saving-in-warframe/"><u>[Updated] In 2024, Uncomplicated Gameplay Saving in Warframe</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/elevate-engagement-the-most-effective-tiktok-handle-ideas-for-2024/"><u>Elevate Engagement The Most Effective TikTok Handle Ideas for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-specs-and-pricing-apples-latest-audio-ready-wearable-device-rumors-and-release-dates-revealed/"><u>Exploring the Specs and Pricing: Apple's Latest Audio-Ready Wearable Device Rumors & Release Dates Revealed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-can-i-control-speed-of-a-video/"><u>How Can I Control Speed of a Video</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone-for-2024/"><u>How to Loop a Video with iMovie on Mac and iPhone for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hps-thunderbolt-station-g2-find-the-right-driver-for-120w-and-230w-models-here/"><u>HP's Thunderbolt Station G2: Find the Right Driver for 120W & 230W Models Here</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-wish-to-learn-about-some-tools-to-slow-down-a-video-discover-how-to-slow-down-time-lapse-on-iphone-throughout-this-article/"><u>In 2024, Do You Wish to Learn About some Tools to Slow Down a Video? Discover How to Slow Down Time Lapse on iPhone Throughout This Article</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-guide-to-overlay-videos-in-premiere-pro/"><u>In 2024, Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-vacation-slideshow-in-5-minutes/"><u>In 2024, How to Create a Vacation Slideshow in 5 Minutes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-want-to-loop-a-video-to-extend-its-duration-you-can-use-imovie-to-loop-a-video-on-your-mac-and-iphone-and-we-will-illustrate-how-to-loop-a-video-in-/"><u>In 2024, Want to Loop a Video to Extend Its Duration? You Can Use iMovie to Loop a Video on Your Mac and iPhone and We Will Illustrate How to Loop a Video in iMovie</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximizing-speaker-levels-in-windows-11-essential-tips-and-tricks/"><u>Maximizing Speaker Levels in Windows 11: Essential Tips & Tricks</u></a></li>
 </ul></div>
 

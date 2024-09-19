@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey
-date: 2024-09-08T21:00:28.552Z
-updated: 2024-09-15T00:24:18.448Z
+date: 2024-09-18T01:42:04.006Z
+updated: 2024-09-19T02:09:52.368Z
 tags: 
   - ai
   - animation videos
@@ -119,13 +119,6 @@ To get started with Chat-GPT for your motivation status video:
 Imagine having the capability to request specific quotes on themes like "overcoming challenges" or "embracing change" and receiving phrases that could potentially go viral on social media! With Chat-GPT, you have a personal quote-generator at your fingertips.
 
 But what if you're targeting events? For those creating Republic Day status videos, you can request patriotic quotes that ignite national pride or reflect upon the nation's journey.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Quick solution: Filmora AI Editing tool
 
@@ -271,73 +264,12 @@ _If you do not already have CyberLink PowerDirector 365, download the software b
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-3.jpeg)
 
-**Step 4:** Pick either corner of the frame visible around the video and set the area you want the clip to focus upon; following this, click Save.
-
-![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-4.jpeg)
-
-This action will crop the video clip according to your desired size.
-
-**Tip**:
-
-The activation of Keyframes while cropping will allow you to create an effect that slowly zooms into the footage. To do this, set Keyframe Point 1 at a specific time (say the fifth second) and at one zoom level (say zero) and create Keyframe Point 2 at another time (fifteenth second) and a different zoom level (say fifty). So, between the fifth second and fifteenth second, the zoom will steadily increase and raise emphasis on an object. You can also add an element of position to this action if you want the focus to be on something not in the center of the screen.
-
-**Definition:** Keyframes while Video Editing is a software-based feature that allows you to set In and Out Points, giving clips between the two positions different properties that change as the playhead continues to move. These properties can be increased zoom, rotation, different colors, or even a gradual pan.
-
-We recommend experimenting with this feature if you want to bring a more dynamic feeling to your video project.
-
-## **An Easier Way to Crop Video with Wondershare Filmora**
-
-While Cyberlink PowerDirector 365 is a powerful video editing tool, in our experience, its menus are not as simple to navigate as some of the other competing video editing tools available, Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) included.
-
-An emphasis on quick accessibility is present with Filmora, and we believe this is a huge plus for beginning creators. The use of iconography resemblant to mobile software is another aspect that helps increase familiarity.
-
-_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
-
-Now, to help you learn how to use the Crop Tool and to show you an example of what we mean, here is how you can use the feature Wondershare Filmora to get the desired output.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-Once you have the software open, follow the steps listed below.
-
-**Step 1:** Import the Media File into your Video Project.
-
-![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-5.jpeg)
-
-**Step 2:** Drag the clip onto the Timeline and then select it to activate further interactions.
-
-![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-6.jpeg)
-
-**Step 3:** Choose the Crop Options (marked in Red) to open the Crop window.
-
-![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-7.jpeg)
-
-**Step 4:** Pick any edge within the visible box and resize them to select the portion you want to keep in the clip.
-
-![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-8.jpeg)
-
-Having read this bit of the guide, we believe you may have noticed how Filmora is more convenient due to the easier access it provides to the crop function.
-
-## The Bottom Line
-
-So, at the end of the day, both software listed in this article are fully functional and highly-capable video editing tools, but saving time spent in front of the computer is a huge factor for any video editor.
-
-And Wondershare Filmora does just that with its modern iconography and increased accessibility. With its thoughtful, less-frills approach, Filmora is the one to pick if you do not want to be bogged down by needless menus and have to hunt for actions that will help you create a video that you would want to watch yourself.
-
-**Note:** Full Mode in Cyberlink PowerDirector 365 provides access to a full-featured video editing tool, similar to Wondershare Filmora. The other available options cater to distinct video types.
-
-**Step 2:** Import media onto the Timeline from the Media Library; in this guide, we have gone ahead and used the pre-existing stock footage.
-
-![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-2.jpeg)
-
-**Step 3:** Now, click on the video file on the Timeline; this will activate the video toolbar giving you access to the various controls built into PowerDirector 365\. Hover over the tools open, following which you need to click on the Crop, Zoom, and Pan option.
-
-![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-3.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Pick either corner of the frame visible around the video and set the area you want the clip to focus upon; following this, click Save.
 
@@ -474,6 +406,88 @@ And Wondershare Filmora does just that with its modern iconography and increased
 **Step 3:** Now, click on the video file on the Timeline; this will activate the video toolbar giving you access to the various controls built into PowerDirector 365\. Hover over the tools open, following which you need to click on the Crop, Zoom, and Pan option.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-3.jpeg)
+
+**Step 4:** Pick either corner of the frame visible around the video and set the area you want the clip to focus upon; following this, click Save.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-4.jpeg)
+
+This action will crop the video clip according to your desired size.
+
+**Tip**:
+
+The activation of Keyframes while cropping will allow you to create an effect that slowly zooms into the footage. To do this, set Keyframe Point 1 at a specific time (say the fifth second) and at one zoom level (say zero) and create Keyframe Point 2 at another time (fifteenth second) and a different zoom level (say fifty). So, between the fifth second and fifteenth second, the zoom will steadily increase and raise emphasis on an object. You can also add an element of position to this action if you want the focus to be on something not in the center of the screen.
+
+**Definition:** Keyframes while Video Editing is a software-based feature that allows you to set In and Out Points, giving clips between the two positions different properties that change as the playhead continues to move. These properties can be increased zoom, rotation, different colors, or even a gradual pan.
+
+We recommend experimenting with this feature if you want to bring a more dynamic feeling to your video project.
+
+## **An Easier Way to Crop Video with Wondershare Filmora**
+
+While Cyberlink PowerDirector 365 is a powerful video editing tool, in our experience, its menus are not as simple to navigate as some of the other competing video editing tools available, Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) included.
+
+An emphasis on quick accessibility is present with Filmora, and we believe this is a huge plus for beginning creators. The use of iconography resemblant to mobile software is another aspect that helps increase familiarity.
+
+_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
+
+Now, to help you learn how to use the Crop Tool and to show you an example of what we mean, here is how you can use the feature Wondershare Filmora to get the desired output.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Once you have the software open, follow the steps listed below.
+
+**Step 1:** Import the Media File into your Video Project.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-5.jpeg)
+
+**Step 2:** Drag the clip onto the Timeline and then select it to activate further interactions.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-6.jpeg)
+
+**Step 3:** Choose the Crop Options (marked in Red) to open the Crop window.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-7.jpeg)
+
+**Step 4:** Pick any edge within the visible box and resize them to select the portion you want to keep in the clip.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-8.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Having read this bit of the guide, we believe you may have noticed how Filmora is more convenient due to the easier access it provides to the crop function.
+
+## The Bottom Line
+
+So, at the end of the day, both software listed in this article are fully functional and highly-capable video editing tools, but saving time spent in front of the computer is a huge factor for any video editor.
+
+And Wondershare Filmora does just that with its modern iconography and increased accessibility. With its thoughtful, less-frills approach, Filmora is the one to pick if you do not want to be bogged down by needless menus and have to hunt for actions that will help you create a video that you would want to watch yourself.
+
+**Note:** Full Mode in Cyberlink PowerDirector 365 provides access to a full-featured video editing tool, similar to Wondershare Filmora. The other available options cater to distinct video types.
+
+**Step 2:** Import media onto the Timeline from the Media Library; in this guide, we have gone ahead and used the pre-existing stock footage.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-2.jpeg)
+
+**Step 3:** Now, click on the video file on the Timeline; this will activate the video toolbar giving you access to the various controls built into PowerDirector 365\. Hover over the tools open, following which you need to click on the Crop, Zoom, and Pan option.
+
+![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-3.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Pick either corner of the frame visible around the video and set the area you want the clip to focus upon; following this, click Save.
 
@@ -621,16 +635,16 @@ Filmora's time-lapse or fast motion effect makes your video clip play faster. Th
 
 Transitions improve the flow of your montage video and help you capture the viewers' attention, as they make it look professional and cinematic. Filmora has loads of transitions that you can add between video clips to add interest and improve the flow of your montage video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Overlays
 
 Filmora has tons of overlays that you can apply to your CSGO montage videos. You can overlay a video clip on a video and an image or photo on your video. You can also size and mask the video overlay, adjust the position of the overlay, and add elements and animation to your video overlay.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Filters
 
@@ -643,13 +657,6 @@ Grow Together
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step-By-Step Guide to Adding Effects to Your CSGO Montage Using Filmora
 
@@ -693,10 +700,10 @@ Pan & Zoom
 ![Make CSGO Montage with Filmora - Fast Motion](https://images.wondershare.com/filmora/article-images/2022/05/csgo-montage-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Fast Motion
@@ -745,13 +752,6 @@ Add Filters
 1. To pan and zoom your video, right-click on your video in the timeline, then select the Video option and click on Crop and Zoom. Now select the Pan & Zoom option. You'll see frames marked blue and orange over the video clip viewer. Click the Start frame, then modify the pan and zoom with the resizer and dragger to get the desired results before clicking the End frame.
 
 ![Make CSGO Montage with Filmora - pan and zoom](https://images.wondershare.com/filmora/article-images/2022/05/csgo-montage-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Pan & Zoom
 
@@ -783,19 +783,19 @@ You can make an impressive CSGO montage video that will capture the attention of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-amplifying-video-clarity-on-youtube/"><u>[Updated] Amplifying Video Clarity on YouTube</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unleash-your-full-potential-in-tiktok-video-making-with-templates/"><u>2024 Approved Unleash Your Full Potential in TikTok Video Making with Templates</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/abbyy-welcomes-clayton-c-peddy-in-role-of-chief-information-security-officer/"><u>ABBYY Welcomes Clayton C. Peddy in Role of Chief Information Security Officer</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-strobe-light-text-effect-in-2024/"><u>How to Make Strobe Light Text Effect, In 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-civi-3-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi Civi 3 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-steps-to-add-subtitles-in-canva/"><u>In 2024, Steps to Add Subtitles in Canva</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-win11s-accessibility-keys/"><u>Mastering Win11's Accessibility Keys</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-use-virtual-green-screen-to-shoot-video/"><u>New 2024 Approved How To Use Virtual Green Screen to Shoot Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-creating-motivational-videos-with-ai-comprehensive-guide-2024/"><u>New Creating Motivational Videos with AI Comprehensive Guide 2024</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-12-pro-max-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 12 Pro Max using icloud website</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/viewership-volume-the-financial-impact-of-one-million-views-for-2024/"><u>Viewership Volume The Financial Impact of One Million Views for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vsco-slow-motion/"><u>VSCO Slow Motion</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamlining-sound-recording-a-filmmakers-handbook-on-voice-overs/"><u>[New] 2024 Approved Streamlining Sound Recording A Filmmaker's Handbook on Voice-Overs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-adjusting-youtubes-viewership-limits-for-content/"><u>[Updated] 2024 Approved Adjusting YouTube's Viewership Limits for Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-accelerate-engagement-quick-instagram-likes-and-videos-strategy-for-2024/"><u>[Updated] Accelerate Engagement Quick Instagram Likes and Videos Strategy for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-twit-tumble-sharing-videos-seamlessly/"><u>[Updated] In 2024, Twit-Tumble Sharing Videos Seamlessly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iphone-tricks-adjusting-picture-size-efficiently/"><u>[Updated] IPhone Tricks Adjusting Picture Size Efficiently</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-100plus-best-tiktok-captions-enhance-your-content/"><u>2024 Approved 100+ Best TikTok Captions Enhance Your Content</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oneplus-nord-3-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your OnePlus Nord 3 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-camon-30-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Camon 30 Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-icloud-capacity-a-step-by-step-guide-to-clearing-space-and-earn-extra-storage/"><u>Maximize Your iCloud Capacity: A Step-by-Step Guide to Clearing Space & Earn Extra Storage</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-and-tricks-to-keep-spotify-running-smoothly-on-iphones/"><u>Tips and Tricks to Keep Spotify Running Smoothly on iPhones</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-video-contents-that-convert-sales-for-2024/"><u>Updated How to Create Video Contents That Convert Sales for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora-in-2024/"><u>Updated How To Make a Video by Mouse in Filmora, In 2024</u></a></li>
 </ul></div>
 

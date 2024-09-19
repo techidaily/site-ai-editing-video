@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Step by Step to Crop Videos Using Lightworks
-date: 2024-09-12T18:48:43.668Z
-updated: 2024-09-14T21:07:03.000Z
+date: 2024-09-12T18:38:28.784Z
+updated: 2024-09-18T19:16:59.096Z
 tags: 
   - ai
   - animation videos
@@ -67,6 +67,13 @@ For Win 7 or later (64-bit)
 
 For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step-by-step on how to crop videos using Filmora?
 
 Step 1: Open a video that you want to edit.
@@ -81,11 +88,74 @@ Step 3: Drag the cursor from any corner of your video preview window so as to ad
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-7.jpeg)
 
+Step 4: Once you have adjusted it as per your needs hit the green "OK" button. So, this is how you can add or remove any part of a video clip on Filmora easily.
+
+This free video editing tool offers great features for users and helps them edit home videos without any hassle.
+
+Those who are looking for an easy to use online tool with user-friendly interface and advanced features can go for Wondershare Filmora. It is one of the best video editing software for beginners which will help them edit videos quickly and efficiently.
+
+Step 2: After importing your videos into Lightworks, you can now proceed towards cropping them. For this purpose, click on the video editing tab and select the "DVE" (Dynamic Video Effect) tool.
+
+![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-2.jpeg)
+
+![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-3.jpeg)
+
+Step 3: How to crop videos using the DVE tool? You can now go to the ‘Crop’ option under the DVE tab and move your cursor over any unwanted portion of the video and click-and-drag it down and in the right direction. This will distort and stretch the video to remove that particular portion from there while preserving its overall appearance and quality.
+
+![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-4.jpeg)
+
+Step 4: You can now preview what your video looks like after cropping it by hitting the "Play" button. Hit play to view any changes you have made to your videos.
+
+Step 5: Hit the "Close" button and save your project.
+
+So, this is how you can edit or remove part of a video clip in Lightworks easily. You can also go for some other online tools which are available on the internet and offer great services at no cost for life time. Many of these tools are free to use, easy to handle and have amazing features that can be used by professionals to get their work done beautifully.
+
+There are many video cropping tools available on the internet which can be used for free. Those who are looking for a free, easy to use video editor can download and use this tool without any hassle. That is why; Filmora is best alternative of Lightworks, which offers free version of simple editing tools with all the features you need for your home videos. The free version of this tool is available for Windows; Mac; and Linux operating systems.
+
+## An Easier Way to Crop Video Using Filmora
+
+[Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is an easy to use free video editing software that can be used for cropping videos. It allows users to upload their videos online and create new ones or edit existing ones. The steps involved in cropping videos in Filmora are very easy and to the point so you can follow them without any hassle.
+
+It also comes in two versions; free and paid. The free version has less editing tools than the paid one but offers a good enough range of options for beginners who are not looking to make pro-quality movies just yet.
+
+Filmora (video editor) is a power software that allows you to make the most impressive video clips with few steps. This video editing tool gives users various tools to edit videos. It also offers the user-friendly interface that anyone can use to edit home videos on Windows PC, Mac, and Linux devices.
+
+You can download Filmora free video editor from the official website easily. Just visit the behind the link and click on 'Download' to get the installer file. Once you have downloaded it, you need to install Filmora software on your computer to start using it. Or install it using the link below:
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+### Step-by-step on how to crop videos using Filmora?
+
+Step 1: Open a video that you want to edit.
+
+![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-5.jpeg)
+
+Step 2: Open the Filmora editing tool and select the "Crop and Zoom" icon.
+
+![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-6.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 3: Drag the cursor from any corner of your video preview window so as to adjust the size of the crop frame.
+
+![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-7.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4: Once you have adjusted it as per your needs hit the green "OK" button. So, this is how you can add or remove any part of a video clip on Filmora easily.
@@ -195,69 +265,6 @@ Step 1: Open a video that you want to edit.
 Step 2: Open the Filmora editing tool and select the "Crop and Zoom" icon.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-6.jpeg)
-
-Step 3: Drag the cursor from any corner of your video preview window so as to adjust the size of the crop frame.
-
-![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-7.jpeg)
-
-Step 4: Once you have adjusted it as per your needs hit the green "OK" button. So, this is how you can add or remove any part of a video clip on Filmora easily.
-
-This free video editing tool offers great features for users and helps them edit home videos without any hassle.
-
-Those who are looking for an easy to use online tool with user-friendly interface and advanced features can go for Wondershare Filmora. It is one of the best video editing software for beginners which will help them edit videos quickly and efficiently.
-
-Step 2: After importing your videos into Lightworks, you can now proceed towards cropping them. For this purpose, click on the video editing tab and select the "DVE" (Dynamic Video Effect) tool.
-
-![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-2.jpeg)
-
-![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-3.jpeg)
-
-Step 3: How to crop videos using the DVE tool? You can now go to the ‘Crop’ option under the DVE tab and move your cursor over any unwanted portion of the video and click-and-drag it down and in the right direction. This will distort and stretch the video to remove that particular portion from there while preserving its overall appearance and quality.
-
-![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-4.jpeg)
-
-Step 4: You can now preview what your video looks like after cropping it by hitting the "Play" button. Hit play to view any changes you have made to your videos.
-
-Step 5: Hit the "Close" button and save your project.
-
-So, this is how you can edit or remove part of a video clip in Lightworks easily. You can also go for some other online tools which are available on the internet and offer great services at no cost for life time. Many of these tools are free to use, easy to handle and have amazing features that can be used by professionals to get their work done beautifully.
-
-There are many video cropping tools available on the internet which can be used for free. Those who are looking for a free, easy to use video editor can download and use this tool without any hassle. That is why; Filmora is best alternative of Lightworks, which offers free version of simple editing tools with all the features you need for your home videos. The free version of this tool is available for Windows; Mac; and Linux operating systems.
-
-## An Easier Way to Crop Video Using Filmora
-
-[Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is an easy to use free video editing software that can be used for cropping videos. It allows users to upload their videos online and create new ones or edit existing ones. The steps involved in cropping videos in Filmora are very easy and to the point so you can follow them without any hassle.
-
-It also comes in two versions; free and paid. The free version has less editing tools than the paid one but offers a good enough range of options for beginners who are not looking to make pro-quality movies just yet.
-
-Filmora (video editor) is a power software that allows you to make the most impressive video clips with few steps. This video editing tool gives users various tools to edit videos. It also offers the user-friendly interface that anyone can use to edit home videos on Windows PC, Mac, and Linux devices.
-
-You can download Filmora free video editor from the official website easily. Just visit the behind the link and click on 'Download' to get the installer file. Once you have downloaded it, you need to install Filmora software on your computer to start using it. Or install it using the link below:
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-### Step-by-step on how to crop videos using Filmora?
-
-Step 1: Open a video that you want to edit.
-
-![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-5.jpeg)
-
-Step 2: Open the Filmora editing tool and select the "Crop and Zoom" icon.
-
-![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-6.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Drag the cursor from any corner of your video preview window so as to adjust the size of the crop frame.
 
@@ -430,13 +437,6 @@ Sales videos are all about encouraging potential customers to buy a product or s
 
 ![Sales videos](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sales videos
 
 A sales video is a powerful tool that can help you to generate sales leads and close more deals. By providing potential customers with an overview of your products or services, you can give them the information they need to make an informed purchase decision. In addition, a sales video can help to build trust and credibility with your audience. By featuring testimonials from satisfied customers, you can show potential buyers that your products or services deliver on their promises.
@@ -486,6 +486,19 @@ Strong Hook
 Attention-Grabbing Headline
 
 You only have a few seconds to make a strong impression. Use a strong wisely and you'll soon see your sales start to climb.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Keep It Short And Sweet
 
@@ -550,18 +563,18 @@ Use Persuasive Language
 * Discount
 * Cancel anytime
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Include a Strong Call to Action
 
 Tell audience exactly what you want them to do after watching your video - such as subscribing to your channel, visiting your website or sending a message to your social media page. Make it easy for them to take action by including clickable links.
 
 ![Call to Action ](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-09.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Call to Action
 
@@ -657,13 +670,6 @@ When creating a video that is designed to convert viewers into paying customers,
 
 Focus on the Viewer
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Use Persuasive Language
 
 There's no denying it – persuasive language is a powerful tool for sales. By speaking in a way that encourages your audience to take action, you can convince them to buy your product or service. And when it comes to sales, every little bit counts.
@@ -753,17 +759,21 @@ Wrap Up
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-exploring-the-best-10-editors-to-craft-professional-reels/"><u>[New] Exploring the Best 10 Editors to Craft Professional Reels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-maximize-your-gameplay-the-funimate-way/"><u>[New] Maximize Your Gameplay - The Funimate Way</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-leading-tech-for-remote-team-engagement/"><u>[Updated] In 2024, Leading Tech for Remote Team Engagement</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-navigating-netizen-networks-examining-your-and-competing-channels/"><u>[Updated] In 2024, Navigating Netizen Networks Examining Your and Competing Channels</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-loom-studio-sync-screen-record-features-explained-for-2024/"><u>[Updated] Loom Studio Sync Screen Record Features Explained for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-record-video-in-slow-motion-comprehending-important-points/"><u>New In 2024, How To Record Video in Slow Motion Comprehending Important Points</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722995270622-pubg-no-volume-heres-how-you-can-get-game-audio-back/"><u>PUBG No Volume? Here's How You Can Get Game Audio Back!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solving-your-razer-mic-issues-five-simple-solutions-to-restore-audio-functionality/"><u>Solving Your Razer Mic Issues: Five Simple Solutions to Restore Audio Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/success-story-escaping-the-sea-of-thieves-loading-screen-glitch/"><u>Success Story: Escaping the Sea of Thieves Loading Screen Glitch</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-guide-to-the-best-of-the-best-linksys-wrt3200acm-and-its-open-source-superiority/"><u>The Ultimate Guide to the Best of the Best: Linksys WRT3200ACM and Its Open-Source Superiority</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ultra-fast-language-learning-secrets/"><u>Ultra-Fast Language Learning Secrets</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/updating-ati-graphics-card-drivers-on-your-pc-a-step-by-step-guide/"><u>Updating ATI Graphics Card Drivers on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unveiling-the-secrets-of-facebook-video-content-success/"><u>[New] 2024 Approved Unveiling the Secrets of Facebook Video Content Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-innovations-in-podcast-titling-with-ai-assistants/"><u>[New] Top Innovations in Podcast Titling with AI Assistants</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-story-perfection-seamless-emoji-integration-techniques/"><u>2024 Approved Instagram Story Perfection Seamless Emoji Integration Techniques</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-make-eye-zoom-transition-effect-with-filmora/"><u>2024 Approved Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-step-by-step-guide-to-thriving-in-discord/"><u>2024 Approved Step-by-Step Guide to Thriving in Discord</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-chatgpt-options-which-is-better-online-access-or-add-on-installations/"><u>Comparing ChatGPT Options: Which Is Better, Online Access or Add-On Installations?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-looking-for-cool-ideas-to-use-green-screen-and-how-setting-up-your-green-screen-keep-reading-since-we-have-the-answer-for-you/"><u>In 2024, Are You Looking for Cool Ideas to Use Green Screen and How Setting up Your Green Screen? Keep Reading Since We Have the Answer for You</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-expression-in-after-effects/"><u>In 2024, How to Add Expression in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-font-effect/"><u>In 2024, How to Add Font Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-merge-audio-and-video-in-vlc-media-player/"><u>In 2024, How to Merge Audio and Video in VLC Media Player</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-motion-text-effects-for-your-video/"><u>New How to Create Motion Text Effects for Your Video?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011404908-no-more-speculation-confirmed-date-and-availability-of-assassins-creed-valhalla/"><u>No More Speculation: Confirmed Date and Availability of Assassin's Creed Valhalla.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-nvidia-web-helper-no-disk-error/"><u>Solved Nvidia Web Helper No Disk Error</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-6-youtube-outros-made-easy-and-free-guide-for-2024/"><u>Top 6 YouTube Outros Made Easy & FREE (Guide) for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-resolving-gameloops-instability-issues-on-windows-11-and-10-systems/"><u>Ultimate Solution: Resolving GameLoop's Instability Issues on Windows 11 and 10 Systems</u></a></li>
 </ul></div>
 

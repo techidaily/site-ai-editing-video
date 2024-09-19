@@ -1,7 +1,7 @@
 ---
 title: New How To Make a Video by Mouse in Filmora for 2024
-date: 2024-09-10T23:24:39.641Z
-updated: 2024-09-14T16:22:25.916Z
+date: 2024-09-14T16:18:06.005Z
+updated: 2024-09-18T19:08:07.109Z
 tags: 
   - ai
   - animation videos
@@ -124,13 +124,6 @@ You can add some transitions to give your music video a fine touch**.** To add t
 
 ![adding effects on wondershare filmora 11](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-8.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * First, **click** on the transition icon on the bar above. Then, browse as far as your imagination takes you.
 * If the effect you want still needs to be downloaded, click on the **download** icon in the bottom right corner and download the effect.
 * Click on the effect and drag it to drop it on your video. It will create a **smooth transition** while shifting from one video to the other.
@@ -170,6 +163,13 @@ You can add some transitions to give your music video a fine touch**.** To add t
 
 ![adding effects on wondershare filmora 11](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-8.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * First, **click** on the transition icon on the bar above. Then, browse as far as your imagination takes you.
 * If the effect you want still needs to be downloaded, click on the **download** icon in the bottom right corner and download the effect.
 * Click on the effect and drag it to drop it on your video. It will create a **smooth transition** while shifting from one video to the other.
@@ -192,6 +192,13 @@ If you have time, you can also add a few of the effects in the Wondershare Filmo
 It seems our 15 minutes are running out! Play the music video from the beginning and review the edits you made. Then, finalize your edits and Voila. You have successfully created a music video using a mouse on Wondershare Filmora.
 
 So in a rare scenario when you don't have a keyboard, you can just use your mouse to browse the Wondershare Filmora and put those creative ideas to work.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -279,13 +286,6 @@ Here, you may play with a variety of visual effects and customize them to suit y
 
 ![how to use visual effect for zoom](https://images.wondershare.com/filmora/article-images/2022/07/choose-video-filter-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4Set Lighting Effects to on
 
 Select "Adjust for low light" in the video options. For your lighting, you may choose between Auto and Manual effects. Zoom will automatically detect and adapt for the lighting in your room if you choose Auto.
@@ -356,6 +356,13 @@ Zoom has been developing on a new feature called Studio Effects that would give 
 
 This function is intended for less formal settings, such as gatherings of friends or family. Anyone who wants to seem more professional during meetings has access to Studio Effects, which offers the choice of various eyebrow colors, beards, and lipsticks. These are a few recently added features. You may add mustaches, beards, and brows in a variety of designs, hues, and intensities. Additionally, you have the option of coloring your lips.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Add Visual Effects to Zoom
 
 Along with facilitating online meetings, the Zoom program also lets you play with its visual effects. You just need to make a few adjustments to the video settings or utilize another third-party program to be ready to go.
@@ -375,6 +382,13 @@ After logging in to Zoom, use these settings. - Options > Camera > Video
 Here, you may play with a variety of visual effects and customize them to suit your tastes. Pick one of the numerous filters that are offered. To activate the filter, tap it.
 
 ![how to use visual effect for zoom](https://images.wondershare.com/filmora/article-images/2022/07/choose-video-filter-zoom.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4Set Lighting Effects to on
 
@@ -419,6 +433,13 @@ The most popular video meeting tool worldwide is Zoom. Family, friends, coworker
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ReVisionFX ReelSmart Motion Blur Plugin For Premiere Pro
 
@@ -480,13 +501,6 @@ Open Adobe Premiere Pro in your system and start with a new project. On the newl
 
 ![add your video to premiere pro](https://images.wondershare.com/filmora/article-images/2023/02/reelsmart-motion-blur-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2 Search for RSMB Effect
 
 Once you have dropped the video into the timeline, navigate to the “Effects” tab given on the right side. On the search box, type "RSMB." From the fetched results, select RSMB and apply it to the above layer of your video clip in the timeline.
@@ -544,25 +558,11 @@ Once you have dropped the video into the timeline, navigate to the “Effects”
 
 ![search for rsmb effect](https://images.wondershare.com/filmora/article-images/2023/02/reelsmart-motion-blur-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3 Adjust the Plugin Settings
 
 Now head to the settings on the left side and enable the GPU settings. Moreover, you can increase the blur amount to 1 or 1.5\. By doing so, you can create a smoother look in your video. Once done with the settings, make sure to render your video to produce a smooth finish. Once done with rendering, you can preview and save the video easily.
 
 ![enable the gpu option](https://images.wondershare.com/filmora/article-images/2023/02/reelsmart-motion-blur-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -680,18 +680,20 @@ To conclude, the rule of thirds is very important within visual media and is tou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-dive-into-digital-fandom-top-6-interactive-questionnaires-to-identify-your-youtube-spirituality-for-2024/"><u>[New] Dive Into Digital Fandom Top 6 Interactive Questionnaires to Identify Your YouTube Spirituality for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-experience-with-youtubes-comment-features/"><u>2024 Approved Streamline Your Experience with YouTube's Comment Features</u></a></li>
-<li><a href="https://win-able.techidaily.com/addressing-the-common-crash-problems-in-wot-blitz-expert-solutions/"><u>Addressing the Common Crash Problems in WoT Blitz: Expert Solutions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-audio-systems/"><u>Expert Tips on Repairing Malfunctioning Computer Audio Systems</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/explore-with-akasos-ek7000-high-quality-economical-adventure-tool/"><u>Explore with AKASO's EK7000: High-Quality, Economical Adventure Tool</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fix-your-cod-modern-warfare-voice-chat-a-comprehensive-solution/"><u>Fix Your CoD: Modern Warfare Voice Chat - A Comprehensive Solution</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ignite-your-online-presence-nine-essential-tips-for-mastering-instagram-stardom-for-2024/"><u>Ignite Your Online Presence Nine Essential Tips for Mastering Instagram Stardom for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-itel-p55t-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Itel P55T Face Lock?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revitalize-your-system-expert-tips-for-effective-computer-defrag-on-windows-10-with-revouninstaller-software/"><u>Revitalize Your System: Expert Tips for Effective Computer Defrag on Windows 10 with RevoUninstaller Software</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solving-your-razer-mic-issues-five-simple-solutions-to-restore-audio-functionality/"><u>Solving Your Razer Mic Issues: Five Simple Solutions to Restore Audio Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-guide-to-the-best-of-the-best-linksys-wrt3200acm-and-its-open-source-superiority/"><u>The Ultimate Guide to the Best of the Best: Linksys WRT3200ACM and Its Open-Source Superiority</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/unpacking-the-mini-powerhouse-in-depth-analysis-of-the-3rd-gen-amazon-echo-dots-alexa-capabilities/"><u>Unpacking the Mini-Powerhouse: In-Depth Analysis of the 3Rd Gen Amazon Echo Dot's Alexa Capabilities</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-comprehensive-guide-to-podcast-rss-feed-crafting/"><u>[Updated] Comprehensive Guide to Podcast RSS Feed Crafting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-trimming-techniques-understanding-video-crops-in-imovie/"><u>[Updated] Trimming Techniques Understanding Video Crops in iMovie</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-prime-video-broadcast-software-choice/"><u>2024 Approved Prime Video Broadcast Software Choice</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-reach-for-the-millennium-1000-youtube-supporters/"><u>2024 Approved Reach for the Millennium 1,000 YouTube Supporters</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-10-must-have-features-in-drone-gimbals/"><u>2024 Approved Top 10 Must-Have Features in Drone Gimbals</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-guide-to-zoom-video-in-vlc/"><u>Easy Guide to Zoom Video in VLC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-bokeh-effect-for-2024/"><u>How to Make a Bokeh Effect for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-xr-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone XR After iOS Update? | Stellar</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ez-grabber-user-manual-in-a-nutshell/"><u>In 2024, The EZ Grabber User Manual in a Nutshell</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/no-more-monetary-barriers-the-best-use-of-copilot-for-a-free-gpt-4-turbo/"><u>No More Monetary Barriers: The Best Use of Copilot for a Free GPT-4 Turbo</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/professional-grau-gmbh-hardware-and-software-fixes-for-seamless-video-recovery/"><u>Professional Grau GmbH Hardware & Software Fixes for Seamless Video Recovery</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unlock-efficient-editing-20-adobe-premiere-shortcuts-you-need-for-2024/"><u>Unlock Efficient Editing 20 Adobe Premiere Shortcuts You Need for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-easy-way-to-create-a-diy-green-screen-video-effect/"><u>Updated Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
 </ul></div>
 

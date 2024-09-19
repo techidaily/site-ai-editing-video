@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Add Filter to Video Online
-date: 2024-09-09T20:55:53.557Z
-updated: 2024-09-14T21:20:29.010Z
+date: 2024-09-12T00:41:11.444Z
+updated: 2024-09-18T23:27:50.036Z
 tags: 
   - ai
   - animation videos
@@ -115,13 +115,6 @@ Step1Open your web browser and visit “kapwing.com/tools/filter-video”. Click
 
 ![kapwing filter video](https://images.wondershare.com/filmora/article-images/2022/08/kapwing-filter-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2Once Kapwing video editor opens, drag and drop your video to upload on the platform. You can also paste video URL from Google Drive or Google Photos.
 
 ![upload video to kapwing](https://images.wondershare.com/filmora/article-images/2022/08/upload-video-to-kapwing.jpg)
@@ -137,6 +130,13 @@ Step4You will see a host of video filters that you can apply to your video. Clic
 Step5Select the best one and click on Apply Filters button. Finally, click on Export Project button to save the edited video.
 
 ![apply video filters kapwing](https://images.wondershare.com/filmora/article-images/2022/08/apply-video-filters-kapwing.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -212,6 +212,13 @@ Step 7: You can also use the crop frame that will appear on your screen with som
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-6.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 8: Once you have cropped your video, then go to the "File" tab in the uppermost part of the editor and select the "Save as" option and save your file.
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-7.jpeg)
@@ -342,13 +349,6 @@ Step 1: Open Filmora video editor. Go to the ‘Home’ menu and click on ‘Ope
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-8.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Click Alt + C in your keyboard. A small pop-out will show, it is for the command Crop and Zoom.
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-9.jpeg)
@@ -374,6 +374,13 @@ Step 4: From the list of options, you have to choose “Crop” option and drag 
 Step 5: After dragging it, you will see a letter ‘C’ on the clip which means crop. Right click on it and you will see few selections. Select ‘Properties’.
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-4.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 6: Under ‘Properties’, you will see a ‘Selection’ drop down. Choose ‘Crop’. You can utilize it to adjust to your preferred video size, a video preview will show on the right side of the screen.
 
@@ -435,19 +442,6 @@ Step 2: Click Alt + C in your keyboard. A small pop-out will show, it is for the
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-9.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Drag the corners of the frame to resize the size of your video or adjust position by dragging the handles. You can crop off anything outside this frame and hit “OK”.
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-10.jpeg)
@@ -455,6 +449,13 @@ Step 3: Drag the corners of the frame to resize the size of your video or adjust
 Step 4: Adjust the crop and zoom as you like and finally, click on ‘Save Project As’ to export your video.
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-11.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can download Filmora free video editor from the official website easily. Just visit the behind-the-link and click on 'Download' to get the installer file. Once you have downloaded it, you need to install Filmora software on your computer to start using it.
 
@@ -469,13 +470,6 @@ Step 4: From the list of options, you have to choose “Crop” option and drag 
 Step 5: After dragging it, you will see a letter ‘C’ on the clip which means crop. Right click on it and you will see few selections. Select ‘Properties’.
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-4.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 6: Under ‘Properties’, you will see a ‘Selection’ drop down. Choose ‘Crop’. You can utilize it to adjust to your preferred video size, a video preview will show on the right side of the screen.
 
@@ -582,6 +576,13 @@ iMovie comes pre-installed on Mac, and hence, there is no need to download and i
 Step 1: Open iMovie and click on Projects. You will see two options Movie and Trailer. Click on Movie to edit your videos.
 
 ![imovie project movie](https://images.wondershare.com/filmora/article-images/imovie-project-movie.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Click on My Movie under Project Media and go to My Media. Import your video clips and audio files under My Media.
 
@@ -767,19 +768,6 @@ Step3If you are looking for color grading, go to Color tab from the top. Go to L
 
 Step4Thereafter, you can adjust certain parameters like intensity, saturation, sharpen as per requirements. You can also go for Basic correction which acts like applying a filter to your videos.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Alternative Way to Add Video Filters
 
 If you find the steps on how to add colour filter in Premiere Pro difficult or the filters are not appealing to you, you can opt for an alternative. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as the best alternative to Premiere Pro to add video filters. Filmora comes with a super easy and intuitive and applying filter to your videos cannot get any easier.
@@ -854,15 +842,20 @@ If you are using Adobe Premiere Pro to edit your videos, adding filters to your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-buzzfeed-gurus-flashing-with-snapchat/"><u>[New] BuzzFeed Gurus Flashing with Snapchat</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-srt-production-via-xml-ssa-and-ttml-conversions/"><u>[Updated] In 2024, SRT Production via XML, SSA & TTML Conversions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-choosing-a-tunefab-recorder/"><u>[Updated] In 2024, The Ultimate Guide to Choosing a Tunefab Recorder</u></a></li>
-<li><a href="https://extra-information.techidaily.com/3-top-notch-smartphones-excelling-at-video-capture/"><u>3 Top-Notch Smartphones Excelling at Video Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-breakdown-windows-saver-dynamics/"><u>Expert Breakdown: Windows Saver Dynamics</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-will-reels-redefine-user-engagement-against-tiktok/"><u>Facebook, Will Reels Redefine User Engagement Against TikTok?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-performance-lags-and-stutter-in-modern-warfare-2-on-windows-systems/"><u>Fixing Performance Lags & Stutter in Modern Warfare 2 on Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722995270622-pubg-no-volume-heres-how-you-can-get-game-audio-back/"><u>PUBG No Volume? Here's How You Can Get Game Audio Back!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solution-to-stuttering-glitch-in-mass-effect-legendary-anthology-released/"><u>Solution to Stuttering Glitch in Mass Effect Legendary Anthology Released</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-boxing-brilliance-versus-broadband-bonanza/"><u>[Updated] 2024 Approved Boxing Brilliance versus Broadband Bonanza</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-seek-a-guide-to-add-motion-in-blender-this-article-explains-the-blender-motion-blur-effect-in-detail-and-helps-you-master-it/"><u>2024 Approved Do You Seek a Guide to Add Motion in Blender? This Article Explains the Blender Motion Blur Effect in Detail and Helps You Master It</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-in-this-article-you-will-learn-easy-ways-to-edit-videos-using-a-mouse-in-wondershare-filmora-you-can-do-video-editing-without-a-keyboard-after/"><u>2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-no-cost-youtube-channels-essential-artistic-templates/"><u>2024 Approved No-Cost YouTube Channels Essential Artistic Templates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/5-best-dvd-creators-for-macos-sierra-for-2024/"><u>5 Best DVD Creators for macOS Sierra for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uide-zero-cost-youtube-intros-and-template-usage-for-2024/"><u>DIY Guide Zero Cost YouTube Intros & Template Usage for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-setup-download-thrustmaster-t300-drivers-for-windows-1011-systems/"><u>Enhance Your Gaming Setup: Download Thrustmaster T300 Drivers for Windows 10/11 Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-coin-magic-with-filmora/"><u>In 2024, How to Make Coin Magic With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-video-fade-to-black-in-movie-maker/"><u>In 2024, How to Make Video Fade to Black in Movie Maker</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-find-x6-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo Find X6 Phone Hassle-Free</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-itel-a05s-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Itel A05s without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-share-youtube-video-on-zoom-in-2024/"><u>New How to Share YouTube Video on Zoom, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-mp3-cutter-download-for-computer-and-mobile/"><u>New In 2024, MP3 Cutter Download for Computer and Mobile</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-intersection-of-paperclip-algorithms-and-artificial-intelligence/"><u>The Intersection of Paperclip Algorithms & Artificial Intelligence</u></a></li>
 </ul></div>
 

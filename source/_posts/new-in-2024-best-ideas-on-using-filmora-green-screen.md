@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Best Ideas on Using Filmora Green Screen
-date: 2024-09-11T16:14:47.641Z
-updated: 2024-09-14T19:12:01.169Z
+date: 2024-09-17T16:20:48.653Z
+updated: 2024-09-18T20:45:29.641Z
 tags: 
   - ai
   - animation videos
@@ -52,13 +52,6 @@ It doesn't matter how nice your green screen is. You won't get good results if y
 * Do light yourself and your background separately. It will ensure your subject wouldn't bleed into the green, which will create a halo around them.
 * After you key out the green screen and lighting, your subjects should emulate the lighting from your final footage. For example, if you know sunlight is coming from the left light, your subject is from the left direction as well.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4\. Keying out your green screen
 
 Once your footage is good, go into [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and import it into your timeline, then double-click it to find the chroma key menu. However, don't stop there. Clicking the chroma key button is not enough to guarantee perfectly keyed footage, so play around with the offset tolerance edge thickness and edge feather. Lastly, adjust it to make sure your edit looks as good as possible.
@@ -98,6 +91,13 @@ Aside from a video background, there are many things you can use chrome key effe
 Drones are all the rage these days and for good reason. They're a lot of fun to fly, and they can be a great addition to your toolkit for capturing aerial footage. But with so many different drones on the market, it can be tough to know which one is right for you.
 
 ![best drone for videography](https://images.wondershare.com/filmora/article-images/2022/08/best-drone-for-videography.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 That's why we've put together this guide to the best drones on the market for every budget. Whether you're looking for an entry-level drone that won't break the bank or a top-of-the-line model that will let you capture stunning 4K footage, we've got you covered. So read on to find the perfect drone for you!
 
@@ -306,13 +306,6 @@ Priced at $119 per application, Drimify is an interactive HTML5 content-creation
 
 ![drimify for making quiz videos](https://images.wondershare.com/filmora/article-images/2023/02/drimify-for-making-quiz-videos.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Pros
 
 * Offers all forms of interactive formats to create quizzes, surveys, and personality tests
@@ -324,6 +317,13 @@ Priced at $119 per application, Drimify is an interactive HTML5 content-creation
  Cons
 
 * Not much customizable
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.[EducaPlay](https://www.educaplay.com/types-of-activities/video-quizzes.html)
 
@@ -344,13 +344,6 @@ EducaPlay - a free educational games-generating web platform where you can quick
  Cons
 
 * Some features are limited in their use
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3.[Flexclip](https://www.flexclip.com/create/quiz-video.html)
 
@@ -606,10 +599,10 @@ Compared with desktop software programs, online quiz video makers are more conve
 Therefore, we've compiled a list of the 7 best online video quiz makers to help you pick one that best suits your questioning requirements.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Drimify
@@ -673,6 +666,13 @@ To create a quiz, you only need to follow three main steps: Add a media file, cu
  Cons
 
 * Offers only basic editing tools
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4.[Edpuzzle](https://edpuzzle.com/)
 
@@ -780,13 +780,6 @@ Click the titles track in the timeline, add the intro text telling the audience 
 Next, use the **"Titles"** tab to start adding questions and answers to the quiz background video, and make sure to adjust the display time.
 
 ![adding quiz media to the timeline](https://images.wondershare.com/filmora/article-images/2023/02/adding-quiz-media-to-the-timeline.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4 Increase Interactivity In Your Quiz Video
 
@@ -961,6 +954,19 @@ In Preferences, choose the desired size of the 3D LUT as .CUBE format. You can c
 
 ![create luts with lut generator app](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Create Online LUTs Using Online LUT Creator?
 
 There are two methods to create a LUT online and offline. Previously you've learned to generate LUTs using offline tools. However, you can also create LUTs online without installing any tool. This portion will teach you how to create online LUTs in this step-by-step guide.
@@ -1051,12 +1057,20 @@ In conclusion, LUTs are essential in modern video and photo editing. They allow 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-splitting-screen-techniques-for-engaging-youtube-content/"><u>2024 Approved Splitting Screen Techniques for Engaging YouTube Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194357-discover-the-top-factual-inshot-video-editing-tool-of-2024-a-must-see/"><u>Discover the Top Factual InShot Video Editing Tool of 2024 - A MUST-SEE</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/exploring-flexus-200-a-revolutionary-audio-experience/"><u>Exploring Flexus 200: A Revolutionary Audio Experience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-common-issues-with-steam-remote-play-for-a-seamless-gaming-experience/"><u>Fixing Common Issues with Steam Remote Play for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-rununk13-issue-a-step-by-step-guide/"><u>Resolving the RunUnk13 Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/tech-titans-role-in-curtailing-deceptive-online-advertising-practices/"><u>Tech Titans' Role in Curtailing Deceptive Online Advertising Practices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/troubleshooting-guide-for-common-minecraft-world-connection-errors/"><u>Troubleshooting Guide for Common Minecraft World Connection Errors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-leveraging-built-in-recorders-on-mate-1020-and-p2010-series-to-screen-capture/"><u>[New] In 2024, Leveraging Built-In Recorders on Mate 10/20 & P20/10 Series to Screen Capture</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-decoding-the-significance-of-each-tiktok-element/"><u>[Updated] Decoding the Significance of Each TikTok Element</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-asmr-recommendations-for-android-users/"><u>[Updated] In 2024, ASMR Recommendations for Android Users</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empowering-websites-with-cookiebots-dynamic-tracking-technology/"><u>Empowering Websites with Cookiebot's Dynamic Tracking Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-recover-msvbvm50dll-expert-tips-and-solutions/"><u>How to Recover MSVBVM50.DLL: Expert Tips & Solutions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-after-effe/"><u>In 2024, Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-100-working-methods-to-learn-how-to-rotate-tiktok-video-for-2024/"><u>New 100 Working Methods to Learn How to Rotate TikTok Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954212516-new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video-for-2024/"><u>New Ultimate Guide on How To Plan and Storyboard a Music Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review/"><u>New VSDC Free Video Editor Review</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-15-smartest-ways-to-watch-nba-live-in-action-for-2024/"><u>The 15 Smartest Ways to Watch NBA Live in Action for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-virtual-green-screen-to-shoot-video-for-2024/"><u>Updated How To Use Virtual Green Screen to Shoot Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-clone-yourself-in-videos-with-filmora/"><u>Updated In 2024, Clone Yourself in Videos with Filmora</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/win11-elite-screen-recording-software/"><u>Win11 Elite Screen Recording Software</u></a></li>
 </ul></div>
 

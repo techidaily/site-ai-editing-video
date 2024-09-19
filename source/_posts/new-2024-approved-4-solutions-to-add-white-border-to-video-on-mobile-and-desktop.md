@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved 4 Solutions to Add White Border to Video on Mobile and Desktop
-date: 2024-09-13T19:30:51.842Z
-updated: 2024-09-14T23:37:30.125Z
+date: 2024-09-17T20:19:04.324Z
+updated: 2024-09-18T19:07:30.033Z
 tags: 
   - ai
   - animation videos
@@ -213,6 +213,13 @@ Let’s start editing to add white borders step by step:
 
 ![add-white-border](https://images.wondershare.com/filmora/article-images/2022/04/add-white-border-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Click on the video and drag the 4 corners to resize your video.
 * It will eventually provide you with a white background and you can use it as a white border.
 
@@ -222,13 +229,6 @@ Let’s start editing to add white borders step by step:
 * Double click the border to set the background color.
 
 ![add-white-border](https://images.wondershare.com/filmora/article-images/2022/04/add-white-border-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * You can change the background colors of your choice.
 
@@ -249,6 +249,13 @@ You can add white borders to your videos using android. BeeCut is a very simple 
 * Select your desired border.
 
 ![add-white-border](https://images.wondershare.com/filmora/article-images/2022/04/add-white-border-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Drag the desired overlay border over the timeline. Here you can edit your design (change color, effect, etc.)
 * Now, hit the **export** tab and choose the quality and format of your video.
@@ -341,13 +348,6 @@ Let’s start editing to add white borders step by step:
 * Drag and drop the video into the timeline.
 
 ![add-white-border](https://images.wondershare.com/filmora/article-images/2022/04/add-white-border-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Click on the video and drag the 4 corners to resize your video.
 * It will eventually provide you with a white background and you can use it as a white border.
@@ -551,13 +551,6 @@ Hollywood films and series use this software to streamline the show. Overall, it
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Finding the Best Resolution for DaVinci Resolve Slow Playback Issue
 
 As Highlighted, DaVinci Resolve is a good video editor for all kinds of use cases. Although it's a powerful tool, it still shows some errors like choppy and slow playback. Modern problems require modern solutions. Thus, read the given fixes to make **DaVinci Resolve faster playback.** All the methods are easy and helpful for a smooth playback experience on Windows and macOS.
@@ -644,18 +637,18 @@ In the Timeline, right-click on the video and choose the “Uniform Speed” opt
 
 ![set speed with uniform options](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3Continue Editing or Export as Desired
 
 Now, you can extend your editing and work on “Reverse Speed” and “Ripple Edit." If you have nothing to edit more, look for the "Export" option from the top-right corner. Click on it and export with customized parameters.
 
 ![further edit and export video](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -682,6 +675,19 @@ In DaVinci Resolve, full timeline proxy resolution is set by default. To enjoy a
 
 ![lower playback resolution slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 2: Change Timeline Resolution
 
 DaVinci Resolve can work on 4K high-resolution footage that might disrupt the playback. So, cutting down the resolution to speed up your playback is suggested. To do so, click the "Settings" icon from the bottom right side and enter the “Project Settings” window. Expand the “Time Resolution” menu and choose 1920x1080 HD if working on 4K or high resolutions. Now, apply the changes by hitting on “Save.”
@@ -689,6 +695,13 @@ DaVinci Resolve can work on 4K high-resolution footage that might disrupt the pl
 Adjust the timeline resolution and right-click on the timeline in the Media Pool. Choose “Timeline” and then “Timeline Settings.” Lastly, check the “Use Project Settings” option and decide a resolution to click on "OK."
 
 ![change timeline resolution slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 3: Enable Render Cache
 
@@ -750,13 +763,6 @@ Launch Filmora’s latest version in your system. Open it and choose the “New 
 In the Timeline, right-click on the video and choose the “Uniform Speed” option. An extended menu will appear on the right side. Now, turn the video into slow motion with the “Speed” slider. Afterward, head down and extend the “AI Frame Interpolation” menu. From the list, select the “Optical Flow” option for slow but high-quality speed.
 
 ![set speed with uniform options](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3Continue Editing or Export as Desired
 
@@ -886,19 +892,20 @@ If you are using Windows Movie Maker on your PC, we have stated how you can save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-top-12-tycoon-games-where-strategies-thrive-and-profits-peak/"><u>[Updated] 2024 Approved The Top 12 Tycoon Games - Where Strategies Thrive and Profits Peak</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-free-online-video-communication-tools-rated-best/"><u>[Updated] Free Online Video Communication Tools Rated Best</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-monetizing-popularity-pay-per-million-views/"><u>[Updated] Monetizing Popularity Pay Per Million Views</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/efficient-techniques-to-record-and-store-facebook-calls-for-2024/"><u>Efficient Techniques to Record and Store Facebook Calls for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-to-correct-acrocefexeexe-error-and-enhance-stability/"><u>Expert Tips to Correct acrocefexe.exe Error and Enhance Stability</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/exploring-flexus-200-a-revolutionary-audio-experience/"><u>Exploring Flexus 200: A Revolutionary Audio Experience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-common-issues-with-steam-remote-play-for-a-seamless-gaming-experience/"><u>Fixing Common Issues with Steam Remote Play for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-12-pro-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 12 Pro iCloud Activation Lock</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-market-selecting-from-top-15-tripodsmounts/"><u>In 2024, Navigating the Market Selecting From Top 15 Tripods/Mounts</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/score-big-savings-on-gadgets-during-amazons-2024-prime-day-extravaganza/"><u>Score Big Savings on Gadgets During Amazon's 2024 Prime Day Extravaganza</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-list-top-2024-recommendations-for-quality-17-inch-laptops/"><u>The Ultimate List: Top 2024 Recommendations for Quality 17-Inch Laptops</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/troubleshooting-guide-for-common-minecraft-world-connection-errors/"><u>Troubleshooting Guide for Common Minecraft World Connection Errors</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-m14-4g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy M14 4G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ultimate-group-communication-applications-for-2024/"><u>Ultimate Group Communication Applications for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-elevate-your-podcasts-with-top-10-ai-name-generators/"><u>[New] 2024 Approved Elevate Your Podcasts with Top 10 AI Name Generators</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-how-to-change-video-background-in-tiktok-3-ways-for-2024/"><u>[Updated] How to Change Video Background in TikTok [3 Ways] for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-event-videography-is-popular-in-weddings-graduation-family-reunion-and-other-great-moments-here-im-going-to-share-some-of-the-tips-to-make-a-b/"><u>2024 Approved Event Videography Is Popular in Weddings, Graduation, Family Reunion and Other Great Moments. Here Im Going to Share some of the Tips to Make a Better Event Videography</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-image-magic-top-10-frame-enhancement-tools-online/"><u>2024 Approved Image Magic Top 10 Frame-Enhancement Tools Online</u></a></li>
+<li><a href="https://win11.techidaily.com/brighten-homes-embrace-christmas-spirit/"><u>Brighten Homes, Embrace Christmas Spirit</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nokia-c110-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nokia C110 Quickly | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-huawei-nova-y91-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Huawei Nova Y91 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x6-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Poco X6 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-the-art-of-pace-control-for-instas-live-videos/"><u>Master the Art of Pace Control for Insta's Live Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-rotate-videos-in-lightworks-for-2024/"><u>New Steps to Rotate Videos in Lightworks for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-step-by-step-to-crop-videos-using-lightworks/"><u>Updated 2024 Approved Step by Step to Crop Videos Using Lightworks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-random-letter-reveal-intro/"><u>Updated How to Make Random Letter Reveal Intro?</u></a></li>
 </ul></div>
 

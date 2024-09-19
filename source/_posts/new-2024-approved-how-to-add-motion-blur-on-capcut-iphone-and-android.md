@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How To Add Motion Blur On CapCut? (IPhone & Android)
-date: 2024-09-11T18:59:52.129Z
-updated: 2024-09-15T00:06:13.172Z
+date: 2024-09-13T21:26:26.889Z
+updated: 2024-09-19T02:51:11.846Z
 tags: 
   - ai
   - animation videos
@@ -49,13 +49,6 @@ Step1 Open the CapCut app and tap on the “New Project” option. By doing so, 
 
 ![create a new capcut project](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 After uploading, select the clip and scroll in the right direction. From there, select the “Motion Blur” option and choose “Blur” strength and “Blend” value. You can also select the "Direction" and "Times" values from the options. Once done, tap on the “Tick” option to add a motion blur effect to your video successfully.
 
 ![customize motion blur settings](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-4.jpg)
@@ -71,19 +64,6 @@ Videoleap is a popular editing app that is available for both iOS and Android us
 Besides being a powerful video editor, you can also use this tool to add a motion blur to your video. You can use its different filters and effects to create a motion blur effect. This tool offers complete customization freedom so that you can generate your preferred effect easily.
 
 ![videoleap features](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Download:** [**Android**](https://play.google.com/store/apps/details?id=com.lightricks.videoleap&hl=en&gl=US) **|** [**iOS**](https://apps.apple.com/us/app/videoleap-editor-by-lightricks/id1255135442)
 
@@ -167,6 +147,13 @@ Apps like NSMB and Node Video work efficiently as they contain built-in motion b
 Motion blur effect can immensely change the dynamic of your professional videos. If you want to instruct about specific movements in your video, the motion blur effect can enhance it easily. In this article, we have shed light on **how to do motion blur on CapCut**. For more options, we have also provided three alternatives to CapCut for your additional help.
 
 **Tutorial:** To see and learn how to use Videoleap effectively, you can see a quick tutorial following this link: <https://www.youtube.com/watch?v=e7twWHCVT8U>.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. NSMB – Motion Blur Video
 
@@ -263,13 +250,6 @@ Step 2: Then, click on the "Strip" menu and select "Transform."
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
@@ -331,6 +311,13 @@ Step 1: Import the video clip you want to rotate to your project.
 Step 2: In the timeline, place the playhead at the beginning of the clip.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
 
@@ -397,10 +384,10 @@ Here are some other things that you can do with a rotated video:
 \- Change the position of the video in the 3D Viewport
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to rotate videos in Filmora
@@ -673,13 +660,6 @@ Step5 For Transition Point Type, select Time(milliseconds) option. In the Transi
 
 ![select transition point field](https://images.wondershare.com/filmora/article-images/2022/07/select-transition-point-field.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step6 If your video animation has audio, go to Audio Monitoring and select Monitor and Output option from the dropdown. For Audio Fade Style, you can select Crossfade option for better output.
 
 ![audio monitor output obs](https://images.wondershare.com/filmora/article-images/2022/07/audio-monitor-output-obs.jpg)
@@ -743,6 +723,13 @@ Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/fi
 Step2 Import or drop your video clips under Project Media folder. Then drag and drop them on Timeline and place them sequentially as appropriate.
 
 ![import or drop video clips](https://images.wondershare.com/filmora/guide/panel-layout-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Go to Transitions tab located at the top of the application screen. You will see different categories of transitions on the left side.
 
@@ -824,6 +811,13 @@ Step3 Bring in the required video under Movie Library by dragging the file from 
 
 ![import media into imovie mac](https://images.wondershare.com/filmora/article-images/2022/11/import-media-into-imovie-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Drag and drop the video on your timeline. When you want to loop the video, drag and drop the video clip again on the timeline. Make sure there is no gap between the first clip and the second clip on the timeline. You can drag and drop the video clip multiple times on the timeline to increase its duration.
 
 ![drag video clip timeline imovie](https://images.wondershare.com/filmora/article-images/2022/11/drag-video-clip-timeline-imovie.jpg)
@@ -896,18 +890,17 @@ If you want to loop a video on your Mac, iMovie is the most preferred option. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-intensive-analysis-macos-screenflow-version-4/"><u>[New] 2024 Approved Intensive Analysis MacOS screenFlow Version 4</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-best-9-free-youtube-logo-makers-for-2024/"><u>[New] Best 9 Free YouTube Logo Makers for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-performance-lags-and-stutter-in-modern-warfare-2-on-windows-systems/"><u>Fixing Performance Lags & Stutter in Modern Warfare 2 on Windows Systems</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-a-step-by-step-expedition-to-youtubes-unseen-layers/"><u>In 2024, A Step-by-Step Expedition to YouTube's Unseen Layers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-6-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone 6 iCloud Bypass</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-t2x-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo T2x 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722995270622-pubg-no-volume-heres-how-you-can-get-game-audio-back/"><u>PUBG No Volume? Here's How You Can Get Game Audio Back!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reclaiming-hidden-correspondence-a-step-by-step-process-for-google-mail-users/"><u>Reclaiming Hidden Correspondence: A Step-by-Step Process for Google Mail Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-the-unresponsive-microphone-problem-in-steelseries-arctis-pro-headsets/"><u>Resolving the Unresponsive Microphone Problem in SteelSeries Arctis Pro Headsets</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solution-to-stuttering-glitch-in-mass-effect-legendary-anthology-released/"><u>Solution to Stuttering Glitch in Mass Effect Legendary Anthology Released</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/success-story-escaping-the-sea-of-thieves-loading-screen-glitch/"><u>Success Story: Escaping the Sea of Thieves Loading Screen Glitch</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-guide-to-the-best-of-the-best-linksys-wrt3200acm-and-its-open-source-superiority/"><u>The Ultimate Guide to the Best of the Best: Linksys WRT3200ACM and Its Open-Source Superiority</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vyncs-link-analysis-unrivaled-monitoring-capabilities-overshadowed-by-puzzling-pricing-structures/"><u>Vyncs Link Analysis: Unrivaled Monitoring Capabilities Overshadowed by Puzzling Pricing Structures</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos./"><u>2024 Approved Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/rmvb2024rmvb/"><u>了解 RMVB格式：我们在2024年推荐哪款RMVB盒子</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-sm-bus-controller-software-downloads-compatible-with-windows-111087/"><u>Free SM Bus Controller Software Downloads Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-elite-8-streaming-software-selections/"><u>In 2024, Elite 8 Streaming Software Selections</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mastering-the-art-of-navigating-telegram-web-applications/"><u>Mastering the Art of Navigating Telegram Web Applications</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/sofortige-losungen-zum-schutz-ihrer-altenneuen-dvd-sammlung-packen-sie-sie-sicher-auf-ohne-qualitatsverluste-innerhalb-von-5-minuten/"><u>Sofortige Lösungen Zum Schutz Ihrer Alten/Neuen DVD-Sammlung – Packen Sie Sie Sicher Auf, Ohne Qualitätsverluste Innerhalb Von 5 Minuten</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restore-your-steam-voice-communication/"><u>Step-by-Step Guide to Restore Your Steam Voice Communication</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-samsung-2nd-generation-55-oled-gaming-monitor-now-at-record-lifetime-low/"><u>Unbeatable Deal: Samsung 2Nd Generation 55 OLED Gaming Monitor Now at Record Lifetime Low!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-full-guide-to-funcall-voice-changer-and-its-alternatives-for-2024/"><u>Updated Full Guide to Funcall Voice Changer and Its Alternatives for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Add Camera Shake to Video in Adobe After Effects for 2024
-date: 2024-09-12T23:29:45.611Z
-updated: 2024-09-14T23:28:30.196Z
+date: 2024-09-11T23:23:05.840Z
+updated: 2024-09-19T01:54:14.950Z
 tags: 
   - ai
   - animation videos
@@ -167,6 +167,13 @@ By pressing the alt/option again on the stopwatch, you can edit your expression 
 
 In this expression, the first number indicates the frequency of Wiggle -- basically, how quickly it appears to tremble. Its amplitude is the second number, which indicates how far it moves. The numbers are adjustable as you wish. Layers will shake dramatically but slowly when they use Wiggle (2,40). The "Wiggle (10,3)" command makes a layer move quickly without too much movement in one direction.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 4\. Adjust the frame rate of your Composition
 
 In order to make the overall effect more "choppy," you can reduce the frame rate of the video by going to Composition> Composition settings. After Effects uses a frame rate of 24.5, you can go as low as "8" if you want a choppy feel.
@@ -335,13 +342,6 @@ A camera shake effect can be an excellent way of adding a sense of realism to yo
 * You can use camera shakes to simulate the feeling of being in an environment that is free from control (such as being on a boat).
 * You can use them to create a sense of urgency for the viewer/audience by adding motion blur to the sequence.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to add camera shake to video in After Effects
 
 When it comes to video editing, knowing how to make a layer shake in After Effects is a very useful skill. Using it correctly can add subtle motion to a static frame, emphasize an important object, and even make a character quiver in fear! In this tutorial, you will learn how to effectively use the wiggle expression to affect a layer throughout the Composition.
@@ -370,14 +370,14 @@ In order to make the overall effect more "choppy," you can reduce the frame rate
 
 ![how to use camera shake in premiere pro - adjust frame rate](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-after-effects-3.jpg)
 
-Your entire Composition will become choppier if you reduce the frame rate, so it might not be worth it if you have other moving elements in your Composition. Only adjust the frame rate of the layer containing the wiggling object if you want it to affect that layer.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Your entire Composition will become choppier if you reduce the frame rate, so it might not be worth it if you have other moving elements in your Composition. Only adjust the frame rate of the layer containing the wiggling object if you want it to affect that layer.
 
 ## Bonus! Camera Shake Presets for After Effects
 
@@ -517,6 +517,13 @@ This is one of the best tools for creating a music video on your Windows and Mac
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/article-images/2022/04/best-5-ai-music-video-examples-and-makers-to-make-them-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 02Rotor Videos
 
 This is an online music video-making service that can help you create your desired music videos within your budget. The process of creating the footage is simple where you just need to add and upload your music file, select the video clips that go with the theme of the audio, add the lyrics, and then finally process. The video will be ready and can be downloaded for further use. The tool is capable of analyzing the tempo, beat, and other elements of the music file and if needed you can also pay for accessing the video stock collection.
@@ -534,13 +541,6 @@ This is an Android-based app developed by FuzeBits Inc that allows the creation 
 This is an interesting tool for creating professional-looking music videos using its advanced features. With the drag and drop function, using the tool becomes very easy and it supports the function where the places on the track can be marked using the Hot Keys. The tempo of the song can also be changed by controlling the pitch and its complete music mixer will let you create awesome DJ-type tracks.
 
 ![Mixx](https://images.wondershare.com/filmora/article-images/2022/04/best-5-ai-music-video-examples-and-makers-to-make-them-06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **●** Ending Thoughts **→**
 
@@ -582,6 +582,13 @@ This is an online music video-making service that can help you create your desir
 
 ![Rotor Videos](https://images.wondershare.com/filmora/article-images/2022/04/best-5-ai-music-video-examples-and-makers-to-make-them-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 04VideoFX Music Video Maker
 
 This is an Android-based app developed by FuzeBits Inc that allows the creation of interesting music videos. Using the app, you can also record the lip-sync music and then customize it using over 50 filters like neon, mirror, thermal, and more. Preset shooting modes – fast motion, auto-pause, and stop motion is also sorted. Other editing functions include stickers, text, filters, and more.
@@ -607,19 +614,6 @@ This is an interesting tool for creating professional-looking music videos using
 Music videos are an excellent combination of interesting videos and music files and with double entertainment, the efforts to make these videos are also double. Creating and editing these tools manually is not only a tedious but also time-consuming task and to help with this there are an array of music video maker tools and software available. With the advancement in technology these days, a lot of tools, companies, and setups are also creating versatile AI-generated videos which are a treat to eyes as well as ears. To learn more about these **AI music video** and creation tools, this article will be a great read.
 
 ![AI Music Videos](https://images.wondershare.com/filmora/article-images/2022/04/best-5-ai-music-video-examples-and-makers-to-make-them-01.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### In this article
 
@@ -723,6 +717,13 @@ Step3Here, you can very simply add the fade-in and fade-out effects by simply dr
 
 ![add fade in or out effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Using the Audio Waveform**
 
 You can also use the fade icons on the left and right edges of the audio waveform to quickly add a fade in and out.
@@ -748,13 +749,6 @@ Check the master volume on your computer to see if this is the problem
 Then check the volume in Premiere to see if the audio meter is moving as you play the clip. It is the green bar usually in the lower right corner.
 
 If your volume is fine but you still can't hear the audio, you may need to adjust several settings. Go to Edit > Preferences (on PC) or Preferences menu under the main Premiere Pro CC menu (macOS) and select “Audio Hardware” in the options that appear. You can then change the “Default Output” device to something else.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. How Do You do Audio Transitions in Premiere Pro
 
@@ -788,20 +782,20 @@ To add a duration for the audio transitions, go to Edit > Preferences > Timeline
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-crafting-a-compelling-narrative-with-voiceover-and-visuals/"><u>[Updated] Crafting a Compelling Narrative with Voiceover and Visuals</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-future-proofing-visuals-evaluating-av1s-standpoint-over-vp9/"><u>[Updated] Future-Proofing Visuals Evaluating AV1's Standpoint over VP9</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-reference-to-gesture-and-movement-capture-for-2024/"><u>[Updated] The Ultimate Reference to Gesture and Movement Capture for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-videos-with-imovie/"><u>2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-devices-with-toms-hardware-rundown/"><u>Delving Into Digital Devices with Tom's Hardware Rundown</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-premier-giants-in-natural-language-processing-technology/"><u>Exploring the Premier Giants in Natural Language Processing Technology</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-3-ways-to-create-motion-text-effects-for-your-video/"><u>New 2024 Approved 3 Ways to Create Motion Text Effects for Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-loop-videos-with-imovie/"><u>New 2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-risograph-effect-in-photoshop-a-beginners-guide-for-2024/"><u>New Create Risograph Effect In Photoshop A Beginners Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-add-miniature-effect-to-videos/"><u>New Easy Steps to Add Miniature Effect to Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-random-shortcut-activation-in-windows/"><u>Overcoming Random Shortcut Activation in Windows</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/splitting-audio-from-video-in-sony-vegas-step-by-step-for-2024/"><u>Splitting Audio From Video in Sony Vegas Step by Step for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-a34-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy A34 5G FRP</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oppo-find-n3-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Oppo Find N3 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-your-own-lol-montage-video/"><u>Updated How to Create Your Own LOL Montage Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-mastering-culinary-cinematography-essential-food-film-techniques/"><u>[Updated] Mastering Culinary Cinematography Essential Food Film Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-cam-problem-solved-operation-normal/"><u>2024 Approved Cam Problem Solved Operation Normal</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/boost-your-spirit-creating-motivational-status-videos/"><u>Boost Your Spirit Creating Motivational Status Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-asus-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Asus</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-driver-not-working-on-your-windows-1011-pc/"><u>Eliminate Driver Not Working on Your Windows 10/11 PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/exploring-the-prime-linux-screenshot-applications-for-2024/"><u>Exploring the Prime Linux Screenshot Applications for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-techniques-for-embedding-srt-into-mp4-files/"><u>In 2024, Advanced Techniques for Embedding SRT Into MP4 Files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-flight-a-look-at-dji-phantom-3-professional/"><u>In 2024, Mastering Flight A Look at DJI Phantom 3 Professional</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-export-video-in-filmora-for-2024/"><u>New Easy Steps to Export Video in Filmora for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-asus-rog-phone-8-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Asus ROG Phone 8 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-gameplay-how-to-repair-unresponsive-audio-in-turtle-beach-elite-pro/"><u>Revive Your Gameplay: How to Repair Unresponsive Audio in Turtle Beach Elite Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-create-glitch-text-effect/"><u>Updated Create Glitch Text Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-find-out-what-ray-tracing-is-in-after-effects-how-it-works-and-learn-about-ray-traced-3d-settings-with-simple-instructions/"><u>Updated Find Out What Ray Tracing Is in After Effects, How It Works, and Learn About Ray-Traced 3D Settings with Simple Instructions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>Updated HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-learning-how-to-create-luts-with-luts-generator/"><u>Updated Learning How to Create LUTs with LUTs Generator</u></a></li>
 </ul></div>
 

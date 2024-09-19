@@ -1,7 +1,7 @@
 ---
 title: New How to DIY VHS Overlay in After Effects, In 2024
-date: 2024-09-08T22:48:38.058Z
-updated: 2024-09-14T18:20:19.528Z
+date: 2024-09-15T23:22:56.196Z
+updated: 2024-09-18T18:37:53.391Z
 tags: 
   - ai
   - animation videos
@@ -221,13 +221,6 @@ The smart generation has access to HD videos and high-tech devices, yet VHS is a
 
 By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
@@ -305,6 +298,13 @@ The search filter has different options to make the search easier, for instance,
 
 ![adobe stock website interface](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. [Mixkit](https://mixkit.co/free-premiere-pro-templates/)
 
 Mixkit is the top choice for getting Premiere Pro split-screen template among other royalty-free assets. Mixkit offers free Premiere Pro templates with After Effects, Final Cut Pro, DaVinci Resolve, and much more.
@@ -367,19 +367,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
@@ -393,13 +380,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 ## How to Create Vintage Film Effect 1950S
 
 So, what's the difference between a vintage film shot in the 1920s and 1950s? It's simple; in the 1950s, video-making technologies were slightly advanced, although films were more about rock and roll and poodle skirts. So, without further dilly-dallying, let's learn how to create a retro 1950-style video with this simple Filmora tutorial.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Preparation
 
@@ -639,6 +619,13 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 If you want to know more tricks about creating a nice Warzone thumbnail, please check the video below:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tips for a Superb Call of Duty: Warzone Thumbnail
 
 A thumbnail is useless if it does not look good on YouTube. But how can you ensure it looks good on YouTube? That's a good question. Actually, the YouTube help center gave pointers on how your video thumbnail should be. These are the five important things you should know about:
@@ -657,18 +644,18 @@ Research is always key to accomplishing something. If you want to create kickass
 
 Let us help you with that. Here are 5 Call of Duty: Warzone thumbnails you should check out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Call of Duty Warzone: THE BATTLE OF VERDANSK GAMEPLAY! (No Commentary)
 
 ![warzone thumbnail by noannoyingcommentary](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-1.JPG)
 
 This video from the channel [NoAnnoyingCommentary](https://www.youtube.com/watch?v=k3pBdi2Cf9Y) has 3.3 million views. It shows the player pointing their gun upwards. Flying in the sky are many fighter planes (obviously edited.) Then, a sepia filter is applied to make it look like a shot from past real-world wars. It is cool and sure to attract the attention of the COD: Warzone demographics.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. TOP 300 FUNNIEST FAILS IN WARZONE
 
@@ -756,10 +743,10 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 ![taking a snapshot on wondershare filmora](https://images.wondershare.com/filmora/article-images/take-snapshot-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Select a file format and a target destination folder for the image.
@@ -784,6 +771,19 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 **Note:** The free version of Wondershare Filmora will add a watermark to saved videos. But it will not add a watermark to a snapshot. Indeed, it is a free Warzone thumbnail creator.
 
 If you want to know more tricks about creating a nice Warzone thumbnail, please check the video below:
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips for a Superb Call of Duty: Warzone Thumbnail
 
@@ -861,18 +861,20 @@ Your best option is Wondershare Filmora. Why? Because it is a thumbnail maker an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-closer-look-techniques-for-microsoft-teams/"><u>[New] Closer Look Techniques for Microsoft Teams</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-tips-for-enhancing-online-presence-with-imovie-on-vimeo/"><u>[Updated] 2024 Approved Tips for Enhancing Online Presence with iMovie on Vimeo</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-merging-worlds-youtube-in-instagram-narrative-art/"><u>[Updated] In 2024, Merging Worlds YouTube in Instagram Narrative Art</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-symphony-of-screens-adding-music-to-online-chronicles/"><u>[Updated] Symphony of Screens Adding Music to Online Chronicles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-plugins-list-after-effects-edition/"><u>[Updated] Ultimate Plugins List After Effects Edition</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/heroic-measures-against-a-corrupted-disk-in-steam-games-a-simple-fix-guide/"><u>Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-7-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 7 without Password?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-canon-mp280-software-downloads-for-windows-11-8-7-users/"><u>Latest Canon MP280 Software Downloads for Windows 11 / 8 / 7 Users</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolved-troubleshooting-guide-overcoming-world-of-warcraft-wont-start-on-pc/"><u>Resolved: Troubleshooting Guide - Overcoming 'World of Warcraft Won't Start' On PC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-perfecting-your-bose-soundlink-speaker-connection/"><u>Ultimate Guide: Perfecting Your Bose SoundLink Speaker Connection</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-bend-reality-with-your-own-animated-craftsmanship/"><u>[Updated] 2024 Approved Bend Reality with Your Own Animated Craftsmanship</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-your-ringtone-solution-top-4-sites-revealed-here/"><u>[Updated] 2024 Approved Your Ringtone Solution Top 4 Sites Revealed Here</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-crafting-a-memorable-channel-presence-with-imagery/"><u>[Updated] Crafting a Memorable Channel Presence with Imagery</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-windows-movie-maker-save-mp4-file/"><u>2024 Approved How Windows Movie Maker Save MP4 File</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pioneering-perspectives-on-first-moments-in-audio/"><u>2024 Approved Pioneering Perspectives on First Moments in Audio</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/blender-green-screen-effects-for-2024/"><u>Blender Green Screen Effects for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-your-iphones-camera-functionality-addressing-7-frequent-concerns/"><u>How To Restore Your iPhone's Camera Functionality - Addressing 7 Frequent Concerns</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-how-to-create-luts-with-luts-generator/"><u>New 2024 Approved Learning How to Create LUTs with LUTs Generator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-tutorial-video-with-filmora/"><u>New How to Make Tutorial Video with Filmora</u></a></li>
+<li><a href="https://common-error.techidaily.com/not-responsive-contemporary-timing-not-supported-by-current-monitor-display-technology/"><u>Not Responsive: Contemporary Timing Not Supported by Current Monitor Display Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-steps-for-downloadingupdating-your-amd-ryzen-graphics-drivers/"><u>Quick Steps for Downloading/Updating Your AMD Ryzen Graphics Drivers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-start-a-vlog/"><u>Updated How to Start a Vlog</u></a></li>
 </ul></div>
 

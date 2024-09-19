@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Make Vintage Film Effect 1950S
-date: 2024-09-09T16:47:43.181Z
-updated: 2024-09-14T21:18:38.781Z
+date: 2024-09-16T04:14:00.427Z
+updated: 2024-09-18T17:09:49.046Z
 tags: 
   - ai
   - animation videos
@@ -145,6 +145,13 @@ Double-click the Crop effect, then change the Left and Right values to make the 
 
 ![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
 
 ##### Step 4 Apply more graininess to the film
@@ -152,6 +159,13 @@ Up to here, you'll realize that your video doesn't still look like a 1950s film 
 ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -187,13 +201,6 @@ Step2 Go to Effect Controls and click on Text option to expand it. Click on Opac
 
 ![click opacity in pr](https://images.wondershare.com/filmora/article-images/2022/07/click-opacity-in-pr.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Put the timeline cursor at the beginning of the selected text clip. Thereafter, make the Opacity value to zero. Click on Stopwatch icon beside Opacity to add a keyframe.
 
 ![make opacity to zero pr](https://images.wondershare.com/filmora/article-images/2022/07/make-opacity-to-zero-pr.jpg)
@@ -203,13 +210,6 @@ Step4 Put the timeline cursor at that point in the clip where you want the text 
 ![make opacity to 100 pr](https://images.wondershare.com/filmora/article-images/2022/07/make-opacity-to-100-pr.jpg)
 
 Step5 Play the video to watch the fade in effect on your selected text. You can move the keyframes to speed up or slow down fade in effect.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Make fade in or out with transition effects
 
@@ -233,6 +233,13 @@ Step5 Play the video to ensure that the effect looks perfect. Therefore, go to F
 
 You can place the transition at the end of the video for fading out effect. Instead of Film Dissolve, you can use Crossfade or Dip to Black effect for fade in and fade out effect on video clips.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. Alternative way to fade in text in videos
 
 If you do not have Adobe Premiere Pro or you find the steps difficult to fade in text in videos using Premiere Pro, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Filmora is a professional video editor that is available for Windows as well as Mac users. There is a wide range of video effects available in Filmora in comparison to Premiere Pro. Most importantly, Filmora is super easy and intuitive to use, and even amateur users can use it comfortably. Here are the steps to fade in text in videos using Filmora.
@@ -244,6 +251,13 @@ If you do not have Adobe Premiere Pro or you find the steps difficult to fade in
 Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Launch Filmora and click on New Project option.
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/create-new-project-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Import the video clip under Project Media folder. Drag and drop the video clip to Timeline.
 
@@ -268,13 +282,6 @@ We have stated the steps on how to fade text in Premiere Pro. You can use the sa
 Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Launch Filmora and click on New Project option.
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/create-new-project-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Import the video clip under Project Media folder. Drag and drop the video clip to Timeline.
 
@@ -324,13 +331,6 @@ Step3Press the dash/underscore button ("- \_"), which is situated next to the "+
 
 You may quickly learn how to zoom in on a Mac using trackpad movements if you prefer using a touchpad versus learning any kind of keyboard shortcuts. With a MacBook, there is another, maybe simpler way to zoom in and out in addition to the approach mentioned above. If your keyboard isn't entirely working, it may still be helpful. However, make sure that gesture support is turned on in the settings on your Mac. Although a Mac still supports the usage of a mouse, new Mac software is designed to be used with a trackpad. Apple is abandoning the mouse. And with a little practice, you can do it too. What you must do is as follows:
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to Enable Trackpad Gestures
 
 Step1Open System Preferences and choose Trackpad. Next, choose the Scroll & Zoom tab and select the "Smart zoom" checkbox. Zooming in on web sites, photos, and documents couldn't be much simpler after gesture support was set up:
@@ -340,6 +340,13 @@ Step1Open System Preferences and choose Trackpad. Next, choose the Scroll & Zoom
 Step2You can zoom in or out on Mac by placing two fingers on the touchpad and moving one finger closer to the other or further apart (repeat for additional zooming)
 
 Step3Another option is to simply zoom in and out by double-tapping the touchpad with two fingers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 3: Use Scroll Gesture
 
@@ -400,13 +407,6 @@ When using an app, holding down Command key while using the plus (+) or minus (-
 Step1Go to Accessibility > System Preferences > Zoom, then click Zoom in the sidebar. Check the check next to "Use keyboard shortcuts to zoom" after that. Click the command key (located on either side of the space bar).
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/open-zoom-from-accessibility.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2Press the plus/equal sign ("+ =") button, which is adjacent to the delete button on the top right side of the keyboard, while continuing to hold down the command button to zoom in.
 
@@ -488,18 +488,19 @@ Even the most experienced Mac users sometimes get lost and google topics that sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-reviews.techidaily.com/1722695673237-invest-less-to-charge-more-powerdrive-the-ultimate-budget-option-for-rapid-portable-electric-car-battery-packs/"><u>“Invest Less to Charge More: PowerDrive – The Ultimate Budget Option for Rapid Portable Electric Car Battery Packs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-jumpstart-your-virtual-engagement-with-these-tips-for-livestreams/"><u>2024 Approved Jumpstart Your Virtual Engagement with These Tips for Livestreams</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensible-guide-for-reactivating-windows-photo-viewer-in-win11/"><u>A Comprehensible Guide for Reactivating Windows Photo Viewer in Win11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/charting-a-course-through-youtubes-maker-domain/"><u>Charting a Course Through YouTube's Maker Domain</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/exploring-flexus-200-a-revolutionary-audio-experience/"><u>Exploring Flexus 200: A Revolutionary Audio Experience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-common-issues-with-steam-remote-play-for-a-seamless-gaming-experience/"><u>Fixing Common Issues with Steam Remote Play for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-snapseed-simplified-the-photographers-first-toolkit/"><u>In 2024, Snapseed Simplified The Photographer's First Toolkit</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-youtube-studio-the-ultimate-guide-to-video-edits/"><u>Mastering YouTube Studio The Ultimate Guide to Video Edits</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/troubleshooting-guide-for-common-minecraft-world-connection-errors/"><u>Troubleshooting Guide for Common Minecraft World Connection Errors</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/unlock-more-fun-on-your-nes-classic-with-essential-game-installation-techniques/"><u>Unlock More Fun on Your NES Classic with Essential Game Installation Techniques</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Nokia G42 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-store-not-working-on-windows-10-fixed/"><u>Windows Store Not Working on Windows 10 [Fixed]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-embracing-diversity-easeus-tech-assessment/"><u>[New] In 2024, Embracing Diversity, EaseUS Tech Assessment</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-capturing-cinema-smartphone-mac-and-desktop-screenshots-for-2024/"><u>[Updated] Capturing Cinema Smartphone, Mac, and Desktop Screenshots for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-enhancing-multilingual-reach-adding-subtitles-in-vimeo-for-2024/"><u>[Updated] Enhancing Multilingual Reach Adding Subtitles in Vimeo for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-real-time-view-counter-analyzers/"><u>[Updated] Real-Time View Counter Analyzers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-itel-a05s-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-pc-game-stability-issues-heres-how-you-fixed-it/"><u>Fortnite PC Game Stability Issues? Here's How You Fixed It!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-by-drfone-android-unlock-android-unlock/"><u>How to unlock Realme</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-nokia-c12-plus-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nokia C12 Plus Pattern Lock Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-2-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 2 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-are-you-in-search-for-a-step-by-step-guide-to-how-to-add-effects-in-tiktok-here-it-is-to-add-some-flavor-to-your-tiktok-videos-use-these-how-to-add-effe/"><u>New Are You in Search for a Step-by-Step Guide to How to Add Effects in TikTok? Here It Is. To Add some Flavor to Your TikTok Videos. Use These How to Add Effect to TikTok Recommendations</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-overlay-videos-in-premiere-pro/"><u>Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve?</u></a></li>
 </ul></div>
 

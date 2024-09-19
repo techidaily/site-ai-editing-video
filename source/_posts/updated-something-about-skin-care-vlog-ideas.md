@@ -1,7 +1,7 @@
 ---
 title: Updated Something About Skin Care Vlog Ideas
-date: 2024-09-13T18:59:43.939Z
-updated: 2024-09-14T22:02:48.518Z
+date: 2024-09-13T20:28:35.806Z
+updated: 2024-09-18T16:47:38.832Z
 tags: 
   - ai
   - animation videos
@@ -116,18 +116,18 @@ Wrap Up
 
 ![Choosing a Video Editing Software for You](https://images.wondershare.com/filmora/article-images/2022/07/something-about-skin-care-vlog-ideas-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Choosing a Video Editing Software for You
 
 It allows **noise cancellation** in the background of your audio so that your viewers can better understand what you are saying about the products. Doing a skin care product review is in need a clear audio because viewers focus on what your thoughts or opinion about the product for them to have some ideas.
 
 ![Doing A Skin Care Product Review](https://images.wondershare.com/filmora/article-images/2022/07/something-about-skin-care-vlog-ideas-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Doing A Skin Care Product Review
 
@@ -200,6 +200,13 @@ The subject should jump and act like he is landing on the floor. This shot has t
 This is an empty background clip. This clip includes only background settings without the subject. We need this clip to make layers while editing.
 
 ![shot 3](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-3.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How To Edit These Clips On Filmora?
 
@@ -339,13 +346,6 @@ To visually represent the story in the music video, cinematography shots are hel
 
 Before, we go deeper to the details on how to make a cinematography for music, let us know first about the cinematography for music video. Everything is represented in this article, from the camera movement to the setting of the lights in the studio. You will also learn about aspect ratio and framing while making shots from the DSLR.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Cinematography?
 
 Cinematography covers all aspects of how a movie or music video is made, including choosing the lighting for the scene. The type of camera equipment to use, how to frame your photographs, and how to decide on camera movement are also included in this. Let's move toward the next lines to get the cool cinematography on display.
@@ -436,6 +436,13 @@ The camera movement actually shows the real story presented in the music video. 
 
 Whenever the protagonist looks out the bus's window, the camera operator will use the "Dolly" and "Trucking" movements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Trucking Movement
 
 The trucking movement of the camera is done in left-to-right motion in the filming. This is used for emotional purposes and whenever the subject is in a pull-out shot.
@@ -454,31 +461,11 @@ You need a haze machine to create the atmosphere and give the environment true v
 
 ![haze machine](https://images.wondershare.com/filmora/article-images/2023/04/haze-machine.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Filmora Video Editor** Easily create video with plenty of video effects and filters.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![filmora](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Light a Set
 
@@ -493,19 +480,6 @@ In this music video of the 3lau's, the main prop used is a bus, which is present
 The three projectors are set to give the street footage at the back scene to add more realism.
 
 The three lights are set in the queue by the production team to get the memory of the protagonist. In the setup, soft lights are also added on top of all the upper windows of the bus to give blue interior light to the bus.
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Camera Techniques
 
@@ -593,6 +567,13 @@ In fact, there are many ways to set up a green screen, but the most cost-efficie
 
 It is because wrinkles will make lighting the green screen a nightmare, and uneven lighting will leave you with shadows and disappointing results. It would help if you also pulled the green screen tight to get a seamless background. The better you do with the setup, the easier it will be the key it out later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Lighting a Green Screen
 
 It doesn't matter how nice your green screen is. You won't get good results if you don't light it properly. When you light a green screen, be aware of these things.
@@ -601,6 +582,13 @@ It doesn't matter how nice your green screen is. You won't get good results if y
 * Remember, any shadow on the green screen is bad. The lighting on the screen should be flat, even, and one-dimensional meaning. Please don't place the screen leaning at an angle since they'll make it harder to light evenly.
 * Do light yourself and your background separately. It will ensure your subject wouldn't bleed into the green, which will create a halo around them.
 * After you key out the green screen and lighting, your subjects should emulate the lighting from your final footage. For example, if you know sunlight is coming from the left light, your subject is from the left direction as well.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4\. Keying out your green screen
 
@@ -640,13 +628,19 @@ Aside from a video background, there are many things you can use chrome key effe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook.techidaily.com/stay-tuned-demystifying-the-factors-for-facebooks-longevity/"><u>'Stay Tuned': Demystifying the Factors for Facebook's Longevity</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unlocking-insta-stardom-15-effortless-steps-towards-rapid-and-sustained-fame-for-2024/"><u>[New] Unlocking Insta Stardom 15 Effortless Steps Towards Rapid and Sustained Fame for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/how-to-optimize-your-viewing-a-guide-to-high-definition-cricket-live-streaming/"><u>How to Optimize Your Viewing A Guide to High-Definition Cricket Live Streaming</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-to-mimic-professional-filming-gears-for-2024/"><u>How to to Mimic Professional Filming Gears for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-amd-driver-downloads-and-updates/"><u>Mastering AMD Driver Downloads & Updates</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-working-through-the-details-of-imovie-slow-motion-video-making-100-effective/"><u>New 2024 Approved Working Through the Details of iMovie Slow Motion Video Making 100 Effective</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-360-live-streaming-cameras-for-youtube-and-facebook-you-should-know-for-2024/"><u>Top 360 Live Streaming Cameras for Youtube and Facebook You Should Know for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-gui/"><u>Updated How To Quickly Create A Screen Print Effect In Photoshop Detailed Gui</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-premium-picks-recommended-spots-for-procuring-snapchat-chime-for-2024/"><u>[New] Premium Picks Recommended Spots for Procuring Snapchat Chime for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-richest-rewards-for-creators/"><u>[Updated] 2024 Approved Richest Rewards for Creators</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-legal-chants-for-clarity-top-10-downloads-guide/"><u>[Updated] In 2024, Legal Chants for Clarity Top 10 Downloads Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-all-things-about-adding-effects-in-kinemaster/"><u>2024 Approved All Things About Adding Effects In Kinemaster</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevating-views-amplifying-impact-a-youtube-case-study/"><u>2024 Approved Elevating Views, Amplifying Impact A Youtube Case Study</u></a></li>
+<li><a href="https://fox-that.techidaily.com/connect-your-iphone-with-ease-overcoming-compatibility-challenges-on-windowsmac/"><u>Connect Your iPhone with Ease: Overcoming Compatibility Challenges on Windows/Mac</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-realme-11-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Realme 11 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-perfect-precision-the-best-39-video-trimming-tools-from-google-play/"><u>In 2024, Perfect Precision The Best 39 Video-Trimming Tools From Google Play</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-know-how-ai-is-helping-video-editors-and-enthusiasts-many-video-editing-software-allows-an-auto-reframe-option-to-use-that-can-help-manage-videos/"><u>New Do You Know How AI Is Helping Video Editors and Enthusiasts? Many Video Editing Software Allows an Auto Reframe Option to Use that Can Help Manage Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-film-a-slow-motion-video-for-2024/"><u>New How To Film a Slow Motion Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-list-of-best-vhs-video-effect-makers/"><u>New Top List of Best VHS Video Effect Makers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-font-effects-to-videos/"><u>Updated 2024 Approved How to Add Font Effects to Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/vlc-enthusiasts-guide-to-10-stealthy-tricks/"><u>VLC Enthusiast's Guide to 10 Stealthy Tricks</u></a></li>
 </ul></div>
 

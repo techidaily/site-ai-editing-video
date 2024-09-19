@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Change Background Color in After Effects
-date: 2024-09-08T16:01:57.159Z
-updated: 2024-09-14T21:46:54.834Z
+date: 2024-09-12T04:37:10.949Z
+updated: 2024-09-19T00:26:16.405Z
 tags: 
   - ai
   - animation videos
@@ -89,6 +89,13 @@ Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/fi
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Import your video under Project Media folder and drag and drop into Timeline.
 
 ![import green screen video filmora](https://images.wondershare.com/filmora/article-images/2022/07/import-green-screen-video-filmora.jpg)
@@ -169,13 +176,6 @@ We aim to create a black background for the original video we imported above. To
 * Make sure to drag and drop it above the original video.
 
 ![adding the same video again](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3 Go into the Compositing Mode
 
@@ -354,13 +354,6 @@ Our target is to outline the individual in the video, so we can move on to creat
 
 ![after adding a pixelated effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5 Change the outline color
 
 You may not like the default color with the Pixelated edges effect. But no worries, you can change that to whatever color you desire by following these steps:
@@ -406,6 +399,13 @@ It would help if you created multiple outlines to achieve the Neon Dance effect.
 
 ![offset the videos by a few seconds](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To efficiently blend the outlines with the green screen, you can change the blending mode of each of the exported videos to "**Lighten**."
 
 * Double-click on each video.
@@ -413,13 +413,6 @@ To efficiently blend the outlines with the green screen, you can change the blen
 * From there, select the "**Lighten**" option.
 
 ![change the blending mode to lighten](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step8 Add the Glow effect
 
@@ -451,6 +444,13 @@ You will immediately see changes to your video in the main play window. Play the
 ![final results of neon dance effect](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-12.gif)
 
 Congratulations! You have successfully created Neon Dance effects by using the user-friendly Wondershare Filmora.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -623,6 +623,13 @@ While it's true that many people search for 60 FPS GIFs, it's important to under
 
 ![60 fps gif](https://images.wondershare.com/filmora/article-images/60-fps-gif.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 GIFs are an image format designed to display simple animations. [GIF files store delay time between frames](https://en.wikipedia.org/wiki/GIF) which is defined as multiples of 1/100th of a second. Value 1 would give you 100 FPS; value 2 would already have half of 100 FPS, that is, 50 FPS; value 3 would give you 33.3 FPS GIF, etc. So there are 20 FPS GIFs, 33.3 FPS GIFs, 50 FPS GIFs, and 100 FPS GIFs.
 
 In addition, many websites or programs (including Google Chrome) ignore value 1 (100 FPS GIFs) and default to a much slower animation speed when viewing GIF files. Therefore, 100 FPS GIFs are technically possible but are rarely used. Value 2 (50 FPS) is the most you can get.
@@ -647,13 +654,6 @@ Converting videos to GIFs is a simple process that can be done using various too
 
 ![wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Not only does it allow you to easily convert your videos to GIFs, but it also allows you to customize the frame rate and other settings to get the perfect results. With its user-friendly interface and powerful features, Filmora makes it simple for anyone to create high-quality GIFs that are perfect for sharing on social media or other platforms.
 
 Here's how to convert MP4 to GIF using Filmora:
@@ -669,6 +669,13 @@ Step2 **Import** your video to the timeline
 Step3 **Export** the video
 
 ![filmora export video](https://images.wondershare.com/filmora/article-images/filmora-export-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 In the export window, **select** "**GIF**" and **set** the frame rate of the GIF.
 
@@ -763,13 +770,6 @@ Step1 Upload a video from your computer or **drag** and **drop** it onto the pag
 Step2 Customize the output size, frame rate, and length, and add text before creating your GIF.
 
 ![media io edit settings](https://images.wondershare.com/filmora/article-images/media-io-edit-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Download the resulting GIF file or **save** it for later.
 
@@ -817,21 +817,20 @@ There are various tools available, both online and desktop-based, that can conve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-will-televising-facebook-vids-become-a-trend-for-2024/"><u>[New] Will Televising Facebook Vids Become a Trend for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-economical-videography-for-extreme-sports-enthusiasts/"><u>[Updated] Economical Videography for Extreme Sports Enthusiasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-fx-library-to-enhance-youtube-productions-for-2024/"><u>[Updated] Free FX Library to Enhance YouTube Productions for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easily-transform-youtube-music-into-mp3-for-mac-os/"><u>[Updated] In 2024, Easily Transform YouTube Music Into MP3 for Mac OS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-content-game-studio-aptitude-essentials/"><u>[Updated] In 2024, Elevate Your Content Game Studio Aptitude Essentials</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-symphony-of-screens-adding-music-to-online-chronicles-for-2024/"><u>[Updated] Symphony of Screens Adding Music to Online Chronicles for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/exploring-flexus-200-a-revolutionary-audio-experience/"><u>Exploring Flexus 200: A Revolutionary Audio Experience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-performance-lags-and-stutter-in-modern-warfare-2-on-windows-systems/"><u>Fixing Performance Lags & Stutter in Modern Warfare 2 on Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-use-a-different-receiver-with-your-logitech-wireless-mouse-quick-and-easy-steps/"><u>How To Use a Different Receiver With Your Logitech Wireless Mouse: Quick and Easy Steps</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722995270622-pubg-no-volume-heres-how-you-can-get-game-audio-back/"><u>PUBG No Volume? Here's How You Can Get Game Audio Back!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solution-to-stuttering-glitch-in-mass-effect-legendary-anthology-released/"><u>Solution to Stuttering Glitch in Mass Effect Legendary Anthology Released</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-stabilizing-your-days-gone-experience/"><u>Step-by-Step Solutions for Stabilizing Your Days Gone Experience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/success-story-escaping-the-sea-of-thieves-loading-screen-glitch/"><u>Success Story: Escaping the Sea of Thieves Loading Screen Glitch</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/unlock-more-fun-on-your-nes-classic-with-essential-game-installation-techniques/"><u>Unlock More Fun on Your NES Classic with Essential Game Installation Techniques</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vyncs-link-analysis-unrivaled-monitoring-capabilities-overshadowed-by-puzzling-pricing-structures/"><u>Vyncs Link Analysis: Unrivaled Monitoring Capabilities Overshadowed by Puzzling Pricing Structures</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/xiaomi-mi-smart-band-4-a-budget-friendly-fitness-tracker-that-exceeds-expectations-in-depth-review/"><u>Xiaomi Mi Smart Band 4: A Budget-Friendly Fitness Tracker That Exceeds Expectations - In-Depth Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-improve-video-quality-in-zoom-meetings-in-2024/"><u>[New] How to Improve Video Quality in Zoom Meetings, In 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elevate-your-content-youtube-thumbnail-artistry-on-mac/"><u>[Updated] Elevate Your Content YouTube Thumbnail Artistry on Mac</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-guide-for-setting-tiktok-countdown-timer/"><u>2024 Approved Best Guide for Setting TikTok Countdown Timer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-3d-camera-tracking-effects-in-after-effects/"><u>2024 Approved How to Use 3D Camera Tracking Effects in After Effects</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cameras-unveiled-the-beginners-guide-to-action-shooting-for-2024/"><u>Cameras Unveiled The Beginner's Guide to Action Shooting for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-canva-collages/"><u>How to Make Canva Collages</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-8-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 8 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-ideas-on-using-filmora-green-screen/"><u>In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-fade-audio-in-premier-pro/"><u>New Steps To Fade Audio In Premier Pro</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/perfecti-essential-apps-for-iphone-slide-show-creation/"><u>Perfecti Essential Apps for iPhone Slide Show Creation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-windows-11-speaker-malfunctions-with-these-proven-techniques/"><u>Solve Windows 11 Speaker Malfunctions With These Proven Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-file-explorer-in-windows-11-tips-and-fixes/"><u>Troubleshooting Unresponsive File Explorer in Windows 11: Tips and Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-your-hp-wireless-keyboard-tips-for-restoring-functionality/"><u>Troubleshooting Your HP Wireless Keyboard: Tips for Restoring Functionality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-difference-between-time-lapse-and-hyperlapse-for-2024/"><u>Updated Difference Between Time Lapse and Hyperlapse for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Updated Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
 </ul></div>
 

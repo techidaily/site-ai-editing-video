@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Correct Lens Distortion With Filmora
-date: 2024-09-11T16:41:40.499Z
-updated: 2024-09-15T00:27:49.767Z
+date: 2024-09-11T17:04:38.118Z
+updated: 2024-09-18T22:05:18.176Z
 tags: 
   - ai
   - animation videos
@@ -144,6 +144,13 @@ Step1 Open iMovie app on your iPhone. Tap on Create Project option and tap on Mo
 
 ![new project imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/new-project-imovie-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Select the video from your iPhone that you want to edit and add filters. After your selection, tap on Create Movie option located at the bottom.
 
 ![create movie in imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/create-movie-in-imovie-iphone.jpg)
@@ -251,6 +258,13 @@ Finally, we will explain how to automate these commands so that you can run them
 FFmpeg is a free and open-source cross-platform software project that can record, convert, and stream audio and video. It was developed by Fabrice Bellard in 2000\. It has since become one of the most popular tools for transcoding media content on Linux, Unix, Mac OS X, Windows NT, and more.
 
 One of its lesser-known capabilities is to speed up or slow down videos in just about any design you can think of — with either the audio or the video synced to the other if desired.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Uses of FFmpeg
 
@@ -385,6 +399,13 @@ Filmora also offers extensive editing features, including:
 
 As we know that Filmora has the option to change the speed of a video, so let's find out step-by-step how to do that; you can also watch this [Tutorial on Youtube](https://www.youtube.com/watch?v=4w6CEhFHnII):
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Use the 'Fast' or 'Slow' option to change the speed
 
 Just as simple as the heading is, this option is pretty straightforward, but you cannot decide how much speed you want to add to your video or how slow you want it to be.
@@ -432,13 +453,6 @@ Filmora is another great alternative that allows users to speed up their videos 
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Merging Videos Like a Pro: A Step-by-Step Guide to Use FFmpeg
 
@@ -516,6 +530,13 @@ _ffmpeg -i "concat:input1.ts|input2.ts" -c copy output\_protocol.ts_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** The concat protocol allows you to "stream copy" the files by adding the option **_\-c copy_**.
 
 Step2 **Input** the file name of the video using this code:
@@ -527,13 +548,6 @@ _ffmpeg -i "concat:input1.mp4|input2.mp4" -c copy output\_protocol.mp4_
 **Note:** If you try to use this method on video formats that are not supported, only the first input video will be saved in the output video. And the video ends after the first video.
 
 Although this method is limited in terms of supported video formats, it's very easy to use if you merge videos in the supported formats. It's a single command in the terminal without needing a text file. Additionally, using the -c copy option makes it efficient as it doesn’t require re-encoding, saving time.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Concatenate MP4 Video Files of Different Codecs & Resolutions Using FFmpeg
 
@@ -566,6 +580,13 @@ Step4 **Map** these audio and video outputs to the final video container. This i
 _\-map "\[vv\]" -map "\[aa\]" mergedVideo.mp4_
 
 It is important to note that this method requires re-encoding the videos, which can take more time and may result in a loss of quality. However, it offers the flexibility of filtering the videos before concatenating them. The filter\_complex method in FFmpeg allows you to concatenate videos of different codecs and resolutions. The final step is to map the audio and video outputs to the final video container. This can be done using the -map command.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Concatenate Videos With Multiple Audio Streams Using FFmpeg
 
@@ -611,13 +632,6 @@ Step1 **Open** Filmora and **click** "**New** **Project**."
 
 ![filmora new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 **Go to** "**File**" > "**Import Media**" > "**Import Media Files**" to **add** your video files to the media library.
 
 ![filmora import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
@@ -644,19 +658,6 @@ _ffmpeg -f concat -safe 0 -i join\_video.txt -c copy output\_demuxer.mp4_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note: _\-safe 0_** is added to accept any file name.
 
 **_\-c copy_** will copy all the streams.
@@ -674,13 +675,6 @@ Step1 **Run** the FFmpeg command:
 _ffmpeg -i "concat:input1.ts|input2.ts" -c copy output\_protocol.ts_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** The concat protocol allows you to "stream copy" the files by adding the option **_\-c copy_**.
 
@@ -806,16 +800,18 @@ FFmpeg is a powerful tool that allows you to concatenate videos in various ways.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-social-media-strategy-fb-video-angles/"><u>[New] 2024 Approved Social Media Strategy – FB Video Angles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-turn-youtube-clips-into-animated-gifs-step-by-step-guide/"><u>[Updated] Turn Youtube Clips Into Animated GIFs Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-clandestine-glimpse-at-fb-flashbacks/"><u>2024 Approved Clandestine Glimpse at Fb Flashbacks</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-to-correct-acrocefexeexe-error-and-enhance-stability/"><u>Expert Tips to Correct acrocefexe.exe Error and Enhance Stability</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/exploring-flexus-200-a-revolutionary-audio-experience/"><u>Exploring Flexus 200: A Revolutionary Audio Experience</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-common-issues-with-steam-remote-play-for-a-seamless-gaming-experience/"><u>Fixing Common Issues with Steam Remote Play for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-poco-m6-pro-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Poco M6 Pro 5G Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-influence-crafting-compelling-proposals-with-chatgpt/"><u>Mastering the Art of Influence: Crafting Compelling Proposals with ChatGPT</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/score-big-savings-on-gadgets-during-amazons-2024-prime-day-extravaganza/"><u>Score Big Savings on Gadgets During Amazon's 2024 Prime Day Extravaganza</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/troubleshooting-guide-for-common-minecraft-world-connection-errors/"><u>Troubleshooting Guide for Common Minecraft World Connection Errors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-cut-the-clutter-advanced-techniques-for-cam-recordings/"><u>[Updated] In 2024, Cut the Clutter Advanced Techniques for Cam Recordings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-streamlined-methods-for-iphone-screen-recordings/"><u>[Updated] In 2024, Streamlined Methods for iPhone Screen Recordings</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/facebook-image-management-effective-ways-to-delete-pics-and-maintain-privacy/"><u>Facebook Image Management: Effective Ways to Delete Pics and Maintain Privacy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-amplifying-your-playlists-on-instagram/"><u>In 2024, Amplifying Your Playlists on Instagram</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-innovative-iphone-close-up-tips-for-astounding-photos/"><u>In 2024, Innovative iPhone Close-Up Tips for Astounding Photos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-securing-fb-videos-download-on-pcmac-systems/"><u>In 2024, Securing FB Videos Download on PC/Mac Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-wondering-if-you-can-make-diy-green-screen-video-for-streaming-learn-the-easy-steps-to-setup-diy-green-screen-shoot-the-video-and-edit-it-out-to-add/"><u>In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/never-too-old-always-ready-for-language-learning/"><u>Never Too Old, Always Ready for Language Learning</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-apply-video-filters/"><u>New In 2024, How to Apply Video Filters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unified-webcamscreen-capture-strategies/"><u>Unified Webcam/Screen Capture Strategies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
 </ul></div>
 

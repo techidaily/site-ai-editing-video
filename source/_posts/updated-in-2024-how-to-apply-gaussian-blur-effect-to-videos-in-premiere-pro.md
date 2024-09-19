@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?
-date: 2024-09-10T20:34:32.681Z
-updated: 2024-09-14T21:43:19.205Z
+date: 2024-09-12T20:01:31.014Z
+updated: 2024-09-19T00:31:02.148Z
 tags: 
   - ai
   - animation videos
@@ -86,13 +86,6 @@ Do you want to create Gaussian Blur Effect in your video easily? Read the instru
 Begin by launching Filmora enhanced video editor on your PC or MacBook. Now click on “Create New Project” and upload the preferred video clip on this tool.
 
 ![create a new filmora project](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step2 Search for Square Blur
 
@@ -189,6 +182,13 @@ A fictional Cuban Tony (Al Pacino) becomes a gangster in Brian De Palma's 1983 f
 
 Scarface (1983)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Goodfellas (1990)
 
 Martin Scorsese's Goodfellas is a gangster film set in 1950s New York City, one of the best. In it, Irish-Italian Henry Hill (Ray Liotta) is portrayed as he rises through the ranks of the crime branch of his Brooklyn neighborhood. As we watch this Montage, we see Henry and his gang members viciously murdering anyone who stands in their path. This edit is beautifully complemented by Eric Clapton's "Layla." voice-over.
@@ -206,13 +206,6 @@ Trainspotting (1996)
 In his movie Run Lola Run (1998), Tom Tykwer tells the story of Lola (Franka Potente) and Mani (Moritz Bleibtreu) as they face the different possibilities that arise from a single event in their lives. This Montage shows Lola bumping into various people as she begins to sprint. Her encounter has a profound impact on their lives. Through Montage, the film is given a sense of exhilarating pace and multi-layered visual design.
 
 Run Lola Run (1998)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Requiem for a Dream (2000)
 
@@ -258,6 +251,13 @@ If you're thinking about using Montage, check out movies and trailers in the Act
 
 Rocky (1976)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Scarface (1983)
 
 A fictional Cuban Tony (Al Pacino) becomes a gangster in Brian De Palma's 1983 film Scarface against the backdrop of the cocaine boom of the 1980s. He is portrayed as a criminal rising to the echelons of the underworld and slowly falling. In this montage sequence, Tony becomes the biggest drug lord in Miami and controls nearly all the cocaine that comes through the city.
@@ -282,6 +282,13 @@ In his movie Run Lola Run (1998), Tom Tykwer tells the story of Lola (Franka Pot
 
 Run Lola Run (1998)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Requiem for a Dream (2000)
 
 Hubert Selby Jr.'s titular novel is the source material for Darren Aronofsky's psychological drama. Four people trapped by their addictions are the focus of the narrative. By watching this Montage, a viewer can get a better sense of the world or the film's characters. As a result of their drug addictions, four ambitious people will eventually have their dreams dashed. As a result, we gain insight into how addiction takes hold of the characters' minds and bodies.
@@ -293,13 +300,6 @@ Requiem for a Dream (2000)
 Songs have played an integral role in bringing the story of the film to life in the hands of some of India's most thoughtful filmmakers. Among them is Ashutosh Gowariker. Montage techniques are used to create the title song sequence of his film Swades. The fictional Indian village of Charanpur, where the protagonist Mohan Bhargava (Shahrukh Khan) has lived, is a source of great trauma for the protagonist. As he ends up returning to India, the song signifies his development psychologically.
 
 Swades (2004)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Whiplash (2014)
 
@@ -438,6 +438,13 @@ In the section of the “Inspector” menu, click the drop-down menu and select 
 
 ![change settings and apply luts](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Discussing Wondershare Filmora LUTs - The Best Video Editing Platform
 
 If you're looking for a great video editing tool, Wondershare Filmora might be just what you need. With many features embedded in it, it makes it easy to create professional-looking videos. Moreover, you can apply LUTs to add a cinematic touch to your footage. With over 200+ LUTs available, you can improve the color grading of your videos. Additionally, this tool allows you to adjust its intensity as well.
@@ -445,6 +452,13 @@ If you're looking for a great video editing tool, Wondershare Filmora might be j
 Furthermore, Wondershare Filmora offers options for color adjustments and enhancements. You can add transitions, templates, effects, and filters to your videos. In addition to this, it offers over 10 billion free media assets that you can use to enhance your videos. With Wondershare Filmora, you can play around with different features and options to make your content look fantastic.
 
 ![wondershare filmora luts ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Empower your videos with a new mood using different LUTs.** Filmora now offers 100+ top-quality 3D LUTs cover a broad range of scenarios. Transform your videos with Filmora's powerful 3D LUTs.
 
@@ -601,13 +615,6 @@ Step 1: To create a VHS look on your video, drop any video of your choice into t
 Step 2: Right-click on your video and select New Comp from Selection. Drag your video to a new composition and then go to Lumetri Color < Basic Correction. Add some contrast. You can set it to 50 or any other number of your choice. Then bring the white level down to -55.
 
 ![getting lumetri color effect to get vhs look](https://images.wondershare.com/filmora/article-images/2022/using-lumetri-color-effect-to-get-vhs-look.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then open the Creative tab. Increase the faded film to 40\. Set sharpening to -70\. Bring vibrance to -30.
 
@@ -783,13 +790,6 @@ Open your draft in Filmora software and select sample colors from the Media tab 
 
 ![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
 
 In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
@@ -834,21 +834,21 @@ Detailed tutorials provided by the official channel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-in-depth-analysis-best-valheim-seeds-for-growth/"><u>[New] 2024 Approved In-Depth Analysis Best Valheim Seeds for Growth</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-secrets-to-effective-video-tagging-revealed-here/"><u>[Updated] In 2024, Secrets to Effective Video Tagging Revealed Here</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/cut-down-input-lag-in-cyberpunk-2077-tips-and-tricks-to-enhance-your-gaming-experience/"><u>Cut Down Input Lag in Cyberpunk 2077: Tips & Tricks to Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/diverse-vlogging-content-suggestions/"><u>Diverse Vlogging Content Suggestions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicate-entryways-four-slick-steps-to-disable-a-user-on-win11/"><u>Eradicate Entryways: Four Slick Steps to Disable a User on Win11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fortnite-gameplay-optimization-understanding-necessary-hardware-specifications-to-enhance-performance/"><u>Fortnite Gameplay Optimization: Understanding Necessary Hardware Specifications to Enhance Performance</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-the-secrets-capturing-apple-devices-for-engaging-videos/"><u>In 2024, Unlock the Secrets Capturing Apple Devices for Engaging Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/optimal-aerial-vehicles-your-next-purchase-for-2024/"><u>Optimal Aerial Vehicles Your Next Purchase for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/overcoming-elephantine-appendage-anomalies-in-three-dimensional-printing-techniques/"><u>Overcoming Elephantine Appendage Anomalies in Three-Dimensional Printing Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/review-expose-on-netgears-advanced-x6-wifi-mesh-enhancer-a-deep-dive-into-its-innovative-traits/"><u>Review Exposé on Netgear's Advanced X6 Wifi Mesh Enhancer – A Deep Dive Into Its Innovative Traits</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solutions-for-fixing-misinstalled-ryzen-master-driver-on-your-pc/"><u>Solutions for Fixing Misinstalled Ryzen Master Driver on Your PC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-list-top-2024-recommendations-for-quality-17-inch-laptops/"><u>The Ultimate List: Top 2024 Recommendations for Quality 17-Inch Laptops</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/troubleshoot-your-apex-legends-engine-glitches-with-these-easy-steps/"><u>Troubleshoot Your Apex Legends Engine Glitches with These Easy Steps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nraveling-the-economic-power-of-mr-beast-for-2024/"><u>[New] Unraveling the Economic Power of Mr. Beast for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-moviemeld-insights-full-editing-review/"><u>[Updated] 2024 Approved MovieMeld Insights – Full Editing Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-achieving-visual-harmony-in-your-fb-videos-with-proper-ratio-adjustments/"><u>[Updated] Achieving Visual Harmony in Your FB Videos with Proper Ratio Adjustments</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-amplifying-audience-size-on-igtv-proven-approaches-for-success-for-2024/"><u>[Updated] Amplifying Audience Size on IGTV Proven Approaches for Success for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-guide-for-setting-tiktok-countdown-timer/"><u>2024 Approved Best Guide for Setting TikTok Countdown Timer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-ways-to-add-meme-text-to-videos/"><u>2024 Approved Best Ways to Add Meme Text to Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the-a/"><u>2024 Approved Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-c53-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-viewing-with-the-lg-24lh4830-value-meets-innovation/"><u>Budget-Friendly Viewing with the LG 24LH4830: Value Meets Innovation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-honor-play-40c-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Honor Play 40C Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-vintage-film-effect-1920s/"><u>How to Create Vintage Film Effect 1920S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora/"><u>How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-create-the-night-to-day-effect-video/"><u>New 2024 Approved How to Create the Night-to-Day Effect Video</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-effortless-video-editing-on-windows-microsoft-video-editor-review-for-2024/"><u>New Effortless Video Editing on Windows Microsoft Video Editor Review for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-mystery-of-cable-tv-vs-online-streaming-platforms/"><u>Unraveling the Mystery of Cable TV Vs. Online Streaming Platforms</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-tips-to-make-cinematic-color-grading/"><u>Updated In 2024, Tips to Make Cinematic Color Grading</u></a></li>
 </ul></div>
 

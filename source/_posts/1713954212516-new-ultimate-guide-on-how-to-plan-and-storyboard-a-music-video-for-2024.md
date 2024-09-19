@@ -1,7 +1,7 @@
 ---
 title: New Ultimate Guide on How To Plan and Storyboard a Music Video for 2024
-date: 2024-09-08T00:16:27.504Z
-updated: 2024-09-14T16:05:37.187Z
+date: 2024-09-16T02:20:38.527Z
+updated: 2024-09-18T18:57:26.759Z
 tags: 
   - ai
   - animation videos
@@ -65,6 +65,13 @@ Once you have an idea of what you want your music video to be about, you can put
 
 ![treatment of the plan](https://images.wondershare.com/filmora/article-images/2023/04/treatment-of-the-plan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the artist approves the direction of the video, it's time to move on to storyboarding!
 
 ## Storyboard your music video
@@ -77,13 +84,6 @@ Once you are done with the style and concept of the video, the next step is stor
 
 ![graphical text of storyboarding](https://images.wondershare.com/filmora/article-images/2023/04/graphical-text-of-storyboarding.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step1Draw your ideas
 
 You are supposed to break your video idea into different scenes. For each scene, you should draw a picture of what the shot will look like and draw them within the rectangles.
@@ -95,6 +95,13 @@ You are supposed to break your video idea into different scenes. For each scene,
 After doing your storyboarding on paper, take photos of each shot in a sequence and import them to your computer.
 
 ![take pictures of the sketch](https://images.wondershare.com/filmora/article-images/2023/04/take-pictures-of-the-sketch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Before going to the next step, make sure to download **Wondershare Filmora**. It is powerful editing software that can help you easily make a storyboard. With its wide range of features, you can also customize your clips with special effects, transitions, and more.
 
@@ -246,16 +253,22 @@ Step3 Now go to the “Effects” section and type “Gaussian” in its search 
 
 ![increase the blurriness](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 To create animation, copy your video clip and paste it above the adjustment layer. Head back to the effects section and search for “Crop." Apply it to the top-most video clip. From the left section, change the “Top” to 0%. Once done, turn on its toggle and move the play head a little bit.
 
 ![search for crop effect](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 Add a new keyframe and then change the “Top” to 100%. After rendering the video, you can see the final results in the preview window.
 
@@ -280,19 +293,6 @@ Do you want to create Gaussian Blur Effect in your video easily? Read the instru
 Begin by launching Filmora enhanced video editor on your PC or MacBook. Now click on “Create New Project” and upload the preferred video clip on this tool.
 
 ![create a new filmora project](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step2 Search for Square Blur
 
@@ -337,17 +337,10 @@ Double-click on the added effect to open its settings. Now you can change the �
 ![adjust square blur properties](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -549,6 +542,13 @@ Another heavyweight in the digital asset market, iStock occasionally surprises i
 
 Videezy stands out for its user-friendly interface and many free green screen video frame options. Ranging from simple mobile frames to intricate animations, the platform has a rich variety. This makes Videezy a favorite for both novices and professionals. Its community-driven approach ensures a constant influx of fresh content.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 04Pixabay
 
 One can't discuss free visual content without mentioning Pixabay. This platform is a goldmine for both videos and images. Their collection of background green screen mobile frame assets is extensive. The community-driven nature means there's a diverse range of content, suitable for different cultural and thematic needs. Plus, the no-copyright angle ensures peace of mind.
@@ -643,17 +643,19 @@ So, there you have it. Green screens are the secret behind those cool videos whe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-trendsetting-techniques-going-viral-in-the-digital-world/"><u>[New] In 2024, Trendsetting Techniques Going Viral in the Digital World</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immortalizing-moments-live-photo-to-dynamic-video/"><u>[Updated] Immortalizing Moments Live Photo to Dynamic Video</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-monitoring-your-instagram-exit-strategy/"><u>2024 Approved Monitoring Your Instagram Exit Strategy</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722998189915-effortless-solutions-to-your-apex-legends-startup-woes/"><u>Effortless Solutions to Your Apex Legends Startup Woes!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-audio-systems/"><u>Expert Tips on Repairing Malfunctioning Computer Audio Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-mov-videos-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mov-on-android/"><u>Issues playing MOV videos on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/leveraging-live-streaming-for-maximum-impact-on-youtube-with-limited-subscribers/"><u>Leveraging Live Streaming for Maximum Impact on YouTube with Limited Subscribers</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-unveils-its-ultimate-multilingual-toolkit/"><u>Mondly Unveils Its Ultimate Multilingual Toolkit</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-upgrading-the-lenovo-thunderbolt-3-portable-dock-drivers/"><u>Step by Step: Upgrading the Lenovo Thunderbolt 3 Portable Dock Drivers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/unpacking-the-mini-powerhouse-in-depth-analysis-of-the-3rd-gen-amazon-echo-dots-alexa-capabilities/"><u>Unpacking the Mini-Powerhouse: In-Depth Analysis of the 3Rd Gen Amazon Echo Dot's Alexa Capabilities</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-online-dailymotion-converter-fast-free-and-easy-to-use/"><u>Updated Online Dailymotion Converter Fast, Free, and Easy to Use</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-comedy-kings-the-most-popular-memes/"><u>[New] In 2024, Comedy Kings The Most Popular Memes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-multitask-media-magic-employing-netflix-picture-in-picture/"><u>[New] Multitask Media Magic Employing Netflix Picture-in-Picture</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/an-intro-to-quantum-hdr-innovations-for-2024/"><u>An Intro to Quantum HDR Innovations for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/guide-to-prime-gopro-protectors-top-10-reviewed/"><u>Guide to Prime GoPro Protectors - Top 10 Reviewed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-green-screen-in-obs/"><u>How to Add Green Screen in OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-routine-mindfulness-engagement/"><u>Leveraging AI for Routine Mindfulness Engagement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/meet-the-gaming-champion-tuxedo-sirius-16-gen2-with-amd-and-linux-ultimate-gaming-laptop-featuring-a-crystal-clear-ips-panel-from-just-1699/"><u>Meet the Gaming Champion: Tuxedo Sirius 16 Gen2 with AMD & Linux – Ultimate Gaming Laptop Featuring a Crystal-Clear IPS Panel From Just €1699</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-edit-facebook-video-ads-for-e-commerce-business/"><u>New In 2024, How to Edit Facebook Video Ads for E-Commerce Business</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/step-by-step-process-of-enhancing-your-graphics-card/"><u>Step-by-Step Process of Enhancing Your Graphics Card</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-internal-hdds-the-ultimate-guide-to-the-best-picks/"><u>Top Rated Internal HDDs: The Ultimate Guide to the Best Picks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>Updated A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-custom-filters-in-vn-app-2024-quick-guide/"><u>Updated How to Add Custom Filters in VN App 2024 Quick Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-make-vintage-film-effect-1950s/"><u>Updated In 2024, How to Make Vintage Film Effect 1950S</u></a></li>
 </ul></div>
 

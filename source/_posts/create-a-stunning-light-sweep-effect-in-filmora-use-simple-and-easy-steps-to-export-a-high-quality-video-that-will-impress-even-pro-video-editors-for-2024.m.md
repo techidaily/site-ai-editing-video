@@ -1,7 +1,7 @@
 ---
 title: Create a Stunning Light Sweep Effect in Filmora. Use Simple and Easy Steps to Export a High-Quality Video that Will Impress Even Pro Video Editors for 2024
-date: 2024-09-11T19:06:23.357Z
-updated: 2024-09-14T23:17:26.557Z
+date: 2024-09-14T02:58:53.096Z
+updated: 2024-09-18T22:47:15.512Z
 tags: 
   - ai
   - animation videos
@@ -381,19 +381,6 @@ Once you open the Filmora app, tap the + button and import the video you want to
 
 ![import files](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Step 3: Slow Down the Video**
 
 Once you have imported the video, slow it down to your desired speed. You have two ways to achieve this with Filmora for iPhone:
@@ -425,6 +412,19 @@ You can opt for speeding up or slowing down the video based on what you specific
 Search for Wondershare Filmora in the Google Play Store. The app is available for Android devices running Android 7.0 or higher, making it compatible with a wide range of devices. Download and install the Filmora: AI Video Editor and Maker app on your Android phone. Start the app and follow the instructions to create a new or sign into an existing account.
 
 ![filmora android](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-5.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Step 2: Import Your Video into Filmora**
 
@@ -575,6 +575,13 @@ Now that you know what Camera Tracking is, let's have a look at some benefits of
 
 Thus, if you need some basic compositions or advanced ones, the Camera Tracking feature will help you track your videos, embed anything you want, or create special effects to make your clip different.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. Motion Tracking In After Effects
 
 The Motion Tracking capability is Adobe After Effects' feature that allows you to track the movement of the camera/an object in a video clip and use the data to add effects to objects.
@@ -636,6 +643,13 @@ Here you will see four tracking options:
 
 ![the four tracking options in 3D camera tracking](https://images.wondershare.com/filmora/article-images/2022/08/the-four-tracking-options-in-3D-camera-tracking.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Click **"Track Camera"** to add the 3D Camera Tracker effect to your selected layer. After Effects will start analyzing the layer, show the percentage, and count the total frames of clips tracked.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
@@ -659,6 +673,13 @@ Once you define the plane, it's time to add text to your video clip. To do this,
 Click **"Create Text"** to place the text on your tracked video clip. A new text layer will be added using the tracking data.
 
 ![adding text to the video footage in the after effects](https://images.wondershare.com/filmora/article-images/2022/08/adding-text-to-the-video-footage-in-the-after-effects.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4Align Text On Tracked Footage
 
@@ -704,19 +725,6 @@ Click **"Create Text"** to place the text on your tracked video clip. A new text
 
 ![adding text to the video footage in the after effects](https://images.wondershare.com/filmora/article-images/2022/08/adding-text-to-the-video-footage-in-the-after-effects.png)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4Align Text On Tracked Footage
 
 Now you have to align your text. In the timeline, locate the **tracked text layer** and click the **arrow** to the left to unveil all the editable properties for the layer.
@@ -728,19 +736,6 @@ Click the **"Transform"** option to use the transform options and use the layer 
 **Note:** You can select your layer and press the S, P, R, or T keys to adjust the scale, position, rotation, and opacity, respectively.
 
 Your text will now be added to your video footage. The method is similar to adding solid or null to your clips. However, the exact steps might differ a little.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Video - Learn 3D Camera Tracking In After Effects
 
@@ -779,6 +774,19 @@ If you are going with large projects, you need to consider the following require
 ### 1\. Availability of electricity
 
 You need rig lights and a large lighting setup to make your video more glow and give them aesthetic vibes. For this, make sure you choose a location where light is readily available.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Separate room
 
@@ -820,13 +828,6 @@ For Example, while shooting a 3lau song, there is a need for a bus to come into 
 ## Alternate Ways of Location Scouting
 
 If you don't have enough budget to get a studio space, then you can easily shoot by selecting spaces that are in your use or available. These are the following locations you should regard!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Location 1\. Your Home
 
@@ -941,13 +942,6 @@ For better daylight and illustrations in the music video, you can go with the ou
 
 ![outdoor location for shooting](https://images.wondershare.com/filmora/article-images/2023/04/outdoor-location-for-shooting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Location 4\. Public Places
 
 Public places are easily available and have many options, such as public parks, playgrounds, bridges, and public parking.
@@ -1024,20 +1018,16 @@ Filming with people is not always bulky and flopping, but if you have a cooperat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-just-how-significant-is-itop-in-screencasting-world/"><u>2024 Approved Just How Significant Is ITop in Screencasting World?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-conferencing-using-zoom-to-extend-skype-capabilities/"><u>2024 Approved Streamlining Conferencing Using Zoom to Extend Skype Capabilities</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-picks-8-economical-video-conferencing-tools-compatible-with-mac-and-pc/"><u>2024 Approved Top Picks 8 Economical Video Conferencing Tools Compatible with Mac & PC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/boost-your-spirit-creating-motivational-status-videos/"><u>Boost Your Spirit Creating Motivational Status Videos</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-online-gif-maker-transform-videos-and-pictures-into-funny-engaging-gifs-easily/"><u>Free Online GIF Maker: Transform Videos & Pictures Into Funny, Engaging GIFs Easily</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-21-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my 21</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-titlegenius-revolutionizing-video-title-generation/"><u>In 2024, TitleGenius Revolutionizing Video Title Generation</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-export-video-in-filmora-for-2024/"><u>New Easy Steps to Export Video in Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-make-a-tattoo-disappear-like-a-magic-for-2024/"><u>New Make A Tattoo Disappear Like A Magic for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/top-tips-for-effective-story-emoji-integration-on-instagram/"><u>Top Tips for Effective Story Emoji Integration on Instagram</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-best-text-to-audio-converters-of-all-times/"><u>Updated Best Text-to-Audio Converters of All Times</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-create-glitch-text-effect/"><u>Updated Create Glitch Text Effect</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>Updated HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-learning-how-to-create-luts-with-luts-generator/"><u>Updated Learning How to Create LUTs with LUTs Generator</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-freefire-hashtags-to-skyrocket-video-views-on-youtube/"><u>[New] In 2024, Essential FreeFire Hashtags to Skyrocket Video Views on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-expertise-unleashed-best-practices-for-ios-audio-broadcasting/"><u>[Updated] 2024 Approved Expertise Unleashed Best Practices for iOS Audio Broadcasting</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990937864-beat-the-waiting-game-quick-fixes-for-long-loading-on-fallout-4/"><u>Beat the Waiting Game - Quick Fixes for Long Loading on Fallout 4!</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/eficiente-transformacion-de-archivos-como-convertir-imagenes-webp-en-formato-png-con-herramientas-faciles-de-uso/"><u>Eficiente Transformación De Archivos: Cómo Convertir Imágenes WebP en Formato PNG Con Herramientas Fáciles De Uso</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-defy-2-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Motorola Defy 2 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/"><u>New 2024 Approved Creative Ways to Add Green Screen Effects In Photoshop</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-loop-a-video-on-android/"><u>New In 2024, How to Loop a Video on Android</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-make-a-countdown-video/"><u>New In 2024, Make A Countdown Video</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-connectivity-issues-with-your-logitech-g-pro-x-mic-a-comprehensive-guide/"><u>Solving Connectivity Issues with Your Logitech G Pro X Mic - A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/steps-to-fade-audio-in-premier-pro/"><u>Steps To Fade Audio In Premier Pro</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-lenovo-ideapad-in-focus-how-quality-build-meets-basic-specs-at-great-value/"><u>The Lenovo Ideapad in Focus: How Quality Build Meets Basic Specs at Great Value</u></a></li>
 </ul></div>
 

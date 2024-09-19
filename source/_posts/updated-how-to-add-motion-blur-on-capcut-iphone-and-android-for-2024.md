@@ -1,7 +1,7 @@
 ---
 title: Updated How To Add Motion Blur On CapCut? (IPhone & Android) for 2024
-date: 2024-09-11T18:16:42.629Z
-updated: 2024-09-14T19:52:56.876Z
+date: 2024-09-14T23:24:23.090Z
+updated: 2024-09-18T22:47:12.652Z
 tags: 
   - ai
   - animation videos
@@ -48,6 +48,13 @@ Android users can also take benefit from the CapCut app. Once you have successfu
 Step1 Open the CapCut app and tap on the “New Project” option. By doing so, upload the video from your phone on its interface.
 
 ![create a new capcut project](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 After uploading, select the clip and scroll in the right direction. From there, select the “Motion Blur” option and choose “Blur” strength and “Blend” value. You can also select the "Direction" and "Times" values from the options. Once done, tap on the “Tick” option to add a motion blur effect to your video successfully.
 
@@ -254,6 +261,13 @@ Halftone produces a deliberate screen-like image distortion in different fields,
 
 Below we’ve provided detailed step-by-step guidance on creating a color halftone effect as well as black and white halftone printing effects in Photoshop:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. How to Create Color Halftone Effect
 
 If you want to create a color halftone effect in Photoshop, do the following steps in a sequence:
@@ -309,13 +323,6 @@ You can adjust the sizes of the dots to change the gradient, spacing in between,
 Channel refers to the number of values that are used to create the image. The more values you use, the more details will be visible.
 
 The Channel setting of halftone effects affects how the dots are positioned and overlap. Each Channel is governed by a Screen Angle setting, which is listed in degrees. Changing the value modifies the angle at which Cyan, Magenta, Yellow, and Black dots are added to the pattern. When the dots overlap, a new color is created depending on the combination of the primary colors and black.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -404,13 +411,6 @@ Blend unique sunlight touch to your outdoor visual media with these free Canon L
 
 ![Slight Warmth](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. [Film Canon C-Log2](https://elements.envato.com/film-canon-c-log2-and-standard-luts-2WRP3Q9)
 
 Using the film Canon C-Log2 pack, you will find amazing LUT color presets. You can use these LUT filters within your documented or personal clips and movies. Find some prominent LUTs, including the 22 Canon C-Log2 and 22 Rec 709 LUTs in the pack. All these LUTs are special and unique, with extensive color gradients. You can import the preset file or drag it into the video for magical effects.
@@ -440,6 +440,13 @@ The sky is blue as the water. Thus, if your visual content has natural landmarks
 Blend extraordinary filmy looks into your graphical media with Filmic Style Canon LUT. This LUT is special because it leverages top-level color grading with resolution enhancements. The colors of your visual content will rise, and quality will also improve. So if you're inspired by the cinematic display, this LUT provides optimized colors.
 
 ![filmic style luts](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 10\. [City Film](https://fixthephoto.com/film-luts/download-4)
 
@@ -472,16 +479,10 @@ Red-brownish mountains look impressive in their original colors. A pink-grade LU
 ![pink grade luts](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-14.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 15\. [Landscape](https://fixthephoto.com/lut-color-grading/download-4)
@@ -555,31 +556,11 @@ Add special blockbusting looks to your important video clips. With the Canon C-L
 
 ![Canon C-Log Blockbuster ](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. [Slight Warmth](https://fixthephoto.com/canon-lut/download-4)
 
 Blend unique sunlight touch to your outdoor visual media with these free Canon LUTs. It helps you improve the standards of your images and videos with evening sunshine. Your important outdoor moments will become captured in attractive visual media with pleasing tranquility. The available LUT filter possesses a warm color gradient to initiate creativity.
 
 ![Slight Warmth](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. [Film Canon C-Log2](https://elements.envato.com/film-canon-c-log2-and-standard-luts-2WRP3Q9)
 
@@ -687,6 +668,13 @@ Like other LUTs, Canon LUTs are also special and unique in their kind. They prov
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is Color Finale
 
@@ -762,20 +750,20 @@ Color Finale includes several high-end color suite capabilities. Color Finale in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-your-ultimate-playbook-to-monetize-youtube-traffic/"><u>[New] 2024 Approved Your Ultimate Playbook to Monetize Youtube Traffic</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-tips-for-itunes-video-recording/"><u>[Updated] Essential Tips for iTunes Video Recording</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-premium-top-8-smoothest-capture-tools/"><u>[Updated] Premium Top 8 Smoothest Capture Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-hero-session-generations-compared/"><u>2024 Approved Hero Session Generations Compared</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-record-computer-sound-and-microphone/"><u>2024 Approved Record Computer Sound and Microphone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722998189915-effortless-solutions-to-your-apex-legends-startup-woes/"><u>Effortless Solutions to Your Apex Legends Startup Woes!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-audio-systems/"><u>Expert Tips on Repairing Malfunctioning Computer Audio Systems</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/explore-with-akasos-ek7000-high-quality-economical-adventure-tool/"><u>Explore with AKASO's EK7000: High-Quality, Economical Adventure Tool</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fix-your-cod-modern-warfare-voice-chat-a-comprehensive-solution/"><u>Fix Your CoD: Modern Warfare Voice Chat - A Comprehensive Solution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-started-with-gpt4all-a-cost-free-localized-chatgpt-cloning-for-your-pc/"><u>Get Started with GPT4All - A Cost-Free, Localized ChatGPT Cloning for Your PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/reimagining-photography-toolwiz-photosapps-full-on-review-for-2024/"><u>Reimagining Photography Toolwiz PhotosApp's Full-On Review for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solving-your-razer-mic-issues-five-simple-solutions-to-restore-audio-functionality/"><u>Solving Your Razer Mic Issues: Five Simple Solutions to Restore Audio Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/unpacking-the-mini-powerhouse-in-depth-analysis-of-the-3rd-gen-amazon-echo-dots-alexa-capabilities/"><u>Unpacking the Mini-Powerhouse: In-Depth Analysis of the 3Rd Gen Amazon Echo Dot's Alexa Capabilities</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-cyberpunk-2077-an-imperfect-work-with-hidden-potential/"><u>Unveiling Cyberpunk 2077: An Imperfect Work with Hidden Potential</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-transferring-twitter-videos-to-whatsapp-effortlessly/"><u>[Updated] Transferring Twitter Videos to WhatsApp Effortlessly</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-15-best-travel-vloggers-that-you-should-follow/"><u>2024 Approved 15 Best Travel Vloggers That You Should Follow</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpts-abilities-can-it-master-the-art-of-mixology/"><u>Exploring ChatGPT's Abilities: Can It Master the Art of Mixology?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-13-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 13 Pro Apple ID and Apple Pay</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/how-to-search-for-cool-photos-on-pexelscom-for-2024/"><u>How to Search for Cool Photos on Pexels.com for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-infinix-hot-40i-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Infinix Hot 40i Devices | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-6s-plus-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 6s Plus to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-detectives-playbook-for-scouring-secret-youtube-content/"><u>In 2024, The Detective's Playbook for Scouring Secret YouTube Content</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-effective-ways-to-add-text-behind-objects/"><u>New 2024 Approved 2 Effective Ways to Add Text Behind Objects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved How to Remove Background From a Video in Premier Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-the-best-frame-rate-for-4k-videos-in-2024/"><u>What Is the Best Frame Rate for 4K Videos, In 2024</u></a></li>
 </ul></div>
 
