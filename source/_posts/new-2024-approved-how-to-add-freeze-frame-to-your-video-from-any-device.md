@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Add Freeze Frame to Your Video From Any Device?
-date: 2024-09-16T17:28:20.365Z
-updated: 2024-09-19T04:28:39.044Z
+date: 2024-09-17T18:01:48.117Z
+updated: 2024-09-23T18:22:02.262Z
 tags: 
   - ai
   - animation videos
@@ -85,6 +85,13 @@ Step2Go to Albums and select the video to which you want to add the frame freeze
 
 ![add freeze frame capcut](https://images.wondershare.com/filmora/article-images/2022/08/add-freeze-frame-capcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3Put the Playhead to the point where you want to add the effect. Tap on Edit option.
 
 ![edit freeze frame capcut](https://images.wondershare.com/filmora/article-images/2022/08/edit-freeze-frame-capcut.jpg)
@@ -92,6 +99,13 @@ Step3Put the Playhead to the point where you want to add the effect. Tap on Edit
 Step4Search for Freeze option located at the bottom and tap on it to insert still image of the scene in Timeline.
 
 ![search freeze frame capcut](https://images.wondershare.com/filmora/article-images/2022/08/search-freeze-frame-capcut.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5You can drag the duration of the frame freeze effect as per your requirement.
 
@@ -141,13 +155,6 @@ Then, you have to double-click on the installer file you will find in the Downlo
 
 Finally, press the Start Now button on the installation complete prompt window. The software will then launch automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Adjust the project settings
 
 After the software launches on your device, you should tap on the Create New Project button. Before you add the video file you will edit from your device through; you should take time to change some aspects of the project settings.
@@ -176,11 +183,31 @@ When this part is done, in the text field, add the first letter of the text you 
 
 ![change the number on the y axis](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-falling-text-effect-in-filmora-5.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Next, you must move the play head to the 1-second position in the timeline. Here, you must change the number Y axis to a lower position and adjust the Rotate element as per your preference. After that, move the playhead again to 15 frames from the 1-second mark. It would be best if you changed the Y-axis position digit to 0 and adjusted the Rotation value slightly.
 
 Following that, move the playhead again by 15 frames ahead. Rotate the letter again and change the Y-axis value until the letter rests at the bottom of the screen. Again, you have to move the play head on the timeline to 10 frames ahead and adjust the Y-axis and Rotation values to a higher point. Then, continue the step like this at ten frames forward, this time making the character move to the ground again. Press the OK button to complete.
 
 ![move the playhead on the timeline](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-falling-text-effect-in-filmora-6.gif)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Repeat for the next letters
 
@@ -194,6 +221,13 @@ After editing the second letter in the title, repeat the process of holding and 
 
 Tap on the Play button under the Preview screen to see how the letters have the falling text effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add Screenshot
 
 Next, you have to click on the hide button for Tracks 2 and up. Tap on the Snapshot icon in the editing timeline of the first letter. Then, when it appears in the library window, click on it and move it beside the Track 1 Title file that you were editing. Move the play head to the 1-second position of this file in the timeline.
@@ -201,6 +235,13 @@ Next, you have to click on the hide button for Tracks 2 and up. Tap on the Snaps
 Hide Track 1 again and click the Unhide button on Track 2\. Repeat the snapshot function and add it to Layer 2\. Adjust the end as per Track 1\. After this, follow these steps for the subsequent letters as well.
 
 ![tap on the snapshot icon](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-falling-text-effect-in-filmora-8.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Adjust Keyframing
 
@@ -261,13 +302,6 @@ Next, you must move the play head to the 1-second position in the timeline. Here
 Following that, move the playhead again by 15 frames ahead. Rotate the letter again and change the Y-axis value until the letter rests at the bottom of the screen. Again, you have to move the play head on the timeline to 10 frames ahead and adjust the Y-axis and Rotation values to a higher point. Then, continue the step like this at ten frames forward, this time making the character move to the ground again. Press the OK button to complete.
 
 ![move the playhead on the timeline](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-falling-text-effect-in-filmora-6.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Repeat for the next letters
 
@@ -377,6 +411,13 @@ Adding a fun quiz to your presentation can help to break the monotony and keep y
 
 Quizzes can aid in generating engagement on your social media page. For example, you can use them to drive traffic to your website or blog or simply to get people talking about your brand.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. How To Make An Interactive Quiz Video In Filmora?
 
 Suppose the above advantages have compelled you to create an interactive quiz video to engage your audience and get them involved in your content. In that case, you can use Filmora software which makes it easy to make quiz videos with its built-in interactive video editing tools.
@@ -410,13 +451,6 @@ To add text to your intro, click on the **text track** in the timeline. Enter th
 Next, add the GK questions and answers to your video using the **"Titles"** tab. You should adjust the display time and text on the timeline as needed.
 
 ![adding quiz media to the timeline](https://images.wondershare.com/filmora/article-images/2023/02/adding-quiz-media-to-the-timeline.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4 Increase Interactivity In Your Quiz Video
 
@@ -524,13 +558,6 @@ Step 11 Close the settings window and play the video. You can view the uploaded 
 
 If you're not a Netflix Premium user, you can still add subtitles to Netflix with the help of certain browser extensions. We'll list them down and discuss the steps for using one of them; the basic steps for using all such extensions are pretty much the same.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Substital
 
 **Supported web browsers:** [C](https://chrome.google.com/webstore/detail/substital-add-subtitles-t/kkkbiiikppgjdiebcabomlbidfodipjg?hl=en)[hrome](https://chrome.google.com/webstore/detail/substital-add-subtitles-t/kkkbiiikppgjdiebcabomlbidfodipjg?hl=en) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/substital/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/substital-add-subtitles-/dkkffblkjnedaekodhiblomkicklmjnp?source=sfwOPERA)
@@ -563,13 +590,6 @@ Step 6 You will see the name of the movie or TV show that you are watching on Ne
 Step 7 In this step, you need to drag and drop the subtitle file from your system (that you downloaded earlier) to the browser window.
 
 Step 8 Finally, you can notice that the subtitles are loaded in the Netflix player.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Super Netflix
 
@@ -609,6 +629,13 @@ In certain cases, you may want to edit the subtitles of videos probably because 
 Filmora is one of the most popular and powerful video editors out there. Developed by Wondershare, it allows you to import subtitle files in various formats, including .srt, and edit them directly. Some noteworthy features of Filmora for subtitles and video editing include the manual addition of subtitles, speech-to-text conversion, green screen, video stabilization, and color correction.
 
 Wondershare Filmora also offers several advanced text editing tools that make it possible to customize the appearance of subtitles that you add to a video. You can change the color and size of the fonts and add a gradient effect to the text. Additionally, you can animate text to make it stand out.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Add Custom Subtitles with Filmora: A Step-by-Step Guide
 
@@ -690,16 +717,24 @@ If you want to add custom subtitles to Netflix movies and TV shows, you can achi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-top-picks-for-gaming-displays-on-xbox-series-x-console/"><u>[New] Top Picks for Gaming Displays on Xbox Series X Console</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-comprehensive-overview-of-cost-free-livestream-apps-and-solutions-for-everyone/"><u>[Updated] In 2024, Comprehensive Overview of Cost-Free Livestream Apps & Solutions for Everyone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-luts-application-in-movie-post-production-coloring-for-2024/"><u>[Updated] Luts Application in Movie Post-Production Coloring for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-tecno-camon-20-premier-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Tecno Camon 20 Premier 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-sweet-slumber-scenes-video-critique/"><u>In 2024, Sweet Slumber Scenes Video Critique</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954212516-new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video-for-2024/"><u>New Ultimate Guide on How To Plan and Storyboard a Music Video for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-repair-dvdcdbd-drives-stuck-on-closed-position/"><u>Step-by-Step Solutions to Repair DVD/CD/BD Drives Stuck on Closed Position</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-simple-guide-to-hosting-efficient-zoom-chats/"><u>The Simple Guide to Hosting Efficient Zoom Chats</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-virtual-green-screen-to-shoot-video-for-2024/"><u>Updated How To Use Virtual Green Screen to Shoot Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-clone-yourself-in-videos-with-filmora/"><u>Updated In 2024, Clone Yourself in Videos with Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-download-youtube-playlist-step-by-step/"><u>[New] 2024 Approved How to Download YouTube Playlist-Step by Step</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-websites-to-find-3d-gold-text-effects/"><u>[New] Best Websites to Find 3D Gold Text Effects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-gradient-goes-night-premieres-trick/"><u>[Updated] 2024 Approved Gradient Goes Night Premiere's Trick</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-make-your-background-disappear-and-replace-with-an-attractive-background-here-is-how-to-add-a-green-screen-to-zoom-app-and-add-any-virtual-ba/"><u>Do You Want to Make Your Background Disappear and Replace with an Attractive Background? Here Is How to Add a Green Screen to Zoom App and Add Any Virtual Background of Your Choice</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/efficiently-edit-your-youtube-videos-using-sony-vegas/"><u>Efficiently Edit Your YouTube Videos Using Sony Vegas</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-pixel-8-pro-messages-recovery-recover-deleted-messages-from-google-pixel-8-pro-by-fonelab-android-recover-messages/"><u>Google Pixel 8 Pro Messages Recovery - Recover Deleted Messages from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-g42-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia G42 5G</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-be-aware-of-vhss-meaning-there-is-nothing-to-be-worried-about-because-we-will-guide-you-in-this-article/"><u>In 2024, Do You Want to Be Aware of VHSs Meaning? There Is Nothing to Be Worried About because We Will Guide You in This Article</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>New 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-film-a-slow-motion-video/"><u>New 2024 Approved How To Film a Slow Motion Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review-for-2024/"><u>New VSDC Free Video Editor Review for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/preferred-practices-for-streaming-video-recording-on-youtube-for-2024/"><u>Preferred Practices for Streaming Video Recording on YouTube for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-s23-ultra-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-oled-a-comprehensive-guide-to-its-functionality/"><u>Understanding OLED: A Comprehensive Guide to Its Functionality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-ways-to-make-time-lapse-video-on-macbook/"><u>Updated 3 Ways to Make Time-Lapse Video on MacBook</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-3-best-effects-to-appear-on-camera/"><u>Updated In 2024, 3 Best Effects to Appear on Camera</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>Updated Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-hot-40i-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Hot 40i Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

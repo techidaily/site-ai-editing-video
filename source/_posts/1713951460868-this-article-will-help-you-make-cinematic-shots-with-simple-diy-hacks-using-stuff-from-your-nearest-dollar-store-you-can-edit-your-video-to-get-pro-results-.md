@@ -1,7 +1,7 @@
 ---
 title: This Article Will Help You Make Cinematic Shots with Simple DIY Hacks Using Stuff From Your Nearest Dollar Store. You Can Edit Your Video to Get Pro Results by Wondershare Filmora for 2024
-date: 2024-09-11T21:01:38.440Z
-updated: 2024-09-18T19:20:25.925Z
+date: 2024-09-17T17:26:46.966Z
+updated: 2024-09-23T17:31:27.080Z
 tags: 
   - ai
   - animation videos
@@ -70,6 +70,13 @@ The concept is recording your object in front of a green screen behind it. Then,
 
 Do you ever have audio pop while you are recording? It can get annoying. So, to fix the issues, we are now teaching you three practical ways.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Felt pads
 
 Felt pads with adhesive backs can be stuck onto noisy props like a coffee mug. This way, we won't hear the mug hitting the table when we're recording sound.
@@ -129,6 +136,13 @@ The concept is recording your object in front of a green screen behind it. Then,
 
 Do you ever have audio pop while you are recording? It can get annoying. So, to fix the issues, we are now teaching you three practical ways.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Felt pads
 
 Felt pads with adhesive backs can be stuck onto noisy props like a coffee mug. This way, we won't hear the mug hitting the table when we're recording sound.
@@ -182,6 +196,13 @@ To gain a better understanding of this here is a visual example of the gridlines
 ![rule of thirds gridline](https://images.wondershare.com/filmora/article-images/2022/11/rule-of-thirds-gridline.jpg)
 
 This may seem simple but is often overlooked due to time restraints and eagerness to get that video out there. By following these guidelines your overall composition will gain interesting and pleasing results that can help with viewer engagement. This is only one piece of the puzzle but as any photography professional or artist will tell you, It's the small things that add up.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to use the rule of thirds
 
@@ -245,6 +266,13 @@ As you can see you are able to align the shot and change the aspect ratio to ali
 
 ![rule of thirds final video](https://images.wondershare.com/filmora/article-images/2022/11/rule-of-thirds-final-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 To conclude, the rule of thirds is very important within visual media and is tough within the fundamentals of art and photography from beginner level right up to the highest point of education, Practice thinking about your placement of key elements within your videos and how this affects your overall composition. The goal is to have this as an automatic thought when shooting your videos or still images. This is a small change you can make but has a big impact on how a viewer engages your content and in return leaves a positive opinion towards your creativity and eye for detail.
@@ -267,13 +295,6 @@ No matter how big the budget of a Hollywood movie is, at the end of the day, it 
 
 All you need is a good-quality green fabric, a professional video editing software, and a camera. You may not believe it, but that is all you need for creating DIY green screen video effect. You do not have to be a professional video editor to edit the green screen on your videos and add any special video effect. In this article, you will learn how to create your own DIY green backdrop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Green Screen Technique?
 
 A green screen is nothing but a green fabric. In a video, a green screen is placed in the background behind the subject. In the editing phase of the video, the green screen is replaced with any background image or video effect that stays intact in the video as long as possible. In short, the green screen technique involves superimposing photos and videos on the green screen in a video.
@@ -281,13 +302,6 @@ A green screen is nothing but a green fabric. In a video, a green screen is plac
 Starting from the video game industry, movie industry to video streaming and TV channels, the green screen technique is used everywhere. The stunning graphical component of these industries is totally dependent on the green screen technique. In fact, DIY green screen for zoom meetings and video conferencing is widely used. Along with that, YouTubers and Twitch streamers use DIY green screen for streaming live.
 
 Technically speaking, instead of a green screen, you can use any other color of screen. However, green screens are widely used, and it has become a norm. The main point to remember when using a green screen is that nothing else should have green color such as the dresses the subject is wearing. Therefore, in technical terms, the green screen is referred to as Chroma Key, and you will find Chroma Key option instead of green screen in most video editors.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Use Green Screen Technique?
 
@@ -298,10 +312,10 @@ Therefore, the video editor can save a lot of time in editing and the editing st
 You can replace green screens with anything you want. It could be a still image of a beautiful studio with 3D effect like you see in case of YouTubers and gamers. It could be a moving, real-life landscape on any place in the world instead of a beautiful background picture. Similarly, it could be replaced by video effects such as explosions, stadiums full of people, battlefields, and likewise. At times, it could be live animations as you see on TV channels.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How To Create DIY Green Screen Stand Setup and Add Green Screen Effect?
@@ -427,10 +441,10 @@ Select the photo you want to modify and go to the develop module in Lightroom to
 The same choices are available in Photoshop's Camera Raw Filter. Simply scroll down on the right side of the screen once you've opened a photo in the Camera Raw Filter until you see Color Grading. The process of color grading is identical in Photoshop and Lightroom. I'll be using Lightroom to demonstrate the example photographs for the purposes of this blog article.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Use Color Grading
@@ -449,6 +463,13 @@ Blending and balancing are the other two parameters that you can modify. You can
 
 The amount of the image that is judged to be in the highlights, shadows, or midtones can be changed with the balance slider. For instance, if I move the balance slider to the right, less of the highlights will show the adjustment. Only the highlights with the highest brightness will be affected by the change.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. HSL/Color Panel
 
 Move to the HSL/Color Panel, which stands for Hue, Saturation, and Luminance, after your image is ready to use. It is located under Tone Curve in the Develop Panel. This adjustment panel, in contrast to the ones stated before, will let you change different colors in your image independently of one another. Hue, Saturation, and Luminance are the three modifications that each color will receive.
@@ -458,10 +479,16 @@ Move to the HSL/Color Panel, which stands for Hue, Saturation, and Luminance, af
 Hue is measured in terms of the color wheel's degrees. It's possible to change the color's real shade in this panel. For instance, you can modify the turquoise or blue to a more greenish tone if your scenario is a beach (as in our example photo). It's advisable to begin making adjustments to your panel's Hue before moving on to the others.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Saturation
@@ -504,21 +531,18 @@ Utilize each panel to practice and experiment. There is no right or wrong method
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-3-pinnacle-phones-for-professional-video-capture/"><u>[New] 2024 Approved 3 Pinnacle Phones for Professional Video Capture</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-revenue-with-youtube-short-videos-a-complete-plan/"><u>[New] 2024 Approved Boosting Revenue with YouTube Short Videos – A Complete Plan</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-essential-process-of-modifying-your-online-community-background/"><u>[New] The Essential Process of Modifying Your Online Community Background</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-match-up-with-moguls-six-questions-to-identify-youtubers-for-2024/"><u>[Updated] Match Up With Moguls Six Questions to Identify YouTubers for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/a-critical-look-at-irecorders-screenshot-tech-for-2024/"><u>A Critical Look at iRecorder's Screenshot Tech for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-pro-industry-impact-and-distinct-advantages/"><u>ChatGPT Pro: Industry Impact & Distinct Advantages</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/descargar-e-importar-peliculas-vob-como-archivos-wma-sin-coste-con-la-herramienta-de-conversion-en-linea-de-movavi/"><u>Descargar E Importar Películas VOB Como Archivos WMA Sin Coste Con La Herramienta De Conversión en Línea De Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-motorola-moto-g24-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Motorola Moto G24</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/explore-with-akasos-ek7000-high-quality-economical-adventure-tool/"><u>Explore with AKASO's EK7000: High-Quality, Economical Adventure Tool</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fix-your-cod-modern-warfare-voice-chat-a-comprehensive-solution/"><u>Fix Your CoD: Modern Warfare Voice Chat - A Comprehensive Solution</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722995270622-pubg-no-volume-heres-how-you-can-get-game-audio-back/"><u>PUBG No Volume? Here's How You Can Get Game Audio Back!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-your-screen-three-strategies-to-slow-youtube-videos-down-57-chars-for-2024/"><u>Quiet Your Screen Three Strategies to Slow YouTube Videos Down (57 Chars) for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solution-to-stuttering-glitch-in-mass-effect-legendary-anthology-released/"><u>Solution to Stuttering Glitch in Mass Effect Legendary Anthology Released</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solving-your-razer-mic-issues-five-simple-solutions-to-restore-audio-functionality/"><u>Solving Your Razer Mic Issues: Five Simple Solutions to Restore Audio Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/success-story-escaping-the-sea-of-thieves-loading-screen-glitch/"><u>Success Story: Escaping the Sea of Thieves Loading Screen Glitch</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-guide-to-the-best-of-the-best-linksys-wrt3200acm-and-its-open-source-superiority/"><u>The Ultimate Guide to the Best of the Best: Linksys WRT3200ACM and Its Open-Source Superiority</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-enhancing-efficiency-the-key-to-srt-export-in-premiere/"><u>[New] 2024 Approved Enhancing Efficiency The Key to SRT Export in Premiere</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-audio-archives-the-essential-guide-with-8-key-techniques/"><u>[New] Mastering Audio Archives The Essential Guide with 8 Key Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-virtual-epiphanies-30plus-metaverse-quotations-and-tech/"><u>[Updated] Virtual Epiphanies 30+ Metaverse Quotations & Tech</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-lava-blaze-2-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Lava Blaze 2? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-no-cost-voice-altering-app-for-valorant-enthusiasts/"><u>Best No-Cost Voice Altering App for Valorant Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-linksys-wrt32x-router-smart-multi-device-traffic-management/"><u>Comprehensive Analysis of the Linksys WRT32X Router: Smart Multi-Device Traffic Management</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-looking-for-cool-ideas-to-use-green-screen-and-how-setting-up-your-green-screen-keep-reading-since-we-have-the-answer-for-you/"><u>In 2024, Are You Looking for Cool Ideas to Use Green Screen and How Setting up Your Green Screen? Keep Reading Since We Have the Answer for You</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-a-green-screen-to-zoom/"><u>In 2024, How to Add a Green Screen to Zoom</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-expression-in-after-effects/"><u>In 2024, How to Add Expression in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-merge-audio-and-video-in-vlc-media-player/"><u>In 2024, How to Merge Audio and Video in VLC Media Player</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/is-inshot-surging-above-all-else-in-edits/"><u>Is InShot Surging Above All Else in Edits?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-change-background-color-in-after-effects/"><u>New Change Background Color in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
 </ul></div>
 

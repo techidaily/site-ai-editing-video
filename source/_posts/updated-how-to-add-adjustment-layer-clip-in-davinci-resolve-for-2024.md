@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024
-date: 2024-09-11T16:47:31.075Z
-updated: 2024-09-18T19:35:13.355Z
+date: 2024-09-17T19:33:25.975Z
+updated: 2024-09-23T19:05:33.413Z
 tags: 
   - ai
   - animation videos
@@ -192,10 +192,10 @@ The editor will open automatically next. You have to tap on the Create New Proje
 ![drag and drop default title](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Then, drag the title from this section and drop it into the editing timeline. Double-click on the title in the timeline to open the title editing window. Insert the text you want to add as the title in the text field and adjust the size, font, and other font modifications here.
@@ -211,6 +211,13 @@ Consequently, click on the Snapshot icon at the right side of the toolbar just a
 Then you should double-click on the original Default Title you added and start editing your title text once more. This time, add the term you want to appear under your original title here. Adjust the font for it as something other than the original one. For example, if you put Motor Oil 1937 M54 as the first title font, set the second as Montserrat SemBold. Make more adjustments, if necessary, to the font. Then, retake a snapshot of it.
 
 ![change the second title text](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Insert the snapshots
 
@@ -236,6 +243,13 @@ The background video is the first file you will drag and drop to the timeline. F
 
 ![drag and drop the background video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Edit the snapshots via Chroma Key and Composting
 
 You must hide the second snapshot you added, i.e., the one in the 3rd Track on the timeline. After that, click on snapshot 1 and tap on the Chroma Key icon in the toolbar right above the timeline.
@@ -247,13 +261,6 @@ Following it, move the slider for Edge Thickness to extend it and see the previe
 Press OK.
 
 ![tap on the compositing option](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add the sound effect
 
@@ -280,6 +287,13 @@ Then, double-click on this Particles video clip on the timeline and go to the Co
 Now, play the preview again.
 
 ![drag and drop particles video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Adjust the second title, again
 
@@ -327,22 +341,16 @@ Consequently, click on the Snapshot icon at the right side of the toolbar just a
 
 ![add second color image](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then you should double-click on the original Default Title you added and start editing your title text once more. This time, add the term you want to appear under your original title here. Adjust the font for it as something other than the original one. For example, if you put Motor Oil 1937 M54 as the first title font, set the second as Montserrat SemBold. Make more adjustments, if necessary, to the font. Then, retake a snapshot of it.
 
 ![change the second title text](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Insert the snapshots
 
@@ -361,19 +369,6 @@ After you have imported the snapshots to Filmora, you have to tap on the Import 
 Choose all files and click on Open to add them to the Filmora software. Now starts the process of merging them all into one cohesive effect.
 
 ![open all of the files](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Drag the files into the timeline
 
@@ -404,6 +399,13 @@ Choose the first snapshot in the timeline, below the second snapshot, and above 
 Add the keyframe here and change the value of the Scale parameter to 400 or something high like that. In the preview, you will see that most of the font in this title is out of frame. After this, click on Rotate and turn the font to 45 degrees.
 
 ![click on rotate](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Move your playhead on this snapshot clip in the timeline by at least 1 second. Then, add another keyframe in this location by tapping the Add button. Here, reset the Scale and Rotate parameters and press the OK button to end.
 
@@ -445,13 +447,6 @@ Using Filmora will allow you to add the cinematic effect quickly and efficiently
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Font Effects to Videos
 
 Adding titles and texts to a video clip during the post-production phase is a common thing. You may need to add texts in the intro and outro of the video as well as to highlight important parts in the middle of the video. Showing regular and static texts and titles is very unappealing, and that is why everyone includes font effects to animate the texts.
@@ -473,6 +468,13 @@ Step2To start a new project, click on New Project option on the welcome screen. 
 Step3Import your video file from your hard drive by going to File> Import Media> Import Media Files from the menu bar. Alternatively, you can drag and drop the video file into Project Media folder.
 
 ![import media file ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4Drag and drop the video file into the Timeline. You can add multiple video clips. Thereafter, you can arrange them in proper order on the Timeline.
 
@@ -507,6 +509,13 @@ Step3Place the mouse point over the different text styles to check them. Drag an
 Step4From Viewer interface, double click on the text part of the video to customize the text. You will see options to change the font, font size, color and much more.
 
 ![edit title text imovie](https://images.wondershare.com/filmora/article-images/2022/08/edit-title-text-imovie.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5Play the video and once you are satisfied, go to File> Share> File and save the edited video on your storage device.
 
@@ -558,14 +567,22 @@ Adding font effects on video is a common practice especially when you have intro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-futures-palette-the-best-sci-fi-films-crafting-virtual-worlds/"><u>[New] Future's Palette The Best Sci-Fi Films Crafting Virtual Worlds</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-full-potential-share-videos-on-fb-effectively-for-2024/"><u>[Updated] Unlocking Full Potential Share Videos on FB Effectively for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/demystifying-ps4s-capture-features-a-comprehensive-walkthrough-for-2024/"><u>Demystifying PS4's Capture Features A Comprehensive Walkthrough for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-nord-ce-3-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Nord CE 3 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-3-in-camera-transitions-tricks-to-make-videos-for-2024/"><u>New 3 In-Camera Transitions Tricks To Make Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-synchronizing-your-audio-and-videos-properly-in-2024/"><u>New Guide to Synchronizing Your Audio And Videos Properly, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-creating-the-perfect-vhs-effect-look-in-premiere-pro/"><u>Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-6-nft-platforms-unlocking-creativity-for-artists/"><u>[New] In 2024, Top 6 NFT Platforms Unlocking Creativity for Artists</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-essential-guide-to-creating-effective-video-loops-on-instagram/"><u>[New] The Essential Guide to Creating Effective Video Loops on Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-best-5-chromebook-screen-capture-tools-unveiled/"><u>[Updated] 2024 Approved Best 5 Chromebook Screen Capture Tools Unveiled</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-ultimate-auditory-performances/"><u>[Updated] 2024 Approved Ultimate Auditory Performances</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-a-20-second-symphony-understanding-musics-compact-formats-for-2024/"><u>[Updated] A 20-Second Symphony Understanding Music's Compact Formats for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-effortless-facebook-live-four-strategies-to-record-successfully-for-2024/"><u>[Updated] Effortless Facebook Live Four Strategies to Record Successfully for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos./"><u>2024 Approved Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-3d-camera-tracking-effects-in-after-effects/"><u>2024 Approved How to Use 3D Camera Tracking Effects in After Effects</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-handle-the-d3dx-library-not-loaded-issue/"><u>How to Correctly Handle the D3DX Library Not Loaded Issue</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-canva-collages/"><u>How to Make Canva Collages</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-x100-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-ideas-on-using-filmora-green-screen/"><u>In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-comment-on-youtube-live-chat/"><u>In 2024, How to Comment on YouTube Live Chat</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-fade-audio-in-premier-pro/"><u>New Steps To Fade Audio In Premier Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unlocking-the-potential-of-vocal-talent-for-engaging-videos/"><u>Unlocking the Potential of Vocal Talent for Engaging Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-difference-between-time-lapse-and-hyperlapse-for-2024/"><u>Updated Difference Between Time Lapse and Hyperlapse for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Updated Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
 </ul></div>
 

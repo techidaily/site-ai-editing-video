@@ -1,7 +1,7 @@
 ---
 title: Fixing Performance Lags & Stutter in Modern Warfare 2 on Windows Systems
-date: 2024-09-15T03:57:26.019Z
-updated: 2024-09-19T03:16:50.509Z
+date: 2024-09-21T17:20:33.956Z
+updated: 2024-09-23T18:01:37.334Z
 tags:
   - win11
   - win10
@@ -43,6 +43,14 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -50,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
  After updating your graphics driver, restart your PC and test the gameplay in Warzone.
 
  If the latest GPU driver doesn’t give you luck, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Install all Windows updates
 
@@ -62,6 +77,14 @@ Here’s how you can check for updates manually:
 2. Scroll down and select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
@@ -73,10 +96,10 @@ Once done, restart your PC and see if Warzone is using your GPU.
  If updating your system doesn’t help, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change settings in your graphics control panel
@@ -88,10 +111,10 @@ Once done, restart your PC and see if Warzone is using your GPU.
 2. In the left pane, click**Manage 3D settings** . Click**CUDA – GPUs** and select your graphics card. Then click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
@@ -99,6 +122,13 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
 4. Now start your game and check if it’s running properly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this trick doesn’t work for you, simply move on to the next one.
 
@@ -110,30 +140,23 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![how to disable hardware accelerated GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2020/10/display-settngs.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
  (By default it’s_%USERPROFILE%\\Documents\\Call of Duty Modern Warfare_ )  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-warzone-browse.jpg)
 4. Click**Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-1.jpg)
 5. In the pop-up window, select**High performance** and click**OK** to apply the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-2.jpg)
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this setting doesn’t help, take a look at the next solution below.
 
@@ -165,17 +188,22 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-optimizing-vimeo-video-speed-rates/"><u>[New] Optimizing Vimeo Video Speed Rates</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-know-there-are-websites-to-download-free-glitch-transition-effects-for-premiere-pro-you-can-easily-download-them-and-make-awesome-videos-for-2024/"><u>Do You Know There Are Websites to Download Free Glitch Transition Effects for Premiere Pro? You Can Easily Download Them and Make Awesome Videos for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-winegard-fl55-aflatwayenn-antenna-good-value-high-price-tag/"><u>Evaluating the Winegard FL55# AFLATWAYENN Antenna - Good Value, High Price Tag</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-guide-for-2024/"><u>How To Quickly Create A Screen Print Effect In Photoshop Detailed Guide for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-edition-the-finest-picture-fixers/"><u>In 2024, Instagram Edition The Finest Picture Fixers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-vintage-film-effect-1980s-how-to-create/"><u>In 2024, Vintage Film Effect 1980S - How to Create</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/live-streaming-mastery-with-manycam-virtual-camera-app-revolution/"><u>Live Streaming Mastery with ManyCam: Virtual Camera App Revolution</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-editing-canon-videos-on-a-budget-free-and-affordable-software-options/"><u>New 2024 Approved Editing Canon Videos on a Budget Free and Affordable Software Options</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-way-to-add-transitions-to-videos-for-2024/"><u>New Easy Way to Add Transitions to Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>New In 2024, HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolve-kernel32dll-errors-swiftly-techniques-and-tips-for-windows-users/"><u>Resolve Kernel32.dll Errors Swiftly: Techniques and Tips for Windows Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-4-common-pitfalls-in-leveraging-chatgpt-for-producing-engaging-content/"><u>Top 4 Common Pitfalls in Leveraging ChatGPT for Producing Engaging Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-comprehensive-list-the-most-acclaimed-10-vimeo-video-harvesters/"><u>[New] Comprehensive List The Most Acclaimed 10 Vimeo Video Harvesters</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-5-must-try-tiktok-food-challenges/"><u>2024 Approved 5 Must-Try TikTok Food Challenges</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-create-slow-motion-videos-using-final-cut-pro-with-ease/"><u>2024 Approved Create Slow Motion Videos Using Final Cut Pro with Ease</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-overlay-video-in-premiere-pro/"><u>2024 Approved How to Overlay Video in Premiere Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banishing-lag-and-freezes-from-fallout-3-when-played-on-windows-11-systems/"><u>Banishing Lag and Freezes From Fallout 3 When Played on Windows 11 Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-hints-for-efficiently-managing-extra-large-files-iphones-and-macs-for-2024/"><u>Expert Hints for Efficiently Managing Extra-Large Files IPhones & Macs for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-harness-freedom-with-top-rated-android-editing-apps/"><u>In 2024, Harness Freedom with Top-Rated Android Editing Apps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies/"><u>Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-processors-ram-and-more-at-toms-hardware-hub/"><u>Navigating Through Processors, RAM & More at Tom's Hardware Hub</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-creating-testimonial-videos-for-health-and-wellness-business-industry-for-2024/"><u>New Creating Testimonial Videos For Health And Wellness Business Industry for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-locations-for-obtaining-got-mobile-melodies-for-2024/"><u>Prime Locations for Obtaining GoT Mobile Melodies for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-achieving-gopro-slow-motion-with-quality-an-in-depth-overview/"><u>Updated 2024 Approved Achieving GoPro Slow Motion with Quality An In-Depth Overview</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-remove-audio-from-video-without-watermark/"><u>Updated How to Remove Audio From Video Without Watermark?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/you-can-easily-film-rotating-video-illusions-from-your-smartphone-and-edit-them-on-wondershare-filmora-in-just-a-few-clicks-for-2024/"><u>You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtubers-unleashed-a-guide-to-creating-memorable-music-reaction-vids-for-2024/"><u>Youtubers Unleashed A Guide to Creating Memorable Music Reaction Vids for 2024</u></a></li>
 </ul></div>
 

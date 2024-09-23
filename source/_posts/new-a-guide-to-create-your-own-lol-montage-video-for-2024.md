@@ -1,7 +1,7 @@
 ---
 title: New A Guide to Create Your Own LOL Montage Video for 2024
-date: 2024-09-15T03:01:49.409Z
-updated: 2024-09-18T21:16:06.589Z
+date: 2024-09-21T17:44:13.134Z
+updated: 2024-09-23T18:22:08.001Z
 tags: 
   - ai
   - animation videos
@@ -213,6 +213,13 @@ Three correction LUTs are explicitly created for S-Log 3 footage. They are compa
 
 ![Sony Lut - Sony A7S III, FX3 & A7 IV – S-Log 3 Correction LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sony A7S III, FX3 & A7 IV – S-Log 3 Correction LUTs
 
 ### 5\. Sony Cine-4 Film and Standard LUTs
@@ -229,13 +236,6 @@ The Urban Dark LUT pack aims to provide users with some dark, fascinating tones 
 
 ![Sony Lut - Sony Urban Dark LUT](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sony Urban Dark LUT
 
 ### 7\. LUT Sony Vegas "Adventure"
@@ -243,6 +243,13 @@ Sony Urban Dark LUT
 This is one of the best Sony LUTs for adding drama and depth to the video. It also makes the image moodier and more attention-grabbing, which is ideal if your film focuses on people, architecture, or scenic landscapes because it draws attention to the topics.
 
 ![Sony Lut - LUT Sony Vegas Adventure](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 LUT Sony Vegas "Adventure"
 
@@ -306,6 +313,20 @@ All video editors have been there. You edit and color-correct your video project
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part 1\. Introduction to Video Scopes: What are They and Why You Should Use them**
 
 When grading and color correcting your videos, it is important to accurately assess your video signal. This allows you to know whether you’re crushing the blacks in the night shot or clipping the whites in the clouds. You also get to know the exact saturation and hue your logo has. Video scopes are simply monitoring tools and measurements that are used during video editing to analyze and optimize the technical quality of video signals.
@@ -336,13 +357,6 @@ Waveform video scope allows you to see how dark or light your image is. In other
 
 ![waveform](https://images.wondershare.com/filmora/article-images/2023/take-your-video-editing-to-the-next-level-with-video-scopes-2.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **2\. Histogram**
 
 The histogram video scope allows you to see the tonal value of your clip. Most people associate histograms with still photography, but it is also useful for video work. Specifically, the histogram represents the highlights, shadows, and midtones of your image. For a standard 8-bit image, pure white has a value of 255 while dark black has a value of 0\. The histogram gives you the distribution of colored pixels in every value of lightness or darkness. Although other video scopes like the waveform and vectorscope will do much of the work, a histogram is still a useful measure in video editing.
@@ -354,13 +368,6 @@ The histogram video scope allows you to see the tonal value of your clip. Most p
 This is one of the most common post-production video scopes. The RGB parade allows you to see all three colors in one scope. It shows the waveform of the three colors side by side, and not on top of each other. This way, the RGB parade measures the saturation of the colors red, green, and blue in an image. It becomes clear which colors are more saturated compared to others in different areas of the image. To achieve a well-balanced image, keep each color within the lower and upper limits of the video scope. This ensures that the colors are not under or over-saturated.
 
 ![rgb parade](https://images.wondershare.com/filmora/article-images/2023/take-your-video-editing-to-the-next-level-with-video-scopes-4.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **4\. Vector Scopes**
 
@@ -396,24 +403,24 @@ The Waveform video scope in Filmora is used to adjust the color channels of your
 
 ![waveform](https://images.wondershare.com/filmora/article-images/2023/take-your-video-editing-to-the-next-level-with-video-scopes-8.JPG)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **3\. Vectorscope**
 
 The vectorscope helps to identify and adjust the skin tone of your subjects. It displays the color saturation of the video signal, helping you identify areas that are too saturated or desaturated. This way, you can easily check the skin tones in the video.
 
 ![vectorscope](https://images.wondershare.com/filmora/article-images/2023/take-your-video-editing-to-the-next-level-with-video-scopes-9.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### **4\. Histogram**
 
@@ -443,6 +450,13 @@ Video scopes are important because your monitor may not be properly calibrated. 
 * **Matching Color Between Shots**: You can easily use video scopes to match your work and access various shots.
 
 Video scopes are indeed useful in video editing. They give you the extra reassurance that your color grading and correction are accurate and representative of what you want. While they may sound intimidating for beginners, video scopes are a useful addition to video editing once you learn how to interpret them.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 2\. Essential Video Scopes for Beginners: A List of the Most Common Ones**
 
@@ -599,6 +613,13 @@ Bleak Galaxy is a fantastic LUT pack inspired by Peter McKinnon. This LUT is per
 
 ![bleak galaxy](https://images.wondershare.com/filmora/article-images/2023/bleak-galaxy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Wondershare Filmora: Get Free LUTs on an Alternative Platform
 
 Are you a fan of Peter McKinnon and want to make your content look professional and cinematic? It would be best to use professional video editing software like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Filmora is an excellent tool that helps you in editing videos. Moreover, Filmora offers simple enhancement and adjustment tools for more advanced AI features.
@@ -631,6 +652,13 @@ In conclusion, Peter McKinnon is an impressive content creator and professional.
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
@@ -650,13 +678,6 @@ Cine LUTS V2 is a pack of 15 cinematic-style LUTs to color grade your videos. Wi
 With the Cine LUTs V1 pack, you'll have access to 7 unique LUTs. This **Peter McKinnon LUT pack** gives your videos a cinematic look. Furthermore, this pack has different LUTs, including Orange & Teal and Noir. The Orange & Teal LUT adds a warm orange tone to the highlights and a cool teal tone to the shadows. However, you can use the Noir LUT to add a more dramatic look to your video.
 
 ![cine luts v1](https://images.wondershare.com/filmora/article-images/2023/cine-luts-v1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Arctic Shade
 
@@ -716,16 +737,25 @@ In conclusion, Peter McKinnon is an impressive content creator and professional.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-blending-words-with-pictures-adding-text-to-images-windowsmac/"><u>[Updated] Blending Words with Pictures Adding Text to Images, Windows/Mac</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-beat-the-best-substitutes-for-samsungs-vr-camera-gear-360/"><u>2024 Approved Beat the Best Substitutes for Samsung's VR Camera Gear 360</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-kinetic-typography-text-effect-easyandfast/"><u>2024 Approved Kinetic Typography Text Effect 【EASY&FAST】</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nokia-g22-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nokia G22 Phone When You Forget the Password</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-image-jpgpng-to-gif-converters/"><u>Best Image (JPG/PNG) to GIF Converters</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-skis-and-boards-best-from-x-games/"><u>Elite Skis & Boards Best From X Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/moonlit-mastery-tips-for-perfecting-nighttime-photos-for-2024/"><u>Moonlit Mastery Tips for Perfecting Nighttime Photos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2-methods-to-cut-video-in-vlc-on-windows/"><u>New 2 Methods to Cut Video in VLC on Windows</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-videos-with-imovie/"><u>Updated 2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-enhancing-snaps-with-zoom-feature/"><u>[New] Step-by-Step Guide Enhancing Snaps with Zoom Feature</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-ultimate-guide-to-cool-and-captivating-disco-tags-for-2024/"><u>[New] Ultimate Guide to Cool and Captivating Disco Tags for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-revenue-essential-view-count-milestones/"><u>[New] Unlocking YouTube Revenue Essential View Count Milestones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reviving-the-workspace-dive-into-windows-10s-innovations/"><u>[Updated] Reviving the Workspace Dive Into Windows 10'S Innovations</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-step-by-step-revenue-building-for-youtube-creators/"><u>[Updated] Step-by-Step Revenue Building for YouTube Creators</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-15-best-travel-vloggers-that-you-should-follow/"><u>2024 Approved 15 Best Travel Vloggers That You Should Follow</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-gif-building-an-understanding/"><u>2024 Approved How To Slow Down GIF Building an Understanding</u></a></li>
+<li><a href="https://fox-info.techidaily.com/best-live-sound-experience-service/"><u>Best Live Sound Experience Service</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/decoding-german-idioms-a-curated-list-of-top-25/"><u>Decoding German Idioms - A Curated List of Top 25</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817829043-eliminate-video-stutter-in-minutes/"><u>Eliminate Video Stutter in Minutes</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y200-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y200 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/microphone-not-picking-up-voice-solved/"><u>Microphone Not Picking up Voice [Solved]</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-effective-ways-to-add-text-behind-objects/"><u>New 2024 Approved 2 Effective Ways to Add Text Behind Objects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-options/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Options</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved How to Remove Background From a Video in Premier Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-blur-faces-in-your-videos-read-this-article-to-find-out-the-easiest-way-to-blur-the-faces-in-videos-using-adobe-premiere-pro/"><u>New Do You Want to Blur Faces in Your Videos? Read This Article to Find Out the Easiest Way to Blur the Faces in Videos Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-creating-video-testimonials/"><u>Updated Creating Video Testimonials</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-motion-blur-photo-with-gimp-step-by-step-guide/"><u>Updated Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-the-best-frame-rate-for-4k-videos-in-2024/"><u>What Is the Best Frame Rate for 4K Videos, In 2024</u></a></li>
 </ul></div>
 

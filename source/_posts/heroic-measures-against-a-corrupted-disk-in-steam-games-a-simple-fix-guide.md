@@ -1,7 +1,7 @@
 ---
 title: "Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide"
-date: 2024-09-13T16:56:24.202Z
-updated: 2024-09-18T19:08:42.436Z
+date: 2024-09-16T18:35:38.671Z
+updated: 2024-09-23T18:31:18.281Z
 tags:
   - win11
   - win10
@@ -92,19 +92,6 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -113,29 +100,22 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -147,15 +127,36 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -174,10 +175,10 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
@@ -202,20 +203,18 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-uncovering-budget-friendly-video-conferencing-tools-for-all-systems-for-2024/"><u>[New] Uncovering Budget-Friendly Video Conferencing Tools for All Systems for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-expert-guide-to-overcoming-instagrams-video-obstacles/"><u>[Updated] 2024 Approved Expert Guide to Overcoming Instagram's Video Obstacles</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-beginners-pathway-accelerating-snapchat-video-streams/"><u>[Updated] In 2024, The Beginner's Pathway Accelerating Snapchat Video Streams</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-top-8-yt-thumbnails-that-increase-watch-time-and-interests/"><u>[Updated] In 2024, The Top 8 YT Thumbnails that Increase Watch Time and Interests</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-your-online-presence-zooming-into-tiktok-videos/"><u>[Updated] Optimizing Your Online Presence Zooming Into TikTok Videos</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/20-wonderful-stop-motion-ideas-for-beginners-and-kids-filmora-for-2024/"><u>20 Wonderful Stop Motion Ideas for Beginners and Kids - Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/chromebooks-and-hp-perfect-your-video-capture/"><u>Chromebooks and HP Perfect Your Video Capture</u></a></li>
-<li><a href="https://facebook.techidaily.com/customizable-avatars-redefine-user-experience-at-oculus/"><u>Customizable Avatars Redefine User Experience at Oculus</u></a></li>
-<li><a href="https://windows11.techidaily.com/easily-overcome-excel-blank-file-glitches-top-advice-for-a-smooth-solution/"><u>Easily Overcome Excel Blank File Glitches: Top Advice for a Smooth Solution</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-wondering-if-you-can-make-diy-green-screen-video-for-streaming-learn-the-easy-steps-to-setup-diy-green-screen-shoot-the-video-and-edit-it-out-to-add/"><u>In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-apply-video-filters/"><u>New In 2024, How to Apply Video Filters</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video/"><u>New Ultimate Guide on How to Plan and Storyboard a Music Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-ultimate-list-of-instagram-grid-making-software/"><u>[New] 2024 Approved The Ultimate List of Instagram Grid Making Software</u></a></li>
+<li><a href="https://techidaily.com/1-enhanced-marketing-automation-with-the-advanced-cookiebot-integration/"><u>1. Enhanced Marketing Automation with the Advanced Cookiebot Integration</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-blender-green-screen/"><u>2024 Approved How to Use Blender Green Screen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-proven-ways-to-record-and-save-ps4-games/"><u>2024 Approved Proven Ways to Record and Save PS4 Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-need-for-elevated-permissions-on-your-windows-machine-windows-11107/"><u>Bypassing the Need for Elevated Permissions on Your Windows Machine (Windows 11/10/7)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-know-how-you-can-trim-or-merge-using-wondershare-filmora-trimming-and-merging-using-this-tool-is-an-easy-task-learn-how-for-2024/"><u>Do You Know How You Can Trim or Merge Using Wondershare Filmora? Trimming and Merging Using This Tool Is an Easy Task; Learn How for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-steps-to-loop-youtube-videos-on-iphone/"><u>Easy Steps to Loop YouTube Videos on iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-fade-in-text-in-adobe-premiere-pro-for-2024/"><u>How to Fade in Text in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-y56-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo Y56 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-alternatives-to-facetime-androids-leading-video-calling-solutions/"><u>New 2024 Approved Alternatives to FaceTime Androids Leading Video Calling Solutions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-easy-steps-to-export-video-in-filmora/"><u>New 2024 Approved Easy Steps to Export Video in Filmora</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-art-of-sound-visuals-illustrating-audio-signals-as-waveforms-and-enriching-footage-with-animation-in-adobe-premiere-pro/"><u>New The Art of Sound Visuals Illustrating Audio Signals as Waveforms & Enriching Footage with Animation in Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-getting-madden-nfl-20-running-smoothly-on-pc/"><u>Step-by-Step Solution: Getting Madden NFL 20 Running Smoothly on PC</u></a></li>
 </ul></div>
 

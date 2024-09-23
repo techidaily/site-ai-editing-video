@@ -1,7 +1,7 @@
 ---
 title: New Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike
-date: 2024-09-13T04:00:52.268Z
-updated: 2024-09-19T03:02:43.002Z
+date: 2024-09-17T18:38:04.031Z
+updated: 2024-09-23T17:28:45.243Z
 tags: 
   - ai
   - animation videos
@@ -87,13 +87,6 @@ Step5 Drag the mask point feathering around the focus.
 
 This tutorial came from [Crish Design](https://www.youtube.com/watch?v=Lx7KTqgish8&t=38s). For more tutorials about After Effects tips and techniques, you can refer to the **Crish Design** YouTube channel.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Need an Alternative? Try Wondershare Filmora
 
 If you're looking for a more accessible and user-friendly alternative to After Effects, consider using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Filmora is a powerful video editing software that offers many of the same features as After Effects, including an edge feather feature that's a great alternative to the mask edge feather in After Effects.
@@ -178,13 +171,6 @@ Step3 Scroll down to find the "**Blur Strength**" option, and **adjust** the blu
 
 ![filmora adjusting the blur strength value](https://images.wondershare.com/filmora/guide/add-keyframe-to-mask.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How To Use Variable Mask Feather in Wondershare Filmora?
 
 Wondershare Filmora also allows you to use variable mask feathers to create a smooth, gradual transition between different parts of your video.
@@ -219,13 +205,6 @@ Whether you're looking to feather shapes in After Effects or prefer the convenie
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Unraveling How the Slow Motion Guys Have Revolutionized The Slow Motion Game
 
@@ -301,6 +280,13 @@ This is the AI feature that increases the video frame rate for a smooth, slow-mo
 
 ![enable the optical flow option](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3Enable Render Preview to See Results
 
 Once all is set and done, navigate towards the timeline panel to select this video again. With the help of your cursor, access the "File" tab at the top toolbar. Select the "Render Preview" option from the expanding menu. After rendering is complete, use the preview screen to observe the slo-mo and export it.
@@ -322,6 +308,13 @@ After importing and bringing media to the timeline, select it and reach the sett
 Navigate to the bottom of this panel and expand the AI Frame Interpolation menu. Choose the “Optical Flow” option to achieve your desired outcome.
 
 ![start the optical flow option](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 3Activate Render Preview for Confirmed Results
 
@@ -416,13 +409,6 @@ The second method is also simple, but it has more precise options to create a sl
 After importing and bringing media to the timeline, select it and reach the settings panel. Access the "Speed" > "Speed Ramping" option to start editing. There, you can find many custom speed presets for automated editing. However, you can also use the "Customize" preset to create from scratch. Then, reach the speed graph and move the slider downward to bring the slo-mo effect.
 
 ![start speed ramping](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 2Enable the Optical Flow Option
 
@@ -592,6 +578,13 @@ We'll now **review** some of the most important features of **MAGIX** **Vegas Pr
 
 ![adjustment tracks](https://images.wondershare.com/filmora/article-images/2022/11/adjustment-tracks.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Scene Detection:** The new **"Automatic Scene Detection"** feature saves you the hassle of cutting your video clips manually before adding them to the timeline. The software does this in three ways: Analyse, Detect, and Split the scenes to add them to the timeline in a sequence.
 * **Supported Formats:** VEGAS Pro is compatible with Blackmagic RAW, MP4,  Apple ProRes, MPEG-2, MPEG-1, AVI,AVC, Panasonic P2, and RED RAW video formats. The software also supports images and audio formats.
 
@@ -681,19 +674,6 @@ Step4 You will see Properties window now. Click on Browser button against Video 
 
 ![apply cut transition effects](https://images.wondershare.com/filmora/article-images/2022/07/apply-cut-transition-effects.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 For Transition Point Type, select Time(milliseconds) option. In the Transition Point field, add the duration of the transparent video animation so that the transition to the next scene takes place immediately after the video animation gets completed.
 
 ![select transition point field](https://images.wondershare.com/filmora/article-images/2022/07/select-transition-point-field.jpg)
@@ -710,6 +690,13 @@ Step8 Finally, click on Ok button and play the video to check out the stinger tr
 
 The steps on how to add a custom transition to Streamlabs OBS are almost similar, and therefore, you can add stinger transition using Streamlabs comfortably.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. OBS Alternative to Add Transitions
 
 There is no denying the fact that OBS Studio has a complicated user interface. That is why most amateur video editors find OBS Studio difficult to learn quickly even though there is no dearth of features. Apart from add custom transition OBS, there are very limited effects available on OBS Studio. That is why many users look for an OBS alternative to add transitions to their videos.
@@ -723,6 +710,13 @@ We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/film
 Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as per your operating system. Open Filmora and click on New Project option.
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/open-project-02.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Import or drop your video clips under Project Media folder. Then drag and drop them on Timeline and place them sequentially as appropriate.
 
@@ -748,6 +742,13 @@ You need to go to Scene Transition tab and select any transition overlay effect 
 
 Yes, you can have different scene transitions in OBS Studio. You can add them directly from Scene Transition tab one by one as per your requirements. You can add them in between scenes so that the transition effects play when you switch between scenes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How do I download transitions in OBS?
 
 Go to the OBS Forums from where you get to download transitions for OBS Studio. Click on Download button and download plugin installer as per your operating system. Double-click the installer file to install it on your computer. Go to OBS Studio and go to Scene Transition to use the installed transition.
@@ -766,6 +767,19 @@ Step3 Go to Transitions tab located at the top of the application screen. You wi
 
 ![go to transitions tab](https://images.wondershare.com/filmora/guide/add-transitions-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Check them out and once you have selected one to apply, drag and drop it in between the video clips.
 
 ![check transitions out](https://images.wondershare.com/filmora/guide/add-transitions-2.png)
@@ -773,6 +787,13 @@ Step4 Check them out and once you have selected one to apply, drag and drop it i
 Step5 Play the video and click on Export button to save the video.
 
 ## Part 4: Related FAQs about OBS Transitions
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How do I add a transition overlay in OBS?
 
@@ -802,16 +823,15 @@ Go to the OBS Forums from where you get to download transitions for OBS Studio. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-jumpstart-your-career-with-a-killer-youtube-gaming-channel/"><u>[New] 2024 Approved Jumpstart Your Career with a Killer YouTube Gaming Channel</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-navigating-the-complexities-of-facebooks-copyright-enforcement/"><u>[Updated] 2024 Approved Navigating the Complexities of Facebook's Copyright Enforcement</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-rated-vr-joysticks-unveiled/"><u>2024 Approved Best-Rated VR Joysticks Unveiled</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/benefits-of-live-streaming-on-youtube-for-2024/"><u>Benefits of Live Streaming on YouTube for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/discover-the-magic-of-high-dynamic-range-in-photography-for-2024/"><u>Discover the Magic of High Dynamic Range in Photography for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-handling-fatal-dxgkrnl-errors-during-video-streaming-in-windows/"><u>Effective Fixes for Handling Fatal Dxgkrnl Errors During Video Streaming in Windows</u></a></li>
-<li><a href="https://article-tips.techidaily.com/how-to-seamless-setup-of-ifunny-meme-toolkit-for-2024/"><u>How-To Seamless Setup of iFunny Meme Toolkit for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-ninja-jump-effect-with-filmora/"><u>In 2024, How To Make Ninja Jump Effect with Filmora</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-different-ways-to-crop-tiktok-video-in-high-quality/"><u>New 2024 Approved Different Ways to Crop TikTok Video in High-Quality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-want-to-create-a-stunning-intro-video-on-your-smartphone-legend-intro-maker-is-a-popular-choice-learn-the-steps-to-design-intro-video-legend-intro-maker/"><u>New Want to Create a Stunning Intro Video on Your Smartphone? Legend Intro Maker Is a Popular Choice. Learn the Steps to Design Intro Video Legend Intro Maker</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-animated-text-tips-free-inclusion-techniques/"><u>[New] Animated Text Tips Free Inclusion Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-maximize-your-ios-for-ps2-gaming-with-best-emulators-for-2024/"><u>[New] Maximize Your IOS for PS2 Gaming with Best Emulators for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-simplifying-subtitle-access-three-ways-to-download-youtubes-srt-captions-for-2024/"><u>[New] Simplifying Subtitle Access Three Ways to Download YouTube's SRT Captions for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/bitraser-pro-comprehensive-tutorial-on-secure-data-destruction-via-video/"><u>BitRaser Pro: Comprehensive Tutorial on Secure Data Destruction via Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1722998189915-effortless-solutions-to-your-apex-legends-startup-woes/"><u>Effortless Solutions to Your Apex Legends Startup Woes!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fabricate-personalized-viral-memes-for-2024/"><u>Fabricate Personalized Viral Memes for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unlocking-twitters-full-potential-the-ultimate-guide/"><u>Unlocking Twitter’s Full Potential The Ultimate Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-ninja-jump-effect-with-filmora/"><u>Updated How To Make Ninja Jump Effect with Filmora</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Adobe Lightroom Color Grading Tutorial
-date: 2024-09-12T01:57:05.871Z
-updated: 2024-09-18T17:24:03.186Z
+date: 2024-09-21T16:08:30.487Z
+updated: 2024-09-23T17:09:29.981Z
 tags: 
   - ai
   - animation videos
@@ -153,25 +153,25 @@ Keep hanging the mouse on the corner of the video until and unless the trimming 
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-5.gif)
 
+**Step: 3**
+
+ You don’t want the video parts in the centre of the video clips. First, split the video and delete it. For splitting the video, click on the icon of the scissor.
+
+![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-6.gif)
+
+**Step: 4**
+
+For deleting the part of the undesired part of the video, click on the dustbin icon. If there is any deletion by mistake, there is no need to worry about it. Click on the undo icon to make the video appear on the timeline again.
+
+![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-7.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-**Step: 3**
-
- You don’t want the video parts in the centre of the video clips. First, split the video and delete it. For splitting the video, click on the icon of the scissor.
-
-![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-6.gif)
-
-**Step: 4**
-
-For deleting the part of the undesired part of the video, click on the dustbin icon. If there is any deletion by mistake, there is no need to worry about it. Click on the undo icon to make the video appear on the timeline again.
-
-![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-7.jpeg)
-
 ### **Part 2 - Splitting and trimming the clips in Wondershare Filmora:**
 
 Apart from the above steps for trimming and splitting the videos in Wondershare Filmora, the position of the video has to be in the place head of the frame that you are willing to trim. Right-click on the clip and select the option of “Trim Start to Playhead or Trim End to Playhead “ for deleting the content of the video ahead or back of it.
@@ -193,23 +193,23 @@ Although various editing software is available, Wondershare Filmora has to be on
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-2.png)
 
+### **Part 2- Splitting of more than one clip on various tracks:**
+
+You can also split the number of video and audio clips at the exact timings in DaVinci resolve.
+
+**Step 1:** When there are piles of clips one after the other, the selection of both of the clips is essential, which have to be split. Keep moving the playhead to the exact area where there is a requirement for the changes.
+
+**Step 2:** Just keep pressing **Command or Control + \\** keys, or click on **timeline> Split Clip.** The selected clips of audio and video get split together now. No more slitting of the clips individually. This option is more appropriate for you when creating and managing different parts of massive projects.
+
+![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-3.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-### **Part 2- Splitting of more than one clip on various tracks:**
-
-You can also split the number of video and audio clips at the exact timings in DaVinci resolve.
-
-**Step 1:** When there are piles of clips one after the other, the selection of both of the clips is essential, which have to be split. Keep moving the playhead to the exact area where there is a requirement for the changes.
-
-**Step 2:** Just keep pressing **Command or Control + \\** keys, or click on **timeline> Split Clip.** The selected clips of audio and video get split together now. No more slitting of the clips individually. This option is more appropriate for you when creating and managing different parts of massive projects.
-
-![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-3.png)
-
 ## **An easier way to split the video clips**
 
 Without any doubt, DaVinci resolve is an advanced level software for video editing at the professional level. Moreover, the pricing of DaVinci resolve is $299, and it shows that it is quite expensive for many people. Due to this, you need an economical solution that is [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) .
@@ -438,10 +438,10 @@ In the latest version of the Wondershare Filmora, you can even trim the video wi
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-9.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Although various editing software is available, Wondershare Filmora has to be on the top. It is the best choice to bring your imagination into reality, whether it is transitioning, applying the effects or importing/exporting the videos. All the options are suitable in front and visible on your timeline. Wondershare Filmora supports different operating systems as well. Even no proper training is required, so start using Wondershare Filmora today to get your editing done.
@@ -488,19 +488,6 @@ Adobe Express is labelled as the branding tool where you can create trendy image
 * Different color presets for colourful video
 * Several text animation styles to choose from.
 * Different aspect ratios for different videos
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. [Animaker](https://www.animaker.com/text-animation-maker)
 
@@ -567,6 +554,13 @@ There is a wide array of stock photos and videos along with music that you can u
 * You can upload your customized fonts and styles
 
 ![flexclip aniamted text maker](https://images.wondershare.com/filmora/article-images/2022/08/flexclip-aniamted-text-maker.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. [RenderForest Animated Text Generator](https://www.renderforest.com/animated-text-generator)
 
@@ -662,6 +656,13 @@ Step3 Find the Selective Color Effect and drag it onto the clip. The effect will
 
 ![selective color effect](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Next, double-click on the clip and check out the effects menu at the top of the screen.
 
 ![effects menu](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-5.jpg)
@@ -740,16 +741,16 @@ Step4 Next, double-click on the clip and check out the effects menu at the top o
 
 ![effects menu](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Open the preset drop-down menu. There will be a lot of presets with different colors. Select the preset you want to use. In this scenario, let us select Just Blue.
 
 ![select the preset](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step6 If you see a blue tint at a place or object which you want to be white and black, click on the first color.
 
@@ -781,6 +782,13 @@ Step3 Find the selective color effect and drag it to the clip.
 
 ![selective color](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Double-click on the clip and visit the effects menu at the top of the screen.
 
 ![opening effects menu](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-13.jpg)
@@ -796,6 +804,19 @@ Step6 Next, try selecting a second color to isolate within our shot. In this exa
 Step7 Pick the eyedropper tool and click it on the green part of the clip. Then adjust the range slider as needed.
 
 ![adjusting range slider](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-16.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Alright, let’s watch back the video to see how both colors are now isolated.
 
@@ -819,21 +840,21 @@ Follow all the steps in the correct order. This is how you can use NewBlue effec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-navigating-the-financial-landscape-for-podcasters/"><u>[New] In 2024, Navigating the Financial Landscape for Podcasters</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-cross-platform-streaming-techniques-from-youtube-to-30plus-platforms-for-2024/"><u>[Updated] Cross-Platform Streaming Techniques From YouTube to 30+ Platforms for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-demanding-high-standards-is-aurora-up-to-par-for-2024/"><u>[Updated] Demanding High Standards Is Aurora Up to Par for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-freedom-from-popups-discover-the-top-7-android-adblock-apps/"><u>[Updated] Freedom From Popups? Discover the Top 7 Android AdBlock Apps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-build-stellar-youtube-beginnings-on-a-shoestring-budget/"><u>[Updated] In 2024, Build Stellar YouTube Beginnings on a Shoestring Budget</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-overcoming-limitation-invisible-video-recommendations-for-2024/"><u>[Updated] Overcoming Limitation Invisible Video Recommendations for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-embrace-creativity-in-your-media-by-replacing-backgrounds-learn-to-replace-the-sky-in-lightroom-through-the-steps-and-details-discussed-in-thi/"><u>2024 Approved Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/here-we-are-going-to-show-you-the-best-effects-to-appear-on-camera-made-with-filmora-for-2024/"><u>Here We Are Going to Show You the Best Effects to Appear on Camera Made with Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-correct-lens-distortion-with-filmora/"><u>How to Correct Lens Distortion With Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-vintage-film-effect-1950s-for-2024/"><u>How to Make Vintage Film Effect 1950S for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/making-your-windows-11-pin-more-secure-and-elongated/"><u>Making Your Windows 11 PIN More Secure & Elongated</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-eye-zoom-transition-effect-with-filmora-for-2024/"><u>New How to Make Eye Zoom Transition Effect with Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-something-about-skin-care-vlog-ideas/"><u>New Something About Skin Care Vlog Ideas</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-6-best-explainer-video-software/"><u>Updated 2024 Approved 6 Best Explainer Video Software</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-audio-waveform-generator/"><u>Updated In 2024, Best Audio Waveform Generator</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-5-useful-tool-to-brighten-video-online/"><u>[New] 2024 Approved 5 Useful Tool to Brighten Video Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-todays-vr-an-inside-look/"><u>[Updated] Today’s VR An Inside Look</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-dvd-software-download-update-your-drivers-today/"><u>ASUS DVD Software Download: Update Your Drivers Today</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dialogue-design-the-7-essential-ways-chatgpt-shapes-video-games/"><u>Dialogue Design: The 7 Essential Ways ChatGPT Shapes Video Games</u></a></li>
+<li><a href="https://facebook.techidaily.com/examining-contempt-the-facebook-like-phenomenon-decoded/"><u>Examining Contempt: The Facebook-Like Phenomenon Decoded</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-quiz-videos-detailed-guide-for-2024/"><u>How To Create Quiz Videos Detailed Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-strobe-light-text-effect-in-2024/"><u>How to Make Strobe Light Text Effect, In 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-free-to-profit-reaching-the-new-500-sub-total/"><u>In 2024, Free to Profit Reaching the New 500 Sub Total</u></a></li>
+<li><a href="https://win-forum.techidaily.com/keep-your-computer-safe-a-quick-look-at-locking-down-windows-systems/"><u>Keep Your Computer Safe: A Quick Look at Locking Down Windows Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-use-virtual-green-screen-to-shoot-video/"><u>New 2024 Approved How To Use Virtual Green Screen to Shoot Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-in-camera-transitions-tricks-to-make-videos-like-a-pro-for-2024/"><u>Updated 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-benefits-of-live-streaming-on-youtube/"><u>Updated Benefits of Live Streaming on YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vsco-slow-motion/"><u>VSCO Slow Motion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-wi-fi-not-showing-here-are-the-fixes-for-missing-connections/"><u>Windows 11 Wi-Fi Not Showing? Here Are the Fixes for Missing Connections</u></a></li>
 </ul></div>
 

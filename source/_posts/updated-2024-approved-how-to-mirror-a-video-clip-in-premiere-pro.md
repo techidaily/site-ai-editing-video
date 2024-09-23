@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How To Mirror a Video Clip in Premiere Pro
-date: 2024-09-16T16:48:54.317Z
-updated: 2024-09-18T21:41:21.705Z
+date: 2024-09-21T16:16:44.117Z
+updated: 2024-09-23T19:41:32.780Z
 tags: 
   - ai
   - animation videos
@@ -45,6 +45,13 @@ Step3 **Pick** the "**Horizontal** **Flip**" or "**Vertical** **Flip**" from the
 
 ![adobe premiere pro horizontal or vertical flip](https://images.wondershare.com/filmora/article-images/adobe-premiere-pro-horizontal-or-vertical-flip.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 **Drag** the desired flip onto the selected clip, which will immediately reverse the image displayed on the Program Monitor.
 
 ![adobe premiere pro apply effect](https://images.wondershare.com/filmora/article-images/adobe-premiere-pro-apply-effect.jpg)
@@ -69,13 +76,6 @@ Step4 **Adjust** "**Reflection** **Center**" for side-by-side effect or "**Refle
 
 ![adobe premiere pro adjust reflection angle](https://images.wondershare.com/filmora/article-images/adobe-premiere-pro-adjust-reflection-angle.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## \[Bonus\] Wondershare Filmora – A Great Alternative to Premiere Pro Mirror Tool
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a great alternative to Adobe Premiere Pro for video editing. Not only does it offer an intuitive interface for both beginners and professionals, but it also offers a range of video editing tools and features. One of those features is its ability to easily mirror a video. With Filmora, you can flip your videos vertically or horizontally with just a few clicks.
@@ -85,6 +85,13 @@ Step4 **Adjust** "**Reflection** **Center**" for side-by-side effect or "**Refle
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![filmora flip tool](https://images.wondershare.com/filmora/article-images/filmora-flip-tool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Filmora also offers a variety of creative video effects and templates, making it easy to add a unique touch to your projects. In addition, its built-in audio editing tools allow you to create professional-sounding soundtracks for your videos. Filmora's easy-to-use keyframe animation feature gives you precise control over the animation of your elements, allowing you to add movement and bring your videos to life.
 
@@ -103,6 +110,13 @@ Step1 Within the "**Flip**" section, there are four options available. To **flip
 Step2 You can **rotate** the clip by clicking either the "**Clockwise**" or "**Counterclockwise**" icons under the Rotate section.
 
 ![filmora rotate clockwise or counterclockwise](https://images.wondershare.com/filmora/article-images/filmora-rotate-clockwise-or-counterclockwise.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 If you want to specify the rotation angle, you can either **enter** a value in the box under the Rotate tab or **manipulate** the dot in the circle to achieve the desired angle.
 
@@ -181,6 +195,13 @@ Step3 **Locate** the "**Mirror**" effect, **drag and drop** it to the filter tra
 Step4 **Preview** the results in the Preview Window before exporting the video from Filmora.
 
 ![filmora edit effect duration](https://images.wondershare.com/filmora/article-images/filmora-edit-effect-duration.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -210,6 +231,13 @@ In this article, we will address **how to do motion blur on CapCut** with simple
 The motion blur effect changes the perspective of moving objects in a film or video. If you have created an animated video, you must add a motion blur effect to make the movement of objects or characters natural. Moreover, it gives a realistic touch to your videos by describing a particular movement in the video. That’s why adding a motion blur effect in videos is necessary, as, without this effect, the video would look choppy.
 
 To introduce a motion blur effect, you can find multiple tools and video editors. However, if you want to try professional software, [CapCut](https://www.capcut.com/) is a trustworthy option. This tool has a pre-made motion blur effect that you can instantly add within seconds. So, if you have already downloaded CapCut, upgrade to its latest version to try its built-in motion blur effect. Continue reading this article to find out about **motion** **blur CapCut**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Add Motion Blur to Videos on CapCut?
 
@@ -270,13 +298,6 @@ Besides being a powerful video editor, you can also use this tool to add a motio
 
 **Tutorial:** To see and learn how to use Videoleap effectively, you can see a quick tutorial following this link: <https://www.youtube.com/watch?v=e7twWHCVT8U>.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. NSMB – Motion Blur Video
 
 NSMB is a special app that can also work offline to add a motion blur effect to your videos. It has a simple interface that allows you to add a motion blur effect to your video instantly. Once you have uploaded the video on this app, you can easily apply the motion blur effect with a single tap.
@@ -311,6 +332,13 @@ Node Video is a complete professional tool as it offers various editing features
 It also offers various types of effects and filters that can transform your video effectively. Moreover, you can also add a motion blur effect from this tool to your video within seconds. It has a built-in motion blur effect that can be added instantly without complications.
 
 ![node video pro video editor](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Download:** [**Android**](https://play.google.com/store/apps/details?id=com.shallwaystudio.nodevideo&hl=en&gl=US) **|** [**iOS**](https://apps.apple.com/us/app/nodevideo-poweryourcreativity/id1467362169?platform=iphone)
 
@@ -394,13 +422,6 @@ It also offers various types of effects and filters that can transform your vide
 * To continuously use this app, you have to buy its subscription plans.
 
 **Tutorial:** In this video tutorial, you can find authentic instructions to use Node Video without any hassle. Thus, visit this video link to check the tutorial: <https://www.youtube.com/watch?v=z9lq8XXCmss>.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comparison
 
@@ -564,25 +585,18 @@ After Effects provides four types of Track Matte options: Alpha Matte, Alpha Inv
 
 ![the four track matte options in after effects](https://images.wondershare.com/filmora/article-images/2022/07/the-four-track-matte-options-in-after-effects.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Let's find out the functions of each option one by one:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Alpha Matte
 
 Alpha Matte is an important option under the Track Matte menu, as it allows you to create a mask based on the transparency of the layer you are using it on. Like the mask, it will use any pixel above 0% opacity and can be useful for various purposes, such as creating a vignette or isolating a certain area of the frame.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Alpha Inverted Matte
 
@@ -669,6 +683,13 @@ Step 6: To add a font to your video, simply search VHS font on Google. Look for 
 Step 7: Go to Layer < New < Solid and choose any color. We chose white. Now, under Effects & Presets, search for a number. Drag it to the white solid. Choose the font VCR OSD Mono. You can change the number to time or date. You can also add time manually. Select the text tool, go to the source text, hold alt, and click on the stopwatch. Write "timeToCurrentFormat() and time will be displayed on the video. Let us say we want to see the date on the video instead of time. So, change the time to date. Drag the date to the bottom right of the video to give it the look of an old VHS tape.
 
 If you are a beginner and want a simple VHS effect, you can follow these easy steps and create the VHS video that will transport you back to the 90s.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## BONUS TIP: How to Add VHS Overlays and Glitch Effects to Make Retro Videos in Filmora Video Editor?
 
@@ -864,21 +885,17 @@ Detailed tutorials provided by the official channel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-path-to-popularity-unveiling-tubebuddy-secrets/"><u>[New] The Path to Popularity Unveiling TubeBuddy Secrets</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-cod-black-ops-cold-war-not-launching-on-pc/"><u>[SOLVED] COD: Black Ops Cold War Not Launching on PC</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-recording-power-20plus-best-practices-for-skype-chats-on-windowsmac-pcs/"><u>2024 Approved Recording Power 20+ Best Practices for Skype Chats on Windows/Mac PCs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-unlocking-idevice-screen-playback-perfection/"><u>2024 Approved Unlocking iDevice Screen Playback Perfection</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/bitraser-pro-comprehensive-tutorial-on-secure-data-destruction-via-video/"><u>BitRaser Pro: Comprehensive Tutorial on Secure Data Destruction via Video</u></a></li>
-<li><a href="https://discover-community.techidaily.com/die-besten-kostenlosen-lichtbox-losungen-und-plattformen-fur-entwickler-ab-2024-eine-rangliste-der-top-25/"><u>Die Besten Kostenlosen Lichtbox-Lösungen Und Plattformen Für Entwickler Ab 2024: Eine Rangliste Der Top 25</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722998189915-effortless-solutions-to-your-apex-legends-startup-woes/"><u>Effortless Solutions to Your Apex Legends Startup Woes!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-audio-systems/"><u>Expert Tips on Repairing Malfunctioning Computer Audio Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-70-lite-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor 70 Lite 5G</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio/"><u>In 2024, Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-the-lens-focus-techniques-for-storify-success/"><u>In 2024, Mastering the Lens Focus Techniques for Storify Success</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/is-windows-movie-maker-still-available-in-2024/"><u>Is Windows Movie Maker Still Available, In 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/snickel-and-wail-instagrams-10-most-hilarious-meme-accounts/"><u>Snickel & Wail Instagram's 10 Most Hilarious Meme Accounts</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-a-lut-that-you-can-use-for-your-high-definition-content-you-can-use-rec-709-lut-premiere-pro-for-your-hd-digital-media-to-give-the-perfe/"><u>Updated Do You Want a LUT that You Can Use for Your High-Definition Content? You Can Use Rec 709 LUT Premiere Pro for Your HD Digital Media to Give the Perfect Result</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-ninja-jump-effect-with-filmora/"><u>Updated How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-proven-steps-for-choosing-an-effective-4k-camera-lens/"><u>[Updated] Proven Steps for Choosing an Effective 4K Camera Lens</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-unseen-enthusiasts-blueprint-for-instagram-live-viewership/"><u>[Updated] The Unseen Enthusiast’s Blueprint for Instagram Live Viewership</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-lava-agni-2-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Lava Agni 2 5G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-infinix-hot-40i-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Infinix Hot 40i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-90-gt-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor 90 GT Phone?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fostering-connection-through-respectful-engagement/"><u>In 2024, Fostering Connection Through Respectful Engagement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-bolsters-consumer-confidence-by-offering-extra-years-of-warranty-on-next-gen-processors-amid-technical-challenges/"><u>Intel Bolsters Consumer Confidence by Offering Extra Years of Warranty on Next-Gen Processors Amid Technical Challenges</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-audio-manipulation-in-canva-videos/"><u>Mastering Audio Manipulation in Canva Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-effective-ways-to-add-text-behind-objects/"><u>New 2024 Approved 2 Effective Ways to Add Text Behind Objects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved How to Remove Background From a Video in Premier Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
 </ul></div>
 

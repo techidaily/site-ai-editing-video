@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Step by Step to Rotate Video in Google Photos
-date: 2024-09-15T00:24:02.221Z
-updated: 2024-09-19T03:31:05.626Z
+date: 2024-09-19T16:49:14.051Z
+updated: 2024-09-23T19:02:14.477Z
 tags: 
   - ai
   - animation videos
@@ -61,97 +61,13 @@ For macOS 10.14 or later
 
 Here’s How to do it…
 
-### Rotate video at any angle
-
-You can also rotate the video by using the **Transform** tab located at the top right corner.
-
-* Drag your video into the **timeline**.
-* Double click on the video to bring up the **editing panel**.
-* Hit the **basic** tab under the **video** tab in the menu bar.
-* Select the **Transform**
-* Click the **rotate**
-* Here you can move the rotate slider or directly enter the rotating value.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
-
-You will notice that I have changed the rotation of my video from its original position to the rotated angle.
-
-You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
-
-* Hit the **ok**
-* Select the **save**
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
-
-Similarly, you can drag the video from the preview panel and adjust it as required.
-
-Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
-
-Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
-
-Just go ahead and start…
-
- Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
-
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-### **What’s more you can do with Filmora**
-
-**Changing the Aspect ratio**
-
-After you rotate the video at an angle you like. You can change the aspect ratio of the video furthermore.
-
-* **Import** the desired video and drag it into the **timeline**. Then click the Aspect Ratio icon at the bottom of the preview window.
-* You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
-* Press **OK**
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
-
-By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
-
-## **Conclusion**
-
-Here’s how you can rotate your video using two different softwares. Now you can shoot your videos without setting the proper video orientation. Sometimes, while shooting a video, the real scene unfolds in making a lot settings. I hope, after reading this content, you will be confident enough to start shooting videos and then editing them without having trouble of learning the software.
-
-Let’s dive in!
-
-Go ahead…
-
-A good destiny is waiting for you.
-
-You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
-
-Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
-
-## **An easier way to rotate videos in Google Photos**
-
-If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
-
-But stop worrying, you can set your video at any angle with [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . It is one of the best video editing software that provides you with the editing tools you need to edit and share your videos across the globe. It allows you to flip and rotate the orientation of the video. It also supports many popular formats used on different social media platforms like Linkedin, Instagram, Twitter, YouTube and so many more.
-
-Let’s have look at this professionally designed software that everyone can master in a few minutes and can film professional videos. Since it provides all the features that you will need to make movies in a good way. Moreover, its interface is very simple to use.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-Here’s How to do it…
-
 ### Rotate video at any angle
 
 You can also rotate the video by using the **Transform** tab located at the top right corner.
@@ -249,6 +165,13 @@ You can also rotate the video by using the **Transform** tab located at the top 
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You will notice that I have changed the rotation of my video from its original position to the rotated angle.
 
 You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
@@ -319,6 +242,123 @@ For Win 7 or later (64-bit)
 For macOS 10.14 or later
 
 Here’s How to do it…
+
+### Rotate video at any angle
+
+You can also rotate the video by using the **Transform** tab located at the top right corner.
+
+* Drag your video into the **timeline**.
+* Double click on the video to bring up the **editing panel**.
+* Hit the **basic** tab under the **video** tab in the menu bar.
+* Select the **Transform**
+* Click the **rotate**
+* Here you can move the rotate slider or directly enter the rotating value.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+You will notice that I have changed the rotation of my video from its original position to the rotated angle.
+
+You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
+
+* Hit the **ok**
+* Select the **save**
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Similarly, you can drag the video from the preview panel and adjust it as required.
+
+Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
+
+Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
+
+Just go ahead and start…
+
+ Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
+
+### **What’s more you can do with Filmora**
+
+**Changing the Aspect ratio**
+
+After you rotate the video at an angle you like. You can change the aspect ratio of the video furthermore.
+
+* **Import** the desired video and drag it into the **timeline**. Then click the Aspect Ratio icon at the bottom of the preview window.
+* You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
+* Press **OK**
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
+
+By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
+
+## **Conclusion**
+
+Here’s how you can rotate your video using two different softwares. Now you can shoot your videos without setting the proper video orientation. Sometimes, while shooting a video, the real scene unfolds in making a lot settings. I hope, after reading this content, you will be confident enough to start shooting videos and then editing them without having trouble of learning the software.
+
+Let’s dive in!
+
+Go ahead…
+
+A good destiny is waiting for you.
+
+You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
+
+Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
+
+## **An easier way to rotate videos in Google Photos**
+
+If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
+
+But stop worrying, you can set your video at any angle with [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . It is one of the best video editing software that provides you with the editing tools you need to edit and share your videos across the globe. It allows you to flip and rotate the orientation of the video. It also supports many popular formats used on different social media platforms like Linkedin, Instagram, Twitter, YouTube and so many more.
+
+Let’s have look at this professionally designed software that everyone can master in a few minutes and can film professional videos. Since it provides all the features that you will need to make movies in a good way. Moreover, its interface is very simple to use.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Here’s How to do it…
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Rotate video at any angle
 
@@ -431,19 +471,6 @@ Twitch is the most popular and best live streaming platform that allows gamers t
 
 This feature can be useful to save your live stream for later viewing or share your stream with someone who missed it.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Features
 
 Twitch offers a variety of features that make it a unique and powerful game streaming platform. Some of the most notable ones are:
@@ -455,13 +482,6 @@ Twitch offers a variety of features that make it a unique and powerful game stre
 
 * Use the **"Highlights"** feature, which allows you to save specific moments from your live stream.
 * Download your stream's entire **VOD** (video on demand) after it has ended.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Steps
 
@@ -498,6 +518,19 @@ Using a screen recorder is a great way to record your live stream because it let
 * A variety of video editing features
 * An easy-to-use interface
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps
 
 Here's how to use Filmora for recording while streaming:
@@ -513,13 +546,6 @@ Step3 A new **"Wondershare Screen Recorder"** window will pop up. You can set up
 ![filmora recorder window](https://images.wondershare.com/filmora/article-images/2022/11/filmora-recorder-window.png)
 
 Step4 Click the **Start** icon to begin your recording. Afterward, click the **Stop** icon to stop the recording, and your stream will be saved in the selected destination.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -563,83 +589,31 @@ Go to **My Media** and click on **“Import Media”** to load your photos or im
 
 ![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
 
-Step 3
-
-Drag the media you want to use to the Timeline.
-
-![drag media to timeline](https://images.wondershare.com/filmora/article-images/2023/01/drag.png)
-
-Step 4
-
-Head over to **Titles** → **Lower Thirds**. Then, drag the one you like to use to the Timeline and place it above the clip you imported earlier.
-
-![lower third filmora](https://images.wondershare.com/filmora/article-images/2023/01/titles.png)
-
-Step 5
-
-Double-click on the Lower Third Title clip. Then, edit the text inside the new panel that pops up. Here, you can change its size, color, font, and a few other features. When you’re done, click **OK.**
-
-![edit text filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
-
-Step 6
-
-All that’s left to do now is to watch the final preview and Export the video. Render the video first and then hit the blue **Export button.** Congratulations on adding a lower-third animated title to your video in Filmora.
-
-![render video filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
-
-Summary
-
-**What you've learned:**
-
-* How to add and create unique titles in Filmora
-* Edit and customize text in the Filmora video editor
-* How to open a new project in Filmora and export it when you’re done
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-Download and Install the [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/). After it’s done installing, let the app run automatically and click on **“New Project”.**
-
-Step 2
-
-Go to **My Media** and click on **“Import Media”** to load your photos or images into the video editor.
-
-![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
-
-Step 3
-
-Drag the media you want to use to the Timeline.
-
-![drag media to timeline](https://images.wondershare.com/filmora/article-images/2023/01/drag.png)
-
-Step 4
-
-Head over to **Titles** → **Lower Thirds**. Then, drag the one you like to use to the Timeline and place it above the clip you imported earlier.
-
-![lower third filmora](https://images.wondershare.com/filmora/article-images/2023/01/titles.png)
-
-Step 5
-
-Double-click on the Lower Third Title clip. Then, edit the text inside the new panel that pops up. Here, you can change its size, color, font, and a few other features. When you’re done, click **OK.**
-
-![edit text filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+Step 3
+
+Drag the media you want to use to the Timeline.
+
+![drag media to timeline](https://images.wondershare.com/filmora/article-images/2023/01/drag.png)
+
+Step 4
+
+Head over to **Titles** → **Lower Thirds**. Then, drag the one you like to use to the Timeline and place it above the clip you imported earlier.
+
+![lower third filmora](https://images.wondershare.com/filmora/article-images/2023/01/titles.png)
+
+Step 5
+
+Double-click on the Lower Third Title clip. Then, edit the text inside the new panel that pops up. Here, you can change its size, color, font, and a few other features. When you’re done, click **OK.**
+
+![edit text filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
+
 Step 6
 
 All that’s left to do now is to watch the final preview and Export the video. Render the video first and then hit the blue **Export button.** Congratulations on adding a lower-third animated title to your video in Filmora.
@@ -737,6 +711,65 @@ Step 4
 Head over to **Titles** → **Lower Thirds**. Then, drag the one you like to use to the Timeline and place it above the clip you imported earlier.
 
 ![lower third filmora](https://images.wondershare.com/filmora/article-images/2023/01/titles.png)
+
+Step 5
+
+Double-click on the Lower Third Title clip. Then, edit the text inside the new panel that pops up. Here, you can change its size, color, font, and a few other features. When you’re done, click **OK.**
+
+![edit text filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
+
+Step 6
+
+All that’s left to do now is to watch the final preview and Export the video. Render the video first and then hit the blue **Export button.** Congratulations on adding a lower-third animated title to your video in Filmora.
+
+![render video filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
+
+Summary
+
+**What you've learned:**
+
+* How to add and create unique titles in Filmora
+* Edit and customize text in the Filmora video editor
+* How to open a new project in Filmora and export it when you’re done
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+Download and Install the [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/). After it’s done installing, let the app run automatically and click on **“New Project”.**
+
+Step 2
+
+Go to **My Media** and click on **“Import Media”** to load your photos or images into the video editor.
+
+![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
+
+Step 3
+
+Drag the media you want to use to the Timeline.
+
+![drag media to timeline](https://images.wondershare.com/filmora/article-images/2023/01/drag.png)
+
+Step 4
+
+Head over to **Titles** → **Lower Thirds**. Then, drag the one you like to use to the Timeline and place it above the clip you imported earlier.
+
+![lower third filmora](https://images.wondershare.com/filmora/article-images/2023/01/titles.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5
 
@@ -776,18 +809,24 @@ Summary
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/73236171-updated-2024-approved-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>[Updated] 2024 Approved Elevate Your Channel Hit the 10,000 View Mark Fast!</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-excellence-squad-selecting-top-7-fps-games-for-2024/"><u>[Updated] Excellence Squad Selecting Top 7 FPS Games for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-streamline-your-watch-time-enable-youtube-autoplay-on-fb/"><u>[Updated] Streamline Your Watch Time Enable YouTube Autoplay on FB</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-virtual-presence-enhanced-screen-focus-on-ms-teams/"><u>2024 Approved Unlocking Virtual Presence Enhanced Screen Focus on MS Teams</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-solutions-to-address-wow-crashing-problems-effectively/"><u>Easy Solutions to Address WoW Crashing Problems Effectively</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-ad/"><u>New 2024 Approved Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-dollar-store-diy-hacks-to-use-for-filmmaking/"><u>New Dollar-Store DIY Hacks to Use for Filmmaking</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-what-is-the-best-fps-for-youtube-videos/"><u>New In 2024, What Is the Best FPS for YouTube Videos?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-feather-shapes-in-after-effects-and-add-a-professional-touch-to-your-designs-this-comprehensive-guide-covers-everything-from-the-basics-to-/"><u>New Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/pioneering-podcast-production-writing-and-examples-guide/"><u>Pioneering Podcast Production Writing & Examples Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-speed-ramping-to-create-an-intense-action-footage-for-2024/"><u>Updated How To Use Speed Ramping to Create an Intense Action Footage for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-tech-innovator-point-of-view-unveiling-the-best-fb-video-downloaders-on-android/"><u>[New] 2024 Approved Tech Innovator' Point of View Unveiling the Best FB Video Downloaders on Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-navigating-steam-with-your-switch-pro-device/"><u>[Updated] In 2024, Navigating Steam with Your Switch Pro Device</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-easy-steps-to-screen-recording-across-oses-and-devices/"><u>2024 Approved Easy Steps to Screen Recording Across OSes & Devices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-create-a-zoom-motion-blur-effect-using-photoshop-if-you-are-unaware-of-how-to-do-this-read-this-article-to-learn-simple-yet-authentic-instruc/"><u>Do You Want to Create a Zoom Motion Blur Effect Using Photoshop? If You Are Unaware of How to Do This, Read This Article to Learn Simple yet Authentic Instructions</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/free-online-conversion-of-flv-to-flac-by-movavi-start-today/"><u>Free Online Conversion of FLV to FLAC by Movavi - Start Today</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-3-ways-to-stream-and-record-at-the-same-time/"><u>In 2024, 3 Ways To Stream And Record At The Same Time</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-lava-agni-2-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Lava Agni 2 5G FRP Bypass</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-best-luts-for-vlog/"><u>In 2024, Overview of Best LUTs for Vlog</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-htc-u23-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change HTC U23 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quieting-mute-voices-on-obs-platforms/"><u>Quieting Mute Voices on OBS Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-art-of-textual-dimension-mastering-adobe-illustrator/"><u>The Art of Textual Dimension Mastering Adobe Illustrator</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-determining-if-the-xbox-service-is-disrupted/"><u>Troubleshooting: Determining if the Xbox Service Is Disrupted</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-video-contents-that-convert-sales-for-2024/"><u>Updated How to Create Video Contents That Convert Sales for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora-in-2024/"><u>Updated How To Make a Video by Mouse in Filmora, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954220029-updated-in-2024-what-you-should-know-about-speech-to-text-technology/"><u>Updated In 2024, What You Should Know About Speech-to-Text Technology</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-play-a-video-on-loop-on-vimeo-so-that-it-plays-again-and-again-here-are-all-the-different-ways-to-loop-a-video-on-vimeo-in-simple-steps-for-2024/"><u>Want to Play a Video on Loop on Vimeo so that It Plays Again and Again? Here Are All the Different Ways to Loop a Video on Vimeo in Simple Steps for 2024</u></a></li>
 </ul></div>
 

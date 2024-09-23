@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing
-date: 2024-09-14T17:00:31.436Z
-updated: 2024-09-18T23:52:43.679Z
+date: 2024-09-18T19:04:55.845Z
+updated: 2024-09-23T17:07:20.010Z
 tags: 
   - ai
   - animation videos
@@ -117,6 +117,13 @@ Let's start with the first one. Before you start, make sure you put the camera o
 Step1 For the first shot, you must throw a jacket on a stool. Make sure it lands on the stool or wherever your talent is going to sit.
 
 ![throw a jacket on a stool](https://images.wondershare.com/filmora/article-images/2022/12/appearance_1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Make a shot of your talent appearing from where the jacket landed. You can add some acting skills to make this shot more realistic.
 
@@ -236,19 +243,6 @@ Step 2: Then, click on the "Strip" menu and select "Transform."
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
@@ -479,13 +473,6 @@ For macOS 10.14 or later
 
 There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step-by-step on how to rotate videos in Filmora
 
 To rotate a video clip using keyframes...
@@ -501,13 +488,6 @@ Step 2: In the timeline, place the playhead at the beginning of the clip.
 Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Move the playhead to the end of the clip and drag the rotation handle again to rotate it further.
 
@@ -665,13 +645,6 @@ Step 1: Launch the VLC Media Player
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Go to Menu > View Menu > Advanced Controls in VLC Media Player and select it from the menu.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-5.png)
@@ -679,169 +652,104 @@ Step 2: Go to Menu > View Menu > Advanced Controls in VLC Media Player and selec
 Step 3: Play the video you want to crop and then click the Record button on the scene you want to crop and then the same button to pause the video where you want to crop it.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-6.png)
-
-Step 4: In Windows 7, 8, and XP, the film will automatically save in Library > Videos, and in My Documents > My Videos in Windows 7.
-
-VLC Media Player is unquestionably one of the greatest video players available for free. Nonetheless, it isn't the finest video reduction because it just reduces the size of videos by using certain simple parameters rather than complex ones. As a result, we offer Fimora, an all-in-one video toolbox that can convert, compress, download, record, edit, burn, and more, as a better video compressor. You can change the video resolution, bit rate, encoder, format, and other settings to compress video and audio files in a variety of formats. Follow the simple steps below to get this VLC compressor replacement on your Windows/Mac for free.
-
-## An easier way to resize videos using Filmora
-
-[Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful, yet easy to use video editor for PC and Mac. With the most intuitive and streamlined editing process out there, Filmora lets you cut and resize videos with just a few clicks of your mouse.
-
-Through this part, we'll show you how to resize videos using Filmora's three-step process: import video files, select video clips, and edit them. We'll also teach you some shortcuts for making the editing process as quick as possible!
-
-A common challenge for beginner video editors is knowing where to start. With Filmora, you begin by importing your video files, selecting the clip you want to cut, and then editing it. It's a three-step process that takes less than five minutes!
-
-Once you have finished editing your video clip, Filmora will give you the option to share it on social media or export it in MP4 or AVI format.
-
-Keep reading to learn more about how to cut and resize videos using Filmora's three-step process!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-### Step by Step on How to Resize Videos using Filmora
-
-Resizing videos in Filmora is a quick and easy process. To resize videos, first make sure you have imported your video file into the editor.
-
-**Resizing by changing the dimensions**
-
-Step 1: To import a video file, either drag and drop the file on the screen or click on "Import Files" in the toolbar.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-7.png)
-
-Step 2: Once you've imported your video, select the video clips that you want to resize by clicking on them; then, resizing them is as simple as dragging their borders!
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-8.png)
-
-Step 3: You can also use the size fields at the bottom of the frame to change their dimensions.
-
-Step 4: Keep in mind that changing one dimension of a video clip will affect both its width and height proportionally. For example, if you enlarge a 16:9 widescreen clip to 720p (from 480p), it will be double its original proportions (720x480).
-
-**Resizing by shrinking video file size.**
-
-Step 1: To import a video file, either drag and drop it onto the screen or use the toolbar's "Import Files" option.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-9.png)
-
-Step 2: Open the video shrinker's output window by clicking the "Export" button.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-10.png)
-
-Step 3: Select the Format tab and keep the video in its original format as a result. Then, in the "Settings" panel, click the triangle button below to downsize the video by choosing a lower video resolution, frame rate, or bit rate. When it comes to video formats, you can choose among FLV, MP4, and other similar formats, which normally result in smaller files.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-11.png)
-
-Step 4: The shrunk file should be exported.
-
-## Conclusion
-
-So you’ve got this beautiful video you want to post on your social media page or website, but the dimensions are all wrong. No worries! There’s an easy solution to your problem. Filmora is a video editing software that is easy to use and versatile and powerful at the same time. Whether you’re just starting out or are a pro, Filmora is the perfect tool for the job. You don’t need to be an expert to edit videos in Filmora; it’s easy enough for beginners. With Filmora, you can resize your videos in seconds by following these simple steps above.
-
-Step 2: Go to the menu and pick Media > Convert/Save from the drop-down menu, then Add > Convert/Save from the drop-down menu.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-2.png)
-
-Step 3: Choose a profile for the video you wish to convert.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-3.png)
-
-Step 4: Select the Start button to start VLC video compression.
-
-### Resizing by cutting unnecessary video segment
-
-Step 1: Launch the VLC Media Player
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-4.png)
-
-Step 2: Go to Menu > View Menu > Advanced Controls in VLC Media Player and select it from the menu.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-5.png)
-
-Step 3: Play the video you want to crop and then click the Record button on the scene you want to crop and then the same button to pause the video where you want to crop it.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-6.png)
-
-Step 4: In Windows 7, 8, and XP, the film will automatically save in Library > Videos, and in My Documents > My Videos in Windows 7.
-
-VLC Media Player is unquestionably one of the greatest video players available for free. Nonetheless, it isn't the finest video reduction because it just reduces the size of videos by using certain simple parameters rather than complex ones. As a result, we offer Fimora, an all-in-one video toolbox that can convert, compress, download, record, edit, burn, and more, as a better video compressor. You can change the video resolution, bit rate, encoder, format, and other settings to compress video and audio files in a variety of formats. Follow the simple steps below to get this VLC compressor replacement on your Windows/Mac for free.
-
-## An easier way to resize videos using Filmora
-
-[Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful, yet easy to use video editor for PC and Mac. With the most intuitive and streamlined editing process out there, Filmora lets you cut and resize videos with just a few clicks of your mouse.
-
-Through this part, we'll show you how to resize videos using Filmora's three-step process: import video files, select video clips, and edit them. We'll also teach you some shortcuts for making the editing process as quick as possible!
-
-A common challenge for beginner video editors is knowing where to start. With Filmora, you begin by importing your video files, selecting the clip you want to cut, and then editing it. It's a three-step process that takes less than five minutes!
-
-Once you have finished editing your video clip, Filmora will give you the option to share it on social media or export it in MP4 or AVI format.
-
-Keep reading to learn more about how to cut and resize videos using Filmora's three-step process!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-### Step by Step on How to Resize Videos using Filmora
-
-Resizing videos in Filmora is a quick and easy process. To resize videos, first make sure you have imported your video file into the editor.
-
-**Resizing by changing the dimensions**
-
-Step 1: To import a video file, either drag and drop the file on the screen or click on "Import Files" in the toolbar.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-7.png)
-
-Step 2: Once you've imported your video, select the video clips that you want to resize by clicking on them; then, resizing them is as simple as dragging their borders!
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-8.png)
-
-Step 3: You can also use the size fields at the bottom of the frame to change their dimensions.
-
-Step 4: Keep in mind that changing one dimension of a video clip will affect both its width and height proportionally. For example, if you enlarge a 16:9 widescreen clip to 720p (from 480p), it will be double its original proportions (720x480).
-
-**Resizing by shrinking video file size.**
-
-Step 1: To import a video file, either drag and drop it onto the screen or use the toolbar's "Import Files" option.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-9.png)
-
-Step 2: Open the video shrinker's output window by clicking the "Export" button.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-10.png)
-
-Step 3: Select the Format tab and keep the video in its original format as a result. Then, in the "Settings" panel, click the triangle button below to downsize the video by choosing a lower video resolution, frame rate, or bit rate. When it comes to video formats, you can choose among FLV, MP4, and other similar formats, which normally result in smaller files.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-11.png)
-
-Step 4: The shrunk file should be exported.
-
-## Conclusion
-
-So you’ve got this beautiful video you want to post on your social media page or website, but the dimensions are all wrong. No worries! There’s an easy solution to your problem. Filmora is a video editing software that is easy to use and versatile and powerful at the same time. Whether you’re just starting out or are a pro, Filmora is the perfect tool for the job. You don’t need to be an expert to edit videos in Filmora; it’s easy enough for beginners. With Filmora, you can resize your videos in seconds by following these simple steps above.
-
-Step 2: Go to the menu and pick Media > Convert/Save from the drop-down menu, then Add > Convert/Save from the drop-down menu.
-
-![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Step 4: In Windows 7, 8, and XP, the film will automatically save in Library > Videos, and in My Documents > My Videos in Windows 7.
+
+VLC Media Player is unquestionably one of the greatest video players available for free. Nonetheless, it isn't the finest video reduction because it just reduces the size of videos by using certain simple parameters rather than complex ones. As a result, we offer Fimora, an all-in-one video toolbox that can convert, compress, download, record, edit, burn, and more, as a better video compressor. You can change the video resolution, bit rate, encoder, format, and other settings to compress video and audio files in a variety of formats. Follow the simple steps below to get this VLC compressor replacement on your Windows/Mac for free.
+
+## An easier way to resize videos using Filmora
+
+[Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful, yet easy to use video editor for PC and Mac. With the most intuitive and streamlined editing process out there, Filmora lets you cut and resize videos with just a few clicks of your mouse.
+
+Through this part, we'll show you how to resize videos using Filmora's three-step process: import video files, select video clips, and edit them. We'll also teach you some shortcuts for making the editing process as quick as possible!
+
+A common challenge for beginner video editors is knowing where to start. With Filmora, you begin by importing your video files, selecting the clip you want to cut, and then editing it. It's a three-step process that takes less than five minutes!
+
+Once you have finished editing your video clip, Filmora will give you the option to share it on social media or export it in MP4 or AVI format.
+
+Keep reading to learn more about how to cut and resize videos using Filmora's three-step process!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+### Step by Step on How to Resize Videos using Filmora
+
+Resizing videos in Filmora is a quick and easy process. To resize videos, first make sure you have imported your video file into the editor.
+
+**Resizing by changing the dimensions**
+
+Step 1: To import a video file, either drag and drop the file on the screen or click on "Import Files" in the toolbar.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-7.png)
+
+Step 2: Once you've imported your video, select the video clips that you want to resize by clicking on them; then, resizing them is as simple as dragging their borders!
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-8.png)
+
+Step 3: You can also use the size fields at the bottom of the frame to change their dimensions.
+
+Step 4: Keep in mind that changing one dimension of a video clip will affect both its width and height proportionally. For example, if you enlarge a 16:9 widescreen clip to 720p (from 480p), it will be double its original proportions (720x480).
+
+**Resizing by shrinking video file size.**
+
+Step 1: To import a video file, either drag and drop it onto the screen or use the toolbar's "Import Files" option.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-9.png)
+
+Step 2: Open the video shrinker's output window by clicking the "Export" button.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 3: Select the Format tab and keep the video in its original format as a result. Then, in the "Settings" panel, click the triangle button below to downsize the video by choosing a lower video resolution, frame rate, or bit rate. When it comes to video formats, you can choose among FLV, MP4, and other similar formats, which normally result in smaller files.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-11.png)
+
+Step 4: The shrunk file should be exported.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Conclusion
+
+So you’ve got this beautiful video you want to post on your social media page or website, but the dimensions are all wrong. No worries! There’s an easy solution to your problem. Filmora is a video editing software that is easy to use and versatile and powerful at the same time. Whether you’re just starting out or are a pro, Filmora is the perfect tool for the job. You don’t need to be an expert to edit videos in Filmora; it’s easy enough for beginners. With Filmora, you can resize your videos in seconds by following these simple steps above.
+
+Step 2: Go to the menu and pick Media > Convert/Save from the drop-down menu, then Add > Convert/Save from the drop-down menu.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-2.png)
 
 Step 3: Choose a profile for the video you wish to convert.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Select the Start button to start VLC video compression.
 
@@ -854,6 +762,13 @@ Step 1: Launch the VLC Media Player
 Step 2: Go to Menu > View Menu > Advanced Controls in VLC Media Player and select it from the menu.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Play the video you want to crop and then click the Record button on the scene you want to crop and then the same button to pause the video where you want to crop it.
 
@@ -1000,6 +915,106 @@ Step 2: Open the video shrinker's output window by clicking the "Export" button.
 Step 3: Select the Format tab and keep the video in its original format as a result. Then, in the "Settings" panel, click the triangle button below to downsize the video by choosing a lower video resolution, frame rate, or bit rate. When it comes to video formats, you can choose among FLV, MP4, and other similar formats, which normally result in smaller files.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-11.png)
+
+Step 4: The shrunk file should be exported.
+
+## Conclusion
+
+So you’ve got this beautiful video you want to post on your social media page or website, but the dimensions are all wrong. No worries! There’s an easy solution to your problem. Filmora is a video editing software that is easy to use and versatile and powerful at the same time. Whether you’re just starting out or are a pro, Filmora is the perfect tool for the job. You don’t need to be an expert to edit videos in Filmora; it’s easy enough for beginners. With Filmora, you can resize your videos in seconds by following these simple steps above.
+
+Step 2: Go to the menu and pick Media > Convert/Save from the drop-down menu, then Add > Convert/Save from the drop-down menu.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-2.png)
+
+Step 3: Choose a profile for the video you wish to convert.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-3.png)
+
+Step 4: Select the Start button to start VLC video compression.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Resizing by cutting unnecessary video segment
+
+Step 1: Launch the VLC Media Player
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-4.png)
+
+Step 2: Go to Menu > View Menu > Advanced Controls in VLC Media Player and select it from the menu.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-5.png)
+
+Step 3: Play the video you want to crop and then click the Record button on the scene you want to crop and then the same button to pause the video where you want to crop it.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-6.png)
+
+Step 4: In Windows 7, 8, and XP, the film will automatically save in Library > Videos, and in My Documents > My Videos in Windows 7.
+
+VLC Media Player is unquestionably one of the greatest video players available for free. Nonetheless, it isn't the finest video reduction because it just reduces the size of videos by using certain simple parameters rather than complex ones. As a result, we offer Fimora, an all-in-one video toolbox that can convert, compress, download, record, edit, burn, and more, as a better video compressor. You can change the video resolution, bit rate, encoder, format, and other settings to compress video and audio files in a variety of formats. Follow the simple steps below to get this VLC compressor replacement on your Windows/Mac for free.
+
+## An easier way to resize videos using Filmora
+
+[Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful, yet easy to use video editor for PC and Mac. With the most intuitive and streamlined editing process out there, Filmora lets you cut and resize videos with just a few clicks of your mouse.
+
+Through this part, we'll show you how to resize videos using Filmora's three-step process: import video files, select video clips, and edit them. We'll also teach you some shortcuts for making the editing process as quick as possible!
+
+A common challenge for beginner video editors is knowing where to start. With Filmora, you begin by importing your video files, selecting the clip you want to cut, and then editing it. It's a three-step process that takes less than five minutes!
+
+Once you have finished editing your video clip, Filmora will give you the option to share it on social media or export it in MP4 or AVI format.
+
+Keep reading to learn more about how to cut and resize videos using Filmora's three-step process!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+### Step by Step on How to Resize Videos using Filmora
+
+Resizing videos in Filmora is a quick and easy process. To resize videos, first make sure you have imported your video file into the editor.
+
+**Resizing by changing the dimensions**
+
+Step 1: To import a video file, either drag and drop the file on the screen or click on "Import Files" in the toolbar.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-7.png)
+
+Step 2: Once you've imported your video, select the video clips that you want to resize by clicking on them; then, resizing them is as simple as dragging their borders!
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-8.png)
+
+Step 3: You can also use the size fields at the bottom of the frame to change their dimensions.
+
+Step 4: Keep in mind that changing one dimension of a video clip will affect both its width and height proportionally. For example, if you enlarge a 16:9 widescreen clip to 720p (from 480p), it will be double its original proportions (720x480).
+
+**Resizing by shrinking video file size.**
+
+Step 1: To import a video file, either drag and drop it onto the screen or use the toolbar's "Import Files" option.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-9.png)
+
+Step 2: Open the video shrinker's output window by clicking the "Export" button.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-10.png)
+
+Step 3: Select the Format tab and keep the video in its original format as a result. Then, in the "Settings" panel, click the triangle button below to downsize the video by choosing a lower video resolution, frame rate, or bit rate. When it comes to video formats, you can choose among FLV, MP4, and other similar formats, which normally result in smaller files.
+
+![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: The shrunk file should be exported.
 
@@ -1023,18 +1038,16 @@ So you’ve got this beautiful video you want to post on your social media page 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-xbox-chronicles-essential-steps-in-gameplay-documentation/"><u>[Updated] 2024 Approved The Xbox Chronicles Essential Steps in Gameplay Documentation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-number-1-in-the-8th-digital-image-blend-platform/"><u>[Updated] Number 1 in the 8Th Digital Image Blend Platform</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-11-tips-to-make-product-ad-videos/"><u>2024 Approved 11 Tips to Make Product Ad Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-keyframes-interval-everything-you-need-to-know/"><u>2024 Approved Keyframes Interval Everything You Need To Know</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pic-deformations-a-toolbox-guide/"><u>2024 Approved Pic Deformations A Toolbox Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/capturing-impactful-voice-top-tips-for-podcasting-interviews-on-idevices-for-2024/"><u>Capturing Impactful Voice Top Tips for Podcasting Interviews on iDevices for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-way-to-add-transitions-to-videos/"><u>In 2024, Easy Way to Add Transitions to Videos</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-xr-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone XR Location by Number | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-applying-the-effect-of-camera-shake-in-video-creation/"><u>New Applying the Effect of Camera Shake in Video Creation</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-glitch-text-effect-for-2024/"><u>New Create Glitch Text Effect for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-time-lapse-to-normal-video/"><u>New In 2024, How to Convert Time-Lapse to Normal Video</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pruning/"><u>Pruning</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-future-of-audio-crafting-androids-most-innovative-digital-audio-workstations-for-todays-sound-engineers-for-2024/"><u>The Future of Audio Crafting Androids Most Innovative Digital Audio Workstations for Todays Sound Engineers for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-guffaws-galore-compiled-list-of-10-funniest-youtube-short-videos/"><u>[New] In 2024, Guffaws Galore Compiled List of 10 Funniest YouTube Short Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-free-youtube-thumbnails-saving-guide/"><u>[Updated] Free YouTube Thumbnails Saving Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-a-prime-livestream-service-top-10-essentials/"><u>2024 Approved Selecting a Prime Livestream Service Top 10 Essentials</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easily-sync-audio-with-video-with-filmora/"><u>Easily Sync Audio With Video With Filmora</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-14-pro-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi 14 Pro FRP?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y17s-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y17s Without PUK Codes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-xiaomi-redmi-k70-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Xiaomi Redmi K70 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-ideas-for-time-lapse-video/"><u>New Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-5-free-online-video-filter-editors/"><u>New Top 5 Free Online Video Filter Editors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
 </ul></div>
 

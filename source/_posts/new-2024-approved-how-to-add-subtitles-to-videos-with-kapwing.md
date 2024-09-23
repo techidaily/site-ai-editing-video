@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Add Subtitles to Videos With Kapwing
-date: 2024-09-14T21:11:01.965Z
-updated: 2024-09-19T02:52:38.244Z
+date: 2024-09-20T17:28:13.713Z
+updated: 2024-09-23T16:21:28.961Z
 tags: 
   - ai
   - animation videos
@@ -89,13 +89,6 @@ Launch Filmora on your PC and click on the "Create New Project" button to open t
 
 ![import your video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 2 Enable Speech to Text Feature
 
 From the timeline, locate the feature of "Speech to Text." Now choose the language in which you want to create the subtitles and specify the other settings as well. Afterward, tap on the "OK" button to begin the process.
@@ -103,10 +96,16 @@ From the timeline, locate the feature of "Speech to Text." Now choose the langua
 ![specify speech to text settings](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step 3 Customize Subtitles and Save the Changes
@@ -188,6 +187,13 @@ Peak wedding season may also affect the cost some vendors, making coverage from 
 Nationwide or as much as $12,500 for a luxury shoot that turns you into a celebrity wedding coverage.
 
 ![wedding coverage image](https://images.wondershare.com/filmora/article-images/2022/07/wedding-coverage-image.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What include in the packages
 
@@ -299,13 +305,6 @@ Here’s what you can expect to see in a basic package
 * Two cinematographers
 * An assistant to the videographer
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### There are also extra. Some videographer offers extras such as
 
 * **Drone footage**– Drones are popular, especially at destination weddings. They have the ability to film hundreds of feet in the air which also makes your wedding video more unique. The extra equipment needed for this can cost you anywhere from $1,000 to $3,000
@@ -392,6 +391,13 @@ Apart from that, the speeding up of a video clip may make it look funny. Sometim
 
 ![slow down your video](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-lightworks-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part I. How to Speed Up Video in Lightworks
 
 If you are making short-duration videos, you may need to speed up your video. You will come across many shorts and reels where sped-up videos look so funny. You can also speed up certain parts in your video where detail to attention is not required. Here are the steps for Lightworks to speed up a video.
@@ -425,13 +431,6 @@ Step2 Select the Speed option from the menu. You need to select a speed preset, 
 ![select the speed option](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-lightworks-7.jpg)
 
 Step3 Finally, click the Do It button and play the video to check out the outcome.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part III. Bonus Tips for Changing Video Speed in Lightworks
 
@@ -491,11 +490,25 @@ Step2 From the menu, select the Uniform Speed option. You will see the Uniform S
 
 ![select the uniform speed option](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-final-cut-pro-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 You need to move the speed slider to set the desired speed for your video. You can play the video to see how the video speed changes.
 
 ![need to move the speed slider](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-final-cut-pro-13.jpg)
 
 Step4 If satisfied with the result, click on the Ok button. Thereafter, you can export the video file in any file format.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3\. Use Speed Ramping to Customize Your Video
 
@@ -553,6 +566,13 @@ Step3 You need to move the speed slider to set the desired speed for your video.
 
 ![need to move the speed slider](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-final-cut-pro-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 If satisfied with the result, click on the Ok button. Thereafter, you can export the video file in any file format.
 
 ### Method 3\. Use Speed Ramping to Customize Your Video
@@ -595,6 +615,13 @@ Keyframe Intervals are the distance in time between two keyframes. For example, 
 
 ![keyframe interval in a video](https://images.wondershare.com/filmora/article-images/2022/07/keyframe-interval-in-a-video.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How Does Keyframe Interval Work?
 
 Keyframes are important in video and animation because they mark specific points in time that can be used to create a smooth and consistent transition between different states or images. The Keyframe Interval is the amount of time that passes between two keyframes.
@@ -629,13 +656,6 @@ Most streaming services will automatically set it for you based on your stream's
 * Disable the "auto" keyframe feature.
 * To allow for b-frames, use an encoding profile higher than baseline and use IDR-based keyframes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5\. How To Change The Keyframe Interval On OBS Studio
 
 Above is the basic knowledge of the keyframe interval. Then, how to apply it to your real video-editing work? In this part, we will choose OBS to show you the application process.
@@ -661,6 +681,13 @@ Step3 On the Settings Window, click **"Output"** and configure the output mode t
 Step4 Finally, edit the **Keyframe Interval,** set it to **2** seconds, and click **"OK"** to save your changes.
 
 ![changing the keyframe interval value on obs studio](https://images.wondershare.com/filmora/article-images/2022/07/changing-the-keyframe-interval-value-on-obs-studio.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 6\. Will Keyframe Interval Affect Your Video’s Quality?
 
@@ -712,20 +739,17 @@ Hopefully, the information provided in this guide was helpful, and you now have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-change-background-in-google-meet-on-laptop-and-mobile-devices/"><u>[Updated] In 2024, How to Change Background in Google Meet on Laptop and Mobile Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-use-path-blur-in-photoshop-to-create-motion-effect/"><u>2024 Approved Use Path Blur In Photoshop To Create Motion Effect</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-amd-radeon-hd-7770-graphics-driver-in-just-a-click/"><u>Get the Latest AMD Radeon HD 7770 Graphics Driver in Just a Click</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-honor-v-purse-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor V Purse phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-realme-c51-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Realme C51 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-framing-for-instagram-techniques-for-vertical-footage-in-fcpx/"><u>In 2024, Framing for Instagram Techniques for Vertical Footage in FCPX</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-green-screens-are-a-fun-way-for-creators-to-bring-their-personality-to-their-stream-allowing-them-to-dynamically-alter-their-stream-background-and-m/"><u>In 2024, Green Screens Are a Fun Way for Creators to Bring Their Personality to Their Stream, Allowing Them to Dynamically Alter Their Stream Background and Make Their Content Appear Even More Engaging and Polished</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-tutorial-how-to-add-motion-blur-in-blender/"><u>In 2024, Tutorial How To Add Motion Blur in Blender?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/lumafusion-one-of-the-best-video-editors-for-ios/"><u>LumaFusion – One of the Best Video Editors for iOS</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-miniature-effect-in-video-with-filmora-for-2024/"><u>New How to Add Miniature Effect in Video with Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-apply-video-filters-mobile-and-desktop-for-2024/"><u>New How to Apply Video Filters Mobile and Desktop for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/soundseekers-avoiding-dacast-traps-for-2024/"><u>SoundSeekers Avoiding DaCast Traps for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/steps-to-add-subtitles-in-canva/"><u>Steps to Add Subtitles in Canva</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/tiktok-video-reversal-made-easy-a-beginners-guide-updated/"><u>TikTok Video Reversal Made Easy A Beginners Guide Updated </u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-revolutionizing-video-revenue-a-conducive-guide-to-youtube-profits/"><u>[Updated] 2024 Approved Revolutionizing Video Revenue A Conducive Guide to Youtube Profits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-momentum-in-pictures-a-curated-list-of-ig-motivation-for-2024/"><u>[Updated] Momentum in Pictures A Curated List of IG Motivation for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-consider-a-lut-to-be-a-color-preset-that-a-filmmaker-can-use-to-start-working-on-a-project-quickly-sony-engineers-have-developed-luts-to-help-/"><u>2024 Approved Consider a LUT to Be a Color Preset that a Filmmaker Can Use to Start Working on a Project Quickly. Sony Engineers Have Developed LUTs to Help Filmmakers Perform Specific Tasks. All of These Are Available for Free</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-5-websites-and-software-to-convert-powerpoint-to-mp4/"><u>2024 Approved Top 5 Websites and Software to Convert Powerpoint to Mp4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-rec-room-microphone-connected-to-a-computer-comprehensive-tutorial/"><u>How to Repair Your Rec Room Microphone Connected to a Computer: Comprehensive Tutorial</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-exploring-igtv-a-beginners-primer-for-social-media-success/"><u>In 2024, Exploring IGTV A Beginner's Primer for Social Media Success</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-random-letter-reveal-intro/"><u>In 2024, How to Make Random Letter Reveal Intro?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/logitech-c920-pro-hd-webcam-review-real-hd-video/"><u>Logitech C920 Pro HD Webcam Review: Real HD Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713950874876-looking-for-the-simple-steps-to-add-transition-effects-in-your-video-we-will-illustrate-how-to-add-transition-in-filmora-and-mention-tips-and-tricks-for-vid/"><u>Looking for the Simple Steps to Add Transition Effects in Your Video? We Will Illustrate How to Add Transition in Filmora and Mention Tips and Tricks for Video Transition Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-get-green-screen-effects-on-your-video-without-green-screen-setup-in-your-background-learn-how-to-get-virtual-green-screen-background-and/"><u>New Do You Want to Get Green Screen Effects on Your Video without Green Screen Setup in Your Background? Learn How to Get Virtual Green Screen Background and Shoot Videos Like a Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reliability-meets-convenience-the-ultimate-guide-to-the-sturdy-kensun-tire-inflator-for-easy-transportation/"><u>Reliability Meets Convenience: The Ultimate Guide to the Sturdy Kensun Tire Inflator for Easy Transportation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-list-8-ranked-android-video-tile-maker-options-freepaid/"><u>The Ultimate List #8 Ranked Android Video Tile Maker Options (Free/Paid)</u></a></li>
 </ul></div>
 

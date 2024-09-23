@@ -1,7 +1,7 @@
 ---
 title: New Ultimate Guide on How To Plan and Storyboard a Music Video for 2024
-date: 2024-09-16T02:20:38.527Z
-updated: 2024-09-18T18:57:26.759Z
+date: 2024-09-22T16:07:35.536Z
+updated: 2024-09-23T18:44:40.527Z
 tags: 
   - ai
   - animation videos
@@ -65,13 +65,6 @@ Once you have an idea of what you want your music video to be about, you can put
 
 ![treatment of the plan](https://images.wondershare.com/filmora/article-images/2023/04/treatment-of-the-plan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the artist approves the direction of the video, it's time to move on to storyboarding!
 
 ## Storyboard your music video
@@ -90,18 +83,18 @@ You are supposed to break your video idea into different scenes. For each scene,
 
 ![drawing pictures of the scenes](https://images.wondershare.com/filmora/article-images/2023/04/drawing-pictures-of-the-scenes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2Take pictures
 
 After doing your storyboarding on paper, take photos of each shot in a sequence and import them to your computer.
 
 ![take pictures of the sketch](https://images.wondershare.com/filmora/article-images/2023/04/take-pictures-of-the-sketch.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Before going to the next step, make sure to download **Wondershare Filmora**. It is powerful editing software that can help you easily make a storyboard. With its wide range of features, you can also customize your clips with special effects, transitions, and more.
 
@@ -134,6 +127,13 @@ You can right-click on the picture's timeline and select **Crop to fit** to adju
 You can also simulate transitions and effects in the clips. Let's suppose you want to show a zoom-in shot. Then you would click on the picture frame and the keyframe option just above the timeline. Now keyframe the position and scale of the clip according to you.
 
 ![adding keyframe to the pictures](https://images.wondershare.com/filmora/article-images/2023/04/adding-keyframe-to-the-pictures.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once you feel like your clips sync with the song, you are ready to start planning for the production of your music video.
 
@@ -182,6 +182,13 @@ Drag and drop the song to the audio timeline. Then press shift, select all image
 You can right-click on the picture's timeline and select **Crop to fit** to adjust the image on the screen. You can also adjust the scenes according to the song.
 
 ![selecting crop to fit](https://images.wondershare.com/filmora/article-images/2023/04/selecting-crop-to-fit.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step6Add effects
 
@@ -227,6 +234,13 @@ In the post-production of videos, many content creators and professionals use th
 
 Image noise can be produced in your videos due to the interference of random signals. These random signals and pixels disturb the human eye in processing the image information. Thus, it can create a bad impression when noise is present in your videos or pictures. To resolve this issue accurately, professionals recommend using the **Gaussian blur** effect. By adding this effect, you can quickly erase the noise from your videos without any hassle.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Add a Natural Transition to Videos
 
 The **Gaussian blur** effect does not destroy the original harmony of the picture. It adds an average blur to the picture that does not make the video look artificial. Thus, this special blur effect adds a natural transition to the videos effortlessly.
@@ -254,16 +268,10 @@ Step3 Now go to the “Effects” section and type “Gaussian” in its search 
 ![increase the blurriness](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4 To create animation, copy your video clip and paste it above the adjustment layer. Head back to the effects section and search for “Crop." Apply it to the top-most video clip. From the left section, change the “Top” to 0%. Once done, turn on its toggle and move the play head a little bit.
@@ -273,6 +281,13 @@ Step4 To create animation, copy your video clip and paste it above the adjustmen
 Step5 Add a new keyframe and then change the “Top” to 100%. After rendering the video, you can see the final results in the preview window.
 
 ![set the top value to 100](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tips – The Alternative to Premiere Pro to Create Gaussian Blur Effect
 
@@ -335,13 +350,6 @@ Following this, drag and drop the imported video on the timeline of Filmora. Aft
 Double-click on the added effect to open its settings. Now you can change the “Opacity” and “Size” according to your preference. Once done, choose the “Export” button to save the video in the desired file format.
 
 ![adjust square blur properties](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -530,6 +538,19 @@ The magic of green screens is everywhere, bridging the gap between imagination a
 
 In today's digital age, the demand for high-quality visuals is at an all-time high. Green-screen videos and images can elevate your content, whether you're a budding YouTuber, a professional filmmaker, or someone trying to make a memorable Instagram story. Thankfully, there are numerous platforms where you can find green-screen mobile frame content; even better, they're free! Let’s dive deeper into these treasure troves:
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 01Adobe Stock
 
 While Adobe Stock is renowned for its premium visuals, a lesser-known section offers complimentary content. Once in a while, you can find a beautiful green screen mobile frame HD ready for download. The content here is curated, ensuring that even the freebies maintain a high-quality standard. This makes it a great starting point for those new to the green screen world.
@@ -541,13 +562,6 @@ Another heavyweight in the digital asset market, iStock occasionally surprises i
 ### 03Videezy
 
 Videezy stands out for its user-friendly interface and many free green screen video frame options. Ranging from simple mobile frames to intricate animations, the platform has a rich variety. This makes Videezy a favorite for both novices and professionals. Its community-driven approach ensures a constant influx of fresh content.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 04Pixabay
 
@@ -601,6 +615,13 @@ While Adobe Stock is renowned for its premium visuals, a lesser-known section of
 
 Another heavyweight in the digital asset market, iStock occasionally surprises its users with free content. By rummaging through their vast library, you might come across a perfect video frame green screen for your next project. It’s a testament to their commitment to cater to all types of users, regardless of budget.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 03Videezy
 
 Videezy stands out for its user-friendly interface and many free green screen video frame options. Ranging from simple mobile frames to intricate animations, the platform has a rich variety. This makes Videezy a favorite for both novices and professionals. Its community-driven approach ensures a constant influx of fresh content.
@@ -643,19 +664,22 @@ So, there you have it. Green screens are the secret behind those cool videos whe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-comedy-kings-the-most-popular-memes/"><u>[New] In 2024, Comedy Kings The Most Popular Memes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-multitask-media-magic-employing-netflix-picture-in-picture/"><u>[New] Multitask Media Magic Employing Netflix Picture-in-Picture</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/an-intro-to-quantum-hdr-innovations-for-2024/"><u>An Intro to Quantum HDR Innovations for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/guide-to-prime-gopro-protectors-top-10-reviewed/"><u>Guide to Prime GoPro Protectors - Top 10 Reviewed</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-green-screen-in-obs/"><u>How to Add Green Screen in OBS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-routine-mindfulness-engagement/"><u>Leveraging AI for Routine Mindfulness Engagement</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/meet-the-gaming-champion-tuxedo-sirius-16-gen2-with-amd-and-linux-ultimate-gaming-laptop-featuring-a-crystal-clear-ips-panel-from-just-1699/"><u>Meet the Gaming Champion: Tuxedo Sirius 16 Gen2 with AMD & Linux – Ultimate Gaming Laptop Featuring a Crystal-Clear IPS Panel From Just €1699</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-edit-facebook-video-ads-for-e-commerce-business/"><u>New In 2024, How to Edit Facebook Video Ads for E-Commerce Business</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/step-by-step-process-of-enhancing-your-graphics-card/"><u>Step-by-Step Process of Enhancing Your Graphics Card</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-internal-hdds-the-ultimate-guide-to-the-best-picks/"><u>Top Rated Internal HDDs: The Ultimate Guide to the Best Picks</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>Updated A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-custom-filters-in-vn-app-2024-quick-guide/"><u>Updated How to Add Custom Filters in VN App 2024 Quick Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-make-vintage-film-effect-1950s/"><u>Updated In 2024, How to Make Vintage Film Effect 1950S</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ffordable-options-selecting-the-right-cam-for-your-needs-for-2024/"><u>[New] Affordable Options Selecting the Right Cam for Your Needs for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-staying-legal-in-the-digital-space-youtubes-copyright-guide/"><u>[New] In 2024, Staying Legal in the Digital Space YouTube's Copyright Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/3-ways-to-stream-and-record-at-the-same-time/"><u>3 Ways To Stream And Record At The Same Time</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/benefits-of-live-streaming-on-youtube-for-2024/"><u>Benefits of Live Streaming on YouTube for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-deletion-of-iphone-gaming-applications-steps-for-swiftly-eliminating-data-and-cache/"><u>Effortless Deletion of iPhone Gaming Applications: Steps for Swiftly Eliminating Data and Cache</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-guide-to-leveraging-top-social-media-facebook-twitter-instagram-and-youtube-strategies/"><u>Essential Guide to Leveraging Top Social Media: Facebook, Twitter, Instagram & YouTube Strategies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-ninja-jump-effect-with-filmora/"><u>In 2024, How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-xiaomi-mix-fold-3-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Xiaomi Mix Fold 3 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-changers/"><u>In 2024, Recommended Video Background Changers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-nubia-red-magic-9-pro-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Nubia Red Magic 9 Pro Phone Hassle-Free</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-different-ways-to-crop-tiktok-video-in-high-quality/"><u>New 2024 Approved Different Ways to Crop TikTok Video in High-Quality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>New How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-want-to-create-a-stunning-intro-video-on-your-smartphone-legend-intro-maker-is-a-popular-choice-learn-the-steps-to-design-intro-video-legend-intro-maker/"><u>New Want to Create a Stunning Intro Video on Your Smartphone? Legend Intro Maker Is a Popular Choice. Learn the Steps to Design Intro Video Legend Intro Maker</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-protests-unveiling-the-difference-between-hero5-black-and-session-for-2024/"><u>Precision Protests Unveiling the Difference Between Hero5 Black and Session for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-advice-expert-guides-and-reviews/"><u>Tom's Tech Advice: Expert Guides and Reviews</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-apply-gaussian-blur-effect-to-videos-in-premiere-pro/"><u>Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?</u></a></li>
 </ul></div>
 

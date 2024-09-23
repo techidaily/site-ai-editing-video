@@ -1,7 +1,7 @@
 ---
 title: "Decoding the History of AI: How Old Is This Revolutionary Tech?"
-date: 2024-09-14T22:17:52.042Z
-updated: 2024-09-19T03:57:32.494Z
+date: 2024-09-20T16:57:05.979Z
+updated: 2024-09-23T16:30:36.368Z
 tags:
   - chatgpt
   - open-ai
@@ -35,9 +35,23 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
  Elon Musk, who recently authored an open letter calling for a[moratorium on the development of powerful AI](http://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) models (specifically those more powerful than GPT-4), believes AI is moving too fast. He believes we need to slow down and reevaluate our approach to AI safety before AI "takes control." TruthGPT is a large language model (LLM) that promises to address these two core concerns with today's AI systems.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Would TruthGPT Look Like?
 
 ![artificial brain doing data analytics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
 
@@ -48,28 +62,15 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 So, is this idea of a maximum truth-seeking AI even practical?
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Building TruthGPT Is a Huge Challenge
 
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you[understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) , it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
 
@@ -78,6 +79,19 @@ So, is this idea of a maximum truth-seeking AI even practical?
  Of course, accuracy can also be tackled from the algorithm side. However, irrespective of the algorithm, language ambiguity still represents a big problem for the accuracy of AI models. Even humans often struggle to accurately interpret a sentence or phrase's meaning, leading to misinformation. For AI models, ambiguity can lead to misinterpretations resulting in inaccuracies.
 
  For Musk, TruthGPT appears to be a chance for him to carve an AI model that he sees fit to deliver the truth. How that would come about without introducing his own biases is another question entirely and effectively leads us back to the start of the conversation. How are Musk's opinions on what is biased or not any different from those who trained and directed ChatGPT?
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is TruthGPT an Exciting Possibility?
 
@@ -100,17 +114,19 @@ So, is this idea of a maximum truth-seeking AI even practical?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-elevating-visual-stories-with-smartphone-montage-apps/"><u>[New] Elevating Visual Stories with Smartphone Montage Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gigglegraphs-designing-delightful-memes/"><u>2024 Approved GiggleGraphs Designing Delightful Memes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-use-path-blur-in-photoshop-to-create-motion-effect/"><u>2024 Approved Use Path Blur In Photoshop To Create Motion Effect</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-visual-impact-crafting-3d-text-in-photo/"><u>Enhance Visual Impact Crafting 3D Text in PHOTO</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-my-signature-to-wbk-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add my signature to .wbk file</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-latest-targus-displaylink-drivers-for-windows-10-8-and-7/"><u>How to Download & Install Latest Targus DisplayLink Drivers for Windows 10, 8, and 7</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/lumafusion-one-of-the-best-video-editors-for-ios/"><u>LumaFusion – One of the Best Video Editors for iOS</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-video-conversion-for-vr-enthusiasts-top-picks-and-tips/"><u>New 2024 Approved Video Conversion for VR Enthusiasts Top Picks and Tips</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-everything-that-you-need-to-know-about-video-montages-ideas-techniques-and-software/"><u>New Everything That You Need to Know About Video Montages- Ideas, Techniques, and Software</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-miniature-effect-in-video-with-filmora-for-2024/"><u>New How to Add Miniature Effect in Video with Filmora for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snapchat-chronicles-unveiled-an-array-of-more-than-a-hundred-inspiring-title-concepts-for-2024/"><u>Snapchat Chronicles Unveiled An Array of More Than a Hundred Inspiring Title Concepts for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-on-installing-latest-cpu-driver-updates-in-windows/"><u>Step-by-Step Tutorial on Installing Latest CPU Driver Updates in Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-win-11s-best-practices-the-ultimate-guide-to-saving-mov-files/"><u>[New] Win 11'S Best Practices The Ultimate Guide to Saving MOV Files</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-2-methods-to-transform-zoom-sound-ensuring-clarity/"><u>[Updated] Top 2 Methods to Transform Zoom Sound, Ensuring Clarity</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-video-conference-solutions-security-first-for-businesses/"><u>[Updated] Top Video Conference Solutions Security First for Businesses</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-add-subtitles-to-your-videos-efficiently-this-article-will-introduce-an-online-subtitle-editor-that-will-help-you-to-create-sub/"><u>2024 Approved Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-15-activities-perfect-for-podcast-lovers/"><u>2024 Approved Top 15 Activities Perfect for Podcast Lovers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-tecno-spark-20c-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Tecno Spark 20C Activity | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-guide-to-best-uhd-video-players-free-and-versatile-for-pcandmac/"><u>In 2024, Exclusive Guide to Best UHD Video Players (Free & Versatile) for PC&Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-range-creativity-with-premium-ae-samples/"><u>In 2024, Free-Range Creativity with Premium AE Samples</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimal-tools-to-convert-and-tweet-videos/"><u>Optimal Tools to Convert and Tweet Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/tips-for-using-google-meets-built-in-photo-functionality/"><u>Tips for Using Google Meet's Built-In Photo Functionality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-15-best-luts-to-buy/"><u>Updated 2024 Approved 15 Best LUTS to Buy</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-6-websites-to-free-download-motivational-video-footage/"><u>Updated 6 Websites to Free Download Motivational Video Footage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-ideas-for-time-lapse-video/"><u>Updated Ideas for Time-Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-easy-steps-to-create-intro-video-with-after-effects/"><u>Updated In 2024, Easy Steps to Create Intro Video with After Effects</u></a></li>
 </ul></div>
 

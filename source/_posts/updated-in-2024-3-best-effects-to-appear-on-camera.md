@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, 3 Best Effects to Appear on Camera
-date: 2024-09-13T22:43:08.874Z
-updated: 2024-09-18T17:19:26.378Z
+date: 2024-09-17T16:41:57.339Z
+updated: 2024-09-23T17:06:27.614Z
 tags: 
   - ai
   - animation videos
@@ -41,9 +41,23 @@ Step3 Download Filmora to edit your footage. You can get started by going to the
 
 ![download filmora](https://images.wondershare.com/filmora/article-images/2022/12/appearance_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Now split the first clip on the frame where your jacket lands on the stool. Place it on the first track.
 
 ![split the first clip on the frame](https://images.wondershare.com/filmora/article-images/2022/12/appearance_4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 Trim the second shot until the talents start acting and place it on the second track to match the first clip.
 
@@ -178,6 +192,13 @@ Step6 **Add** some effects and overlay to the timeline
 
 ![filmora add effects](https://images.wondershare.com/filmora/article-images/add-effects-to-recap-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step7 **Adjust** the Overlay duration of the clip.
 
 Step8 **Apply** all the transitions and overlay to the clip. **Edit** the text and **save** it.
@@ -201,13 +222,6 @@ Step3 **Drag** your footage onto the timeline, and when prompted, **select** "**
 Step4 **Customize** the texts in the template to match the details of your event.
 
 Step5 **Preview** the final result in the player window, and if satisfied, **click** "**Export**" and **adjust** the output settings in the "**Output Settings**" window.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3\. How to Create an End-of-Year Recap Video With Filmora for Mobile
 
@@ -241,6 +255,13 @@ Step7 **Save** the final video to your device
 
 ![filmora mobile save video](https://images.wondershare.com/filmora/article-images/filmora-mobile-save-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 4\. How To Create a Memories Recap Video on Instagram Reel
 
 Another way to create a memories recap video is using the Instagram Reel feature. Instagram Reel is a short-form video feature that allows users to create and share videos up to 60 seconds long. With Instagram Reel, you can easily create a recap video of your event by compiling short clips, adding music and text, and sharing it with your followers.
@@ -262,13 +283,6 @@ Step3 **Compile** clips, add music, text, and effects
 Step4 **Post** and **share** the Reel on Instagram and other platforms.
 
 ![instagram post reel](https://images.wondershare.com/filmora/article-images/instagram-post-reel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips for Making Event Recap Videos
 
@@ -353,13 +367,6 @@ Step1 Start by **launching** the Filmora for mobile app and **selecting** the "*
 
 ![filmora mobile template](https://images.wondershare.com/filmora/article-images/filmora-mobile-template.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Tap the "**New Year**" panel for an end-of-year recap video template.
 
 ![filmora mobile select template](https://images.wondershare.com/filmora/article-images/filmora-mobile-select-template.jpg)
@@ -421,13 +428,6 @@ When creating an event recap video, there are key tips to remember to ensure tha
 
 By following these tips and working with the right tools and techniques, you can create a video that truly captures the essence of your event and resonates with your audience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Creating an engaging event recap video is an excellent way to share the highlights of your event with a wider audience. With the right tools and techniques, you can create a professional-looking video that truly captures the essence of your event.
@@ -479,6 +479,13 @@ Hue is measured in terms of the color wheel's degrees. It's possible to change t
 ## 5\. Saturation
 
 The strength of the hue is known as saturation. (Remember that this HSL panel modification only affects the saturation of individual colors, not the saturation of the entire image.) In order to achieve a more subdued, muted appearance for this example, I reduced the Saturation on the aqua, blue, and green hues. To increase the intensity of your shot, you can do the exact reverse. Find the tweaks that suit your photo and the appearance you want to achieve best.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Luminance
 
@@ -538,6 +545,13 @@ Step4 Once you are satisfied with any scrolling text effects, drag and drop it i
 
 ![drag scroll effects timeline filmora](https://images.wondershare.com/filmora/article-images/2022/07/drag-scroll-effects-timeline-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Double-click on the text layer on Timeline and customize the text and style as you feel. Thereafter, you can click on Advanced button for more customization. Finally, click on OK button.
 
 ![customize scroll text style filmora](https://images.wondershare.com/filmora/article-images/2022/07/customize-scroll-text-style-filmora.jpg)
@@ -626,6 +640,13 @@ Step4 Once you are satisfied with any scrolling text effects, drag and drop it i
 
 ![drag scroll effects timeline filmora](https://images.wondershare.com/filmora/article-images/2022/07/drag-scroll-effects-timeline-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Double-click on the text layer on Timeline and customize the text and style as you feel. Thereafter, you can click on Advanced button for more customization. Finally, click on OK button.
 
 ![customize scroll text style filmora](https://images.wondershare.com/filmora/article-images/2022/07/customize-scroll-text-style-filmora.jpg)
@@ -658,16 +679,16 @@ Step6 Select all layers and right-click and select Pre-compose.
 
 ![select precompose after effects](https://images.wondershare.com/filmora/article-images/2022/07/select-precompose-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step7 Right-click on Pre-comp and go to Time> Enable Time Remapping. Play the video and you will see the scrolling effects that you see in end credits in videos.
 
 ![enable time remapping after effects](https://images.wondershare.com/filmora/article-images/2022/07/enable-time-remapping-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The above-mentioned steps are for horizontal scrolling text effect. If you want vertical scrolling text After Effects, you have to position the duplicate text and null object vertically and the required text will scroll vertically.
 
@@ -719,21 +740,21 @@ Adding scrolling text to your video should no more be an issue for you. If you a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-tips-and-tricks-to-help-you-change-color-like-a-pro/"><u>[New] Tips and Tricks to Help You Change Color Like A Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-7-tips-to-create-teaching-videos/"><u>2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-making-the-most-of-your-multi-image-story-sessions-on-insta/"><u>2024 Approved Making the Most of Your Multi-Image Story Sessions on Insta</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-successful-uploads-on-google-podcast/"><u>2024 Approved Step-by-Step Successful Uploads on Google Podcast</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/breakthrough-technology-for-screens-showmores-revolutionary-recorder/"><u>Breakthrough Technology for Screens ShowMore's Revolutionary Recorder</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-7-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 7 Plus - 4 Easy Ways</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo X100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-risograph-effect-in-photoshop-a-beginners-guide-for-2024/"><u>New Create Risograph Effect In Photoshop A Beginners Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-add-miniature-effect-to-videos/"><u>New Easy Steps to Add Miniature Effect to Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/skald-rage-new-age-of-might/"><u>Skald Rage New Age of Might</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/splitting-audio-from-video-in-sony-vegas-step-by-step-for-2024/"><u>Splitting Audio From Video in Sony Vegas Step by Step for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-instructions-for-securing-your-whatsapp-data-with-icloud-backups/"><u>Step-by-Step Instructions for Securing Your WhatsApp Data with iCloud Backups</u></a></li>
-<li><a href="https://article-tips.techidaily.com/top-30-windows-10-utilities-you-cant-ignore/"><u>Top 30 Windows 10 Utilities You Can't Ignore</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-your-own-lol-montage-video/"><u>Updated How to Create Your Own LOL Montage Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-hdri-everything-you-need-to-know-about-hdri-for-2024/"><u>What Is HDRI? Everything You Need to Know About HDRI for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-leading-edge-of-virtual-reality-technology-2023-edition/"><u>[New] In 2024, The Leading Edge of Virtual Reality Technology - 2023 Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-obs-skype-screen-recording-for-2024/"><u>[New] Step-by-Step OBS Skype Screen Recording for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-how-to-create-a-signature-code-that-resonates-on-tiktok-for-2024/"><u>[Updated] How to Create a Signature Code That Resonates on TikTok for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-action-videography-showdown-hero-5-black-or-km-170/"><u>[Updated] In 2024, Action Videography Showdown Hero 5 Black or KM-170?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-top-15-trends-in-snappy-storytelling-and-sharing-for-2024/"><u>[Updated] Top 15 Trends in Snappy Storytelling and Sharing for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-the-power-of-capturing-facetime-calls/"><u>[Updated] Unlocking the Power of Capturing FaceTime Calls</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-c51-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-cultivating-lasting-partnerships-with-brands-in-youtube-land/"><u>In 2024, Cultivating Lasting Partnerships with Brands in Youtube Land</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/longest-flight-drone-champions-unveiled-for-2024/"><u>Longest Flight Drone Champions Unveiled for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-countdown-video/"><u>New How to Make a Countdown Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-6-tips-for-your-first-facebook-ads/"><u>New In 2024, 6 Tips for Your First Facebook Ads</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-images-into-video-kapwing-tutorial/"><u>New In 2024, How to Convert Images Into Video - Kapwing Tutorial</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-montage-makes-it-easy-to-create-and-share-videos-this-article-will-explain-what-it-can-do-and-show-you-examples-of-movies-that-use-montage/"><u>New Montage Makes It Easy to Create and Share Videos. This Article Will Explain What It Can Do and Show You Examples of Movies that Use Montage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-motion-blur-photo-with-gimp-step-by-step-guide-for-2024/"><u>New Motion Blur Photo With GIMP Step-By-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>Updated How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
 </ul></div>
 

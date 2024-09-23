@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects
-date: 2024-09-14T16:47:26.643Z
-updated: 2024-09-18T23:01:57.451Z
+date: 2024-09-21T16:59:35.360Z
+updated: 2024-09-23T18:34:26.233Z
 tags: 
   - ai
   - animation videos
@@ -76,6 +76,13 @@ Step2 Create the Mask Feather points.
 Step3 Adjust the Feather Parameter.
 
 ![after effects adjusting feather parameter](https://images.wondershare.com/filmora/article-images/after-effects-feather-parameter.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Go to "**Pen Tool**" > "**Mask Feather Tool**" and **click** anywhere on the mask path.
 
@@ -163,6 +170,13 @@ Step1 Open Wondershare Filmora and **create** a new project. **Import** the vide
 
 ![filmora add media](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Double-click the video in the Player Window. In the editing window, **click "Video**"> "**Mask**" and add a shape mask.
 
 ![filmora adding a shape mask](https://images.wondershare.com/filmora/guide/add-mask-to-video.png)
@@ -186,6 +200,13 @@ Step1 Select the "**Draw Mask**" option under the Mask tab, and **use** the pen 
 Step2 Adjust the "**Blur Strength**" value.
 
 ![filmora adjusting the blur strength value 1](https://images.wondershare.com/filmora/guide/draw-mask-to-video.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -221,6 +242,13 @@ Step1 Open the QuickTime Player application on your Mac computer.
 
 ![open quicktime player](https://images.wondershare.com/filmora/article-images/2023/02/turn-on-subtitles-in-quicktime-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Play the video having subtitles embedded in it.
 
 Step3 Within the menu bar, find the “view” tab and open it.
@@ -230,6 +258,13 @@ Step3 Within the menu bar, find the “view” tab and open it.
 Step4 Now, you need to find the subtitles option.
 
 ![find and access subtitles option in quicktime](https://images.wondershare.com/filmora/article-images/2023/02/turn-on-subtitles-in-quicktime-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 Choose a language in which subtitles are available.
 
@@ -295,13 +330,6 @@ Step5 You can change the display settings for the iPad from **Apple Menu > Syste
 
 Step6 You can now use your iPad to display the subtitles of a video.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus Tips: How to Edit and Add Subtitles to Videos Easily
 
 As you already know, the subtitles available for a video may have errors and/or inconsistencies. In some cases, you may be unable to find the .QT subtitles file for a video or simply want to add custom subtitles to a video. Whether you want to edit the subtitles file or add subtitles to a video, you should consider using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -333,13 +361,6 @@ Step7 Now, click the “Titles” option present at the top of the Filmora inter
 Step8 Choose a subtitle template and add it to the video timeline.
 
 ![add subtitles to a video in the filmora app](https://images.wondershare.com/filmora/article-images/2023/02/add-subtitles-to-a-video-using-filmora-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step9 You can add text, modify text style, and add animations.
 
@@ -415,6 +436,13 @@ Step8 Choose a subtitle template and add it to the video timeline.
 
 ![add subtitles to a video in the filmora app](https://images.wondershare.com/filmora/article-images/2023/02/add-subtitles-to-a-video-using-filmora-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step9 You can add text, modify text style, and add animations.
 
 Step10 Click the “Ok” button to save the subtitles.
@@ -430,6 +458,13 @@ It’s quite easy to add subtitles to QuickTime player and watch videos with sub
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How To Create A Green Screen Video In After Effects
 
@@ -507,29 +542,9 @@ Applying LUT doesn't take time, and it instantly improves color grading. This wa
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Add LUTs in Premiere Pro?
 
@@ -556,13 +571,6 @@ LUTs are already transforming video editing functionalities with automated color
 * **Real-time Preview:** Using LUTs, users would be able to preview color grading. This way, they will know what their video after LUT would look like. Hence, they can preview different LUT presets and proceed with the desired one.
 * **Wide Compatibility:** The platform compatibility of LUTs will also enhance. After all, you will access them on mobile, web, and desktop devices without problems. You can use LUTs in everyday life by applying them to visual content.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus Part: Wondershare Filmora – An Alternative Haven for Adding LUTs
 
 LUTs are great utility when it comes to video editing environments. Apart from Premiere Pro, several other tools are working to improve the industry. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video editing software where you can upgrade your videos. You can add different elements, effects, and transitions in Filmora. You can also use and apply LUT presets within Filmora.
@@ -578,6 +586,13 @@ LUTs are great utility when it comes to video editing environments. Apart from P
 There are approximately [100+ LUTs](https://tools.techidaily.com/wondershare/filmora/download/) presets in the current version of Filmora. Users can use them to enlighten the colors of videos. Meanwhile, in the new version, there would be additional 100 LUTs. So, in total, you will be getting 200+ LUTs in the new updates provided by Wondershare Filmora. Each LUT is unique in its kind and style.
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-cinematic-luts.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Filmora
 
@@ -682,19 +697,17 @@ Videos are close to all of us, as they store our important visual data. This is 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-forum.techidaily.com/10-essential-solutions-for-restoring-internet-connectivity-on-wi-fi-in-windows-11/"><u>10 Essential Solutions for Restoring Internet Connectivity on Wi-Fi in Windows 11</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-10-best-sony-lut-for-different-purposes/"><u>2024 Approved 10 Best Sony LUT for Different Purposes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-cont/"><u>2024 Approved Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-m34-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy M34 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-small-icons-a-guide-for-your-win-11-desktop/"><u>Fixing Small Icons: A Guide for Your Win 11 Desktop</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-in-canva/"><u>New 2024 Approved How to Add Subtitles in Canva?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-use-rule-of-thirds-in-video/"><u>New In 2024, How to Use Rule of Thirds in Video</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/take-your-video-editing-to-the-next-level-with-these-adobe-premiere-shortcuts/"><u>Take Your Video Editing to the Next Level with These Adobe Premiere Shortcuts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/turning-viewers-into-cash-a-youtube-advertising-primer-for-2024/"><u>Turning Viewers Into Cash A YouTube Advertising Primer for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-secret-tips-and-tricks-to-use-in-filmora-for-2024/"><u>Updated Secret Tips & Tricks to Use in Filmora for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/webcam-integration-for-flawless-gameplay-logs/"><u>Webcam Integration for Flawless Gameplay Logs</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-a34-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy A34 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-metaverse-vs-multimetaverse-elucidating-the-variances-ultimate-guide/"><u>[New] In 2024, Metaverse Vs. MultiMetaverse Elucidating the Variances (Ultimate Guide)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-iphone-scaling-images-quickly/"><u>2024 Approved Mastering iPhone Scaling Images Quickly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-12-mini-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone 12 mini Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-v-rising-game-lag-and-ensure-fluid-playback-on-pc/"><u>How to Stop V Rising Game Lag and Ensure Fluid Playback on PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-camon-30-pro-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-a38-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo A38 Pattern Lock Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-scrutinizing-instagrams-video-post-limit/"><u>In 2024, Scrutinizing Instagram's Video Post Limit</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shush-windows-11-explore-tabs-step-by-step/"><u>Shush Windows 11 Explore Tabs: Step-by-Step</u></a></li>
 </ul></div>
 

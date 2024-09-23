@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro
-date: 2024-09-16T04:20:59.122Z
-updated: 2024-09-19T01:22:23.379Z
+date: 2024-09-20T16:07:43.588Z
+updated: 2024-09-23T16:51:35.652Z
 tags: 
   - ai
   - animation videos
@@ -88,6 +88,13 @@ Run the software and switch to Video editor mode. Next, add the image or movie t
 Find the image or video in the media library that you want to overlay over the backdrop video and right-click on it. The image or video overlay may be resized and positioned here as desired.
 
 ![import media to overly](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3Spice up with Effects
 
@@ -221,13 +228,6 @@ You can now enter your login details and upload your gaming montage video on you
 
 Making gaming montages can help you build a large online community if you do the right thing. When making a gaming montage, there are a few tips that you should keep in mind. They include:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Apply Velocity Effects
 
 Adding velocity effects to your montage will help get the attention of viewers. You can couple the transition between scenes with a speed ramping effect.
@@ -269,13 +269,6 @@ DemixB set the gunshot in the montage video to the music tune. The track builds 
 ![Best Gaming Montage Example - Call of Duty: Modern Warfare](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-4.png)
 
 Call of Duty: Modern Warfare
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. ShutteR's Gaming Montage
 
@@ -369,6 +362,13 @@ Filters allow you to spice up your gaming videos. There are also different types
 
 Edit Gaming Montage
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6) Export Your Gaming Montage Video
 
 Once you have finished editing your video and added music, hit the Export button. Doing this will allow you to export your edited video and save it on your computer.
@@ -407,6 +407,13 @@ You can add dark edges around the corners of your video to highlight action or c
 
 You can use Filmora to apply the vignetting effect by heading to Advanced Color Tuning, then clicking the Vignette option. You can then add the vignette effect to the video. Additionally, you can adjust the vignette's exposure, feather, roundness, size, and highlights.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Gaming Montage for Studying
 
 Here are three gaming montages that are good for studying.
@@ -419,6 +426,13 @@ DemixB set the gunshot in the montage video to the music tune. The track builds 
 
 ![Best Gaming Montage Example - Call of Duty: Modern Warfare](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Call of Duty: Modern Warfare
 
 ### 2\. ShutteR's Gaming Montage
@@ -430,6 +444,13 @@ ShutteR used a slow-motion to highlight action in each scene, then speeds up aga
 ![Best Gaming Montage Example - ShutteR's Gaming Montage](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-5.png)
 
 ShutteR's Gaming Montage
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. NEVERMORE \[CS: GO\]
 
@@ -455,13 +476,6 @@ Use Filmora to edit and add effects to your video, including transitions and ove
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Creating Testimonial Videos For Health And Wellness Business Industry
 
 It's not easy to get a testimonial video right. You need to know how to write one, find the right people to speak in it, and make sure your audience likes what they hear. But post-production can be even more challenging than getting everything else right: editing, adding effects, and music—it's enough to make your head spin!
@@ -481,6 +495,13 @@ It includes your testimonial videos and video/photo materials. You can import yo
 ![import your media files](https://images.wondershare.com/filmora/article-images/2022/08/import-media-to-filmora.jpg)
 
 To save time, it is best to prepare ahead of time all your videos materials before start editing your testimonial video. Save it in just one folder including your script guide, photos, and videos
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Select Your Preferred Project Aspect Ratio
 
@@ -518,6 +539,13 @@ Adding a phrase or a short sentence is called “headline”. It would be nice t
 Subtitles are used to translate the spoken word into text. If you have a video that is in a language other than English, subtitles can be added so that viewers who do not speak the language can still understand what is being said. Subtitles are also useful if you want to add subtitles for educational purposes, such as teaching students how to pronounce certain words and phrases.
 
 ![input subtitle](https://images.wondershare.com/filmora/article-images/2022/08/input-subtitle-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apply Transitions to Your Testimonial Video
 
@@ -569,13 +597,6 @@ Recommended Export Quality
 * Frame rate 30 fps
 
 Select your preferred file format and destination for storage.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -639,13 +660,6 @@ Double-click on the snapshot layer. Go to Effect and adjust the Edge thickness s
 
 ![add vintage effects sports game video](https://images.wondershare.com/filmora/article-images/2022/adjust-edge-freeze-frame-clone-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 6
 
 Perform Step 3 to Step 5 again where you need to select a frame to freeze, take snapshot, drop onto timeline and remove background. Finally, play the video to check out the freeze frame clone effect. Save the video on your hard drive by click on Export button.
@@ -743,6 +757,13 @@ Step 4
 Match the duration of the snapshot with the point where you want the frame to freeze. Go to Effects> AI Portrait> Human Segmentation and drop the effect on the snapshot layer to make the background disappear.
 
 ![adjust speed sports game video](https://images.wondershare.com/filmora/article-images/2022/use-ai-portrait-freeze-frame-clone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5
 
@@ -834,17 +855,22 @@ What you’ve learned:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-obs-guide-seamless-youtube-and-twitch-streaming/"><u>[Updated] OBS Guide Seamless YouTube and Twitch Streaming</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unboxing-flight-comprehensive-guide-to-dji-phantom-4/"><u>[Updated] Unboxing Flight Comprehensive Guide to DJI Phantom 4</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-a-smooth-cut-transition-effect/"><u>How to Create a Smooth Cut Transition Effect?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-naraka-point-blades-stutter-a-comprehensive-guide/"><u>How to Fix Naraka: Point Blades Stutter - A Comprehensive Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-enhancing-videos-with-online-filters/"><u>In 2024, The Ultimate Guide to Enhancing Videos with Online Filters</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-diy-vhs-overlay-in-after-effects-in-2024/"><u>New How to DIY VHS Overlay in After Effects, In 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streamlining-text-workflow-in-after-effects/"><u>Streamlining Text Workflow in After Effects</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-video-rotation-apps-rotate-flip-and-spin-your-videos-online/"><u>The Best Video Rotation Apps Rotate, Flip, and Spin Your Videos Online</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/toolwiz-explored-detailed-review-for-image-enthusiasts/"><u>Toolwiz Explored Detailed Review for Image Enthusiasts</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-6-websites-to-free-download-motivational-video-footage/"><u>Updated 6 Websites to Free Download Motivational Video Footage</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-easy-steps-to-create-intro-video-with-after-effects/"><u>Updated In 2024, Easy Steps to Create Intro Video with After Effects</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/armonizing-your-tunes-step-by-step-playlist-crafting-for-web-and-mobile-users/"><u>[New] Harmonizing Your Tunes Step-by-Step Playlist Crafting for Web & Mobile Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/astering-youtube-trailer-creation-with-filmora-for-2024/"><u>[New] Mastering YouTube Trailer Creation with Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-/"><u>2024 Approved Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-the-stranger-things-upside-down-effect-video-for-2024/"><u>Create the Stranger Things Upside Down Effect Video for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/critical-considerations-when-buying-your-next-fitness-wearable/"><u>Critical Considerations When Buying Your Next Fitness Wearable</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-differences-between-apples-ipad-pro-and-surface-pro/"><u>Decoding the Differences Between Apple's iPad Pro and Surface Pro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-the-sweet-spot-optimal-youtube-video-upload-rates-for-growth/"><u>Finding the Sweet Spot Optimal YouTube Video Upload Rates for Growth</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-often-should-you-upgrade-your-phone/"><u>How Often Should You Upgrade Your Phone?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-freeze-frame-sequence-in-video/"><u>In 2024, How to Create A Freeze Frame Sequence in Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-zoom-video-in-vlc-media-player/"><u>In 2024, How to Zoom Video in VLC Media Player</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/live-broadcasting-with-manycam-top-notch-virtual-camera-solutions/"><u>Live Broadcasting with ManyCam: Top-Notch Virtual Camera Solutions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-using-luts-perfectly-in-final-cut-pro-for-2024/"><u>New Guide To Using Luts Perfectly in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-the-premiere-pro-video-templates-help-make-original-content-of-broadcast-quality-the-article-introduces-10-free-premiere-pro-templates-that-are-sure-to-/"><u>New The Premiere Pro Video Templates Help Make Original Content of Broadcast Quality. The Article Introduces 10 Free Premiere Pro Templates that Are Sure to Make Your Life Easy</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-whatre-the-best-alternatives-to-pexels/"><u>New Whatre the Best Alternatives to Pexels?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-cropping-and-combining-content-in-wondershare-filmora-latest-for-2024/"><u>Updated Guide To Cropping and Combining Content in Wondershare Filmora Latest for 2024</u></a></li>
 </ul></div>
 
