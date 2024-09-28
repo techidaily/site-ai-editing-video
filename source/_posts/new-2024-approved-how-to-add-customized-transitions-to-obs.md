@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Add Customized Transitions to OBS
-date: 2024-09-16T17:16:18.862Z
-updated: 2024-09-23T19:35:03.848Z
+date: 2024-09-21T05:45:38.255Z
+updated: 2024-09-28T08:15:09.108Z
 tags: 
   - ai
   - animation videos
@@ -85,13 +85,6 @@ Step4 Check them out and once you have selected one to apply, drag and drop it i
 
 ![check transitions out](https://images.wondershare.com/filmora/guide/add-transitions-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 Play the video and click on Export button to save the video.
 
 ## Part 4: Related FAQs about OBS Transitions
@@ -103,13 +96,6 @@ You need to go to Scene Transition tab and select any transition overlay effect 
 ### Can you have different scene transitions in OBS?
 
 Yes, you can have different scene transitions in OBS Studio. You can add them directly from Scene Transition tab one by one as per your requirements. You can add them in between scenes so that the transition effects play when you switch between scenes.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How do I download transitions in OBS?
 
@@ -136,6 +122,13 @@ Step4 Check them out and once you have selected one to apply, drag and drop it i
 Step5 Play the video and click on Export button to save the video.
 
 ## Part 4: Related FAQs about OBS Transitions
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How do I add a transition overlay in OBS?
 
@@ -189,13 +182,6 @@ Step3 Go to Titles and search for “animation” and you will get all the motio
 
 ![select animation title text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-animation-title-text-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Double-click on the text layer to type in your desired text. Reposition the text layer on the timeline and on the video from Viewer.
 
 ![customize animation type text filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-animation-type-text-filmora.jpg)
@@ -207,13 +193,6 @@ Adobe Premiere Pro is one of the most preferred video editors among professional
 Step1 Go to Graphics> Essential Graphics and select a motion text effect template as per your preference. Drag and drop it into your timeline above your video or background clip.
 
 ![select motion text template premiere](https://images.wondershare.com/filmora/article-images/2022/09/select-motion-text-template-premiere.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Double-click on the text to edit the words and type in your text. Go to Essential Graphics panel to customize the text effect parameters as per your requirements.
 
@@ -255,6 +234,13 @@ Comic and Life Effect – You get this motion effect on Filmora where the large 
 
 Corporate Title Effect – This comes as a pack on After Effects whereby you get amazing text motion effects that you mostly see in professional videos. Starting from oblique stripe and emerge effect to slide in and out with modern touches and objects, you get stunning text motion to enhance your video content.?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Bottom Line
 
 If there are texts and titles in your video, you have to use motion text effect to make your video content interesting. We have illustrated the simple steps to create and edit motion text effects. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as the best video editor for creating motion text effects as the user interface is intuitive and there are unlimited motion text effects to choose from.
@@ -276,19 +262,6 @@ Step3 Go to Titles and search for “animation” and you will get all the motio
 Step4 Double-click on the text layer to type in your desired text. Reposition the text layer on the timeline and on the video from Viewer.
 
 ![customize animation type text filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-animation-type-text-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Use Premiere Pro to Make Motion Text
 
@@ -323,6 +296,19 @@ Step2 Go to Effects and Presets panel, go through and search for the desired mot
 Step3 From Current Time Indicator, slide the keyframes to adjust the animation. Click on the text layer to expand it and adjust different parameters to get the desired text animation.
 
 ![adjust desired text animation after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-desired-text-animation-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4\. Best Motion Effects Ideas to Try
 
@@ -362,13 +348,6 @@ With many video filter editors available online, choosing the right one can be d
 
 * [Part 2: Best Alternatives](#part2)
 * [Part 3: Summary](#part3)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Top 5 Free Online Video Filter Editors
 
@@ -514,6 +493,13 @@ One of the commendable aspects of Veed.io is its commitment to transparency. Use
 
 **Disadvantages:** The free version watermarks the videos.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Clideo
 
 ![filter online1](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors1.jpg)
@@ -646,13 +632,6 @@ Step1 Launch Wondershare Filmora and drag and drop your clip to the timeline.
 
 ![drag and drop the clip](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Go to effects and then click “NewBlue FX” option and select Newblue filters.
 
 ![select newblue filter](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-3.jpg)
@@ -681,6 +660,13 @@ Step8 To blur the edges of the effects, turn up the softened slider and remove a
 
 ![blurring the edges of effects](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In this way, you can add a selective color effect to your video clips and isolate the color of your choice.
 
 ## Tutorial 2 on make color isolation using eyedropper tool
@@ -695,6 +681,13 @@ Step2 Go to effects at the top, and find Newblue effects, and click on the Newbl
 
 ![newblue effects and filters](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Find the selective color effect and drag it to the clip.
 
 ![selective color](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-12.jpg)
@@ -706,6 +699,13 @@ Step4 Double-click on the clip and visit the effects menu at the top of the scre
 Step5 Click on the ‘first color’ and select the eye dropper tool. This will allow us to select the red flower in the preview window. You can also click different parts of the image to get the color that we want.
 
 ![select the first color and eye dropper tool](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step6 Next, try selecting a second color to isolate within our shot. In this example, we are going to make the stems on the flowers stand out as well. Select second color and go to the tint section. And find a color that is close to the second color, which will be green in this case.
 
@@ -727,6 +727,13 @@ Step1 Launch Wondershare Filmora and drag and drop your clip to the timeline.
 
 ![drag and drop the clip](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Go to effects and then click “NewBlue FX” option and select Newblue filters.
 
 ![select newblue filter](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-3.jpg)
@@ -746,19 +753,6 @@ Step5 Open the preset drop-down menu. There will be a lot of presets with differ
 Step6 If you see a blue tint at a place or object which you want to be white and black, click on the first color.
 
 ![first color](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step7 Now adjust the range slider to decrease the number of unwanted tints.
 
@@ -824,5 +818,26 @@ Follow all the steps in the correct order. This is how you can use NewBlue effec
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-the-lens-focus-techniques-for-storify-success-for-2024/"><u>[Updated] Mastering the Lens Focus Techniques for Storify Success for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-financial-insights-how-much-does-pewdopeep-make/"><u>2024 Approved Financial Insights How Much Does PewDoPeep Make?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-a-green-screen-video-in-after-effects/"><u>2024 Approved How To Create A Green Screen Video In After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-canva-collages/"><u>2024 Approved How to Make Canva Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-speed-ramping-to-create-a-footage/"><u>2024 Approved How to Use Speed Ramping to Create a Footage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lightroom-lut-essentials-for-professional-imagery/"><u>2024 Approved LightRoom LUT Essentials for Professional Imagery</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-ultimate-digital-lecture-name-builder/"><u>2024 Approved Ultimate Digital Lecture Name Builder</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/360-camera-buying-guide-how-to-choose-a-suitable-360-camera/"><u>360 Camera Buying Guide How to Choose a Suitable 360 Camera</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/boost-your-spirit-creating-motivational-status-videos/"><u>Boost Your Spirit Creating Motivational Status Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/canon-camera-experience-no-cost-but-pay-for-more-luts/"><u>Canon Camera Experience No Cost, But Pay for More LUTs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/excel-at-web-development-top-free-html-tools-tailored-for-windows-enthusiasts/"><u>Excel at Web Development: Top Free HTML Tools Tailored for Windows Enthusiasts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-social-snagging-5-chrome-hdl-vids/"><u>Mastering Social Snagging 5 Chrome HDL Vids</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects/"><u>New How To Make a Timelapse in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-crop-a-video-with-cyberlink-powerdirector/"><u>New Step by Step to Crop a Video with CyberLink PowerDirector</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-find-out-what-ray-tracing-is-in-after-effects-how-it-works-and-learn-about-ray-traced-3d-settings-with-simple-instructions/"><u>Updated Find Out What Ray Tracing Is in After Effects, How It Works, and Learn About Ray-Traced 3D Settings with Simple Instructions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>Updated HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-learning-how-to-create-luts-with-luts-generator/"><u>Updated Learning How to Create LUTs with LUTs Generator</u></a></li>
+</ul></div>
 

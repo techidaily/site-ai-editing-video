@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects
-date: 2024-09-21T16:59:35.360Z
-updated: 2024-09-23T18:34:26.233Z
+date: 2024-09-24T05:52:13.462Z
+updated: 2024-09-28T07:37:28.391Z
 tags: 
   - ai
   - animation videos
@@ -28,6 +28,13 @@ Mask Edge Feather in After Effects is a feature that enables you to create a sof
 One of the key benefits of feathering masks is that it allows you to blend the masked object with its background, making the effect look more natural and convincing. The mask feather tool can also create custom feather shapes anywhere along the edge of the mask. To access the mask feather tool, switch to the pen tool by pressing the "**G**" key and selecting the feather pen.
 
 The mask edge feather feature in After Effects is a powerful and versatile tool that can help you achieve a wide range of creative effects. Whether you're creating an animation or visual effect, or want to add a professional touch to your designs, understanding how to use the mask feather tool is an essential skill in your After Effects toolkit.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How To Feather a Shape in After Effects?
 
@@ -57,6 +64,13 @@ Step2 Increase the "**Blur Radius**" to see the edges feather.
 
 ![after effects editing the blur radius](https://images.wondershare.com/filmora/article-images/after-effects-blur-radius.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How To Use Variable Mask Feather in After Effects?
 
 Variable mask feather in After Effects allows you to create masks with variable feathering. It means you can have different feather values for different parts of the same mask. This feature gives you greater control and flexibility over your masks, allowing you to easily create complex effects and transitions.
@@ -77,13 +91,6 @@ Step3 Adjust the Feather Parameter.
 
 ![after effects adjusting feather parameter](https://images.wondershare.com/filmora/article-images/after-effects-feather-parameter.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Go to "**Pen Tool**" > "**Mask Feather Tool**" and **click** anywhere on the mask path.
 
 ![after effects mask feather tool](https://images.wondershare.com/filmora/article-images/after-effects-mask-feather.JPG)
@@ -91,6 +98,13 @@ Step4 Go to "**Pen Tool**" > "**Mask Feather Tool**" and **click** anywhere on t
 Step5 Drag the mask point feathering around the focus.
 
 ![after effects adjusting the mask feathering points](https://images.wondershare.com/filmora/article-images/after-effects-adjust-points.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This tutorial came from [Crish Design](https://www.youtube.com/watch?v=Lx7KTqgish8&t=38s). For more tutorials about After Effects tips and techniques, you can refer to the **Crish Design** YouTube channel.
 
@@ -170,13 +184,6 @@ Step1 Open Wondershare Filmora and **create** a new project. **Import** the vide
 
 ![filmora add media](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Double-click the video in the Player Window. In the editing window, **click "Video**"> "**Mask**" and add a shape mask.
 
 ![filmora adding a shape mask](https://images.wondershare.com/filmora/guide/add-mask-to-video.png)
@@ -200,13 +207,6 @@ Step1 Select the "**Draw Mask**" option under the Mask tab, and **use** the pen 
 Step2 Adjust the "**Blur Strength**" value.
 
 ![filmora adjusting the blur strength value 1](https://images.wondershare.com/filmora/guide/draw-mask-to-video.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -232,6 +232,13 @@ QuickTime is among the most popular multimedia players available for PC users. D
 
 Do you use QuickTime player to watch music videos, movies, and TV shows? Well, you may find it interesting that the QuickTime player allows you to add subtitles. As there are multiple methods through which you can add subtitles in QuickTime, we are going to discuss them one by one in this blog. So, let’s start our discussion!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Turn on the Subtitles in QuickTime
 
 As you might know, some videos come with embedded subtitles. It’s up to you whether you want to view them while playing the video or not. If you are playing a video with embedded subtitles in the QuickTime player but are somehow unable to view the subtitles, it’s probably because the subtitles feature is turned off. So, you need to enable the subtitles by following certain steps.
@@ -242,13 +249,6 @@ Step1 Open the QuickTime Player application on your Mac computer.
 
 ![open quicktime player](https://images.wondershare.com/filmora/article-images/2023/02/turn-on-subtitles-in-quicktime-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Play the video having subtitles embedded in it.
 
 Step3 Within the menu bar, find the “view” tab and open it.
@@ -258,13 +258,6 @@ Step3 Within the menu bar, find the “view” tab and open it.
 Step4 Now, you need to find the subtitles option.
 
 ![find and access subtitles option in quicktime](https://images.wondershare.com/filmora/article-images/2023/02/turn-on-subtitles-in-quicktime-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 Choose a language in which subtitles are available.
 
@@ -436,13 +429,6 @@ Step8 Choose a subtitle template and add it to the video timeline.
 
 ![add subtitles to a video in the filmora app](https://images.wondershare.com/filmora/article-images/2023/02/add-subtitles-to-a-video-using-filmora-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step9 You can add text, modify text style, and add animations.
 
 Step10 Click the “Ok” button to save the subtitles.
@@ -458,13 +444,6 @@ It’s quite easy to add subtitles to QuickTime player and watch videos with sub
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How To Create A Green Screen Video In After Effects
 
@@ -509,6 +488,13 @@ After completing this lesson, you should have a better understanding of what a c
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comprehensive Guide to Add LUTs in Premiere Pro with Ease
 
@@ -587,13 +573,6 @@ There are approximately [100+ LUTs](https://tools.techidaily.com/wondershare/fil
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-cinematic-luts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Features of Wondershare Filmora
 
 * **Intensity Setting:** You can also modify the intensity of your applied colors. This way, you can adjust color saturation on a 0 – 100% scale range. With intensity, there is an option to customize color grading.
@@ -616,6 +595,13 @@ Videos are close to all of us, as they store our important visual data. This is 
 [Apply LUT on Videos](https://tools.techidaily.com/wondershare/filmora/download/) [Apply LUT on Videos](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -662,6 +648,20 @@ There are approximately [100+ LUTs](https://tools.techidaily.com/wondershare/fil
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-cinematic-luts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Features of Wondershare Filmora
 
 * **Intensity Setting:** You can also modify the intensity of your applied colors. This way, you can adjust color saturation on a 0 – 100% scale range. With intensity, there is an option to customize color grading.
@@ -695,5 +695,23 @@ Videos are close to all of us, as they store our important visual data. This is 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/he-10-best-youtube-music-rippers-for-android-and-ios/"><u>[New] The 10 Best YouTube Music Rippers for Android and iOS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-effortless-way-to-personalize-your-youtube-channel-url/"><u>[Updated] Effortless Way to Personalize Your YouTube Channel Url</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-key-to-flawless-tiktok-profile-hyperlinking/"><u>2024 Approved The Ultimate Key to Flawless TikTok Profile Hyperlinking</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-subscription-tiers-youtube-tv-explained/"><u>2024 Approved Understanding Subscription Tiers YouTube TV Explained</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-optimize-your-startup-programs-in-windows-11-for-improved-performance/"><u>How to Optimize Your Startup Programs in Windows 11 for Improved Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/i-migliori-5-lettori-video-per-il-sistema-operativo-macos-nel-202e-con-integrazione-remota-appleappletv-guida-completa/"><u>I Migliori 5 Lettori Video per Il Sistema Operativo macOS Nel 202E: Con Integrazione Remota Apple/AppleTV - Guida Completa</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-metaverse-chronicles-a-list-of-the-most-unforgettable-sci-fi-adventures-on-screen/"><u>In 2024, Metaverse Chronicles A List of the Most Unforgettable Sci-Fi Adventures on Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/rapid-methods-to-customize-your-soundscaping-in-pubg-for-2024/"><u>Rapid Methods to Customize Your Soundscaping in PUBG for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-add-transition-effects-in-premiere-pro/"><u>Updated 2024 Approved Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-fade-in-windows-video-editor-for-2024/"><u>Updated How To Add Fade In Windows Video Editor for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-random-letter-reveal-intro/"><u>Updated How to Make Random Letter Reveal Intro?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-correct-lens-distortion-with-filmora/"><u>Updated In 2024, How to Correct Lens Distortion With Filmora</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated How Can You DIY VHS Overlay in After Effects for 2024
-date: 2024-09-16T18:11:08.261Z
-updated: 2024-09-23T17:29:20.654Z
+date: 2024-09-20T20:47:34.772Z
+updated: 2024-09-28T05:06:07.560Z
 tags: 
   - ai
   - animation videos
@@ -123,13 +123,6 @@ Open your draft in Filmora software and select sample colors from the Media tab 
 
 ![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
 
 In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
@@ -227,13 +220,6 @@ When finished, click export and choose the format and target folder to save the 
 The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
 
 By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -268,6 +254,13 @@ Have you seen those classic and outstanding videos of professional YouTubers? Ye
 And now, you might think it's impossible to mess with the audio control without the support of a professional. But believe me; it's much simpler than you think. In this brief guide, we'll show you how to use the audio mixer of Filmora to fine-tune all of your videos skillfully.
 
 But let's first see what an audio mixer is.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: What is an audio mixer?
 
@@ -371,6 +364,13 @@ To check the effect, let's rotate the knob to the left. And to see the result hi
 
 ![preview of the adjusted audio tracks](https://images.wondershare.com/filmora/article-images/2023/04/preview-of-the-adjusted-audio-tracks.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now it's time to select the audio mode.
 
 ##### Step6Select the audio mode
@@ -421,13 +421,6 @@ And here we are, done!!! Now you can easily surprise your friends with your mast
 
 An audio mixer is necessary if you want to create impressive videos. This master volume control allows you to deepen the audio effect and merge two audio sources to get the maximum out of them. This is why most content creators give grave importance to audio mixers during video editing.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **2.Where can we find the audio mixer in Filmora?**
 
 Like other highly advanced editing tools, you can also find the audio mixer in Filmora. After you've placed your media file on the editing panel, the "audio mixer" icon appears on the toolbar under the preview channel.
@@ -435,6 +428,13 @@ Like other highly advanced editing tools, you can also find the audio mixer in F
 ### **3.Is the audio mixer of Filmora available for free?**
 
 Yes, you can freely use the audio mixer of Filmora as much as you want without any cost. And unlike many other free sound control tools, you get all the latest and advanced features like the preview tool with the audio mixer of Filmora.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -487,6 +487,13 @@ For this,
 * Now let's import our video. Click on the "Import Media" section or drag and drop your video/audio file here to import it.
 
 ![click on the import media section](https://images.wondershare.com/filmora/article-images/2023/04/import-media-section-in-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Once the media file has been imported, add it to the editing panel below with the drag-and-drop method. This is important to create a workspace for your video.
 
@@ -580,6 +587,19 @@ Perfect!!! No? Make the changes again until you are satisfied and then hit the "
 
 ![preview of the adjusted audio tracks](https://images.wondershare.com/filmora/article-images/2023/04/preview-of-the-adjusted-audio-tracks-in-filmora.gif)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 And here we are, done!!! Now you can easily surprise your friends with your master-like audio handling. Before we wind up our guide, we'll answer some of the frequently asked questions about the audio mixer of Filmora. So let's dive right into it.
 
 ## Part 4: Hot FAQs about the audio mixer of Filmora
@@ -587,13 +607,6 @@ And here we are, done!!! Now you can easily surprise your friends with your mast
 ### **1.How important is an audio mixer in video editing?**
 
 An audio mixer is necessary if you want to create impressive videos. This master volume control allows you to deepen the audio effect and merge two audio sources to get the maximum out of them. This is why most content creators give grave importance to audio mixers during video editing.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2.Where can we find the audio mixer in Filmora?**
 
@@ -627,18 +640,18 @@ In this particular article, we will discuss **how to get motion blur in the Valo
 
 ![motion blur in valorant gameplay](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-valorant-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: What is Valorant?
 
 [Valorant](https://playvalorant.com/en-us/) is a famous competitive game that indulges the players in playing at least 13 different rounds to win. By using tactical strategies and gunplay, the player needs to defend himself to secure his chances of winning. Apart from choosing guns and bullets, you can also select a special agent armed that would comprise special capabilities.
 
 ![what is valorant game](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-valorant-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 With the help of this agent armed, you can easily strategize the gameplay to increase the chances of winning. There are different options for agents, such as Yoru, Skye, Raze, Breach, etc. This game also involves various maps that act like playgrounds. On these playgrounds, you can flaunt your gaming skills, creativity, and intellectual thinking.
 
@@ -691,19 +704,6 @@ If you are unable to set the proper settings for your recording software, you ca
 
 Filmora provides different presets that you can use to create your video from scratch. You can also search for different types of effects and transitions on Filmora that can change the outlook of your video. Furthermore, you can also auto-reframe your video clips on Filmora to resize them automatically with great precision. Here are some of the key features of Filmora that can help you to perform professional video editing:
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Features of Filmora
 
 * Filmora contains various stock footage that you can pick and apply to your videos instantly. It offers a wide range of stock footage that you can easily use without paying any cost.
@@ -746,6 +746,13 @@ This article has shed light on **how to get a motion blur in Valorant** by modif
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 Filmora provides different presets that you can use to create your video from scratch. You can also search for different types of effects and transitions on Filmora that can change the outlook of your video. Furthermore, you can also auto-reframe your video clips on Filmora to resize them automatically with great precision. Here are some of the key features of Filmora that can help you to perform professional video editing:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Features of Filmora
 
@@ -807,6 +814,13 @@ A quiz video is a type of content that provides viewers with a series of questio
 To make an appealing **video quiz**, you have to look at it from various angles, such as its purpose, type, and relevancy.
 
 Moreover, a well-made quiz video will demand the viewer's attention and encourage them to take action without being intrusive or annoying. One of the best ways is to provide visual captions that can explain the point being made in an engaging, fast-paced, and entertaining way.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. What Are The Advantages Of A Quiz And How To Use It?
 
@@ -878,19 +892,6 @@ Finally, drag and drop the background video into the timeline.
 
 ![creating quiz video in filmora](https://images.wondershare.com/filmora/article-images/2023/02/creating-quiz-video-in-filmora.png)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2 Make An Intro
 
 Now, start by creating an introduction. You can do this by opening the **"Media"** tab, selecting a template, and dropping it in the timeline once it is downloaded.
@@ -932,19 +933,6 @@ On the homepage, select the **"Create New Project"** option, and choose **"Click
 Finally, drag and drop the background video into the timeline.
 
 ![creating quiz video in filmora](https://images.wondershare.com/filmora/article-images/2023/02/creating-quiz-video-in-filmora.png)
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step2 Make An Intro
 
@@ -990,5 +978,22 @@ Hopefully, you've enjoyed reading this article and can now create quiz videos fo
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-mastering-comfort-10-tips-for-vr/"><u>[New] 2024 Approved Mastering Comfort 10 Tips for VR</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-viral-video-victory-lap-youtubes-1-10-in-one-day/"><u>[New] 2024 Approved Viral Video Victory Lap YouTube's #1-#10 in One Day</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-superior-hd-gameplay-through-top-captures/"><u>[New] Superior HD Gameplay Through Top Captures</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-implementing-instagram-story-opinion-polls-effectively/"><u>[Updated] 2024 Approved Implementing Instagram Story Opinion Polls Effectively</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-reviving-obs-camera-glitches/"><u>[Updated] 2024 Approved Reviving OBS Camera Glitches</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-path-to-polished-photo-borders-in-instagram-for-2024/"><u>[Updated] The Path to Polished Photo Borders in Instagram for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-out-what-keyframe-interval-is-why-it-is-important-and-to-change-its-value-on-obs-studio-with-simple-and-easy-to-follow-instructions/"><u>2024 Approved Find Out What Keyframe Interval Is, Why It Is Important, and to Change Its Value on OBS Studio with Simple and Easy-to-Follow Instructions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-need-to-learn-about-halftone-effects-learn-how-to-quickly-create-a-halftone-effect-in-adobe-photoshop-with-simple-easy-to-follow-instructions./"><u>2024 Approved Need to Learn About Halftone Effects? Learn How to Quickly Create a Halftone Effect in Adobe Photoshop with Simple, Easy-to-Follow Instructions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-f5-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Poco F5 5G Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-3-in-camera-transitions-tricks-to-make-videos-for-2024/"><u>New 3 In-Camera Transitions Tricks To Make Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-discover-the-process-of-slowing-down-time-lapse-videos-on-your-iphone/"><u>New Discover the Process of Slowing Down Time-Lapse Videos on Your iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-synchronizing-your-audio-and-videos-properly-in-2024/"><u>New Guide to Synchronizing Your Audio And Videos Properly, In 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/take-your-editing-to-the-next-level-5-final-cut-pro-hacks/"><u>Take Your Editing to the Next Level 5 Final Cut Pro Hacks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-creating-the-perfect-vhs-effect-look-in-premiere-pro/"><u>Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro</u></a></li>
+</ul></div>
 

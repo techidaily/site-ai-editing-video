@@ -1,7 +1,7 @@
 ---
 title: Updated How To Make a Video by Mouse in Filmora, In 2024
-date: 2024-09-19T17:30:02.123Z
-updated: 2024-09-23T16:43:25.622Z
+date: 2024-09-22T19:54:27.694Z
+updated: 2024-09-27T20:32:54.893Z
 tags: 
   - ai
   - animation videos
@@ -71,13 +71,6 @@ Suppose you have found audio that speaks your vibe. The next step would be to fi
 
 ![drone shot of rooftops](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-4.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you like to add a more **classical vibe**, pick a classical song or audio from the audio library.
 
 * After picking the song, move on to the sample videos tab and search for videos that match a **classic vibe.**
@@ -113,13 +106,6 @@ Step 5\. Add the video to the timeline
 When you have your audio in the timeline, your next step is adding the video. After you have trimmed or split your audio to your wish, follow the below steps.
 
 ![adding sample videos](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-7.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * **Click** and **drag** to drop the video clips where you want the video to start.
 * **Play** the audio first is a good feature for where you want your video to insert.
@@ -220,6 +206,14 @@ With just a mouse, you have created a music video! How easy is that? Try differe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Easy Ways to Add Text Overlay to Video
 
 Text overlay refers to adding a text element over a video scene. The viewers will see your text elements appear on the screen while watching the video. Adding text overlay is quite common in videos and movies. Starting from showing credits in intro and outro of video to showing topics and important points to emphasize on them, text overlay is highly useful.
@@ -268,11 +262,31 @@ Step2 Drag and drop the video file from Media folder to Timeline. Select Titles 
 
 ![drag media timeline imovie](https://images.wondershare.com/filmora/article-images/2022/07/drag-media-timeline-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Edit the text from Preview Screen instantly. You can also change font, size, and other text elements.
 
 ![edit text video imovie](https://images.wondershare.com/filmora/article-images/2022/07/edit-text-video-imovie.jpg)
 
 Step4 If you are satisfied with the text overlay, go to File> Share> File to export the video file.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Add Text Overlay to Video on iPhone
 
@@ -283,13 +297,6 @@ Step1 Open iMovie app and tap on Plus icon to import your video clip to iMovie.
 Step2 Tap on the video clip and tap on “T” icon located at the bottom.
 
 ![click text imove iphone](https://images.wondershare.com/filmora/article-images/2022/07/click-text-imove-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 You need to choose the text style as per your preference from the bottom.
 
@@ -335,6 +342,13 @@ Step2 Import your video file into Project Media folder and drop it on Timeline.
 
 ![import video file into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Go to Titles option at the top and you will find different categories of text styles to apply to your video.
 
 ![go to titles option](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
@@ -357,6 +371,13 @@ Step1 Open iMovie from Applications folder. Click on Create New button and there
 
 ![create new project imovie](https://images.wondershare.com/filmora/article-images/2022/07/create-new-project-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Drag and drop the video file from Media folder to Timeline. Select Titles at the top and you will see different text styles. Place your mouse pointer over them to preview them. Drag and drop any desired text style on Timeline and place it where you want it to appear in the video.
 
 ![drag media timeline imovie](https://images.wondershare.com/filmora/article-images/2022/07/drag-media-timeline-imovie.jpg)
@@ -367,6 +388,13 @@ Step3 Edit the text from Preview Screen instantly. You can also change font, siz
 
 Step4 If you are satisfied with the text overlay, go to File> Share> File to export the video file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. Add Text Overlay to Video on iPhone
 
 If you have captured a video on your iPhone and you want to add some texts over the video, you can do it instantly with iMovie app. Yes, iMovie app from Apple is available for iPhone as well. There is no need to transfer the video file to your PC or Mac for text overlay video. Here are the steps to follow.
@@ -376,13 +404,6 @@ Step1 Open iMovie app and tap on Plus icon to import your video clip to iMovie.
 Step2 Tap on the video clip and tap on “T” icon located at the bottom.
 
 ![click text imove iphone](https://images.wondershare.com/filmora/article-images/2022/07/click-text-imove-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 You need to choose the text style as per your preference from the bottom.
 
@@ -395,13 +416,6 @@ Step4 Tap on the Viewer to place the default text and tap on Edit option to chan
 Step5 You can also reposition the text as well as adjust the size, font, as well as color. When you are satisfied, tap on Done.
 
 ![reposition text imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/reposition-text-imovie-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5\. Add Text Overlay to Video Online
 
@@ -418,13 +432,6 @@ Step3 Click on the video where you want to place the text and type in the requir
 Step4 Select the text and below the navigation panel, you will find all the tools to customize the text as per your preference.
 
 ![text navigation panel online](https://images.wondershare.com/filmora/article-images/2022/07/text-navigation-panel-online.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 Once done and you are satisfied, click on Save button.
 
@@ -684,13 +691,6 @@ Click on the Keyframe Button (marked in Green) to access the Keyframe Menu that 
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-10.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Bottom Line
 
 This marks the end of our guide on how to rotate video in PowerDirector 365 and Wondershare Filmora X. Now, while both software are high-capable tools, we feel the keyframe-based working on rotation in Filmora is a lot more intuitive and easy to use. The ability to only have number-based rotation within the edit menu is also a positive, as rotating with a swivel like in PowerDirector isn't always the most accurate.
@@ -715,16 +715,16 @@ Rotation added in the PiP Designer will function as a keyframe-based rotation ac
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-4.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Following this, you can click on the Motion Tab, go into Rotation Settings, and modify the angle with greater precision. In the Preview Window, you will now be able to see the rotating video.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-5.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **An Easier Way to Crop Video with Wondershare Filmora**
 
@@ -844,6 +844,13 @@ First, fire up Filmora and load the video you want to send back to the 1950s. Th
 
 ![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
@@ -944,5 +951,22 @@ And that's all there is today! With these steps, you can create an engaging 1950
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-ranking-videos-youtubes-everlasting-classics/"><u>[New] In 2024, High-Ranking Videos YouTube’s Everlasting Classics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-in-pursuit-of-excellence-tips-for-shooting-with-hero5-black/"><u>[New] In 2024, In Pursuit of Excellence Tips for Shooting with Hero5 Black</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-gif-building-an-understanding/"><u>2024 Approved How To Slow Down GIF Building an Understanding</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blurring-the-line-between-still-and-motion-art-for-2024/"><u>Blurring the Line Between Still and Motion Art for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/earning-edge-advanced-tactics-for-monetizing-videos-on-vimeo-for-2024/"><u>Earning Edge Advanced Tactics for Monetizing Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/full-review-of-camstudios-screen-capture-features/"><u>Full Review of CamStudio's Screen Capture Features</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-realme-c51-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Realme C51 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-world-of-audio-with-apods/"><u>In 2024, Navigating the World of Audio with APods</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-options/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Options</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-blur-faces-in-your-videos-read-this-article-to-find-out-the-easiest-way-to-blur-the-faces-in-videos-using-adobe-premiere-pro/"><u>New Do You Want to Blur Faces in Your Videos? Read This Article to Find Out the Easiest Way to Blur the Faces in Videos Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-enabling-gpu-detection-for-msi-afterburner-on-windows-10-and-11-systems/"><u>Solution Guide: Enabling GPU Detection for MSI Afterburner on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-motorola-moto-g73-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Motorola Moto G73 5G</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-creating-video-testimonials/"><u>Updated Creating Video Testimonials</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-motion-blur-photo-with-gimp-step-by-step-guide/"><u>Updated Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-the-best-frame-rate-for-4k-videos-in-2024/"><u>What Is the Best Frame Rate for 4K Videos, In 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, 3 Best Effects to Appear on Camera
-date: 2024-09-17T16:41:57.339Z
-updated: 2024-09-23T17:06:27.614Z
+date: 2024-09-26T20:21:01.282Z
+updated: 2024-09-28T02:06:59.736Z
 tags: 
   - ai
   - animation videos
@@ -41,23 +41,9 @@ Step3 Download Filmora to edit your footage. You can get started by going to the
 
 ![download filmora](https://images.wondershare.com/filmora/article-images/2022/12/appearance_3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Now split the first clip on the frame where your jacket lands on the stool. Place it on the first track.
 
 ![split the first clip on the frame](https://images.wondershare.com/filmora/article-images/2022/12/appearance_4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 Trim the second shot until the talents start acting and place it on the second track to match the first clip.
 
@@ -92,6 +78,19 @@ Step1 First, record the empty plate with just a background. Let the talent jump 
 Step2 Now import the clip into Filmora again. Follow the steps from the second example so we have the subject appearing on the screen like this.
 
 ![import the clip into filmora again](https://images.wondershare.com/filmora/article-images/2022/12/appearance_10.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Add the green screenshot onto the third video track.
 
@@ -176,6 +175,13 @@ Step1 **Download** New Year Memory Book Pack from FilmStock
 
 ![filmora download resources](https://images.wondershare.com/filmora/article-images/new-year-memory-book.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 **Open** Filmora and go to "**Effects**" > "**FilmStock**" > "**New Year Memory Book**."
 
 Step3 **Drag and drop** media like clips, overlay, and tracks to the timeline
@@ -191,13 +197,6 @@ Step5 **Add** the imported media and **edit** the clip.
 Step6 **Add** some effects and overlay to the timeline
 
 ![filmora add effects](https://images.wondershare.com/filmora/article-images/add-effects-to-recap-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step7 **Adjust** the Overlay duration of the clip.
 
@@ -254,13 +253,6 @@ Step6 Users can **share** the video on social platforms or **tap** "**More**" to
 Step7 **Save** the final video to your device
 
 ![filmora mobile save video](https://images.wondershare.com/filmora/article-images/filmora-mobile-save-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4\. How To Create a Memories Recap Video on Instagram Reel
 
@@ -326,6 +318,19 @@ Step3 **Drag and drop** media like clips, overlay, and tracks to the timeline
 Step4 **Import** photos and videos.
 
 ![filmora import clips](https://images.wondershare.com/filmora/article-images/drag-recap-files-to-edit.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 **Add** the imported media and **edit** the clip.
 
@@ -480,16 +485,16 @@ Hue is measured in terms of the color wheel's degrees. It's possible to change t
 
 The strength of the hue is known as saturation. (Remember that this HSL panel modification only affects the saturation of individual colors, not the saturation of the entire image.) In order to achieve a more subdued, muted appearance for this example, I reduced the Saturation on the aqua, blue, and green hues. To increase the intensity of your shot, you can do the exact reverse. Find the tweaks that suit your photo and the appearance you want to achieve best.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Luminance
 
 Each color's luminance measures how brightly it reflects light. Use this tool to brighten or darken specific areas of your image (it works especially well to provide contrast to black and white images). To make the water and sky behind the model darker in this example photograph, I decreased the Luminance setting on the aqua panel.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Adjustment Brush
 
@@ -545,13 +550,6 @@ Step4 Once you are satisfied with any scrolling text effects, drag and drop it i
 
 ![drag scroll effects timeline filmora](https://images.wondershare.com/filmora/article-images/2022/07/drag-scroll-effects-timeline-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 Double-click on the text layer on Timeline and customize the text and style as you feel. Thereafter, you can click on Advanced button for more customization. Finally, click on OK button.
 
 ![customize scroll text style filmora](https://images.wondershare.com/filmora/article-images/2022/07/customize-scroll-text-style-filmora.jpg)
@@ -598,6 +596,13 @@ Step1 Install VSDC free video editor and click on New Project option. Click on F
 
 ![import video to vsdc](https://images.wondershare.com/filmora/article-images/2022/07/import-video-to-vsdc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Select Type tool from the left panel and draw a box on the video where you can type your text. Make sure the text layer is on top of the video layer in Timeline.
 
 ![select type tool vsdc](https://images.wondershare.com/filmora/article-images/2022/07/select-type-tool-vsdc.jpg)
@@ -618,6 +623,13 @@ Step6 Shorten the duration of the text layer and then copy the text layer from T
 
 ![complete scrolling effect vsdc](https://images.wondershare.com/filmora/article-images/2022/07/complete-scrolling-effect-vsdc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Takeaway
 
 Adding scrolling text to your video should no more be an issue for you. If you are using After Effects, we have illustrated how you can create horizontal and vertical scrolling effect for text in your video perfectly. If you prefer a free video editor, you can use VSDC free video editor as well. But we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) where you can add scrolling effects to your text instantly, and there is a wide range of amazing scrolling effects available to apply to your video.
@@ -636,16 +648,16 @@ Step3 Go to Titles option located at the top, and on the left panel, go to End C
 
 ![scroll text effects filmora](https://images.wondershare.com/filmora/article-images/2022/07/scroll-text-effects-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Once you are satisfied with any scrolling text effects, drag and drop it into Timeline above the video clip layer. Adjust the position of the text effect so that it appears on the video as expected. You can stretch the duration of the effect as per your preference.
 
 ![drag scroll effects timeline filmora](https://images.wondershare.com/filmora/article-images/2022/07/drag-scroll-effects-timeline-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 Double-click on the text layer on Timeline and customize the text and style as you feel. Thereafter, you can click on Advanced button for more customization. Finally, click on OK button.
 
@@ -679,18 +691,18 @@ Step6 Select all layers and right-click and select Pre-compose.
 
 ![select precompose after effects](https://images.wondershare.com/filmora/article-images/2022/07/select-precompose-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step7 Right-click on Pre-comp and go to Time> Enable Time Remapping. Play the video and you will see the scrolling effects that you see in end credits in videos.
 
 ![enable time remapping after effects](https://images.wondershare.com/filmora/article-images/2022/07/enable-time-remapping-after-effects.jpg)
 
 The above-mentioned steps are for horizontal scrolling text effect. If you want vertical scrolling text After Effects, you have to position the duplicate text and null object vertically and the required text will scroll vertically.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Add Scrolling Text Effect with VSDC Free Video Editor
 
@@ -738,5 +750,22 @@ Adding scrolling text to your video should no more be an issue for you. If you a
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-capture-crop-and-color-correct-with-this-lists-top-5-android-apps/"><u>[New] Capture, Crop, and Color-Correct with This List's Top 5 Android Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-obs-studio-vs-bandicam-which-is-better/"><u>[New] In 2024, OBS Studio vs Bandicam Which Is Better</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-secrets-to-removing-green-screen-effects-on-mac/"><u>[New] Unveiling the Secrets to Removing Green Screen Effects on Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-performers-top-10-innovative-4k-mirrorless-models/"><u>[Updated] Best Performers Top 10 Innovative 4K Mirrorless Models</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-hyperlapse-vs-timelapse-videos/"><u>2024 Approved Hyperlapse VS Timelapse Videos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-sound-blaster-z-drivers-quick-guide-for-windows-11-users/"><u>Download Sound Blaster Z Drivers: Quick Guide for Windows 11 Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hearing-heroes-face-off-apple-vs-samsung-in-sound-battle/"><u>Hearing Heroes Face Off: Apple Vs. Samsung in Sound Battle</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-convert-mp4-videos-to-60-fps-gifs-with-this-easy-to-follow-tutorial-get-smooth-and-crisp-motion-in-your-gifs-in-just-a-few-simple-steps/"><u>In 2024, Learn How to Convert MP4 Videos to 60 FPS GIFs with This Easy-to-Follow Tutorial. Get Smooth and Crisp Motion in Your GIFs in Just a Few Simple Steps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713953297744-new-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-cont/"><u>New A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>New How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-tiktok-loop-video/"><u>New How to Make a TikTok Loop Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-adobe-lightroom-color-grading-tutorial/"><u>New In 2024, Adobe Lightroom Color Grading Tutorial</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-sound-engineers-playbook-techniques-for-distilling-song-beats-through-technology/"><u>New In 2024, The Sound Engineers Playbook Techniques for Distilling Song Beats Through Technology</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-this-article-let-me-share-with-you-how-to-start-a-vlog-ideas-and-any-tips-for-you-to-start-your-own-vlogging-channel/"><u>New In This Article Let Me Share with You How to Start a Vlog? Ideas and Any Tips for You to Start Your Own Vlogging Channel</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-mystery-making-your-iphone-visible-again-for-itunes-and-finder-users/"><u>Unlock the Mystery: Making Your iPhone Visible Again for iTunes and Finder Users</u></a></li>
+</ul></div>
 

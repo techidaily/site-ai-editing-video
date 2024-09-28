@@ -1,7 +1,7 @@
 ---
 title: New How to Add Miniature Effect in Video with Filmora for 2024
-date: 2024-09-16T18:55:17.659Z
-updated: 2024-09-23T18:09:48.151Z
+date: 2024-09-24T02:07:40.703Z
+updated: 2024-09-27T16:32:52.876Z
 tags: 
   - ai
   - animation videos
@@ -56,6 +56,13 @@ If you don't have good-quality footage, but want to boost your video, here is ho
 
 ![choose stock footage from stock media in filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Move to the **stock media** folder on the above bar in the Wondershare Filmora. Or you can look towards the left window, where you will see the sample **videos tab.**
 
 * Click on the sample videos tab, and a new **window** will appear on the library screen.
@@ -109,13 +116,6 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 * Finally, add effect by just the **Drag and Drop**
 
 ![add blur effect in video multiple times](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-7.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step6 Drop the same video clip
 
@@ -179,6 +179,13 @@ Now, it's time to mask the whole object, which is far, but we want to make it in
 You are excited now to see the final look of your miniature effect! Finally, it's in front of you! Just modify it more if you want to make it more precise.
 
 ![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
 
@@ -256,13 +263,6 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 
 ![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step7 Add masks on the Video
 
 Now, it's time to select a specific video portion and add a mask. Due to this, we will have a selective blur portion. For this, follow the below guidelines:
@@ -274,13 +274,6 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 * Set the mask on video according to your style and choice.
 
 ![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -380,6 +373,13 @@ The 24/30 fps editing timelines are pre-set. The majority of the video you captu
 
 ![post processing filmora](https://images.wondershare.com/filmora/article-images/2022/11/post-processing-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Lighting
 
 While watching TV or movies, you might have observed anything. The majority of the extremely slow photos happen in broad daylight. Not after dark or in dimly lit areas. The reason for this is that sufficient lighting is required in order to capture motion. Lighting becomes crucial as your frame rate exceeds 300 frames per second. Therefore, if you must take these pictures, you must do so in a studio environment with lots of artificial lighting.
@@ -401,13 +401,6 @@ When you first begin working with slow-motion video, you need to ask yourself, "
 2\. The second strategy is to draw attention to striking visuals that you might have overlooked in other circumstances and that contribute significantly to the aesthetic value of your setting. A flutter of the eyelid, a butterfly stretching its wings, rains falling on a flower petal, shards of fire breaking free, etc. are all examples of how quickly things may happen. You need to have a good reason for using slow motion, and you shouldn't abuse the effect too much too. You should only do so at those moments where it makes logical sense to do so.
 
 ![draw attention with slow motion video](https://images.wondershare.com/filmora/article-images/2022/11/draw-attention-with-slow-motion-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Subconscious slow-motion. Overusing or misusing a function ruins its appeal. Filming isn't an exact science, but it does nothing unnecessary. For a cinematic effect, slow-motion should be introduced carefully.
 
@@ -444,13 +437,6 @@ Step2 Drag and drop your video into Timeline. Select the video clip and right-cl
 Step3 From the menu, click on Composition Settings option. You can also use Ctrl + K(Windows) or Command + K(Mac) key combination to open Composition Settings directly.
 
 ![open composition settings ae](https://images.wondershare.com/filmora/article-images/2022/07/open-composition-settings-ae.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 On Composition Settings window, go to Background Color and set the color as per your preference. You can also use a color picker as well to select any color from the video directly.
 
@@ -495,6 +481,13 @@ Import your video clip with a solid background color and place it on Timeline. G
 ### 2\. How do I change a solid background in After Effects?
 
 The steps for After Effects how to change background color solid involve removing the background color and adding a layer of solid color to replace the transparency of the video. Go to Layer> New> Solid. Under Solid Settings window, go to Color and select the desired color from Color option and click on OK button. The new color will get reflected in the background of the video.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. How do you add a white background in After Effects?
 
@@ -547,6 +540,13 @@ VSDC is a proper editor for freely available videos and has various controls. It
 There is also a feature for burning the built-in disk in this editor. Most people enjoy the benefits of this free editor, particularly for educational reasons. There is also a possibility of creating videos to advertise the specific product. Easy to share on Facebook, Twitter, YouTube and others. VDSC can extend the content format and present it to the target audience.
 
 The actual discussion is regarding the splitting of the video by using the VSDC. Also, recommendation of using Wondershare Filmora as the better substitute in place of VSDC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **How is it possible to split the videos in VSDC?**
 
@@ -605,16 +605,10 @@ For Win 7 or later (64-bit)
 For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Features
@@ -727,13 +721,6 @@ Right-click on the video clip to get the option of "Cutting and Splitting" in th
 
 At this moment, you can export the video that you have edited. Save it on your PC directly with some format. It is easy to transfer the videos to the smartphone or even uploading on the web.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Part2 - Splitting of the clip from markers while exporting the video file:**
 
 A splitting tool is also available in VSDC when you want to use different video parts after applying the effects. After adding the video file from the "Export project" tab, and then click on the "Set markers". Click "Apply Changes" when all the markers are ready for splitting the clips. Option for exporting the video is present so you can save it in the format of your choice. It is simple to save the video's parts that are created from the markers.
@@ -745,6 +732,13 @@ A splitting tool is also available in VSDC when you want to use different video 
 For applying different effects on various parts of your video, split it. In this method, add the video file in the timeline and right-click. From the drop-down menu, select "Properties", and then a window appears. Keep scrolling downward, click on the button of light-green colour "Cutting and Splitting" button.
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-5.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When the window pops up, click on the "Apply changes" button, and the video automatically gets split. Every part of the video is present on the timeline after one another.
 
@@ -761,6 +755,13 @@ For Win 7 or later (64-bit)
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Features
 
@@ -818,13 +819,6 @@ For applying different effects on various parts of your video, split it. In this
 When the window pops up, click on the "Apply changes" button, and the video automatically gets split. Every part of the video is present on the timeline after one another.
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-6.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## An easier way to split the video
 
@@ -877,5 +871,22 @@ Wondershare Filmora has undoubtedly received many positive reviews compared to o
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-nextv-networks-the-ultimate-streamers-global-guide/"><u>[New] NexTV Networks The Ultimate Streamer's Global Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-elevate-your-biz-game-utilizing-snapchat-features/"><u>[Updated] In 2024, Elevate Your Biz Game Utilizing Snapchat Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-the-art-of-logging-digital-sound-from-computers/"><u>[Updated] Mastering the Art of Logging Digital Sound From Computers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-streamline-video-editing-in-windows-10-photos-using-story-remix/"><u>[Updated] Streamline Video Editing in Windows 10 Photos Using Story Remix</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-seek-a-guide-to-add-motion-in-blender-this-article-explains-the-blender-motion-blur-effect-in-detail-and-helps-you-master-it/"><u>2024 Approved Do You Seek a Guide to Add Motion in Blender? This Article Explains the Blender Motion Blur Effect in Detail and Helps You Master It</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-go-incognito-your-step-by-step-instagram-live-guide/"><u>2024 Approved Go Incognito Your Step-by-Step Instagram Live Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-in-this-article-you-will-learn-easy-ways-to-edit-videos-using-a-mouse-in-wondershare-filmora-you-can-do-video-editing-without-a-keyboard-after/"><u>2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-tutorial-how-to-easily-delete-applications-in-windows-10-environment/"><u>Complete Tutorial: How to Easily Delete Applications in Windows 10 Environment</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-unveiling-the-reality-of-recordcasts-claims/"><u>In 2024, Unveiling the Reality of RecordCast's Claims</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/innovative-dell-alienware-aurora-r9-unveiled-a-game-changer-in-futuristic-designs/"><u>Innovative Dell Alienware Aurora R9 Unveiled: A Game Changer in Futuristic Designs</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713950874876-looking-for-the-simple-steps-to-add-transition-effects-in-your-video-we-will-illustrate-how-to-add-transition-in-filmora-and-mention-tips-and-tricks-for-vid/"><u>Looking for the Simple Steps to Add Transition Effects in Your Video? We Will Illustrate How to Add Transition in Filmora and Mention Tips and Tricks for Video Transition Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-a-video-on-vimeo/"><u>Updated 2024 Approved How to Loop a Video on Vimeo?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-way-to-color-grading-and-color-correction-in-filmora-for-2024/"><u>Updated Best Way To Color Grading & Color Correction in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-frame-rate-for-4k-video/"><u>Updated In 2024, Best Frame Rate for 4K Video</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Add Effects on TikTok
-date: 2024-09-18T17:25:34.757Z
-updated: 2024-09-23T18:20:37.922Z
+date: 2024-09-23T16:22:21.975Z
+updated: 2024-09-28T01:05:12.663Z
 tags: 
   - ai
   - animation videos
@@ -39,13 +39,6 @@ Step4 Click on "Effects." Once again, scroll to search or choose an effect categ
 
 ![post videos tiktok](https://images.wondershare.com/filmora/article-images/2022/07/post-videos-tiktok.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Adding Effects Before Recording
 
 Many people are hesitant to record a TikTok video with more than one filter effect applied. You've probably seen that a lot of well-known makers create videos that combine many different effects. Actually, the procedure is rather easy. You may apply as many filters as you'd like on the TikTok app while recording time stamps one at a time only! It is not feasible or the option is not presently accessible on the app if you wish to apply many effects at once.
@@ -68,6 +61,13 @@ Step4 If you like the result, press the screen to start recording your video nor
 
 ![start recording video tiktok](https://images.wondershare.com/filmora/article-images/2022/07/start-recording-video-tiktok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. Adding Effects After Recording
 
 Forgot to use a filter effect before to beginning your recording? Not to worry! On the Preview page, you may also apply a filter to your clips. By selecting Visual under Effects after recording or uploading your TikTok video, you may also add some lovely dynamic filter effects. You may achieve that by saving the films to your camera roll after applying each effect individually to the same clip. then launch the app's video recorder, add the previously recorded video, and choose a new filter to apply to the video clip.
@@ -78,6 +78,13 @@ Step1 The first step is to launch the program on your phone and touch the "+" ic
 
 ![tap add icon tiktok](https://images.wondershare.com/filmora/article-images/2022/07/tap-add-icon-tiktok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 The filters button, which is indicated by three circles, must be tapped in the second stage. You may choose the TikTok effect you wish to use once all of the effects are shown on the screen.
 
 ![choose effects tiktok](https://images.wondershare.com/filmora/article-images/2022/07/choose-effects-tiktok.jpg)
@@ -87,13 +94,6 @@ Step3 You have access to a wide variety of effects once you enter the effects ga
 Step4 Click the review button to examine your video with the effect applied before publishing it. This will lead you to a preview screen. Before you actually publish it, you may also add music and other components.
 
 ![publish and post video tiktok](https://images.wondershare.com/filmora/article-images/2022/07/publish-and-post-video-tiktok.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Add Filter on Video in TikTok
 
@@ -116,13 +116,6 @@ Step3 The options screen opens when you press the effect filter button. Your eff
 Step4 You may apply the filter to your video after you have officially made your decision. After doing this, leave the filter gallery and begin recording your video. Now that all of these procedures have been completed, you are able to capture your video with the effect on it.
 
 ![apply filters to videos tiktok](https://images.wondershare.com/filmora/article-images/2022/07/apply-filters-to-videos-tiktok.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -157,18 +150,18 @@ A loop fashion lookbook will be familiar to you if you are a fashion YouTuber. H
 
 The first and most crucial step for creating a good loop video is to record perfect shots. Here are the steps to record video shots for loop videos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to create a loop video
 
 Step1 Set your camera or phone on a tripod. Make sure it stands still and does not move.
 
 ![set up a camera](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Set it so that you have a door on one side and enough room for the subject to walk through the door and move out of the frame.
 
@@ -253,13 +246,6 @@ Step15 After finishing all outfits, copy the clip from the first outfit. And pas
 Step16 Unlock the first track and move the playhead to find the point where the subject with 4th outfit moves out of the frame. Then, cut the remaining part of the freeze frame on the right.
 
 ![unlock first track](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-19.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step17 Now move the playhead to the first frame and find where it coincides with the last part of the final frame. Cut the previous piece.
 
@@ -404,6 +390,13 @@ Yet another fantastic LUT pack, especially for outdoor vlogging and videography,
 
 ![gopro luts color grading pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. [Skin Tones Pack](https://3dlutcreator.com/userstore.php?packid=4)
 
 This pack is the right choice if you want to color-grade your portraits. Skin Tones Pack has over 5 LUTs, and each one is used to fine-tune your skin complexation. With this LUT pack, you can add tan and more brightness to your photos and videos. This pack enhances your skin tone by highlighting your skin color composition. It increases brownness and saturation in your media files to give them a more natural look.
@@ -415,6 +408,13 @@ This pack is the right choice if you want to color-grade your portraits. Skin To
 Zoan Cinematic Pack is the perfect color-grading preset that gives your videos a professional-looking cinematic look. This pack has eight cinematic-rich presets you can apply to your videos and vlogs. These LUTs give the modern Hollywood-style impression. It adds richness to your videos, and it underexposes bright colors in your videos to create a modern cinematic ambiance.
 
 ![zoan cinematic pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. [Winter Pack](https://3dlutcreator.com/userstore.php?packid=6)
 
@@ -454,13 +454,6 @@ Additionally, this app offers over 70 LUT presets that you can use. These LUTs c
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Use LUTs on 3DLUT Mobile App for Video Editing?
 
 Color grading and color correction are not only for professional pictures and portraits. You can color-correct your videos as well with your smartphones. This section will give you step-by-step guidance on how to use LUTs using the 3D LUT mobile app for your videos.
@@ -492,13 +485,6 @@ With the 3DLUT app, you can even access the LUT's library of 3DLUT Creator. You 
 It is a great LUT pack that you can use for your photos and videos. Speedy Grade Pack is a LUT pack that includes 10 LUTs. This color grading pack has different LUTs, each with a new style and color composition. Moreover, it is a pack that enhances color to make your videos more vibrant and livelier. It creates a more refreshing and colorful atmosphere for your viewers.
 
 ![speedy grade pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. [GoPro LUTs Color Grading Pack](https://3dlutcreator.com/userstore.php?packid=2)
 
@@ -544,6 +530,19 @@ With new tools and applications, video editing becomes more accessible with a pr
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -573,10 +572,10 @@ To create a miniature look, we can use specific effects to fake a shallow depth 
 Are you all set to add miniature effects to your video and make film-like shots? Then scroll more and get the step-by-step process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Make a Miniature effect?
@@ -731,6 +730,13 @@ If you don't have good-quality footage, but want to boost your video, here is ho
 
 ![choose stock footage from stock media in filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Move to the **stock media** folder on the above bar in the Wondershare Filmora. Or you can look towards the left window, where you will see the sample **videos tab.**
 
 * Click on the sample videos tab, and a new **window** will appear on the library screen.
@@ -868,5 +874,19 @@ Have you tried to add a miniature effect before? If yes, then share your experie
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-expert-strategies-for-effective-instagram-video-interactions/"><u>[New] 2024 Approved Expert Strategies for Effective Instagram Video Interactions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-effective-ways-how-to-block-facebook-video-ads/"><u>[New] Effective Ways | How to Block Facebook Video Ads?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-no-cost-to-you-heres-a-list-of-7-free-editing-apps/"><u>[Updated] No Cost to You? Here's a List of 7 Free Editing Apps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-adjust-the-tiktok-videos-length-to-make-them-captivating/"><u>2024 Approved Adjust the TikTok Videos Length to Make Them Captivating</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-rapid-periscope-livestream-optimization-methods/"><u>2024 Approved Rapid Periscope Livestream Optimization Methods</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-free-luts-to-use-in-shotcut/"><u>Best Free LUTs To Use in Shotcut</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone-for-2024/"><u>How to Loop a Video with iMovie on Mac and iPhone for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-dive-deep-into-the-world-of-music-videos-best-apps-for-android/"><u>In 2024, Dive Deep Into the World of Music Videos Best Apps for Android</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-guide-to-overlay-videos-in-premiere-pro/"><u>In 2024, Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-room-acoustics-with-windows-11/"><u>Maximizing Room Acoustics with Windows 11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-add-vhs-effects-to-videos-for-free-a-2024-guide/"><u>New Add VHS Effects to Videos for Free A 2024 Guide</u></a></li>
+</ul></div>
 

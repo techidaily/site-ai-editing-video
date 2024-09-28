@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings
-date: 2024-09-21T18:36:04.809Z
-updated: 2024-09-23T18:09:25.081Z
+date: 2024-09-26T02:12:50.702Z
+updated: 2024-09-28T01:42:33.406Z
 tags: 
   - ai
   - animation videos
@@ -77,13 +77,6 @@ It allows users to save specific settings for sequence attributes like frame rat
 
 Creating a custom sequence is like tailoring a shirt to fit you perfectly. Here's a step-by-step guide to help you do just that:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Displays the New Sequence Window
 
 Begin by launching Adobe Premiere Pro. Once opened, navigate to the top menu and select **_File_ \> _New_ \> _Sequence_**. This will open up the New Sequence window, where all the magic happens!
@@ -109,6 +102,13 @@ Once you've customized the settings to your satisfaction, it's time to save this
 A pop-up window will show up, requesting you to provide a name for your new preset. Choose something descriptive so you can easily recognize it later. Once named, click **'OK'**.
 
 Your custom sequence preset is now saved and will appear under the **'Custom'** folder in the **'Sequence Presets'** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Why Custom Sequence Presets are Essential for Efficient Editing
 
@@ -178,19 +178,6 @@ However, Final Cut Pro is for the high-end users who produce videos on a large s
 * No mobile app
 * A one-time purchase required
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **03 Capcut**
 
 CapCut is a free, all-in-one velocity edit maker app for mobile video editing. CapCut is user-friendly and comes with a variety of velocity edit online features that make it suitable for creating short videos, especially for social media platforms. The intuitive graphical user interface makes it easier for users to use Capcut as a velocity editor.
@@ -259,13 +246,6 @@ CapCut is a free, all-in-one velocity edit maker app for mobile video editing. C
 6. Preview the edit to see if it achieves the desired effect and make further adjustments as needed.
 7. Once done with the velocity edit, export the video by clicking on the **"Export"** button, choosing the desired format and settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 When it comes to video editing, velocity editing is a popular feature that content creators use frequently. A velocity editor lets you manipulate the speed and rhythm of video clips to create dynamic and engaging content. Various velocity edit apps have surfaced that offer a range of tools and features to enhance the video editing process. You can use these applications to alter the video velocity, create slow-motion effects, speed up scenes, or even reverse clips to suit the narrative flow of the content.
@@ -277,6 +257,13 @@ Choosing the right velocity edit maker helps you achieve the desired output in v
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 100+ Best TikTok Captions: Enhance Your Content
 
@@ -391,13 +378,6 @@ Captions aren't just about information but about flair, wit, and personality. As
 
 Captions are more than just add-ons. They're a part of the content's DNA, influencing virality and engagement. The above lists are just a teaser. With so much potential, the right caption can be the difference between a few views and a few million. Stay tuned as we explore more on this topic!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Automatically Generate TikTok Captions using Filmora's AI Copywriting Feature
 
 In the ever-evolving world of content creation, tech tools can be a creator's best friend. With the overwhelming demand for frequent and catchy content, wouldn't it be a game-changer if an AI could whip up the perfect TikTok caption for you? Enter Filmora’s AI Copywriting feature!
@@ -437,13 +417,6 @@ Every TikTok creator, from amateur to influencer, will tell you that a caption i
 ## Part 2: Creative Stimulation: A Comprehensive Inventory of Popular Titles on TikTok in 2024
 
 Captions aren't just about information but about flair, wit, and personality. As TikTok evolves, so do the trends in captions. Let's dive into some categories that are making waves this year:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### TikTok Captions for Couples
 
@@ -605,13 +578,6 @@ Before starting to edit the videos with the liquid water text reveal intro, it i
 
 ![downloading wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2Importing and select the stock video
 
 Once Wondershare Filmora is running on your system, you can start by importing and selecting the stock video. The quick steps for the same are:
@@ -622,13 +588,6 @@ Once Wondershare Filmora is running on your system, you can start by importing a
 4. Then, drop the default title on track two.
 
 ![importing and selecting the stock video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3Entering the text
 
@@ -694,10 +653,10 @@ Next, you have to enable the "Chroma Key" effect in the video. Further, the colo
 ![enabling the chroma key and other settings](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step8Adding the stock video clip
@@ -761,6 +720,13 @@ Before starting to edit the videos with the liquid water text reveal intro, it i
 
 ![downloading wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2Importing and select the stock video
 
 Once Wondershare Filmora is running on your system, you can start by importing and selecting the stock video. The quick steps for the same are:
@@ -795,6 +761,13 @@ After making the text settings according to your liking or as required in the vi
 4. Then, delete both these files from the timeline.
 
 ![selecting the color](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step5Adding water effect
 
@@ -861,6 +834,13 @@ Next, you have to add the keyframes and adjust the playheads in the video. In th
 
 ![adding keyframes and adjusting playheads](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step10Previewing and export the video
 
 Once done with all the necessary effects and settings, it is time for a quick preview of the created video. The "Render Preview" option in the Wondershare Filmora offers a fast rendering of the made video to help users with a brief overview of the file. It reduces the preview lag, as observed in other tools due to the application of heavy effects and features. After previewing, you can quickly export the video. The quick steps for the same are:
@@ -871,7 +851,21 @@ Once done with all the necessary effects and settings, it is time for a quick pr
 
 ![previewing and exporting the video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 So, you're done with creating a liquid water text reveal intro in this way. It is easy to save these steps for quick future reference.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Wrapping Up
 
@@ -893,5 +887,22 @@ So, download [Wondershare Filmora](https://tools.techidaily.com/wondershare/film
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-create-memorable-videos-with-the-right-thumbnail-font/"><u>[New] Create Memorable Videos with the Right Thumbnail Font</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pixel-perfect-photography-excelling-in-the-best-6-4k-dslrs-for-2024/"><u>[New] Pixel Perfect Photography Excelling in the Best 6 4K DSLRs for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-pranks-and-puns-playbook-7-clever-gags-for-video-virtuosos/"><u>[Updated] 2024 Approved Pranks & Puns Playbook 7 Clever Gags for Video Virtuosos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-alives-low-residue-sound-technique/"><u>In 2024, Alive's Low-Residue Sound Technique</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iphoneandroiddvd/"><u>IPhoneやAndroidでシームレスにDVDコンテンツを表示方法の詳細な解説</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-officejet-5740-driver-downloads-for-win-11108-free-update-guide/"><u>Latest HP OfficeJet 지패 5740 Driver Downloads for Win 11/10/8 - FREE Update Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/melodies-for-millions-insta-music-secrets/"><u>Melodies for Millions Insta Music Secrets</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-green-screen-video-in-after-effects/"><u>New How To Create A Green Screen Video In After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-film-a-slow-motion-video-for-2024/"><u>New How To Film a Slow Motion Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-animated-titles-and-text-in-the-filmora-video-editor-this-is-a-simple-step-by-step-tutorial-for-any-skill-level/"><u>New Learn How to Create Animated Titles and Text in the Filmora Video Editor. This Is a Simple Step-by-Step Tutorial for Any Skill Level</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-list-of-best-vhs-video-effect-makers/"><u>New Top List of Best VHS Video Effect Makers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-add-transition-effects-in-premiere-pro/"><u>Updated 2024 Approved Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-font-effects-to-videos/"><u>Updated 2024 Approved How to Add Font Effects to Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-way-to-color-grading-and-color-correction-in-filmora/"><u>Updated In 2024, Best Way To Color Grading & Color Correction in Filmora</u></a></li>
+</ul></div>
 

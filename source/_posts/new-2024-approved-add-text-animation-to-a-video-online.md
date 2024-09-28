@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Add Text Animation to A Video Online
-date: 2024-09-16T16:17:02.220Z
-updated: 2024-09-23T18:47:15.628Z
+date: 2024-09-26T05:39:22.873Z
+updated: 2024-09-28T03:29:25.930Z
 tags: 
   - ai
   - animation videos
@@ -91,10 +91,10 @@ The Animaker is one of the best-animated video makers. This app offers the best 
 ![animaker video text maker](https://images.wondershare.com/filmora/article-images/2022/07/animaker-video-text-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step1 Upload the video clip
@@ -157,10 +157,10 @@ Now, you are aware of how to add text animation to video online and the three be
 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Clone Yourself in Videos with Filmora
@@ -182,6 +182,13 @@ For the first shot, stay on one side of the frame and do the first action. For e
 To make it more realistic, make an interaction by reacting to the "clone" while facing the other direction.
 
 ![make an interaction](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Shooting the second clip**
 
@@ -205,6 +212,13 @@ Step1 Bring the first clip to the timeline and cut the clip where you pretend to
 
 ![bring the first clip to the timeline](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 After you have the first part of the effect ready, let's start working on the clone part using masking.
 
 First, place the second clip on a different window track, and the starting point is where you react to the "clone."
@@ -214,13 +228,6 @@ First, place the second clip on a different window track, and the starting point
 Then, double-click the second clip and go to the Filmora setting window. Tap on the **Mask** section > **Single line**.
 
 ![tap on mask section](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 On the preview screen, adjust the position of the mask to only show "the clone."
 
@@ -309,10 +316,10 @@ Step2 Drag and drop the effect onto the timeline where the first cut is set. Adj
 ![drag and drop the effect onto the timeline](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Then, drag and drop the effect again in the transition between the first and the second clip. Adjust it to the appropriate length, then it will give a more dramatic effect.
@@ -387,6 +394,13 @@ These various methods and approaches need the practice to perfect, just like any
 
 Almost from the first motion film, cinematic storytelling and video effects have gone hand in hand. They can improve a scene, create something that doesn't exist, hide an error, and do much more. In essence, they assist a filmmaker in telling a tale in the manner they desire.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Applying Effects using Movavi Slideshow Maker
 
 Making picture collages is less appealing than slide show presentations. This method is ideal for presenting a gallery of images or creating a polished photo-video presentation for your brand and goods. You'll need a creative slideshow program with loads of capabilities to create a polished slideshow that will enhance your production. The Movavi Slideshow Maker now comes into play.
@@ -427,13 +441,6 @@ Step1 Click the **Filter** tab.
 Step2 Choose your desired Filter effects depending on your preferred category.
 
 ![apply filter movavi slideshow maker](https://images.wondershare.com/filmora/article-images/2022/11/apply-filter-movavi-slideshow-maker.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 You can see the preview of a Filter effect by clicking it before applying it to your desired video to be edited.
 
@@ -523,16 +530,16 @@ Step7 You can also adjust the time duration of the Titling Motion effect in two 
 
 ![change title duration movavi slideshow](https://images.wondershare.com/filmora/article-images/2022/11/change-title-duration-movavi-slideshow.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 These are some ways to apply effects on Movavi Slideshow Maker video editing software. You can choose your desired effects that can make an excellent contribution to your video project. You can download other effects not included in this software by simply going to their store. Click the Help tab to find “Movavi Store” or “Movavi Effects Store.”
 
 ![click movavi effects store](https://images.wondershare.com/filmora/article-images/2022/11/click-movavi-effects-store.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You know many video editing software you can find on the internet, and most of them need your subscription to unlock all their features. But of course, there are also several video editing software that is free to use, which could be very helpful for you, especially when you are just a beginner in this field. Choosing the best video editing software is recommended to develop your skills gradually. You can start with a basic one before working on a professional type of video editing software.
 
@@ -661,10 +668,16 @@ Step3 Click on the arrow next to 100% to change the speed between two-speed poin
 ![arrow next to 100](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part III. Pros and Cons
@@ -832,13 +845,6 @@ Step3 You can select any preset or select the Customize option. When you select 
 
 ![select any preset](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Click on the Ok button, followed by the Export button, to save the video.
 
 ## Part V. Comparison Between DaVinci Resolve and Filmora
@@ -872,5 +878,26 @@ We have answered how you can use the speed ramp DaVinci Resolve 17 to speed up y
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-ultimate-7-virtual-marksmen-battles-for-2024/"><u>[Updated] Ultimate 7 Virtual Marksmen Battles for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focus-sharpening-a-selective-approach-to-photos/"><u>2024 Approved Focus Sharpening A Selective Approach to Photos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>2024 Approved How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-smart-snapchat-gifting-step-by-step-for-success/"><u>2024 Approved Smart Snapchat Gifting Step-by-Step for Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/customizable-ai-revolution-crafting-unique-gpt-models-via-chatgpt-upgrade/"><u>Customizable AI Revolution: Crafting Unique GPT Models via ChatGPT Upgrade</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-play-8t-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor Play 8T to Protect Your Individual Information</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-motion-tracking-in-video-editing/"><u>In 2024, How to Use Motion Tracking in Video Editing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-tutorial-how-to-add-motion-blur-in-blender/"><u>In 2024, Tutorial How To Add Motion Blur in Blender?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-elevate-your-designs-with-feather-shapes-in-after-effects/"><u>New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-apply-video-filters-mobile-and-desktop-for-2024/"><u>New How to Apply Video Filters Mobile and Desktop for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video/"><u>New Ultimate Guide on How to Plan and Storyboard a Music Video</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguarding-business-conversations-on-gpt-services/"><u>Safeguarding Business Conversations on GPT Services</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/troubleshooting-steps-for-lost-ark-connection-issues-resolving-server-related-errors/"><u>Troubleshooting Steps for 'Lost Ark' Connection Issues: Resolving Server-Related Errors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-achieve-gopro-slow-motion-with-quality/"><u>Updated 2024 Approved How to Achieve GoPro Slow Motion With Quality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-vintage-film-effect-1950s/"><u>Updated 2024 Approved How to Create Vintage Film Effect 1950S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-11-tools-to-create-radial-blur-photo-mobile-and-desktop/"><u>Updated In 2024, 11 Tools To Create Radial Blur Photo Mobile And Desktop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/upgrade-your-photo-edits-the-ultimate-guide-to-pixlr-power-for-2024/"><u>Upgrade Your Photo Edits The Ultimate Guide to Pixlr Power for 2024</u></a></li>
+</ul></div>
 

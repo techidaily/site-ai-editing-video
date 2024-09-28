@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Complete Guide to Make a Super Easy Rotating Video Effect
-date: 2024-09-20T17:59:32.987Z
-updated: 2024-09-23T18:42:39.659Z
+date: 2024-09-26T03:08:54.608Z
+updated: 2024-09-27T16:24:39.343Z
 tags: 
   - ai
   - animation videos
@@ -41,6 +41,13 @@ To record a successful rotating video, you need a person or a subject to perform
 
 ![character of the video](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Shotting Equipment
 
 To record a professional video, you need a good camera. You can use a smartphone to record this footage. There is no need to have a tripod stand or any gear to hold the camera because the camera will be in a rotating position, the same as the subject's hand.
@@ -77,6 +84,13 @@ Follow the below-mentioned steps to record the first footage for the video:
 * Ensure that the camera lens faces the ground at the end of the rotation.
 
 ![filming scenes of first footage](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After filming the first footage for the video, it's time to record the second footage to transition between the two.
 
@@ -120,19 +134,6 @@ Import recorded footage to start the editing process. It is better to have all y
 
 ![import the clips to the filmora](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-7.png)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 It's time to prepare the footage for editing after inserting it into the Filmora. Follow the next steps to do this!
 
 ##### Step3 Add Footage to the Timeline
@@ -173,19 +174,6 @@ There is a need to increase the speed of some scenes where the transition starts
 
 ![adjustment of speed and duration](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-10.png)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The video is all set; give it the final touches by following the last step, as shown below!
 
 ##### Step6 Playback the Video
@@ -205,6 +193,20 @@ Keep creating and experimenting with other features on Wondershare Filmora. For 
 If you are showing new strategies daily to your viewers, they will hook up with you, and it'll assist in the algorithm working by your side. That's why keep doing it and enjoying the rest!
 
 ![smartphone for filming](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Filming of the First Footage
 
@@ -247,13 +249,6 @@ To create a professional rotating video illusion, [Wondershare Filmora](https://
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![interface of wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step1 Download Wondershare Filmora
 
@@ -360,6 +355,19 @@ Step 2With the project open, click on the blue “Plus” icon under the main me
 
 ![click plus icon adobe rush](https://images.wondershare.com/filmora/article-images/2022/08/click-plus-icon-adobe-rush.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3Select “Graphics” from the options that appear
 
 ![select graphics adobe rush](https://images.wondershare.com/filmora/article-images/2022/08/select-graphics-adobe-rush.jpg)
@@ -403,13 +411,6 @@ Once you have all the settings as needed depending on your project, click “Imp
 You can also just drag and drop the video into the main window to open it.
 
 ![open the video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3Add the Video/Videos to the Timeline
 
@@ -509,13 +510,6 @@ Filmora offers more than 200+ text effects that apply to various types of videos
 
 ![see effect in the preview window](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you like what you see, place your Playhead icon where you want the add the text and title in the timeline, and then drag and drop the track above the video.
 
 ##### Step 5Select the Duration of the Text
@@ -525,6 +519,13 @@ The default duration of any text overlay that you add to the project is 5 second
 To change the duration of the text overlay, select the text in the timeline and click on the “Timer” icon.
 
 ![click on the timer](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 6Edit and Customize Your Text
 
@@ -617,19 +618,6 @@ B&W is the best LUT for vlog that can be a great addition to your vlogging toolk
 
 ![ b&w luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. [Travel Video LUTs by Matteo Martignago](https://filtergrade.com/product/travel-video-luts-by-matteo-martignago/)
 
 If you're looking for a LUT to use in your travel vlogs, consider the Travel Video LUTs by Matteo Martignago. In this LUT pack, you'll find five different LUTs, each with its unique look and feel. Moreover, this pack has warm and cold LUTs, giving you multiple options. The warm LUTs give your videos a cozy feel, while the cold LUTs can create a sense of adventure and excitement.
@@ -714,6 +702,19 @@ Are you a vlogger looking for a LUT that can help enhance the colors and brightn
 
 ![artist found luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. [B&W](https://fixthephoto.com/vlog-lut/download-4)
 
 B&W is the best LUT for vlog that can be a great addition to your vlogging toolkit. This LUT allows you to transform your videos into black and white. It gives your vlogs and videos a more serious and dramatic look. You can add a touch of nostalgia and a vintage feel to your videos, giving them an artistic feel. With B&W, you can create a timeless and classic look for your vlogs, making them more memorable and impactful.
@@ -744,13 +745,6 @@ Give your indoor vlogs and podcasts more feel by using Limit Color. This vlog LU
 
 ![limit color luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How Has Wondershare Filmora Changed the Dynamics of LUTs in Video Editing?
 
 Wondershare Filmora is an excellent video editing software option if you're a vlogger. The most important element in vlogging is its lighting and color composition. With its latest update, you can use different LUTs to enhance your vlogs. Filmora provides over 200+ LUTs, including many free vlog LUTs, to help you achieve your videos' desired look and feel.
@@ -770,6 +764,13 @@ Apart from LUTs, you can also make color adjustments and corrections to your vlo
 [Apply LUT on Videos](https://tools.techidaily.com/wondershare/filmora/download/) [Apply LUT on Videos](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -827,13 +828,6 @@ This is not the fault of your smartphone; rather, smartphones are intended to be
 
 You can record audio on your mobile device by opening the voice memo app and selecting the record button. Your audio will immediately be improved if you position the phone's microphone such that it is facing your topic and is somewhat close to them. Clap once at the beginning of the recording to serve as a reference point for both the video and the audio, which will help you save time while editing. After that, it will be simple for you to locate the point at which the clap occurred and synchronize the high-quality audio that is on the memo with the audio that is in your film.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Edit your video
 
 Now that you've gathered all of your film, it's time to cut it up, add some color, and get creative with effects! Fortunately, there are numerous video editing apps available that make it easier and faster than ever to use. You can edit videos on your phone just as you would on a computer using apps like Adobe Rush and iMovie, and it's easier than you think.
@@ -868,5 +862,26 @@ You probably weren't aware of this, but your smartphone is actually a very capab
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-spectacular-imagery-narrative-engine/"><u>[New] Spectacular Imagery Narrative Engine</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-concepts-to-shares-your-guide-to-metaverse-meme-creation/"><u>[Updated] From Concepts to Shares Your Guide to Metaverse Meme Creation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-future-filmmaking-favorites-2024s-best-cameras/"><u>[Updated] Future Filmmaking Favorites 2024'S Best Cameras</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-quick-retrieval-of-hidden-reddit-threads/"><u>[Updated] In 2024, Mastering Quick Retrieval of Hidden Reddit Threads</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-iphone-6-plusipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on iPhone 6 Plus/iPad/iPod</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-the-stranger-things-upside-down-effect-video-for-2024/"><u>Create the Stranger Things Upside Down Effect Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-to-mimic-professional-filming-gears-for-2024/"><u>How to to Mimic Professional Filming Gears for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-know-how-to-create-a-lol-montage-video-had-you-ever-tried-that-video-type-before-connect-with-this-article-to-study-the-tips-and-tricks-assoc/"><u>In 2024, Do You Know How to Create a Lol Montage Video? Had You Ever Tried that Video Type Before? Connect with This Article to Study the Tips and Tricks Associated with the Making of Montage Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-by-ste/"><u>In 2024, Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-adding-audio-in-wondershare-filmora/"><u>New 2024 Approved Guide Adding Audio in Wondershare Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-working-through-the-details-of-imovie-slow-motion-video-making-100-effective/"><u>New 2024 Approved Working Through the Details of iMovie Slow Motion Video Making 100 Effective</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-create-a-movie-with-windows-movie-maker/"><u>New Create a Movie with Windows Movie Maker</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-if-you-want-to-know-what-to-prepare-and-how-to-make-the-wedding-video-perfect-for-videographers-check-out-this-menu-here/"><u>New If You Want to Know What to Prepare and How to Make the Wedding Video Perfect for Videographers, Check Out This Menu Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960236975-step-by-step-guide-to-updating-your-amd-vega-driver-boosting-games-like-never-before/"><u>Step-by-Step Guide to Updating Your AMD Vega Driver - Boosting Games Like Never Before</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformacion-facil-e-instantanea-del-formato-m4a-al-mp3-con-herramientas-libres-online/"><u>Transformación Fácil E Instantánea Del Formato M4A Al MP3 Con Herramientas Libres Online</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-driving-simulation-companion-download-the-logitech-momo-gamepad-driver-for-windows-pcs/"><u>Ultimate Driving Simulation Companion: Download the Logitech MOMO Gamepad Driver for Windows PCs</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-gui/"><u>Updated How To Quickly Create A Screen Print Effect In Photoshop Detailed Gui</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor X50i? | Dr.fone</u></a></li>
+</ul></div>
 

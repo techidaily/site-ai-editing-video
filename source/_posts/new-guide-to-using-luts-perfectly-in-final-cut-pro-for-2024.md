@@ -1,7 +1,7 @@
 ---
 title: New Guide To Using Luts Perfectly in Final Cut Pro for 2024
-date: 2024-09-16T17:33:39.383Z
-updated: 2024-09-23T16:11:20.246Z
+date: 2024-09-27T07:35:18.350Z
+updated: 2024-09-28T01:51:29.652Z
 tags: 
   - ai
   - animation videos
@@ -49,6 +49,13 @@ Perfect Green Video LUT is a pack of 3 cinematic-style LUTs. This pack is ideal 
 Cyberpunk Color Grades is a pack of modern cyberpunk-style LUTs. It is a fantastic LUT pack if you're working on a music video or a creative project. It has a bold, colorful grading with high saturation that can make your video stand out. This LUT pack is perfect for scenes with many neon lights or bright backgrounds. Moreover, it adds an extra pop of color and makes your videos look more energetic.
 
 ![cyberpunk color grades ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. [Pro Retouching Essentials Pack by Prince Meyson](https://godownloads.net/prince-meyson-all-skin-luts-actions-retouching-free-download/)
 
@@ -107,13 +114,6 @@ Drag and drop the “Custom LUT” layer onto your RT Adjustment Layer from the 
 Import your video into Final Cut Pro and click on your video in the library and open the inspector window.
 
 ![add video to fcp timelne](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step2
 
@@ -190,6 +190,13 @@ Now that you've discovered there are many Final Cut Pro LUTs free to download. T
 Open Final Cut Pro and import your video. Once the video is imported, click on the clip you want to apply the LUT.
 
 ![import video to final cut pro ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step2
 
@@ -314,13 +321,6 @@ Managing video duration on your preferred domain is so crucial these days, mainl
 
 ![how to speed up a video on canvas](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step1Create a New Video Project with Canva
 
 1) Head over to Canva's official webpage and open a new video project through the "**Create**" button in the top right corner.
@@ -412,13 +412,6 @@ Everything is seamless in Filmora, and it's supported on all major operating sys
 
 ![speed up video in filmora 2](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2Change the Speed Or Duration of Your Clip
 
 1) Now that your video is in the timeline, right-click it and select the custom "**Speed & duration**" button.
@@ -426,10 +419,10 @@ Everything is seamless in Filmora, and it's supported on all major operating sys
 ![speed up video in filmora 3](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-16.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) In the new window, change the speed value greater than **1**, just like you did in the case of Eizgif. You can also adjust the speed slider for better coverage.
@@ -479,13 +472,6 @@ This was our two cents on how you can speed up a video on Canva. In the end, spe
 1) Now that your video is in the timeline, right-click it and select the custom "**Speed & duration**" button.
 
 ![speed up video in filmora 3](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-16.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) In the new window, change the speed value greater than **1**, just like you did in the case of Eizgif. You can also adjust the speed slider for better coverage.
 
@@ -565,13 +551,6 @@ Step1 This effect is the easiest. You need to film the empty plate with just a b
 
 ![let the talent enter the frame](https://images.wondershare.com/filmora/article-images/2022/12/appearance_6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Now import the clip into Filmora and place it onto the first video track.
 
 Step3 Freeze the frame of the empty plate with just the background and extend it as necessary. Place the clip onto the second video track and trim it until the action of the talent jump starts.
@@ -596,6 +575,13 @@ Step2 Now import the clip into Filmora again. Follow the steps from the second e
 
 ![import the clip into filmora again](https://images.wondershare.com/filmora/article-images/2022/12/appearance_10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Add the green screenshot onto the third video track.
 
 ![add the green screenshot onto the third video track](https://images.wondershare.com/filmora/article-images/2022/12/appearance_11.jpg)
@@ -611,6 +597,13 @@ Step5 Move the clip until it covers only the first frame of the appearing clip. 
 Step6 Now search for some smoke effects and put it upside down. So it looks like the ceiling is broken when the subject falls. Then add some camera shake to the fall.
 
 ![search for some smoke effects](https://images.wondershare.com/filmora/article-images/2022/12/appearance_14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step7 Drag the camera shake effect back to the top track and shorten it to an ideal length. You can also add some sound effects if you want to this video.
 
@@ -757,6 +750,19 @@ The following step-by-step tutorial already assumes that you are familiar with s
 
 So here’s how simple it is to add a lower third.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Import The Media
 
 In this step, you will create a new project and then import the media and place it on your timeline.
@@ -829,13 +835,6 @@ Wrap Up
 ## 1\. What is a Lower Third?
 
 ![What is a Lower Third](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-a-lower-third-to-your-video-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 What is a Lower Third
 
@@ -927,6 +926,13 @@ In this step, you will create a new project and then import the media and place 
 
 Import The Media
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Find Title Option
 
 Once you have placed your media onto the project, you will go to the top navigation and click on titles.
@@ -964,16 +970,10 @@ You did it. With this new skill you’ve now mastered the quickest way to impres
 The key is to practice and you’ll get better quickly.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Start Using Lower Thirds Today
@@ -1003,5 +1003,17 @@ Wrap Up
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-non-tripod-techniques-for-still-cameras/"><u>[Updated] 2024 Approved Non-Tripod Techniques for Still Cameras</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-gif-repository-capturing-the-essence-in-frames/"><u>[Updated] Twitter Gif Repository Capturing the Essence in Frames</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-out-what-keyframe-interval-is-why-it-is-important-and-to-change-its-value-on-obs-studio-with-simple-and-easy-to-follow-instructions/"><u>2024 Approved Find Out What Keyframe Interval Is, Why It Is Important, and to Change Its Value on OBS Studio with Simple and Easy-to-Follow Instructions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/detailed-tutorial-fix-the-problem-when-deathloop-refuses-to-start/"><u>Detailed Tutorial: Fix the Problem When Deathloop Refuses to Start</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
+<li><a href="https://driver-error.techidaily.com/my-computer-wont-recognize-my-latest-era-logitech-prodigy-cam-post-10-update-heres-why-and-how-to-fix-it-solved/"><u>My Computer Won't Recognize My Latest-Era Logitech Prodigy Cam, Post 10 Update – Here’s Why and How to Fix It ![Solved]</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-3-in-camera-transitions-tricks-to-make-videos-for-2024/"><u>New 3 In-Camera Transitions Tricks To Make Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/segmented-screen-success-is-splitcam-superior/"><u>Segmented Screen Success Is SplitCam Superior?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-clearing-up-504-gateway-timeout-errors-quickly/"><u>Troubleshooting Tips: Clearing Up 504 Gateway Timeout Errors Quickly</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-creating-the-perfect-vhs-effect-look-in-premiere-pro/"><u>Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro</u></a></li>
+</ul></div>
 

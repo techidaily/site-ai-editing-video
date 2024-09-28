@@ -1,7 +1,7 @@
 ---
 title: New A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing for 2024
-date: 2024-09-17T17:17:24.911Z
-updated: 2024-09-23T19:18:12.675Z
+date: 2024-09-22T08:42:15.975Z
+updated: 2024-09-27T22:50:36.439Z
 tags: 
   - ai
   - animation videos
@@ -114,6 +114,13 @@ Step1 Firstly, open Filmora on your computer. If you haven't already downloaded 
 
 ![open filmora](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Click settings to unlock even more options. Recording at the highest quality setting is recommended in case you need to zoom in later. Also, make sure to enable the show mouse if you want your viewer to follow along with your cursor.
 
 ![click settings to unlock even more options](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-2.jpg)
@@ -127,19 +134,6 @@ Step3 When you're ready press these buttons to begin recording your tutorial and
 Avoid adding any long intro monologues or skits to your tutorial. First, your goal is to be informative and entertaining. Second, it's always best to lead with a peek at what the final result of your tutorial will look like whether it's a video effect arts and crafts or a recipe video.
 
 ![keep your intro short](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Break down your tutorial into steps
 
@@ -156,13 +150,6 @@ Step2 Click and drag your title on a track above your footage.
 Step3 Double-click your new title and type in your section title. You can even adjust the style of the text to your liking. Repeat the process for as many steps as you'd like for your tutorial
 
 ![type in your section title](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Narrate your video
 
@@ -184,13 +171,6 @@ Step1 firstly, the freeze frame. Move your playhead to the frame you want to fre
 
 ![click add freeze frame](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-10.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 To adjust the length of your freeze, click "freeze frame." and enter any duration you want.
 
 ![click freeze frame](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-11.gif)
@@ -207,13 +187,6 @@ Step5 Now, you have to double-click the clip in the preview window and move and 
 
 ![double-click the clip in the preview window](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step6 You can also use the sliders in the animation tab to do this if you want.
 
 ![use the sliders](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-15.jpg)
@@ -222,13 +195,6 @@ Step7 Lastly, the mask highlight. To achieve this effect, you need to duplicate 
 
 ![clicking duplicate](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step8 Drag the new clip to any layer above the original and make sure they're lined up.
 
 ![drag the new clip to any layer](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-17.jpg)
@@ -236,6 +202,13 @@ Step8 Drag the new clip to any layer above the original and make sure they're li
 Step9 To make things easier, turn off the bottom track by clicking the eye icon.
 
 ![turn off the bottom track](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step10 Double-click the clip on top and go to "Video > "Mask" and .click the button to turn it on. In this tutorial, we're going to use a "Rectangle" mask but the choice is yours.
 
@@ -334,10 +307,10 @@ Step4 Move your playhead to where you want the zoom to begin and click "Add" to 
 ![click add to add a keyframe](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step5 Now, you have to double-click the clip in the preview window and move and resize it to your liking.
@@ -380,6 +353,13 @@ Step14 Drag the opacity slider until you're happy with the contrast. Finally, yo
 
 ![drag the opacity slider](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-23.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Summary
 
 That's how you create a tutorial video with Wondershare Filmora. Ensure you follow all the steps below to get perfect results.
@@ -411,10 +391,10 @@ Step1Find the bar at the bottom of the meeting screen. To make it visible, you m
 ![best ways to blur zoom background for free](https://images.wondershare.com/filmora/article-images/2022/07/share-screen-on-zoom.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2Find the "Stop Video" button, which has a chevron pointing upward.
@@ -543,19 +523,6 @@ Step1Launch the Zoom app on your iOS phone in foremost step. To begin or join a 
 
 ![best ways to blur zoom background for free](https://images.wondershare.com/filmora/article-images/2022/07/start-zoom-meeting-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2During the meeting, tap anywhere on the screen to access the controls that appear below the video.
 
 Step3Select "More" by tapping the three-dot symbol.
@@ -581,6 +548,19 @@ Step1Only while you're in a meeting can you alter your backdrop. Tap the More ic
 Step2Select Virtual background after that. then choose a picture from the choices offered.
 
 ![best ways to blur zoom background for free](https://images.wondershare.com/filmora/article-images/2022/07/virtual-background-android.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3The backdrop of a picture or video added from your gallery using the Add icon will likewise successfully blur the background on your Zoom Android device. Now place Zoom calls as usual, and the backdrop of your live video will be automatically blurred.
 
@@ -716,6 +696,13 @@ RSMB is a powerful motion blur plugin that contains various advanced features. B
 
 * A wide range of advanced features is only available in the pro version of RSMB. Thus, it can be expensive for beginner users.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. CC Force Motion Blur
 
 You can find the CC Force Motion Blur plugin under the time category of the Effects tab. By using this effect, you can add a natural sense of motion to your video easily. Once you have chosen the CC Force Motion Blur effect, you can add various keyframes to adjust the position and movement accordingly. Moreover, if you want to add this effect flawlessly, you should add an adjustment layer first. This will help you to add and adjust the CC Force Motion Blur effect in a perfect way.
@@ -735,6 +722,19 @@ Pixel Motion Blur can also help you in creating a dynamic blur effect in your vi
 ## Part 3: RSMB vs. CC Force vs. Pixel: Which is the Best Motion Blur Plugin?
 
 Do you want to learn the difference between all the discussed motion blur plugins for Adobe Effects? Read this section to find out the comparison between the top 3 best motion blur plugins.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Render time
 
@@ -768,5 +768,19 @@ In this article, we have shed light on the top three motion blur plugins you can
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capture-create-curate-mobiles-in-action-for-youtube-thumbnails/"><u>[New] In 2024, Capture, Create, Curate Mobiles in Action for YouTube Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-concept-to-click-an-in-depth-look-at-gif-memes/"><u>[Updated] From Concept to Click An In-Depth Look at GIF Memes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-step-by-step-to-stunning-timelapses-a-comprehensive-guide-using-gopro/"><u>[Updated] In 2024, Step-By-Step to Stunning Timelapses A Comprehensive Guide Using GoPro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-/"><u>2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-task-management-a-guide-to-3-effective-ways-of-utilizing-chatgpt-and-wolfram-plugin/"><u>Enhancing Task Management: A Guide to 3 Effective Ways of Utilizing ChatGPT and Wolfram Plugin</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-smart-8withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Smart 8with/without a PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-step-by-step-guide-to-hulu-screen-capture-for-various-operating-systems/"><u>In 2024, Step-by-Step Guide to Hulu Screen Capture for Various Operating Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-make-timelapse-video-with-imovie/"><u>New 2024 Approved Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-follow-a-few-simple-steps-and-learn-how-to-create-a-professional-glowing-edge-effect-to-your-videos-in-filmora/"><u>New Follow a Few Simple Steps and Learn How to Create a Professional Glowing Edge Effect to Your Videos in Filmora</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-tweaks-for-speeding-up-chrome-a-user-friendly-guide-to-fast-browsing/"><u>Quick Tweaks for Speeding up Chrome: A User-Friendly Guide to Fast Browsing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated 2024 Approved Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/we-all-know-very-well-that-a-1-second-video-has-several-images-in-a-single-row-even-with-imovie-time-lapse-you-can-create-this-so-without-any-further-ado-le/"><u>We All Know Very Well that a 1-Second-Video Has Several Images in a Single Row. Even with iMovie Time-Lapse, You Can Create This! So, without Any Further Ado, Lets Learn How to Make a Timelapse in iMovie</u></a></li>
+</ul></div>
 

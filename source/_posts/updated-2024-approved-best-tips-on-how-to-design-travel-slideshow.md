@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Best Tips on How to Design Travel Slideshow
-date: 2024-09-16T17:57:47.120Z
-updated: 2024-09-23T18:14:17.550Z
+date: 2024-09-26T20:28:38.194Z
+updated: 2024-09-27T20:04:14.541Z
 tags: 
   - ai
   - animation videos
@@ -323,13 +323,6 @@ You can even edit the files for further customization using the built-in functio
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/article-images/2022/05/best-tips-on-how-to-design-travel-slideshow-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Steps to create a travel slideshow using Wondershare Filmora**
 
 Step 1\. From the official software page, download and install the program, and at the main interface choose the New Project option.
@@ -360,13 +353,6 @@ A single travel trip besides numerous memories also has innumerable pictures and
 
 ![Travel Slideshow](https://images.wondershare.com/filmora/article-images/2022/05/best-tips-on-how-to-design-travel-slideshow-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 So now when decided to create a slideshow, the next question is how, tips, tools, templates, and software can be used. The article below will cover all these aspects that will help you in designing and creating a wonderful **travel slideshow**.
 
 #### In this article
@@ -384,10 +370,16 @@ Want to hear the words- cool and wow when you play your slideshow in front of yo
 ![Travel Slideshow Tips](https://images.wondershare.com/filmora/article-images/2022/05/best-tips-on-how-to-design-travel-slideshow-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 01Identify the audience
@@ -405,6 +397,13 @@ Next comes the trickiest part of selecting the pictures and videos to be added t
 ### 04Edit images and add effects
 
 Next comes the editing part. Check out the images that need editing like cropping, color correction, and others. Also, you can add some effects to make your slideshow interesting. To edit the files and add effects, there are several editing online and desktop-based tools available. You can choose the ones that meet your requirements.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 05Add transitions
 
@@ -435,6 +434,13 @@ Using a template for creating a travel slideshow served several benefits as enli
 There are several online sites and tools available from where you can select and pick a travel slideshow template of your choice.
 
 ![Travel Slideshow Templates](https://images.wondershare.com/filmora/article-images/2022/05/best-tips-on-how-to-design-travel-slideshow-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3 Best tool for creating a travel slideshow- Wondershare Filmora
 
@@ -498,13 +504,6 @@ Do the following steps to change the background to black for your product review
 
 ![background to black](https://images.wondershare.com/filmora/article-images/2022/12/background-to-black-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. How to change the parameters in Filmora
 
 For this tutorial, we will do it using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). So, if you haven't installed it yet, you can download it here:
@@ -554,6 +553,13 @@ Next, adjust the white balance on your camera. You can also edit the color gradi
 **3) Make sure the audio quality of your video is good**
 
 Poor audio can make your video harder to listen to and turn off viewers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -655,6 +661,13 @@ Up to here, you'll realize that your video doesn't still look like a 1950s film 
 
 ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
 ## Summary
@@ -676,16 +689,10 @@ Once the video is successfully added to Filmora, click the **Effect** tab on the
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
@@ -693,6 +700,13 @@ Double-click the Crop effect, then change the Left and Right values to make the 
 ##### Step 3 Add a Warm Film color effect
 
 ![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
 
@@ -716,23 +730,9 @@ First, fire up Filmora and load the video you want to send back to the 1950s. Th
 
 ![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
 
@@ -850,13 +850,6 @@ Step4If you want camera animation on your 3D text, select the Camera layer you a
 
 ![get start position 3d text](https://images.wondershare.com/filmora/article-images/2022/08/get-start-position-3d-text.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5Now add a keyframe on Position option from Transform option to mark the starting point of the animation. Similarly, add another keyframe where you want the animation to end.
 
 ![add keyframe position](https://images.wondershare.com/filmora/article-images/2022/08/add-keyframe-position.jpg)
@@ -890,6 +883,13 @@ Step4Click on three-dot icon at the top of Viewer and click on Motion option.
 Step5Select any desired motion effect and you will see your 3D text animation on Viewer when you play the video.
 
 ![select 3d text animation flexclip](https://images.wondershare.com/filmora/article-images/2022/08/select-3d-text-animation-flexclip.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4\. Alternative Way to Create 3D Text Animation
 
@@ -943,5 +943,19 @@ There is no doubt that if you include 3D text effects and animations in your vid
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-the-art-of-youtube-playlist-shuffling/"><u>[New] In 2024, Discover the Art of YouTube Playlist Shuffling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719309134944-10-command-prompt-wonders-you-didnt-know/"><u>10 Command Prompt Wonders You Didn’t Know</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/exploring-flexus-200-a-revolutionary-audio-experience/"><u>Exploring Flexus 200: A Revolutionary Audio Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fine-tuning-your-eating-habits-innovative-ways-to-use-chatgpt-for-healthy-meal-plans/"><u>Fine-Tuning Your Eating Habits: Innovative Ways to Use ChatGPT for Healthy Meal Plans</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/fixing-common-issues-with-steam-remote-play-for-a-seamless-gaming-experience/"><u>Fixing Common Issues with Steam Remote Play for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovation-in-ai-predicting-the-launch-of-gpt-5/"><u>Innovation in AI: Predicting the Launch of GPT-5?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/instantly-repair-stuck-or-broken-emoji-suggestions-for-iphone-and-ipad-users/"><u>Instantly Repair Stuck or Broken Emoji Suggestions for iPhone & iPad Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/making-sense-of-ai-an-accessible-introduction-for-all/"><u>Making Sense of AI: An Accessible Introduction for All</u></a></li>
+<li><a href="https://games-able.techidaily.com/refresh-intervals-a-deeper-look-at-input-systems/"><u>Refresh Intervals - A Deeper Look at Input Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-4k-video-editing-software-for-professionals/"><u>The Best of the Best 4K Video Editing Software for Professionals</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/troubleshooting-guide-for-common-minecraft-world-connection-errors/"><u>Troubleshooting Guide for Common Minecraft World Connection Errors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/unlock-more-fun-on-your-nes-classic-with-essential-game-installation-techniques/"><u>Unlock More Fun on Your NES Classic with Essential Game Installation Techniques</u></a></li>
+</ul></div>
 

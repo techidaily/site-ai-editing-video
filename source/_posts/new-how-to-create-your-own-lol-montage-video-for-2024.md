@@ -1,7 +1,7 @@
 ---
 title: New How to Create Your Own LOL Montage Video for 2024
-date: 2024-09-19T18:08:16.731Z
-updated: 2024-09-23T18:39:29.356Z
+date: 2024-09-24T20:25:48.477Z
+updated: 2024-09-27T20:28:38.683Z
 tags: 
   - ai
   - animation videos
@@ -317,19 +317,6 @@ Step 3: Click on the "VFX" tab and go to the “3D DVE" section.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-3.png)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Choose the Z axis and rotate the video to the desired degree. You can also modify the orientation of the video by entering a value in the box provided in front of the Z-axis.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-4.png)
@@ -353,13 +340,6 @@ For Win 7 or later (64-bit)
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step-by-step on how to rotate videos in Filmora
 
@@ -399,13 +379,6 @@ Step 2: Choose the portion of the video you want to rotate; if you want to rotat
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Click on the "VFX" tab and go to the “3D DVE" section.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-3.png)
@@ -444,15 +417,22 @@ Step 1: Import your video into the project.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Click the video clip you want to rotate.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3: Click on the "Edit" tool above the timeline and go to the "Transform" section. Then, select the “Rotate” option.
@@ -464,6 +444,13 @@ Step 3: Click on the "Edit" tool above the timeline and go to the "Transform" se
 Step 4: Select the desired rotation option.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5: Click on the "Ok" button.
 
@@ -483,6 +470,13 @@ Step 3: Click on the "VFX" tab and go to the “3D DVE" section.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Choose the Z axis and rotate the video to the desired degree. You can also modify the orientation of the video by entering a value in the box provided in front of the Z-axis.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-4.png)
@@ -490,19 +484,6 @@ Step 4: Choose the Z axis and rotate the video to the desired degree. You can al
 Step 5: Click on the Enter in the keyboard button.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-5.png)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Your video will now be rotated by the selected number of degrees.
 
@@ -534,18 +515,18 @@ Step 2: Click the video clip you want to rotate.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Click on the "Edit" tool above the timeline and go to the "Transform" section. Then, select the “Rotate” option.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-8.png)
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Select the desired rotation option.
 
@@ -554,6 +535,13 @@ Step 4: Select the desired rotation option.
 Step 5: Click on the "Ok" button.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Your video will now be rotated by the selected number of degrees.
 
@@ -602,13 +590,6 @@ To rotate videos in Filmora manually...
 Step 1: Import your video into the project.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2: Click the video clip you want to rotate.
 
@@ -704,13 +685,6 @@ Double-click on the white line clip on the timeline to show the animation keyfra
 
 ![add keyframes to the white line clip when entering](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-9.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click to add a keyframe, double-check to make sure it is the final position you want, and the opacity should be 100 at this point.
 
 After that, move the play head to the left for a few frames and click add again. To make sure the white line is out of the frame before entering, you need to change the Y-axis number. Change the opacity to 0 as the white line starts in transparent color.
@@ -765,6 +739,19 @@ Once the background card is in place, go to Titles > Plain Text > ‘Basic 6' an
 
 ![go to titles](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-18.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now, type in the texts as needed. Reposition and scale the texts to make sure they are on top of the background shape.
 
 ![type in the texts](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-19.jpg)
@@ -798,6 +785,13 @@ Finally, you can add a Subscribe button from the new default Filmora element pac
 These are two ways you can create your own Lower Thirds in FIlmora. You can also change the keyframe settings to customize your lower thirds even more. Now, it's time to try it yourself, and let us know what you think!
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### (1) A simple line and texts
 
@@ -945,5 +939,24 @@ These are two ways you can create your own Lower Thirds in FIlmora. You can also
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-13-simplified-pathways-to-cash-outdoors-reddit-community/"><u>[New] 2024 Approved 13 Simplified Pathways to Cash Outdoors Reddit Community</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-auto-play-on-fb-video-streams/"><u>[New] 2024 Approved Mastering Auto-Play on FB Video Streams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-transform-videos-to-tweets-best-converters-revealed-for-2024/"><u>[New] Transform Videos to Tweets Best Converters Revealed for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-youtube-name-genius-mastering-branding-with-generators/"><u>[Updated] 2024 Approved YouTube Name Genius Mastering Branding with Generators</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-hyperlapse-vs-timelapse-videos/"><u>2024 Approved Hyperlapse VS Timelapse Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-try-these-10-music-video-templates-to-make-your-work-easy/"><u>2024 Approved Try These 10 Music Video Templates To Make Your Work Easy</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726027556663-youtube/"><u>損なわれることなく、YouTubeビデオからの文章転記技術</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easily-sync-audio-with-video-with-filmora/"><u>Easily Sync Audio With Video With Filmora</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-canon-printer-drivers-simple-install-on-windows-pcs/"><u>Free Canon Printer Drivers - Simple Install on Windows PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-zero-to-hero-navigating-youtubes-growth-journey-for-2024/"><u>From Zero to Hero Navigating Youtube's Growth Journey for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722896377922-how-to-undo-deletion-and-get-back-lost-emails-from-your-microsoft-outlook-inbox/"><u>How to Undo Deletion and Get Back Lost Emails From Your Microsoft Outlook Inbox</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/michael-kors-gen-5e-mkgo-accessory-line-a-fusion-of-elegance-and-practicality-in-depth-review/"><u>Michael Kors Gen 5E MKGO Accessory Line: A Fusion of Elegance and Practicality - In-Depth Review</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-ideas-for-time-lapse-video/"><u>New Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-5-free-online-video-filter-editors/"><u>New Top 5 Free Online Video Filter Editors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-if-you-are-a-marketer-who-want-to-create-facebook-ads-to-boost-your-business-you-are-coming-to-the-right-place-well-share-you-some-useful-tips-to-st/"><u>Updated If You Are a Marketer Who Want to Create Facebook Ads to Boost Your Business, You Are Coming to the Right Place. Well Share You some Useful Tips to Start Your First FB Ads Campaign</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
+</ul></div>
 

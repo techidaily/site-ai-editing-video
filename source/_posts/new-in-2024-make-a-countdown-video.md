@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Make A Countdown Video
-date: 2024-09-22T19:31:19.226Z
-updated: 2024-09-23T19:36:25.087Z
+date: 2024-09-26T18:13:16.881Z
+updated: 2024-09-28T08:54:25.581Z
 tags: 
   - ai
   - animation videos
@@ -105,13 +105,6 @@ If you want to be a professional video editor, you must know the basic technique
 
 ![premiere pro featured image](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: What is Adjustment Layer in Premiere Pro?
 
 In Premiere Pro, you can save time efficiently by editing each layer individually. To do so, you can find the feature of the adjustment layer in Premiere Pro that enables you to apply the same effect to multiple clips instantly. This will eventually save you time and manual effort. However, you must ensure that the adjustment layer has been placed on top of the layers stack section.
@@ -130,23 +123,9 @@ Step1 Once you have uploaded your project in Premiere Pro, go to the "File" tab 
 
 ![select the adjustment layer option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 You can also go to the bottom of your project's panel and tap on the "New Item" icon. After clicking on this icon, you can click on the “Adjustment layer” option. Afterward, you can modify the video settings to change the settings of the adjustment layer. Once done, hit the “OK” button.
 
 ![choose the adjustment layer option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Once the adjustment layer has been created, you can drag and drop it into the timeline. To change its name, you can right-click on it.
 
@@ -156,6 +135,13 @@ Step3 Once the adjustment layer has been created, you can drag and drop it into 
 
 Do you want to use the **Premiere Pro adjustment layer** significantly? In this section, we will highlight three ways through which you can use the adjustment layer in Premiere Pro to edit your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Color Grading
 
 Color grading in Premiere Pro can help you to adjust the balance and tone of your video. You can use the color grading effects and tools to set the exposure, brightness, saturation, and light according to your preference. It will also let you redefine the colors in your video efficiently. To use the adjustment layer for color grading, you can read the below instructions:
@@ -163,13 +149,6 @@ Color grading in Premiere Pro can help you to adjust the balance and tone of you
 Step1 After uploading the video clip in Premiere Pro, create a new adjustment layer in the timeline. Drag and adjust it according to the duration of your video clip. Once done, go to the “Effects” tab and search for “FilmConvert Nitrate."
 
 ![select the film convert nitrate option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Apply this effect to the adjustment layer and choose your camera to match the color profile. Afterward, you can adjust the saturation, exposure filmstock, and curves according to your choice. You can also increase the vibrancy and hue saturation curves for more enhancement. You can also navigate to the basic correction section to modify the contrast value accordingly.
 
@@ -215,6 +194,13 @@ If you want to be a professional video editor, you must know the basic technique
 
 ![premiere pro featured image](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: What is Adjustment Layer in Premiere Pro?
 
 In Premiere Pro, you can save time efficiently by editing each layer individually. To do so, you can find the feature of the adjustment layer in Premiere Pro that enables you to apply the same effect to multiple clips instantly. This will eventually save you time and manual effort. However, you must ensure that the adjustment layer has been placed on top of the layers stack section.
@@ -254,13 +240,6 @@ Step1 After uploading the video clip in Premiere Pro, create a new adjustment la
 ![select the film convert nitrate option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-6.jpg)
 
 Step2 Apply this effect to the adjustment layer and choose your camera to match the color profile. Afterward, you can adjust the saturation, exposure filmstock, and curves according to your choice. You can also increase the vibrancy and hue saturation curves for more enhancement. You can also navigate to the basic correction section to modify the contrast value accordingly.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Transition
 
@@ -348,6 +327,13 @@ Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video
 
 ![change blending mode](https://images.wondershare.com/filmora/article-images/2023/01/difference.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 7
 
 Delete the clip on Track 1\. Then, move the clip from Track 2 to Track 1\. Now, Import the clip that you just Exported and drag it to Track 2.
@@ -405,13 +391,6 @@ Step 2
 Go to **My Media** and Import any video you want to add a glowing edge effect to. Then, drag the video to Track 1 on the Timeline.
 
 ![import video filmora](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3
 
@@ -786,46 +765,40 @@ You can also rotate the video by using the **Transform** tab located at the top 
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
 
-You will notice that I have changed the rotation of my video from its original position to the rotated angle.
-
-You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
-
-* Hit the **ok**
-* Select the **save**
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
-
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Similarly, you can drag the video from the preview panel and adjust it as required.
-
-Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
-
-Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
-
-Just go ahead and start…
-
- Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+You will notice that I have changed the rotation of my video from its original position to the rotated angle.
+
+You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
+
+* Hit the **ok**
+* Select the **save**
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Similarly, you can drag the video from the preview panel and adjust it as required.
+
+Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
+
+Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
+
+Just go ahead and start…
+
+ Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
 
 ### **What’s more you can do with Filmora**
 
@@ -838,6 +811,13 @@ After you rotate the video at an angle you like. You can change the aspect ratio
 * Press **OK**
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
 
@@ -858,6 +838,13 @@ You will see a diamond with a circular arrow on it. You're going to hit that unt
 Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **An easier way to rotate videos in Google Photos**
 
@@ -982,6 +969,19 @@ You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 1
 * Select the **save**
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Similarly, you can drag the video from the preview panel and adjust it as required.
 
@@ -1033,5 +1033,22 @@ A good destiny is waiting for you.
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-social-media-sensations-most-liked-and-watched-amazon-originals/"><u>[New] 2024 Approved The Social Media Sensations Most Liked & Watched Amazon Originals</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-open-air-fb-audio-downloads/"><u>[New] Open Air FB Audio Downloads</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-premium-innovation-best-desktop-computers/"><u>[Updated] In 2024, Premium Innovation Best Desktop Computers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-live-photo-complete-guide-how-to-use-it-on-iphone/"><u>2024 Approved Live Photo Complete Guide How to Use It on iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-a-stunning-light-sweep-effect-in-filmora-use-simple-and-easy-steps-to-export-a-high-quality-video-that-will-impress-even-pro-video-editors-for-2024.m/"><u>Create a Stunning Light Sweep Effect in Filmora. Use Simple and Easy Steps to Export a High-Quality Video that Will Impress Even Pro Video Editors for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-video-by-mouse-in-filmora/"><u>How To Make a Video by Mouse in Filmora?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-your-vision-with-these-6-premier-nft-tools/"><u>In 2024, Master Your Vision with These 6 Premier NFT Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-filter-to-video-online/"><u>New In 2024, How to Add Filter to Video Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New In 2024, Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-whats-the-best-laptops-for-video-editing-for-2024/"><u>New Whats The Best Laptops For Video Editing for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/secrets-to-unlocking-costless-image-streams/"><u>Secrets to Unlocking Costless Image Streams</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/seductive-syntax-pickup-lines-in-deutsch/"><u>Seductive Syntax: Pickup Lines in Deutsch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-flirting-gpt-powered-dating/"><u>The Future of Flirting: GPT-Powered Dating</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-ideas-on-using-green-screen-with-filmora/"><u>Updated 2024 Approved Best Ideas on Using Green Screen with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-loop-videos-with-filmora-for-2024/"><u>Updated How to Create Loop Videos with Filmora for 2024</u></a></li>
+</ul></div>
 

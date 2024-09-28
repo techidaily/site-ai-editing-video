@@ -1,7 +1,7 @@
 ---
 title: New How to Apply Video Filters Mobile and Desktop for 2024
-date: 2024-09-18T16:46:04.359Z
-updated: 2024-09-23T17:05:57.408Z
+date: 2024-09-27T02:34:23.721Z
+updated: 2024-09-28T01:50:52.572Z
 tags: 
   - ai
   - animation videos
@@ -85,6 +85,13 @@ Start by downloading and installing the Filmora software onto your desktop. This
 
 Open Filmora and import the videos you want to apply filters to. You can do this by clicking the "Import" button and selecting the video files from your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Step 3: Add video filter effects in 2 ways**
 
 Filmora offers two main ways to add video filters to your footage.
@@ -102,13 +109,6 @@ Second, add LUTs (Look-Up Tables) and presets in the Color panel. LUTs are prede
 Then, click the "LUT" or "Presets" button and choose the desired effect from the available options. Like the Effects panel, you can adjust the settings to customize the product further.
 
 Following these steps, you can easily apply video filters to your footage using Filmora on your desktop. Explore the various options and experiment with different effects to amplify the visual appeal of your videos.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Summary**
 
@@ -202,13 +202,6 @@ Step3Select "Keyboard" > "Keyboard" and then select "Touch Bar shows" under the 
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/enable-touch-bar-on-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Even the most experienced Mac users sometimes get lost and google topics that should be obvious, like how to zoom in and out on a Mac. But it's also not as evident as you may believe. You'll be astonished by how many options there are for zooming on a Mac. Use the Zoom accessibility tool on your Mac's desktop to enlarge the area of the screen you need if you're having problems seeing certain components. We're certain that this article will help you learn something new and use your Mac to its fullest potential. Check out the useful guide to Mac zoom above to see how these zoom tips and solutions may help you make the most of your time on a Mac.
@@ -241,13 +234,6 @@ Step1Open System Preferences and choose Trackpad. Next, choose the Scroll & Zoom
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/trackpad-scroll-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2You can zoom in or out on Mac by placing two fingers on the touchpad and moving one finger closer to the other or further apart (repeat for additional zooming)
 
 Step3Another option is to simply zoom in and out by double-tapping the touchpad with two fingers.
@@ -256,18 +242,18 @@ Step3Another option is to simply zoom in and out by double-tapping the touchpad 
 
 If you'd like to use your mouse, you may utilize the screen zoom option, which enlarges everything on your screen rather than just the app window you're now viewing. This would need holding down one of the designated modifier keys while scrolling in order to zoom in on a Mac. Just like on an iPhone or iPad, you can zoom in and out by pinching and un-pinching. The smart zoom motion, on the other hand, is executed by double-tapping with two fingers. This immediately zooms into or immediately zooms out of a web page or pdf.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to Enable Scroll Gesture
 
 Step1To make this feature active, from the Apple menu, choose System Preferences and select Accessibility. Choose Zoom from the sidebar.
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/use-scroll-gesture.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2Select "Use scroll motion with modifier keys to zoom" from the drop-down menu as shown above.
 
@@ -355,16 +341,16 @@ Afterward, you should click on the playhead and move it a little ahead by a few 
 
 ![tap the lock track icon](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-4.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Unlock the layers
 
 Repeat this step for a few more layers, like dragging the snapshot image to the timeline > moving the playhead by some frames > Snapshot > Lock Track. Then, after you are done with the number of stages possible with your video clip, unlock all of the locked track layers sequentially from top to bottom.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Editing the layers
 
@@ -380,6 +366,13 @@ After completing all the editing steps, you should select the Export button at t
 
 ![press the export button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-6.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After that, however, import the edited file to Filmora from your device again.
 
 ## Edit the freeze frame video clip
@@ -390,6 +383,13 @@ Then, drag the playhead on the clip to the frame at which the third freeze frame
 
 ![drag the playhead and split](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-7.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Create the freeze frame to reverse the speed effect
 
 After this, right-click on the top of the remaining video clip on your timeline. From the drop-down menu that appears, tap on the Copy option. Then, paste the second half beside the first half on the same layer.
@@ -397,6 +397,13 @@ After this, right-click on the top of the remaining video clip on your timeline.
 After that, right-click on the second copied clip and choose the Speed option > Click on Reverse. After that, play the Preview to see how the effect appears in your video. Finally, export the video from Filmora.
 
 ![play the preview](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-8.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -422,6 +429,13 @@ On the video clip, you added to the editing timeline, click on the playhead. The
 
 ![click the snapshot icon](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-3.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Move the image in place
 
 After the previously mentioned step, you should drag the snapshot you just captured to the second layer on the timeline above the clip. Make sure to place the image where the playhead is, marking the point of the freeze frame. Then, drag the slider at the end of the image clip you added to the timeline to match its length with the video clip.
@@ -429,13 +443,6 @@ After the previously mentioned step, you should drag the snapshot you just captu
 Afterward, you should click on the playhead and move it a little ahead by a few frames. Again, tap the "Lock Track" icon beside the image file to keep it in place. Following that, take another snapshot of the image via the Snapshot icon.
 
 ![tap the lock track icon](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-4.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Unlock the layers
 
@@ -584,6 +591,19 @@ Once you have enabled this option, navigate towards the timeline toolbar. Search
 
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
 
 This part of the article will highlight some of the prominent video editing features of Filmora. The uniqueness of these features lies in their AI-backed algorithms. You can give directions according to your video, and AI will operate accordingly. Here are some of its video editing features that you’ll come across upon entering:
@@ -614,13 +634,6 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: A Complete Overview of Adobe After Effects
 
 Before learning **how to slow mo in After Effects**, we want to introduce you to the software. [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) is a professional software designed to assist in post-production. Those unrealistic scenes you see in a sci-fi movie are its creation. Users can work with multiple effects categories to create animated scenes and titles.
@@ -648,13 +661,6 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
 
 ![look for pixel motion](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Alternative: Slowing Down Video in Wondershare Filmora with Clarity
 
@@ -757,5 +763,26 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-explore-windows-11-best-new-gaming-titles/"><u>[New] 2024 Approved Explore Windows 11 Best New Gaming Titles</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-stand-out-in-the-crowd-ingenious-tips-for-top-tinder-bios/"><u>[New] In 2024, Stand Out in the Crowd - Ingenious Tips for Top Tinder Bios</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-dissecting-the-components-of-mixed-reality/"><u>[Updated] In 2024, Dissecting the Components of Mixed Reality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/aliexpress-offers-dual-16-inch-display-laptops-with-core-i5-1245nh-processor-at-710-no-keyboard-included/"><u>AliExpress Offers Dual 16-Inch Display Laptops with Core I5-1245nH Processor at $710, No Keyboard Included</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beating-the-chatgpt-at-capacity-hurdle-in-windows-computers/"><u>Beating the 'ChatGPT at Capacity' Hurdle in Windows Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-of-nahimic-audio-drivers-latest-update/"><u>Effortless Installation of Nahimic Audio Drivers - Latest Update</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-audio-plug-ins-for-video-editors/"><u>In 2024, Best Audio Plug-Ins For Video Editors</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learn-how-to-use-3d-camera-tracking-in-adobe-after-effects-and-take-your-skills-to-the-next-level-for-2024/"><u>Learn How to Use 3D Camera Tracking in Adobe After Effects and Take Your Skills to the Next Level for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-countdown-video/"><u>New How to Make a Countdown Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-6-tips-for-your-first-facebook-ads/"><u>New In 2024, 6 Tips for Your First Facebook Ads</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-images-into-video-kapwing-tutorial/"><u>New In 2024, How to Convert Images Into Video - Kapwing Tutorial</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-montage-makes-it-easy-to-create-and-share-videos-this-article-will-explain-what-it-can-do-and-show-you-examples-of-movies-that-use-montage/"><u>New Montage Makes It Easy to Create and Share Videos. This Article Will Explain What It Can Do and Show You Examples of Movies that Use Montage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-motion-blur-photo-with-gimp-step-by-step-guide-for-2024/"><u>New Motion Blur Photo With GIMP Step-By-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/securing-top-quality-pixel-ringtones-where-to-go-in-2024/"><u>Securing Top Quality Pixel Ringtones Where to Go, In 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/troubleshooting-access-issues-with-html-ebooks-shared-via-flipbuilder-friend-compatibility/"><u>Troubleshooting Access Issues with HTML eBooks Shared via FlipBuilder - Friend Compatibility</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>Updated How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
+</ul></div>
 

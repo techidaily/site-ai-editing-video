@@ -1,7 +1,7 @@
 ---
 title: New Steps to Rotate Videos in Lightworks for 2024
-date: 2024-09-22T17:15:31.528Z
-updated: 2024-09-23T17:37:05.001Z
+date: 2024-09-26T08:58:57.124Z
+updated: 2024-09-28T04:06:51.190Z
 tags: 
   - ai
   - animation videos
@@ -65,6 +65,13 @@ For Win 7 or later (64-bit)
 
 For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step-by-step on how to rotate videos in Filmora
 
 How to Manually Rotate a Video in Filmora
@@ -90,15 +97,28 @@ Step 4: Select the desired rotation option.
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 5: Click on the "Ok" button.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Your video will now be rotated by the selected number of degrees.
 
@@ -255,10 +275,10 @@ Step 5: Click on the Enter in the keyboard button.
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Your video will now be rotated by the selected number of degrees.
@@ -290,6 +310,13 @@ Step 1: Import your video into the project.
 Step 2: Click the video clip you want to rotate.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Click on the "Edit" tool above the timeline and go to the "Transform" section. Then, select the “Rotate” option.
 
@@ -338,6 +365,13 @@ Here's how you can use VEED to add text to your video;
 Step1Go to <https://www.veed.io/> on any browser to access the video editing tool. Click on “Upload Your Video” to open a new project. In the new project screen that appears, tap on “Upload a file” to add your video.
 
 ![upload video to veedio](https://images.wondershare.com/filmora/article-images/2022/08/upload-video-to-veedio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2Once the video is open, click on the “Text” tab on the left and then select the type of text you want to add to the video.
 
@@ -523,19 +557,6 @@ Now that the video and audio files are on the timeline, you'll have to find the 
 
 ![find the sound spike on video and audio files](https://images.wondershare.com/filmora/article-images/2023/04/find-the-sound-spike-on-video-and-audio-files.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now take the independent audio clip and align it so that both the spikes match.
 
 ![align the sound spikes with each other](https://images.wondershare.com/filmora/article-images/2023/04/align-the-sound-spikes-with-each-other.jpg)
@@ -547,13 +568,6 @@ That's it! We just need to remove the in-camera audio now. Let's see how to do i
 To detach the audio in the video footage, right-click on this file and select the "Detach Audio" option. Or you can also use the "Ctrl+Alt+D" as the hotkey.
 
 ![detach audio from video file](https://images.wondershare.com/filmora/article-images/2023/04/detach-audio-from-video-file.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once the audio file has been separated, you can move forward and delete it. To delete this audio, right-click on it and select "Delete."
 
@@ -651,25 +665,11 @@ When a new project is created, you'll see an "Import Media" section on it. Click
 
 ![import your media files](https://images.wondershare.com/filmora/article-images/2023/04/import-media-section-in-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3Prepare your files
 
 Now, it's time to prepare our files for synchronization. First, drag the video file down to the timeline from the "Import Media" section. After that, drag the audio file in the same way below the video on the panel.
 
 ![drag the media files to the timeline](https://images.wondershare.com/filmora/article-images/2023/04/drag-the-media-files-to-the-timeline.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4Sync the audio & video files using the audio spike
 
@@ -913,13 +913,6 @@ Now, move the Playhead to the starting position on the Timeline. Then, click on 
 
 ![add keyframe filmora](https://images.wondershare.com/filmora/article-images/2023/01/keyframe.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 11
 
 You are finally done. You can review, Render, and Export the video now to use it as you wish. Congratulations on creating a light sweep effect in Filmora.
@@ -952,19 +945,6 @@ Create a New Project by clicking on the big blue button. Immediately after, go t
 
 ![project settings filmora](https://images.wondershare.com/filmora/article-images/2023/01/fps.png)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3
 
 Select the Titles tab and drag the Default Title to the Timeline.
@@ -976,6 +956,13 @@ Step 4
 Double-click on the Default Title inside the Timeline and go to **Advanced.** Here, you can change the text, pick a new font, change its size, and so on. Make sure you change the Color Type to **Gradient Fill.** Choose a color of your own liking. When you’re done customizing it, click on **OK.**
 
 ![advanced text settings](https://images.wondershare.com/filmora/article-images/2023/01/advanced.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5
 
@@ -1080,6 +1067,19 @@ Step 8
 Double-click on the Snapshot clip and go to the **Mask** tab. From here, select the **Rectangle** mask. Then, rotate it as you see in the image below. Don’t click on OK yet.
 
 ![add mask filmora](https://images.wondershare.com/filmora/article-images/2023/01/mask.png)
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 9
 
@@ -1123,5 +1123,16 @@ Summary
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-securely-distributing-exclusive-youtube-videos-through-gmail/"><u>[New] Securely Distributing Exclusive YouTube Videos Through Gmail</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unraveling-instagram-video-anomalies-today/"><u>2024 Approved Unraveling Instagram Video Anomalies Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-logitech-g29-racing-wheel-software-for-windows-7-8-and-10-get-your-game-on/"><u>Free Logitech G29 Racing Wheel Software for Windows 7, 8 & 10: Get Your Game On!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-track-and-blur-faces-in-premiere-pro/"><u>How To Track and Blur Faces in Premiere Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-download-and-use-windows-movie-maker-10/"><u>New How to Download and Use Windows Movie Maker 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-mix-fold-3-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Mix Fold 3</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-blur-background-in-adobe-premiere-pro-detailed-guide/"><u>Updated In 2024, How To Blur Background in Adobe Premiere Pro Detailed Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-what-are-the-stages-of-film-production/"><u>Updated What Are The Stages Of Film Production</u></a></li>
+</ul></div>
 

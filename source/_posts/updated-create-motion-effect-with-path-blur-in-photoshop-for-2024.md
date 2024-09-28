@@ -1,7 +1,7 @@
 ---
 title: Updated Create Motion Effect with Path Blur In Photoshop for 2024
-date: 2024-09-16T18:05:10.815Z
-updated: 2024-09-23T17:28:20.614Z
+date: 2024-09-20T19:11:39.189Z
+updated: 2024-09-27T20:50:03.936Z
 tags: 
   - ai
   - animation videos
@@ -44,10 +44,10 @@ Step2 Now proceed to the "Filter" section and locate the option "Blur Gallery". 
 ![choose the path blur](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create a Long Exposure Picture
@@ -55,6 +55,13 @@ Step2 Now proceed to the "Filter" section and locate the option "Blur Gallery". 
 Step1 Navigate to the Adobe Photoshop tool and begin by uploading a picture. Afterward, go to the "Filter" tab and select "Convert for Small Filters."
 
 ![select convert for the smart filters option](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Now go to the "Filter" tab again and choose the "Blur Gallery" option. From there, select the "Path Blur" option. Now adjust the displayed arrow in a particular direction to decide the starting and endpoint of the path blur. Moreover, modify the "Speed" slider according to your choice.
 
@@ -76,16 +83,22 @@ Step6 Now add the first layer and choose the option "Convert for Smart Filters."
 
 ![tap on convert for smart filters option](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step7 Now increase the length of the arrow and press "Ctrl + Click" for Windows or "Command + Click" for Mac to reposition the path. You can also add a curve to the arrow. Enhance the speed from the right panel and uncheck the option of "Center Blur." You can increase the taper value to make the blur gradually trail off. Add a grainy filter for more enhancements.
 
 ![disable the centered blur option](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-10.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tips – The Alternative to Photoshop to Create Motion Blur Effect
 
@@ -96,6 +109,13 @@ Many users find the interface of Adobe Photoshop intimidating or challenging to 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 It offers more than 900 effects that you can use to add new dimensions to your photos and videos. Moreover, it provides fast processing speed for photo and video editing to help you achieve your goals conveniently.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps to Produce Motion Blur Effect in Filmora
 
@@ -143,18 +163,18 @@ To split, choose the starting and ending point in the clip where you want to add
 
 ![split the added clip](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3 Apply the Transition
 
 Once you have added the motion blur effect, you can check the results from the preview window. You can also apply the "Dissolve" transition from the "Transitions" tab to generate a smooth result.
 
 ![access transitions tab](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -238,13 +258,6 @@ Canva provides a very basic user interface to create subtitles. If you want to e
 
 Filmora also offers great styles and font options to customize the subtitles. You can easily check the results from the preview window of this efficient video editor. Hence, Filmora acts as a complete and well-trusted platform to generate subtitles in different ways.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Instructions to Create Subtitles Using Filmora
 
 Are you tired of writing subtitles manually in Canva? Read the precise instructions guided below to create the subtitles automatically in more than 16 languages:
@@ -289,13 +302,6 @@ Step2 Now, hit the "Upload Files" button from the left panel and import the vide
 
 ![upload your video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 You can also add effects and animation to your added subtitles for more enhancements. Once done with customizations, click on the “Share” button. Here select MP4 as the video file format and save the video on your system.
 
 ![hit the share button](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-5.jpg)
@@ -320,11 +326,25 @@ Download and launch Filmora on your desktop to initiate the process. On its main
 
 ![import your video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2 Select Speech-to-Text Feature
 
 Once done with uploading the file, drag the video file to the timeline. Click on the “Speech-to-Text” icon displayed on the timeline and hit the “OK” button after selecting the required language and file. After some seconds, subtitles would be automatically added to the timeline.
 
 ![customize speech to text options](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3 Add Modifications to Subtitles
 
@@ -337,13 +357,6 @@ On your timeline, double-click on the auto-generated subtitles to open the edit 
 Once you are done with all the subtitle edits, click on the “Export” button. Filmora provides you with various export resolution options and file formats that you can choose. Moreover, you can also share the video file to your desired social media platform, such as YouTube, Vimeo, or TikTok.
 
 ![export or share the filmora video](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -360,6 +373,19 @@ Being a non-technical individual, adding subtitles may sound tricky. To provide 
 Adding text to any video can serve to improve the quality of the video or emphasize a section of the video. But unlike adding text to an image, adding even simple text to a video can be quite difficult. But there are video editing tools that can significantly simplify this process.
 
 Before we look at one of the best video editing tools that you can use to add text to your video, let’s first look at why adding text to your video may be important.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Insert Titles to Videos?
 
@@ -451,13 +477,6 @@ Yes. Once you have added the title or text to the video, you can just as easily 
 
 Adding text and titles to any video can be very important for several reasons. For instance, you can decide to add text to emphasize a point, add a call to action and even help your audience to follow along with the content when the audio is turned off. Titles and any other text that you add to a video can also make the content more understandable, engaging, and clearer. But the effectiveness of the text will depend on how and where you place the text within the video and the video editor you choose can be very instrumental in this regard.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. How Can I Make the Text in My Video Look Good?
 
 First, you need to decide on the color, effects, and animations that you would like to use, and to decide these things you will need to take your brand and colors into consideration. Once you have all these details, you then need to choose a video editor that offers a wide range of fonts and colors to choose from. Thankfully, **Filmora** offers all the colors, fonts, and animations you could ever need, allowing you to customize the text any way you want.
@@ -531,13 +550,6 @@ Yes. Once you have added the title or text to the video, you can just as easily 
 ### 2\. Why Should I add Text to my Video?
 
 Adding text and titles to any video can be very important for several reasons. For instance, you can decide to add text to emphasize a point, add a call to action and even help your audience to follow along with the content when the audio is turned off. Titles and any other text that you add to a video can also make the content more understandable, engaging, and clearer. But the effectiveness of the text will depend on how and where you place the text within the video and the video editor you choose can be very instrumental in this regard.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. How Can I Make the Text in My Video Look Good?
 
@@ -653,5 +665,16 @@ Beginning to experiment with all of Final Cut Pro X's functions and determining 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-ai-muse-elevating-content-and-creativity/"><u>ChatGPT as Your AI Muse: Elevating Content and Creativity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-impact-in-depth-youtube-video-editing-mastery-for-2024/"><u>Cut to Impact In-Depth Youtube Video Editing Mastery for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-best-27-transcription-applications-expert-insights-from-movavi/"><u>Discover the Best 27 Transcription Applications - Expert Insights From Movavi</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-freezing-and-stuttering-in-valheim-for-a-smooth-gaming-experience/"><u>How to Overcome Freezing & Stuttering in Valheim for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-8-how-to-unlock-a-disabled-iphone-8-by-drfone-ios/"><u>In 2024, Disabled iPhone 8 How to Unlock a Disabled iPhone 8?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
+</ul></div>
 

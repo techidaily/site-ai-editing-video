@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Color Correction Basics (S-LOG Footage)
-date: 2024-09-16T18:30:59.821Z
-updated: 2024-09-23T19:34:10.720Z
+date: 2024-09-21T00:46:50.744Z
+updated: 2024-09-28T01:45:35.592Z
 tags: 
   - ai
   - animation videos
@@ -67,13 +67,6 @@ Now it's time to check and compare the results. To make it easier, click the **E
 
 ![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Summary
 
 I guess that was easy, right? Up to this juncture, you should be able to perform basic color correction on your video using Wondershare Filmora. Remember, this video editor packs many other editing tools to bring out your creativity. Give it a try!
@@ -88,15 +81,36 @@ Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a h
 
 ![read and study the histogram](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Adjust the image colors
 
 Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
 
 ![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
 
 ![go to the light section](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now adjust the **Shadows** settings to reduce the effect and make the roofs look closer to pure black. If you want the roofs to look darker, drag the **Blacks** slider to the left.
 
@@ -173,13 +187,6 @@ Now you'll see the Advanced Color Correction pop-up window. Here, you'll see a h
 Once you've understood the histogram, look for pure black and white parts on the video clip. For example, in this video, you can see that the roofs are pure black and the boat at the bottom-right corner is pure white.
 
 ![adjust the image colors](https://images.wondershare.com/filmora/article-images/2023/01/pure-blacks-and-whites.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After finding the white and black parts in the video, go to the **Light** section, then adjust the **Highlights** to see if you can get a pure white on the boat. If the boat or any other image of your choice doesn't look pure white, increase the **Whites** slide to make it whiter.
 
@@ -222,6 +229,13 @@ I guess that was easy, right? Up to this juncture, you should be able to perform
 If you are a Mac user and you are getting started in video editing, it is better if you start with a free video editing software. There is no need to download any external free video editor when you are a Mac user. This is because Mac comes with a pre-installed free video editor called iMovie editor. iMovie is a video editing app from Apple where you will get all the standard and some advanced features.
 
 iMovie is extremely popular among Mac users for video editing because it is completely free and easy to use. In fact, iMovie is also available for iPhone and iPad users. You can start your video editing on your iPhone and transfer the same work to Mac to continue editing on your Mac. But the most important question is if iMovie editor is the best video editor for Mac users. Read our iMovie review and find out a better alternative.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1\. Key Features of iMovie
 
@@ -318,13 +332,6 @@ Step 2: Drag and drop your video clips and audio files Project Media folder. Dra
 Step 3: If you want to apply transitions, go to Transitions at the top bar and drag any transition in between video clips on the timeline. You can also insert texts from Titles and objects from Elements from the top bar.
 
 ![filmora beautiful transition effects](https://images.wondershare.com/filmora/article-images/filmora-beautiful-transition-effects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Play the video to see the changes you have made, and click on Export button to save the video when you are satisfied.
 
@@ -449,13 +456,6 @@ Now, click the **“File”** option in the top toolbar, and from the drop-down 
 
 ![click the file option](https://images.wondershare.com/filmora/article-images/2023/01/adding-object-image-in-photoshop-to-create-screen-print-effect.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Next, click the **“Lasso”** tool from the left-side menu to create the selection around the object in the image.
 
 ![click the lasso tool](https://images.wondershare.com/filmora/article-images/2023/01/selecting-object-via-lasso-tool-to-create-screen-print-effect-in-Photoshop.png)
@@ -464,18 +464,18 @@ Press the **CMD/Ctrl + C** on your computer's keyboard to copy the selection. Ne
 
 ![click layer via copy](https://images.wondershare.com/filmora/article-images/2023/01/new-layer-via-copy-to-create-screen-print-effect-in-photoshop.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Now, hide the background layer in the **“Layers”** panel on the right-hand side, and you will get your object without any BG. Click the **“Image”** option in the top toolbar and select **“Adjustments.”**
 
 Click **“Threshold…”** from the drop-down menu, and set the **“Threshold level.”** Alternatively, you can click **“Cmd/ctrl+Shift+U”** on the keyboard to desaturate the image.
 
 ![click threshold](https://images.wondershare.com/filmora/article-images/2023/01/setting-the-threshold-level-to-create-screen-print-effect-in-photoshop.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Next, select the **“Magic Eraser Tool”** from the left-side menu and remove the white parts to smooth down the background. Afterward, choose the **“Move Tool”** from the menu and drag your object to a new layer.
 
@@ -490,6 +490,13 @@ Next, drag the handles to adjust the size of the object on the Background image.
 Step6 Click the **“T”** icon from the left-hand side menu and set the font style, color, and size. You can also click the **“3D”** option to convert your text to a three-dimensional form.
 
 ![click t icon](https://images.wondershare.com/filmora/article-images/2023/01/adding-text-to-the-canvas-in-photoshop.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Try removing the left-out white patches on the object using the **“Magic Eraser Tool”** to give a polished look to the print screen effect. Once you are satisfied, click the **“File”** option from the top toolbar panel and select **“Save As.”**
 
@@ -558,6 +565,13 @@ After that, you'll have a lot of options from which to choose. Some individuals 
 
 ![copy titles from generator tool](https://images.wondershare.com/filmora/article-images/2022/07/copy-titles-from-generator-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. [TunePocket Title Generator](https://www.tunepocket.com/youtube-title-generator/)
 
 For background music for your video and YouTube video SEO, TunePocket might be a top-notch tool. Additionally, the fact that it is free to use and that no account creation is necessary is beneficial. A stock music library, TunePocket provides a variety of music services. Additionally, we have discovered some incredible YouTube tools, such as YouTube tag generators. The fact that you can use this tag generator on YouTube without creating an account is what made us appreciate it even more.
@@ -623,13 +637,6 @@ In this article, we've compiled a list of the best tag generators for videos, in
 
 ## Part 1\. Tools to Generate Video Titles
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. [TubeRanker Title Generator](https://tuberanker.com/youtube-title-generator)
 
 A collection of YouTube SEO tools called TubeRanker may be used to optimize videos on Facebook, YouTube, and TikTok. Creators may utilize the short bursts of video title suggestions provided by the TubeRanker Title Generator in the names of their YouTube videos. Creators of videos may arrange and produce flawless, SEO-optimized video descriptions with the aid of the TubeRanker Video Description Generator. With the help of its title generator tool, TubeRanker can extract and display the meta tags connected to any public movie.
@@ -654,18 +661,18 @@ Simply enter your keyword into the title generator and press the red button to c
 
 ![generate video title](https://images.wondershare.com/filmora/article-images/2022/07/generate-video-title.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Copy the Title (s)
 
 After that, you'll have a lot of options from which to choose. Some individuals push for names that are SEO-friendly, while others try for titles that are distinctive to stand out from the throng. maintain a careful balance. Both include a powerful keyword and making your title stand out should be your goals.
 
 ![copy titles from generator tool](https://images.wondershare.com/filmora/article-images/2022/07/copy-titles-from-generator-tool.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. [TunePocket Title Generator](https://www.tunepocket.com/youtube-title-generator/)
 
@@ -683,13 +690,6 @@ The title generating procedure for your films may be started by first visiting t
 While on the webpage, you can refer to the YouTube title generator section. This will let you enter the topic of your video in the referred box as shown here:
 
 ![enter video topic to generate](https://images.wondershare.com/filmora/article-images/2022/07/enter-video-topic-to-generate.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3 Generate Video Title
 
@@ -751,5 +751,19 @@ In this article, we've compiled a list of the best tag generators for videos, in
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-glitch-effect-with-filmora/"><u>2024 Approved How to Make Glitch Effect with Filmora</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-this-years-prime-pc-vr-tech/"><u>2024 Approved Unveiling This Year's Prime PC VR Tech</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/gameplay-streaming-tools-revealed-obs-or-fraps/"><u>Gameplay Streaming Tools Revealed OBS or Fraps?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/lost-instagram-reels-found-the-ultimate-recovery-tips/"><u>Lost Instagram Reels Found: The Ultimate Recovery Tips</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-add-text-animation-to-a-video-online/"><u>New 2024 Approved Add Text Animation to A Video Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-filter-to-video-online/"><u>New 2024 Approved How to Add Filter to Video Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-the-popular-video-text-effects-to-your-video-in-2024/"><u>New How to Add the Popular Video Text Effects to Your Video, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-the-night-to-day-effect-video/"><u>New In 2024, How to Create the Night-to-Day Effect Video</u></a></li>
+<li><a href="https://common-error.techidaily.com/repairing-erroneous-dll-in-steam/"><u>Repairing Erroneous Dll in Steam</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-evolution-in-microphone-tech-a-look-at-jabra-talk-25-model/"><u>The Evolution in Microphone Tech - A Look at Jabra Talk 25 Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-perfection-an-in-depth-analysis-of-google-pixel-3/"><u>Unveiling the Perfection: An In-Depth Analysis of Google Pixel 3</u></a></li>
+</ul></div>
 
