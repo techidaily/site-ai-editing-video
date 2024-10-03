@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Creative Ways to Add Green Screen Effects In Photoshop
-date: 2024-09-26T22:46:50.318Z
-updated: 2024-09-27T23:15:33.406Z
+date: 2024-09-27T06:59:03.978Z
+updated: 2024-10-02T16:41:02.972Z
 tags: 
   - ai
   - animation videos
@@ -139,13 +139,6 @@ Step 5: Double-click on your video, and you will come across a panel on the uppe
 
 ![green screen background](https://images.wondershare.com/filmora/article-images/green-screen-background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 6: Finally, adjust the parameters available to fine-tune the overall green screen effect. Lastly, click on Ok button.
 
 ## Conclusion
@@ -172,19 +165,20 @@ Step 5: Double-click on your video, and you will come across a panel on the uppe
 
 ![green screen background](https://images.wondershare.com/filmora/article-images/green-screen-background.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 6: Finally, adjust the parameters available to fine-tune the overall green screen effect. Lastly, click on Ok button.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -402,13 +396,6 @@ Open Premiere Pro and locate the "File" menu. Choose the "Import" option from th
 
 ![import videos to platform](https://images.wondershare.com/filmora/article-images/2023/import-videos-to-platform.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Adjust Blackmagic RAW Settings**
 
 Lead into the “Source” section and look for the “Effect Controls” tab. Inside the Effects Control tab, locate the Blackmagic RAW tab. Underneath the Blackmagic RAW tab, change the "Decode Using" settings to "Clip." Furthermore, adjust the "Gamma" settings to "Blackmagic Design Extended Video."
@@ -435,13 +422,6 @@ To apply the LUT to all your video clips, right-click on the "Blackmagic RAW" ta
 
 Do you have so many **BRAW to Rec709 LUTs** options to choose from? You don't need to waste your time in selecting a good one. Here is a list of some of the best BRAW LUTs that you can download.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. [Blackmagic BaseLUTs for BRAW – Gen 5 & Gen 4 Film](https://gamut.io/product/blackmagic-conversion-luts-for-braw-gen5-gen4-film/)
 
 The Blackmagic BaseLUTs for BRAW – Gen 5 & Gen 4 Film powerful pack consists of two different Blackmagic LUTs. These LUTs are designed to enhance your video in remarkable ways. Furthermore, you can expect exceptional retention in the highlights. Additionally, these LUTs offer well-balanced saturation levels for your videos.
@@ -466,6 +446,13 @@ Experience the magic of the S20-F87 BRAW FILM LUT. Using this LUT pack, you can 
 
 ![s20 f87 braw film](https://images.wondershare.com/filmora/article-images/2023/s20-f87-braw-film.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. [Cine Vintage Nature LUT 22](https://www.etsy.com/listing/1251705983/luts-pack-22-bmpcc-4k6k-film-braw?ga%5Forder=most%5Frelevant&ga%5Fsearch%5Ftype=all&ga%5Fview%5Ftype=gallery&ga%5Fsearch%5Fquery=braw+luts&ref=sr%5Fgallery-1-4&organic%5Fsearch%5Fclick=1)
 
 Cine Vintage Nature LUT 22 is a remarkable LUT pack that transports your video back in time. It creates an old vintage look with a cinematic touch. With this pack, you can transform your modern videos into classic Hollywood movies. It beautifully enhances your videos' colors, tones, and textures to add depth and emotion. Similarly, using this pack, you can recreate old-school cinematic videos.
@@ -477,6 +464,13 @@ Cine Vintage Nature LUT 22 is a remarkable LUT pack that transports your video b
 JM-15+ Premium BMPCC BRAW LUTs are the key to unlocking a cinematic feel in your videos. These powerful LUTs highlight colors, creating a cinematic experience. It is a pack of 15 premium cinematic-style LUTs. Additionally, you can darken colors, giving your videos a rich and dramatic look. Furthermore, these LUTs add depth and dimension to your videos by enhancing shadows and textures.
 
 ![premium bmpcc braw luts](https://images.wondershare.com/filmora/article-images/2023/premium-bmpcc-braw-luts.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: An Alternative to Apply 3D LUTs to Videos: Wondershare Filmora
 
@@ -520,13 +514,6 @@ Lead into the “Source” section and look for the “Effect Controls” tab. I
 
 ![define braw luts settings](https://images.wondershare.com/filmora/article-images/2023/define-braw-luts-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Apply the LUT to Your Video Clips**
 
 To apply the LUT to all your video clips, right-click on the "Blackmagic RAW" tab. Click on the "Copy" option from the menu that appears. Now, select all your clips in the "Project" panel by holding the SHIFT key while clicking on each clip. Right-click on the selected clips and choose the "Paste" option to apply the LUT. Your Blackmagic LUT will now be applied to all the selected video files. After completing your edits save your file.
@@ -577,6 +564,19 @@ Cine Vintage Nature LUT 22 is a remarkable LUT pack that transports your video b
 
 ![cine vintage natural lut 22](https://images.wondershare.com/filmora/article-images/2023/cine-vintage-natural-lut-22.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. [JM- 15+ PREMIUM BMPCC BRAW LUTS](https://www.jamesmatthewsmedia.com/product-page/bmpcc-braw-luts)
 
 JM-15+ Premium BMPCC BRAW LUTs are the key to unlocking a cinematic feel in your videos. These powerful LUTs highlight colors, creating a cinematic experience. It is a pack of 15 premium cinematic-style LUTs. Additionally, you can darken colors, giving your videos a rich and dramatic look. Furthermore, these LUTs add depth and dimension to your videos by enhancing shadows and textures.
@@ -593,18 +593,18 @@ JM-15+ Premium BMPCC BRAW LUTs are the key to unlocking a cinematic feel in your
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Moreover, this tool has recently been updated and has many more options. With this [LUT](https://tools.techidaily.com/wondershare/filmora/download/) tool, you can apply different LUTs to enhance the mood of your videos. Apart from this, it has a library of 200+ LUTs to download. This extensive library allows you to choose different color grading presets according to your mood. Furthermore, its library also has other free media assets, ranging from over 10 billion.
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-luts.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -655,10 +655,10 @@ Step3 Now extend the adjustment clip according to the layers. Once done, you can
 Do you want to know how to use the **DaVinci Resolve adjustment layer**? Read this part of the article to discover how to use the adjustment layer (clip) in DaVinci Resolve.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Zoom in
@@ -670,6 +670,13 @@ Step1 First, add the adjustment layer to your timeline by heading to Effects Lib
 Step2 Now click on “Inspector” from the top right corner and enhance the “Zoom” value according to your desire. Once done, you can play the video to check the results.
 
 ![insert the zoom effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Color Grading
 
@@ -696,19 +703,6 @@ Step3 Afterward, scroll to the bottom and change the Border Type to "Reflect." N
 Step4 You can also select different composite modes. You can also duplicate the adjustment clip and alter the composite mode of the second clip. Once done, decrease the opacity of the second clip. Now copy and place the adjustment clips on your timeline according to your desire.
 
 ![use different composite modes](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-9.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tips: Use Adjustment Layers in the Best Alternative to DaVinci Resolve
 
@@ -788,15 +782,20 @@ Moreover, we have also highlighted a better option than DaVinci Resolve, known a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-eliminating-oculus-sickness-key-tactics/"><u>[Updated] 2024 Approved Eliminating Oculus Sickness Key Tactics</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-comprehensive-list-audio-pace-modification-tools-for-2024/"><u>[Updated] Comprehensive List Audio Pace Modification Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-videos-with-imovie/"><u>2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-x80072f30-quick-fix-for-windows-store-problems/"><u>Eliminate X80072F30: Quick Fix for Windows Store Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-phenomenon-of-invisible-touchpad-cursors-in-windows-11-systems/"><u>How to Correct the Phenomenon of Invisible Touchpad Cursors in Windows 11 Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-15ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 15/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-3-ways-to-create-motion-text-effects-for-your-video/"><u>New 2024 Approved 3 Ways to Create Motion Text Effects for Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-risograph-effect-in-photoshop-a-beginners-guide-for-2024/"><u>New Create Risograph Effect In Photoshop A Beginners Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-add-miniature-effect-to-videos/"><u>New Easy Steps to Add Miniature Effect to Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/streamlining-short-film-previews-for-channels-for-2024/"><u>Streamlining Short Film Previews for Channels for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-constructing-a-custom-youtube-subscription-url/"><u>[New] Constructing a Custom YouTube Subscription URL</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-10-best-sony-lut-for-different-purposes/"><u>2024 Approved 10 Best Sony LUT for Different Purposes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-cont/"><u>2024 Approved Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/expertly-design-fb-ads-get-help-from-free-video-creation-toolkit-for-2024/"><u>Expertly Design FB Ads – Get Help From Free Video Creation Toolkit for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-90-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor 90 Safely | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-realme-10t-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Realme 10T 5G</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-online-obsession-the-8-must-watch-titles/"><u>In 2024, Online Obsession The 8 Must-Watch Titles</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-13-pro-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 13 Pro Max Making It Possible</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-in-canva/"><u>New 2024 Approved How to Add Subtitles in Canva?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-use-rule-of-thirds-in-video/"><u>New In 2024, How to Use Rule of Thirds in Video</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlocking-the-secrets-the-ultimate-guide-to-instagram-stories-mastery-for-2024/"><u>Unlocking the Secrets The Ultimate Guide to Instagram Stories Mastery for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-ideas-for-time-lapse-video/"><u>Updated Ideas for Time-Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-secret-tips-and-tricks-to-use-in-filmora-for-2024/"><u>Updated Secret Tips & Tricks to Use in Filmora for 2024</u></a></li>
 </ul></div>
 

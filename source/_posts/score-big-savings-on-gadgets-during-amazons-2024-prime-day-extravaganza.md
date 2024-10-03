@@ -1,7 +1,7 @@
 ---
 title: Score Big Savings on Gadgets During Amazon's 2024 Prime Day Extravaganza
-date: 2024-09-23T08:31:15.619Z
-updated: 2024-09-28T07:34:55.877Z
+date: 2024-09-28T23:34:32.245Z
+updated: 2024-10-02T17:03:00.956Z
 categories:
   - BestProducts
 description: This Article Describes Score Big Savings on Gadgets During Amazon's 2024 Prime Day Extravaganza
@@ -40,13 +40,6 @@ Lifewire / Kelsey Simon
 
 ![Days Gone](https://www.lifewire.com/thmb/OhLBxtaDQ5jb89rJmIMnan1soS4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Days-Gone-Zombie-Game-PS4-1-ecafdc83e8e0460cbc31b8b0e4976faa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/dp/B01GW8XRCG/?tag=lifewire-onsite-prod-20&ascsubtag=4778364%7Cnab23bfa6ad6a414d9db9cc2812411ddf11%7CB01GW8XRCG) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/days-gone/10131616.html)
@@ -72,20 +65,27 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: A long installation process**
 
  If you purchased the game on disc, when you first pop it into your PlayStation 4 you’ll have to update. The update is fairly large, so be prepared to wait. The game finally launches, you'll be prompted to select between easy, normal, or hard difficulty, and then treated to a scene-setting introductory cutscene.
 
 ![Days Gone](https://www.lifewire.com/thmb/HE8j4XoxbKMWIQagUtGCXFf6bKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-2-3b29272bf1b2423781e104041dc00457.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Plot: A man who lost his wife**
 
@@ -100,13 +100,6 @@ As in most zombie fiction, the real monster is man.
  You'll have issues with a cult group called Rippers, and bandits who survive by preying on anyone who's not well armed or capable enough to defend what's theirs. Unfortunately, Boozer gets badly hurt in one of these encounters, and while you’re trying to find him the help he needs, you get a lead that perhaps Sarah, who you assumed was dead, is still alive. The rest of the game involves exploring this open-world, helping the people you meet, and trying to find Sarah, all while keeping your friend Boozer alive.
 
 ![Days Gone](https://www.lifewire.com/thmb/XWR-CgFF865KBE1ipv7cwdi-P3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-5-b1914ac9859b409d9460fea24fc7f251.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -124,6 +117,13 @@ As in most zombie fiction, the real monster is man.
 
 ![Days Gone](https://www.lifewire.com/thmb/9B_OIRiqlP1YbsMLjs-zzDc3WAs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-3-cc2a2d9c613d4330b5d4d38408d6eae3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 ## **Graphics: Smooth and detailed**
@@ -136,13 +136,6 @@ As in most zombie fiction, the real monster is man.
 
 ![Days Gone](https://www.lifewire.com/thmb/gE-LorHWCGsO4NUFW801LGts5t4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Days-Gone-Zombie-Game-PS4-4-a82aed08ab7a4b29bce78268b729563b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
 ## **Price: Still expensive as a newer release**
@@ -150,10 +143,10 @@ As in most zombie fiction, the real monster is man.
  On the official PlayStation Store, the game goes for $40, but you can regularly find it on sale on Amazon or other online retailers (as of this writing, it's down to $20). At a discount, Days Gone is an easy purchase, a big, entertaining, open-world zombie romp that rarely if ever stagnates until the credits roll.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Days Gone vs. The Last of Us Remastered**
@@ -165,6 +158,19 @@ As in most zombie fiction, the real monster is man.
 **Above average, but wait for a sale.**
 
  Days Gone is a game that tried very hard to combine two tropes very much in the entertainment zeitgeist in the past few years—zombies and bikers. It's graphically strong, with great character animations and detailed environments and character models. The clunky controls and some pacing issues may make recommending it at full price difficult, but on sale, it's an easy pickup, especially for zombie fans shopping for an entertaining PS4 game.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -187,24 +193,20 @@ As in most zombie fiction, the real monster is man.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-8-pioneering-exercise-videos-to-keep-your-viewers-active/"><u>[New] 2024 Approved 8 Pioneering Exercise Videos To Keep Your Viewers Active</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-create-professional-fb-ad-videos-leverage-free-creative-toolkit-for-2024/"><u>[New] Create Professional FB Ad Videos Leverage Free Creative Toolkit for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-pixel-perfection-best-video-cameras-for-extended-recording-times-for-2024/"><u>[New] Pixel Perfection Best Video Cameras for Extended Recording Times for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-streamline-content-summaries-top-templates-examples/"><u>[New] Streamline Content Summaries Top Templates Examples</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-use-path-blur-in-photoshop-to-create-motion-effect/"><u>2024 Approved Use Path Blur In Photoshop To Create Motion Effect</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/embarking-on-a-digital-persona-makeover-tiktok-username-transformation-techniques-for-2024/"><u>Embarking on a Digital Persona Makeover TikTok Username Transformation Techniques for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-video-by-mouse-in-filmora/"><u>How To Make a Video by Mouse in Filmora?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-discover-the-best-5-devices-to-stream-and-record-sessions/"><u>In 2024, Discover the Best 5 Devices to Stream & Record Sessions</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-optimizing-pitch-alteration-in-audacity-a-guide-to-quality-retention/"><u>In 2024, Optimizing Pitch Alteration in Audacity A Guide to Quality Retention</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mastering-the-art-of-graphics-card-upgrades-what-you-need-to-know/"><u>Mastering the Art of Graphics Card Upgrades - What You Need to Know</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mastering-virtual-football-in-depth-insights-into-fifa-19s-greatness/"><u>Mastering Virtual Football: In-Depth Insights Into FIFA 19'S Greatness</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-practical-tips-to-improve-your-lighting-in-the-sun-for-2024/"><u>New Best Practical Tips to Improve Your Lighting in the Sun for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-everything-that-you-need-to-know-about-video-montages-ideas-techniques-and-software/"><u>New Everything That You Need to Know About Video Montages- Ideas, Techniques, and Software</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New In 2024, Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-split-clips-in-vlc-for-2024/"><u>New Step by Step to Split Clips in VLC for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-whats-the-best-laptops-for-video-editing-for-2024/"><u>New Whats The Best Laptops For Video Editing for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-10-streaming-services-a-must-know-for-2024/"><u>Top 10 Streaming Services - A Must Know for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-ideas-on-using-green-screen-with-filmora/"><u>Updated 2024 Approved Best Ideas on Using Green Screen with Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-loop-videos-with-filmora-for-2024/"><u>Updated How to Create Loop Videos with Filmora for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gratuitous-sound-solutions-years-best-lut-downloads/"><u>[New] Gratuitous Sound Solutions - Year's Best LUT Downloads</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-a-step-by-step-guide-for-earning-with-youtube-shorts/"><u>[New] In 2024, A Step-by-Step Guide for Earning with YouTube Shorts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unlocking-the-full-potential-of-high-dynamic-range-photos-using-lightroom/"><u>[New] In 2024, Unlocking the Full Potential of High Dynamic Range Photos Using Lightroom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-optimal-speech-recognition-the-google-methodology/"><u>[New] Optimal Speech Recognition The Google Methodology</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-powerdirector-app-complete-review-and-guide-2024/"><u>[Updated] PowerDirector App Complete Review & Guide 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-need-to-learn-about-halftone-effects-learn-how-to-quickly-create-a-halftone-effect-in-adobe-photoshop-with-simple-easy-to-follow-instructions./"><u>2024 Approved Need to Learn About Halftone Effects? Learn How to Quickly Create a Halftone Effect in Adobe Photoshop with Simple, Easy-to-Follow Instructions</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-do-velocity-edits-on-pc-for-2024/"><u>How to Do Velocity Edits on PC for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-use-montage-with-these-movies/"><u>In 2024, Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-6-ways-to-mimic-professional-filming-gears/"><u>New 6 Ways to Mimic Professional Filming Gears</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-discover-the-process-of-slowing-down-time-lapse-videos-on-your-iphone/"><u>New Discover the Process of Slowing Down Time-Lapse Videos on Your iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-synchronizing-your-audio-and-videos-properly-in-2024/"><u>New Guide to Synchronizing Your Audio And Videos Properly, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-inactive-screen-time-windows/"><u>Personalized Inactive Screen Time Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-lumafusion-offers-various-look-up-table-presets-or-luts-such-as-filmic-delog-and-filmic-deflat-and-several-stylistic-luts-for-use-with-neutral-use-v/"><u>Updated LumaFusion Offers Various Look Up Table Presets, or LUTs, Such as FiLMiC deLog and FiLMiC DeFlat, and Several Stylistic LUTs for Use with Neutral Use Video. You Can Also Manually Add the LUTs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/users-guide-to-anker-maggo-portable-3-in-1-wireless-charger-review-the-ultimate-compact-and-flexible-charging-solution/"><u>User's Guide to Anker MagGo Portable 3-in-1 Wireless Charger Review: The Ultimate Compact and Flexible Charging Solution</u></a></li>
 </ul></div>
 

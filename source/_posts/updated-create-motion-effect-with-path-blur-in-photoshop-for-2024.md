@@ -1,7 +1,7 @@
 ---
 title: Updated Create Motion Effect with Path Blur In Photoshop for 2024
-date: 2024-09-20T19:11:39.189Z
-updated: 2024-09-27T20:50:03.936Z
+date: 2024-09-26T21:41:33.043Z
+updated: 2024-10-03T07:49:06.381Z
 tags: 
   - ai
   - animation videos
@@ -27,6 +27,13 @@ Path blur works by adjusting two variables: Speed and Taper. By adjusting the sp
 
 This effect can instantly add new dimensions to your captured photo. For instance, if you have captured a photo of a racing car, you can add a path blur effect to give a sense of speed to it. You can easily find this special effect in Adobe Photoshop. By using the selection tools, you can effectively add a path blur effect to your image in the selected area. To know more about path blur in Photoshop, continue reading this article.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Use Path Blur in Photoshop?
 
 Photoshop is undoubtedly the most commonly used tool to edit pictures with great configuration options. After uploading the image, you can quickly transform it by adding new effects, filters, and layers. You can retouch your photography efficiently through this tool by increasing the quality of pictures. Moreover, the clean user interface of Photoshop allows you to utilize the advanced functions without any interruptions.
@@ -43,25 +50,11 @@ Step2 Now proceed to the "Filter" section and locate the option "Blur Gallery". 
 
 ![choose the path blur](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Create a Long Exposure Picture
 
 Step1 Navigate to the Adobe Photoshop tool and begin by uploading a picture. Afterward, go to the "Filter" tab and select "Convert for Small Filters."
 
 ![select convert for the smart filters option](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Now go to the "Filter" tab again and choose the "Blur Gallery" option. From there, select the "Path Blur" option. Now adjust the displayed arrow in a particular direction to decide the starting and endpoint of the path blur. Moreover, modify the "Speed" slider according to your choice.
 
@@ -70,6 +63,13 @@ Step2 Now go to the "Filter" tab again and choose the "Blur Gallery" option. Fro
 Step3 After dragging the arrow in a particular direction, a blue dot will appear at the center. Press the "Delete" button to eliminate that point. Now select the endpoint of the arrow and change its blur shape.
 
 ![delete the blue dot](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Utilize the noise section to add a grainy effect in the blurred area. Once done, click on the "OK" button. Now select the masking tool to select the area in your picture. Afterward, choose the "Smart Mask" filter and then navigate to the "Fill" option given in the "Edit" section.
 
@@ -83,22 +83,22 @@ Step6 Now add the first layer and choose the option "Convert for Smart Filters."
 
 ![tap on convert for smart filters option](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-9.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step7 Now increase the length of the arrow and press "Ctrl + Click" for Windows or "Command + Click" for Mac to reposition the path. You can also add a curve to the arrow. Enhance the speed from the right panel and uncheck the option of "Center Blur." You can increase the taper value to make the blur gradually trail off. Add a grainy filter for more enhancements.
 
 ![disable the centered blur option](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-10.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tips – The Alternative to Photoshop to Create Motion Blur Effect
 
@@ -110,13 +110,6 @@ Many users find the interface of Adobe Photoshop intimidating or challenging to 
 
 It offers more than 900 effects that you can use to add new dimensions to your photos and videos. Moreover, it provides fast processing speed for photo and video editing to help you achieve your goals conveniently.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to Produce Motion Blur Effect in Filmora
 
 If you are a beginner and want to create a motion blur effect, then use the steps mentioned below:
@@ -169,13 +162,6 @@ Once you have added the motion blur effect, you can check the results from the p
 
 ![access transitions tab](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If you want to display a sense of speed and movement in the picture, you can add a path blur effect. It's one of the types of motion blur effects that many people use in their pictures to add a dynamic element. By reading this article, you have learned how to add **path blur in Photoshop** through simple means. Moreover, you can also explore the tool Filmora to create a motion blur effect in the photos effortlessly.
@@ -191,6 +177,14 @@ If you want to display a sense of speed and movement in the picture, you can add
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Steps to Add Subtitles in Canva
 
@@ -205,6 +199,19 @@ As more than 100 million individuals use Canva every month, it’s a well-truste
 To create and edit videos flawlessly, Canva offers great options. It contains pre-sized video formats for YouTube, Facebook, and other social media platforms. If you are a beginner and struggling with ideas, Canva offers various templates of different categories, such as fitness, education, fashion, and real estate. Apart from using the built-in media library, you have complete freedom to upload your media files to add further modifications.
 
 ![canva editor interface](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Furthermore, using Canva, you can also add exciting animations and transitions to your videos to generate a smooth look. You can also add multiple overlays to add more dimensions to your video clips. Also, you can use the **Canvas captions** feature to generate customized subtitles for your video files. To learn more about Canva, let’s shed light on its key features, advantages, and pricing plans:
 
@@ -298,6 +305,13 @@ Step1 Begin by visiting the [video editor tool page of Canva](https://www.canva.
 
 ![tap on edit a video](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Now, hit the "Upload Files" button from the left panel and import the video file on this tool. Once done, navigate to the "Text" tab and tap "Add a little bit of body text." Now adjust the position of the text box according to your desire. You can write your **Canva captions** by choosing your preferred font, color, size, and style.
 
 ![upload your video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-4.jpg)
@@ -326,25 +340,11 @@ Download and launch Filmora on your desktop to initiate the process. On its main
 
 ![import your video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2 Select Speech-to-Text Feature
 
 Once done with uploading the file, drag the video file to the timeline. Click on the “Speech-to-Text” icon displayed on the timeline and hit the “OK” button after selecting the required language and file. After some seconds, subtitles would be automatically added to the timeline.
 
 ![customize speech to text options](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3 Add Modifications to Subtitles
 
@@ -373,19 +373,6 @@ Being a non-technical individual, adding subtitles may sound tricky. To provide 
 Adding text to any video can serve to improve the quality of the video or emphasize a section of the video. But unlike adding text to an image, adding even simple text to a video can be quite difficult. But there are video editing tools that can significantly simplify this process.
 
 Before we look at one of the best video editing tools that you can use to add text to your video, let’s first look at why adding text to your video may be important.
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Insert Titles to Videos?
 
@@ -466,6 +453,13 @@ If you would like to go just a little bit further in editing your text, click on
 Here, you will see more options including the ability to add more elements such as adding new text boxed shapes or images.
 
 With each of these elements, you can also change the font color, animation, opacity, border, fill and shadow.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Related FAQs about Text Video Editing
 
@@ -617,6 +611,13 @@ Adjusting a node to a new color space has an immediate and noticeable impact on 
 
 You also have control over the Saturation and Exposure settings. These are wonderful to have if you want to increase the contrast in your photographs and make particular colors more vivid or muted.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Masks
 
 Using the Shape Masks feature, each of these individual effects can be perfect for particular regions of your footage. In addition, by utilizing a Color Mask, you can alter the appearance of a specific color. It is possible to apply multiple iterations of each color adjustment to a clip and find it listed under the Effect heading.
@@ -667,14 +668,19 @@ Beginning to experiment with all of Final Cut Pro X's functions and determining 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-ai-muse-elevating-content-and-creativity/"><u>ChatGPT as Your AI Muse: Elevating Content and Creativity</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/o-impact-in-depth-youtube-video-editing-mastery-for-2024/"><u>Cut to Impact In-Depth Youtube Video Editing Mastery for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-the-best-27-transcription-applications-expert-insights-from-movavi/"><u>Discover the Best 27 Transcription Applications - Expert Insights From Movavi</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-freezing-and-stuttering-in-valheim-for-a-smooth-gaming-experience/"><u>How to Overcome Freezing & Stuttering in Valheim for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-8-how-to-unlock-a-disabled-iphone-8-by-drfone-ios/"><u>In 2024, Disabled iPhone 8 How to Unlock a Disabled iPhone 8?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/aptivate-audiences-with-perfectly-tailored-youtube-descriptions-for-2024/"><u>[New] Captivate Audiences with Perfectly Tailored Youtube Descriptions for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-propel-your-presence-on-tiktok-strategic-application-of-template-videos/"><u>[New] In 2024, Propel Your Presence on TikTok Strategic Application of Template Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-/"><u>2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/crafting-chronological-displacement-effects/"><u>Crafting Chronological Displacement Effects</u></a></li>
+<li><a href="https://fox-info.techidaily.com/effortless-image-edit-eliminating-backdrops-in-canvas/"><u>Effortless Image Edit Eliminating Backdrops in Canvas</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/enabling-apple-watch-spotify-music-downloads-without-using-an-iphone/"><u>Enabling Apple Watch Spotify Music Downloads Without Using an iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-replace-the-hard-drive-on-playstation-5-an-in-depth-tutorial/"><u>How to Replace the Hard Drive on PlayStation 5: An In-Depth Tutorial</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-chrome-voice-modifiers-select-top-5-extensions/"><u>Leading Chrome Voice Modifiers Select Top 5 Extensions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-make-timelapse-video-with-imovie/"><u>New 2024 Approved Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-comment-on-youtube-live-chat/"><u>New In 2024, How to Comment on YouTube Live Chat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unique-14-motion-graphics-showcasing-text-for-2024/"><u>Unique 14 Motion Graphics Showcasing Text for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated 2024 Approved Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-take-your-video-editing-to-the-next-level-with-video-scopes/"><u>Updated Take Your Video Editing to the Next Level with Video Scopes</u></a></li>
 </ul></div>
 

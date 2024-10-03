@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article
-date: 2024-09-13T23:03:23.903Z
-updated: 2024-09-18T16:03:08.562Z
+date: 2024-10-02T10:17:26.255Z
+updated: 2024-10-03T13:39:39.121Z
 tags: 
   - ai
   - animation videos
@@ -36,6 +36,19 @@ Therefore, presenting us with a challenge, so if you someday come across a situa
 Before getting into the editing process handicapped from resources, you need to be familiar with the software that we will use. We will use [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) You can click the link below and catch it up.
 
 ![buying wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-2.gif)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Create a Music Video Without a Keyboard
 
@@ -77,13 +90,6 @@ If you like to add a more **classical vibe**, pick a classical song or audio fro
 * Now random **close-up shots** of a piano, cinematic footage of a big **orchestra**, or simple landscapes with minimalistic movement while focusing on a single object, consider the example below.
 
 ![still shot of a bench](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-5.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now that a scenario is constructed, our next step is to arrange these clips in the Wondershare Filmora timeline.
 
@@ -148,6 +154,13 @@ If you have time, you can also add a few of the effects in the Wondershare Filmo
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** you can do so as many times as you want for the remaining video clips in the timeline.
 
 It seems our 15 minutes are running out! Play the music video from the beginning and review the edits you made. Then, finalize your edits and Voila. You have successfully created a music video using a mouse on Wondershare Filmora.
@@ -169,13 +182,6 @@ Step 6\. Finishing touches
 You can add some transitions to give your music video a fine touch**.** To add transitions, you can follow the below steps:
 
 ![adding effects on wondershare filmora 11](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-8.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * First, **click** on the transition icon on the bar above. Then, browse as far as your imagination takes you.
 * If the effect you want still needs to be downloaded, click on the **download** icon in the bottom right corner and download the effect.
@@ -221,6 +227,13 @@ With just a mouse, you have created a music video! How easy is that? Try differe
      data-ad-slot="1223367746"></ins>
 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Make Censor Effects with Filmora
 
 There are many aspects to consider when it comes to publishing a video. Safety and privacy aspects are some of them. If you're looking to blur out a bystander or cut out profanities from your video with Filmora, this is the right article for you.
@@ -232,13 +245,6 @@ Filmora's powerful video editing menu includes easy tweaking on audio. You can c
 Step1 Create a new project and import the video to Filmora.
 
 ![import the video to filmora](https://images.wondershare.com/filmora/article-images/2022/12/censor-effects-with-filmora-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Separate the audio component from the video by right-clicking on the video and selecting the Detach Audio option. You can now edit each of them individually.
 
@@ -256,6 +262,13 @@ Step5 Click the **Audio>Audio** Effects menu on the upper left corner of the scr
 
 ![adjust the sound effect placement](https://images.wondershare.com/filmora/article-images/2022/12/censor-effects-with-filmora-5.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to add mosaic to video with Filmora
 
 Whether you want to hide a passerby's face or your own, or even other types of objects, Wondershare Filmora is ready to take on the task. While its nifty face-off function automatically follows the movement of a marked face, the mosaic effect is the fast and perfect solution for a static object in the video.
@@ -263,6 +276,13 @@ Whether you want to hide a passerby's face or your own, or even other types of o
 Step1 After importing a video to Filmora, tap on the Effects tab and find the Mosaic filter from the gallery.
 
 ![find the mosaic effect from the effects library](https://images.wondershare.com/filmora/article-images/2022/12/censor-effects-with-filmora-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Drag the Mosaic filter to the timeline just above the main video track.
 
@@ -320,6 +340,13 @@ Step5Play a video and you will see a Picture in Picture window in the top-left c
 
 Step6Wherever you place the rectangular box in PiP window, that part will be zoomed and shown outside the PiP window. You can increase or decrease the level of magnification from the vertical slider present below PiP window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Zoom Video Using VLC Video Menu
 
 Apart from Interactive Zoom, there is also an inbuilt Zoom option available under Video Menu. While Interactive Zoom is for detailed zooming, Zoom through Video menu on VLC is for instant zooming. Moreover, Zoom through Video menu is effective only when you view the video on VLC Player. If you are watching the video on full screen, the zooming effect will not be easily noticeable. Here are the steps on how to zoom in VLC player using VLC Video menu.
@@ -331,13 +358,6 @@ Step2Go to Video menu and select Zoom option.
 Step3You will come across several options such as 1:4 quarter, 1:2 half, 1:1 original, and 2:1 double. You can select from one of them as per your requirements.
 
 ![zoom in vlc](https://images.wondershare.com/filmora/article-images/2022/07/choose-vlc-zoom-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Otherwise, you can press Shift + Z keys together to try out different zoom options.
 
@@ -380,10 +400,10 @@ Step 5: Go to Pan & Zoom tab and move the rectangular box and play the video to 
 ![zoom in vlc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -404,6 +424,13 @@ Step 5: Go to Pan & Zoom tab and move the rectangular box and play the video to 
 
 ![zoom in vlc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There are several scenarios when you need to zoom into a video to focus on the details. VLC Media Player comes with instant zoom as well as detailed zoom options to satisfy your requirements. You can even use Magnifier App on Windows to zoom into videos. But for the best result, we recommend Wondershare Filmora as the best VLC Player alternative for zooming videos.
@@ -422,5 +449,21 @@ There are several scenarios when you need to zoom into a video to focus on the d
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discover-the-best-12-free-and-paid-video-game-openings-for-yt/"><u>[New] 2024 Approved Discover the Best 12 Free and Paid Video Game Openings for YT</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-illuminating-interactions-mastering-animate-texts-in-stories/"><u>2024 Approved Illuminating Interactions Mastering Animate Texts in Stories</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/acer-xfa240-assessment-prioritizing-performance-and-utility/"><u>Acer XFA240 Assessment: Prioritizing Performance and Utility</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/decoding-the-history-of-ai-how-old-is-this-revolutionary-tech/"><u>Decoding the History of AI: How Old Is This Revolutionary Tech?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/heroic-measures-against-a-corrupted-disk-in-steam-games-a-simple-fix-guide/"><u>Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oppo-k11x-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Oppo K11x to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/local-vs-global-is-a-local-large-language-model-right-for-your-needs/"><u>Local vs Global: Is a Local Large Language Model Right for Your Needs?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/resolved-troubleshooting-guide-overcoming-world-of-warcraft-wont-start-on-pc/"><u>Resolved: Troubleshooting Guide - Overcoming 'World of Warcraft Won't Start' On PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-setup-error-code-c1900101-on-pc/"><u>Resolving Setup Error Code C1900101 on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-issue-repairing-game-instability-in-resident-evil-4-remastered/"><u>Resolving the Issue: Repairing Game Instability in Resident Evil 4 Remastered</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-google-pixel-8-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Google Pixel 8 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-fraudgpt-essential-tips-to-shield-yourself-from-hazardous-chatbots/"><u>Understanding FraudGPT: Essential Tips to Shield Yourself From Hazardous Chatbots</u></a></li>
+</ul></div>
 

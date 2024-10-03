@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Adobe Lightroom Color Grading Tutorial
-date: 2024-09-21T22:43:32.669Z
-updated: 2024-09-28T00:48:54.809Z
+date: 2024-09-29T18:14:09.741Z
+updated: 2024-10-03T06:52:41.656Z
 tags: 
   - ai
   - animation videos
@@ -147,6 +147,13 @@ Drag or drop the files from Media Library or Click on “_Import”_ after selec
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-4.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step:2**
 
 Keep hanging the mouse on the corner of the video until and unless the trimming icon appears. So, you can drag ahead or in a backward direction at the endpoints of the video you want to trim.
@@ -158,13 +165,6 @@ Keep hanging the mouse on the corner of the video until and unless the trimming 
  You don’t want the video parts in the centre of the video clips. First, split the video and delete it. For splitting the video, click on the icon of the scissor.
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-6.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step: 4**
 
@@ -178,6 +178,13 @@ Apart from the above steps for trimming and splitting the videos in Wondershare 
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-8.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In the latest version of the Wondershare Filmora, you can even trim the video without adding it to the timeline. A similar video can easily split multiple times and load only the required one. Go through the following steps to split the clips in a faster way:
 
 1. You can easily preview the video first from the library of your media files.
@@ -188,10 +195,10 @@ In the latest version of the Wondershare Filmora, you can even trim the video wi
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-9.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Although various editing software is available, Wondershare Filmora has to be on the top. It is the best choice to bring your imagination into reality, whether it is transitioning, applying the effects or importing/exporting the videos. All the options are suitable in front and visible on your timeline. Wondershare Filmora supports different operating systems as well. Even no proper training is required, so start using Wondershare Filmora today to get your editing done.
@@ -209,20 +216,6 @@ You can also split the number of video and audio clips at the exact timings in D
 **Step 2:** Just keep pressing **Command or Control + \\** keys, or click on **timeline> Split Clip.** The selected clips of audio and video get split together now. No more slitting of the clips individually. This option is more appropriate for you when creating and managing different parts of massive projects.
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **An easier way to split the video clips**
 
@@ -256,6 +249,13 @@ Drag or drop the files from Media Library or Click on “_Import”_ after selec
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-4.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step:2**
 
 Keep hanging the mouse on the corner of the video until and unless the trimming icon appears. So, you can drag ahead or in a backward direction at the endpoints of the video you want to trim.
@@ -294,6 +294,13 @@ Although various editing software is available, Wondershare Filmora has to be on
 **Step 2:** Import and place the media file on the timeline from the library. This is the clip you want to split. Select the blade tool from where you want to split the clip. Use the _timeline_ from the menu and go to _Split Clip_. Shortcut keys are also available that are Ctrl+\\ or Cmd+\\ or Cmd+B. Now the split clip is easily visible to you. You can use this clip wherever you want to use it.
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Part 2- Splitting of more than one clip on various tracks:**
 
@@ -676,6 +683,13 @@ Step8 To blur the edges of the effects, turn up the softened slider and remove a
 
 ![blurring the edges of effects](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In this way, you can add a selective color effect to your video clips and isolate the color of your choice.
 
 ## Tutorial 2 on make color isolation using eyedropper tool
@@ -686,16 +700,16 @@ Step1 As same as the first one, launching Wondershare Filmora is the first prior
 
 ![drag clip to timeline](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Go to effects at the top, and find Newblue effects, and click on the Newblue filters.
 
 ![newblue effects and filters](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Find the selective color effect and drag it to the clip.
 
@@ -708,6 +722,13 @@ Step4 Double-click on the clip and visit the effects menu at the top of the scre
 Step5 Click on the ‘first color’ and select the eye dropper tool. This will allow us to select the red flower in the preview window. You can also click different parts of the image to get the color that we want.
 
 ![select the first color and eye dropper tool](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step6 Next, try selecting a second color to isolate within our shot. In this example, we are going to make the stems on the flowers stand out as well. Select second color and go to the tint section. And find a color that is close to the second color, which will be green in this case.
 
@@ -745,13 +766,6 @@ Step5 Open the preset drop-down menu. There will be a lot of presets with differ
 
 ![select the preset](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step6 If you see a blue tint at a place or object which you want to be white and black, click on the first color.
 
 ![first color](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-7.jpg)
@@ -764,13 +778,6 @@ Step8 To blur the edges of the effects, turn up the softened slider and remove a
 
 ![blurring the edges of effects](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In this way, you can add a selective color effect to your video clips and isolate the color of your choice.
 
 ## Tutorial 2 on make color isolation using eyedropper tool
@@ -780,13 +787,6 @@ You might ask how do we use the eyedropper tool here. It can sample colors from 
 Step1 As same as the first one, launching Wondershare Filmora is the first priority. And drag your clip to the timeline.
 
 ![drag clip to timeline](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Go to effects at the top, and find Newblue effects, and click on the Newblue filters.
 
@@ -834,14 +834,22 @@ Follow all the steps in the correct order. This is how you can use NewBlue effec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
-<li><a href="https://os-tips.techidaily.com/extend-your-battery-life-with-ease-master-the-ins-and-outs-of-iphones-low-power-feature/"><u>Extend Your Battery Life with Ease: Master the Ins and Outs of iPhone's Low Power Feature</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oneplus-nord-ce-3-lite-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass OnePlus Nord CE 3 Lite 5G FRP</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-orchestrate-your-pixels-with-offline-harmony/"><u>In 2024, Orchestrate Your Pixels With Offline Harmony</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-mobility-with-the-hp-zbook-firefly-15-g8-review-a-revolutionary-laptop-unveiled/"><u>Mastering Mobility with the HP ZBook Firefly 15 G8 Review: A Revolutionary Laptop Unveiled</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-apply-video-filters/"><u>New In 2024, How to Apply Video Filters</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-when-geforce-cant-access-your-settings/"><u>Troubleshooting Tips: When GeForce Can't Access Your Settings</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-skyrocket-your-rankings-top-youtube-seo-gadgets/"><u>[Updated] 2024 Approved Skyrocket Your Rankings Top YouTube SEO Gadgets</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-zero-cost-green-screens-for-professionals-for-2024/"><u>[Updated] Zero-Cost Green Screens for Professionals for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-hp-chromebook-11-analysis-ideal-for-learning-productivity-and-entertainment/"><u>Comprehensive HP Chromebook 11 Analysis: Ideal for Learning, Productivity & Entertainment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-google-wifi-revolutionizing-home-networking-for-users-everywhere/"><u>Expert Insights on Google Wifi – Revolutionizing Home Networking for Users Everywhere</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-new-compact-feature-in-google-chromes-latest-trial/"><u>Exploring the New Compact Feature in Google Chrome's Latest Trial</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-honor-70-lite-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Honor 70 Lite 5G Devices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-correct-lens-distortion-with-filmora/"><u>How to Correct Lens Distortion With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-vintage-film-effect-1950s-for-2024/"><u>How to Make Vintage Film Effect 1950S for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-f25-pro-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo F25 Pro 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-inside-the-studio-how-magix-video-pro-x-simplifies-production/"><u>In 2024, Inside the Studio How Magix Video Pro X Simplifies Production</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-6-tips-for-your-first-facebook-ads/"><u>New In 2024, 6 Tips for Your First Facebook Ads</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-images-into-video-kapwing-tutorial/"><u>New In 2024, How to Convert Images Into Video - Kapwing Tutorial</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-motion-blur-photo-with-gimp-step-by-step-guide-for-2024/"><u>New Motion Blur Photo With GIMP Step-By-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-something-about-skin-care-vlog-ideas/"><u>New Something About Skin Care Vlog Ideas</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>Updated How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
 </ul></div>
 

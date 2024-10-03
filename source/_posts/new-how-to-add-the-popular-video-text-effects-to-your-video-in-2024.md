@@ -1,7 +1,7 @@
 ---
 title: New How to Add the Popular Video Text Effects to Your Video, In 2024
-date: 2024-09-27T04:12:05.136Z
-updated: 2024-09-28T01:53:57.970Z
+date: 2024-09-29T21:15:52.004Z
+updated: 2024-10-02T17:52:49.498Z
 tags: 
   - ai
   - animation videos
@@ -38,6 +38,19 @@ Text swipe effects are the most commonly used in today’s videos on social medi
 
 If you want to show short texts and you do not want to experiment with text animations, the text swipe effect is the safest option. For example, if you want to display your social media handles, your location, a coupon code, or a correction phrase that you have uttered wrongly, text swipe effects should be on your video.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Type Text Effect
 
 The type text effect in Filmora is referred to as the typewriter text effect in Premiere Pro and After Effects. The effect displays the text as if it is being typed in real-time as it is done in a typewriter. The characters will appear on the screen with a cursor on the screen and therefore, it takes more duration than most other text effects.
@@ -61,13 +74,6 @@ If you want to add uniqueness to text animations so that you can make the audien
 The color text effect is becoming extremely popular and it is widely used for opening and ending credits. Flashing different colors through your texts and titles against a darker background can act as a feast for the human eyes. There are different types of color text effects available that can make your text stand out.
 
 When you are using color text effect, you need to maintain a large font size for your text so that it is widely visible. Even if your background is not dark, you can use a darker box in the background of the text or a darker frame around the text to amplify the effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Bounce to Zoom Effect
 
@@ -97,13 +103,6 @@ Step3 Search for a popular text effect from the search box. Select a text effect
 
 You can edit the style from fonts and settings section. You can also go to Advanced section available for more minute editing and get the desired text effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If texts are an essential part of your video, you should apply amazing video editing text effects to the texts and titles present in your video. You can use the common and the popular video text effects as well as use unique text effects to make your video stand out easily. There is no better video editor to add text effects to your video other than [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for its unlimited text effect and animation templates.
@@ -111,6 +110,13 @@ If texts are an essential part of your video, you should apply amazing video edi
 Part 1\. Popular text effects in Filmora
 
 There are unlimited text effects available in Filmora but some of them are extremely popular that video creators regularly use in their videos. Here is the list of the popular Filmora video editor text effects that you should be aware of.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Text Swipe Effect
 
@@ -135,13 +141,6 @@ The WordArt effect is particularly popular while displaying titles and funny tex
 If you want to create text animations as per your requirements, you have to use keyframes in any video editor. You can always apply the ready-made video editing text effects but if you want to customize and personalize, you can add keyframes in between two timestamps. Thereafter, you need to change text styles and parameters for each frame so that it looks like an animation.
 
 If you want to add uniqueness to text animations so that you can make the audience wonder and appreciate, keyframes are the way. Adding keyframes in the text layer on Filmora is super easy and you can get effects like texts slowly scaling up, dancing randomly, changing fonts, and much more.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Color Text Effect
 
@@ -216,19 +215,6 @@ Therefore, the video editor can save a lot of time in editing and the editing st
 
 You can replace green screens with anything you want. It could be a still image of a beautiful studio with 3D effect like you see in case of YouTubers and gamers. It could be a moving, real-life landscape on any place in the world instead of a beautiful background picture. Similarly, it could be replaced by video effects such as explosions, stadiums full of people, battlefields, and likewise. At times, it could be live animations as you see on TV channels.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How To Create DIY Green Screen Stand Setup and Add Green Screen Effect?
 
 If you want to have a green screen setup for your video, you need to have the following things ready.
@@ -280,6 +266,13 @@ Step 3: Get The Best Video Editor For Green Screen Effect
 There are various video editors available, but not all of them are suitable for green screen effect. We recommend Wondershare Filmora as the best video editor to apply green screen effects on your video while editing. The reason behind the recommendation is that the steps to replace the green screen with any image or video are super simple and anyone can do it. There is no need to be a professional video editor.
 
 Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -371,6 +364,13 @@ The amount of the image that is judged to be in the highlights, shadows, or midt
 
 Move to the HSL/Color Panel, which stands for Hue, Saturation, and Luminance, after your image is ready to use. It is located under Tone Curve in the Develop Panel. This adjustment panel, in contrast to the ones stated before, will let you change different colors in your image independently of one another. Hue, Saturation, and Luminance are the three modifications that each color will receive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Hue
 
 Hue is measured in terms of the color wheel's degrees. It's possible to change the color's real shade in this panel. For instance, you can modify the turquoise or blue to a more greenish tone if your scenario is a beach (as in our example photo). It's advisable to begin making adjustments to your panel's Hue before moving on to the others.
@@ -380,22 +380,15 @@ Hue is measured in terms of the color wheel's degrees. It's possible to change t
 The strength of the hue is known as saturation. (Remember that this HSL panel modification only affects the saturation of individual colors, not the saturation of the entire image.) In order to achieve a more subdued, muted appearance for this example, I reduced the Saturation on the aqua, blue, and green hues. To increase the intensity of your shot, you can do the exact reverse. Find the tweaks that suit your photo and the appearance you want to achieve best.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Luminance
 
 Each color's luminance measures how brightly it reflects light. Use this tool to brighten or darken specific areas of your image (it works especially well to provide contrast to black and white images). To make the water and sky behind the model darker in this example photograph, I decreased the Luminance setting on the aqua panel.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Adjustment Brush
 
@@ -418,6 +411,13 @@ Utilize each panel to practice and experiment. There is no right or wrong method
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Subtitles to Videos With Kapwing
 
@@ -479,13 +479,6 @@ Step 3 After adding the complete subtitles, you can choose their font, style, co
 
 ![export the edited video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to Add Subtitles to Videos with the Best Alternative of Kapwing
 
 If you are not satisfied with the performance of the Kapwing subtitle maker, you can try the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) tool. As Kapwing is an online tool, it does come with certain restrictions. For example, the time to upload video files on this tool can be time-consuming. Moreover, you would need a strong internet connection throughout. But, with Filmora, you can add subtitles to your video files without facing file size restrictions.
@@ -508,11 +501,25 @@ From the timeline, locate the feature of "Speech to Text." Now choose the langua
 
 ![specify speech to text settings](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3 Customize Subtitles and Save the Changes
 
 After the conversion, you can double-click the added subtitles to make modifications. After making the adjustments, hit the "OK" button. Now go to the "Export" button and select the video format in which you want to export the video, or you can also share it on social media platforms.
 
 ![confirm the subtitle edits](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -533,13 +540,6 @@ Launch Filmora on your PC and click on the "Create New Project" button to open t
 From the timeline, locate the feature of "Speech to Text." Now choose the language in which you want to create the subtitles and specify the other settings as well. Afterward, tap on the "OK" button to begin the process.
 
 ![specify speech to text settings](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3 Customize Subtitles and Save the Changes
 
@@ -567,21 +567,18 @@ By adding subtitles to your video, you can enhance your targeted audience and ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-learn-how-to-add-descriptive-texts-to-your-youtube-videos/"><u>[New] 2024 Approved Learn How to Add Descriptive Texts to Your YouTube Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-saves-free-and-without-end/"><u>[New] In 2024, Instagram Saves Free and Without End</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/earn-the-easy-tricks-for-eliminating-unwanted-youtube-content-pcmobile/"><u>[New] Learn the Easy Tricks for Eliminating Unwanted Youtube Content (PC/Mobile)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-seek-a-guide-to-add-motion-in-blender-this-article-explains-the-blender-motion-blur-effect-in-detail-and-helps-you-master-it/"><u>2024 Approved Do You Seek a Guide to Add Motion in Blender? This Article Explains the Blender Motion Blur Effect in Detail and Helps You Master It</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-in-this-article-you-will-learn-easy-ways-to-edit-videos-using-a-mouse-in-wondershare-filmora-you-can-do-video-editing-without-a-keyboard-after/"><u>2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-the-leading-7-nft-conversion-services/"><u>2024 Approved Ultimate Guide The Leading 7 NFT Conversion Services</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/covertly-capturing-screenshots-on-snapchat-top-strategies-and-techniques/"><u>Covertly Capturing Screenshots on Snapchat: Top Strategies and Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/expert-methods-for-win10-game-screen-recording/"><u>Expert Methods for Win10 Game Screen Recording</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-coin-magic-with-filmora/"><u>In 2024, How to Make Coin Magic With Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-video-fade-to-black-in-movie-maker/"><u>In 2024, How to Make Video Fade to Black in Movie Maker</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/keep-your-data-safe-on-social-media-change-your-facebook-passcode-now/"><u>Keep Your Data Safe on Social Media: Change Your Facebook Passcode Now!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-share-youtube-video-on-zoom-in-2024/"><u>New How to Share YouTube Video on Zoom, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-mp3-cutter-download-for-computer-and-mobile/"><u>New In 2024, MP3 Cutter Download for Computer and Mobile</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-best-online-video-spinners-rotate-your-clips-with-ease/"><u>Updated In 2024, Best Online Video Spinners Rotate Your Clips with Ease</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-editing-experience-workshop/"><u>[New] In 2024, Editing Experience Workshop</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-navigating-video-chats-zooming-in-on-xbox-for-2024/"><u>[New] Navigating Video Chats Zooming In on Xbox for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-complete-process-of-logging-google-voice-calls/"><u>[Updated] 2024 Approved The Complete Process of Logging Google Voice Calls</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-windows-movie-maker-save-mp4-file/"><u>2024 Approved How Windows Movie Maker Save MP4 File</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/blender-green-screen-effects-for-2024/"><u>Blender Green Screen Effects for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-videos-to-life-best-animated-text-apps-for-mobile/"><u>Bring Your Videos to Life Best Animated Text Apps for Mobile</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-logitech-c920-camera-malfunctions-quickly/"><u>How to Resolve Logitech C920 Camera Malfunctions Quickly</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-how-to-create-luts-with-luts-generator/"><u>New 2024 Approved Learning How to Create LUTs with LUTs Generator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/record-ps4-with-obs-full-guide-for-2024/"><u>Record PS4 with OBS Full Guide for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-idt-high-definition-audio-codec-driver-issue-resolution/"><u>Windows 11 IDT High Definition Audio Codec Driver Issue Resolution</u></a></li>
 </ul></div>
 

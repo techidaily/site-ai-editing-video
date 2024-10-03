@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Rules of Thirds
-date: 2024-09-15T00:40:24.503Z
-updated: 2024-09-18T23:27:25.171Z
+date: 2024-09-29T00:38:09.430Z
+updated: 2024-10-02T23:17:00.027Z
 tags: 
   - ai
   - animation videos
@@ -73,6 +73,13 @@ The rule is very useful when you're aiming to grab the attention towards a certa
 
 Even when working with a symmetrical scene you can incorporate the rule within for elements such as people or key figures but in this situation it is down to the creator to figure what they feel is best in any given shot.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Rule of Thirds in Filmora
 
 The tools provided within Filmora are generous and one great feature is the crop and size tool.
@@ -84,13 +91,6 @@ For reference I will show you what this looks like.
 First right click the timeline on the image you want to reposition. Alternatively you can select the desired insert and press Alt+C this will also bring up the same editing box.
 
 ![crop rule of thirds video](https://images.wondershare.com/filmora/article-images/2022/11/crop-rule-of-thirds-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now click on the crop and zoom option and this editor will appear.
 
@@ -137,6 +137,19 @@ Keyframe Intervals, also known as "Keyframe Frequency" in Adobe Flash Media Live
 Keyframe Intervals are the distance in time between two keyframes. For example, if an animation is set to every 2 seconds interval and the frame rate is 30 per second, it means that every 60 frames, a keyframe is created.
 
 ![keyframe interval in a video](https://images.wondershare.com/filmora/article-images/2022/07/keyframe-interval-in-a-video.png)
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How Does Keyframe Interval Work?
 
@@ -190,6 +203,13 @@ Step2 From the bottom right of the screen, open the **"Settings"** menu.
 
 ![obs studio settings menu](https://images.wondershare.com/filmora/article-images/2022/07/obs-studio-settings-menu.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 On the Settings Window, click **"Output"** and configure the output mode to **"Advanced."**
 
 ![setting the output mode to advance in obs studio](https://images.wondershare.com/filmora/article-images/2022/07/setting-the-output-mode-to-advance-in-obs-studio.png)
@@ -197,13 +217,6 @@ Step3 On the Settings Window, click **"Output"** and configure the output mode t
 Step4 Finally, edit the **Keyframe Interval,** set it to **2** seconds, and click **"OK"** to save your changes.
 
 ![changing the keyframe interval value on obs studio](https://images.wondershare.com/filmora/article-images/2022/07/changing-the-keyframe-interval-value-on-obs-studio.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 6\. Will Keyframe Interval Affect Your Video’s Quality?
 
@@ -258,13 +271,6 @@ Biteable is a popular online platform where you can create amazing animated text
 Step1Open your web browser and visit “biteable.com/animated/text”. Click on “Make a video with animated text” button.
 
 ![open biteable animated tool](https://images.wondershare.com/filmora/article-images/2022/08/open-biteable-animated-tool.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2Create an account by following the on-screen instructions. Click on New Video button and select “Create a video from scratch”.
 
@@ -448,6 +454,13 @@ Step1 Install Filmora on your computer (Windows or macOS). Open Filmora and sele
 
 ![open filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Drag the video file from your computer to Filmora's timeline. Choose video and tap Speed icon that you can find at the top of the timeline.
 
 ![top of the timeline](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-8.jpg)
@@ -457,10 +470,10 @@ Step3 From the menu, go to the Fast or the Slow option and select a speed preset
 ![export the file](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2\. Alter Uniform Speed
@@ -476,6 +489,19 @@ Step2 Choose the Uniform Speed option, which will open the Uniform Speed tab.
 Step3 Adjust the speed slider to change the video speed as you need.
 
 ![change the video speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-11.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 After setting the speed, click on the Ok button. Then you can export the video in any file format.
 
@@ -538,6 +564,19 @@ Step1 Install Filmora on your computer (Windows or macOS). Open Filmora and sele
 
 ![open filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Drag the video file from your computer to Filmora's timeline. Choose video and tap Speed icon that you can find at the top of the timeline.
 
 ![top of the timeline](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-8.jpg)
@@ -556,13 +595,6 @@ Step2 Choose the Uniform Speed option, which will open the Uniform Speed tab.
 
 ![uniform speed option](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Adjust the speed slider to change the video speed as you need.
 
 ![change the video speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-11.jpg)
@@ -578,6 +610,13 @@ Step1 Place the video file onto the timeline and go to the Speed icon.
 Step2 Select the Speed Ramping option. This will open the Speed Ramping tab.
 
 ![select the speed ramping option](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 You can select any preset or select the Customize option. When you select the Customize option, you can edit the graph accordingly.
 
@@ -616,5 +655,21 @@ We have answered how you can use the speed ramp DaVinci Resolve 17 to speed up y
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-video-guide-with-annotations-on-youtube-for-2024/"><u>[New] Elevate Your Video Guide with Annotations on YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-finding-the-social-beacons-in-your-interests-digital-landscape-for-2024/"><u>[New] Finding the Social Beacons in Your Interests’ Digital Landscape for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-android-and-ios-users-choice-top-playlist-saving-apps-for-youtube-for-2024/"><u>[Updated] Android & iOS Users' Choice Top Playlist Saving Apps for YouTube for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-expert-strategies-in-photo-editing-for-profound-impact/"><u>[Updated] In 2024, Expert Strategies in Photo Editing for Profound Impact</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unveiling-advantages-comprehen/"><u>[Updated] Unveiling Advantages Comprehen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-edge-computers-for-your-office/"><u>2024 Approved Leading-Edge Computers for Your Office</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-unleash-your-earning-potential-on-tiktok-in-just-8-steps/"><u>2024 Approved Unleash Your Earning Potential on TikTok in Just 8 Steps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oneplus-nord-n30-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on OnePlus Nord N30 5G?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photoshop-shake-reduction-is-it-really-useful-in-2024/"><u>Photoshop Shake Reduction - Is It Really Useful, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
+</ul></div>
 

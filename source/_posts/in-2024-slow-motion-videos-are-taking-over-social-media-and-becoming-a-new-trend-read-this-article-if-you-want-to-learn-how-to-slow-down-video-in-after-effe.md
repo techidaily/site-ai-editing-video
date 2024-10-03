@@ -1,7 +1,7 @@
 ---
 title: In 2024, Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects
-date: 2024-09-21T07:39:53.112Z
-updated: 2024-09-28T01:43:39.747Z
+date: 2024-09-25T20:11:51.369Z
+updated: 2024-10-02T21:21:11.622Z
 tags: 
   - ai
   - animation videos
@@ -164,22 +164,16 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 
 ![access time stretch feature](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** In the Time Stretch window, increase the default value of "Stretch Factor." Then click "OK," and this will slow down your clip.
 
 ![change stretch factor](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
 
@@ -194,13 +188,6 @@ Wondershare Filmora is an AI-driven software that makes task achievement accessi
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Methods to Slow Down Video in Filmora
 
@@ -225,13 +212,6 @@ Once the media is in the timeline, select it and right-click on it. From the opt
 
 ![look for uniform speed settings](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3Adjust the Speed and Preview
 
 A settings panel will appear on the right side of the screen; navigate towards it. Under the "Uniform Speed" tab, adjust the "Speed" slider to slow down your video. If its value decreases, your video will become slow motion. Further, hit the play button to preview and export your slow-mo video.
@@ -247,6 +227,13 @@ If you prefer the automated creation of slow-mo, then Filmora offers an AI Frame
 After importing media and bringing it to the timeline panel, select it. Then, navigate towards the top toolbar and select the “Tools” tab. From the expansion menu, click on the “Speed Ramping” option.
 
 ![look for speed ramping section](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 2Access the AI Frame Interpolation
 
@@ -321,13 +308,6 @@ Step3After successful uploading, you will see the video filters on the right sid
 
 ![apply filter to video clideo](https://images.wondershare.com/filmora/article-images/2022/08/apply-filter-to-video-clideo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4Finalize a video filter to apply to your video and click on Export to save the modified video on your hard drive on any desired file format.
 
 ![export filter video clideo](https://images.wondershare.com/filmora/article-images/2022/08/export-filter-video-clideo.jpg)
@@ -339,6 +319,13 @@ If you are looking for some stunning video filters to use on your video, Veed.io
 Step1Open your web browser and visit “veed.io/tools/video-filters”. Click on Get Started button.
 
 ![veedio video filter](https://images.wondershare.com/filmora/article-images/2022/08/veedio-video-filter.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2On the next screen, click on Browser or drag and drop your video file for adding video filters.
 
@@ -392,13 +379,6 @@ Step3After successful uploading, you will see all the video filters on the left 
 
 ![preview filters flexclip](https://images.wondershare.com/filmora/article-images/2022/08/preview-filters-flexclip.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4Click on the video filters one to one to apply them to the video and see which one suits the best. You can adjust the intensity of the filters as per your preference.
 
 ![apply filters flexclip](https://images.wondershare.com/filmora/article-images/2022/08/apply-filters-flexclip.jpg)
@@ -423,6 +403,13 @@ Step3Click on the video and on the right side, go to Edit tab and click on Filte
 
 ![edit video in kapwing](https://images.wondershare.com/filmora/article-images/2022/08/edit-video-in-kapwing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4You will see a host of video filters that you can apply to your video. Click on them to check them out. You can also customize the video filter by going to Adjust tab.
 
 ![preview video filters kapwing](https://images.wondershare.com/filmora/article-images/2022/08/preview-video-filters-kapwing.jpg)
@@ -430,6 +417,13 @@ Step4You will see a host of video filters that you can apply to your video. Clic
 Step5Select the best one and click on Apply Filters button. Finally, click on Export Project button to save the edited video.
 
 ![apply video filters kapwing](https://images.wondershare.com/filmora/article-images/2022/08/apply-video-filters-kapwing.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -453,13 +447,6 @@ The main focus of color grading is changing the colors and tones in your photogr
 
 All forms of photography benefit from and depend on color grading. The color grading tools in Lightroom and Photoshop will be especially appreciated by landscape and portrait photographers. If you're wondering what happened to split toning, it was replaced by the Color Grading module, which is why split toning is now referred to as color grading.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Getting to Color Grading
 
 Select the photo you want to modify and go to the develop module in Lightroom to access the Color Grading tool. Then, move your cursor down to the Color Grading menu on the right side of the screen. To see three separate color wheels, choose this.
@@ -482,13 +469,6 @@ Blending and balancing are the other two parameters that you can modify. You can
 
 The amount of the image that is judged to be in the highlights, shadows, or midtones can be changed with the balance slider. For instance, if I move the balance slider to the right, less of the highlights will show the adjustment. Only the highlights with the highest brightness will be affected by the change.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. HSL/Color Panel
 
 Move to the HSL/Color Panel, which stands for Hue, Saturation, and Luminance, after your image is ready to use. It is located under Tone Curve in the Develop Panel. This adjustment panel, in contrast to the ones stated before, will let you change different colors in your image independently of one another. Hue, Saturation, and Luminance are the three modifications that each color will receive.
@@ -500,6 +480,13 @@ Hue is measured in terms of the color wheel's degrees. It's possible to change t
 ## 5\. Saturation
 
 The strength of the hue is known as saturation. (Remember that this HSL panel modification only affects the saturation of individual colors, not the saturation of the entire image.) In order to achieve a more subdued, muted appearance for this example, I reduced the Saturation on the aqua, blue, and green hues. To increase the intensity of your shot, you can do the exact reverse. Find the tweaks that suit your photo and the appearance you want to achieve best.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Luminance
 
@@ -603,6 +590,13 @@ Find the image or video in the media library that you want to overlay over the b
 
 ![import media to overly](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3Spice up with Effects
 
 There are several choices available for adding extra effects to the video. By selecting the effect tab, you may look for more effects as well. The decision to switch to a green screen or include other components into the film is entirely up to you.
@@ -612,13 +606,6 @@ There are several choices available for adding extra effects to the video. By se
 ##### Step4Customize Effects and Save
 
 Inside the Effects window, press Ok and once you have applied the required effects to see the modifications appear on the screen. You may also add element movements to make the video seem more entertaining. Once the editing and effect adding are complete, you may export the video on the go.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -650,6 +637,13 @@ There are several choices available for adding extra effects to the video. By se
 
 Inside the Effects window, press Ok and once you have applied the required effects to see the modifications appear on the screen. You may also add element movements to make the video seem more entertaining. Once the editing and effect adding are complete, you may export the video on the go.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 An image or animation that you contribute to your movies as a video overlay will display below the video and cover the video. Overlay editing is the kind of editing that is most often utilized. It just covers over whatever is in the timeline at the location where you wish to add that clip. If necessary, you may also review the comprehensive instructions for adding images or movies as an overlay to a video, which helps in improving the video quality. With [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), video overlays allow for the sharing of additional information without interfering with the viewing of the video.
@@ -670,18 +664,16 @@ An image or animation that you contribute to your movies as a video overlay will
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-video-transit-route-tweeting-to-tumbling/"><u>[Updated] 2024 Approved Video Transit Route Tweeting to Tumbling</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-tier-mics-for-online-presenters/"><u>[Updated] In 2024, Top-Tier Mics for Online Presenters</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-8-popular-oculus-rift-games-you-should-try/"><u>2024 Approved 8 Popular Oculus Rift Games You Should Try</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-crafting-an-impressive-executive-summary-for-stakeholder-engagement/"><u>2024 Approved Crafting an Impressive Executive Summary for Stakeholder Engagement</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/boost-your-spirit-creating-motivational-status-videos/"><u>Boost Your Spirit Creating Motivational Status Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-input-limit-insights-tips-for-extending-your-queries/"><u>ChatGPT Input Limit Insights: Tips for Extending Your Queries</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unseen-reader-fb-moments-watcher/"><u>In 2024, Unseen Reader FB Moments Watcher</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-lost-reddit-content-instant-access-techniques/"><u>In 2024, Unveiling Lost Reddit Content Instant Access Techniques</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-export-video-in-filmora-for-2024/"><u>New Easy Steps to Export Video in Filmora for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/seasons-finest-ice-artistry-2022-highlights/"><u>Season's Finest Ice Artistry - 2022 Highlights</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-create-glitch-text-effect/"><u>Updated Create Glitch Text Effect</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>Updated HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-learning-how-to-create-luts-with-luts-generator/"><u>Updated Learning How to Create LUTs with LUTs Generator</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-cumulative-community-capture/"><u>[New] In 2024, Cumulative Community Capture</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-elevate-android-streaming-secrets-from-obs-studio/"><u>[New] In 2024, Elevate Android Streaming Secrets From OBS Studio</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-amusing-tones-bestringeonsite-roundup/"><u>[Updated] In 2024, Amusing Tones Bestringeonsite Roundup</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-ripper-platinum-dvd/"><u>【公式】現在も開発中のWinX DVD Ripper Platinum - 最新リッピングソフトと無料ダウンロードで、高品質DVDビデオをコピーしやすく</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-locations-for-finding-top-quality-insta-tones-and-crafting-excellent-alarms/"><u>2024 Approved Unveiling the Best Locations for Finding Top-Quality Insta Tones and Crafting Excellent Alarms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/code-39-glitches-on-your-pc-heres-how-you-can-fix-them/"><u>Code 39 Glitches on Your PC? Here's How You Can Fix Them</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-create-a-zoom-motion-blur-effect-using-photoshop-if-you-are-unaware-of-how-to-do-this-read-this-article-to-learn-simple-yet-authentic-instruc/"><u>Do You Want to Create a Zoom Motion Blur Effect Using Photoshop? If You Are Unaware of How to Do This, Read This Article to Learn Simple yet Authentic Instructions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-3-ways-to-stream-and-record-at-the-same-time/"><u>In 2024, 3 Ways To Stream And Record At The Same Time</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-best-luts-for-vlog/"><u>In 2024, Overview of Best LUTs for Vlog</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-crack-open-the-savings-wondershare-filmora-easter-discount-code-inside/"><u>Updated 2024 Approved Crack Open the Savings Wondershare Filmora Easter Discount Code Inside</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954220029-updated-in-2024-what-you-should-know-about-speech-to-text-technology/"><u>Updated In 2024, What You Should Know About Speech-to-Text Technology</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Best Practical Tips to Improve Your Lighting in the Sun for 2024
-date: 2024-09-23T09:22:17.232Z
-updated: 2024-09-27T16:06:21.250Z
+date: 2024-10-01T20:40:22.147Z
+updated: 2024-10-03T08:49:09.215Z
 tags: 
   - ai
   - animation videos
@@ -44,11 +44,25 @@ We use it outside so we can open our aperture to get nice blurry backgrounds wit
 
 ![black flag](https://images.wondershare.com/filmora/article-images/2022/12/black-flag.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Using a black piece of poster board works perfectly fine, hold it up to the sun. Also, remember to angle your "flag" to create harsh lines or fully shade your talent.
 
 **3\. Adjust your camera to fit the environment**
 
 For example, you can change the exposure of your camera to match the talent's face giving a more silhouette look.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3) Back to the Sun
 
@@ -98,13 +112,6 @@ If you shoot or film outdoors, you must learn how to cope with the unsteady natu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Make Strobe Light Text Effect?
 
@@ -168,19 +175,6 @@ Choose all files and click on Open to add them to the Filmora software. Now star
 
 ![open all of the files](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Drag the files into the timeline
 
 The background video is the first file you will drag and drop to the timeline. For the best effect, choose a flashing light background video. Next, drag the first title you edited into Track 2, right above the first one. Make sure to adjust the length of the clip to match the background video length. Repeat the same for the second snapshot, adding it above the first snapshot in the timeline.
@@ -198,13 +192,6 @@ Following it, move the slider for Edge Thickness to extend it and see the previe
 Press OK.
 
 ![tap on the compositing option](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add the sound effect
 
@@ -241,6 +228,13 @@ Move the play head to the 3-second mark from the beginning. If you need clarific
 Here, tap on the Split icon and remove the clip's first half. Then, double-click on the second half and go to Animation. Press the Add button to insert a keyframe here and change the scale and position of the title at this point. Move it to the placement you want, right above the lens flare. Also, drag the slider for the Opacity parameter to zero at this point.
 
 ![drag the slider for opacity](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Subsequently, move the play head to the point when the lens flare effect stop, which is around 2 seconds more. At this point, you have to add another keyframe and change the Opacity to 100.
 
@@ -318,13 +312,6 @@ Press OK.
 
 ![tap on the compositing option](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add the sound effect
 
 Again, you must hide the second snapshot in the timeline with the same step as before. Then, drag the sound effect to the audio track timeline next. Tap on the Play button under the Preview to see how the effect looks with the sound. Cut out the extra second of the sound effect clip to align it with the ending section of all of the other clips.
@@ -352,10 +339,16 @@ Now, play the preview again.
 ![drag and drop particles video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adjust the second title, again
@@ -459,6 +452,19 @@ In Wondershare Filmora, there are templates for the spilt screens as well. It is
 
 **Step 4:** Now it is easy to select the video and click on it. Select the audio and video clips separately. Simply edit, delete or move your audio whenever you want it to.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## An easier way to separate the audio from the video
 
 However, the DaVinci Resolve is the software of advanced level and the best choice for professionals. But its pricing that is $299, is quite disturbing for most of the users. So, they are always searching for a suitable approach and reasonable as well. And that is the first and foremost [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . You can split the audio and listen to your favourite track on any media player.
@@ -511,6 +517,13 @@ In Wondershare Filmora, there are templates for the spilt screens as well. It is
 ![separating the audio from the video](https://images.wondershare.com/filmora/article-images/2022/01/separate-audio-from-video-davinci-3.png)
 
 **Step 4:** Now it is easy to select the video and click on it. Select the audio and video clips separately. Simply edit, delete or move your audio whenever you want it to.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## An easier way to separate the audio from the video
 
@@ -680,6 +693,13 @@ If you are interested in making a slideshow, animated title, transition, or logo
 
 ![templates for premiere pro by videohive](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8\. [Videezy](https://www.videezy.com/free-video/premiere-pro-templates)
 
 Videezy is a fair choice if you need to access Premiere templates free in the most effortless fashion. The search bar of Videezy stock marketplace has interactive filter options. The user is free to navigate by sorting the results based on their presence on the website. Moreover, you can choose between the file type and bring productivity to the media industry.
@@ -687,20 +707,6 @@ Videezy is a fair choice if you need to access Premiere templates free in the mo
 The resolution can also be decided as Videezy offers SD, HD 720, HD 1080, 4K, and Ultra HD. Doesn’t it feel like a dream come true?
 
 ![videezy pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 9\. [Videvo](https://www.videvo.net/premiere-pro-templates/)
 
@@ -710,6 +716,13 @@ The user is free to customize titles, intros, typographs, overlays, and transiti
 
 ![videvo premiere pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 10\. [Monsterone](https://monsterone.com/video/premiere-pro-templates/)
 
 Offering Trending, Newest, Popular, and Undiscovered filtering options and choosing the right tags, Monsterone has made it to the bucket list of professionals in the field. More than 400 Premiere Pro templates can be downloaded to start working on the deadline right away.
@@ -717,19 +730,6 @@ Offering Trending, Newest, Popular, and Undiscovered filtering options and choos
 The templates can be effortlessly previewed and launched before accessing them. It helps the user make a conscious choice. The resolution can also be set as the user deems necessary.
 
 ![mosterone pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-10.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -773,21 +773,21 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-skype-meeting-recording-made-easy-for-both-oses/"><u>2024 Approved Skype Meeting Recording Made Easy for Both OSes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/captivating-audiences-instagrams-personalized-quest-style-lives-for-2024/"><u>Captivating Audiences Instagram's Personalized Quest-Style Lives for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/decoding-the-history-of-ai-how-old-is-this-revolutionary-tech/"><u>Decoding the History of AI: How Old Is This Revolutionary Tech?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/facetime-photo-retrieval-uncovering-the-secrets-of-image-location-on-ios/"><u>FaceTime Photo Retrieval: Uncovering the Secrets of Image Location on iOS</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/heroic-measures-against-a-corrupted-disk-in-steam-games-a-simple-fix-guide/"><u>Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-itel-a05s-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Itel A05s Unlock Without Password</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-kobo-forma-assessment-a-device-designed-with-dedicated-readers-in-mind/"><u>In Depth Kobo Forma Assessment: A Device Designed with Dedicated Readers in Mind</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-windows-drivers-update-for-usb-30-gigabit-ethernet-card/"><u>Latest Windows Drivers Update for USB 3.0 Gigabit Ethernet Card</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/local-vs-global-is-a-local-large-language-model-right-for-your-needs/"><u>Local vs Global: Is a Local Large Language Model Right for Your Needs?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-gaming-fixes-enjoy-a-smooth-run-with-the-latest-patch-of-wrc-10-by-fia-world-rally-championship/"><u>PC Gaming Fixes: Enjoy a Smooth Run with the Latest Patch of WRC 10 by FIA World Rally Championship</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolved-troubleshooting-guide-overcoming-world-of-warcraft-wont-start-on-pc/"><u>Resolved: Troubleshooting Guide - Overcoming 'World of Warcraft Won't Start' On PC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-avoiding-vr-nausea-for-2024/"><u>The Ultimate Guide to Avoiding VR Nausea for 2024</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos./"><u>2024 Approved Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-disappear-red-eye-effect-on-iphone-images-at-no-charge/"><u>2024 Approved Disappear Red Eye Effect on iPhone Images at No Charge</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-3d-camera-tracking-effects-in-after-effects/"><u>2024 Approved How to Use 3D Camera Tracking Effects in After Effects</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-for-a-tinted-television-conquer-the-blue-problem-with-these-eight-methods/"><u>Easy Fixes for a Tinted Television - Conquer the Blue Problem with These Eight Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-converter-transform-vob-files-to-wav-format-with-movavi/"><u>Free Online Converter: Transform VOB Files to WAV Format with Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-v30-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme V30 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-comment-on-youtube-live-chat/"><u>In 2024, How to Comment on YouTube Live Chat</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-poco-x6-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Poco X6</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-enable-and-watch-hevc-format-videos-on-your-television/"><u>Step-by-Step Guide: Enable and Watch HEVC Format Videos on Your Television</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-difference-between-time-lapse-and-hyperlapse-for-2024/"><u>Updated Difference Between Time Lapse and Hyperlapse for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-full-guide-to-funcall-voice-changer-and-its-alternatives-for-2024/"><u>Updated Full Guide to Funcall Voice Changer and Its Alternatives for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-we-know-about-the-newest-google-pixel-timepiece-speculated-cost-debut-date-and-tech-specs/"><u>What We Know About the Newest Google Pixel Timepiece - Speculated Cost, Debut Date & Tech Specs</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor V Purse | Dr.fone</u></a></li>
 </ul></div>
 

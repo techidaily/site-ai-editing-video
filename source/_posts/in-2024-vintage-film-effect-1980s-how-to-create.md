@@ -1,7 +1,7 @@
 ---
 title: In 2024, Vintage Film Effect 1980S - How to Create
-date: 2024-09-15T18:48:18.310Z
-updated: 2024-09-19T03:18:30.096Z
+date: 2024-10-01T22:05:37.581Z
+updated: 2024-10-03T11:11:24.920Z
 tags: 
   - ai
   - animation videos
@@ -123,6 +123,19 @@ Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. Yo
 
 ![import the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 First, run Wondershare Filmora and add the video with the hoop dancer on the first track. Then, move the disco ball footage right above the first video track.
 
 ##### Step2 Add an animation keyframe
@@ -173,13 +186,6 @@ Let us tell you first that GoPro is primarily a company for camera accessories. 
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Slowing Down Videos on Your GoPro: A Guide
 
 [GoPro](https://gopro.com/en/us/) offers **Sony Vegas Pro Slow Motion** to record videos in slow motion. Does using such technical equipment seem challenging for you as a new user? Follow this step-by-step guide and set the camera before recording to make a perfect slow-mo shot.
@@ -224,13 +230,6 @@ Making a slow motion means spending cognitive effort and time on a project. Thus
 
 It is a video editing software with various powerful editing features compared with GoPro Quik. This platform can perform more tasks than trimming, merging, and splitting clips. Filmora is equipped with AI technology to provide maximum ease to users. You can use this tool to ensure a smooth workflow and boost your productivity.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Why Filmora is Better Than GoPro Quik?
 
 Filmora provides many features that GoPro Quik does not offer. Everyone needs solid arguments and valid reasons to reconsider their choices. Thus, here we have highlighted some proven and logical reasons to use Filmora instead of GoPro:
@@ -270,6 +269,13 @@ Go to the official site of Wondershare Filmora and download its latest version, 
 Drag and drop the imported video in the timeline section. Place your cursor on that video and right-click on it. Hit the “Uniform Speed” option from the displayed list and direct toward the right-side editing panel. There, use the “Speed” slider and slow down the video as required. Move downward and extend the “AI Frame Interpolation” menu to pick the “Optical Flow.”
 
 ![reduce speed and set ai frame](https://images.wondershare.com/filmora/article-images/2023/gopro-slow-motion-with-quality-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 3: Preview the Results to Export or Continue to Edit
 
@@ -316,13 +322,6 @@ After recording the required clip, post-editing is important to polish the digit
 Access the GoPro Quick on your device and launch it. Choose the "Media" icon in the bottom bar and select the video you want to edit. After importing the required media files, start working on a project.
 
 ![select media to import](https://images.wondershare.com/filmora/article-images/2023/gopro-slow-motion-with-quality-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 2
 
@@ -398,6 +397,13 @@ Controlling the speed of the video enables viewers to engage with the content mu
 
 ![learning how to speed up video on splice](https://images.wondershare.com/filmora/article-images/2023/01/learn-how-to-speed-up-video-on-splice.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This article will emphasize how to speed up videos on Splice, covering the procedures and alternatives that will assist you in producing splice speed up videos.
 
 ## Part I. Beginner's Guide to Splice
@@ -433,13 +439,6 @@ This function is quite helpful for showcasing your writing abilities to friends 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** **_For a thorough review of the Splice video editing app, visit_** [**_this full review passage._**](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part II. How to Change Video Speed Using Splice App
 
@@ -499,6 +498,13 @@ Here's how you can use the customization mode on the Speed Ramping panel.
 4. Drag the white dot in the adjustment panel to change the video speed. Drag it upwards to accelerate the video speed or downwards to decelerate it.
 
 ![place the playhead to speed up](https://images.wondershare.com/filmora/article-images/2023/01/place-playhead-to-speed-up.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Splice Video Editor FAQs
 
@@ -572,13 +578,6 @@ The best thing about this feature is Filmora allows you to maintain the original
 
 ![choose the speed ramping panel](https://images.wondershare.com/filmora/guide/speed-ramping-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Here's how you can use the customization mode on the Speed Ramping panel.
 
 1. Click **Customize.**
@@ -587,6 +586,19 @@ Here's how you can use the customization mode on the Speed Ramping panel.
 4. Drag the white dot in the adjustment panel to change the video speed. Drag it upwards to accelerate the video speed or downwards to decelerate it.
 
 ![place the playhead to speed up](https://images.wondershare.com/filmora/article-images/2023/01/place-playhead-to-speed-up.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Splice Video Editor FAQs
 
@@ -670,6 +682,13 @@ Make your video short but demand more attentions to your viewers because modern 
 
 As long as you know well your topic then that’s good enough because it take some guts to get in front of the camera and be confident.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Editing and Personalize your DIY Video
 
 The last step is the process of editing and personalize your video content. There are a number of great video editing apps and programs out there, and with a quick internet search, you should be able to find one that meet your needs, skills level and budget. Editing is what really takes a video to the next level, use a powerful video editing software.
@@ -687,6 +706,13 @@ Adding in background music always helps liven up a video, just make sure the mus
 Add in your logo and branding to the video, it will make your video seem professional and customized and reminds you’re viewers of your legitimacy and expertise. Edit this one at [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Title and Filter tab you can create an extra ordinary branding that you like, make it creative and catchy so your audience will always remember your channel.
 
 ![add transitions vlog video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-transitions-vlog-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Verdict
 
@@ -711,6 +737,13 @@ Samples of DIY Vlogs
 * Write a script
 * Make your Video short but full of information
 * Edit and Personalize your video with Filmora
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Informative Content
 
@@ -778,5 +811,22 @@ Now that you know what kind of DIY videos you want to create, be ready and be pr
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-optimized-motion-the-creme-de-la-liste-of-srt-upgrades-for-pc-and-mac/"><u>[New] Optimized Motion The Crème De La Liste of SRT Upgrades for PC and Mac</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-leading-edge-social-media-movie-batch/"><u>2024 Approved Leading Edge Social Media Movie Batch</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-unleash-creativity-exclusive-free-youtube-banner-templates/"><u>2024 Approved Unleash Creativity - Exclusive Free YouTube Banner Templates</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-logitech-c615-webcam-balancing-cost-and-efficiency/"><u>Comprehensive Guide to the Logitech C615 Webcam - Balancing Cost & Efficiency</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-green-screen-in-obs/"><u>How to Add Green Screen in OBS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-google-pixel-8-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Google Pixel 8 for Free? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-maximizing-reach-tweeting-on-facebook/"><u>In 2024, Maximizing Reach Tweeting on Facebook</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-ad/"><u>New 2024 Approved Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-edit-facebook-video-ads-for-e-commerce-business/"><u>New In 2024, How to Edit Facebook Video Ads for E-Commerce Business</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/privacy-meets-innovation-connect-securely-through-duckduckgos-ai-powered-chat-options-featuring-gpt-technology/"><u>Privacy Meets Innovation: Connect Securely Through DuckDuckGo's AI-Powered Chat Options, Featuring GPT Technology</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>Updated A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-custom-filters-in-vn-app-2024-quick-guide/"><u>Updated How to Add Custom Filters in VN App 2024 Quick Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-funniest-in-the-business-5-reaction-video-makers-youll-love/"><u>Updated The Funniest in the Business 5 Reaction Video Makers Youll Love</u></a></li>
+</ul></div>
 

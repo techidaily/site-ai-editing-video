@@ -1,7 +1,7 @@
 ---
 title: New Motion Blur Photo With GIMP Step-By-Step Guide for 2024
-date: 2024-09-26T19:49:06.455Z
-updated: 2024-09-27T20:51:32.507Z
+date: 2024-09-25T21:34:06.874Z
+updated: 2024-10-03T01:31:45.282Z
 tags: 
   - ai
   - animation videos
@@ -56,13 +56,6 @@ Step3 Next, click the **“Filters”** option from the top toolbar, select **�
 
 Step4 Once you are satisfied with your changes, click **“OK”** to apply the effect to the image, and make some other edits if needed. Finally, click **“File”** from the top toolbar, choose **“Export As,”** click **“File Type”** to select the format, and select the **“Export”** option to save your file.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus Tips – The Alternative To GIMP To Create Motion Blur Effect
 
 GIMP is a popular image editor that you can use to create motion blur effects. However, some users find it difficult to use the software for this purpose.
@@ -86,6 +79,13 @@ To add the radial blur effect to images using Filmora, here are the quick and ea
 Step1 Download the Filmora software on your PC, launch it, and click **“Create New Project”** on the main panel. Use the **“Click Here to Import your Media File”** option to import your photo and drag and drop it into the timeline.
 
 ![importing file to filmora to add motion blur](https://images.wondershare.com/filmora/article-images/2023/02/importing-file-to-filmora-to-add-motion-blur.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Now, head to the **“Effects”** tab from the taskbar. Use the search option to find the **Blur** effect. Afterward, drag & drop it in the timeline and adjust it on your selected clip.
 
@@ -124,13 +124,6 @@ To add the radial blur effect to images using Filmora, here are the quick and ea
 Step1 Download the Filmora software on your PC, launch it, and click **“Create New Project”** on the main panel. Use the **“Click Here to Import your Media File”** option to import your photo and drag and drop it into the timeline.
 
 ![importing file to filmora to add motion blur](https://images.wondershare.com/filmora/article-images/2023/02/importing-file-to-filmora-to-add-motion-blur.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Now, head to the **“Effects”** tab from the taskbar. Use the search option to find the **Blur** effect. Afterward, drag & drop it in the timeline and adjust it on your selected clip.
 
@@ -187,13 +180,6 @@ Step3 Next, you need a picture of a tattoo. Indeed, it would be better to have t
 After preparing everything, you need to go to Filmora 11 and start editing. If you haven't downloaded Filmora already, you can visit filmora.wondershare.com.
 
 ![go to filmora 11](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Editing Tutorial
 
@@ -280,10 +266,10 @@ Step 5: If you have clicked on New Recording option, you will get a widget where
 ![camtasia ready to record](https://images.wondershare.com/filmora/article-images/camtasia-ready-to-record.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. Key Features of Camtasia
@@ -313,6 +299,13 @@ Step 1: Open Camtasia and click on New Project. Sign into your Camtasia account 
 Step 2: Go to Media and click on Import Media. Import all the media files starting from video clips to audio clips and even photos.
 
 ![camtasia import media](https://images.wondershare.com/filmora/article-images/camtasia-import-media.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: From Media Bin, drag and drop the media files to the timeline. Keep the video files in one track, audio files in another track, and likewise. Arrange them properly so that they are placed sequentially. You can trim them directly from the timeline and stretch the music file to cover the entire video as required.
 
@@ -404,6 +397,13 @@ Step 6: Play the video once everything is done, and click on Export button to sa
 
 ![filmora export your video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5\. FAQs about Camtasia
 
 1\. Can I use Camtasia for free?
@@ -485,13 +485,6 @@ Step 3: Drag and place the video files one by one on the timeline as per your re
 Step 4: Go to Transitions located at the top bar and drag and drop any transition in between video clips and photos wherever required. You can also insert Titles, Effects, and Elements from the top bar.
 
 ![filmora edit videos](https://images.wondershare.com/filmora/guide/filmora-split-video-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Go to Audio located at the top bar, and drag and drop audio effects on the audio files on the timeline. You can also check the Stock Media and use them in your video as required.
 
@@ -582,10 +575,10 @@ Move the timeline cursor to the right side and add another keyframe there. Now, 
 ![adjust speed using keyframe](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Quick Alternative: Wondershare Filmora and Slow-Motion Clips
@@ -611,6 +604,13 @@ Using this method, you can slow down your video smartly with the help of AI. Som
 Install Filmora 13 on your device and open it to access “New Project” from the main interface. When you enter the editing window, import your file into the media panel.
 
 ![create new project in filmora](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 2Adjust the Speed and Other Use Advanced Options
 
@@ -638,13 +638,6 @@ In the Speed Ramping Section, you will get 6 templates. Pick one or hit the “C
 
 ![apply changes and render preview](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Matchless Features of Wondershare Filmora
 
 Wondershare Filmora offers a creative editing experience. It has a number of important features, some of which are discussed below:
@@ -654,6 +647,13 @@ Wondershare Filmora offers a creative editing experience. It has a number of imp
 * [**AI Text-Based Editing**](https://tools.techidaily.com/wondershare/filmora/download/)**:** You can edit your video content with the AI Text-Based Editing tool. This feature can transcribe your spoken words into editable text. Afterward, you can edit the text based on your preferences, and the changes in the video will be added. Moreover, Filmora allows you to save the generated text to reuse it in articles and blogs later.
 
 * [**AI Copywriting**](https://tools.techidaily.com/wondershare/filmora/download/)**:** If you are stuck creating a unique script, get help from AI copywriting in Filmora. It gives several video ideas to generate YouTube video titles and descriptions. This creative personal assistant will bring content aligning with your video goals. The generated script can be used to make videos from Filmora’s text-to-video feature.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -705,6 +705,13 @@ Move the timeline cursor to the right side and add another keyframe there. Now, 
 
 ![adjust speed using keyframe](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Quick Alternative: Wondershare Filmora and Slow-Motion Clips
 
 You might have gotten the answer to “**how to make slow-motion video in Premiere Pro**” until now. But another question comes into mind: “[How to make slow-mo videos easily](https://tools.techidaily.com/wondershare/filmora/download/)?” Using Adobe Premiere Pro can be tricky for starters, so they look for alternative tools. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a great option if you struggle with using Adobe Premier Pro.
@@ -765,13 +772,6 @@ Wondershare Filmora offers a creative editing experience. It has a number of imp
 
 * [**AI Copywriting**](https://tools.techidaily.com/wondershare/filmora/download/)**:** If you are stuck creating a unique script, get help from AI copywriting in Filmora. It gives several video ideas to generate YouTube video titles and descriptions. This creative personal assistant will bring content aligning with your video goals. The generated script can be used to make videos from Filmora’s text-to-video feature.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Regular videos do not always generate the same level of response from viewers. Slow-mo videos can make a video more entertaining and improve the film’s narrative. It's good to use when you want to draw attention to the most significant shot in a video. This article shows **how to make slow motion in Premiere Pro** and offers an amazing alternative. Thus, try to use Filmora and improve your editing experiences with ease.
@@ -794,24 +794,18 @@ Regular videos do not always generate the same level of response from viewers. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-becoming-a-filmora-fcc-the-pathway-explained/"><u>[New] 2024 Approved Becoming a Filmora FCC The Pathway Explained</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-captivating-clips-transforming-footage-vertically-in-final-cut-x/"><u>[New] 2024 Approved Captivating Clips Transforming Footage Vertically in Final Cut X</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-choosing-your-stage-obs-or-twitch-pro-for-2024/"><u>[New] Choosing Your Stage OBS or Twitch Pro for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-speeding-up-instagram-content-consumption-for-2024/"><u>[New] Speeding Up Instagram Content Consumption for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-sony-fdr-x1000-videography-complete-review-edition/"><u>[Updated] In 2024, Sony FDR-X1000 Videography - Complete Review Edition</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-100plus-best-tiktok-captions-enhance-your-content/"><u>2024 Approved 100+ Best TikTok Captions Enhance Your Content</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-windows-movie-maker-save-mp4-file/"><u>2024 Approved How Windows Movie Maker Save MP4 File</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-final-verdict-on-vegas-pro-21-a-sports-enthusiasts-review/"><u>2024 Approved The Final Verdict on Vegas Pro '21 - A Sports Enthusiast's Review</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/blender-green-screen-effects-for-2024/"><u>Blender Green Screen Effects for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicating-flickering-on-windows-monitor/"><u>Eradicating Flickering on Windows Monitor</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-look-at-the-rumored-samsung-galaxy-s25-expected-price-tags-launch-date-and-cutting-edge-features/"><u>Inside Look at the Rumored Samsung Galaxy S25: Expected Price Tags, Launch Date & Cutting-Edge Features</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-how-to-create-luts-with-luts-generator/"><u>New 2024 Approved Learning How to Create LUTs with LUTs Generator</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-tutorial-video-with-filmora/"><u>New How to Make Tutorial Video with Filmora</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-realme-c53-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Realme C53 Phone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-is-windows-movie-maker-still-available/"><u>Updated Is Windows Movie Maker Still Available?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-audience-level-sound-production-using-audacity/"><u>[New] Audience-Level Sound Production Using Audacity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-live-game-capture-on-xbox-one/"><u>[New] Mastering Live Game Capture on Xbox One</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-mkv-reader-laptoptablet-edition/"><u>[New] Superior MKV Reader (Laptop/Tablet Edition)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-from-recording-to-revelation-a-comprehensive-guide-to-360-videos-on-facebook/"><u>[Updated] From Recording to Revelation A Comprehensive Guide to 360 Videos on Facebook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-unnoticed-to-noteworthy-building-a-viral-fb-presence/"><u>[Updated] In 2024, From Unnoticed to Noteworthy Building a Viral FB Presence</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigate-effortlessly-enablingdisabling-picture-in-picture-in-youtube-for-2024/"><u>[Updated] Navigate Effortlessly Enabling/Disabling Picture In Picture in Youtube for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-bluetooth-troubleshooting-solutions-when-your-device-connects-but-remains-mute/"><u>Fixing the Silent Bluetooth: Troubleshooting Solutions When Your Device Connects but Remains Mute</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-can-filmora-create-an-audio-visualizer-project-for-a-song-all-steps-from-launching-the-app-to-editing-the-text-are-detailed-here-for-2024/"><u>How Can Filmora Create an Audio Visualizer Project for a Song? All Steps, From Launching the App to Editing the Text, Are Detailed Here for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-coin-magic-with-filmora/"><u>In 2024, How to Make Coin Magic With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-video-fade-to-black-in-movie-maker/"><u>In 2024, How to Make Video Fade to Black in Movie Maker</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-mp3-cutter-download-for-computer-and-mobile/"><u>New In 2024, MP3 Cutter Download for Computer and Mobile</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speedy-movie-making-hacks-tips-to-learn-and-apply-at-home-for-2024/"><u>Speedy Movie Making Hacks Tips to Learn and Apply at Home for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713951460868-this-article-will-help-you-make-cinematic-shots-with-simple-diy-hacks-using-stuff-from-your-nearest-dollar-store-you-can-edit-your-video-to-get-pro-results-/"><u>This Article Will Help You Make Cinematic Shots with Simple DIY Hacks Using Stuff From Your Nearest Dollar Store. You Can Edit Your Video to Get Pro Results by Wondershare Filmora for 2024</u></a></li>
 </ul></div>
 

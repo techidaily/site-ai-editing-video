@@ -1,7 +1,7 @@
 ---
 title: Updated How To Use Speed Ramping to Create an Intense Action Footage for 2024
-date: 2024-09-23T07:03:19.262Z
-updated: 2024-09-28T01:25:12.336Z
+date: 2024-10-02T05:44:57.278Z
+updated: 2024-10-02T17:15:42.488Z
 tags: 
   - ai
   - animation videos
@@ -97,6 +97,13 @@ Since speed ramping can only be used for paid users, we also provide you with an
 
 ![uniform speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Next, move your playhead to the **point of the video** you want to slow down the speed. Here we will cut and then double-click that clip to open the speed menu again. Change the pace with the speed slider again
 
 ![split adjusting the clips](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-8.gif)
@@ -114,6 +121,13 @@ We will use Boris FX BCC glitch to add some intensity to our video. It is a plug
 * We are going to scroll down and select shake with motion blur. This preset will use the exact look we want for our basketball video to make the speed ramping more intense.
 
 ![present a drop-down menu and reduce the effect](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-9.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * You can change the settings around after choosing a preset. For example, let's turn up the glitch intensity to have our glitch a little more extreme. Moving further, we can change the glitch duration to our specific needs.
 
@@ -152,18 +166,18 @@ First, import a video from your media library in the Wondershare Filmora. And dr
 
 ![library in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Apply the speed ramping feature
 
 To apply the speed ramping feature, **right-click** on the clip on the timeline. And click speed in the menu and choose **speed ramping** to open the settings window.
 
 ![add speed ramping option](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can choose different speed templates in the setting window. Or, on the left corner, click on the customize option to adjust the keyframes and create the speed you want for the video.
 
@@ -283,10 +297,10 @@ Now you will the superimposed version of the replacement video effect on the gre
 ![background](https://images.wondershare.com/filmora/article-images/background.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
@@ -314,13 +328,6 @@ Step 4: Double-click on the recorded video and you will see a panel on the upper
 Now you will the superimposed version of the replacement video effect on the green screen background of your recorded video.
 
 ![background](https://images.wondershare.com/filmora/article-images/background.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
 
@@ -398,13 +405,6 @@ If you also want to experiment with this video aspect, then you're at the right 
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: A Complete Overview of Adobe After Effects
 
 Before learning **how to slow mo in After Effects**, we want to introduce you to the software. [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) is a professional software designed to assist in post-production. Those unrealistic scenes you see in a sci-fi movie are its creation. Users can work with multiple effects categories to create animated scenes and titles.
@@ -430,10 +430,10 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 ![change stretch factor](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
@@ -479,13 +479,6 @@ A settings panel will appear on the right side of the screen; navigate towards i
 
 ![adjust speed and execute](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Method 2\. Step-by-Step Guide to Slow a Video Using Optical Flow Option
 
 If you prefer the automated creation of slow-mo, then Filmora offers an AI Frame Interpolation feature. Find the detailed instruction manual for accessing this feature below:
@@ -507,6 +500,13 @@ Continue to select a specific preset for speed ramping. As you select one, locat
 Once you have enabled this option, navigate towards the timeline toolbar. Search and select the "Render Preview" option from the given icons. Play the video to see the results, adjust, and click the "Export" button to download.
 
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
 
@@ -599,11 +599,25 @@ Once the media is in the timeline, select it and right-click on it. From the opt
 
 ![look for uniform speed settings](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3Adjust the Speed and Preview
 
 A settings panel will appear on the right side of the screen; navigate towards it. Under the "Uniform Speed" tab, adjust the "Speed" slider to slow down your video. If its value decreases, your video will become slow motion. Further, hit the play button to preview and export your slow-mo video.
 
 ![adjust speed and execute](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Method 2\. Step-by-Step Guide to Slow a Video Using Optical Flow Option
 
@@ -627,13 +641,6 @@ Once you have enabled this option, navigate towards the timeline toolbar. Search
 
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
 
 This part of the article will highlight some of the prominent video editing features of Filmora. The uniqueness of these features lies in their AI-backed algorithms. You can give directions according to your video, and AI will operate accordingly. Here are some of its video editing features that you’ll come across upon entering:
@@ -653,13 +660,6 @@ Filmora offers multiple mask options to infuse effects and filters to specific p
 #### 4\. [AI Thumbnail Creator](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Thumbnails increase video views by evoking the audience's interest in seeing a video. In Filmora, you can employ the AI Thumbnail creator to auto-create thumbnails. It analyzes the best frame out of your video and chooses it as a thumbnail. You can further apply many templates to this thumbnail according to context.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -683,24 +683,22 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-becoming-a-master-at-the-art-of-engaging-thumbnails/"><u>[New] 2024 Approved Becoming a Master at the Art of Engaging Thumbnails</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-step-by-step-guide-to-smooth-facetime-calls-on-mobile/"><u>[New] Step-by-Step Guide to Smooth FaceTime Calls on Mobile</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-from-basics-to-best-achieving-superior-sound-via-zoom-for-podcasting/"><u>[Updated] In 2024, From Basics to Best Achieving Superior Sound via Zoom for Podcasting</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-10-best-sony-lut-for-different-purposes/"><u>2024 Approved 10 Best Sony LUT for Different Purposes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-cont/"><u>2024 Approved Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-mobile-connectivity-how-to-enable-calls-on-your-android/"><u>Fixing Mobile Connectivity: How to Enable Calls on Your Android</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-xs-max-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone XS Max With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-in-canva/"><u>New 2024 Approved How to Add Subtitles in Canva?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-use-rule-of-thirds-in-video/"><u>New In 2024, How to Use Rule of Thirds in Video</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/pioneering-the-future-top-tips-for-remotely-capturing-talent-for-2024/"><u>Pioneering the Future Top Tips for Remotely Capturing Talent for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/premier-choices-8-linux-editing-tools/"><u>Premier Choices 8 Linux Editing Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-lava-yuva-3-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Lava Yuva 3 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-zte-axon-40-lite-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-15-best-luts-to-buy/"><u>Updated 2024 Approved 15 Best LUTS to Buy</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-ideas-for-time-lapse-video/"><u>Updated Ideas for Time-Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-secret-tips-and-tricks-to-use-in-filmora-for-2024/"><u>Updated Secret Tips & Tricks to Use in Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-five-cozy-seasons-ideal-backgrounds-to-warm-up-videos/"><u>[New] 2024 Approved Five Cozy Seasons Ideal Backgrounds to Warm Up Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-nixing-facebook-broadcasts-effortlessly-for-2024/"><u>[New] Nixing Facebook Broadcasts Effortlessly for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-pioneering-post-production-excellence-with-these-11-top-tutorials-for-2024/"><u>[New] Pioneering Post-Production Excellence with These 11 Top Tutorials for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tweak-quick-twitter-video-preview-for-2024/"><u>[Updated] Tweak Quick Twitter Video Preview for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-make-modern-tiktok-velocity-dance-videos-in-filmora-just-like-the-ones-you-see-on-tiktok-and-instagram-reels/"><u>2024 Approved Learn How to Make Modern TikTok Velocity Dance Videos in Filmora Just Like the Ones You See on TikTok and Instagram Reels</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/archive-of-authentic-activities-for-2024/"><u>Archive of Authentic Activities for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-slide-masking-effect-intro/"><u>Create Slide Masking Effect Intro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-programs-for-creating-video-from-pictures/"><u>Ideal Programs for Creating Video From Pictures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-digital-mastery-of-vhs-visuals/"><u>In 2024, The Ultimate Guide to Digital Mastery of VHS Visuals</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/keeping-the-joyful-jokes-techniques-to-download-tweets-animated-content/"><u>Keeping the Joyful Jokes Techniques to Download Tweets’ Animated Content</u></a></li>
+<li><a href="https://win11.techidaily.com/transition-to-open-source-enable-linux-subsystem-for-windows/"><u>Transition to Open Source: Enable Linux Subsystem for Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-20-best-video-background-templates/"><u>Updated 20 Best Video Background Templates</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-cloud-storage-service-for-videos-for-2024/"><u>Updated Best Cloud Storage Service for Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-ideas-for-time-lapse-video/"><u>Updated Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>Updated Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-record-super-slow-motion-videos-on-your-huaweisamsungiphone/"><u>Updated How to Record Super Slow Motion Videos on Your Huawei/Samsung/iPhone?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-effects-on-tiktok/"><u>Updated In 2024, How to Add Effects on TikTok</u></a></li>
 </ul></div>
 

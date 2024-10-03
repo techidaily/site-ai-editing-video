@@ -1,7 +1,7 @@
 ---
 title: New Guide To Using Luts Perfectly in Final Cut Pro for 2024
-date: 2024-09-27T07:35:18.350Z
-updated: 2024-09-28T01:51:29.652Z
+date: 2024-09-26T01:59:34.759Z
+updated: 2024-10-03T13:39:18.707Z
 tags: 
   - ai
   - animation videos
@@ -49,13 +49,6 @@ Perfect Green Video LUT is a pack of 3 cinematic-style LUTs. This pack is ideal 
 Cyberpunk Color Grades is a pack of modern cyberpunk-style LUTs. It is a fantastic LUT pack if you're working on a music video or a creative project. It has a bold, colorful grading with high saturation that can make your video stand out. This LUT pack is perfect for scenes with many neon lights or bright backgrounds. Moreover, it adds an extra pop of color and makes your videos look more energetic.
 
 ![cyberpunk color grades ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. [Pro Retouching Essentials Pack by Prince Meyson](https://godownloads.net/prince-meyson-all-skin-luts-actions-retouching-free-download/)
 
@@ -106,6 +99,19 @@ An icon will appear once you've selected RT Adjustment Layer. Drag and drop this
 Drag and drop the “Custom LUT” layer onto your RT Adjustment Layer from the Effect Browser. Click on the RT Adjustment Layer and choose your desired LUT from the “Inspector” menu.
 
 ![apply lut to adjustment layer ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-11.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Method 3 Change Settings To Enable LUTs
 
@@ -191,18 +197,18 @@ Open Final Cut Pro and import your video. Once the video is imported, click on t
 
 ![import video to final cut pro ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2
 
 Go to the “Effect Browser” and search for the LUT option from the search menu. After selecting it, you will get a “Custom LUT” layer. Select the custom LUT layer and drag and drop it onto your video clip. Then, click on the video clip and go to the “Inspector” window.
 
 ![open inspector window](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3
 
@@ -237,6 +243,13 @@ Drag and drop the “Custom LUT” layer onto your RT Adjustment Layer from the 
 Import your video into Final Cut Pro and click on your video in the library and open the inspector window.
 
 ![add video to fcp timelne](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step2
 
@@ -298,6 +311,13 @@ Whether it's image editing, CV creation, or graphic modification, Canva is the f
 
 There are also tons of free templates that you can use in Canva and format according to your preferred size and needs. Besides that, Canva's native application is now available for all major operating systems. This means you can enjoy this tool as long as you have iOS 10 or higher (<Android 4.1).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Features of Creating and Editing with Canva
 
 Some amazing perks that you get with Filmora include:
@@ -333,9 +353,23 @@ Managing video duration on your preferred domain is so crucial these days, mainl
 
 ![how to speed up canva video 2](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Once that's done, drag and drop your clip on the timeline and adjust it according to your requirements.
 
 ![how to speed up canva video 3](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Hit preview once you are comfortable with video positioning_
 
@@ -417,13 +451,6 @@ Everything is seamless in Filmora, and it's supported on all major operating sys
 1) Now that your video is in the timeline, right-click it and select the custom "**Speed & duration**" button.
 
 ![speed up video in filmora 3](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-16.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) In the new window, change the speed value greater than **1**, just like you did in the case of Eizgif. You can also adjust the speed slider for better coverage.
 
@@ -545,6 +572,13 @@ Step5 Trim the second shot until the talents start acting and place it on the se
 
 ![trim the second shot](https://images.wondershare.com/filmora/article-images/2022/12/appearance_5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Make an Explosion Appearance
 
 Step1 This effect is the easiest. You need to film the empty plate with just a background. Then let the talent enter the frame and jump into the place.
@@ -563,6 +597,19 @@ Step5 Use the green screen sample in the default menu here. Add some smoke effec
 
 ![use the green screen sample](https://images.wondershare.com/filmora/article-images/2022/12/appearance_8.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: How to Make Roof Appearance
 
 The last trick here is combining the techniques from the two previous effects.
@@ -574,13 +621,6 @@ Step1 First, record the empty plate with just a background. Let the talent jump 
 Step2 Now import the clip into Filmora again. Follow the steps from the second example so we have the subject appearing on the screen like this.
 
 ![import the clip into filmora again](https://images.wondershare.com/filmora/article-images/2022/12/appearance_10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Add the green screenshot onto the third video track.
 
@@ -597,13 +637,6 @@ Step5 Move the clip until it covers only the first frame of the appearing clip. 
 Step6 Now search for some smoke effects and put it upside down. So it looks like the ceiling is broken when the subject falls. Then add some camera shake to the fall.
 
 ![search for some smoke effects](https://images.wondershare.com/filmora/article-images/2022/12/appearance_14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step7 Drag the camera shake effect back to the top track and shorten it to an ideal length. You can also add some sound effects if you want to this video.
 
@@ -749,19 +782,6 @@ Using [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershar
 The following step-by-step tutorial already assumes that you are familiar with some of the workings of Filmora like how to start a project and how to place your media onto the empty timeline.
 
 So here’s how simple it is to add a lower third.
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: Import The Media
 
@@ -926,13 +946,6 @@ In this step, you will create a new project and then import the media and place 
 
 Import The Media
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Find Title Option
 
 Once you have placed your media onto the project, you will go to the top navigation and click on titles.
@@ -969,13 +982,6 @@ You did it. With this new skill you’ve now mastered the quickest way to impres
 
 The key is to practice and you’ll get better quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Start Using Lower Thirds Today
 
 Lower thirds are a simple but powerful way to enhance your videos.
@@ -1005,15 +1011,19 @@ Wrap Up
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-non-tripod-techniques-for-still-cameras/"><u>[Updated] 2024 Approved Non-Tripod Techniques for Still Cameras</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitter-gif-repository-capturing-the-essence-in-frames/"><u>[Updated] Twitter Gif Repository Capturing the Essence in Frames</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-out-what-keyframe-interval-is-why-it-is-important-and-to-change-its-value-on-obs-studio-with-simple-and-easy-to-follow-instructions/"><u>2024 Approved Find Out What Keyframe Interval Is, Why It Is Important, and to Change Its Value on OBS Studio with Simple and Easy-to-Follow Instructions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/detailed-tutorial-fix-the-problem-when-deathloop-refuses-to-start/"><u>Detailed Tutorial: Fix the Problem When Deathloop Refuses to Start</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
-<li><a href="https://driver-error.techidaily.com/my-computer-wont-recognize-my-latest-era-logitech-prodigy-cam-post-10-update-heres-why-and-how-to-fix-it-solved/"><u>My Computer Won't Recognize My Latest-Era Logitech Prodigy Cam, Post 10 Update – Here’s Why and How to Fix It ![Solved]</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-3-in-camera-transitions-tricks-to-make-videos-for-2024/"><u>New 3 In-Camera Transitions Tricks To Make Videos for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/segmented-screen-success-is-splitcam-superior/"><u>Segmented Screen Success Is SplitCam Superior?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-clearing-up-504-gateway-timeout-errors-quickly/"><u>Troubleshooting Tips: Clearing Up 504 Gateway Timeout Errors Quickly</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-creating-the-perfect-vhs-effect-look-in-premiere-pro/"><u>Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tricks-for-transferring-twitter-video-to-your-phone/"><u>[New] Tricks for Transferring Twitter Video to Your Phone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-5-best-action-cameras-for-fishing/"><u>[Updated] In 2024, Top 5 Best Action Cameras for Fishing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-innovative-recording-methods-windows-10-guide/"><u>[Updated] Innovative Recording Methods Windows 10 Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-views-on-tiktok-unboxing-content/"><u>[Updated] Maximizing Views on TikTok Unboxing Content</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-put-a-filter-on-a-video-in-imovie/"><u>In 2024, How to Put a Filter on a Video in iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-wondering-if-you-can-make-diy-green-screen-video-for-streaming-learn-the-easy-steps-to-setup-diy-green-screen-shoot-the-video-and-edit-it-out-to-add/"><u>In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-ai-in-data-science-chatgpts-six-critical-applications/"><u>Integrating AI in Data Science: ChatGPT's Six Critical Applications</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/leading-free-cam-stream-and-recorder-tool-for-2024/"><u>Leading Free Cam Stream & Recorder Tool for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mobile-moba-elite-androids-top-picks-for-2024/"><u>Mobile MOBA Elite Android's Top Picks for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-performance-analysis-linksys-wrt3n-acm-a-leading-choice-in-open-source-wifi-routers/"><u>Top Performance Analysis: Linksys WRT3n ACM - A Leading Choice in Open-Source WiFi Routers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-something-about-skin-care-vlog-ideas/"><u>Updated Something About Skin Care Vlog Ideas</u></a></li>
 </ul></div>
 

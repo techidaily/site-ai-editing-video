@@ -1,7 +1,7 @@
 ---
 title: New How to Make Glitch Effect with Filmora
-date: 2024-09-08T23:51:44.595Z
-updated: 2024-09-09T23:51:44.595Z
+date: 2024-09-30T13:01:23.581Z
+updated: 2024-10-02T23:10:06.142Z
 tags: 
   - ai
   - animation videos
@@ -17,30 +17,12 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 
 You don't need outdated VCRs or any other broken technology to produce glitch effects. Instead, you can use a video editing program for Mac and PCs, such as [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), to transform your videos into glitch-effect masterpieces. You can also use the glitch effects to provide striking shot transitions or opening titles. Keep reading this article on how to apply various glitch video effects in Filmora 11:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is a Glitch Effect?
 
 A glitch effect occurs when a section of your video temporarily changes look or "glitches" for a short while. Although transient glitches are typical, they can occasionally linger for a few seconds or more.
 
 ![what is a glitch effect](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can use a glitch effect to temporarily change the appearance of the image in the video to give the impression that a machine is processing it. Additionally, it gives your finished piece a fantastic, dreamlike aspect.
 
 ## Part 2: When Should you Apply a Glitch Effect?
@@ -77,69 +59,48 @@ Step1 Once you have your clip on the timeline, select your clip and click on Edi
 
 ![select your clip and click on edit](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 Put the new copies on the layer above the others and make sure everything is lined up exactly. To create the glitch effect, separate the color channels on your Clips into the primary colors red, green, and blue.
 
 ![put the new copies on the layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step3 Double-click on the top clip.
 
 ![double-click on the top clip](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Go to Color and open the White Balance option to make this layer completely red. Next, drag both Temperature and Tint sliders to a hundred.
 
 ![open the white balance option](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_8.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step4 Now click the little eye icon on the timeline to hide the top layer and move on to the middle layer.
 
 Step5 Double-click on your middle clip and go to Color, then select White Balance and set your Temperature to -100 and your Tint to 100.
 
 ![go to color](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step6 Finally, hide this layer just like before. Repeat the same steps for the last clip but make this clip the blue layer by leaving the Temperature at zero and setting the Tint to -100.
 
 ![setting the tint to -100](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step7 Double-click the clip in the top layer, click the Video Tab, and open the Compositing options. Set the Blending Mode of this top layer to Soft Light.
 
@@ -153,18 +114,6 @@ Step8 To make the middle layer visible, double-click the clip in your mid layer 
 
 ![double-click the clip in your mid layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_13.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now click on your clip in the preview window and press the Right key as many times as you did before. Finally, make all the layers visible by clicking the eye icon.
 
 ![press the right key](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_14.jpg)
@@ -219,34 +168,10 @@ Step2 Put the new copies on the layer above the others and make sure everything 
 
 ![put the new copies on the layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_6.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 Double-click on the top clip.
 
 ![double-click on the top clip](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Go to Color and open the White Balance option to make this layer completely red. Next, drag both Temperature and Tint sliders to a hundred.
 
 ![open the white balance option](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_8.jpg)
@@ -257,12 +182,6 @@ Step5 Double-click on your middle clip and go to Color, then select White Balanc
 
 ![go to color](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step6 Finally, hide this layer just like before. Repeat the same steps for the last clip but make this clip the blue layer by leaving the Temperature at zero and setting the Tint to -100.
 
 ![setting the tint to -100](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_10.jpg)
@@ -276,11 +195,12 @@ Now click on the clip in your preview window and move the image over by pressing
 ![click on the clip in your preview window](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step8 To make the middle layer visible, double-click the clip in your mid layer and set the Blending Mode of this layer to Screen.
 
 ![double-click the clip in your mid layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_13.jpg)
@@ -323,12 +243,6 @@ Step2 Search for VCR Distortion, then drag and drop this effect over your previo
 2. The glitch Distortion effect is very intense, so we recommend cutting this effect very short and dropping it at random parts of your video.
 3. You can also use these effects as a sneaky way to hide Cuts in your video.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Summary
 
 You can use glitch effects created or inspired by faulty video equipment as a powerful storytelling tool. These effects can help you change the tone of the entire video by adding a specific visual aesthetic and making the narrative simpler to convey and more approachable for the audience.
@@ -348,13 +262,6 @@ We recommend using Filmora 11 for adding built-in glitch effects. You can also u
      data-ad-slot="1223367746"></ins>
 
 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Best Online YouTube Video Trimmer
 
 Since the shift in interest from on-site jobs to content creators and exploring opportunities to take advantage of better and improved career growth opportunities, YouTube is one of the most popular social media platforms to get started.
@@ -363,12 +270,6 @@ But how do people face difficulties in finding an affordable and quick online Yo
 
 This is an ultimate guide on **online** **YouTube video trimmer** software and how you can trim your YouTube videos in no time.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. What is a YouTube trimmer?
 
 Before diving into any details, it is important to introduce you to what is a YouTube trimmer and why it is important to trim your video. A YouTube trimmer is an easy and fast video editing tool that allows you to trim, crop, and share your favorite video parts online. You can also create custom links to YouTube Crops to embed on your website.
@@ -378,11 +279,12 @@ There are two popular online YouTube trimmers available; one only allows you to 
 ## Part 2\. How to online trim YouTube videos?
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Online YouTube trimmer (no edit and download)
 
 Using these two websites, you can easily find the YouTube video clip you want to keep, but there is no way to download the video or add more editing to the clip. However, it works well for sharing links online or adding them to your website and using them to describe the part that best fits the topic.
@@ -393,24 +295,12 @@ The straightforward interface has just one function. Enter the start and end tim
 
 ![click crop](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. [YouTube Trimmer](https://www.youtubetrimmer.com/)
 
 The video's beginning and ending times are selected in the same way as on the previous website. However, this website offers some basic code that you may copy and paste into your web pages to suit your demands in order to add YouTube videos.
 
 ![add youtube videos](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Once you are done trimming your videos, you can download or export your videos in different formats, depending on your preference. It can be in mp4, mp3, or any other supported format.
 
 ### 2\. Online YouTube trimmer (edit and download)
@@ -430,21 +320,16 @@ Step2You will notice a button to upload your media file once you are taken to th
 ![the editing page](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step3You can trim your video section by dragging the mark after you've uploaded the media file.
 
 ![uploaded the media file](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4Now, delete the unwanted video segment and click on **'Export'** to save the trimmed video.
 
 1. [Kapwing](https://www.kapwing.com/):
@@ -461,24 +346,12 @@ Step3After uploading the media file, Click on **'Trim'** from the editing sectio
 
 ![uploading the media file](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4A pop-up screen will appear on your screen labeled as Trim Video. Trim the parts of the video as per your requirement and Click **'Trim'** to finish.
 
 ![trim](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-10.jpg)
 
 Step5Once you have completed editing, click on **'Export'** to save the video to your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. How to trim YouTube videos on a desktop?
 
 Using an online video trimmer has been one of the last options that anyone would consider, but due to the expensive software, they have turned out to be a friendly and easy approach to editing videos. But the online video trimmers still rank at the bottom of the list because they're unstable, and you can't save the project at any time. If the online program breaks down, all your effort will be wasted. But desktop programs such as Filmora will never make you encounter such problems unless you experience a technical glitch.
@@ -495,20 +368,8 @@ Step2By moving the playhead over the unwanted section and choosing the trash can
 
 ![choosing the trash can icon](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3When you're through trimming, click **"Export"**, then select a location to store the edited video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Depending on the comparison of how different software work, it is justifiable to conclude that Filmora is the best video editing software by all means. It offers a wide range of editing tools and ensures that progress has not been lost. If you are looking forward to trimming a video, download [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) on your device to get started.
@@ -525,12 +386,6 @@ Depending on the comparison of how different software work, it is justifiable to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## End Screen Makers
 
 A YouTube end screen is the final section of a YouTube video and generally makes up the final 5-20 seconds of the video. Video creators often use this section of the video to add calls-to-action, playlists, links to videos, and more.
@@ -565,12 +420,6 @@ For macOS 10.12 or later
 * You can add audio including voiceover and music to the video
 * It has a very simple user interface that makes it very easy to use
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Canva
 
 Canva is a simple-to-use animated YouTube end screen maker that has a large library of resources ideal for creating different types of end screens. One of the best things about Canva is the numerous templates that you can choose from, along with effects and media files including stock photos that can be very useful when creating your video.
@@ -586,18 +435,6 @@ Although most of the features, including many of the templates, are free, the be
 * It has many great resources including stock images and unique templates
 * You can add many effects to the end screen
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fotor
 
 Fotor is another great solution that can be very useful in creating the YouTube end screen. It comes with a lot of different templates to choose from, allowing you to customize the end screen for maximum engagement. You can also upload your images to use in the project or choose from the Fotor library which offers options for different kinds of videos.
@@ -611,173 +448,6 @@ Fotor is another great solution that can be very useful in creating the YouTube 
 * You can use one of the many effects to further customize the end screen.
 * The templates and effects are also customizable
 
-### Snappa
-
-Snappa can also be a good way to create the perfect end screen for your YouTube video. It is a versatile solution with a lot of options to help you customize the end screen to suit your brand and targets. One such resource is the huge library of stock images as well as icons and shapes that you can choose from. Snappa makes the process much easier by allowing you to start from a suitable template that you can then customize as desired.
-
-![snappa](https://images.wondershare.com/filmora/article-images/snappa-interface.jpg)
-
-**_Key Features_**
-
-* There are a lot of templates to choose from
-* You can import your media files to customize the design
-* You can also start from a blank canvas and work from there
-* There is also a large library of stock photos that you can choose from
-
-### Placeit.net
-
-This is an online solution that is one of the best ways to create an end screen for your YouTube video. The user interface is very simple to navigate and very well designed, allowing you to easily create the end screen even if you are a beginner.
-
-![placeit](https://images.wondershare.com/filmora/article-images/placeit-video-intro-maker.jpg)
-
-You can upload your images to add to the design or choose from the large library of resources that Placeit.net provides. You also have numerous export options to choose from.
-
-**_Key Features_**
-
-* There are numerous templates to choose from
-* You can export the end screen with transparency
-* The interface is very easy to use
-* Most of the resources are available for free
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Kapwing
-
-Kapwing is an online video editing solution that you can also use to create an end screen for your YouTube video. It has extensive features that can allow you to customize your end screen any way you want to. It has numerous templates to choose from and the simple drag-and-drop interface makes creating the end screen very easy.
-
-![kapwing](https://images.wondershare.com/filmora/article-images/kapwing-upload-video.jpg)
-
-**_Key Features_**
-
-* You can choose the size of the end screen to use
-* There are a lot of templates to choose from
-* You can upload your images and other elements to the project
-* You get to choose the duration of the end screen before you begin the project
-
-**How to Make an End Screen with Filmora**
-
-Creating an end screen for your YouTube video using Filmora is a very simple process. Use these steps to do it;
-
-Step 1: The first thing you need to do is install Filmora on your computer. You can download the setup file from the main website and then follow the instructions on the setup wizard to install the program.
-
-Once the installation is complete, open the program and click on “New Project” to start.
-
-Step 2: Click on the “Titles” section and search for “End Screen” using the search bar. Select the best template for your end screen and drag it into the timeline.
-
-Step 3: Now you are ready to add elements to the end screen. Add your profile picture on a new track across the timeline and stretch it to fit the screen as desired.
-
-Step 4: Click on “Effects” and use the search function to search for the “Mask” effect. When you find it, add it across the timeline and double-click on it to open its settings and adjust the effect accordingly.
-
-Step 5: You may also want to add your social media handles to the end screen. To do that, use the “Titles” tab to find the different social media handles and add each one to the timeline.
-
-You are now ready to save and export the end screen and add it to your YouTube video.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Related FAQs About End Screen Maker
-
-**1.** **How Do You Make an End Screen?**
-
-Making an end screen is different depending on the tool that you use to create the end screen as well as the number of elements that you choose to add to it. But usually, you would start with a template and begin adding elements to the project one by one.
-
-**2.What is the Best Free Outro Maker?**
-
-The best tool to create an end screen for YouTube videos is Filmora simply because it makes the process very easy while allowing you to customize your creation as much as you need. But even though it has a free trial version, most of the features you need to create a unique end screen are not available on the free plan.
-
-A good free solution would be Canva because it has numerous free resources that can create a decent end screen. Although we must point out that many of the best templates and elements on Canva are also not available for free.
-
-**3.How Long can a YouTube End Screen Be?**
-
-A typical end screen is often 5-20 seconds long. You don’t need any more than 20 seconds because it is only used as a way to promote additional content or add a call to action. So when creating an End screen, ensure that all elements are clear enough as your audience will have only 20 seconds to see it.
-
-Even though it is just 20 seconds long, the end screen of your YouTube video can be the most important aspect of the entire video. It is a great way to further engage with your audience and with the tools on
-
-this list, you can now create the best end screen for your video.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-**_Key Features_**
-
-* You can export the completed video in very high quality
-* It can be used to create and edit GIFs
-* It has numerous editing tools including noise removal options, advanced color tuning, advanced text editor, scene stabilization, and more.
-* You can add audio including voiceover and music to the video
-* It has a very simple user interface that makes it very easy to use
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Canva
-
-Canva is a simple-to-use animated YouTube end screen maker that has a large library of resources ideal for creating different types of end screens. One of the best things about Canva is the numerous templates that you can choose from, along with effects and media files including stock photos that can be very useful when creating your video.
-
-![canva](https://images.wondershare.com/filmora/article-images/change-background-color-border-canva.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Although most of the features, including many of the templates, are free, the best resources are only available on the premium plan. Using a premium photo or template will mean that a watermark is added to your design.
-
-**_Key Features_**
-
-* Most of the resources you need to create your end screen on Canva are free
-* The interface is very easy to use, with tutorials that can help when you get stuck.
-* It has many great resources including stock images and unique templates
-* You can add many effects to the end screen
-
-### Fotor
-
-Fotor is another great solution that can be very useful in creating the YouTube end screen. It comes with a lot of different templates to choose from, allowing you to customize the end screen for maximum engagement. You can also upload your images to use in the project or choose from the Fotor library which offers options for different kinds of videos.
-
-![fotor](https://images.wondershare.com/filmora/article-images/remove-emoji-online-with-fotor.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-**_Key Features_**
-
-* Most of the templates that you can choose are completely free to use
-* The templates also come in different sizes to suit all needs
-* You can use one of the many effects to further customize the end screen.
-* The templates and effects are also customizable
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Snappa
 
 Snappa can also be a good way to create the perfect end screen for your YouTube video. It is a versatile solution with a lot of options to help you customize the end screen to suit your brand and targets. One such resource is the huge library of stock images as well as icons and shapes that you can choose from. Snappa makes the process much easier by allowing you to start from a suitable template that you can then customize as desired.
@@ -875,12 +545,6 @@ Canva is a simple-to-use animated YouTube end screen maker that has a large libr
 
 ![canva](https://images.wondershare.com/filmora/article-images/change-background-color-border-canva.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Although most of the features, including many of the templates, are free, the best resources are only available on the premium plan. Using a premium photo or template will mean that a watermark is added to your design.
 
 **_Key Features_**
@@ -890,18 +554,6 @@ Although most of the features, including many of the templates, are free, the be
 * It has many great resources including stock images and unique templates
 * You can add many effects to the end screen
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fotor
 
 Fotor is another great solution that can be very useful in creating the YouTube end screen. It comes with a lot of different templates to choose from, allowing you to customize the end screen for maximum engagement. You can also upload your images to use in the project or choose from the Fotor library which offers options for different kinds of videos.
@@ -928,18 +580,6 @@ Snappa can also be a good way to create the perfect end screen for your YouTube 
 * You can also start from a blank canvas and work from there
 * There is also a large library of stock photos that you can choose from
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Placeit.net
 
 This is an online solution that is one of the best ways to create an end screen for your YouTube video. The user interface is very simple to navigate and very well designed, allowing you to easily create the end screen even if you are a beginner.
@@ -955,12 +595,6 @@ You can upload your images to add to the design or choose from the large library
 * The interface is very easy to use
 * Most of the resources are available for free
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Kapwing
 
 Kapwing is an online video editing solution that you can also use to create an end screen for your YouTube video. It has extensive features that can allow you to customize your end screen any way you want to. It has numerous templates to choose from and the simple drag-and-drop interface makes creating the end screen very easy.
@@ -992,12 +626,6 @@ Step 5: You may also want to add your social media handles to the end screen. To
 
 You are now ready to save and export the end screen and add it to your YouTube video.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Related FAQs About End Screen Maker
 
 **1.** **How Do You Make an End Screen?**
@@ -1030,18 +658,6 @@ For macOS 10.12 or later
 * You can add audio including voiceover and music to the video
 * It has a very simple user interface that makes it very easy to use
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Canva
 
 Canva is a simple-to-use animated YouTube end screen maker that has a large library of resources ideal for creating different types of end screens. One of the best things about Canva is the numerous templates that you can choose from, along with effects and media files including stock photos that can be very useful when creating your video.
@@ -1057,17 +673,18 @@ Although most of the features, including many of the templates, are free, the be
 * It has many great resources including stock images and unique templates
 * You can add many effects to the end screen
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fotor
 
 Fotor is another great solution that can be very useful in creating the YouTube end screen. It comes with a lot of different templates to choose from, allowing you to customize the end screen for maximum engagement. You can also upload your images to use in the project or choose from the Fotor library which offers options for different kinds of videos.
 
 ![fotor](https://images.wondershare.com/filmora/article-images/remove-emoji-online-with-fotor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **_Key Features_**
 
@@ -1076,30 +693,12 @@ Fotor is another great solution that can be very useful in creating the YouTube 
 * You can use one of the many effects to further customize the end screen.
 * The templates and effects are also customizable
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Snappa
 
 Snappa can also be a good way to create the perfect end screen for your YouTube video. It is a versatile solution with a lot of options to help you customize the end screen to suit your brand and targets. One such resource is the huge library of stock images as well as icons and shapes that you can choose from. Snappa makes the process much easier by allowing you to start from a suitable template that you can then customize as desired.
 
 ![snappa](https://images.wondershare.com/filmora/article-images/snappa-interface.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **_Key Features_**
 
 * There are a lot of templates to choose from
@@ -1122,30 +721,131 @@ You can upload your images to add to the design or choose from the large library
 * The interface is very easy to use
 * Most of the resources are available for free
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Kapwing
 
 Kapwing is an online video editing solution that you can also use to create an end screen for your YouTube video. It has extensive features that can allow you to customize your end screen any way you want to. It has numerous templates to choose from and the simple drag-and-drop interface makes creating the end screen very easy.
 
 ![kapwing](https://images.wondershare.com/filmora/article-images/kapwing-upload-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+**_Key Features_**
+
+* You can choose the size of the end screen to use
+* There are a lot of templates to choose from
+* You can upload your images and other elements to the project
+* You get to choose the duration of the end screen before you begin the project
+
+**How to Make an End Screen with Filmora**
+
+Creating an end screen for your YouTube video using Filmora is a very simple process. Use these steps to do it;
+
+Step 1: The first thing you need to do is install Filmora on your computer. You can download the setup file from the main website and then follow the instructions on the setup wizard to install the program.
+
+Once the installation is complete, open the program and click on “New Project” to start.
+
+Step 2: Click on the “Titles” section and search for “End Screen” using the search bar. Select the best template for your end screen and drag it into the timeline.
+
+Step 3: Now you are ready to add elements to the end screen. Add your profile picture on a new track across the timeline and stretch it to fit the screen as desired.
+
+Step 4: Click on “Effects” and use the search function to search for the “Mask” effect. When you find it, add it across the timeline and double-click on it to open its settings and adjust the effect accordingly.
+
+Step 5: You may also want to add your social media handles to the end screen. To do that, use the “Titles” tab to find the different social media handles and add each one to the timeline.
+
+You are now ready to save and export the end screen and add it to your YouTube video.
+
+## Related FAQs About End Screen Maker
+
+**1.** **How Do You Make an End Screen?**
+
+Making an end screen is different depending on the tool that you use to create the end screen as well as the number of elements that you choose to add to it. But usually, you would start with a template and begin adding elements to the project one by one.
+
+**2.What is the Best Free Outro Maker?**
+
+The best tool to create an end screen for YouTube videos is Filmora simply because it makes the process very easy while allowing you to customize your creation as much as you need. But even though it has a free trial version, most of the features you need to create a unique end screen are not available on the free plan.
+
+A good free solution would be Canva because it has numerous free resources that can create a decent end screen. Although we must point out that many of the best templates and elements on Canva are also not available for free.
+
+**3.How Long can a YouTube End Screen Be?**
+
+A typical end screen is often 5-20 seconds long. You don’t need any more than 20 seconds because it is only used as a way to promote additional content or add a call to action. So when creating an End screen, ensure that all elements are clear enough as your audience will have only 20 seconds to see it.
+
+Even though it is just 20 seconds long, the end screen of your YouTube video can be the most important aspect of the entire video. It is a great way to further engage with your audience and with the tools on
+
+this list, you can now create the best end screen for your video.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+**_Key Features_**
+
+* You can export the completed video in very high quality
+* It can be used to create and edit GIFs
+* It has numerous editing tools including noise removal options, advanced color tuning, advanced text editor, scene stabilization, and more.
+* You can add audio including voiceover and music to the video
+* It has a very simple user interface that makes it very easy to use
+
+### Canva
+
+Canva is a simple-to-use animated YouTube end screen maker that has a large library of resources ideal for creating different types of end screens. One of the best things about Canva is the numerous templates that you can choose from, along with effects and media files including stock photos that can be very useful when creating your video.
+
+![canva](https://images.wondershare.com/filmora/article-images/change-background-color-border-canva.jpg)
+
+Although most of the features, including many of the templates, are free, the best resources are only available on the premium plan. Using a premium photo or template will mean that a watermark is added to your design.
+
+**_Key Features_**
+
+* Most of the resources you need to create your end screen on Canva are free
+* The interface is very easy to use, with tutorials that can help when you get stuck.
+* It has many great resources including stock images and unique templates
+* You can add many effects to the end screen
+
+### Fotor
+
+Fotor is another great solution that can be very useful in creating the YouTube end screen. It comes with a lot of different templates to choose from, allowing you to customize the end screen for maximum engagement. You can also upload your images to use in the project or choose from the Fotor library which offers options for different kinds of videos.
+
+![fotor](https://images.wondershare.com/filmora/article-images/remove-emoji-online-with-fotor.jpg)
+
+**_Key Features_**
+
+* Most of the templates that you can choose are completely free to use
+* The templates also come in different sizes to suit all needs
+* You can use one of the many effects to further customize the end screen.
+* The templates and effects are also customizable
+
+### Snappa
+
+Snappa can also be a good way to create the perfect end screen for your YouTube video. It is a versatile solution with a lot of options to help you customize the end screen to suit your brand and targets. One such resource is the huge library of stock images as well as icons and shapes that you can choose from. Snappa makes the process much easier by allowing you to start from a suitable template that you can then customize as desired.
+
+![snappa](https://images.wondershare.com/filmora/article-images/snappa-interface.jpg)
+
+**_Key Features_**
+
+* There are a lot of templates to choose from
+* You can import your media files to customize the design
+* You can also start from a blank canvas and work from there
+* There is also a large library of stock photos that you can choose from
+
+### Placeit.net
+
+This is an online solution that is one of the best ways to create an end screen for your YouTube video. The user interface is very simple to navigate and very well designed, allowing you to easily create the end screen even if you are a beginner.
+
+![placeit](https://images.wondershare.com/filmora/article-images/placeit-video-intro-maker.jpg)
+
+You can upload your images to add to the design or choose from the large library of resources that Placeit.net provides. You also have numerous export options to choose from.
+
+**_Key Features_**
+
+* There are numerous templates to choose from
+* You can export the end screen with transparency
+* The interface is very easy to use
+* Most of the resources are available for free
+
+### Kapwing
+
+Kapwing is an online video editing solution that you can also use to create an end screen for your YouTube video. It has extensive features that can allow you to customize your end screen any way you want to. It has numerous templates to choose from and the simple drag-and-drop interface makes creating the end screen very easy.
+
+![kapwing](https://images.wondershare.com/filmora/article-images/kapwing-upload-video.jpg)
+
 **_Key Features_**
 
 * You can choose the size of the end screen to use
@@ -1197,12 +897,6 @@ this list, you can now create the best end screen for your video.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Font Effects to Videos
 
 Adding titles and texts to a video clip during the post-production phase is a common thing. You may need to add texts in the intro and outro of the video as well as to highlight important parts in the middle of the video. Showing regular and static texts and titles is very unappealing, and that is why everyone includes font effects to animate the texts.
@@ -1229,12 +923,6 @@ Step4Drag and drop the video file into the Timeline. You can add multiple video 
 
 ![arrange the video file](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step5Go to Titles located at the top bar. From the left panel, select any category of text effect and drop into the Timeline on top of the video clip. You should place the text effect on the Timeline wherever you want it to appear in the video. You can also stretch the duration of the text effect as per your preference.
 
 ![duration of the text effect](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
@@ -1245,12 +933,6 @@ Step6Customize the text effect by double clicking on the text effect located on 
 
 Step7Play the video and click on Export button. Select your desired file format and save the edited video on your hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. Add Video Font Effects on Mac
 
 If you are using a Mac where you want to edit your video and add font effects, you do not have to install any external video editor. This is because Mac comes with a built-in video editor called iMovie by Apple where you can easily add font effects. There are different types of video font effects available on iMovie starting from animated titles to credits and callouts. You can get similar font for After Effect on iMovie. Here are the steps to add video font effects on Mac.
@@ -1258,6 +940,13 @@ If you are using a Mac where you want to edit your video and add font effects, y
 Step1Open iMovie on your Mac from Applications folder. Go to File> Import Media option to import your video under Project Media.
 
 ![import media into imovie](https://images.wondershare.com/filmora/article-images/2022/08/import-media-into-imovie.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2Drag and drop the selected video into Timeline for your iMovie project. Click on Titles tab located at the top.
 
@@ -1267,30 +956,12 @@ Step3Place the mouse point over the different text styles to check them. Drag an
 
 ![drag text title imovie](https://images.wondershare.com/filmora/article-images/2022/08/drag-text-title-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4From Viewer interface, double click on the text part of the video to customize the text. You will see options to change the font, font size, color and much more.
 
 ![edit title text imovie](https://images.wondershare.com/filmora/article-images/2022/08/edit-title-text-imovie.jpg)
 
 Step5Play the video and once you are satisfied, go to File> Share> File and save the edited video on your storage device.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. How to Add Font Effects Online
 
 If you edit videos occasionally and you want to add font effects to your video without downloading any video editor, you can use an online video editor. There are several online video editors you will come across, but for adding free font effects, we recommend FlexClip video editor. It is a completely free online video editor where you can edit and export video without any watermark. There are several elegant font effects available, and you can make easy adjustments instantly. Here are the steps to add font effects to your video.
@@ -1307,34 +978,10 @@ Step3Double-click on the font effect on the Viewer and customize all the paramet
 
 ![customize text flexclip](https://images.wondershare.com/filmora/article-images/2022/08/customize-text-flexclip.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4Once you are satisfied, click on Export button in the top-right corner.
 
 ![export video flexclip online](https://images.wondershare.com/filmora/article-images/2022/08/export-video-flexclip-online.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Adding font effects on video is a common practice especially when you have intro and outro in your video clip. Instead of the regular titles and texts, you should opt for creative font effects so that the text parts on your video look attractive. If it is a one-time thing, you can opt for an online video editor. If you use a Mac, you can use iMovie, and for Windows PC, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -1359,11 +1006,20 @@ Adding font effects on video is a common practice especially when you have intro
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-the-undercover-upsell-simple-image-saving-for-2024/"><u>[New] The Undercover Upsell Simple Image Saving for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-from-novice-to-virtuoso-your-guide-to-windows-8-movie-maker-for-2024/"><u>[Updated] From Novice to Virtuoso Your Guide to Windows 8 Movie Maker for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-drone-list-to-maximize-gopro-video-quality/"><u>[Updated] Ultimate Drone List to Maximize GoPro Video Quality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-race-for-screen-capture-excellence-whos-leading-obs-or-fraps/"><u>2024 Approved The Race for Screen Capture Excellence Who's Leading? – OBS or Fraps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/5-tools-to-create-a-time-lapse-video-online/"><u>5 Tools to Create a Time-Lapse Video Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/choosing-the-right-streaming-device-roku-vs-amazon-fire-tv-stick/"><u>Choosing the Right Streaming Device: Roku Vs. Amazon Fire TV Stick</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/discover-a-quick-guide-to-add-personalized-video-filters-in-vn-app-learn-how-to-use-built-in-filters-and-import-external-ones-for-creative-video-editing-for/"><u>Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/gtx-950-error-43-fix-guide-a-comprehensive-solution-for-windows-11-users/"><u>GTX 950 'Error 43' Fix Guide: A Comprehensive Solution for Windows 11 Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-detailed-guide-to-rotate-videos-in-blender/"><u>In 2024, Detailed Guide to Rotate Videos in Blender</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-6s-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 6s Properly</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-future-of-your-info-after-fb/"><u>The Future of Your Info After FB</u></a></li>
+<li><a href="https://games-able.techidaily.com/walletfriendly-hd-gamerscreen-led27m2v/"><u>WalletFriendly HD GamerScreen LED27M2V</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-save-your-edited-video-file-in-mp4-format-in-windows-movie-maker-here-are-the-simple-steps-along-with-a-better-alternative/"><u>Want to Save Your Edited Video File in MP4 Format in Windows Movie Maker? Here Are the Simple Steps Along with a Better Alternative</u></a></li>
+</ul></div>
 

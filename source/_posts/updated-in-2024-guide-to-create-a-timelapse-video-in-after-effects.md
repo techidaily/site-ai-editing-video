@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Guide to Create a Timelapse Video in After Effects
-date: 2024-09-22T09:07:51.168Z
-updated: 2024-09-28T05:19:03.964Z
+date: 2024-09-27T16:40:43.044Z
+updated: 2024-10-02T22:09:00.954Z
 tags: 
   - ai
   - animation videos
@@ -39,6 +39,13 @@ You are prepared to make a time-lapse sequence if all of your photographs are sa
 
 ![import images into after effects](https://images.wondershare.com/filmora/article-images/2022/11/import-images-into-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3\. Create movements
 
 1. After Effects' Time-Lapse Sequence can be used just like any other standalone clip. This implies that you may give your time-lapse clip movement by adding Keyframes and Effects.
@@ -55,6 +62,13 @@ You can import your video after you've shot it to prepare it for editing. The sa
 3. Choose Time>Time Stretch by performing a right-click on the performer clip.
 4. You can alter the Stretch Factor or Duration in the dialogue box. When you alter one parameter, the other will reflect the new Stretch Factor or Duration for you.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 5\. Make an overlay
 
 You can alter the Stretch Factor or Duration in the dialogue box. When you alter one parameter, the other will reflect the new Stretch Factor or Duration for you.
@@ -70,19 +84,6 @@ You can alter the Stretch Factor or Duration in the dialogue box. When you alter
 After Effects CC must be opened, a new project must be created, the Import File menu option must be selected, and the appropriate folder containing the altered still images must be located and selected before the time-lapse photos can be turned into a film. You need to make sure that the JPEG Series box is checked, as well as the Force Alphabetical Order box.
 
 Once you have clicked on the first image in the sequence. The time-lapse video that you uploaded appears in the project library. After performing a right-click on the filename, select "New Comp from Selection" from the context menu.
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 6\. Exporting your video
 
@@ -119,10 +120,10 @@ Have you ever seen the text reveal led by a subject when moving across the frame
 While it may look complicated, it's actually quite easy to create with a video editing program like Filmora. Filmora's masking feature allows users to create impressive and eye-catching text reveals in their videos. For those looking for a tutorial on how to make text reveal, here's a step-by-step guide to help you out.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to add text reveal effect using [Filmora's](https://tools.techidaily.com/wondershare/filmora/download/) masking tool
@@ -157,13 +158,6 @@ Go to Title > Plain Text > select which text styles suit you best. Then, drag th
 
 ![add and adjust the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Double-click on the title clip and type out your text. Then, adjust the text position and align it to the cut you have made.
 
 ![double-click on the title clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-5.gif)
@@ -215,6 +209,13 @@ Drag and drop your clip onto the first and third video tracks of the timeline. T
 Find the spot where you want the text reveals to start, then click the scissor icon to make a cut on the clip from the first video track.
 
 ![make a cut at the beginning of the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 4 Add and adjust the text
 
@@ -274,6 +275,13 @@ Find the spot where you want the text reveals to start, then click the scissor i
 
 ![make a cut at the beginning of the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 4 Add and adjust the text
 
 Go to Title > Plain Text > select which text styles suit you best. Then, drag the title to the second video track.
@@ -298,23 +306,9 @@ Double-click on each of the smaller clips and find the mask settings.
 
 ![double-click on each of the smaller clips](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Since the subject in this tutorial is moving from side to side, we are going to match the mask's y-axis setting, which is also the revealed text portion, with the subject's movement. Starting from the first clip, adjust the y-axis number to a smaller/bigger number.
 
 ![adjust the y-axis number](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-9.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 There we go! The final look should look like this:
 
@@ -339,6 +333,13 @@ You will need three video tracks in order to create this effect, so click the (+
 Drag and drop your clip onto the first and third video tracks of the timeline. Then, align them with each other.
 
 ![import the clip to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 3 Make a cut at the beginning of the text
 
@@ -373,13 +374,6 @@ Double-click on each of the smaller clips and find the mask settings.
 Since the subject in this tutorial is moving from side to side, we are going to match the mask's y-axis setting, which is also the revealed text portion, with the subject's movement. Starting from the first clip, adjust the y-axis number to a smaller/bigger number.
 
 ![adjust the y-axis number](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-9.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 There we go! The final look should look like this:
 
@@ -394,13 +388,6 @@ That is how we can create the text reveal effect using Wondershare Filmora. Usin
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Comment on YouTube Live Chat
 
@@ -513,9 +500,23 @@ Here comes another efficient video editor that works on the HD content like a pr
 
 ![AVS video editor to edit LOL Montage](https://images.wondershare.com/filmora/article-images/2022/05/lol-montage-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 AVS video editor
 
 The above-discussed video editors are reliable, and you can go for them without hesitation. It brings impressive effects to the recordings and helps you create lol montage video content.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to edit your LOL Montage video
 
@@ -555,13 +556,6 @@ Thus, this article has given valuable insights into the LOL montage video making
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2Add Visual effects
 
 Now, select the Effects option in the Menu and witness the list of visual effects available as a built-in asset in the Filmora library. Then, choose the favorite effect option and right-click to select the Apply pop-up message. This activity applies the effect to the uploaded content in no time. You can use the Preview option to view the video effect on the recordings before making the final download of the edited content.
@@ -598,19 +592,21 @@ Thus, this article has given valuable insights into the LOL montage video making
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/reating-striking-channel-imagery-best-practices-for-success/"><u>[New] Creating Striking Channel Imagery Best Practices for Success</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-boosting-game-speed-optimizing-minecrafts-ram-usage/"><u>[Updated] In 2024, Boosting Game Speed Optimizing Minecraft's RAM Usage</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-understanding-limits-to-instagram-videography-for-2024/"><u>[Updated] Understanding Limits to Instagram Videography for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-11-tips-to-make-product-ad-videos/"><u>2024 Approved 11 Tips to Make Product Ad Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/best-choices-for-switchs-hd-gaming/"><u>Best Choices for Switch's HD Gaming</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-samsung-galaxy-f04-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy F04 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-way-to-add-transitions-to-videos/"><u>In 2024, Easy Way to Add Transitions to Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-vloggers-fears-decoded-combat-strategies-for-everyone/"><u>In 2024, Vloggers' Fears Decoded Combat Strategies for Everyone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-scheduled-text-notifications-with-your-iphones-reminders-app/"><u>Mastering Scheduled Text Notifications with Your iPhone's Reminders App</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-applying-the-effect-of-camera-shake-in-video-creation/"><u>New Applying the Effect of Camera Shake in Video Creation</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-glitch-text-effect-for-2024/"><u>New Create Glitch Text Effect for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-time-lapse-to-normal-video/"><u>New In 2024, How to Convert Time-Lapse to Normal Video</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-right-methods-to-refresh-your-dell-webcams-software/"><u>The Right Methods to Refresh Your Dell Webcam's Software</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-14-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 14</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-discovering-portable-recording-solutions-for-mac-users/"><u>[Updated] 2024 Approved Discovering Portable Recording Solutions for Mac Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unlocking-emotional-depth-in-self-narrated-videos-yt/"><u>[Updated] 2024 Approved Unlocking Emotional Depth in Self-Narrated Videos YT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-core-principles-of-crafting-convincing-video-endorsements/"><u>[Updated] Core Principles of Crafting Convincing Video Endorsements</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-is-a-recommendation-about-bandicut-if-you-are-confused-please-check-it-out/"><u>2024 Approved This Is a Recommendation About Bandicut. If You Are Confused, Please Check It Out</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-a-stunning-light-sweep-effect-in-filmora-use-simple-and-easy-steps-to-export-a-high-quality-video-that-will-impress-even-pro-video-editors-for-2024.m/"><u>Create a Stunning Light Sweep Effect in Filmora. Use Simple and Easy Steps to Export a High-Quality Video that Will Impress Even Pro Video Editors for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-do-masking-in-after-effects-alternative-provided-for-2024/"><u>How to Do Masking in After Effects Alternative Provided for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-guide-for-setting-tiktok-countdown-timer/"><u>In 2024, Best Guide for Setting TikTok Countdown Timer</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-home-wifi-with-tp-links-easymesh-deco-p9-detailed-insights-and-analysis/"><u>Mastering Home WiFi with TP-Link's EasyMesh Deco P9: Detailed Insights and Analysis</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-freeze-frame-to-your-video-from-any-device/"><u>New 2024 Approved How to Add Freeze Frame to Your Video From Any Device?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-free-ways-to-download-mobile-phone-green-screen-videos-and-pictures-no-copyright/"><u>New Free Ways to Download Mobile Phone Green Screen Videos and Pictures No Copyright</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-filter-to-video-online/"><u>New In 2024, How to Add Filter to Video Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/share-wide-enhancing-instagram-stories-with-youtube-content-for-2024/"><u>Share Wide Enhancing Instagram Stories With YouTube Content for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/simple-steps-for-quick-conversion-from-m4a-to-mp3-files/"><u>Simple Steps for Quick Conversion From M4A to MP3 Files</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/top-rated-dvd-crackers-for-macos-your-guide-to-bypassing-disc-encryption/"><u>Top Rated DVD Crackers for macOS : Your Guide to Bypassing Disc Encryption</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-fixing-0x0000004e-in-windows-1011/"><u>Unraveling and Fixing 0X0000004E in Windows 10/11</u></a></li>
 </ul></div>
 

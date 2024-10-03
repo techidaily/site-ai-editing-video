@@ -1,7 +1,7 @@
 ---
 title: New If You Want to Know What to Prepare and How to Make the Wedding Video Perfect for Videographers, Check Out This Menu Here
-date: 2024-09-13T02:18:10.094Z
-updated: 2024-09-18T21:55:55.794Z
+date: 2024-09-28T06:41:08.476Z
+updated: 2024-10-02T23:17:19.772Z
 tags: 
   - ai
   - animation videos
@@ -70,23 +70,9 @@ Some couples may want to keep their wedding video a surprise, while others will 
 
 If you're going to be filming the wedding by yourself, it's important to make sure you have all the necessary gear. However, if you're not comfortable doing this or feel like you might need some help, consider recruiting an assistant videographer. This person can help carry gear, set up equipment, and make sure everything is running smoothly on the day of the wedding.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 9\. Have some backups on hand, just in case
 
 Wedding videography is a big responsibility, and things can sometimes go wrong. Be sure to have some backups on hand, just in case. This includes extra batteries, memory cards, and cables. It's better to be safe than sorry, and having these backups will give you peace of mind knowing that you're prepared for anything.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 10\. Arrive early to set up and test your equipment
 
@@ -184,6 +170,13 @@ While it's important to capture the big moments, such as the ceremony and speech
 ### 12\. Have fun
 
 Wedding videography can be a lot of work, but it's also a lot of fun. Be sure to enjoy yourself and have a good time while you're working. This will come through in your final product and the couple will be sure to appreciate it.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## BONUS: Important moments to capture on the wedding day
 
@@ -332,6 +325,13 @@ Double-click the clip and change the scale of the effect to your needs. Then, go
 
 ![change the scale of the effect](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now, go to color and open the white balance menu. Drag the two sliders to change the color of the particles to match your clip.
 
 ![open the white balance menu](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-15.jpg)
@@ -351,13 +351,6 @@ Step1 Take your first clip in the “normal” world and drag it down to a video
 Step2 Drag the second clip (in the Upside Down) onto the video track on the timeline after the first clip. Trim this video, so it begins in pure black and an upward motion.
 
 ![trim video](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Cut the clips to get the timing right since it should be a very fast transition. You can cut in the black frames so they won't be too apparent.
 
@@ -400,6 +393,19 @@ You can adjust the opacity by double-clicking the smoke effect to open the setti
 Finally, go to the **Transition > Basic > Dissolve** to the start of the smoke and adjust it when the smoke gradually appears.
 
 ![open the setting](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-12.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Resources from Filmostock
 
@@ -523,6 +529,13 @@ Place your video on a timeline or just simply drag and drop your video clip on t
 
 ![put the video on the timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Add effects and transitions
 
 After putting the video on the timeline add some effects to your video. If you are combining two or more videos then must add a dissolve transition between the videos to show your video more seamlessly.
@@ -570,6 +583,13 @@ After putting the video on the timeline add some effects to your video. If you a
 After making all the editing videos, you can also select the duration according to your requirements. You can also edit the duration of your per video.
 
 ![edit the duration of the video then export it](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -708,13 +728,6 @@ Moreover, it offers an extensive library of built-in LUTs. You can take your vid
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Why Are Lumetri Color Presets Important?
 
 There are many benefits attached to the use of a **Lumetri preset**. These benefits range from saving your time and effort to enhancing your video to new heights. Given below are some factors which emphasize the importance of Lumetri color presets:
@@ -735,6 +748,13 @@ You can use Lumetri color presets as a base for further color grading adjustment
 
 Using Lumetri color can help maintain consistency across different video projects. It is especially important for branding purposes. Furthermore, it can help establish a recognizable visual style. Besides, using similar presets across different videos gives a cohesive look.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How To Install Free Lumetri Color Presets on Device?
 
 There is no doubt that Lumetri Color Presets are an essential tool for video editors. These presets help enhance the quality of their videos. Moreover, they also offer various color grading options. If you are looking for free Lumetri Color Presets, we have good news. Given below are the simple steps for free **Lumetri Color download** and installation:
@@ -753,6 +773,13 @@ Here, you need to access the “Lumetri” folder. To do that, you need to hold 
 
 ![access lumetri folder](https://images.wondershare.com/filmora/article-images/2023/access-lumetri-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3Unzip The Presets To Lumetri Folder
 
 Now, you need to access the "Cine" folder within the "Lumetri" folder. Afterward, move all “.look” files from the unzipped “PremiumBeat Hollywood Lumetri Looks” folder. Mac users can do that using the drag-and-drop method, while Windows users can do copy/paste.
@@ -769,18 +796,24 @@ After downloading free Lumetri presets, you need to restart your Adobe Premier P
 
 ![lead to the color workspace](https://images.wondershare.com/filmora/article-images/2023/lead-to-the-color-workspace.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 2Lead Into Lumetri Color Section
 
 Scroll down in the "Lumetri Color" panel to find the "Creative" section. Here click the "Look" dropdown menu, and you will find all the installed presets here.
 
 ![look for the installed presets](https://images.wondershare.com/filmora/article-images/2023/look-for-the-installed-presets.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 3Apply the Required Presets
 
@@ -831,5 +864,24 @@ Moreover, it offers an extensive library of built-in LUTs. You can take your vid
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-enhancing-narrative-flow-integrating-chapters-into-your-youtube-content/"><u>[New] 2024 Approved Enhancing Narrative Flow Integrating Chapters Into Your YouTube Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-audiovisual-ascension-masterful-lighting-techniques-unveiled-for-2024/"><u>[New] Audiovisual Ascension Masterful Lighting Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/haring-stories-every-day-best-practices-in-personal-videography/"><u>[New] Sharing Stories Every Day Best Practices in Personal Videography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-how-to-use-premiere-audio-transition/"><u>[Updated] How to Use Premiere Audio Transition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-smartcapture-hd-v2-for-2024/"><u>[Updated] SmartCapture HD V2 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-streamlining-your-path-a-comprehensive-guide-to-google-podcasts-for-2024/"><u>[Updated] Streamlining Your Path A Comprehensive Guide to Google Podcasts for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/expert-tips-to-correct-acrocefexeexe-error-and-enhance-stability/"><u>Expert Tips to Correct acrocefexe.exe Error and Enhance Stability</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/exploring-flexus-200-a-revolutionary-audio-experience/"><u>Exploring Flexus 200: A Revolutionary Audio Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/fixing-common-issues-with-steam-remote-play-for-a-seamless-gaming-experience/"><u>Fixing Common Issues with Steam Remote Play for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-basic-tools-to-advanced-systems-prepping-for-transformation/"><u>From Basic Tools to Advanced Systems Prepping for Transformation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-pursuit-of-perfection-the-in-depth-review-of-benqs-27-high-def-display-bl2711u/"><u>In Pursuit of Perfection The In-Depth Review of BenQ’s 27” High-Def Display, BL2711U</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/score-big-savings-on-gadgets-during-amazons-2024-prime-day-extravaganza/"><u>Score Big Savings on Gadgets During Amazon's 2024 Prime Day Extravaganza</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/solutions-for-fixing-misinstalled-ryzen-master-driver-on-your-pc/"><u>Solutions for Fixing Misinstalled Ryzen Master Driver on Your PC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-list-top-2024-recommendations-for-quality-17-inch-laptops/"><u>The Ultimate List: Top 2024 Recommendations for Quality 17-Inch Laptops</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/troubleshooting-guide-for-common-minecraft-world-connection-errors/"><u>Troubleshooting Guide for Common Minecraft World Connection Errors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/unlock-more-fun-on-your-nes-classic-with-essential-game-installation-techniques/"><u>Unlock More Fun on Your NES Classic with Essential Game Installation Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-webinar-guide-host-without-spending-for-2024/"><u>YouTube Webinar Guide Host Without Spending for 2024</u></a></li>
+</ul></div>
 

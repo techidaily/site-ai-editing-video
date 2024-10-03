@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Top 10 Sony LUT for Different Purposes
-date: 2024-09-24T03:42:49.134Z
-updated: 2024-09-27T23:02:15.657Z
+date: 2024-09-29T11:19:29.886Z
+updated: 2024-10-03T11:21:41.498Z
 tags: 
   - ai
   - animation videos
@@ -43,13 +43,6 @@ Time spent in a color-grade suite may be highly costly, and it can lead your fil
 
 Whether it's a client or a personal project, things can often get pushed to the last minute, so having something in your arsenal that can save you time is always a good bonus. There are, however, projects where you need to appear competent without investing a lot of time on them due to budget limits; this is where a lookup table comes in handy because you can modify the complete style of your movie in a matter of seconds by pressing a few buttons. Even complicated editing can be completed quickly, giving you more time to work on other tasks that will earn you more money.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. It provides an artistic approach
 
 LUTs are beneficial because they allow videos shot with cameras that shoot very dark, discolored images to have more vivid tones and contrast. This is excellent for grabbing viewers' attention and making videos more intriguing and engaging. LUTs add an artistic element to videos and can help you develop a visual artistic identity for your videos if you use the same colors. Another advantage of LUTs is that they enhance the color quality of videos shot on smartphones with particular color schemes. Although this varies significantly from brand to brand, you can use LUTs to make a Smartphone video more vibrant and appealing.
@@ -83,10 +76,10 @@ Nature has influenced it. Nature LUTs are designed to complement the natural env
 Sony Nature LUTs
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Sony A7S III, FX3 & A7 IV – S-Log 3 Correction LUTs
@@ -96,6 +89,13 @@ Three correction LUTs are explicitly created for S-Log 3 footage. They are compa
 ![Sony Lut - Sony A7S III, FX3 & A7 IV – S-Log 3 Correction LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-4.jpg)
 
 Sony A7S III, FX3 & A7 IV – S-Log 3 Correction LUTs
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Sony Cine-4 Film and Standard LUTs
 
@@ -128,20 +128,13 @@ This Sony LUT adds a creamy feel to the video, making it more appealing while al
 ![Sony Lut - Sony LUT Dessert](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sony LUT "Dessert"
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 9\. Sony LUTs for the premiere
 
@@ -226,6 +219,13 @@ Subtitle formats are often represented funnily. You see extensions like .srt, .s
 **Micro DVD:** This subtitle format is compatible with digital videos. They equally carry the ‘. sub’ extension.
 
 **Spruce subtitle format:** They usually operate in sequential periods and frames. They have the ‘.stl’ format.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. What Are Subtitles Used For?
 
@@ -361,13 +361,6 @@ Now find the **Animation** tab, then click the **Customize** tab. Next, click **
 
 ![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
 
 ##### Step3 Add retro filters and effects to the video
@@ -384,18 +377,18 @@ Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. Yo
 
 ![import the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 First, run Wondershare Filmora and add the video with the hoop dancer on the first track. Then, move the disco ball footage right above the first video track.
 
 ##### Step2 Add an animation keyframe
 
 ![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
 
@@ -413,6 +406,13 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Summary
 
 Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
@@ -427,13 +427,6 @@ First, run Wondershare Filmora and add the video with the hoop dancer on the fir
 
 ![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
 
 ![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
@@ -447,6 +440,13 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 ##### Step3 Add retro filters and effects to the video
 
 ![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
@@ -503,13 +503,6 @@ Step3 Find the spot where you want to create a transition between the day and ni
 
 ![create a transition](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Since the transition for this tutorial is where the subject started waving, make sure to place the daytime clip at the same time the subject started waving in the nighttime clip. Hence, the timing in both clips syncs.
 
 **Masking transition**
@@ -519,6 +512,19 @@ For the next step, we will make a masking transition with the Filmora mask featu
 Step1 Double-click the daytime clip on the timeline. In the Filmora setting, find the **Mask section > Circle**. You can see the mask is applied in the preview screen.
 
 ![double-click the daytime clip](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-5.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Scroll down the setting and click add a keyframe at the beginning of the clip.
 
@@ -580,22 +586,21 @@ That is how to do this night-to-day transition night-to-day time shift effect in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-a-celebs-brief-appearance-scrutiny-for-2024/"><u>[Updated] A Celeb’s Brief Appearance Scrutiny for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-screen-saver-games-the-top-9-independent-titles-for-android-no-wi-fi/"><u>[Updated] In 2024, Screen-Saver Games The Top 9 Independent Titles for Android (No Wi-Fi)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-color-grading-in-final-cut-pro/"><u>2024 Approved How to Color Grading in Final Cut Pro</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-revolutionizing-video-revenue-a-conducive-guide-to-youtube-profits/"><u>2024 Approved Revolutionizing Video Revenue A Conducive Guide to Youtube Profits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-secrets-of-getting-up-close-in-roblox-environments/"><u>2024 Approved The Secrets of Getting Up Close in Roblox Environments</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/5-tools-to-create-a-time-lapse-video-online/"><u>5 Tools to Create a Time-Lapse Video Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/gtx-950-error-43-fix-guide-a-comprehensive-solution-for-windows-11-users/"><u>GTX 950 'Error 43' Fix Guide: A Comprehensive Solution for Windows 11 Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guide-to-perfect-images-the-no-money-way-for-2024/"><u>Guide to Perfect Images The No-Money Way for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/hassle-free-webinar-logging-tips-for-pc-and-mac-enthusiasts/"><u>Hassle-Free Webinar Logging Tips for PC & Mac Enthusiasts</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-detailed-guide-to-rotate-videos-in-blender/"><u>In 2024, Detailed Guide to Rotate Videos in Blender</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-fps-for-youtube-videos/"><u>In 2024, Overview of FPS for YouTube Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-rtx-2080-driver-download-for-windows-11-7-and-8/"><u>Latest RTX 2080 Driver Download for Windows 11, 7 and 8</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-change-speed-of-video-in-final-cut-pro/"><u>New In 2024, How To Change Speed of Video in Final Cut Pro?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premium-monitors-the-best-5-selection-for-ps5-gaming/"><u>Premium Monitors The Best 5 Selection for PS5 Gaming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pro-genius-in-ai-prompting-leading-courses-ranked/"><u>Pro Genius in AI Prompting: Leading Courses Ranked</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-looking-for-the-best-vhs-video-effect-makers-get-to-know-the-top-list-for-2024/"><u>Updated Looking For the Best VHS Video Effect Makers? Get To Know the Top List for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/want-to-save-your-edited-video-file-in-mp4-format-in-windows-movie-maker-here-are-the-simple-steps-along-with-a-better-alternative/"><u>Want to Save Your Edited Video File in MP4 Format in Windows Movie Maker? Here Are the Simple Steps Along with a Better Alternative</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-beyond-tube-the-premier-spots-for-online-video-sharing/"><u>[New] Beyond Tube The Premier Spots for Online Video Sharing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-direct-methods-reverse-film-frames-on-vlc-platform-for-2024/"><u>[New] Direct Methods Reverse Film Frames on VLC Platform for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-taking-screen-grabs-compliance-on-youtube/"><u>[New] In 2024, Taking Screen Grabs Compliance on YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-ways-to-remove-motion-blur-in-photoshop-for-2024/"><u>Easy Ways to Remove Motion Blur In Photoshop for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effective-techniques-for-reducing-size-of-wav-audio-using-the-movavi-wav-compressor/"><u>Effective Techniques for Reducing Size of WAV Audio: Using the Movavi WAV Compressor</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tial-tips-on-acquiring-profitable-yt-channels/"><u>Essential Tips on Acquiring Profitable YT Channels</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-set-up-twitch-green-screen/"><u>How to Set Up Twitch Green Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-kdenlive-is-a-free-open-source-video-editing-software-application-kdenlive-is-a-powerful-video-editor-that-can-be-used-to-create-professional-qualit/"><u>In 2024, Kdenlive Is a Free, Open-Source Video Editing Software Application. Kdenlive Is a Powerful Video Editor that Can Be Used to Create Professional-Quality Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-your-own-lol-montage-video-for-2024/"><u>New How to Create Your Own LOL Montage Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-3-best-effects-to-appear-on-camera-made-with-filmora/"><u>New In 2024, 3 Best Effects to Appear on Camera Made with Filmora</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/security-first-legitimate-tiktok-fan-buys-for-2024/"><u>Security First Legitimate TikTok Fan Buys for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-3-best-motion-blur-plugins-for-adobe-after-effects/"><u>Updated 2024 Approved 3 Best Motion Blur Plugins for Adobe After Effects</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>Updated In 2024, In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-t2-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo T2 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

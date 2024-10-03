@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Consider a LUT to Be a Color Preset that a Filmmaker Can Use to Start Working on a Project Quickly. Sony Engineers Have Developed LUTs to Help Filmmakers Perform Specific Tasks. All of These Are Available for Free
-date: 2024-09-17T20:27:42.318Z
-updated: 2024-09-19T01:36:38.953Z
+date: 2024-10-02T03:56:00.385Z
+updated: 2024-10-03T12:37:32.395Z
 tags: 
   - ai
   - animation videos
@@ -65,6 +65,13 @@ One of our choices is the Filmic Tone LUT set. It enhances your creativity by ad
 
 ![Sony Lut - Filmic Tone Creative LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Filmic Tone Creative LUTs
 
 ### 3\. Sony Nature LUTs
@@ -74,6 +81,13 @@ Nature has influenced it. Nature LUTs are designed to complement the natural env
 ![Sony Lut - Sony Nature LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-3.jpg)
 
 Sony Nature LUTs
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Sony A7S III, FX3 & A7 IV – S-Log 3 Correction LUTs
 
@@ -363,6 +377,19 @@ Do you also want to make a fantastic **Google earth zoom-in video?** Then let's 
 9. Click on the city name to see the **Google earth zoom-in video.**
 10. After the video is done, you can click on "Stop Recording."
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 This article covers how to enlarge and reduce the screen size in Google Chrome. You can enlarge and reduce your images' display using the Zoom feature if you want to control the size of a browser page's content. If you're using a touchscreen device, zoom in and then use two fingers to navigate the browser screen. Moreover, if you want to see the zoom level in the sheet, it can automatically become the new default. Users can zoom out the spreadsheet by VIEW>Zoom.
@@ -625,6 +652,13 @@ Tip #6
 
 Often, I might use a lower third to emphasize a certain point, or to use different wording (than I used in my video) if I think it makes the point clearer. This can be helpful if you make a small mistake in your original video and it makes more sense than adding b-roll over the video.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Step By Step To Explain Filmora
 
 Using [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) it is extremely easy to create a lower third for your video.
@@ -644,13 +678,6 @@ In this step, you will create a new project and then import the media and place 
 ![Import The Media](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-a-lower-third-to-your-video-03.jpg)
 
 Import The Media
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Find Title Option
 
@@ -687,6 +714,13 @@ Also, when deciding how often you need to use a lower third, you only need to us
 You did it. With this new skill you’ve now mastered the quickest way to impress your audience and increase the quality of your videos.
 
 The key is to practice and you’ll get better quickly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Start Using Lower Thirds Today
 
@@ -733,32 +767,26 @@ Step4 You will see all the different filters available on iMovie app. You can al
 
 ![filter options imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/filter-options-imovie-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Tap on Play icon to check how the filter is looking on your video. Once you are satisfied, tap on Done option located at the top-left corner.
 
 ![apply filter imovie video](https://images.wondershare.com/filmora/article-images/2022/07/apply-filter-imovie-video.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step6 Tap on Share icon at the bottom and then tap on Save Video option to save the modified video on your iPhone.
 
 ![save video imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/save-video-imovie-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to add filters on Mac iMovie
@@ -795,6 +823,13 @@ Step2 Drag and drop video clips under Project Media folder. Thereafter, drag and
 
 ![drag and drop video clip](https://images.wondershare.com/filmora/guide/create-new-project-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Go to Effects from the top panel and click on Filters from the left panel. You will see all the different categories of filters.
 
 ![click on filters](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
@@ -802,13 +837,6 @@ Step3 Go to Effects from the top panel and click on Filters from the left panel.
 Step4 Select any filter and drag and drop it on Timeline. You can stretch the duration of the filter as per your requirements.
 
 You can also check Overlay> Utility option from the left panel to add face filters to your video in the same manner. If you want to save the modified video, click on Export button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -825,19 +853,6 @@ Step2 Drag and drop video clips under Project Media folder. Thereafter, drag and
 Step3 Go to Effects from the top panel and click on Filters from the left panel. You will see all the different categories of filters.
 
 ![click on filters](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 Select any filter and drag and drop it on Timeline. You can stretch the duration of the filter as per your requirements.
 
@@ -861,5 +876,24 @@ If you are an iPhone user or a Mac user, you can add filters to your video using
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unveiling-first-episode-footage-examination/"><u>[New] In 2024, Unveiling First-Episode Footage Examination</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-walkers-wonderland-curating-the-top-8-zombie-video-experiences/"><u>[New] Walkers' Wonderland Curating the Top 8 Zombie Video Experiences</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-pubg-effective-techniques-for-altering-your-vocal-presence/"><u>[Updated] Mastering PUBG Effective Techniques for Altering Your Vocal Presence</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-ways-to-add-meme-text-to-videos/"><u>2024 Approved Best Ways to Add Meme Text to Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the-a/"><u>2024 Approved Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-spectacular-free-image-editors-the-new-era/"><u>2024 Approved Spectacular Free Image Editors The New Era</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-phantom-v-fold-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Phantom V Fold</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-vintage-film-effect-1920s/"><u>How to Create Vintage Film Effect 1920S</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-t2-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo T2 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-xiaomi-redmi-k70-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Xiaomi Redmi K70 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-assessment-of-the-enhanced-apple-watch-series-grower-is-it-possible-for-you-to-explain-how-these-titles-are-effective/"><u>In-Depth Assessment of the Enhanced Apple Watch Series Grower. Is It Possible for You to Explain How These Titles Are Effective?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-4-solutions-to-add-white-border-to-video-on-mobile-and-desktop/"><u>New 2024 Approved 4 Solutions to Add White Border to Video on Mobile and Desktop</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-customized-transitions-to-obs/"><u>New 2024 Approved How to Add Customized Transitions to OBS</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-create-the-night-to-day-effect-video/"><u>New 2024 Approved How to Create the Night-to-Day Effect Video</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-clearstream-eclipse-top-notch-performance-in-an-intuitively-simple-design-for-satisfied-users/"><u>The ClearStream Eclipse: Top-Notch Performance in an Intuitively Simple Design for Satisfied Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>Updated 2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-/"><u>Updated A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
+</ul></div>
 

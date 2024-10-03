@@ -1,7 +1,7 @@
 ---
 title: New Follow a Few Simple Steps and Learn How to Create a Professional Glowing Edge Effect to Your Videos in Filmora
-date: 2024-09-18T00:04:10.309Z
-updated: 2024-09-18T18:21:53.637Z
+date: 2024-09-30T06:12:43.343Z
+updated: 2024-10-03T09:18:01.012Z
 tags: 
   - ai
   - animation videos
@@ -385,6 +385,13 @@ The Moody LUT Pack includes 30 creative film LUTs that can be used to add mood a
 
 ![Moody LUT Pack | 30 Creative Film LUTs ](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. [Axinite](https://elements.envato.com/axinite-mobile-desktop-lightroom-presets-QY5D2RA?irgwc=1&clickid=1vh2djQ7QxyNT2OUvxSEOx55UkAX3oVlUS4M0o0&iradid=298927&utm%5Fcampaign=elements%5Faf%5F493214&iradtype=ONLINE%5FTRACKING%5FLINK&irmptype=mediapartner&utm%5Fmedium=affiliate&utm%5Fsource=impact%5Fradius&mp=Theme%20Junkie)
 
 Axinite is packed with multiple LUTs, each with its unique mood and style. This LUT pack shows a brighter and lighter mood in your videos and pictures. It increases the white balance in your media files, giving your content a calmer and lighter perspective. Furthermore, you can create more elegant content with a brighter touch to your digital files.
@@ -397,11 +404,25 @@ The Raw Layer LUT pack provides 4 moody LUTs that can add a cinematic touch to y
 
 ![Raw Layer ](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. [Moody Lake](https://www.freepresets.com/product/free-luts-moody-lake-lookup-table/)
 
 Moody Lake is a LUT pack that gives your photos and videos a colder look. It exposes your image or video footage and adds shades of blue to give a colder mood feel. These shades will add a more serious perspective to your digital media files. You can change your happy-looking media file to a more cold and sad-looking story using this LUT.
 
 ![ Moody Lake ](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6.[15 Earth Tones Moody Lightroom Preset](https://www.etsy.com/listing/1383194348/15-lightroom-presets-earthy-tones-effect)
 
@@ -414,6 +435,26 @@ Another impressive moody LUTs pack that comes with multiple options is Earth Ton
 Wedding & Rich LUTs by Moody Presets is a collection of LUT packs that adds a romantic mood to your wedding videos and photos. This pack of 66 LUTs adds a soft, dreamy look to your content by highlighting light colors. Moreover, it softens the light and increases the white balance of your media files to give a romantic and soft feel. Each LUT creates a newer impression on your digital media files in this pack.
 
 ![Wedding & Rich LUTs by Moody Presets](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-7.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Use Moody LUTs for VN Editor?
 
@@ -489,6 +530,13 @@ The Free LUTs Mood pack includes different LUTs presets for different moods. You
 The Moody LUT Pack includes 30 creative film LUTs that can be used to add mood and emotion to your photos and videos. These LUTs give your content a film-like look and feel with a range of moods to select. It darkens your shades and highlights certain colors to give your photos and videos a dramatic look. Moreover, it also adds a perspective to your content.
 
 ![Moody LUT Pack | 30 Creative Film LUTs ](https://images.wondershare.com/filmora/article-images/2023/06/moody-luts-for-vn-editor-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. [Axinite](https://elements.envato.com/axinite-mobile-desktop-lightroom-presets-QY5D2RA?irgwc=1&clickid=1vh2djQ7QxyNT2OUvxSEOx55UkAX3oVlUS4M0o0&iradid=298927&utm%5Fcampaign=elements%5Faf%5F493214&iradtype=ONLINE%5FTRACKING%5FLINK&irmptype=mediapartner&utm%5Fmedium=affiliate&utm%5Fsource=impact%5Fradius&mp=Theme%20Junkie)
 
@@ -586,6 +634,13 @@ In a nutshell, Media Player Classic is an open-source media player suitable for 
 
 ![media player classic interface](https://images.wondershare.com/filmora/article-images/media-player-classic.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 A programmer named "Gabest'' created and designed this platform as a closed-source application. Things changed, and he later relicensed the media player as free under the terms of the GLP-2.0 license. He released the final version, MPC 6.4.9.0, on 20th March 2006.
 
 Unfortunately, development stalled in 2006, much to the disappointment of many users who had grown to love it. Gabest made a public statement in 2007 saying that Media Player Classic was not dead, just that he couldn't work on it anymore.
@@ -606,13 +661,6 @@ Step2 Navigate to the left pane to the Player Group and click on "Keys." If the 
 
 ![keys in media player classic](https://images.wondershare.com/filmora/article-images/media-player-classic-keys.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Go to the "PnS Rotate+" command and double-click the "Key" field. You can then click on any key to rotate your video around the x-axis. Once you are satisfied with the results, click "…" to apply the changes you have made.
 
 ![pns rotate in media player classic](https://images.wondershare.com/filmora/article-images/media-player-classic-pns-rotate.jpg)
@@ -620,6 +668,13 @@ Step3 Go to the "PnS Rotate+" command and double-click the "Key" field. You can 
 Step4 You can now assign shortcuts to "PnS Rotate" commands. For instance, you could assign PnS Rotate Y for rotation along the Y axis and PnS Z for rotation along the Z axis. After each axis has a shortcut, select "Apply" then "OK" to save your changes and close the Options window respectively.
 
 ![apply rotate in media player classic](https://images.wondershare.com/filmora/article-images/media-player-classic-apply.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 Select "Output" on the Options window and navigate to the DirectShow Video section to confirm whether the Media Classic Player supports rotation for the rendered video. Ascertain the Rotation feature has a green check mark, which indicates that the platform promotes rotation for the video. If the video has a red X, select "Apply" and click "OK."
 
@@ -664,23 +719,9 @@ Step1 Import the video you want to rotate to Wondershare Filmora and drag and dr
 
 ![add media to timeline wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora-add-to-timeline-rotate.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Click on the monitor icon and select "Change Project Aspect Ratio" in the drop-down menu.
 
 ![change project aspect ratio wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora-change-project-ratio-rotate.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 In the "Project Settings" window, you can change your video's Aspect Ratio, Resolution, Frame Rate, and Color space.
 
@@ -689,13 +730,6 @@ Step3 In the "Project Settings" window, you can change your video's Aspect Ratio
 Step4 Once you are happy with your changes, click "OK" and close the window.
 
 ![project settings wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora-project-settings-rotate.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 Double-click the video track and navigate to the Rotate option in the window. Hover your mouse over the dot in the Rotate tab until you get to 90 degrees. You could also adjust the rotation of the video by clicking on the pivot in the media player till the video is at 90 degrees.
 
@@ -783,13 +817,6 @@ Step6 Click "Export" to save a copy of the rotated video to your device.
 
 ![export video wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora-export-video-rotate.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Is Better To Rotate a Video? Media Player Classic or Wondershare Filmora?
 
 Having seen both sides of the coin, you might wonder which option is better to help you rotate a video. In this section of the article, we pit Wondershare Filmora against Media Player Classic to help you determine which option will work best for you.
@@ -831,5 +858,22 @@ If you don't fancy editing videos on your laptop, you could download the softwar
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-charting-your-financial-course-the-3-step-methodology-for-estimating-youtube-income/"><u>[New] 2024 Approved Charting Your Financial Course The 3-Step Methodology for Estimating YouTube Income</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-index-of-digital-imagery-collections/"><u>[Updated] Premier Index of Digital Imagery Collections</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superior-3d-viewing-playback-on-android/"><u>[Updated] Superior 3D Viewing, Playback on Android</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/idea-generation-strategies-collaborative-techniques-with-mind-mapping-and-ai-tools-like-chatgpt/"><u>Idea Generation Strategies: Collaborative Techniques with Mind Mapping & AI Tools Like ChatGPT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-refresh-tutorials-how-to-reset-device-without-relying-on-apples-itunes/"><u>IPhone Refresh Tutorials: How To Reset Device without Relying on Apple's iTunes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies/"><u>Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-top-10-sony-lut-for-different-purposes/"><u>New 2024 Approved Top 10 Sony LUT for Different Purposes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/shotcut-review-is-it-the-best-free-video-editor-for-2024/"><u>Shotcut Review – Is It The Best Free Video Editor for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-understanding-and-leveraging-instagrams-reels-for-2024/"><u>The Ultimate Guide to Understanding and Leveraging Instagram's Reels for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-remove-audio-from-video-without-watermark/"><u>Updated How to Remove Audio From Video Without Watermark?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>Updated In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/you-can-easily-film-rotating-video-illusions-from-your-smartphone-and-edit-them-on-wondershare-filmora-in-just-a-few-clicks-for-2024/"><u>You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks for 2024</u></a></li>
+</ul></div>
 

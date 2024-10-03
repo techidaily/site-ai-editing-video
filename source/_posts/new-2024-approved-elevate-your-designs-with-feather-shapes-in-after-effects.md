@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects
-date: 2024-09-24T05:52:13.462Z
-updated: 2024-09-28T07:37:28.391Z
+date: 2024-09-29T05:31:51.743Z
+updated: 2024-10-03T08:25:15.019Z
 tags: 
   - ai
   - animation videos
@@ -28,13 +28,6 @@ Mask Edge Feather in After Effects is a feature that enables you to create a sof
 One of the key benefits of feathering masks is that it allows you to blend the masked object with its background, making the effect look more natural and convincing. The mask feather tool can also create custom feather shapes anywhere along the edge of the mask. To access the mask feather tool, switch to the pen tool by pressing the "**G**" key and selecting the feather pen.
 
 The mask edge feather feature in After Effects is a powerful and versatile tool that can help you achieve a wide range of creative effects. Whether you're creating an animation or visual effect, or want to add a professional touch to your designs, understanding how to use the mask feather tool is an essential skill in your After Effects toolkit.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How To Feather a Shape in After Effects?
 
@@ -65,10 +58,17 @@ Step2 Increase the "**Blur Radius**" to see the edges feather.
 ![after effects editing the blur radius](https://images.wondershare.com/filmora/article-images/after-effects-blur-radius.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How To Use Variable Mask Feather in After Effects?
@@ -98,13 +98,6 @@ Step4 Go to "**Pen Tool**" > "**Mask Feather Tool**" and **click** anywhere on t
 Step5 Drag the mask point feathering around the focus.
 
 ![after effects adjusting the mask feathering points](https://images.wondershare.com/filmora/article-images/after-effects-adjust-points.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This tutorial came from [Crish Design](https://www.youtube.com/watch?v=Lx7KTqgish8&t=38s). For more tutorials about After Effects tips and techniques, you can refer to the **Crish Design** YouTube channel.
 
@@ -137,6 +130,13 @@ Step1 Open Wondershare Filmora and **create** a new project. **Import** the vide
 Step2 Double-click the video in the Player Window. In the editing window, **click "Video**"> "**Mask**" and add a shape mask.
 
 ![filmora adding a shape mask](https://images.wondershare.com/filmora/guide/add-mask-to-video.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Scroll down to find the "**Blur Strength**" option, and **adjust** the blur value.
 
@@ -232,16 +232,16 @@ QuickTime is among the most popular multimedia players available for PC users. D
 
 Do you use QuickTime player to watch music videos, movies, and TV shows? Well, you may find it interesting that the QuickTime player allows you to add subtitles. As there are multiple methods through which you can add subtitles in QuickTime, we are going to discuss them one by one in this blog. So, let’s start our discussion!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Turn on the Subtitles in QuickTime
 
 As you might know, some videos come with embedded subtitles. It’s up to you whether you want to view them while playing the video or not. If you are playing a video with embedded subtitles in the QuickTime player but are somehow unable to view the subtitles, it’s probably because the subtitles feature is turned off. So, you need to enable the subtitles by following certain steps.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps to Turn on Subtitles in QuickTime
 
@@ -270,6 +270,13 @@ Step7 You can also click the “subtitles” button in the playback controls to 
 If you want to play videos in QuickTime that do not have embedded subtitles, you can add subtitles to them manually. With QuickTime player, it is quite easy to add external subtitles files and watch movies and TV shows with subtitles of your choice. However, you first need to download an appropriate subtitles file for a video from a reliable website and then load it onto the QuickTime player.
 
 While downloading subtitles for the QuickTime player, keep in mind that you need subtitles in .QT file format.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps to Add Subtitles to QuickTime Player
 
@@ -387,6 +394,13 @@ Step2 Find and click the “System Preferences” option.
 
 ![access system preferences from the apple menu](https://images.wondershare.com/filmora/article-images/2023/02/watch-subtitles-in-quicktime-with-an-ipad-screen-extension-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Search and open “Sidecar”.
 
 Step4 You will see options to connect your Mac with other devices. Connect your Mac with your iPad by follow4ng the instructions provided on the screen.
@@ -394,6 +408,13 @@ Step4 You will see options to connect your Mac with other devices. Connect your 
 Step5 You can change the display settings for the iPad from **Apple Menu > System Preferences > Displays.**
 
 ![change display settings for connected screens](https://images.wondershare.com/filmora/article-images/2023/02/watch-subtitles-in-quicktime-with-an-ipad-screen-extension-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step6 You can now use your iPad to display the subtitles of a video.
 
@@ -488,13 +509,6 @@ After completing this lesson, you should have a better understanding of what a c
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Comprehensive Guide to Add LUTs in Premiere Pro with Ease
 
@@ -596,13 +610,6 @@ Videos are close to all of us, as they store our important visual data. This is 
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
@@ -649,17 +656,10 @@ There are approximately [100+ LUTs](https://tools.techidaily.com/wondershare/fil
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-cinematic-luts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Features of Wondershare Filmora
@@ -697,21 +697,19 @@ Videos are close to all of us, as they store our important visual data. This is 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/he-10-best-youtube-music-rippers-for-android-and-ios/"><u>[New] The 10 Best YouTube Music Rippers for Android and iOS</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-effortless-way-to-personalize-your-youtube-channel-url/"><u>[Updated] Effortless Way to Personalize Your YouTube Channel Url</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-key-to-flawless-tiktok-profile-hyperlinking/"><u>2024 Approved The Ultimate Key to Flawless TikTok Profile Hyperlinking</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-subscription-tiers-youtube-tv-explained/"><u>2024 Approved Understanding Subscription Tiers YouTube TV Explained</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-optimize-your-startup-programs-in-windows-11-for-improved-performance/"><u>How to Optimize Your Startup Programs in Windows 11 for Improved Performance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/i-migliori-5-lettori-video-per-il-sistema-operativo-macos-nel-202e-con-integrazione-remota-appleappletv-guida-completa/"><u>I Migliori 5 Lettori Video per Il Sistema Operativo macOS Nel 202E: Con Integrazione Remota Apple/AppleTV - Guida Completa</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-metaverse-chronicles-a-list-of-the-most-unforgettable-sci-fi-adventures-on-screen/"><u>In 2024, Metaverse Chronicles A List of the Most Unforgettable Sci-Fi Adventures on Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/rapid-methods-to-customize-your-soundscaping-in-pubg-for-2024/"><u>Rapid Methods to Customize Your Soundscaping in PUBG for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-add-transition-effects-in-premiere-pro/"><u>Updated 2024 Approved Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-fade-in-windows-video-editor-for-2024/"><u>Updated How To Add Fade In Windows Video Editor for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-random-letter-reveal-intro/"><u>Updated How to Make Random Letter Reveal Intro?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-correct-lens-distortion-with-filmora/"><u>Updated In 2024, How to Correct Lens Distortion With Filmora</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-frame-quality-at-low-movement-speeds/"><u>[New] Optimal Frame Quality at Low Movement Speeds</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-enhance-visual-stories-utilizing-storyremix-in-windows-11-video-editing-for-2024/"><u>[Updated] Enhance Visual Stories Utilizing StoryRemix in Windows 11 Video Editing for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-bridging-photography-and-cinematography-creating-fusion-videos-using-pixiz/"><u>[Updated] In 2024, Bridging Photography and Cinematography Creating Fusion Videos Using Pixiz</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-crafting-the-best-video-aspect-ratio-experience/"><u>2024 Approved Crafting the Best Video Aspect Ratio Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fbs-flash-video-frontier/"><u>FB's Flash Video Frontier</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-can-i-control-speed-of-a-video/"><u>How Can I Control Speed of a Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-wish-to-learn-about-some-tools-to-slow-down-a-video-discover-how-to-slow-down-time-lapse-on-iphone-throughout-this-article/"><u>In 2024, Do You Wish to Learn About some Tools to Slow Down a Video? Discover How to Slow Down Time Lapse on iPhone Throughout This Article</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-vacation-slideshow-in-5-minutes/"><u>In 2024, How to Create a Vacation Slideshow in 5 Minutes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y17s-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y17s Device</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-want-to-loop-a-video-to-extend-its-duration-you-can-use-imovie-to-loop-a-video-on-your-mac-and-iphone-and-we-will-illustrate-how-to-loop-a-video-in-/"><u>In 2024, Want to Loop a Video to Extend Its Duration? You Can Use iMovie to Loop a Video on Your Mac and iPhone and We Will Illustrate How to Loop a Video in iMovie</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/make-every-story-stand-out-6-top-rated-apps-for-android-and-iphone-for-2024/"><u>Make Every Story Stand Out 6 Top-Rated Apps for Android & iPhone for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>New In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/step-by-step-to-split-a-clip-in-vlc-for-2024/"><u>Step by Step to Split a Clip in VLC for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Oppo A58 4G | Dr.fone</u></a></li>
 </ul></div>
 

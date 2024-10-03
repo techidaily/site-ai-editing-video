@@ -1,7 +1,7 @@
 ---
 title: New Step by Step to Crop a Video with CyberLink PowerDirector
-date: 2024-09-12T18:59:03.551Z
-updated: 2024-09-18T18:27:13.953Z
+date: 2024-09-30T01:48:57.914Z
+updated: 2024-10-03T04:45:45.658Z
 tags: 
   - ai
   - animation videos
@@ -183,28 +183,15 @@ And Wondershare Filmora does just that with its modern iconography and increased
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-3.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Pick either corner of the frame visible around the video and set the area you want the clip to focus upon; following this, click Save.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-4.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This action will crop the video clip according to your desired size.
@@ -216,6 +203,13 @@ The activation of Keyframes while cropping will allow you to create an effect th
 **Definition:** Keyframes while Video Editing is a software-based feature that allows you to set In and Out Points, giving clips between the two positions different properties that change as the playhead continues to move. These properties can be increased zoom, rotation, different colors, or even a gradual pan.
 
 We recommend experimenting with this feature if you want to bring a more dynamic feeling to your video project.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **An Easier Way to Crop Video with Wondershare Filmora**
 
@@ -271,6 +265,13 @@ And Wondershare Filmora does just that with its modern iconography and increased
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-3.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** Pick either corner of the frame visible around the video and set the area you want the clip to focus upon; following this, click Save.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-4.jpeg)
@@ -284,13 +285,6 @@ The activation of Keyframes while cropping will allow you to create an effect th
 **Definition:** Keyframes while Video Editing is a software-based feature that allows you to set In and Out Points, giving clips between the two positions different properties that change as the playhead continues to move. These properties can be increased zoom, rotation, different colors, or even a gradual pan.
 
 We recommend experimenting with this feature if you want to bring a more dynamic feeling to your video project.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **An Easier Way to Crop Video with Wondershare Filmora**
 
@@ -319,13 +313,6 @@ Once you have the software open, follow the steps listed below.
 **Step 2:** Drag the clip onto the Timeline and then select it to activate further interactions.
 
 ![crop-video-in-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-in-powerdirector-6.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Choose the Crop Options (marked in Red) to open the Crop window.
 
@@ -524,6 +511,19 @@ Step7 Double-click the clip in the top layer, click the Video Tab, and open the 
 
 ![click the video tab](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now click on the clip in your preview window and move the image over by pressing the left Arrow key on your keyboard a few times. Once you're happy with the top clip, hide that layer by clicking the eye icon.
 
 ![click on the clip in your preview window](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_12.jpg)
@@ -608,13 +608,6 @@ Step7 Double-click the clip in the top layer, click the Video Tab, and open the 
 
 ![click the video tab](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now click on the clip in your preview window and move the image over by pressing the left Arrow key on your keyboard a few times. Once you're happy with the top clip, hide that layer by clicking the eye icon.
 
 ![click on the clip in your preview window](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_12.jpg)
@@ -626,6 +619,13 @@ Step8 To make the middle layer visible, double-click the clip in your mid layer 
 Now click on your clip in the preview window and press the Right key as many times as you did before. Finally, make all the layers visible by clicking the eye icon.
 
 ![press the right key](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Vignette**
 
@@ -687,6 +687,13 @@ First, you need to create a close-up eye video. Although you can do that with yo
 
 ![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create an Eye-zoom Transition
 
 ##### Step 1 Align the video clips on Filmora
@@ -735,6 +742,13 @@ First, you need to create a close-up eye video. Although you can do that with yo
 
 ![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create an Eye-zoom Transition
 
 ##### Step 1 Align the video clips on Filmora
@@ -770,6 +784,13 @@ With that done, move the playhead to the start of the freeze frame video and dou
 ![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
 
 After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -885,5 +906,23 @@ There you go! That's how to create an eye-zoom transition using Wondershare Film
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-engaging-vlogger-subjects-each-day/"><u>[New] 2024 Approved Engaging Vlogger Subjects Each Day</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-reducing-noise-sensitivity-in-logic-pro-mixes/"><u>[New] Reducing Noise Sensitivity in Logic Pro Mixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-apple-musics-role-in-professional-video-production/"><u>[Updated] Apple Music's Role in Professional Video Production</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-best-7-dslr-vlogging-cameras-for-2024/"><u>[Updated] Best 7 DSLR Vlogging Cameras for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-in-this-article-you-will-learn-easy-ways-to-edit-videos-using-a-mouse-in-wondershare-filmora-you-can-do-video-editing-without-a-keyboard-after/"><u>2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-can-filmora-create-an-audio-visualizer-project-for-a-song-all-steps-from-launching-the-app-to-editing-the-text-are-detailed-here-for-2024/"><u>How Can Filmora Create an Audio Visualizer Project for a Song? All Steps, From Launching the App to Editing the Text, Are Detailed Here for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-much-do-you-really-make-as-a-podcaster/"><u>How Much Do You Really Make as a Podcaster?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-coin-magic-with-filmora/"><u>In 2024, How to Make Coin Magic With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-video-fade-to-black-in-movie-maker/"><u>In 2024, How to Make Video Fade to Black in Movie Maker</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-legality-of-recording-on-youtube-platform/"><u>In 2024, Legality of Recording on YouTube Platform?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-simplify-aquatic-footage-7-key-shooting-strategies/"><u>In 2024, Simplify Aquatic Footage 7 Key Shooting Strategies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-share-youtube-video-on-zoom-in-2024/"><u>New How to Share YouTube Video on Zoom, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-mp3-cutter-download-for-computer-and-mobile/"><u>New In 2024, MP3 Cutter Download for Computer and Mobile</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-12-pro-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 12 Pro WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-strategies-for-launching-modern-warfare-2-without-a-hitch/"><u>Solution Strategies for Launching Modern Warfare 2 Without a Hitch</u></a></li>
+</ul></div>
 

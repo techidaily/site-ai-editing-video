@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Track Mattes The Ultimate Guide For After Effects
-date: 2024-09-11T19:12:46.907Z
-updated: 2024-09-19T02:23:17.276Z
+date: 2024-09-30T01:17:39.071Z
+updated: 2024-10-02T18:16:23.358Z
 tags: 
   - ai
   - animation videos
@@ -36,6 +36,13 @@ You can use Track Mattes to generate shapes, reveal part of a layer, or keying o
 Moreover, Track Mattes uses Alpha or Luma channels as a layer mask to determine what parts of the layer to reveal. For instance, you can make a top layer that provides an Alpha or Luminous effect and a bottom layer consisting of the image that will be revealed or shown.
 
 Thus, if you want to use an image to hide your video until you want to unveil it or add a picture in your text, Track Mattes will help you to shape the appearance of a layer above it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Differences Between A Mask And A Track Matte
 
@@ -82,13 +89,6 @@ Alpha Matte is an important option under the Track Matte menu, as it allows you 
 ### Alpha Inverted Matte
 
 The Alpha Inverted Matte option is quite the opposite of the Alpha Matte, and around the Alpha channel, it uses negative space from the above layer and will therefore use pixels with 0% opacity as it had 100% opacity.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Luma Matte
 
@@ -153,6 +153,19 @@ If you are still unable to find the Track Matte option, press the **F1 key** or 
 2. Scroll down and click the **"Modes"** option to enable it.
 
 ![finding the track matte option in after effects](https://images.wondershare.com/filmora/article-images/2022/07/finding-the-track-matte-option-in-after-effects.png)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. **Track Matte mode, Preserve Underlying Transparency,** and **Blending Modes** will be available now.
 
@@ -238,6 +251,13 @@ With many video filter editors available online, choosing the right one can be d
 * [Part 2: Best Alternatives](#part2)
 * [Part 3: Summary](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Top 5 Free Online Video Filter Editors
 
 ### Veed.io
@@ -281,6 +301,13 @@ Yes, the filter function can be tested without any charges.
 ### Flixier
 
 ![filter online3](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Flixier emerges as a dynamic online video editing platform, aiming to bridge the gap between advanced editing tools and user accessibility.
 
@@ -335,6 +362,13 @@ The video filter function is accessible in the free version.
 **Advantages:** No watermarks, user-friendly, wide array of tools.
 
 **Disadvantages:** Some advanced filters are limited to premium users.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Best Alternatives
 
@@ -491,13 +525,6 @@ And for those willing to invest a little, Filmora stands as a robust alternative
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Zoom in on PowerPoint [Easy Ways]
 
@@ -679,11 +706,25 @@ For example, using after effects green screen keying incorrectly can result in s
 
 Furthermore, not all video editing software includes the green screen key tool. Therefore, always check your software details before purchasing a copy. The next section contains step-by-step guides on performing green screen keying on some of the industry's most popular software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part2: How to do Green Screen Keying in After Effects?
 
 Adobe After Effects green screen keying tool is arguably one of the top favorites for filmmakers. It features a user-friendly interface, and several keying presets you can use to achieve incredible photo finishes. For example, the Keylight effect is an Academy Award-winning preset you can use to apply professional-quality color keying.
 
 Follow these steps to do green screen keying using Adobe After Effects.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Upload your footage to Adobe After Effects
 
@@ -713,18 +754,18 @@ The key cleaner effect sharpens your subject's edges for a more detailed finish.
 
 Sometimes your green screen background can spill to your subject's edges resulting in a messy outline. For example, you may find a green outline on your subject's hair or clothing. The **Advanced Spill Suppressor** eliminates these outlines automatically. You can enable the effect by clicking the check box next to the effect from the **Animation Presets** panel.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Apply a new background
 
 Once you apply the green screen key effect, you can add any custom background to your footage. You need to **Import** the file to your After Effects library and then drag & drop it into your footage's timeline.
 
 Remember, you must have an active Adobe After Effects license to access the green screen keying feature. In addition, you get access to Adobe Creative Cloud, which offers access to creative asset libraries such as Behance and Adobe Fonts. Alternatively, you can check out the free 7-day trial available to all new users.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part3: How to do Green Screen Keying in Filmora? \[Free& Easy\]
 
@@ -741,13 +782,6 @@ Launch the program on your device and click on the **New Project** option. A win
 ### 2\. Adjust your green screen settings
 
 ![adjust your green screen settings](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then, double-click your green screen footage to open the **Edit Panel**. Select the Video Tab and check the **Chroma Key** box to enable the effect. Once done, you can use the following tools to edit your footage:
 
@@ -783,13 +817,6 @@ Please note that you need an active Filmora subscription to use Chroma Key. In a
 
 No. There is no difference between chroma keying and green screening. Both processes involve you replacing a specific color in your image and replacing it with a new background. In addition, some filmmakers use the terms synonymously because green is the best color to use when chroma keying. However, you can also use other colors for your chroma keying, with blue being the next best alternative.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Can you create a green screen video without using a green screen background?
 
 Yes. It is possible to create a green screen video without a green background. Several apps, including Zoom and Tik Tok, have in-built digital green screens, which you can use to customize your creations. However, you need to have a capable device to access the function.
@@ -816,5 +843,26 @@ Yes. It is possible to create a green screen video without a green background. S
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-taking-igtv-viewership-to-new-peaks-5-innovative-approaches/"><u>[New] Taking IGTV Viewership to New Peaks 5 Innovative Approaches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solved-what-is-my-mac-address/"><u>[SOLVED] What Is My MAC Address ?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-mastering-facebooks-video-upload-avoid-frustration-ensure-success/"><u>[Updated] 2024 Approved Mastering Facebook's Video Upload Avoid Frustration, Ensure Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-10-parody-songs-that-totally-crack-you-up/"><u>[Updated] In 2024, 10 Parody Songs That Totally Crack You Up</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-transforming-pictures-reversed-color-method/"><u>[Updated] Transforming Pictures Reversed Color Method</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-ways-to-blur-zoom-background-for-free-for-2024/"><u>Best Ways to Blur Zoom Background for Free for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-ways-to-remove-motion-blur-in-photoshop-for-2024/"><u>Easy Ways to Remove Motion Blur In Photoshop for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-remove-background-from-a-video-in-premier-pro-for-2024/"><u>How to Remove Background From a Video in Premier Pro for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c300-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C300</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-create-a-motion-blur-effect-in-your-videos-read-this-well-described-guide-to-learn-how-to-add-motion-blur-on-capcut-on-iphone-and-and/"><u>In 2024, Do You Want to Create a Motion Blur Effect in Your Videos? Read This Well-Described Guide to Learn How to Add Motion Blur on CapCut on iPhone and Android Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oneplus-nord-ce-3-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On OnePlus Nord CE 3 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-c65-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco C65 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>In 2024, How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-personalized-/"><u>In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>New In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-easy-path-to-great-audio-recordings-in-windows-11/"><u>The Easy Path to Great Audio Recordings in Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-ten-image-amplifiers-for-social-media/"><u>Top Ten Image Amplifiers for Social Media</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated A Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-introduction-to-luts-their-overview-and-benefits/"><u>Updated Introduction to LUTs Their Overview and Benefits</u></a></li>
+</ul></div>
 

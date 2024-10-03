@@ -1,7 +1,7 @@
 ---
 title: Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024
-date: 2024-09-13T04:23:07.669Z
-updated: 2024-09-18T16:20:04.219Z
+date: 2024-10-01T11:25:57.018Z
+updated: 2024-10-03T08:49:55.434Z
 tags: 
   - ai
   - animation videos
@@ -139,6 +139,13 @@ Filmora is more than just an editor; it's a canvas for videographers. One of its
 
 While Filmora is a great tool, the best fit depends on personal preferences and specific project needs. However, it's always good to have choices in your editing toolkit. Variety is, after all, the spice of life (and video editing)!
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Summary
 
 The beauty of video editing lies in the limitless possibilities it offers. With every video filter, editor tweak, and custom preset, you're not just editing – you're storytelling. And with tools like VN and Filmora at your fingertips, you have everything you need to tell your story your way.
@@ -233,6 +240,13 @@ Add the chosen preset to the timeline track.
 
 ![adding split screen to timeline](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4Add videos to the layout
 
 Import media from your library or use stock media to add videos to your layout. Drag and drop your media on the layout.
@@ -240,10 +254,10 @@ Import media from your library or use stock media to add videos to your layout. 
 ![add videos to the layout](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step5Edit the split screen
@@ -354,13 +368,6 @@ In the search bar, type "blur." You will see several blur effects. Choose any ef
 
 ![search for the blur effects](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3Add effects to videos
 
 Add the chosen effect to your video. Then adjust its position accordingly. Double-click on the blur effect in the timeline panel to change its size and opacity.
@@ -378,13 +385,6 @@ With its user-friendly design, you can easily access all the tools you need to m
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 Let's dig a little deeper to see how Filmora can benefit you.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Benefits of Using Filmora
 
@@ -476,6 +476,13 @@ Under the "Effects" tab, go to "Filter & LUT." Choose the LUT that you want to a
 
 ![browse different luts](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3Add the LUT to your video
 
 Add the LUT to your timeline by drag-n-drop.
@@ -487,6 +494,13 @@ Drag it to adjust it according to your video. In order to adjust the strength of
 ![edit the opacity of the lut](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-10.jpg)
 
 You can adjust the opacity of the LUT according to your preference. You can make it as soft or as strong as you want.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.Animated Keyframes
 
@@ -515,6 +529,13 @@ Once you play the video, it will look like this.
 ![the final look of the animated keyframe](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-13.gif)
 
 This is an easy way of making intros or outros of your videos.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4.Detach Audio
 
@@ -575,6 +596,13 @@ With its user-friendly design, you can easily access all the tools you need to m
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Create and Use Adjustment Layers in After Effects
 
@@ -658,19 +686,6 @@ Step2 Once you have found the suitable color correction effect, apply it to the 
 
 ![apply the color correction](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Many beginners are unaware of the term called adjustment layer in video editing. By reading this article, you can find out brief and authentic details about the adjustment layer. Moreover, we have also addressed **how to add an adjustment layer in After Effects** in simple and easy steps. You can also check about the common effects that people use in Adobe After Effects, using adjustment layers to enhance their videos.
@@ -751,13 +766,6 @@ Step3If you are looking for color grading, go to Color tab from the top. Go to L
 
 ![add filters to video premiere](https://images.wondershare.com/filmora/article-images/2022/08/add-filters-to-video-premiere.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4Thereafter, you can adjust certain parameters like intensity, saturation, sharpen as per requirements. You can also go for Basic correction which acts like applying a filter to your videos.
 
 ## Part 2\. Alternative Way to Add Video Filters
@@ -781,6 +789,13 @@ Step3Go Effects located at the top and go to Filters option from the left panel.
 Step4Drag the desired filter into Timeline to apply to your video. You can set the duration of the video filter as per your preference. Play the video and click on Export button to save the edited video.
 
 ![save the edited video](https://images.wondershare.com/filmora/Tutorial/add-customize-filter-8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Free Premiere Filter Presets to Use
 
@@ -830,5 +845,23 @@ If you are using Adobe Premiere Pro to edit your videos, adding filters to your 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-simplifying-powerpoint-presentation-captures/"><u>[New] In 2024, Simplifying PowerPoint Presentation Captures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-efficient-techniques-to-preserve-webcam-dialogues/"><u>[Updated] In 2024, Efficient Techniques to Preserve Webcam Dialogues</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-/"><u>2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-keyboard-warriors-guide-games-similar-to-gta-v/"><u>2024 Approved Keyboard Warriors' Guide Games Similar to GTA V</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effortless-capture-winmac-tools-to-record-desktop-screens-for-2024/"><u>Effortless Capture Win/Mac Tools to Record Desktop Screens for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-record-video-streams-with-ffmpeg-on-windows-and-mac/"><u>How to Record Video Streams With FFmpeg on Windows and Mac?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-infinix-note-30-vip-racing-editionmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Infinix Note 30 VIP Racing EditionMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-xiaomi-redmi-note-13-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Xiaomi Redmi Note 13 5G Phone Screen?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-make-timelapse-video-with-imovie/"><u>New 2024 Approved Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-comment-on-youtube-live-chat/"><u>New In 2024, How to Comment on YouTube Live Chat</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/turboinsta-video-boosting-online-and-mobile-fixes/"><u>TurboInsta Video Boosting Online & Mobile Fixes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated 2024 Approved Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-create-motion-effect-with-path-blur-in-photoshop-for-2024/"><u>Updated Create Motion Effect with Path Blur In Photoshop for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-take-your-video-editing-to-the-next-level-with-video-scopes/"><u>Updated Take Your Video Editing to the Next Level with Video Scopes</u></a></li>
+</ul></div>
 

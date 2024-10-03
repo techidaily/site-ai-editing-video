@@ -1,7 +1,7 @@
 ---
 title: Updated Shoot Video with Virtual Green Screen
-date: 2024-09-13T01:07:01.146Z
-updated: 2024-09-18T20:43:41.889Z
+date: 2024-09-30T11:41:59.256Z
+updated: 2024-10-03T10:37:44.490Z
 tags: 
   - ai
   - animation videos
@@ -75,72 +75,72 @@ Now you will the superimposed version of the replacement video effect on the gre
 
 ![background](https://images.wondershare.com/filmora/article-images/background.jpg)
 
-Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
-
-## Conclusion
-
-You can now have virtual background without green screen purchase on your video. All you need is a proper application to replace your physical background with a virtual green screen and record the entire video. We have recommended free Snap Camera app and OBS Studio for this job. Then you need to edit the green screen virtual backgrounds with a video editor for which we have recommended Wondershare Filmora.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora. Launch the video editor and select Create New Project option to get started.
-
-Step 2: Import the recorded video with virtual green screen and drag it onto the Timeline.
-
-Step 3: Get the stunning photo or video effect with which you want to replace the virtual background without green screen in the recorded video. Put it directly on the Timeline.
-
-Please note that your recorded green screen video is above the replacement video on the Timeline.
-
-![replacement](https://images.wondershare.com/filmora/article-images/replacement.jpg)
-
-Step 4: Double-click on the recorded video and you will see a panel on the upper-left side. From that panel, turn on Chroma Key option. We have already stated that green screen effect is technically referred to as Chroma Key.
-
-Now you will the superimposed version of the replacement video effect on the green screen background of your recorded video.
-
-![background](https://images.wondershare.com/filmora/article-images/background.jpg)
-
-Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
-
-## Conclusion
-
-You can now have virtual background without green screen purchase on your video. All you need is a proper application to replace your physical background with a virtual green screen and record the entire video. We have recommended free Snap Camera app and OBS Studio for this job. Then you need to edit the green screen virtual backgrounds with a video editor for which we have recommended Wondershare Filmora.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora. Launch the video editor and select Create New Project option to get started.
-
-Step 2: Import the recorded video with virtual green screen and drag it onto the Timeline.
-
-Step 3: Get the stunning photo or video effect with which you want to replace the virtual background without green screen in the recorded video. Put it directly on the Timeline.
-
-Please note that your recorded green screen video is above the replacement video on the Timeline.
-
-![replacement](https://images.wondershare.com/filmora/article-images/replacement.jpg)
-
-Step 4: Double-click on the recorded video and you will see a panel on the upper-left side. From that panel, turn on Chroma Key option. We have already stated that green screen effect is technically referred to as Chroma Key.
-
-Now you will the superimposed version of the replacement video effect on the green screen background of your recorded video.
-
-![background](https://images.wondershare.com/filmora/article-images/background.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
 
+## Conclusion
+
+You can now have virtual background without green screen purchase on your video. All you need is a proper application to replace your physical background with a virtual green screen and record the entire video. We have recommended free Snap Camera app and OBS Studio for this job. Then you need to edit the green screen virtual backgrounds with a video editor for which we have recommended Wondershare Filmora.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora. Launch the video editor and select Create New Project option to get started.
+
+Step 2: Import the recorded video with virtual green screen and drag it onto the Timeline.
+
+Step 3: Get the stunning photo or video effect with which you want to replace the virtual background without green screen in the recorded video. Put it directly on the Timeline.
+
+Please note that your recorded green screen video is above the replacement video on the Timeline.
+
+![replacement](https://images.wondershare.com/filmora/article-images/replacement.jpg)
+
+Step 4: Double-click on the recorded video and you will see a panel on the upper-left side. From that panel, turn on Chroma Key option. We have already stated that green screen effect is technically referred to as Chroma Key.
+
+Now you will the superimposed version of the replacement video effect on the green screen background of your recorded video.
+
+![background](https://images.wondershare.com/filmora/article-images/background.jpg)
+
+Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
+
+## Conclusion
+
+You can now have virtual background without green screen purchase on your video. All you need is a proper application to replace your physical background with a virtual green screen and record the entire video. We have recommended free Snap Camera app and OBS Studio for this job. Then you need to edit the green screen virtual backgrounds with a video editor for which we have recommended Wondershare Filmora.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora. Launch the video editor and select Create New Project option to get started.
+
+Step 2: Import the recorded video with virtual green screen and drag it onto the Timeline.
+
+Step 3: Get the stunning photo or video effect with which you want to replace the virtual background without green screen in the recorded video. Put it directly on the Timeline.
+
+Please note that your recorded green screen video is above the replacement video on the Timeline.
+
+![replacement](https://images.wondershare.com/filmora/article-images/replacement.jpg)
+
+Step 4: Double-click on the recorded video and you will see a panel on the upper-left side. From that panel, turn on Chroma Key option. We have already stated that green screen effect is technically referred to as Chroma Key.
+
+Now you will the superimposed version of the replacement video effect on the green screen background of your recorded video.
+
+![background](https://images.wondershare.com/filmora/article-images/background.jpg)
+
+Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -217,6 +217,13 @@ You are prepared to make a time-lapse sequence if all of your photographs are sa
 2. Place your Playhead at the beginning of the clip after choosing the Image Sequence. Make a keyframe for the scale or position.
 3. To generate a second Keyframe for the value of your choice, move to the end of the clip. Make any necessary Clip modifications.
 4. Right-click on the timeline, choose New > Adjustment Layer, then add your effects to the Adjustment Layer to add effects like noise and grain.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 4\. Create slow motion from a video
 
@@ -383,6 +390,13 @@ We hope this blog has given you a better understanding of how planning and story
 
 ![graphical text of storyboarding](https://images.wondershare.com/filmora/article-images/2023/04/graphical-text-of-storyboarding.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step1Draw your ideas
 
 You are supposed to break your video idea into different scenes. For each scene, you should draw a picture of what the shot will look like and draw them within the rectangles.
@@ -394,6 +408,19 @@ You are supposed to break your video idea into different scenes. For each scene,
 After doing your storyboarding on paper, take photos of each shot in a sequence and import them to your computer.
 
 ![take pictures of the sketch](https://images.wondershare.com/filmora/article-images/2023/04/take-pictures-of-the-sketch.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Before going to the next step, make sure to download **Wondershare Filmora**. It is powerful editing software that can help you easily make a storyboard. With its wide range of features, you can also customize your clips with special effects, transitions, and more.
 
@@ -421,13 +448,6 @@ You can right-click on the picture's timeline and select **Crop to fit** to adju
 
 ![selecting crop to fit](https://images.wondershare.com/filmora/article-images/2023/04/selecting-crop-to-fit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step6Add effects
 
 You can also simulate transitions and effects in the clips. Let's suppose you want to show a zoom-in shot. Then you would click on the picture frame and the keyframe option just above the timeline. Now keyframe the position and scale of the clip according to you.
@@ -445,13 +465,6 @@ We hope this blog has given you a better understanding of how planning and story
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Quick and Simple Way to Mirror Video in Premiere Pro
 
@@ -476,6 +489,13 @@ Mirroring a video in Adobe Premiere Pro is a quick and simple process that can a
 Step1 **Choose** the "**Effects**" option from the menu.
 
 ![adobe premiere pro effects tab](https://images.wondershare.com/filmora/article-images/adobe-premiere-pro-effects-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 **Look** for the "**Transform**" tab.
 
@@ -585,13 +605,6 @@ Step1 Within the "**Flip**" section, there are four options available. To **flip
 
 ![filmora rotate clockwise or counterclockwise](https://images.wondershare.com/filmora/article-images/filmora-flip-horizontal-or-vertical.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 You can **rotate** the clip by clicking either the "**Clockwise**" or "**Counterclockwise**" icons under the Rotate section.
 
 ![filmora rotate clockwise or counterclockwise](https://images.wondershare.com/filmora/article-images/filmora-rotate-clockwise-or-counterclockwise.jpg)
@@ -599,6 +612,19 @@ Step2 You can **rotate** the clip by clicking either the "**Clockwise**" or "**C
 Step3 If you want to specify the rotation angle, you can either **enter** a value in the box under the Rotate tab or **manipulate** the dot in the circle to achieve the desired angle.
 
 ![filmora edit rotation angle](https://images.wondershare.com/filmora/article-images/filmora-edit-rotation-angle.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How To Create Mirror Video Effect in Wondershare Filmora
 
@@ -622,6 +648,19 @@ Step4 **Preview** the results in the Preview Window before exporting the video f
 
 ![filmora edit effect duration](https://images.wondershare.com/filmora/article-images/filmora-edit-effect-duration.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Mirroring a video can add an interesting and unique visual effect to your videos. Adobe Premiere Pro and Wondershare Filmora provide easy-to-use tools to achieve this effect. While Premiere Pro offers more advanced features and customization options, Filmora provides a simpler and more user-friendly interface for those who want to achieve the same results without the hassle. Whichever option you choose, you can create stunning mirror videos in no time.
@@ -642,5 +681,23 @@ Mirroring a video can add an interesting and unique visual effect to your videos
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-exhaustive-review-of-razers-kiyo-cam/"><u>[New] Exhaustive Review of Razer's Kiyo Cam</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-photographers-guide-mobile-for-high-angle-views/"><u>[New] In 2024, The Photographer's Guide Mobile for High-Angle Views</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-top-20-strategies-for-boosting-fb-ads-via-video-content/"><u>[New] In 2024, Top 20 Strategies for Boosting FB Ads via Video Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-next-gen-gaming-the-best-oculus-players-uncovered/"><u>[New] Next-Gen Gaming The Best Oculus Players Uncovered</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-audio-aficionados-curated-selection-of-free-lut-links-for-2024/"><u>[Updated] Audio Aficionados' Curated Selection of Free LUT Links for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-out-what-keyframe-interval-is-why-it-is-important-and-to-change-its-value-on-obs-studio-with-simple-and-easy-to-follow-instructions/"><u>2024 Approved Find Out What Keyframe Interval Is, Why It Is Important, and to Change Its Value on OBS Studio with Simple and Easy-to-Follow Instructions</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-6-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 6 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-fantastic-glitch-effects-with-filmora-read-this-guide-to-find-out-how-to-apply-glitch-effects-on-your-videos-and-make-custom-glitch-effects/"><u>How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-f5-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco F5 Pro 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-export-video-in-filmora-for-2024/"><u>New Easy Steps to Export Video in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-make-a-tattoo-disappear-like-a-magic-for-2024/"><u>New Make A Tattoo Disappear Like A Magic for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionary-sleep-aids-for-the-perfect-nights-rest/"><u>Revolutionary Sleep Aids for the Perfect Night's Rest</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/the-top-10-no-cost-4k-media-players-supporting-windows-11-and-mac-computers/"><u>The Top 10 No-Cost 4K Media Players Supporting Windows 11 & Mac Computers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-motion-blur-on-capcut-iphone-and-android-for-2024/"><u>Updated How To Add Motion Blur On CapCut? (IPhone & Android) for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora/"><u>Updated How to Correct Lens Distortion With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-use-speed-ramping-to-create-an-intense-action-footage/"><u>Updated In 2024, How To Use Speed Ramping to Create an Intense Action Footage</u></a></li>
+</ul></div>
 
