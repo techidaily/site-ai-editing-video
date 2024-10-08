@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Step by Step to Crop Videos Using Lightworks
-date: 2024-10-01T07:11:23.534Z
-updated: 2024-10-02T17:26:34.203Z
+date: 2024-10-07T16:29:13.688Z
+updated: 2024-10-08T17:09:46.306Z
 tags: 
   - ai
   - animation videos
@@ -37,13 +37,6 @@ Step 2: After importing your videos into Lightworks, you can now proceed towards
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-3.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: How to crop videos using the DVE tool? You can now go to the ‘Crop’ option under the DVE tab and move your cursor over any unwanted portion of the video and click-and-drag it down and in the right direction. This will distort and stretch the video to remove that particular portion from there while preserving its overall appearance and quality.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-4.jpeg)
@@ -136,6 +129,13 @@ Step 1: Open a video that you want to edit.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-5.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Open the Filmora editing tool and select the "Crop and Zoom" icon.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-6.jpeg)
@@ -185,13 +185,6 @@ For Win 7 or later (64-bit)
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step-by-step on how to crop videos using Filmora?
 
@@ -281,13 +274,6 @@ Those who are looking for an easy to use online tool with user-friendly interfac
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Top 4 Free 3D Intro Maker to Use
 
@@ -366,15 +352,22 @@ A video intro is a brief introduction, typically lasting between 5 and 15 second
 
 Because of this, it has the power to attract attention from the very beginning and to develop trust in the company or product that you are promoting. It goes without saying that this is one of the most critical factors to consider when trying to attract and connect with your desired audience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. What are some good intro makers?
 
 Here you will a list of many great intro makers you can use for free and paid.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adobe After Effects
@@ -384,6 +377,19 @@ One of the most well-known pieces of software for creating video effects is call
 ![adobe after effects intro maker](https://images.wondershare.com/filmora/article-images/after-effects-effects-presets-pane.jpg)
 
 After Effects is utilized by professionals working in the film business to create aesthetically spectacular work for cinema, television, video, and the online. The most significant drawback to After Effects is the fact that it requires an average beginner around eight weeks to learn the program by watching training videos and going through tutorials. In addition, the fee to join Adobe's Creative Cloud Suite membership service is quite high.
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Canva
 
@@ -477,6 +483,13 @@ Once you know who your target audience are, then it’s time for you to create a
 
 Target Audience
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Start with a Strong Hook
 
 A strong hook is the key to creating a video that converts into sales. You have to make sure that your video is engaging and informative, while also offering something that viewers can't find elsewhere. A good hook will grab attention and keep viewers engaged throughout the entire video. There are a few different things you can do to create a strong hook for your video such as:
@@ -491,23 +504,9 @@ Strong Hook
 
 ![Attention-Grabbing Headline](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Attention-Grabbing Headline
 
 You only have a few seconds to make a strong impression. Use a strong wisely and you'll soon see your sales start to climb.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Keep It Short And Sweet
 
@@ -571,6 +570,19 @@ Use Persuasive Language
 * Receive/Get
 * Discount
 * Cancel anytime
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Include a Strong Call to Action
 
@@ -638,6 +650,13 @@ Once you know who your target audience are, then it’s time for you to create a
 
 Target Audience
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Start with a Strong Hook
 
 A strong hook is the key to creating a video that converts into sales. You have to make sure that your video is engaging and informative, while also offering something that viewers can't find elsewhere. A good hook will grab attention and keep viewers engaged throughout the entire video. There are a few different things you can do to create a strong hook for your video such as:
@@ -664,27 +683,20 @@ In a fast-paced world, it can be tempting to try and pack as much information in
 
 Keep Short and Sweet
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Focus on the Viewer
 
 When creating a video that is designed to convert viewers into paying customers, it is important to focus on the needs and wants of the viewer. What problem are they trying to solve? What are they looking for in a solution? How can your product or service help them achieve their goals? Answering these questions will help you create a video that resonates with viewers and helps guide them through the purchase process. In addition, make sure to include a call to action at the end of the video so that viewers know how to take the next step. By focusing on the viewer and providing them with the information they need, you can create a video that leads to sales.
 
 ![Focus on the Viewer](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Focus on the Viewer
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Use Persuasive Language
 
@@ -775,17 +787,18 @@ Wrap Up
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-getting-started-with-azure-speech-to-text-service/"><u>[New] Getting Started with Azure Speech-to-Text Service</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-enhancing-multilingual-reach-adding-subtitles-in-vimeo/"><u>[Updated] In 2024, Enhancing Multilingual Reach Adding Subtitles in Vimeo</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/apowersoft-screen-recorder-review-and-alternative-for-2024/"><u>Apowersoft Screen Recorder Review and Alternative for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-non-appearing-headphone-errors-in-windows-11/"><u>Diagnosing and Solving Non-Appearing Headphone Errors in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-correct-lens-distortion-with-filmora/"><u>How to Correct Lens Distortion With Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-6-tips-for-your-first-facebook-ads/"><u>New In 2024, 6 Tips for Your First Facebook Ads</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-images-into-video-kapwing-tutorial/"><u>New In 2024, How to Convert Images Into Video - Kapwing Tutorial</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-something-about-skin-care-vlog-ideas/"><u>New Something About Skin Care Vlog Ideas</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unraveling-the-secrets-to-high-quality-zoom-streams-for-youtube-for-2024/"><u>Unraveling the Secrets to High-Quality Zoom Streams for YouTube for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-sudden-closures-insights-into-correcting-error-solved-code-1067-on-windows-systems/"><u>Winning the Battle Against Sudden Closures: Insights Into Correcting Error ([SOLVED]) Code 1067 on Windows Systems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-tips-for-setting-up-and-conducting-zoom-webinars/"><u>[New] Essential Tips for Setting Up & Conducting Zoom Webinars</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-exploring-ways-to-share-youtube-videos-on-social-media-platforms-fb-for-2024/"><u>[New] Exploring Ways to Share YouTube Videos on Social Media Platforms (FB) for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-a-list-mobile-camera-utilities-for-iphone-for-2024/"><u>[Updated] A-List Mobile Camera Utilities for iPhone for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-guide-to-incorrantey-instagrams-music-focused-emojis/"><u>[Updated] Guide to Incorrantey Instagram's Music-Focused Emojis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-6-cheap-4k-projectors-for-2024/"><u>Best 6 Cheap 4K Projectors for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-converter-convert-mpeg-to-m4v-format-with-movavi/"><u>Free Online Converter: Convert MPEG to M4V Format with Movavi</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-use-a-stabilization-tool-in-filmora-for-2024/"><u>How to Use a Stabilization Tool in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-different-too/"><u>In 2024, Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-enhance-images-with-text-via-web-and-mobile-apps/"><u>In 2024, Enhance Images with Text via Web & Mobile Apps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-convert-mp4-videos-to-60-fps-gifs-with-this-easy-to-follow-tutorial-get-smooth-and-crisp-motion-in-your-gifs-in-just-a-few-simple-steps/"><u>In 2024, Learn How to Convert MP4 Videos to 60 FPS GIFs with This Easy-to-Follow Tutorial. Get Smooth and Crisp Motion in Your GIFs in Just a Few Simple Steps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-motion-blur-on-capcut-iphone-and-android/"><u>New 2024 Approved How To Add Motion Blur On CapCut? (IPhone & Android)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>New How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-video-by-mouse-in-filmora-for-2024/"><u>New How To Make a Video by Mouse in Filmora for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Is HDRI? Everything You Need to Know About HDRI for 2024
-date: 2024-09-28T05:42:46.110Z
-updated: 2024-10-02T21:38:18.702Z
+date: 2024-10-03T16:07:38.032Z
+updated: 2024-10-08T17:20:10.691Z
 tags: 
   - ai
   - animation videos
@@ -54,6 +54,13 @@ Now that you have all the information about HDRI, let's learn about some industr
 
 **HDRI 3D** is commonplace these days. 3D animation creators can use programs like **HDRI Blender** to add HDR environments and make the content look detailed and more realistic in high lighting reflections. To put it simply, HDRI makes 3D scenes look lighter, less cartoonish, and more professional. This technology can also be used in interior visualizations in animations.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. HDRI for architect rendering
 
 Creating HDRI environments is a common practice in 3D architectural designs. For example, designers can create panoramic house designs with varying light tones and interior moods. HDRI helps them give a natural 3D lighting effect on scenes and objects.
@@ -81,6 +88,13 @@ Step2Next, split the window into two and launch the Shader Editor tool. Then, op
 Step3On the Environment Texture, tap Open Image before opening the 3.2 folder inside the Blender Foundation folder. Then, click Data files > Studiolights > Word. Now open a .exr file. For example, open the Interior.exr image.
 
 ![free hdri for blender open exr file](https://images.wondershare.com/filmora/article-images/2022/08/free-hdri-blender-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4Click the Viewport Shading icon and tap the drop-down button to choose Interior. You'll see all the lighting reflections inside the room and customize it as you wish. That's it!
 
@@ -130,19 +144,6 @@ Step1Install and run Blender and then tap the World Properties tab. Then, click 
 
 ![free hdri for blender open world properties](https://images.wondershare.com/filmora/article-images/2022/08/free-hdri-blender-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2Next, split the window into two and launch the Shader Editor tool. Then, open the Object drop-down menu at the top-left corner and choose World. You'll see the Environment Texture hooked into the background.
 
 ![free hdri for blender open shader editor](https://images.wondershare.com/filmora/article-images/2022/08/free-hdri-blender-2.jpg)
@@ -151,9 +152,23 @@ Step3On the Environment Texture, tap Open Image before opening the 3.2 folder in
 
 ![free hdri for blender open exr file](https://images.wondershare.com/filmora/article-images/2022/08/free-hdri-blender-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4Click the Viewport Shading icon and tap the drop-down button to choose Interior. You'll see all the lighting reflections inside the room and customize it as you wish. That's it!
 
 ![free hdri for blender open viewport shading](https://images.wondershare.com/filmora/article-images/2022/08/free-hdri-blender-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -225,6 +240,13 @@ The search filter has different options to make the search easier, for instance,
 
 ![adobe stock website interface](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. [Mixkit](https://mixkit.co/free-premiere-pro-templates/)
 
 Mixkit is the top choice for getting Premiere Pro split-screen template among other royalty-free assets. Mixkit offers free Premiere Pro templates with After Effects, Final Cut Pro, DaVinci Resolve, and much more.
@@ -249,6 +271,13 @@ The resolution can also be decided as Videezy offers SD, HD 720, HD 1080, 4K, an
 
 ![videezy pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 9\. [Videvo](https://www.videvo.net/premiere-pro-templates/)
 
 Videvo is the right shop for you if you prefer the ease-of-use over-complicated workability. Offering an interactive interface and progressive search results, Videvo boosts the production value of your projects multifold. Furthermore, this free Premiere Pro templates provider is an allrounder from the video footage, motion graphics, templates, music, and sound effects.
@@ -256,13 +285,6 @@ Videvo is the right shop for you if you prefer the ease-of-use over-complicated 
 The user is free to customize titles, intros, typographs, overlays, and transitions. Launch the website, download the template, and get into the process.
 
 ![videvo premiere pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 10\. [Monsterone](https://monsterone.com/video/premiere-pro-templates/)
 
@@ -332,18 +354,18 @@ Despite all the positives, here are a few improvements to make Unsplash even bet
 * The website lacks a free HD video library, which would be a great addition for aspiring content creators.
 * In addition, the search algorithm is not as accurate, and you may struggle to find suitable images for your subject matter.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### No.2 Shutterstock
 
 Another Pexels alternative to consider is Shutterstock. It is an online resource where individuals and businesses can access high-quality, licensed photos, videos, illustrations, vectors, and music for their content creation.
 
 ![shutterstock](https://images.wondershare.com/filmora/article-images/2022/08/pexels-alternatives-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Unlike Unsplash above, you need to create an account to access Shutterstock services. In addition, the website offers different pricing models for each user, depending on your unique requirements. For example, you can subscribe to an image-only subscription that allows you ten image downloads monthly for $29\. Alternatively, you can purchase the Mix and Match subscription that offers you 25 credits monthly to download different media from the site.
 
@@ -378,13 +400,6 @@ iStock is an online library of creative resources, including music, videos, illu
 * An AI-powered search engine that provides more accurate results than Pexels.
 * Preset templates for easier creation of videos and social media posts.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### No.6 Flickr
 
 ![flickr](https://images.wondershare.com/filmora/article-images/2022/08/pexels-alternatives-6.jpg)
@@ -412,13 +427,6 @@ Vista Create is an online free photo and image website like Pexels that also inc
 ### No.10 LibreStock
 
 ![librestock](https://images.wondershare.com/filmora/article-images/2022/08/pexels-alternatives-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Unlike the ones above, LIbreStock is an aggregator site that combines stock photo databases in a single platform. As such, it is arguably the largest provider of royalty-free images on the web. In addition, it automatically filters out poor-quality images, guaranteeing you excellence each time.
 
@@ -454,13 +462,6 @@ Yes, you can use Pexels on YouTube, provided you apply the creative assets to yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add a Green Screen to Zoom
 
 If you are a regular user of Zoom app because you have to attend meetings and video conferences every now and then, you should know how to create a green screen for Zoom calls. There are going to be times when you would not want to show what is in your background because it might look distracting. Besides, changing the background from time to time breaks the monotony of your Zoom calls.
@@ -477,13 +478,6 @@ Step2Click on Settings (gear icon) located in the top-right corner.
 
 ![click zoom settings](https://images.wondershare.com/filmora/article-images/2022/08/click-zoom-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3Once Settings window opens, click on Virtual background option on the left panel.
 
 Step4Turn on the option “I have a green screen” located at the bottom. Thereafter, choose a virtual background with which you want to replace the green screen in your video.
@@ -493,13 +487,6 @@ Step4Turn on the option “I have a green screen” located at the bottom. There
 Step5Apart from the present virtual background, you can add photo or video to replace green screen background.
 
 ![apply green screen video zoom](https://images.wondershare.com/filmora/article-images/2022/08/apply-green-screen-video-zoom.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step6Close Settings window and you will see that your green screen is replaced by your selected virtual background.
 
@@ -514,6 +501,13 @@ Step1Open Zoom app on your smartphone and make sure you are signed into your acc
 Step2Start a Zoom meeting and tap on More option located in the bottom-right corner.
 
 ![tap more zoom app phone](https://images.wondershare.com/filmora/article-images/2022/08/tap-more-zoom-app-phone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3Tap on Virtual background and you can select any preset virtual background.
 
@@ -573,24 +567,22 @@ We have answered your question, “How do you add a green screen to zoom?” You
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-pathway-to-delicate-audible-reduction-within-lumafusion/"><u>[New] 2024 Approved The Pathway to Delicate Audible Reduction Within Lumafusion</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-charismatic-charm-of-moving-text-on-screen/"><u>[Updated] In 2024, Charismatic Charm of Moving Text on Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-gif-building-an-understanding/"><u>2024 Approved How To Slow Down GIF Building an Understanding</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-try-these-10-music-video-templates-to-make-your-work-easy/"><u>2024 Approved Try These 10 Music Video Templates To Make Your Work Easy</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easily-sync-audio-with-video-with-filmora/"><u>Easily Sync Audio With Video With Filmora</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-resolving-mount-and-blade-ii-bannerlords-stability-issues/"><u>Expert Advice on Resolving Mount & Blade II: Bannerlord's Stability Issues</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-infinix-note-30-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix Note 30 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-12-mini-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 12 mini Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-13-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 13? Heres the Best Fixes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-ideas-for-time-lapse-video/"><u>New Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-5-free-online-video-filter-editors/"><u>New Top 5 Free Online Video Filter Editors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/project-gemini-at-google-revolutionary-ai-initiative-explained/"><u>Project Gemini at Google - Revolutionary AI Initiative Explained</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722959828369-step-by-step-tutorial-for-an-asus-maximus-x-hero-driver-refresh-fast-and-simple/"><u>Step-by-Step Tutorial for an ASUS Maximus X Hero Driver Refresh – Fast and Simple!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformar-archivos-h234-a-h235-gratis-con-calidad-optimizada-una-guia-completa/"><u>Transformar Archivos H.2^34 A H.2^35 Gratis Con Calidad Optimizada: Una Guía Completa</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/trending-platforms-clash-a-look-at-tiktok-and-snaps-features/"><u>Trending Platforms Clash A Look at TikTok & Snap's Features</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-blur-photo-with-gimp-step-by-step-guide/"><u>Updated Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-the-best-frame-rate-for-4k-videos-in-2024/"><u>What Is the Best Frame Rate for 4K Videos, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-exploring-new-horizons-top-5-samsung-gear-vr-games/"><u>[Updated] In 2024, Exploring New Horizons - Top 5 Samsung Gear VR Games</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-essentials-of-making-professional-level-facebook-reels/"><u>[Updated] In 2024, The Essentials of Making Professional-Level Facebook Reels</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tips-for-troubled-feed-viewers-reveal-hidden-fb-videos/"><u>[Updated] Tips for Troubled Feed Viewers Reveal Hidden FB Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-event-videography-is-popular-in-weddings-graduation-family-reunion-and-other-great-moments-here-im-going-to-share-some-of-the-tips-to-make-a-b/"><u>2024 Approved Event Videography Is Popular in Weddings, Graduation, Family Reunion and Other Great Moments. Here Im Going to Share some of the Tips to Make a Better Event Videography</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-funny-frenzy-top-10-tweets/"><u>2024 Approved Funny Frenzy Top 10 Tweets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-simple-breakdown-of-internet-fairness-and-regulation-policies/"><u>A Simple Breakdown of Internet Fairness and Regulation Policies</u></a></li>
+<li><a href="https://solve-news.techidaily.com/acordo-de-license-user-final-eula-terminos-e-condicoes-para-software-digital-digiarty-windows-and-dvd/"><u>Acordo De License User Final (EULA) - Términos E Condições Para Software Digital Digiarty, Windows & DVD</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adding-accurate-dates-to-photographic-records/"><u>Adding Accurate Dates to Photographic Records</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-slide-masking-effect-intro/"><u>Create Slide Masking Effect Intro</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-rotate-videos-in-lightworks-for-2024/"><u>New Steps to Rotate Videos in Lightworks for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-20-best-video-background-templates/"><u>Updated 20 Best Video Background Templates</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-cloud-storage-service-for-videos-for-2024/"><u>Updated Best Cloud Storage Service for Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-ideas-for-time-lapse-video/"><u>Updated Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-record-super-slow-motion-videos-on-your-huaweisamsungiphone/"><u>Updated How to Record Super Slow Motion Videos on Your Huawei/Samsung/iPhone?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-effects-on-tiktok/"><u>Updated In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo A1 5G? | Dr.fone</u></a></li>
 </ul></div>
 

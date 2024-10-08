@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Best Ideas on Using Green Screen with Filmora
-date: 2024-10-02T11:39:46.698Z
-updated: 2024-10-02T16:02:25.461Z
+date: 2024-10-01T19:22:58.360Z
+updated: 2024-10-08T16:14:38.362Z
 tags: 
   - ai
   - animation videos
@@ -52,13 +52,6 @@ It doesn't matter how nice your green screen is. You won't get good results if y
 * Do light yourself and your background separately. It will ensure your subject wouldn't bleed into the green, which will create a halo around them.
 * After you key out the green screen and lighting, your subjects should emulate the lighting from your final footage. For example, if you know sunlight is coming from the left light, your subject is from the left direction as well.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4\. Keying out your green screen
 
 Once your footage is good, go into [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and import it into your timeline, then double-click it to find the chroma key menu. However, don't stop there. Clicking the chroma key button is not enough to guarantee perfectly keyed footage, so play around with the offset tolerance edge thickness and edge feather. Lastly, adjust it to make sure your edit looks as good as possible.
@@ -104,13 +97,6 @@ Cutting on action is a technique the editors use to cut in the middle of an acti
 
 ![what is filmmaking technique](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Things You Need to Prepare for The Coin Magic Trick
 
 1. Glass and two coins
@@ -127,13 +113,6 @@ Step1 Firstly, you must show the coin and the bottom of the glass.
 
 ![show the coin and the bottom of the glass](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 After that, you need to hold the coin with the fingers part of one hand and tap down on the coin. Make sure it looks like the coin is going through straight to the glass.
 
 ![hold the coin with the fingers](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-5.jpg)
@@ -142,16 +121,16 @@ Step3 You need someone else to drop the other coin from the top. Meanwhile, you 
 
 ![drop the other coin from the top](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 It would help if you had a second shot for a clean plate of the background. You can record background for 20 seconds.
 
 ![record background for 20 seconds](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Bring the clips into Filmora 11
 
@@ -179,6 +158,13 @@ Step6 Next, double-click the clip to open the setting video. Find the Mask Secti
 
 ![](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step7 Here you can see the mask is applied.First, adjust the angle and position of the mask to only show the top part of the frame. Then you have to change the Blur Strength to add more blur to the edge of the mask.
 
 ![adjust the angle and position of the mask](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-14.jpg)
@@ -202,6 +188,13 @@ That's how to make a coin move through a glass-like MAGIC with the cutting on ac
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Shotcut Review – Is It The Best Free Video Editor?
 
@@ -256,13 +249,6 @@ Step 4: To add texts, go to Filters> “+” icon> Video tab> select “Text:Sim
 Step 5: To crop any video, go to Filters> Video> and Crop option. You can select various geometry shapes as you think appropriate.
 
 ![shortcut crop option](https://images.wondershare.com/filmora/article-images/hortcut-crop-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 6: To add transitions, keep two clips on the same track and get them overlapped. Choose a transition from Properties and apply to your video.
 
@@ -390,9 +376,23 @@ Step 3: Go to Transitions option and add your desired transitions in between cli
 
 ![filmora beautiful transition effects](https://images.wondershare.com/filmora/article-images/filmora-beautiful-transition-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Once you are satisfied with the editing, click on Export button to save your video to your hard drive.
 
 ![filmora export your video](https://images.wondershare.com/filmora/article-images/filmora-export-your-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5\. FAQs about Shotcut
 
@@ -439,10 +439,16 @@ Another excellent **title intro maker online free** is Content Row. It provides 
 Also, this tool displays hot subjects currently being widely or passionately debated online. A case converter or word counter is also an option. Contentrow Title Generator helps you to generate clickable and catchy blog titles to drive traffic to the articles. Discover unique video ideas that will inspire you and interest your audience. Use the clickbait or linkbait ideas for the content with their title generator to capitalize on readers' curiosity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. [Hubspot Title Generator](https://www.hubspot.com/blog-topic-generator)
@@ -466,10 +472,10 @@ The target word can be searched as a verb or a noun before the output in the Twe
 ![the hoth title generator](https://images.wondershare.com/filmora/article-images/2022/09/the-hoth-title-generator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 A well-known **free online title generator** and marketing provider called The HOTH offers a variety of solutions for business owners and marketers. They provide a free blog subject headline generator so you can rapidly develop headlines for your posts to help you obtain the maximum traffic to your article. The HOTH's headline generator is a fantastic choice if you want more control over the suggestions. It still requires little time to operate and is simple, but it requires more input than many other tools.
@@ -488,13 +494,6 @@ You will be given around 7-8 options for the title of the blog and you can choos
 
 ![small biz trends](https://images.wondershare.com/filmora/article-images/2022/09/small-biz-trends.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Well, the Small Biz Trends title generator is a bit different when it comes to generating title ideas for your blog than other tools mentioned here. It's because when you open the website and type in your topic and click the submit button, you will be given a ton of blog title options. Not just that, the options here will be presented to you category-wise. Isn't this convenient?
 
 Yes, it is, if you feel the other tools are giving you lesser options or ideas. You can just copy whatever title appeals to you the most and use it however you need to. Also, you may use the option given above the submit button "i.e. Small business trends Thesaurus," of you wish to opt for generating more ideas.
@@ -506,6 +505,13 @@ Yes, it is, if you feel the other tools are giving you lesser options or ideas. 
 With the help of the well-liked headline generator from FatJoe, users may quickly come up with over 100 ideas for blog posts. Have trouble coming to a title for your most recent blog post? There are always options available here. You can enter the focus keyword or selected subject to get the best clickable and SEO-friendly titles.
 
 In addition to providing one of the best headline creation tools for free, Fat Joe is a link-building business. One can create more than 100 titles and even the best headline ideas. You can even create new topics for generating other topics.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -533,24 +539,22 @@ Online free **title creator** can create catchy headlines that increase social m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-create-animated-facebook-ads-with-high-roi-for-2024/"><u>[New] How to Create Animated Facebook Ads With High ROI for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-peak-business-sky-storage-for-firms-for-2024/"><u>[New] Peak Business Sky-Storage for Firms for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-youtube-celebs-gabbing-via-snapchat/"><u>[Updated] 2024 Approved YouTube Celebs Gabbing via Snapchat</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-top-meme-making-tools-discover-your-favorites-for-2024/"><u>[Updated] Top Meme-Making Tools Discover Your Favorites for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-guide-for-setting-tiktok-countdown-timer/"><u>2024 Approved Best Guide for Setting TikTok Countdown Timer</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-3d-camera-tracking-effects-in-after-effects/"><u>2024 Approved How to Use 3D Camera Tracking Effects in After Effects</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-kobo-nia-e-reader-assessment-the-ultimate-rival-to-amazons-kindle/"><u>Expert Kobo Nia E-Reader Assessment - The Ultimate Rival to Amazon's Kindle</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-canva-collages/"><u>How to Make Canva Collages</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-ideas-on-using-filmora-green-screen/"><u>In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 12 Pro 3 Ways To Unlock</u></a></li>
-<li><a href="https://extra-information.techidaily.com/leading-lights-in-the-land-of-vr-entertainment/"><u>Leading Lights in the Land of VR Entertainment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/locate-and-install-required-media-driver-quickly-fixed-solution/"><u>Locate & Install Required Media Driver Quickly | Fixed Solution</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-fade-audio-in-premier-pro/"><u>New Steps To Fade Audio In Premier Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>Updated 2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-difference-between-time-lapse-and-hyperlapse-for-2024/"><u>Updated Difference Between Time Lapse and Hyperlapse for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-tips-to-make-cinematic-color-grading/"><u>Updated In 2024, Tips to Make Cinematic Color Grading</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Updated Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/verlustfreies-ubertragen-von-dvds-auf-ihren-mac-einfache-schritte-zur-qualitatsgewahrleistung/"><u>Verlustfreies Übertragen Von DVDs Auf Ihren Mac - Einfache Schritte Zur Qualitätsgewährleistung</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-video-magic-with-imovie-directed-to-youtube-for-2024/"><u>[New] Crafting Video Magic with iMovie, Directed to YouTube for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-lg-bp350-monitor-reviews-expert-opinions-and-ratings/"><u>[Updated] The Ultimate LG BP350 Monitor Reviews Expert Opinions & Ratings</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-10-best-sony-lut-for-different-purposes/"><u>2024 Approved 10 Best Sony LUT for Different Purposes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-effortless-youtube-content-crafting-10-basic-video-ideas-for-all/"><u>2024 Approved Effortless YouTube Content Crafting 10 Basic Video Ideas for All</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-cont/"><u>2024 Approved Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/adventure-amongst-the-stars-an-insightful-look-at-the-outer-worlds-story-and-gameplay/"><u>Adventure Amongst the Stars: An Insightful Look at 'The Outer Worlds' Story & Gameplay</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-spark-10-4g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Spark 10 4G</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-infinix-zero-5g-2023-turbo-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Infinix Zero 5G 2023 Turbo Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-tecno-pop-7-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Pop 7 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>New 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review-for-2024/"><u>New VSDC Free Video Editor Review for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/remedying-pixelated-youtube-footage/"><u>Remedying Pixelated YouTube Footage</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-infinix-smart-7-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Infinix Smart 7 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-3-best-effects-to-appear-on-camera/"><u>Updated In 2024, 3 Best Effects to Appear on Camera</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-secret-tips-and-tricks-to-use-in-filmora-for-2024/"><u>Updated Secret Tips & Tricks to Use in Filmora for 2024</u></a></li>
 </ul></div>
 

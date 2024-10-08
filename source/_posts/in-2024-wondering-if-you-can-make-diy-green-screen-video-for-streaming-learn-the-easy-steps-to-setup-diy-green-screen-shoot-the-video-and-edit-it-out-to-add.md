@@ -1,7 +1,7 @@
 ---
 title: In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects
-date: 2024-09-26T09:05:01.239Z
-updated: 2024-10-03T13:31:09.835Z
+date: 2024-10-06T19:02:49.775Z
+updated: 2024-10-08T19:03:52.698Z
 tags: 
   - ai
   - animation videos
@@ -189,24 +189,18 @@ The subject should jump and act like he is landing on the floor. This shot has t
 
 ![shot 2](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-2.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Shot 3: Empty Background Clip
 
 This is an empty background clip. This clip includes only background settings without the subject. We need this clip to make layers while editing.
 
 ![shot 3](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-3.gif)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How To Edit These Clips On Filmora?
 
@@ -254,13 +248,6 @@ Step4 Adjust the scale, position, and shape of the mask and make the edges smoot
 
 ![masking](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-5.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Boris Fx Effect**
 
 Boris FX is a video editing and visual effects software. Filmora supports six continuum units-professional quality effects plugins from award-winning developer Boris FX.
@@ -306,13 +293,6 @@ Step5 Add another keyframe at the end with your masked shadow appearing half fro
 This step is a bit tricky to understand, but the most important. Once it is done, your animation will give the impression of an object moving like a flash from the back to the front of view.
 
 ![keyframing](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-7.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Speed Ramping**
 
@@ -376,19 +356,6 @@ Price: $57
 
 Osiris Cinematic LUT
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. [Black Magic LUT](https://www.bouncecolor.com/products/blackmagic-raw-natural-lut)
 
 The Black magic LUT corrects the color shifts and brings out the natural flavors in the shots. This LUT effect includes the skin tone and displays the realistic colors on the captured content.
@@ -399,6 +366,13 @@ Price: $22.
 
 Black Magic LUT
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. [Filmic Tone LUT](https://www.innergrade.com/products/filmic-tone-luts)
 
 In this LUT, you can rectify the color gradients and match the skin tone perfectly. It contains dark vibes and it is enough if you import this LUT to the editing interface without any complex installation process. The Filmic Tone LUT seems to be compatible with different video editing platforms.
@@ -406,6 +380,13 @@ In this LUT, you can rectify the color gradients and match the skin tone perfect
 Price: $28.
 
 ![best luts to buy in 2022 - Filmic Tone LUT](https://images.wondershare.com/filmora/article-images/2022/05/best-free-luts-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Filmic Tone LUT
 
@@ -418,6 +399,13 @@ Price: $91
 ![best luts to buy in 2022 - Moody Bundles](https://images.wondershare.com/filmora/article-images/2022/05/best-free-luts-6.jpg)
 
 Moody Bundles
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. [Filippo Cinotti](https://www.innergrade.com/products/its-film-lut)
 
@@ -479,6 +467,13 @@ Price: $36
 
 Beach LUTs
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 12\. [Black and White LUTs](https://www.innergrade.com/products/20-black-and-white-luts-pack)
 
 To add the black and white color gradients to the imported videos or photos, this LUT gives you great effects. Brush the media file with black and white shades to obtain a new look at the existing content.
@@ -487,14 +482,14 @@ Price: $17
 
 ![best luts to buy in 2022 - Black and White LUTs ](https://images.wondershare.com/filmora/article-images/2022/05/best-free-luts-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Black and White LUTs
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 13\. [Creamy LUTs](https://www.innergrade.com/products/20-creamy-luts-pack)
 
@@ -506,13 +501,6 @@ Price: $36
 
 Creamy LUTs
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 14\. [Retro LUTs](https://www.innergrade.com/products/20-retro-luts-pack)
 
 The retro effects are assured when you apply these LUTs in your video. Convert your latest images and videos into a retro mood by using the Retro LUTs while editing the media content on any platform. There are 20 different retro LUTs to add flavors to the videos.
@@ -520,13 +508,6 @@ The retro effects are assured when you apply these LUTs in your video. Convert y
 Price: $36
 
 ![best luts to buy in 2022 - Retro LUTs ](https://images.wondershare.com/filmora/article-images/2022/05/best-free-luts-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Retro LUTs
 
@@ -537,6 +518,13 @@ When you narrate a story with the photos and videos, then insert the epic LUTs i
 Price: $36
 
 ![best luts to buy in 2022 - Epic LUTs ](https://images.wondershare.com/filmora/article-images/2022/05/best-free-luts-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Epic LUTs
 
@@ -672,13 +660,6 @@ Windows movie maker has some of the best editing tools with which you will be ab
 
 ![trim tools windows movie maker 2012](https://images.wondershare.com/filmora/article-images/2022/07/trim-tools-windows-movie-maker-2012.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Click on the area that you want to trim and then opt to click on ‘Set Start Point’ and ‘Set End Point.' You can also split a particular video clip according to your convenience or add effects as per need.
 * Click on the preview to watch the edited video.
 
@@ -703,6 +684,13 @@ Following are some simple steps to edit a video with [Filmora](https://tools.tec
 * You can also add sound to your video to make it more attractive.
 
 After you finish with the editing, output your project and save it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -744,22 +732,21 @@ Therefore, it is time you explore your creativity with the help of **windows liv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-highlighting-progress-in-photo-shooting-algorithms/"><u>[New] Highlighting Progress in Photo Shooting Algorithms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-standout-panzoid-design-kits/"><u>[Updated] Standout Panzoid Design Kits</u></a></li>
-<li><a href="https://fox-http.techidaily.com/10-must-have-luxury-car-accessories-for-sj4000-aficionados/"><u>10 Must-Have Luxury Car Accessories for SJ4000 Aficionados</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/channel-identity-design-icons-and-thumbnails-essentials-for-2024/"><u>Channel Identity Design Icons & Thumbnails Essentials for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-infinix-note-30-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Infinix Note 30 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/full-spectrum-data-salvage-system-next-level-technical-assistance-for-complete-data-recovery/"><u>Full-Spectrum Data Salvage System: Next-Level Technical Assistance for Complete Data Recovery</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo A78? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-20-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 20 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-chroma-key-written-text-effects-in-filmora/"><u>New Create Chroma Key Written Text Effects in Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-basics-of-biometric-identification-systems-explained/"><u>The Basics of Biometric Identification Systems Explained</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-art-of-instagram-filter-selection-tips-for-the-year-2023/"><u>[New] 2024 Approved The Art of Instagram Filter Selection Tips for the Year 2023</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-integrate-harmony-in-media-posts-facebooks-sound-guide/"><u>[New] Integrate Harmony in Media Posts Facebook's Sound Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-psychology-of-crafting-engaging-podcast-intros-for-2024/"><u>[New] The Psychology of Crafting Engaging Podcast Intros for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-hands-on-tactics-for-recording-and-storing-google-voice-talks/"><u>[Updated] 2024 Approved Hands-On Tactics for Recording and Storing Google Voice Talks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/champion-steadicams-for-uav-filmmaking-excellence-for-2024/"><u>Champion Steadicams for UAV Filmmaking Excellence for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-to-mimic-professional-filming-gears-for-2024/"><u>How to to Mimic Professional Filming Gears for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-infinix-smart-8-hd-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Infinix Smart 8 HD without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-know-how-to-create-a-lol-montage-video-had-you-ever-tried-that-video-type-before-connect-with-this-article-to-study-the-tips-and-tricks-assoc/"><u>In 2024, Do You Know How to Create a Lol Montage Video? Had You Ever Tried that Video Type Before? Connect with This Article to Study the Tips and Tricks Associated with the Making of Montage Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-by-ste/"><u>In 2024, Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-energy-kits-for-gopro-hero5-genuine-and-third-party-brands/"><u>In 2024, Optimal Energy Kits for GoPro Hero5 – Genuine and Third-Party Brands</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-working-through-the-details-of-imovie-slow-motion-video-making-100-effective/"><u>New 2024 Approved Working Through the Details of iMovie Slow Motion Video Making 100 Effective</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-create-a-movie-with-windows-movie-maker/"><u>New Create a Movie with Windows Movie Maker</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-if-you-want-to-know-what-to-prepare-and-how-to-make-the-wedding-video-perfect-for-videographers-check-out-this-menu-here/"><u>New If You Want to Know What to Prepare and How to Make the Wedding Video Perfect for Videographers, Check Out This Menu Here</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/est-live-streaming-apps-list-for-youtube-content-creators-iosandroid-for-2024/"><u>The Best Live Streaming Apps List for YouTube Content Creators (iOS/Android) for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unleashing-memories-above-ground-top-tier-cloud-options-reviewed-for-2024/"><u>Unleashing Memories Above Ground Top-Tier Cloud Options Reviewed for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-gui/"><u>Updated How To Quickly Create A Screen Print Effect In Photoshop Detailed Gui</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Best Ideas on Using Filmora Green Screen
-date: 2024-09-29T13:36:31.142Z
-updated: 2024-10-03T03:06:02.314Z
+date: 2024-10-05T17:51:21.553Z
+updated: 2024-10-08T19:20:40.724Z
 tags: 
   - ai
   - animation videos
@@ -52,6 +52,13 @@ It doesn't matter how nice your green screen is. You won't get good results if y
 * Do light yourself and your background separately. It will ensure your subject wouldn't bleed into the green, which will create a halo around them.
 * After you key out the green screen and lighting, your subjects should emulate the lighting from your final footage. For example, if you know sunlight is coming from the left light, your subject is from the left direction as well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4\. Keying out your green screen
 
 Once your footage is good, go into [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and import it into your timeline, then double-click it to find the chroma key menu. However, don't stop there. Clicking the chroma key button is not enough to guarantee perfectly keyed footage, so play around with the offset tolerance edge thickness and edge feather. Lastly, adjust it to make sure your edit looks as good as possible.
@@ -62,6 +69,19 @@ Once your footage is good, go into [Filmora](https://tools.techidaily.com/wonder
 
 ![go into filmora and import it into your timeline](https://images.wondershare.com/filmora/article-images/2023/01/fun-green-screen-6.gif)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Summary
 
 Aside from a video background, there are many things you can use chrome key effects on. For example, you can make liquid transformation, you can make a magic box, etc. In the meantime, it doesn’t matter how good your green screen, it won’t have a good results if are not light it properly. You can use Filmora to keying out your green screen. It just take a few clicks to be able keying out your green screen by following the tutorial above.
@@ -71,10 +91,10 @@ Aside from a video background, there are many things you can use chrome key effe
 ![go into filmora and import it into your timeline](https://images.wondershare.com/filmora/article-images/2023/01/fun-green-screen-6.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Summary
@@ -199,13 +219,6 @@ Let's get started with our review without any further delay!
 
 * [Bonus Tips: How To Make A General Knowledge Quiz Video In Filmora?](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part I. 4 Tips To Make A Quiz Video
 
 Here are three tips to help you make a quiz video that will engage your audience and get them to participate.
@@ -231,13 +244,6 @@ Always ensure that you check your final work before posting it on YouTube. Avoid
 ## Part II. Best 3 Quiz Video Makers On Desktops
 
 Here are the 3 best YouTube video quiz makers available for desktops that can help you make exciting quizzes every time:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1.[Camtasia](https://www.techsmith.com/learn/tutorials/camtasia/quizzing/)
 
@@ -382,6 +388,13 @@ Making quizzes was never as simple and easy before as with the Edpuzzle platform
 
 ![edpuzzle for making quiz videos](https://images.wondershare.com/filmora/article-images/2023/02/edpuzzle-for-making-quiz-videos.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Pros
 
 * Free to use
@@ -400,6 +413,13 @@ Making quizzes was never as simple and easy before as with the Edpuzzle platform
 Panopto is trusted by several universities and other educational institutes for designing educational content. This online tool offers video content management, visual classrooms, video accessibility, screen recording, video editing, and interactive online video quiz-making capabilities.
 
 ![panopto for making quiz videos](https://images.wondershare.com/filmora/article-images/2023/02/panopto-for-making-quiz-videos.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Pros
 
@@ -489,13 +509,6 @@ Head to the **"Transition"** tab and add an effect to your video for a smooth tr
 
 Repeat the process until you complete creating your quiz and click the **"Export"** icon. You can save the file on your device or export it directly to your YouTube channel.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In this guide, we've provided a comprehensive review of the 3 best desktop **video quiz makers** and the 7 best online quiz tools. We've discussed what they are, their prices, pros, and cons to assist you in selecting the best one.
@@ -549,19 +562,6 @@ Camtasia is an all-in-one video editor and screen recorder that can enable you t
 
 ![camtasia for making quiz videos](https://images.wondershare.com/filmora/article-images/2023/02/camtasia-for-making-quiz-videos.png)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Pros
 
 * Offers 30 answers per question
@@ -606,6 +606,13 @@ With Kaltura, founded by Ron Yekutiel, you can enhance your educational videos b
 iSpring QuizMaker is a powerful and easy-to-use desktop video quiz maker that lets you quickly design graded quizzes and surveys. With its intuitive interface, both professionals and newbies can create assessments with multiple question types, add multimedia, and randomize questions that can be published to LMS or the web.
 
 ![ispring quizmaker for making quiz videos](https://images.wondershare.com/filmora/article-images/2023/02/ispring-quizmaker-for-making-quiz-videos.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Pros
 
@@ -686,13 +693,6 @@ To create a quiz, you only need to follow three main steps: Add a media file, cu
  Cons
 
 * Offers only basic editing tools
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4.[Edpuzzle](https://edpuzzle.com/)
 
@@ -824,10 +824,10 @@ Hopefully, you've enjoyed reading this review and can now decide which software 
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Learning How to Create LUTs with LUTs Generator
@@ -949,13 +949,6 @@ In conclusion, LUTs are essential in modern video and photo editing. They allow 
 * [Part 3: How to Create Online LUTs Using Online LUT Creator?](#part3)
 * [Bonus Part: Wondershare Filmora – The Perfect Tool to Use Your LUTs](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: An Overview of LUT Generator - The Best Platform for Creating LUTs
 
 LUT Generator is an excellent tool for creating color-grading picture and video presets. This powerful LUT generator-free tool is available on both Windows and Mac. Moreover, you can create LUTs from any photo and video editing application, including Lightroom and Camera Raw. Not only can you create your LUTs, but you can also download presets that are already available.
@@ -1042,6 +1035,13 @@ Furthermore, you can make changes frame-by-frame to your video footage. This too
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Key Features To Keep Note of For Wondershare Filmora
 
 * With Filmora, you can select any object or person and change its background. The AI Smart Cutout feature allows you to choose a person to change their background.
@@ -1078,16 +1078,15 @@ In conclusion, LUTs are essential in modern video and photo editing. They allow 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-distinguishing-between-youtube-content-control-and-creative-commons-flexibility/"><u>[New] Distinguishing Between YouTube Content Control and Creative Commons Flexibility</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-narratives-before-night-an-analysis-of-storytelling-videos-for-2024/"><u>[Updated] Narratives Before Night An Analysis of Storytelling Videos for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-webcamwizardry-techniquesforperfectrecordings/"><u>[Updated] WebCamWizardry TechniquesForPerfectRecordings</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-solutions-for-overcoming-windows-1110-troubleshooting-challenges-and-errors/"><u>Effective Solutions for Overcoming Windows 11/10 Troubleshooting Challenges and Errors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-insights-selecting-superior-4k-camera-stands/"><u>Expert Insights Selecting Superior 4K Camera Stands</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-effective-ways-to-add-text-behind-objects/"><u>New 2024 Approved 2 Effective Ways to Add Text Behind Objects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved How to Remove Background From a Video in Premier Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-struggling-youtuber-to-industry-leader-the-hub-of-creator-studios-wisdom/"><u>[New] In 2024, From Struggling Youtuber to Industry Leader The Hub of Creator Studio's Wisdom</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-launch-your-stream-top-8-youtube-revenue-tactics/"><u>2024 Approved Launch Your Stream Top 8 YouTube Revenue Tactics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-ultimate-moment-in-vr-infinity/"><u>2024 Approved Ultimate Moment in VR Infinity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-a05-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy A05 Phone Screen?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-be-aware-of-vhss-meaning-there-is-nothing-to-be-worried-about-because-we-will-guide-you-in-this-article/"><u>In 2024, Do You Want to Be Aware of VHSs Meaning? There Is Nothing to Be Worried About because We Will Guide You in This Article</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-the-legality-of-facebooks-immediate-video-takedowns/"><u>Navigating the Legality of Facebook's Immediate Video Takedowns</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-film-a-slow-motion-video/"><u>New 2024 Approved How To Film a Slow Motion Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review-for-2024/"><u>New VSDC Free Video Editor Review for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-gameplay-best-4k-hdmi-21-display-for-players/"><u>Ultimate Gameplay Best 4K (HDMI 2.1) Display for Players</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-3-best-effects-to-appear-on-camera/"><u>Updated In 2024, 3 Best Effects to Appear on Camera</u></a></li>
 </ul></div>
 

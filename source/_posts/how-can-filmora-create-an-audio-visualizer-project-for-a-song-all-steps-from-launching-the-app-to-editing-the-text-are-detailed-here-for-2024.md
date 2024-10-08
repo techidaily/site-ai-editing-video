@@ -1,7 +1,7 @@
 ---
 title: How Can Filmora Create an Audio Visualizer Project for a Song? All Steps, From Launching the App to Editing the Text, Are Detailed Here for 2024
-date: 2024-09-26T01:10:16.287Z
-updated: 2024-10-03T00:53:45.955Z
+date: 2024-10-06T17:05:54.929Z
+updated: 2024-10-08T18:46:46.361Z
 tags: 
   - ai
   - animation videos
@@ -47,16 +47,22 @@ You can also click on the My Media tab and choose Project Media. Go to All Templ
 
 ![drag the audio file](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can also add another pre-made background cover image that you created beforehand from the device, if available. Drag that to the editor timeline as well above the song clip you moved there and tap on the slider. Pull the slider to fit the full size of the audio length for the background alignment. Right-click on the file, and the editing window will open for basic video editing. Make changes like adjusting the Scale, Position, Opacity, etc. Press OK.
 
 ![make changes like adjusting the scale](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-5.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Add the Audio Visualizer Effects
 
@@ -77,10 +83,16 @@ Here, make some changes to the quality of the audio visualizer as you prefer. Ad
 ![make changes to the quality of the audio visualizer](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add the Portrait Image
@@ -102,13 +114,6 @@ After adding the portrait, you can add another audio visualizer effect to the pr
 On the timeline, you have to adjust the visualizer effect over the portrait photo to match the length of the previous clips. Then, please tap on the portrait photo in the timeline again and adjust its appearance, like reducing the image size to fit the second visualizer effect size.
 
 ![reduce size of image](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After fitting the image within the visualizer, click on the Mask tab in the same editor window. Choose the circular shape preset and scroll down to find the adjustment parameters like position, scaling, horizontal/vertical lining, etc. Keep making the changes per your needs, like fitting the image to the same size as the circular visualizer.
 
@@ -166,13 +171,6 @@ You can also add another pre-made background cover image that you created before
 
 ![make changes like adjusting the scale](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add the Audio Visualizer Effects
 
 Next, you should go to the Effects tab. When this window opens, you should tap on the Filmstock tab beside the Default one for advanced features like Audio Visualizer. Click on it next.
@@ -180,6 +178,13 @@ Next, you should go to the Effects tab. When this window opens, you should tap o
 When you tap on it, you see a list of different visualizer effects in a collection. Please choose one of them that you prefer and download it.
 
 ![tap on the filmstock tab](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After that, you must drag the visualizer effect selected from the collection to the editing timeline above the background image you added previously. Again, use the slider on the clip to drag it forward and fit the size of both the music clip and the image.
 
@@ -202,13 +207,6 @@ When it is available on the media window, hold, drag, and then drop it above the
 Next, the editing window for that will open. Make changes to the size and placement of the portrait photo, with elements like scale, position, rotation, opacity, etc. Move the photo in the preview window to the section where you want the image to appear. Then, tap the OK button under the window.
 
 ![tap the ok button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add the overlapping visualizer effect
 
@@ -289,6 +287,13 @@ It is a viral film by Christopher Nolan, which was a great success. He explained
 
 ![tenet 2020](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How To Shoot Video Reverse Effect?
 
 The reverse effect is unique, so special attention should be paid while filming a video. This section will cover some of the crucial prerequisites to film a video.
@@ -302,13 +307,6 @@ It would be best to have your camera placed on a steady surface or mounted on a 
 ### A Spacious Area
 
 You will need a spacious area in which you will perform different tasks. Make sure your camera stands still while shooting all the frames of video. In an ample space, it becomes easier to do movements freely. It also helps prevent glitches in the final product.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Splitting of Area into Portions
 
@@ -434,6 +432,19 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 
 ![editing of image mask effect](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-8.png)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step5 Trimming the Video Clip
 
 * You can trim the footage to create a smooth movement in each portion. In this way, all the clips gel together in a single frame.
@@ -485,6 +496,13 @@ If this article has helped you, please mention your experience in the comment bo
 Controlling the speed of the video enables viewers to engage with the content much more actively. There are instances when you may have a lengthy video scene or audio segment that includes little-to-no essential information, and you wish to speed it up. The whole video or audio file can be sped up or slowed down, or only specific sections can. It is simple to perform with a **splice speed up video**. As a result, the project size and duration are reduced, and viewers are given clearer instructions on how to speed up the video on Splice.
 
 ![learning how to speed up video on splice](https://images.wondershare.com/filmora/article-images/2023/01/learn-how-to-speed-up-video-on-splice.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This article will emphasize how to speed up videos on Splice, covering the procedures and alternatives that will assist you in producing splice speed up videos.
 
@@ -617,6 +635,13 @@ Step2 From the editing toolbar, choose Speed. Utilize the slider beneath the tim
 
 ![choose speed in the editing toolbar](https://images.wondershare.com/filmora/article-images/2023/01/choose-speed-in-editing-toolbar.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Alternative to Splice Video Editor For Changing Speed Of Videos
 
 Splice was distinctive during this time. It has significantly reduced peoples' travel costs compared to desktop video editing software because you never have to take a heavy laptop with you. Splice is different from a desktop editing program. If you purchase a desktop app, you'll have access to more sophisticated tools and the capacity to store your data. Splice will only work for you if you want to make lengthy movies with loads of intricate effects.
@@ -634,19 +659,6 @@ However, you can use alternative editing programs instead of utilizing them on y
 Upon clicking your video clip, a tab will display several options to modify the speed of your video. You can choose from slow to fast options. Click each option to choose from the specific speed you want
 
 ![click the fast or slow option](https://images.wondershare.com/filmora/article-images/2023/01/click-fast-or-slow-option.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Method 2\. Change the Speed Uniformly with "Uniform Speed"**
 
@@ -675,6 +687,19 @@ Here's how you can use the customization mode on the Speed Ramping panel.
 
 ![place the playhead to speed up](https://images.wondershare.com/filmora/article-images/2023/01/place-playhead-to-speed-up.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Splice Video Editor FAQs
 
 ##### 1\. Why can't I upload projects when using Splice?
@@ -702,13 +727,6 @@ Most people need help to produce high-quality videos on their devices. Most ofte
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Learn the Step-by-Step Process of Slowing Down Time-Lapse Videos on Your iPhone
 
@@ -873,24 +891,14 @@ Back
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-reimagined-realities-augmented-wisdom-for-todays-world/"><u>[New] Reimagined Realities Augmented Wisdom for Today's World</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-alternative-to-obs-innovative-livestream-tools/"><u>[Updated] Alternative to OBS Innovative Livestream Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-guide-macbook-cam-filming-basics/"><u>[Updated] Ultimate Guide MacBook Cam Filming Basics</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-adventure-the-best-6-gopro-mounts-revealed/"><u>2024 Approved Mastering Adventure The Best 6 GoPro Mounts Revealed</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/collect-free-image-resources-via-top-4-online-stock-hubs/"><u>Collect Free Image Resources Via Top 4 Online Stock Hubs</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723007216265-effortless-fix-for-mortal-kombat-11-game-crash-issues-expert-tips/"><u>Effortless Fix for Mortal Kombat 11 Game Crash Issues - Expert Tips!</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-fatal-javascript-issue-in-discord-on-w10w11-pcs/"><u>Eliminating Fatal Javascript Issue in Discord on W10/W11 PCs</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/full-spectrum-data-salvage-system-next-level-technical-assistance-for-complete-data-recovery/"><u>Full-Spectrum Data Salvage System: Next-Level Technical Assistance for Complete Data Recovery</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y100a-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y100A phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-chroma-key-written-text-effects-in-filmora/"><u>New Create Chroma Key Written Text Effects in Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/quick-guide-capturing-moments-with-snap-in-real-time-conferencing/"><u>Quick Guide Capturing Moments with Snap in Real-Time Conferencing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-comprehensive-guide-to-modern-versatile-game-recording-software-for-2024/"><u>[New] A Comprehensive Guide to Modern, Versatile Game Recording Software for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-channel-boosting-strategies-effortless-sponsorship-securing-tips/"><u>[New] Channel Boosting Strategies Effortless Sponsorship Securing Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-green-screen-shooting-made-simple/"><u>[Updated] In 2024, Mastering Green Screen Shooting Made Simple</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-/"><u>2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-screen-recorder-pro-for-windows-10/"><u>2024 Approved Screen Recorder Pro for Windows 10</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-make-timelapse-video-with-imovie/"><u>New 2024 Approved Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/start-anew-with-windows-11-mastering-the-art-of-system-restoration-in-just-4-steps/"><u>Start Anew with Windows 11: Mastering the Art of System Restoration in Just 4 Steps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated 2024 Approved Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-take-your-video-editing-to-the-next-level-with-video-scopes/"><u>Updated Take Your Video Editing to the Next Level with Video Scopes</u></a></li>
 </ul></div>
 
