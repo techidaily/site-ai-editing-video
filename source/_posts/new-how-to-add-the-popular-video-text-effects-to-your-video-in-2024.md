@@ -1,7 +1,7 @@
 ---
 title: New How to Add the Popular Video Text Effects to Your Video, In 2024
-date: 2024-10-01T16:09:03.660Z
-updated: 2024-10-08T16:17:59.878Z
+date: 2024-10-09T17:17:52.157Z
+updated: 2024-10-14T21:21:23.037Z
 tags: 
   - ai
   - animation videos
@@ -32,24 +32,24 @@ If you want to add those popular text effects to your video, you will need a pro
 
 There are unlimited text effects available in Filmora but some of them are extremely popular that video creators regularly use in their videos. Here is the list of the popular Filmora video editor text effects that you should be aware of.
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Text Swipe Effect
 
 Text swipe effects are the most commonly used in today’s videos on social media and video streaming platforms. In this effect, the text slides into the video frame from a particular direction. The entire text can swipe in if it is a one-liner and it can even swipe in word by word or sentence by sentence.
 
 If you want to show short texts and you do not want to experiment with text animations, the text swipe effect is the safest option. For example, if you want to display your social media handles, your location, a coupon code, or a correction phrase that you have uttered wrongly, text swipe effects should be on your video.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Type Text Effect
 
@@ -62,6 +62,13 @@ The type text effect is particularly useful when you are displaying a large size
 WordArt is synonymous with MS Word where large words have 3D effects and highlighted background. Apart from 3D effect, text can have a thick stroke or outline as well as a gradient color style when WordArt effect is applied. In Filmora, you will find a plethora of WordArt effects and some are them are modern while others have a retro feel to them.
 
 The WordArt effect is particularly popular while displaying titles and funny texts on the entire screen or covering a large part of the video. These are mostly used in the opening or ending scenes of the video. Besides, some video creators use them while making transitions from one scene to another.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Keyframe
 
@@ -102,6 +109,13 @@ Step3 Search for a popular text effect from the search box. Select a text effect
 ![edit text in videos filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-text-in-videos-filmora.jpg)
 
 You can edit the style from fonts and settings section. You can also go to Advanced section available for more minute editing and get the desired text effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -123,13 +137,6 @@ The type text effect in Filmora is referred to as the typewriter text effect in 
 
 The type text effect is particularly useful when you are displaying a large size of text on the screen. It is also widely used when showing a paragraph of text instead of a simple line. This helps in drawing the attention of the audience to the paragraph and retaining the attention for a longer duration of time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. WordArt Effect
 
 WordArt is synonymous with MS Word where large words have 3D effects and highlighted background. Apart from 3D effect, text can have a thick stroke or outline as well as a gradient color style when WordArt effect is applied. In Filmora, you will find a plethora of WordArt effects and some are them are modern while others have a retro feel to them.
@@ -170,11 +177,25 @@ Step2 Import your video clips under Project Media folder and drop them onto the 
 
 ![import text video clip into filmora](https://images.wondershare.com/filmora/article-images/2022/09/import-text-video-clip-into-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Search for a popular text effect from the search box. Select a text effect template and drop it on the timeline. Adjust its place on the timeline depending on where you want the text to appear. Double-click on the text layer and edit the text as per your requirements.
 
 ![edit text in videos filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-text-in-videos-filmora.jpg)
 
 You can edit the style from fonts and settings section. You can also go to Advanced section available for more minute editing and get the desired text effect.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -325,19 +346,6 @@ Making videos with DIY green screen stand is no more an esoteric concept. You ca
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Uue Adobe Lightroom Color Grading
 
 The main focus of color grading is changing the colors and tones in your photographs. Recent updates to Lightroom and Photoshop's color grading functionality have improved its use and increased its capabilities. Color grading is ideal for giving your photograph a bit extra interest and improving the lighting.
@@ -427,10 +435,10 @@ Step 3 After uploading the file, your subtitles will sync with your video. To ed
 ![adjust the added subtitles](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4 Once done with making the changes on added subtitles, you can click on the "Export Project" button to save or share the file.
@@ -447,13 +455,6 @@ Step 1 Begin by accessing the website of the Kapwing tool. Click on "Subtitles" 
 
 ![hit the choose a video option](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2 Once done with importing the video, click on "Subtitles" from the left section. From the new window, click on "Auto-generate." The tool will automatically create subtitles for your video by detecting the language.
 
 ![auto-generate the subtitles](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-6.jpg)
@@ -461,26 +462,6 @@ Step 2 Once done with importing the video, click on "Subtitles" from the left se
 Step 3 Once you created the subtitles through this feature, go to the "Translate" tab to translate subtitles into your preferred language. You can also edit the subtitles to change their background, opacity, text font, and size. Once done, click on the "Export Project" button.
 
 ![customize the subtitles style](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Manually Add Subtitles to the Video on Kapwing
 
@@ -499,10 +480,10 @@ Step 3 After adding the complete subtitles, you can choose their font, style, co
 ![export the edited video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Add Subtitles to Videos with the Best Alternative of Kapwing
@@ -559,6 +540,13 @@ After the conversion, you can double-click the added subtitles to make modificat
 
 ![confirm the subtitle edits](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 By adding subtitles to your video, you can enhance your targeted audience and can also engage with them. It also helps in making your video content diverse for people across the globe. There are various online subtitle generators like Kapwing that can help you in adding subtitles, as described in this article. However, there are some drawbacks to using the Kapwing subtitle maker that can disrupt your work. If you want to use a proficient subtitle maker, you can use Wondershare Filmora to get the best results.
@@ -579,18 +567,24 @@ By adding subtitles to your video, you can enhance your targeted audience and ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-global-streaming-giants-face-off-facebook-live-youtube-live-periscope-for-2024/"><u>[Updated] Global Streaming Giants' Face-Off Facebook Live, YouTube Live, Periscope for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-virtual-vs-augmented-unraveling-ar-mr-and-vr-distinctions-for-2024/"><u>[Updated] Virtual Vs. Augmented Unraveling AR, MR & VR Distinctions for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/augmented-reality-aesthetics-tapping-into-free-lut-resources-for-ar-for-2024/"><u>Augmented Reality Aesthetics Tapping Into Free LUT Resources for AR for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easy-guide-to-zoom-video-in-vlc/"><u>Easy Guide to Zoom Video in VLC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-improvements-for-android-how-it-can-surpass-ios-as-the-preferred-mobile-os-zdnet-insights/"><u>Essential Improvements for Android: How It Can Surpass iOS as the Preferred Mobile OS (ZDNet Insights)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-f23-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo F23 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-uncomplicated-techniques-archiving-your-google-voice-calls/"><u>In 2024, Uncomplicated Techniques Archiving Your Google Voice Calls</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-chroma-key-written-text-effects-in-filmora/"><u>New Create Chroma Key Written Text Effects in Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/professional-grau-gmbh-hardware-and-software-fixes-for-seamless-video-recovery/"><u>Professional Grau GmbH Hardware & Software Fixes for Seamless Video Recovery</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-tracks-todays-youtube-vital-views/"><u>Trending Tracks Today's YouTube Vital Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hitting-the-high-scores-with-youtube-gaming-livestreams-for-2024/"><u>[New] Hitting the High Scores with YouTube Gaming Livestreams for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-guide-to-understanding-and-joining-a-youtube-media-company/"><u>[New] In 2024, A Guide to Understanding and Joining a YouTube Media Company</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-obs-studio-key-editing-tactics-unveiled-for-2024/"><u>[New] Mastering OBS Studio Key Editing Tactics Unveiled for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-why-are-recommended-youtube-movies-elusive-on-facebook-in-2024/"><u>[New] Why Are Recommended YouTube Movies Elusive on Facebook, In 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-top-10-timeless-family-adventures-on-screen-this-season/"><u>[Updated] In 2024, Top 10 Timeless Family Adventures on Screen This Season</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-a-green-screen-video-in-after-effects/"><u>2024 Approved How To Create A Green Screen Video In After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-canva-collages/"><u>2024 Approved How to Make Canva Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-speed-ramping-to-create-a-footage/"><u>2024 Approved How to Use Speed Ramping to Create a Footage</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/amplitude-variation/"><u>Amplitude Variation</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-get-green-screen-effects-on-your-video-without-green-screen-setup-in-your-background-learn-how-to-get-virtual-green-screen-background-and/"><u>New Do You Want to Get Green Screen Effects on Your Video without Green Screen Setup in Your Background? Learn How to Get Virtual Green Screen Background and Shoot Videos Like a Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects/"><u>New How To Make a Timelapse in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-crop-a-video-with-cyberlink-powerdirector/"><u>New Step by Step to Crop a Video with CyberLink PowerDirector</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/step-by-step-guide-converting-aifc-audio-files-into-wav-format-across-windows-mac-os-and-online-tools/"><u>Step-by-Step Guide: Converting AIFC Audio Files Into WAV Format Across Windows, Mac OS & Online Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-aplicativos-de-criacao-e-salvacao-de-gifs-em-2024-sugestoes-do-movavi/"><u>Top 10 Aplicativos De Criação E Salvação De GIFs Em 2024 - Sugestões Do Movavi</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-find-out-what-ray-tracing-is-in-after-effects-how-it-works-and-learn-about-ray-traced-3d-settings-with-simple-instructions/"><u>Updated Find Out What Ray Tracing Is in After Effects, How It Works, and Learn About Ray-Traced 3D Settings with Simple Instructions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-color-correction-basics-s-log-footage/"><u>Updated In 2024, Color Correction Basics (S-LOG Footage)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-vintage-film-effect-1980s-how-to-create/"><u>Updated Vintage Film Effect 1980S - How to Create</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/viral-video-validation-how-to-fix-shaky-iphone-videos/"><u>Viral Video Validation How to Fix Shaky iPhone Videos</u></a></li>
 </ul></div>
 

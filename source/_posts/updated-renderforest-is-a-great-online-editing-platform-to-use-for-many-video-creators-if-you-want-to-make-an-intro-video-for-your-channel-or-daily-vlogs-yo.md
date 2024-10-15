@@ -1,7 +1,7 @@
 ---
 title: Updated Renderforest Is a Great Online Editing Platform to Use for Many Video Creators. If You Want to Make an Intro Video for Your Channel or Daily Vlogs, You Can Follow This Article to Know More Details
-date: 2024-10-03T18:27:03.908Z
-updated: 2024-10-08T17:34:02.331Z
+date: 2024-10-13T02:47:39.720Z
+updated: 2024-10-14T19:28:33.078Z
 tags: 
   - ai
   - animation videos
@@ -88,13 +88,6 @@ We'll use the "**Swift Glitch Logo**" template for this tutorial, enabling you t
 Select your preferred template and click the "**Create now**" button to start.
 
 ![swift glitch logo renderforest](https://images.wondershare.com/filmora/article-images/2022/11/swift-glitch-logo-renderforest.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Your logo should now be uploaded with a transparent background (PNG). You can upload it in one of three ways: using an image URL directly from your device or selecting an existing file from your "Media library." If you don't already have one, you may make one right away using our logo maker tool, which is also accessible in the editor.
 
@@ -199,6 +192,13 @@ Fortunately, you don't have to believe us. You may experience all the main advan
      data-ad-slot="1223367746"></ins>
 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## HDR Photography: How to Use HDR Mode on Your Android Devices
 
 The present-day high-end smartphones, like iPhone, Samsung, and Huawei, come packed in with advanced camera features that can let you capture interesting and bright images having depth. To get this done, you first need to check if your smartphone has an HDR mode and if it does, how to use the same.
@@ -295,6 +295,13 @@ Step1 Download, install, and launch the software on your system. Click on the Cr
 
 ![edit hdr videos wondershare filmora 1](https://images.wondershare.com/filmora/article-images/2022/07/hdr-photography-how-to-use-hdr-mode-on-your-android-devices-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 On the next screen that appears, tap on the Import Media Files Here button to browse and add the HDR video that has to be edited. Multiple files can be added here for batch processing.
 
 ![edit hdr videos wondershare filmora 2](https://images.wondershare.com/filmora/article-images/2022/07/hdr-photography-how-to-use-hdr-mode-on-your-android-devices-3.jpg)
@@ -306,13 +313,6 @@ Step3 Next, drag and move the added videos to the timeline at the bottom of the 
 Step4 When done with editing, click on the Export button, choose the target format, also, click the ‘Export Color Space’ drop/down icon from the ‘settings’ to change HDR video output quality (default quality is SDR - Rec.709). Then click on the ‘OK’ button once you're done to finalize the operation.
 
 ![edit hdr videos wondershare filmora 4](https://images.wondershare.com/filmora/article-images/2022/07/hdr-photography-how-to-use-hdr-mode-on-your-android-devices-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -398,6 +398,13 @@ Before using tools for professional videos, you should remember some side effect
 
 You should remember that homemade tools will give you different results than professional gear because they are expensive for a purpose. But you can experiment and get fun during filming with these products.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Safety Measures
 
 If you use any heavy or temperature-sensitive equipment, you should take safety before operating them.
@@ -407,13 +414,6 @@ If you use any heavy or temperature-sensitive equipment, you should take safety 
 Before experimenting, make sure that you are holding everything tightly. Ensure that no accident occurs during filming!
 
 After taking precautions and understanding the output, it’s time to make tools and film!
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Smooth Camera Movement with A Door
 
@@ -426,6 +426,13 @@ It easy to achieve by attaching a camera to the door. You can use duct or any ot
 Moving the door while performing any action will result in smooth shots. Check out the final results below.
 
 ![final look of smooth shots](https://images.wondershare.com/filmora/article-images/2023/01/mimic-professional-filming-gears-2.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Film Shots of Underwater
 
@@ -453,6 +460,19 @@ First, wrap the colored divider around the LED light or any light you use to sho
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** Check the light temperature after short intervals because it melts or burns the dividers when the light source gets hot.
 
 ![wrap the led light with a green divider](https://images.wondershare.com/filmora/article-images/2023/01/mimic-professional-filming-gears-4.png)
@@ -460,13 +480,6 @@ First, wrap the colored divider around the LED light or any light you use to sho
 Now make the video and try with different colors to add suspense, horror, and happy effects to the video.
 
 ![final results after making colorful shots](https://images.wondershare.com/filmora/article-images/2023/01/mimic-professional-filming-gears-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The video still needs more creative effects and designs; scroll more to read exciting tips.
 
@@ -550,6 +563,13 @@ Now, it’s time to turn on the drill and ensure that the video option is **“T
 
 ![final result of barrel roll shot](https://images.wondershare.com/filmora/article-images/2023/01/mimic-professional-filming-gears-10.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Finally, you get a filmy video after performing above mentioned 6 DIY hacks without expensive gear. More creativity in a video attracts more audience, which makes you more prior in the videography industry.
@@ -561,6 +581,13 @@ Then, place the container on the lens of the phone to make a video. Then, take c
 ![filming underwater](https://images.wondershare.com/filmora/article-images/2023/01/mimic-professional-filming-gears-3.jpg)
 
 **Pro Tip:** You can also shine light source in water and add glitter or colors to get more astonishing shots.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4\. Make Colourful Shots Without Coloured Lights
 
@@ -610,13 +637,6 @@ After giving shape, now move the cardboard around the light source and make a vi
 
 ![final preview](https://images.wondershare.com/filmora/article-images/2023/01/mimic-professional-filming-gears-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Become more creative and make more shapes with cardboard because the audience always prefers new content in the market.
 
 ## Part 6\. Create Point of View Shots
@@ -643,13 +663,6 @@ Due to this, the food seems good, and you can notice the number of spices too. T
 
 What if we add the rotatory shots, too, in the video? For this, check out the last tip and try that!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 7\. Create a Barrel Roll Shot
 
 Barrel roll shots are the full axial shot by spinning the camera lens. Epic shots that formerly required costly gimbals and sophisticated techniques are now as simple as strolling.
@@ -675,19 +688,6 @@ Attach the camera to the power drill with the help of old-fashioned tape.
 Now, it’s time to turn on the drill and ensure that the video option is **“Turn On”** in the camera. Then, enjoy the shots of 360° with your audience!
 
 ![final result of barrel roll shot](https://images.wondershare.com/filmora/article-images/2023/01/mimic-professional-filming-gears-10.gif)
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -730,13 +730,6 @@ Adobe has a wide range of video editors and it is the most reliable brand among 
 
 ![adobe express](https://images.wondershare.com/filmora/article-images/adobe-express.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Adobe Express is labelled as the branding tool where you can create trendy images with templates and choose from different animated text presets. You can access the online tool from all devices from your web browser. Most importantly, it is a completely free animated text generator from Adobe and you can add animated text to your images within a few minutes.
 
 * Funky and trendy animated text templates
@@ -750,6 +743,13 @@ Adobe Express is labelled as the branding tool where you can create trendy image
 Animaker is one of the leading animated text makers online. You can make short videos with animated text just by drag and drop technique. The user interface is super easy to operate and it is the reason behind its popularity. There are unlimited templates to choose from and get started with your animated text video. In fact, the platform has the best photo and video asset library that you can use in your video to make it more attractive.
 
 ![animaker](https://images.wondershare.com/filmora/article-images/animaker-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can publish your video in 4K resolution and resize them for different platforms where you are going to publish them. Unlike Adobe Express, you can add music to your animated text videos. There are also characters that you can use in your text animation for eye-catching video making. Here are the key features of Animaker.
 
@@ -885,20 +885,20 @@ Getting animated text for your video is no more a job of experts. You can genera
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-finding-prominent-comment-spotlights/"><u>[New] Finding Prominent Comment Spotlights</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-broadcasting-conferences-with-no-expense-account/"><u>[Updated] In 2024, Broadcasting Conferences with No Expense Account</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-soundcheck-evaluation/"><u>[Updated] In 2024, SoundCheck Evaluation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-step-by-step-obs-skype-screen-recording-for-2024/"><u>[Updated] Step-by-Step OBS Skype Screen Recording for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/5-tools-to-create-a-time-lapse-video-online/"><u>5 Tools to Create a Time-Lapse Video Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/discover-a-quick-guide-to-add-personalized-video-filters-in-vn-app-learn-how-to-use-built-in-filters-and-import-external-ones-for-creative-video-editing-for/"><u>Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-have-the-habit-to-create-subtitle-for-your-video-you-can-always-add-open-and-close-subtitles-to-your-video-to-make-it-perfect-follow-this-article-to-/"><u>Do You Have the Habit to Create Subtitle for Your Video? You Can Always Add Open and Close Subtitles to Your Video to Make It Perfect. Follow This Article to Learn More About It</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/gtx-950-error-43-fix-guide-a-comprehensive-solution-for-windows-11-users/"><u>GTX 950 'Error 43' Fix Guide: A Comprehensive Solution for Windows 11 Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-choose-your-ideal-phone-case/"><u>How to Choose Your Ideal Phone Case</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-samsung-galaxy-m14-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy M14 4G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-detailed-guide-to-rotate-videos-in-blender/"><u>In 2024, Detailed Guide to Rotate Videos in Blender</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y28-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y28 5G Phone Screen?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/sound-sleuths-unite-free-beats-tracking-tools-for-2024/"><u>Sound Sleuths Unite! Free Beats-Tracking Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/want-to-save-your-edited-video-file-in-mp4-format-in-windows-movie-maker-here-are-the-simple-steps-along-with-a-better-alternative/"><u>Want to Save Your Edited Video File in MP4 Format in Windows Movie Maker? Here Are the Simple Steps Along with a Better Alternative</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-implementing-azure-transcript-api-in-software/"><u>[New] 2024 Approved Implementing Azure Transcript API in Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-discover-the-best-3-platforms-for-video-consumption-post-youtube-for-2024/"><u>[New] Discover the Best 3 Platforms for Video Consumption (Post-YouTube) for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-investigating-instagrams-videography-cap/"><u>[Updated] Investigating Instagram's Videography Cap</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-turbocharging-your-instagram-footage/"><u>[Updated] Turbocharging Your Instagram Footage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-consider-a-lut-to-be-a-color-preset-that-a-filmmaker-can-use-to-start-working-on-a-project-quickly-sony-engineers-have-developed-luts-to-help-/"><u>2024 Approved Consider a LUT to Be a Color Preset that a Filmmaker Can Use to Start Working on a Project Quickly. Sony Engineers Have Developed LUTs to Help Filmmakers Perform Specific Tasks. All of These Are Available for Free</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-5-websites-and-software-to-convert-powerpoint-to-mp4/"><u>2024 Approved Top 5 Websites and Software to Convert Powerpoint to Mp4</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-sony-xperia-10-v-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Sony Xperia 10 V Fingerprint Lock</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-high-performance-gigabyte-audio-drivers-for-free-today/"><u>Download High-Performance Gigabyte Audio Drivers for Free Today!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-random-letter-reveal-intro/"><u>In 2024, How to Make Random Letter Reveal Intro?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-mobvoi-ticwatch-pro-3-tracking-watch-maximizing-battery-efficiency-through-dual-displays/"><u>In-Depth Review of Mobvoi TicWatch Pro 3 Tracking Watch: Maximizing Battery Efficiency Through Dual Displays</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713950874876-looking-for-the-simple-steps-to-add-transition-effects-in-your-video-we-will-illustrate-how-to-add-transition-in-filmora-and-mention-tips-and-tricks-for-vid/"><u>Looking for the Simple Steps to Add Transition Effects in Your Video? We Will Illustrate How to Add Transition in Filmora and Mention Tips and Tricks for Video Transition Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-get-green-screen-effects-on-your-video-without-green-screen-setup-in-your-background-learn-how-to-get-virtual-green-screen-background-and/"><u>New Do You Want to Get Green Screen Effects on Your Video without Green Screen Setup in Your Background? Learn How to Get Virtual Green Screen Background and Shoot Videos Like a Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-color-correction-basics-s-log-footage/"><u>Updated In 2024, Color Correction Basics (S-LOG Footage)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-vintage-film-effect-1980s-how-to-create/"><u>Updated Vintage Film Effect 1980S - How to Create</u></a></li>
 </ul></div>
 

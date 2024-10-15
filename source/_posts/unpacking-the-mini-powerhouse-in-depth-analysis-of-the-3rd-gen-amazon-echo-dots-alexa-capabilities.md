@@ -1,7 +1,7 @@
 ---
 title: "Unpacking the Mini-Powerhouse: In-Depth Analysis of the 3Rd Gen Amazon Echo Dot's Alexa Capabilities"
-date: 2024-10-03T19:15:32.562Z
-updated: 2024-10-08T18:51:35.080Z
+date: 2024-10-12T20:42:34.255Z
+updated: 2024-10-14T21:45:09.883Z
 categories:
   - BestProducts
 description: "This Article Describes Unpacking the Mini-Powerhouse: In-Depth Analysis of the 3Rd Gen Amazon Echo Dot's Alexa Capabilities"
@@ -40,29 +40,9 @@ Lifewire / Jeremy Laukkonen
 
 4.2
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NT3lnZ3hOwaGUbS2tHARE7zRT1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -95,6 +75,13 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/c10USyUEVgaFrdeWRUBgX6MNpOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_05-7314cf2ae25a4f428d93f40cc56fb5d1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Jeremy Laukkonen
 
  The Luna app, both the Fire TV version and the web app version, is well-designed enough, without a whole lot to really stand out or impress. It functions as a basic interface to access all of the games that the service offers, including a Home screen that highlights games in various categories, a Library screen that lists every available game, and a Playlist page that provides easy access to games you have specifically chosen to place there.
@@ -104,6 +91,13 @@ Lifewire / Jeremy Laukkonen
  The controller is similarly unassuming, and Amazon clearly isn’t trying to rock the boat there. It’s extremely similar in profile to an Xbox One controller, right down to the positioning of the offset analog sticks. This configuration has long been my favorite, with the Sony-style side-by-side analogs feeling cramped, so the Luna controller feels instinctually good in my hands. If you’re a fan of the Xbox One controller, you’ll likely feel the same. If you don’t like the Xbox-style design for whatever reason, then you may at least appreciate the fact that the build quality of the controller feels quite solid, and it’s very snappy and responsive in use.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -118,10 +112,16 @@ Lifewire / Jeremy Laukkonen
  Overall, the Luna controller has quickly become one of my favorite alternatives to the Xbox One or Xbox Series X/S controller; the only real issues being the mushy d-pad and the texture of the analog sticks. I ended up snapping on some performance thumb grips, which worked great.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Setup Process: Quick and easy
@@ -158,6 +158,13 @@ Lifewire / Jeremy Laukkonen
 
  If you have a slow internet connection or suffer from poor connectivity, then it’s likely that the brief issues I experienced could be amplified to an unacceptable point. If you have a decent connection, live closer to a major metropolitan area than I do, and have more than 10Mbps of downstream bandwidth available, the service should work just fine.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Software: Dozens of games, but the library is a bit thin with a lot of holes
 
  Luna’s biggest issue, and its biggest question mark going forward, is its streaming library. Amazon is taking a page from Microsoft’s book in that they’re trying to function as a Netflix of game streaming, but Amazon just doesn’t have the same deep library as Microsoft.
@@ -170,31 +177,11 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
  For some reason, the fighting category is populated by titles like the rogue-like shooter Everspace and the co-op brawler River City Girls. No actual fighting games, though. The horror category was empty until Amazon scored Resident Evil 7 Gold Edition and also saddled gorefest pixel art platformer Valfaris with the horror tag.
 
  It’s clear that Amazon is working to bring a nice mix of games to the service, but the depth and breadth of the titles you can access with a basic subscription remain the biggest question as Luna moves through beta and toward general launch.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Price: Affordable fee reflects the thin library
 
@@ -219,6 +206,13 @@ Lifewire / Jeremy Laukkonen
 **A solid game streaming service.**
 
  Amazon Luna is an impressive game streaming service that works surprisingly well whether or not you buy the optional controller. It isn’t perfect, and you’re likely to experience hiccups here and there, but it’s an extremely affordable way to experience dozens of games, many of which would otherwise require an expensive gaming PC or console, without any kind of initial investment. The future of the service remains uncertain, and the precedent of locking Ubisoft games behind an expensive additional paywall isn’t a great sign, but Amazon has a chance to make a real splash in the gaming world with Luna.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -256,20 +250,22 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-guide-on-downloading-processing-and-saving-twitter-vids-as-mp3s/"><u>[Updated] In 2024, Guide on Downloading, Processing, and Saving Twitter Vids as MP3s</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-vsx-screen-grabber-insight-detailed-overview/"><u>[Updated] VSX Screen Grabber Insight Detailed Overview</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-ways-to-add-meme-text-to-videos/"><u>2024 Approved Best Ways to Add Meme Text to Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-steps-to-create-makeup-videos/"><u>2024 Approved Steps to Create Makeup Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-sound-transition-in-logic-pro-x/"><u>2024 Approved The Art of Sound Transition in Logic Pro X</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-go-to-car-jolt-starter-kits/"><u>2024'S Go-To Car Jolt Starter Kits</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-best-performance-latest-intel-iris-xe-drivers-for-modern-windows-os/"><u>Ensure Best Performance: Latest Intel Iris Xe Drivers for Modern Windows OS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/high-definition-dvd-extractor-convert-your-dvds-into-stunning-hd-videos/"><u>High Definition DVD Extractor: Convert Your DVDs Into Stunning HD Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-vintage-film-effect-1920s/"><u>How to Create Vintage Film Effect 1920S</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-4-solutions-to-add-white-border-to-video-on-mobile-and-desktop/"><u>New 2024 Approved 4 Solutions to Add White Border to Video on Mobile and Desktop</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-customized-transitions-to-obs/"><u>New 2024 Approved How to Add Customized Transitions to OBS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/total-war-warhammer-ii-stability-fixes-addressing-persistent-game-crash-issues-successfully/"><u>Total War: Warhammer II Stability Fixes - Addressing Persistent Game Crash Issues Successfully</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-blending-multiple-mp4-clips-into-one-top-7-software-recommendations/"><u>Ultimate Guide to Blending Multiple MP4 Clips Into One - Top 7 Software Recommendations</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>Updated 2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-/"><u>Updated A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-elevating-your-vimeo-presence-with-imovie-videos-for-2024/"><u>[New] Elevating Your Vimeo Presence with iMovie Videos for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-essential-streamers-for-remote-church-attendance/"><u>[New] In 2024, Essential Streamers for Remote Church Attendance</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-nurturing-nature-on-android-animals-in-a-virtual-world/"><u>[New] In 2024, Nurturing Nature on Android Animals in a Virtual World</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhance-videos-effortlessly-with-story-remix-and-windows-10-photos/"><u>[Updated] 2024 Approved Enhance Videos Effortlessly with Story Remix and Windows 10 Photos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-curating-playlists-in-inshot-bringing-down-beats/"><u>[Updated] Curating Playlists in InShot Bringing Down Beats</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to-create-/"><u>2024 Approved Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-xs-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone XS? How to Fix it?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/discover-a-quick-guide-to-add-personalized-video-filters-in-vn-app-learn-how-to-use-built-in-filters-and-import-external-ones-for-creative-video-editing-for/"><u>Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-have-the-habit-to-create-subtitle-for-your-video-you-can-always-add-open-and-close-subtitles-to-your-video-to-make-it-perfect-follow-this-article-to-/"><u>Do You Have the Habit to Create Subtitle for Your Video? You Can Always Add Open and Close Subtitles to Your Video to Make It Perfect. Follow This Article to Learn More About It</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-track-and-blur-faces-in-premiere-pro/"><u>How To Track and Blur Faces in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-2-methods-to-cut-video-in-vlc-on-windows/"><u>In 2024, 2 Methods to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-nubia-red-magic-9-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-the-stranger-things-upside-down-effect/"><u>Updated 2024 Approved How to Create the Stranger Things Upside Down Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-6-websites-to-free-download-motivational-video-footage/"><u>Updated In 2024, 6 Websites to Free Download Motivational Video Footage</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unmarked-and-unbeatable-top-free-video-editing-software/"><u>Updated Unmarked and Unbeatable Top Free Video Editing Software</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-what-are-the-stages-of-film-production/"><u>Updated What Are The Stages Of Film Production</u></a></li>
 </ul></div>
 

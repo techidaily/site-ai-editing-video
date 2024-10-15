@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, 3 Best Effects to Appear on Camera
-date: 2024-10-02T19:35:59.195Z
-updated: 2024-10-08T17:24:32.958Z
+date: 2024-10-10T20:22:23.761Z
+updated: 2024-10-15T03:20:32.830Z
 tags: 
   - ai
   - animation videos
@@ -87,16 +87,16 @@ Step4 Double-click on it, activate the setting window and then key out the backg
 
 ![activate the setting window ](https://images.wondershare.com/filmora/article-images/2022/12/appearance_12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Move the clip until it covers only the first frame of the appearing clip. Now keyframe the following subject from the outer frame to the final position.
 
 ![move the clip](https://images.wondershare.com/filmora/article-images/2022/12/appearance_13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step6 Now search for some smoke effects and put it upside down. So it looks like the ceiling is broken when the subject falls. Then add some camera shake to the fall.
 
@@ -179,6 +179,19 @@ Step4 **Import** photos and videos.
 
 ![filmora import clips](https://images.wondershare.com/filmora/article-images/drag-recap-files-to-edit.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 **Add** the imported media and **edit** the clip.
 
 Step6 **Add** some effects and overlay to the timeline
@@ -241,13 +254,6 @@ Step7 **Save** the final video to your device
 
 ![filmora mobile save video](https://images.wondershare.com/filmora/article-images/filmora-mobile-save-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 4\. How To Create a Memories Recap Video on Instagram Reel
 
 Another way to create a memories recap video is using the Instagram Reel feature. Instagram Reel is a short-form video feature that allows users to create and share videos up to 60 seconds long. With Instagram Reel, you can easily create a recap video of your event by compiling short clips, adding music and text, and sharing it with your followers.
@@ -257,13 +263,6 @@ Instagram Reel provides a platform to reach a wider audience and create engaging
 Step1 **Start** a new Reel on Instagram
 
 ![instagram new reel](https://images.wondershare.com/filmora/article-images/instagram-new-reel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 **Choose** a template
 
@@ -378,16 +377,16 @@ Step6 Users can **share** the video on social platforms or **tap** "**More**" to
 
 ![filmora mobile download video](https://images.wondershare.com/filmora/article-images/filmora-mobile-download-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step7 **Save** the final video to your device
 
 ![filmora mobile save video](https://images.wondershare.com/filmora/article-images/filmora-mobile-save-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4\. How To Create a Memories Recap Video on Instagram Reel
 
@@ -535,10 +534,10 @@ Step3 Go to Titles option located at the top, and on the left panel, go to End C
 ![scroll text effects filmora](https://images.wondershare.com/filmora/article-images/2022/07/scroll-text-effects-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4 Once you are satisfied with any scrolling text effects, drag and drop it into Timeline above the video clip layer. Adjust the position of the text effect so that it appears on the video as expected. You can stretch the duration of the effect as per your preference.
@@ -548,13 +547,6 @@ Step4 Once you are satisfied with any scrolling text effects, drag and drop it i
 Step5 Double-click on the text layer on Timeline and customize the text and style as you feel. Thereafter, you can click on Advanced button for more customization. Finally, click on OK button.
 
 ![customize scroll text style filmora](https://images.wondershare.com/filmora/article-images/2022/07/customize-scroll-text-style-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Use After Effects to Create Scrolling Text
 
@@ -579,6 +571,13 @@ Step4 Turn on Position option and change the duration and add a keyframe.
 Step5 Right-click on Composition setting and go to New> Null Object. Change the duration and make it the same as the Duplicate layer and add a keyframe there. Besides, move the null object out of the visible screen to the right.
 
 ![null object after effects](https://images.wondershare.com/filmora/article-images/2022/07/null-object-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step6 Select all layers and right-click and select Pre-compose.
 
@@ -606,6 +605,13 @@ Step3 Type your text and if you want to scroll it like horizontal scrolling text
 
 ![place the text vsdc](https://images.wondershare.com/filmora/article-images/2022/07/place-the-text-vsdc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Double-click on text layer and go to Add Object and click on Movement.
 
 ![add object movement vsdc](https://images.wondershare.com/filmora/article-images/2022/07/add-object-movement-vsdc.jpg)
@@ -617,6 +623,13 @@ Step5 You will find the mouse pointer change and you have to click on the spot t
 Step6 Shorten the duration of the text layer and then copy the text layer from Timeline. Paste it again and again until you cover the video layer completely so that the scroll effect goes on as long as the video runs.
 
 ![complete scrolling effect vsdc](https://images.wondershare.com/filmora/article-images/2022/07/complete-scrolling-effect-vsdc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Takeaway
 
@@ -686,13 +699,6 @@ Step1 Install VSDC free video editor and click on New Project option. Click on F
 
 ![import video to vsdc](https://images.wondershare.com/filmora/article-images/2022/07/import-video-to-vsdc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Select Type tool from the left panel and draw a box on the video where you can type your text. Make sure the text layer is on top of the video layer in Timeline.
 
 ![select type tool vsdc](https://images.wondershare.com/filmora/article-images/2022/07/select-type-tool-vsdc.jpg)
@@ -709,16 +715,16 @@ Step5 You will find the mouse pointer change and you have to click on the spot t
 
 ![add scrolling effects vsdc](https://images.wondershare.com/filmora/article-images/2022/07/add-scrolling-effects-vsdc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step6 Shorten the duration of the text layer and then copy the text layer from Timeline. Paste it again and again until you cover the video layer completely so that the scroll effect goes on as long as the video runs.
 
 ![complete scrolling effect vsdc](https://images.wondershare.com/filmora/article-images/2022/07/complete-scrolling-effect-vsdc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Takeaway
 
@@ -740,19 +746,16 @@ Adding scrolling text to your video should no more be an issue for you. If you a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-enhancing-youtube-videos-proper-lighting-methods/"><u>[Updated] 2024 Approved Enhancing YouTube Videos Proper Lighting Methods</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-event-videography-is-popular-in-weddings-graduation-family-reunion-and-other-great-moments-here-im-going-to-share-some-of-the-tips-to-make-a-b/"><u>2024 Approved Event Videography Is Popular in Weddings, Graduation, Family Reunion and Other Great Moments. Here Im Going to Share some of the Tips to Make a Better Event Videography</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-summit-masterpiece-lab-check/"><u>2024 Approved Summit Masterpiece Lab Check</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-inauthentic-copies-of-chatgpt-in-the-official-ios-marketplace/"><u>Identifying Inauthentic Copies of ChatGPT in the Official iOS Marketplace</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Realme 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-secret-to-capturing-seamless-google-classesmeets/"><u>In 2024, The Secret to Capturing Seamless Google Classes/Meets</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-rotate-videos-in-lightworks-for-2024/"><u>New Steps to Rotate Videos in Lightworks for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-mp4-videos-to-high-quality-wav-files-with-ffmpeg/"><u>Step-by-Step Guide] Converting MP4 Videos to High-Quality WAV Files with FFmpeg</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-step-by-step-to-crop-videos-using-lightworks/"><u>Updated 2024 Approved Step by Step to Crop Videos Using Lightworks</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-best-cloud-storage-service-for-videos-for-2024/"><u>Updated Best Cloud Storage Service for Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-effects-on-tiktok/"><u>Updated In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-extensive-audit-unveiling-the-dji-inspire-1-drone/"><u>[Updated] 2024 Approved Extensive Audit Unveiling the DJI Inspire 1 Drone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-try-these-10-music-video-templates-to-make-your-work-easy/"><u>2024 Approved Try These 10 Music Video Templates To Make Your Work Easy</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easily-sync-audio-with-video-with-filmora/"><u>Easily Sync Audio With Video With Filmora</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/giggling-waves-websites-for-humorous-tones-for-2024/"><u>Giggling Waves Websites for Humorous Tones for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-elevating-your-android-experience-through-recording/"><u>In 2024, Elevating Your Android Experience Through Recording</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-and-implement-windows-11-family-safety-options/"><u>Navigate and Implement Windows 11 Family Safety Options</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-ideas-for-time-lapse-video/"><u>New Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-5-free-online-video-filter-editors/"><u>New Top 5 Free Online Video Filter Editors</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-nokia-g42-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Nokia G42 5G.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-and-activating-smart-app-control-in-windows-11-an-essential-tutorial/"><u>Understanding & Activating Smart App Control in Windows 11 - An Essential Tutorial</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-if-you-are-a-marketer-who-want-to-create-facebook-ads-to-boost-your-business-you-are-coming-to-the-right-place-well-share-you-some-useful-tips-to-st/"><u>Updated If You Are a Marketer Who Want to Create Facebook Ads to Boost Your Business, You Are Coming to the Right Place. Well Share You some Useful Tips to Start Your First FB Ads Campaign</u></a></li>
 </ul></div>
 

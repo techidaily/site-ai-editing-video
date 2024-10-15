@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Add Custom Subtitles to Netflix
-date: 2024-10-07T17:18:07.384Z
-updated: 2024-10-08T19:06:54.032Z
+date: 2024-10-11T18:41:00.205Z
+updated: 2024-10-14T17:54:46.154Z
 tags: 
   - ai
   - animation videos
@@ -50,6 +50,13 @@ Step 9 You then need to navigate to the directory on your computer where you hav
 Step 10 Click the "Okay" button to upload the subtitles to Netflix.
 
 Step 11 Close the settings window and play the video. You can view the uploaded subtitles at the bottom of the player.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2\. Add Custom Subtitles to Netflix with Extensions
 
@@ -159,13 +166,6 @@ If you want to add custom subtitles to Netflix movies and TV shows, you can achi
 
 ![run filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Filmora is one of the most popular and powerful video editors out there. Developed by Wondershare, it allows you to import subtitle files in various formats, including .srt, and edit them directly. Some noteworthy features of Filmora for subtitles and video editing include the manual addition of subtitles, speech-to-text conversion, green screen, video stabilization, and color correction.
 
 Wondershare Filmora also offers several advanced text editing tools that make it possible to customize the appearance of subtitles that you add to a video. You can change the color and size of the fonts and add a gradient effect to the text. Additionally, you can animate text to make it stand out.
@@ -193,13 +193,6 @@ Step 8 You need to double-click on the subtitle timeline box to add custom text,
 Step 9 Once done, you can click on the "Ok" button to save the changes.
 
 Step 10 Similarly, you can add subtitles for different sections of the video.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -245,10 +238,10 @@ You are prepared to make a time-lapse sequence if all of your photographs are sa
 ![import images into after effects](https://images.wondershare.com/filmora/article-images/2022/11/import-images-into-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3\. Create movements
@@ -278,13 +271,6 @@ You can alter the Stretch Factor or Duration in the dialogue box. When you alter
 5. Add any Effects, such as Light Leaks, to your Adjustment Layer by choosing "Right-click > New > Adjustment layer."
 
 ![make an overlay after effects](https://images.wondershare.com/filmora/article-images/2022/11/make-an-overlay-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After Effects CC must be opened, a new project must be created, the Import File menu option must be selected, and the appropriate folder containing the altered still images must be located and selected before the time-lapse photos can be turned into a film. You need to make sure that the JPEG Series box is checked, as well as the Force Alphabetical Order box.
 
@@ -328,13 +314,6 @@ For fast-moving objects, you can consider using the motion blur effect to displa
 
 As most games utilize stop-motion animation, it tends to lag at a lower frame rate. Motion blur enhances the gaming effects and smoothens them in a lower frame rate. This allows users to get a smooth game experience at a lower and adjustable frame rate. Motion blur in games has been added with the objective of smoothening the gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Does Minecraft Have Motion Blur?
 
 Minecraft has provided the option of including the motion blur effect in its game. For a better visual experience, this effect has turned out to be quite beneficial. The existence of motion blur in Minecraft is equivalent to smoother gameplay, which is accomplished under a low frame rate. Rather than having screens with higher frame rates, you can get a low-end option.
@@ -357,13 +336,6 @@ Step1 You can consider using any appropriate PVP client, such as [Lunar Client](
 
 ![launch the lunar client](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Launch the client and proceed to select the version of Minecraft you are using and load the game. As you are within the game, move into the “Options” and look for “Video Settings.”
 
 ![access the video settings](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-4.jpg)
@@ -371,6 +343,13 @@ Step2 Launch the client and proceed to select the version of Minecraft you are u
 Step3 Look for the "Performance" options in the following settings and turn off "Fast Render" within the options. Once done, use the "Right Shift" button on your keyboard to access the Lunar Client menu. From there, you can set the intensity of motion blur from the available options.
 
 ![adjust the motion blur value](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Use Forge
 
@@ -382,9 +361,23 @@ Step2 Following this, open the Forge Installer to access the next screen. Select
 
 ![enable the install client option](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 You must access your Minecraft Launcher and look for "Forge" in the installations. Run the setup and quit the game. Download the motion blur mod to add to Minecraft. Look for the ".minecraft" folder in the "Local Disk (C:)" of your computer. Add the downloaded mod file to the "mods" folder.
 
 ![place motion blur in mods](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 You must run Minecraft and type "/motionblur" in the chat box. You can set up the intensity of the motion blur from 1 to 10.
 
@@ -444,6 +437,13 @@ As you have added the video, drag it on the timeline. Following this, use the pl
 
 ![split the added video](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Apply the Motion Blur
 
 Continue to the "Effects" tab and reach out to "Video Effects" from the left panel. Continue to search for "Blur" from the search bar. Use the first effect in the result and add it to the video in the timeline.
@@ -455,6 +455,13 @@ Continue to the "Effects" tab and reach out to "Video Effects" from the left pan
 To make your video smooth, look for "Dissolve" in the "Transitions" tab. As you search for it, add it to the part of your video. Once done, use the "Export" button to get the edited gaming video with motion blur.
 
 ![export the minecraft video](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -494,13 +501,6 @@ Continue to the "Effects" tab and reach out to "Video Effects" from the left pan
 
 ![search for the blur effect](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4 Add Transition and Export
 
 To make your video smooth, look for "Dissolve" in the "Transitions" tab. As you search for it, add it to the part of your video. Once done, use the "Export" button to get the edited gaming video with motion blur.
@@ -508,10 +508,10 @@ To make your video smooth, look for "Dissolve" in the "Transitions" tab. As you 
 ![export the minecraft video](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-minecraft-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Last Words
@@ -534,18 +534,18 @@ With the guide provided, you will understand **how to get motion blur in Minecra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-rapid-visual-repository-w-audio-walkthrough-guide/"><u>[Updated] In 2024, Rapid Visual Repository W/ Audio Walkthrough Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-master-iphone-filmmaking-for-full-sphere-effects/"><u>[Updated] Master iPhone Filmmaking for Full Sphere Effects</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-secrets-of-facebooks-2023-full-screen-video-settings/"><u>2024 Approved Secrets of Facebook's 2023 Full Screen Video Settings</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/5-tools-to-create-a-time-lapse-video-online/"><u>5 Tools to Create a Time-Lapse Video Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/discover-a-quick-guide-to-add-personalized-video-filters-in-vn-app-learn-how-to-use-built-in-filters-and-import-external-ones-for-creative-video-editing-for/"><u>Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-have-the-habit-to-create-subtitle-for-your-video-you-can-always-add-open-and-close-subtitles-to-your-video-to-make-it-perfect-follow-this-article-to-/"><u>Do You Have the Habit to Create Subtitle for Your Video? You Can Always Add Open and Close Subtitles to Your Video to Make It Perfect. Follow This Article to Learn More About It</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/gtx-950-error-43-fix-guide-a-comprehensive-solution-for-windows-11-users/"><u>GTX 950 'Error 43' Fix Guide: A Comprehensive Solution for Windows 11 Users</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-detailed-guide-to-rotate-videos-in-blender/"><u>In 2024, Detailed Guide to Rotate Videos in Blender</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo V30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-complete-guide-to-conquering-video-editing-with-vivocut/"><u>In 2024, The Complete Guide to Conquering Video Editing with VivoCut</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-to-implementing-gpt-3-in-playground-mode-by-openai/"><u>The Ultimate Walkthrough to Implementing GPT-3 in Playground Mode by OpenAI</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/want-to-save-your-edited-video-file-in-mp4-format-in-windows-movie-maker-here-are-the-simple-steps-along-with-a-better-alternative/"><u>Want to Save Your Edited Video File in MP4 Format in Windows Movie Maker? Here Are the Simple Steps Along with a Better Alternative</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevate-user-participation-via-personalized-ig-story-polls/"><u>[New] 2024 Approved Elevate User Participation via Personalized IG Story Polls</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-enrich-your-videos-expert-recommended-players-guide/"><u>[Updated] In 2024, Enrich Your Videos Expert-Recommended Players' Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mobile-methods-download-gifs-from-twitter-on-devices-for-2024/"><u>[Updated] Mobile Methods Download GIFs From Twitter on Devices for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-out-what-keyframe-interval-is-why-it-is-important-and-to-change-its-value-on-obs-studio-with-simple-and-easy-to-follow-instructions/"><u>2024 Approved Find Out What Keyframe Interval Is, Why It Is Important, and to Change Its Value on OBS Studio with Simple and Easy-to-Follow Instructions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/easy-video-editing-for-mac-users-a-guide-to-mkvtoolnix/"><u>Easy Video Editing for Mac Users A Guide to MKVtoolnix</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/examining-splitcam-top-video-recorder/"><u>Examining SplitCam Top Video Recorder?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-fantastic-glitch-effects-with-filmora-read-this-guide-to-find-out-how-to-apply-glitch-effects-on-your-videos-and-make-custom-glitch-effects/"><u>How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-15-pro-max-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 15 Pro Max & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-performance-issues-how-to-remove-lag-and-stutters-from-half-life-alyx-gameplay/"><u>Solving Performance Issues: How to Remove Lag & Stutters From Half-Life: Alyx Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-windows-10-setup-failure-with-error-code-80240020/"><u>Ultimate Fixes for Windows 10 Setup Failure with Error Code 80240020</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-motion-blur-on-capcut-iphone-and-android-for-2024/"><u>Updated How To Add Motion Blur On CapCut? (IPhone & Android) for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora/"><u>Updated How to Correct Lens Distortion With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-use-speed-ramping-to-create-an-intense-action-footage/"><u>Updated In 2024, How To Use Speed Ramping to Create an Intense Action Footage</u></a></li>
 </ul></div>
 

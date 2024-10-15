@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Edit Facebook Video Ads for E-Commerce Business
-date: 2024-10-07T19:33:23.022Z
-updated: 2024-10-08T18:12:34.667Z
+date: 2024-10-10T01:45:46.367Z
+updated: 2024-10-14T17:21:34.258Z
 tags: 
   - ai
   - animation videos
@@ -67,13 +67,6 @@ It is important to use the correct project aspect ratio when creating a Facebook
 
 ![select aspect ratio fb video ads](https://images.wondershare.com/filmora/article-images/2022/09/select-aspect-ratio-fb-video-ads.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5Import your media files into Filmora
 
 Once you have decided on the project aspect ratio, you can start importing your video and photo files. To do this, go to the "Media Library" and click on "Import Media Files." Find the folder where you saved your content and select all of the files that you want to use. Then, click "Open" to import the files into Filmora.
@@ -120,24 +113,18 @@ Drag and drop the audio file into place on the timeline. You can also use the "F
 
 ![fade audio facebook video ads](https://images.wondershare.com/filmora/article-images/2022/09/fade-audio-facebook-video-ads.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step11Export your Video
 
 To export your video, click on the "Export" button at the top section. Select the desired file format and click "Export" to save your video to your computer.
 
 ![export facebook ads video filmora](https://images.wondershare.com/filmora/article-images/2022/09/export-facebook-ads-video-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Recommended Export Quality
 
@@ -391,6 +378,19 @@ However, when we film a miniature model, the depth of field is shallow. So, we o
 
 ![a miniature effect for landscape](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To create a miniature look, we can use specific effects to fake a shallow depth of field, and then the landscape view will look like a tiny model. While some keys to notice before making the miniature effect are:
 
 * It utilizes **selective blur** to make things appear like **small**
@@ -400,10 +400,10 @@ To create a miniature look, we can use specific effects to fake a shallow depth 
 Are you all set to add miniature effects to your video and make film-like shots? Then scroll more and get the step-by-step process.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Make a Miniature effect?
@@ -501,13 +501,6 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 
 ![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** you can adjust the mask size and position by rotating and changing its shape.
@@ -515,19 +508,6 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 Watch the rotating and adjusting actions as shown below!
 
 ![rotation of mask in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-10.gif)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 For example, when we add a mask in the below time-lapse video, follow the above mask adjustments. Unfortunately, we can't get good results. Therefore, we will apply another way to add a mask by changing shape and position. Follow the instructions for modifications:
 
@@ -557,6 +537,13 @@ Now, it's time to mask the whole object, which is far, but we want to make it in
 * Don't **blur** the edge of this mask.
 
 ![mask the object far from the camera for the main focus](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-13.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step8 Final Look
 
@@ -589,19 +576,6 @@ Here you will see almost more than **20 videos.** So, instead of using the actua
 
 ![add stock video in the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-4.gif)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Who will get Stock Media?**
 
 Want to get stock media? You can only have access to the stock media library if you already buy the license of Wondershare Filmora.
@@ -614,6 +588,13 @@ Want to get stock media? You can only have access to the stock media library if 
 As we are working on miniature effects, what do we need first? First, we ensure that we have a **Blur** effect on the video.
 
 ![search for the blur effect on effect panel in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-5.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To add a blur effect from the panel, follow the below-mentioned steps:
 
@@ -634,6 +615,19 @@ After selecting and downloading the blur effect, it's time to add it to the vide
 * Then, make sure to release the effect on the video to give it a lens blur appearance.
 
 ![add effect on the video in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-6.gif)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step5 Add the effect multiple times
 
@@ -673,6 +667,13 @@ Watch the rotating and adjusting actions as shown below!
 
 ![rotation of mask in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-10.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For example, when we add a mask in the below time-lapse video, follow the above mask adjustments. Unfortunately, we can't get good results. Therefore, we will apply another way to add a mask by changing shape and position. Follow the instructions for modifications:
 
 ![blur the object near to camera and focus on the distant object](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-11.gif)
@@ -691,6 +692,13 @@ Want to change the shape of the mask? Then follow the below steps:
 * Select the **Rectangular** mask from the list and apply it.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** make sure you are masking the same extent and excluding the object you want to be out of focus.
 
@@ -848,25 +856,11 @@ Does your video still look a little flat? Probably yes! In that case, click the 
 
 ![adjust the color saturation](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5 Preview and compare the video
 
 Now it's time to check and compare the results. To make it easier, click the **Eye** icon at the top-right corner to switch between the original S-Log video and the color-corrected clip. You can also tap the **AB** icon and choose **Split View-Left/Right** to view the clips in the side-by-side mode.
 
 ![preview and compare the video](https://images.wondershare.com/filmora/article-images/2023/01/color-correction-basics-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -930,17 +924,17 @@ I guess that was easy, right? Up to this juncture, you should be able to perform
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-write-with-your-smile-best-ios-and-android-photo-text-apps/"><u>[New] 2024 Approved Write with Your Smile – Best iOS & Android Photo Text Apps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-covert-call-keepers-selective-voice-trapping-on-devices-androidios/"><u>[Updated] In 2024, Covert Call Keepers Selective Voice Trapping on Devices (Android/iOS)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-a-narrative-template-for-online-educational-videos/"><u>[Updated] In 2024, Crafting a Narrative Template for Online Educational Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-stream-your-webcam-in-real-time-using-vlc-software/"><u>[Updated] In 2024, Stream Your Webcam in Real Time Using VLC Software</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/decoding-the-history-of-ai-how-old-is-this-revolutionary-tech/"><u>Decoding the History of AI: How Old Is This Revolutionary Tech?</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-internals-of-xbox-360-slim-through-dismantling/"><u>Exploring the Internals of Xbox 360 Slim Through Dismantling</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exporting-your-favorite-tunes-a-guide-to-converting-spotify-playlists-into-written-form/"><u>Exporting Your Favorite Tunes: A Guide to Converting Spotify Playlists Into Written Form</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-amass-higher-views-with-powerful-youtube-tags/"><u>In 2024, Amass Higher Views with #Powerful YouTube Tags</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-add-text-animation-to-a-video-online/"><u>New 2024 Approved Add Text Animation to A Video Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-filter-to-video-online/"><u>New 2024 Approved How to Add Filter to Video Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-the-night-to-day-effect-video/"><u>New In 2024, How to Create the Night-to-Day Effect Video</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-five-best-racing-games-on-the-market-today-for-2024/"><u>The Five Best Racing Games on the Market Today for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/olo-shots-showmanship-elevate-your-youtube-persona-for-2024/"><u>[New] Solo Shots Showmanship Elevate Your YouTube Persona for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-exploring-the-metaverse-meme-landscape/"><u>[Updated] Exploring the Metaverse Meme Landscape</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dsdpcm/"><u>DSDからPCMに切り替える時、なぜ音質が失われるのかとその解決策</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-methods-to-transform-and-integrate-mkv-videos-into-your-itunes-library-for-easy-syncing/"><u>Effortless Methods to Transform and Integrate MKV Videos Into Your iTunes Library for Easy Syncing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-film-a-slow-motion-video/"><u>How To Film a Slow Motion Video</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009336954-how-to-stop-diablo-iii-from-keep-collapsing-now-solved/"><u>How to Stop Diablo III From Keep Collapsing - Now Solved!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-color-grading-with-3d-luts/"><u>In 2024, Pioneering Color Grading with 3D LUTs</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-a-guide-to-create-your-own-lol-montage-video-for-2024/"><u>New A Guide to Create Your Own LOL Montage Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-on-using-filmora-green-screen/"><u>New In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/1-video-cameras-under-500-a-frugal-filmmakers-list-for-2024/"><u>Top 11 Video Cameras Under $500 A Frugal Filmmaker's List for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-trustworthy-ai-watermarking-strategies-with-expert-advice-on-zdnet/"><u>Unveiling Trustworthy AI Watermarking Strategies with Expert Advice on ZDNet</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in-this-ar/"><u>Updated Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
 </ul></div>
 

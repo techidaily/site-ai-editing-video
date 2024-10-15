@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Add Filter to Video Online
-date: 2024-10-07T18:55:23.211Z
-updated: 2024-10-08T16:39:57.505Z
+date: 2024-10-11T18:47:17.712Z
+updated: 2024-10-15T02:27:45.121Z
 tags: 
   - ai
   - animation videos
@@ -67,13 +67,6 @@ Step1Open your web browser and visit “clipchamp.com/en/video-filters-editor”
 
 ![clipchamp video filter](https://images.wondershare.com/filmora/article-images/2022/08/clipchamp-video-filter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2You have to sign up on the next screen so that you can apply the video filters.
 
 Step3Once the video editor opens, click on Create a Video button.
@@ -114,6 +107,13 @@ Step5Once you have applied a filter and you can satisfy with it, click on Export
 
 ![export filter video flexclip](https://images.wondershare.com/filmora/article-images/2022/08/export-filter-video-flexclip.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Way 5\. [Kapwing Filter Video Editor](https://www.kapwing.com/tools/filter-video)
 
 Kapwing is a popular online video editor, and you can add video filters to your recorded video for free. Kapwing Filter Video Editor works on all devices, and you can access it from any popular web browser. You can upload recorded video as well as paste URL of an online video stored in Google cloud platform to apply video filters. The preset filters enhance video quality starting from colors and saturation to brightness and contrast. You can also share them on social media platforms directly from Kapwing video editor. Here are the steps how to put filter on video online using Kapwing filter video editor.
@@ -127,16 +127,10 @@ Step2Once Kapwing video editor opens, drag and drop your video to upload on the 
 ![upload video to kapwing](https://images.wondershare.com/filmora/article-images/2022/08/upload-video-to-kapwing.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3Click on the video and on the right side, go to Edit tab and click on Filters under Video section.
@@ -150,6 +144,19 @@ Step4You will see a host of video filters that you can apply to your video. Clic
 Step5Select the best one and click on Apply Filters button. Finally, click on Export Project button to save the edited video.
 
 ![apply video filters kapwing](https://images.wondershare.com/filmora/article-images/2022/08/apply-video-filters-kapwing.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -225,12 +232,176 @@ Step 7: You can also use the crop frame that will appear on your screen with som
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-6.jpeg)
 
+Step 8: Once you have cropped your video, then go to the "File" tab in the uppermost part of the editor and select the "Save as" option and save your file.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-7.jpeg)
+
+In conclusion, follow the steps given above to crop your video, resize it and save your work.
+
+There is a better way to do it which using Filmora. It is an online video editing software that allows its users to create videos for various purposes. It provides the users with some special features like easy trimming, splitting and merging of clips, etc. By using Filmora, you can easily crop your short video (a clip) and also resize it.
+
+## An easier way to crop video using Filmora
+
+Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a software created for use on Windows, designed to edit videos. It has many of the features of Adobe Premiere, but it is free.
+
+It supports the following formats: AVI, MP4, WMV, MKV, MOV, FLV and 3GP.
+
+Wondershare Filmora is different than most video editors in that it does not use timelines. Instead, the user edits clips in a storyboard and adds effects and titles to them. It also has an Audio Visualization feature that plays back music in your collection and shows what you're listening to in real time. There is no voice-over tool and it is not possible to add an audio track.
+
+Wondershare Filmora has a very large number of effects, all editable via keyframes. These include simple motion graphics such as fades and dissolves, but it also includes advanced options like motion blur and chroma-key. There are free downloadable effects, which are created by users.
+
+Wondershare Filmora supports text editing and there is a large library of free fonts available for download on its website. It does not support green-screening/chroma-keying. This can be done in post production via Adobe Premiere or other software.
+
+It also has the ability to add a number of different titles, which can be stacked and moved around in 3D space.
+
+Wondershare Filmora allows you to import photos for use in slideshows and effects. Every clip or image can have its own effect applied to it if desired.
+
+After editing, the project is rendered in real time with no waiting. You can also choose to render only part of the video by selecting the time range.
+
+One final bonus is Wondershare Filmora's media library, which allows users to add files from their computer and sort them by category. This makes finding your desired video a much easier task.
+
+This software has a very simple interface that is easy to navigate, even for beginners. The design of the program makes it intuitive enough that you can start editing videos right away without having to go through tutorials. It is easy to create the desired effects and titles that you need for your video with just a few clicks. Its editing tools are powerful enough for professional use while still being easy to learn.
+
+The one downside is that Wondershare Filmora does not support 4K resolution—the maximum output size is 1080p.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+## **Step-by-step on how to crop videos using Filmora?**
+
+To crop your short video (a clip) and also resize it, follow the steps given below:
+
+Step 1: Open Filmora video editor. Go to the ‘Home’ menu and click on ‘Open Project’ or go to File > Open Project. Now, select your \*.AVI or \*.MP4 file.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-8.jpeg)
+
+Step 2: Click Alt + C in your keyboard. A small pop-out will show, it is for the command Crop and Zoom.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-9.jpeg)
+
+Step 3: Drag the corners of the frame to resize the size of your video or adjust position by dragging the handles. You can crop off anything outside this frame and hit “OK”.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-10.jpeg)
+
+Step 4: Adjust the crop and zoom as you like and finally, click on ‘Save Project As’ to export your video.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-11.jpeg)
+
+You can download Filmora free video editor from the official website easily. Just visit the behind-the-link and click on 'Download' to get the installer file. Once you have downloaded it, you need to install Filmora software on your computer to start using it.
+
+Step 3: Then, go to the “Effects” tab.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-2.jpeg)
+
+Step 4: From the list of options, you have to choose “Crop” option and drag it to the clip that you want to crop.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-3.jpeg)
+
+Step 5: After dragging it, you will see a letter ‘C’ on the clip which means crop. Right click on it and you will see few selections. Select ‘Properties’.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-4.jpeg)
+
+Step 6: Under ‘Properties’, you will see a ‘Selection’ drop down. Choose ‘Crop’. You can utilize it to adjust to your preferred video size, a video preview will show on the right side of the screen.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-5.jpeg)
+
+Step 7: You can also use the crop frame that will appear on your screen with some handles around it. You can drag these handles from four corners to resize the frame according to the content you want to crop.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-6.jpeg)
+
+Step 8: Once you have cropped your video, then go to the "File" tab in the uppermost part of the editor and select the "Save as" option and save your file.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-7.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+In conclusion, follow the steps given above to crop your video, resize it and save your work.
+
+There is a better way to do it which using Filmora. It is an online video editing software that allows its users to create videos for various purposes. It provides the users with some special features like easy trimming, splitting and merging of clips, etc. By using Filmora, you can easily crop your short video (a clip) and also resize it.
+
+## An easier way to crop video using Filmora
+
+Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a software created for use on Windows, designed to edit videos. It has many of the features of Adobe Premiere, but it is free.
+
+It supports the following formats: AVI, MP4, WMV, MKV, MOV, FLV and 3GP.
+
+Wondershare Filmora is different than most video editors in that it does not use timelines. Instead, the user edits clips in a storyboard and adds effects and titles to them. It also has an Audio Visualization feature that plays back music in your collection and shows what you're listening to in real time. There is no voice-over tool and it is not possible to add an audio track.
+
+Wondershare Filmora has a very large number of effects, all editable via keyframes. These include simple motion graphics such as fades and dissolves, but it also includes advanced options like motion blur and chroma-key. There are free downloadable effects, which are created by users.
+
+Wondershare Filmora supports text editing and there is a large library of free fonts available for download on its website. It does not support green-screening/chroma-keying. This can be done in post production via Adobe Premiere or other software.
+
+It also has the ability to add a number of different titles, which can be stacked and moved around in 3D space.
+
+Wondershare Filmora allows you to import photos for use in slideshows and effects. Every clip or image can have its own effect applied to it if desired.
+
+After editing, the project is rendered in real time with no waiting. You can also choose to render only part of the video by selecting the time range.
+
+One final bonus is Wondershare Filmora's media library, which allows users to add files from their computer and sort them by category. This makes finding your desired video a much easier task.
+
+This software has a very simple interface that is easy to navigate, even for beginners. The design of the program makes it intuitive enough that you can start editing videos right away without having to go through tutorials. It is easy to create the desired effects and titles that you need for your video with just a few clicks. Its editing tools are powerful enough for professional use while still being easy to learn.
+
+The one downside is that Wondershare Filmora does not support 4K resolution—the maximum output size is 1080p.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+## **Step-by-step on how to crop videos using Filmora?**
+
+To crop your short video (a clip) and also resize it, follow the steps given below:
+
+Step 1: Open Filmora video editor. Go to the ‘Home’ menu and click on ‘Open Project’ or go to File > Open Project. Now, select your \*.AVI or \*.MP4 file.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-8.jpeg)
+
+Step 2: Click Alt + C in your keyboard. A small pop-out will show, it is for the command Crop and Zoom.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-9.jpeg)
+
+Step 3: Drag the corners of the frame to resize the size of your video or adjust position by dragging the handles. You can crop off anything outside this frame and hit “OK”.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-10.jpeg)
+
+Step 4: Adjust the crop and zoom as you like and finally, click on ‘Save Project As’ to export your video.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-11.jpeg)
+
+You can download Filmora free video editor from the official website easily. Just visit the behind-the-link and click on 'Download' to get the installer file. Once you have downloaded it, you need to install Filmora software on your computer to start using it.
+
+Step 3: Then, go to the “Effects” tab.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-2.jpeg)
+
+Step 4: From the list of options, you have to choose “Crop” option and drag it to the clip that you want to crop.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-3.jpeg)
+
+Step 5: After dragging it, you will see a letter ‘C’ on the clip which means crop. Right click on it and you will see few selections. Select ‘Properties’.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-4.jpeg)
+
+Step 6: Under ‘Properties’, you will see a ‘Selection’ drop down. Choose ‘Crop’. You can utilize it to adjust to your preferred video size, a video preview will show on the right side of the screen.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-5.jpeg)
+
+Step 7: You can also use the crop frame that will appear on your screen with some handles around it. You can drag these handles from four corners to resize the frame according to the content you want to crop.
+
+![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-6.jpeg)
 
 Step 8: Once you have cropped your video, then go to the "File" tab in the uppermost part of the editor and select the "Save as" option and save your file.
 
@@ -322,13 +493,6 @@ In conclusion, follow the steps given above to crop your video, resize it and sa
 
 There is a better way to do it which using Filmora. It is an online video editing software that allows its users to create videos for various purposes. It provides the users with some special features like easy trimming, splitting and merging of clips, etc. By using Filmora, you can easily crop your short video (a clip) and also resize it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## An easier way to crop video using Filmora
 
 Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a software created for use on Windows, designed to edit videos. It has many of the features of Adobe Premiere, but it is free.
@@ -368,191 +532,6 @@ To crop your short video (a clip) and also resize it, follow the steps given bel
 Step 1: Open Filmora video editor. Go to the ‘Home’ menu and click on ‘Open Project’ or go to File > Open Project. Now, select your \*.AVI or \*.MP4 file.
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-8.jpeg)
-
-Step 2: Click Alt + C in your keyboard. A small pop-out will show, it is for the command Crop and Zoom.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-9.jpeg)
-
-Step 3: Drag the corners of the frame to resize the size of your video or adjust position by dragging the handles. You can crop off anything outside this frame and hit “OK”.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-10.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 4: Adjust the crop and zoom as you like and finally, click on ‘Save Project As’ to export your video.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-11.jpeg)
-
-You can download Filmora free video editor from the official website easily. Just visit the behind-the-link and click on 'Download' to get the installer file. Once you have downloaded it, you need to install Filmora software on your computer to start using it.
-
-Step 3: Then, go to the “Effects” tab.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-2.jpeg)
-
-Step 4: From the list of options, you have to choose “Crop” option and drag it to the clip that you want to crop.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-3.jpeg)
-
-Step 5: After dragging it, you will see a letter ‘C’ on the clip which means crop. Right click on it and you will see few selections. Select ‘Properties’.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-4.jpeg)
-
-Step 6: Under ‘Properties’, you will see a ‘Selection’ drop down. Choose ‘Crop’. You can utilize it to adjust to your preferred video size, a video preview will show on the right side of the screen.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-5.jpeg)
-
-Step 7: You can also use the crop frame that will appear on your screen with some handles around it. You can drag these handles from four corners to resize the frame according to the content you want to crop.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-6.jpeg)
-
-Step 8: Once you have cropped your video, then go to the "File" tab in the uppermost part of the editor and select the "Save as" option and save your file.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-7.jpeg)
-
-In conclusion, follow the steps given above to crop your video, resize it and save your work.
-
-There is a better way to do it which using Filmora. It is an online video editing software that allows its users to create videos for various purposes. It provides the users with some special features like easy trimming, splitting and merging of clips, etc. By using Filmora, you can easily crop your short video (a clip) and also resize it.
-
-## An easier way to crop video using Filmora
-
-Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a software created for use on Windows, designed to edit videos. It has many of the features of Adobe Premiere, but it is free.
-
-It supports the following formats: AVI, MP4, WMV, MKV, MOV, FLV and 3GP.
-
-Wondershare Filmora is different than most video editors in that it does not use timelines. Instead, the user edits clips in a storyboard and adds effects and titles to them. It also has an Audio Visualization feature that plays back music in your collection and shows what you're listening to in real time. There is no voice-over tool and it is not possible to add an audio track.
-
-Wondershare Filmora has a very large number of effects, all editable via keyframes. These include simple motion graphics such as fades and dissolves, but it also includes advanced options like motion blur and chroma-key. There are free downloadable effects, which are created by users.
-
-Wondershare Filmora supports text editing and there is a large library of free fonts available for download on its website. It does not support green-screening/chroma-keying. This can be done in post production via Adobe Premiere or other software.
-
-It also has the ability to add a number of different titles, which can be stacked and moved around in 3D space.
-
-Wondershare Filmora allows you to import photos for use in slideshows and effects. Every clip or image can have its own effect applied to it if desired.
-
-After editing, the project is rendered in real time with no waiting. You can also choose to render only part of the video by selecting the time range.
-
-One final bonus is Wondershare Filmora's media library, which allows users to add files from their computer and sort them by category. This makes finding your desired video a much easier task.
-
-This software has a very simple interface that is easy to navigate, even for beginners. The design of the program makes it intuitive enough that you can start editing videos right away without having to go through tutorials. It is easy to create the desired effects and titles that you need for your video with just a few clicks. Its editing tools are powerful enough for professional use while still being easy to learn.
-
-The one downside is that Wondershare Filmora does not support 4K resolution—the maximum output size is 1080p.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-## **Step-by-step on how to crop videos using Filmora?**
-
-To crop your short video (a clip) and also resize it, follow the steps given below:
-
-Step 1: Open Filmora video editor. Go to the ‘Home’ menu and click on ‘Open Project’ or go to File > Open Project. Now, select your \*.AVI or \*.MP4 file.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-8.jpeg)
-
-Step 2: Click Alt + C in your keyboard. A small pop-out will show, it is for the command Crop and Zoom.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-9.jpeg)
-
-Step 3: Drag the corners of the frame to resize the size of your video or adjust position by dragging the handles. You can crop off anything outside this frame and hit “OK”.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-10.jpeg)
-
-Step 4: Adjust the crop and zoom as you like and finally, click on ‘Save Project As’ to export your video.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-11.jpeg)
-
-You can download Filmora free video editor from the official website easily. Just visit the behind-the-link and click on 'Download' to get the installer file. Once you have downloaded it, you need to install Filmora software on your computer to start using it.
-
-Step 3: Then, go to the “Effects” tab.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-2.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 4: From the list of options, you have to choose “Crop” option and drag it to the clip that you want to crop.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-3.jpeg)
-
-Step 5: After dragging it, you will see a letter ‘C’ on the clip which means crop. Right click on it and you will see few selections. Select ‘Properties’.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-4.jpeg)
-
-Step 6: Under ‘Properties’, you will see a ‘Selection’ drop down. Choose ‘Crop’. You can utilize it to adjust to your preferred video size, a video preview will show on the right side of the screen.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-5.jpeg)
-
-Step 7: You can also use the crop frame that will appear on your screen with some handles around it. You can drag these handles from four corners to resize the frame according to the content you want to crop.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-6.jpeg)
-
-Step 8: Once you have cropped your video, then go to the "File" tab in the uppermost part of the editor and select the "Save as" option and save your file.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-7.jpeg)
-
-In conclusion, follow the steps given above to crop your video, resize it and save your work.
-
-There is a better way to do it which using Filmora. It is an online video editing software that allows its users to create videos for various purposes. It provides the users with some special features like easy trimming, splitting and merging of clips, etc. By using Filmora, you can easily crop your short video (a clip) and also resize it.
-
-## An easier way to crop video using Filmora
-
-Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a software created for use on Windows, designed to edit videos. It has many of the features of Adobe Premiere, but it is free.
-
-It supports the following formats: AVI, MP4, WMV, MKV, MOV, FLV and 3GP.
-
-Wondershare Filmora is different than most video editors in that it does not use timelines. Instead, the user edits clips in a storyboard and adds effects and titles to them. It also has an Audio Visualization feature that plays back music in your collection and shows what you're listening to in real time. There is no voice-over tool and it is not possible to add an audio track.
-
-Wondershare Filmora has a very large number of effects, all editable via keyframes. These include simple motion graphics such as fades and dissolves, but it also includes advanced options like motion blur and chroma-key. There are free downloadable effects, which are created by users.
-
-Wondershare Filmora supports text editing and there is a large library of free fonts available for download on its website. It does not support green-screening/chroma-keying. This can be done in post production via Adobe Premiere or other software.
-
-It also has the ability to add a number of different titles, which can be stacked and moved around in 3D space.
-
-Wondershare Filmora allows you to import photos for use in slideshows and effects. Every clip or image can have its own effect applied to it if desired.
-
-After editing, the project is rendered in real time with no waiting. You can also choose to render only part of the video by selecting the time range.
-
-One final bonus is Wondershare Filmora's media library, which allows users to add files from their computer and sort them by category. This makes finding your desired video a much easier task.
-
-This software has a very simple interface that is easy to navigate, even for beginners. The design of the program makes it intuitive enough that you can start editing videos right away without having to go through tutorials. It is easy to create the desired effects and titles that you need for your video with just a few clicks. Its editing tools are powerful enough for professional use while still being easy to learn.
-
-The one downside is that Wondershare Filmora does not support 4K resolution—the maximum output size is 1080p.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-## **Step-by-step on how to crop videos using Filmora?**
-
-To crop your short video (a clip) and also resize it, follow the steps given below:
-
-Step 1: Open Filmora video editor. Go to the ‘Home’ menu and click on ‘Open Project’ or go to File > Open Project. Now, select your \*.AVI or \*.MP4 file.
-
-![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-8.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2: Click Alt + C in your keyboard. A small pop-out will show, it is for the command Crop and Zoom.
 
@@ -643,13 +622,6 @@ Step 2: Drag and drop your video clips and audio files Project Media folder. Dra
 Step 3: If you want to apply transitions, go to Transitions at the top bar and drag any transition in between video clips on the timeline. You can also insert texts from Titles and objects from Elements from the top bar.
 
 ![filmora beautiful transition effects](https://images.wondershare.com/filmora/article-images/filmora-beautiful-transition-effects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Play the video to see the changes you have made, and click on Export button to save the video when you are satisfied.
 
@@ -785,6 +757,13 @@ Step1Launch Premiere Pro on your computer. Go to File> Import to bring in the vi
 
 ![import video ito premiere pro.jpg](https://images.wondershare.com/filmora/article-images/2022/08/import-video-ito-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2Go to Effects tab from the top and open Lumetri Presets folder. You will find different categories of filters and effects such Cinematic, Desaturation, Style, Temperature and much more. Open up these categories and drag and drop any desired filter into the Timeline. The video filter will get applied to your video automatically.
 
 ![preview filters and effects premiere](https://images.wondershare.com/filmora/article-images/2022/08/preview-filters-and-effects-premiere.jpg)
@@ -809,6 +788,13 @@ Step2Drag and drop your video into Project Media folder and thereafter, into Tim
 
 ![drag and drop video into timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3Go Effects located at the top and go to Filters option from the left panel.
 
 ![filters option](https://images.wondershare.com/filmora/Tutorial/add-customize-filter-5.png)
@@ -816,6 +802,13 @@ Step3Go Effects located at the top and go to Filters option from the left panel.
 Step4Drag the desired filter into Timeline to apply to your video. You can set the duration of the video filter as per your preference. Play the video and click on Export button to save the edited video.
 
 ![save the edited video](https://images.wondershare.com/filmora/Tutorial/add-customize-filter-8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Free Premiere Filter Presets to Use
 
@@ -840,6 +833,19 @@ Text is an important part of any video and you need video filter presets to appl
 **Glitch Effects Pack -**
 
 If you make videos for social media or you make informational videos, glitch effects must be in your videos. You can get quick attention of your audience with glitch effects, make scene transitions, and add some comedy scenes. Your video will have some extra kick and look more interesting to watch.
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -869,21 +875,20 @@ If you are using Adobe Premiere Pro to edit your videos, adding filters to your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-pcmacphone-step-by-step-guide-to-movie-capture/"><u>[New] In 2024, PC/Mac/Phone Step-by-Step Guide to Movie Capture</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-masterful-online-advertising-for-beginners-4-must-know-strategies/"><u>[New] Masterful Online Advertising for Beginners 4 Must-Know Strategies</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-how-to-add-captions-to-instagram-videos/"><u>[Updated] How to Add Captions to Instagram Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-instant-view-enabling-fb-videos-to-play-by-themselves/"><u>[Updated] Instant View Enabling FB Videos to Play By Themselves</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-track-mattes-the-ultimate-guide-for-after-effects/"><u>2024 Approved Track Mattes The Ultimate Guide For After Effects</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-14-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Pro Without iTunes</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-rgb-customization-in-win11/"><u>Activating RGB Customization in Win11</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/"><u>New 2024 Approved Creative Ways to Add Green Screen Effects In Photoshop</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-a-guide-to-create-your-own-lol-montage-video-for-2024/"><u>New A Guide to Create Your Own LOL Montage Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-loop-a-video-on-android/"><u>New In 2024, How to Loop a Video on Android</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-make-a-countdown-video/"><u>New In 2024, Make A Countdown Video</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-common-issues-why-isnt-my-torrent-downloading/"><u>Solutions for Common Issues: Why Isn't My Torrent Downloading?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/steps-to-fade-audio-in-premier-pro/"><u>Steps To Fade Audio In Premier Pro</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-best-of-both-worlds-assessing-the-cost-effective-prowess-of-the-logitech-c615-camera/"><u>The Best of Both Worlds? Assessing the Cost-Effective Prowess of the Logitech C615 Camera</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/top-3-best-ios-video-editors-free-tips-and-guides-for-2024/"><u>Top 3 Best iOS Video Editors FREE Tips & Guides for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in-this-ar/"><u>Updated Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-newest-camstudio-capture-and-review-2023-update/"><u>[New] In 2024, Newest CamStudio Capture & Review 2023 Update</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-handbook-obspluszoom-collaboration/"><u>[New] The Ultimate Handbook OBS+Zoom Collaboration</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-experts-guide-to-interactive-instagram-stories-polling/"><u>[Updated] 2024 Approved The Expert's Guide to Interactive Instagram Stories Polling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-speed-demon-the-top-windows-photo-browser/"><u>[Updated] Speed Demon The Top Windows Photo Browser</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-at-the-helm-of-augmented-perception-tools/"><u>2024 Approved At the Helm of Augmented Perception Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>2024 Approved How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-color-correction-with-mastery-over-ps-3d-luts/"><u>2024 Approved Precision Color Correction with Mastery over PS 3D LUTs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compreran-exploration-of-giroptics-panorama/"><u>Compreran Exploration of Giroptic's Panorama</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-nord-n30-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Nord N30 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-motion-tracking-in-video-editing/"><u>In 2024, How to Use Motion Tracking in Video Editing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-elevate-your-designs-with-feather-shapes-in-after-effects/"><u>New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-apply-video-filters-mobile-and-desktop-for-2024/"><u>New How to Apply Video Filters Mobile and Desktop for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-achieve-gopro-slow-motion-with-quality/"><u>Updated 2024 Approved How to Achieve GoPro Slow Motion With Quality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-vintage-film-effect-1950s/"><u>Updated 2024 Approved How to Create Vintage Film Effect 1950S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-11-tools-to-create-radial-blur-photo-mobile-and-desktop/"><u>Updated In 2024, 11 Tools To Create Radial Blur Photo Mobile And Desktop</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro
-date: 2024-10-06T16:58:40.480Z
-updated: 2024-10-08T17:21:39.599Z
+date: 2024-10-08T19:38:07.091Z
+updated: 2024-10-14T19:33:33.257Z
 tags: 
   - ai
   - animation videos
@@ -66,6 +66,13 @@ Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry beca
 
 ![add unsharp and color emboss](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Proceed to apply the "Noise" effect from the "Noise & Grain" section and further adjust the "Amount of Noise" to your preference. Induce the "Wave Warp" effect and set the parameters of "Wave Height" to 2 and "Wave Width" to 1000\. Change "Direction" to 0 and "Pinning" to "Horizontal Edges."
 
 ![add noise and wave warp](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-6.jpg)
@@ -87,6 +94,13 @@ Wondershare has provided us with so many tools and applications for different pu
 [Add VHS Effect](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -117,10 +131,10 @@ To refine the intensity of the VHS effect, go to the "Effects" tab located on th
 ![export final video](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -134,6 +148,13 @@ To conclude, there are many different overlays, effects, and filters that you ca
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How To Add VHS Effect in Premiere Pro: An Overview
 
@@ -155,13 +176,6 @@ Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry beca
 
 ![change channel blur parameters](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5:** Continue to add the "Unsharp Mask" and "Color Emboss" effects from the "Effect" tab. Proceed and change "Amount" and "Radius" for "Unsharp Mask" to 85 and 20, respectively. Slightly increase the "Relief" values for the "Color Emboss" effect.
 
 ![add unsharp and color emboss](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-5.jpg)
@@ -169,13 +183,6 @@ Do you know how you can **add the VHS effect in Premiere Pro**? Don't worry beca
 Proceed to apply the "Noise" effect from the "Noise & Grain" section and further adjust the "Amount of Noise" to your preference. Induce the "Wave Warp" effect and set the parameters of "Wave Height" to 2 and "Wave Width" to 1000\. Change "Direction" to 0 and "Pinning" to "Horizontal Edges."
 
 ![add noise and wave warp](https://images.wondershare.com/filmora/article-images/2023/create-the-perfect-vhs-effect-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 6:** You can crop your video to a 4:3 aspect ratio to give your video more authenticity. To do this, create two "Color Matte" layers using the "New Item" icon. Name and place them over the video clip. Apply the "Crop" effect to both layers. Set the "Left" option to 86 for the first layer and the "Right" option to 86 for the second layer. Set the "Edge Feather" to 30 for both layers.
 
@@ -285,23 +292,9 @@ Step4 Click on the added effect on Timeline to adjust speed, duration, and align
 
 ![adjust effects control pr](https://images.wondershare.com/filmora/article-images/2022/07/adjust-effects-control-pr.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 Play the video to ensure that the effect looks perfect. Therefore, go to File> Share> Export File to save the video.
 
 You can place the transition at the end of the video for fading out effect. Instead of Film Dissolve, you can use Crossfade or Dip to Black effect for fade in and fade out effect on video clips.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Alternative way to fade in text in videos
 
@@ -347,6 +340,13 @@ Step3 Go to Titles located at the top and drag and drop any title style on Timel
 
 ![go to titles](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Double-click on Title clip again on the Timeline and go to Text> Animation tab located at the top-left corner. Scroll down to go to Fade1 option and double-click Fade1 to apply it to your text.
 
 Step5 You can go to settings by clicking on Advanced button and adjust parameters such as speed and duration of the fade effect for better visibility.
@@ -387,6 +387,13 @@ There are unlimited text effects available in Filmora but some of them are extre
 Text swipe effects are the most commonly used in today’s videos on social media and video streaming platforms. In this effect, the text slides into the video frame from a particular direction. The entire text can swipe in if it is a one-liner and it can even swipe in word by word or sentence by sentence.
 
 If you want to show short texts and you do not want to experiment with text animations, the text swipe effect is the safest option. For example, if you want to display your social media handles, your location, a coupon code, or a correction phrase that you have uttered wrongly, text swipe effects should be on your video.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Type Text Effect
 
@@ -484,6 +491,13 @@ The bounce to zoom effect is widely used during a transition from one scene to a
 
 Apart from transitions, you can use the bounce to zoom effect to showcase a few important texts at the bottom of the video so that the viewers notice your text. Generally, the effect lasts for a few seconds before the text disappears. When you are using it for a larger text, you can use it for promotions and advertisements as well.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to Add Text Effects with Filmora
 
 When it comes to adding text effects and animations, there is no better alternative to [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Thanks to its super intuitive user interface, adding and customizing text effects in videos is as simple as text effect video online. Apart from the popular text effects we have discussed, there are so many categories of text effect and animation templates available on Filmora. Here are the steps on how to create text effect video in Filmora.
@@ -501,10 +515,16 @@ Step2 Import your video clips under Project Media folder and drop them onto the 
 ![import text video clip into filmora](https://images.wondershare.com/filmora/article-images/2022/09/import-text-video-clip-into-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Search for a popular text effect from the search box. Select a text effect template and drop it on the timeline. Adjust its place on the timeline depending on where you want the text to appear. Double-click on the text layer and edit the text as per your requirements.
@@ -565,13 +585,6 @@ Step2Go to Create menu option and select any category of video templates. You ca
 
 ![choose popular templates motionden](https://images.wondershare.com/filmora/article-images/2022/08/choose-popular-templates-motionden.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3For the selected category, you need to select the desired video template. Click on Edit Video and you can make changes to the template on the video editor as per your requirements. You need to sign up for free in order to continue and edit the template.
 
 ![edit video motionden](https://images.wondershare.com/filmora/article-images/2022/08/edit-video-motionden.jpg)
@@ -595,13 +608,6 @@ Step2You can choose from the available templates to create video with text from 
 Step3Drag and drop the uploaded video into the Timeline. Thereafter, go to Text tab.
 
 ![drop upload video timeline flexclip](https://images.wondershare.com/filmora/article-images/2022/08/drop-upload-video-timeline-flexclip.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4You will see all the different text effects and animations. Place your mouse pointer to preview the animation. Drag and drop the select text template to the video on the Viewer. You can check the Timeline and stretch or compress the text layer as per your requirements.
 
@@ -639,16 +645,22 @@ You can make video with animated text to make your presentation video eye-catchi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-add-music-to-ig-story-an-ultimate-guide/"><u>[New] 2024 Approved How to Add Music to IG Story – an Ultimate Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-secure-simplified-recording-of-video-conferencing/"><u>[New] 2024 Approved Secure, Simplified Recording of Video Conferencing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamlining-console-experience-through-computer-recording/"><u>[New] In 2024, Streamlining Console Experience Through Computer Recording</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-bridging-visuals-and-audio-instagram-content-to-mp3-magic/"><u>[Updated] 2024 Approved Bridging Visuals & Audio Instagram Content to Mp3 Magic</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-changers/"><u>In 2024, Recommended Video Background Changers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-creating-testimonial-videos-for-health-and-wellness-business-industry-for-2024/"><u>New Creating Testimonial Videos For Health And Wellness Business Industry for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-essentials-adding-picture-in-picture-effects/"><u>New Final Cut Pro Essentials Adding Picture-in-Picture Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>New How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-want-to-create-a-stunning-intro-video-on-your-smartphone-legend-intro-maker-is-a-popular-choice-learn-the-steps-to-design-intro-video-legend-intro-maker/"><u>New Want to Create a Stunning Intro Video on Your Smartphone? Legend Intro Maker Is a Popular Choice. Learn the Steps to Design Intro Video Legend Intro Maker</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-filmmakers-guide-to-stunning-spherical-videos-9-must-knows-for-2024/"><u>The Filmmaker's Guide to Stunning Spherical Videos (9 Must-Knows) for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-blender-a-video-editor-for-all-professor/"><u>Updated In 2024, Blender - A Video Editor for All Professor</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-basic-recorder-your-windows-10-companion/"><u>[New] Basic Recorder - Your Windows 10 Companion</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-streamlining-gaming-sessions-without-microsofts-intervention/"><u>[Updated] Streamlining Gaming Sessions Without Microsoft's Intervention</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-make-eye-zoom-transition-effect-with-filmora/"><u>2024 Approved Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-the-prestige-of-chatgpt-premium/"><u>Examining the Prestige of ChatGPT Premium</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-non-responsive-file-explorer-glitches-in-windows-11-made-easy/"><u>Fixing Non-Responsive File Explorer Glitches in Windows 11 Made Easy!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-m54-5g-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy M54 5G?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-looking-for-cool-ideas-to-use-green-screen-and-how-setting-up-your-green-screen-keep-reading-since-we-have-the-answer-for-you/"><u>In 2024, Are You Looking for Cool Ideas to Use Green Screen and How Setting up Your Green Screen? Keep Reading Since We Have the Answer for You</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-a-green-screen-to-zoom/"><u>In 2024, How to Add a Green Screen to Zoom</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-expression-in-after-effects/"><u>In 2024, How to Add Expression in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-merge-audio-and-video-in-vlc-media-player/"><u>In 2024, How to Merge Audio and Video in VLC Media Player</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-syncopated-screecher-symphony/"><u>In 2024, Syncopated Screecher Symphony</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-change-background-color-in-after-effects/"><u>New Change Background Color in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-for-deleting-pics-off-of-facebook-profile-or-page/"><u>Step-by-Step Tutorial for Deleting Pics Off of Facebook Profile or Page</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-performance-a-critical-review-of-samsungs-galaxy-note20-ultra-on-5g-networks/"><u>Unveiling Performance: A Critical Review of Samsung's Galaxy Note20 Ultra on 5G Networks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-video-editing-tools-for-kids-free-and-paid-options/"><u>Updated 2024 Approved Top Video Editing Tools for Kids Free and Paid Options</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1920s-how-to-make-for-2024/"><u>Vintage Film Effect 1920S - How to Make for 2024</u></a></li>
 </ul></div>
 

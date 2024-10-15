@@ -1,7 +1,7 @@
 ---
 title: New How to Make Eye Zoom Transition Effect with Filmora for 2024
-date: 2024-10-07T17:22:06.923Z
-updated: 2024-10-08T16:47:28.014Z
+date: 2024-10-12T01:39:31.844Z
+updated: 2024-10-14T20:21:53.701Z
 tags: 
   - ai
   - animation videos
@@ -111,6 +111,13 @@ With that done, move the playhead to the start of the freeze frame video and dou
 
 After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Summary
 
 There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
@@ -145,9 +152,29 @@ With the two video tracks ready, it's time to apply a masking effect. Tap the **
 
 ![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
 
 ![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 4 Add the transition video
 
@@ -158,6 +185,13 @@ With that done, move the playhead to the start of the freeze frame video and dou
 ![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
 
 After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -170,13 +204,6 @@ There you go! That's how to create an eye-zoom transition using Wondershare Film
 First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
 
 ![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Create an Eye-zoom Transition
 
@@ -252,6 +279,13 @@ To create a miniature look, we can use specific effects to fake a shallow depth 
 
 Are you all set to add miniature effects to your video and make film-like shots? Then scroll more and get the step-by-step process.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Make a Miniature effect?
 
 You are excited to add a miniature effect, and enjoy the rest! Without any further delay, follow the below instructions and get results!
@@ -283,13 +317,6 @@ Here you will see almost more than **20 videos.** So, instead of using the actua
 * Then **Drag and Drop** it to the timeline section for further editing.
 
 ![add stock video in the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-4.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Who will get Stock Media?**
 
@@ -333,6 +360,13 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 * Finally, add effect by just the **Drag and Drop**
 
 ![add blur effect in video multiple times](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-7.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step6 Drop the same video clip
 
@@ -396,13 +430,6 @@ Now, it's time to mask the whole object, which is far, but we want to make it in
 You are excited now to see the final look of your miniature effect! Finally, it's in front of you! Just modify it more if you want to make it more precise.
 
 ![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
 
@@ -480,6 +507,13 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 
 ![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step7 Add masks on the Video
 
 Now, it's time to select a specific video portion and add a mask. Due to this, we will have a selective blur portion. For this, follow the below guidelines:
@@ -499,13 +533,6 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 Watch the rotating and adjusting actions as shown below!
 
 ![rotation of mask in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-10.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 For example, when we add a mask in the below time-lapse video, follow the above mask adjustments. Unfortunately, we can't get good results. Therefore, we will apply another way to add a mask by changing shape and position. Follow the instructions for modifications:
 
@@ -560,6 +587,13 @@ Time-Lapse movies are great for a variety of projects; you can use them as estab
 
 With that said, let's start!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 1\. Create a new composition
 
 Calculating your composition length to accommodate the frame rate and number of images is the first step in generating a time-lapse video.
@@ -586,13 +620,6 @@ You are prepared to make a time-lapse sequence if all of your photographs are sa
 2. Place your Playhead at the beginning of the clip after choosing the Image Sequence. Make a keyframe for the scale or position.
 3. To generate a second Keyframe for the value of your choice, move to the end of the clip. Make any necessary Clip modifications.
 4. Right-click on the timeline, choose New > Adjustment Layer, then add your effects to the Adjustment Layer to add effects like noise and grain.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 4\. Create slow motion from a video
 
@@ -641,13 +668,6 @@ No matter how you make your time lapse videos, After Effects has a ton of featur
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add Text Animation to A Video Online
 
 Do you want to make a creative video? Do you want your presentation or video to be easy to follow and entertaining? You can take the video to another level with the help of text animation. This article will discuss how to **add text animation to online** videos. You can use a good video editor from where you can select fresh styles and make the best video from there. One of the simplest ways to elevate your movie from good to excellent is with understandable text animation.
@@ -661,13 +681,6 @@ Text animation and short captions can broaden the audience for your content as m
 You can use the potent online editor Kapwing to **add animated text to videos online**, utilizing music, videos, GIFs, and images. There are no downloads required because everything is already present inside the browser. Kapwing is a capable tool for content production that is simple enough for everyone to use. The majority of video formats, GIF and image, including avi, png, jpg, gif, MOV, mp4, and more, are supported by Kapwing.
 
 ![kapwing animation text editor](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-animation-text-editor.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step1 Upload the Video to Kapwing
 
@@ -768,13 +781,6 @@ Let’s check the other ways of adding animated text to the video. In the previo
 * You can visit the publish option in the right window to download the video.
 * Tap on the "download video" option for downloading.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Now, you are aware of how to add text animation to video online and the three best video editors that will help you add animated text to your videos. At this point, you can choose the best one according to your needs and usage. These steps will help you create a unique and good video that will be easy to understand and entertaining.
@@ -803,24 +809,22 @@ Now, you are aware of how to add text animation to video online and the three be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-unlock-your-youtube-potential-by-dodging-these-8-typical-mistakes/"><u>[New] In 2024, Unlock Your YouTube Potential by Dodging These 8 Typical Mistakes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-inside-look-the-power-of-recmeister-capturing-features/"><u>[Updated] 2024 Approved Inside Look The Power of Recmeister Capturing Features</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-zenith-pinnacle-prodigy-review/"><u>[Updated] In 2024, Zenith Pinnacle Prodigy Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-mastering-momentum-go-from-zero-to-viral-in-fb/"><u>[Updated] Mastering Momentum Go From Zero to Viral in FB</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-maximizing-twitter-budget-efficiency-in-ad-spends-for-2024/"><u>[Updated] Maximizing Twitter Budget Efficiency in Ad Spends for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-insta-stardom-15-effortless-steps-towards-rapid-and-sustained-fame/"><u>[Updated] Unlocking Insta Stardom 15 Effortless Steps Towards Rapid and Sustained Fame</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-innovating-visual-storytelling-drone-techniques/"><u>2024 Approved Innovating Visual Storytelling Drone Techniques</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-make-eye-zoom-transition-effect-with-filmora/"><u>2024 Approved Make Eye Zoom Transition Effect with Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-looking-for-cool-ideas-to-use-green-screen-and-how-setting-up-your-green-screen-keep-reading-since-we-have-the-answer-for-you/"><u>In 2024, Are You Looking for Cool Ideas to Use Green Screen and How Setting up Your Green Screen? Keep Reading Since We Have the Answer for You</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-a-green-screen-to-zoom/"><u>In 2024, How to Add a Green Screen to Zoom</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-expression-in-after-effects/"><u>In 2024, How to Add Expression in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-font-effect/"><u>In 2024, How to Add Font Effect</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-merge-audio-and-video-in-vlc-media-player/"><u>In 2024, How to Merge Audio and Video in VLC Media Player</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-iphone-11-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your iPhone 11 Pro and iPad?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-change-background-color-in-after-effects/"><u>New Change Background Color in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-motion-text-effects-for-your-video/"><u>New How to Create Motion Text Effects for Your Video?</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-vivo-y36-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Vivo Y36</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/universal-module-merger-component-easy-integration-made-simple/"><u>Universal Module Merger Component: Easy Integration Made Simple</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-unboxing-game-crafting-winning-strategies/"><u>[New] In 2024, The Unboxing Game Crafting Winning Strategies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-is-active-the-premier-choice-for-tech-enthusiasts/"><u>[New] Is Active the Premier Choice for Tech Enthusiasts?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-guiding-audio-dimming-in-fl-studio/"><u>[Updated] Guiding Audio Dimming in FL Studio</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos./"><u>2024 Approved Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-resolving-issues-with-your-desktop-or-laptop-speakers/"><u>Expert Tips on Resolving Issues with Your Desktop or Laptop Speakers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-nubia-red-magic-9-proplus-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Nubia Red Magic 9 Pro+ in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-one-stop-guide-to-simplified-podcast-live-broadcasting/"><u>In 2024, The One Stop Guide to Simplified Podcast Live Broadcasting</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-effective-ways-to-add-text-behind-objects/"><u>New 2024 Approved 2 Effective Ways to Add Text Behind Objects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rodrigo-alves-prolific-author-at-movavi/"><u>Rodrigo Alves - Prolific Author at Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-activate-search-on-win11-taskbar-monitor/"><u>Steps to Activate Search on Win11 Taskbar Monitor</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-full-guide-to-funcall-voice-changer-and-its-alternatives-for-2024/"><u>Updated Full Guide to Funcall Voice Changer and Its Alternatives for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-infinix-smart-8-hd-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Infinix Smart 8 HD Phone Network-Ready</u></a></li>
 </ul></div>
 

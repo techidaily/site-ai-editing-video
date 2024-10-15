@@ -1,7 +1,7 @@
 ---
 title: Updated How To Use Speed Ramping to Create an Intense Action Footage for 2024
-date: 2024-10-02T20:16:59.970Z
-updated: 2024-10-08T17:54:09.870Z
+date: 2024-10-07T20:22:47.778Z
+updated: 2024-10-14T17:10:45.200Z
 tags: 
   - ai
   - animation videos
@@ -219,13 +219,6 @@ We have seen video creators on YouTube using green screen effects to beautify th
 
 The concept of using virtual greenscreen is rather new, but it is getting popular among amateur video creators who do not want to invest in purchasing green screens initially. When you use a virtual background to shoot your video, the actual physical background is replaced completely with a virtual green background. Thereafter, you have to replace this virtual background with anything by using a video editor. In this article, we will illustrate how to use a virtual green screen to shoot video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Free Virtual Green Screen
 
 In order to shoot a video with green virtual background, you cannot shoot your video with your regular camera app. Otherwise, your physical background will get recorded, and replacing that through video editor is going to be time-consuming. Therefore, there are specific apps available through which you have to shoot your video so that your physical background gets completely replaced by virtual greenscreen in real-time.
@@ -249,6 +242,13 @@ Step 5: Go to Sources and click on “+” icon and select Video Capture Device 
 Step 6: While configuration the new device, select Snap Camera as Device. This will enable green screen virtual backgrounds and you can start recording. After recording is done, save the file on your hard drive.
 
 ![save the file](https://images.wondershare.com/filmora/article-images/save-the-file.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now that you have recorded the video with green virtual background without green screen, it is time to edit the virtual greenscreen out with the video editor.
 
@@ -310,13 +310,6 @@ Now you will the superimposed version of the replacement video effect on the gre
 
 Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 You can now have virtual background without green screen purchase on your video. All you need is a proper application to replace your physical background with a virtual green screen and record the entire video. We have recommended free Snap Camera app and OBS Studio for this job. Then you need to edit the green screen virtual backgrounds with a video editor for which we have recommended Wondershare Filmora.
@@ -342,13 +335,6 @@ Now you will the superimposed version of the replacement video effect on the gre
 ![background](https://images.wondershare.com/filmora/article-images/background.jpg)
 
 Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -398,13 +384,6 @@ If you also want to experiment with this video aspect, then you're at the right 
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: A Complete Overview of Adobe After Effects
 
 Before learning **how to slow mo in After Effects**, we want to introduce you to the software. [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) is a professional software designed to assist in post-production. Those unrealistic scenes you see in a sci-fi movie are its creation. Users can work with multiple effects categories to create animated scenes and titles.
@@ -424,6 +403,13 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 **Step 1:** After importing a video, navigate towards the timeline video layer and right-click on it. From the dropdown menu, select "Time" and then select the "Time Stretch" option.
 
 ![access time stretch feature](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** In the Time Stretch window, increase the default value of "Stretch Factor." Then click "OK," and this will slow down your clip.
 
@@ -489,10 +475,10 @@ Continue to select a specific preset for speed ramping. As you select one, locat
 ![set preset and change frame interpolation](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step 3Render Preview for Results
@@ -500,6 +486,13 @@ Continue to select a specific preset for speed ramping. As you select one, locat
 Once you have enabled this option, navigate towards the timeline toolbar. Search and select the "Render Preview" option from the given icons. Play the video to see the results, adjust, and click the "Export" button to download.
 
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
 
@@ -520,6 +513,13 @@ Filmora offers multiple mask options to infuse effects and filters to specific p
 #### 4\. [AI Thumbnail Creator](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Thumbnails increase video views by evoking the audience's interest in seeing a video. In Filmora, you can employ the AI Thumbnail creator to auto-create thumbnails. It analyzes the best frame out of your video and chooses it as a thumbnail. You can further apply many templates to this thumbnail according to context.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -555,15 +555,22 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 
 ![change stretch factor](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
 
 ![look for pixel motion](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Alternative: Slowing Down Video in Wondershare Filmora with Clarity
@@ -575,13 +582,6 @@ Wondershare Filmora is an AI-driven software that makes task achievement accessi
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Methods to Slow Down Video in Filmora
 
@@ -599,6 +599,13 @@ Users can employ the manual speed adjustment option along with the automated slo
 Once you have downloaded Filmora, start it and click the “New Project” tab. After accessing the editing interface, click the “Import” button to download media. From the Project Media panel, drag and drop media to the timeline.
 
 ![add videos to timeline](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 2Access Uniform Speed Option
 
@@ -627,19 +634,6 @@ After importing media and bringing it to the timeline panel, select it. Then, na
 Continue to select a specific preset for speed ramping. As you select one, locate and expand the “AI Frame Interpolation” section. From the appearing option, select the “Optical Flow” option.
 
 ![set preset and change frame interpolation](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-12.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3Render Preview for Results
 
@@ -689,18 +683,16 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/he-storyline-secret-to-youtube-triumph/"><u>[New] The Storyline Secret to YouTube Triumph</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-xbox-one-step-by-step-screen-capture-guide/"><u>[Updated] 2024 Approved Mastering Xbox One Step-by-Step Screen Capture Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-a-green-screen-video-in-after-effects/"><u>2024 Approved How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-speed-ramping-to-create-a-footage/"><u>2024 Approved How to Use Speed Ramping to Create a Footage</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/1716461387681-8-best-youtube-video-promotion-services-real/"><u>8 Best Youtube Video Promotion Services (Real)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/boost-your-spirit-creating-motivational-status-videos/"><u>Boost Your Spirit Creating Motivational Status Videos</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-youtube-banner-blueprints-a-gamers-design-handbook/"><u>In 2024, YouTube Banner Blueprints A Gamers' Design Handbook</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-wireless-network-enhancers-maximizing-your-internet-reach/"><u>Leading Wireless Network Enhancers: Maximizing Your Internet Reach</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/optimize-your-pc-with-intel-usb-30-drivers-for-windows-10-start-downloading-today/"><u>Optimize Your PC with Intel USB 3.0 Drivers for Windows 10 - Start Downloading Today!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-your-audio-file-for-apples-review-boards-for-2024/"><u>Perfecting Your Audio File for Apple’s Review Boards for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-find-out-what-ray-tracing-is-in-after-effects-how-it-works-and-learn-about-ray-traced-3d-settings-with-simple-instructions/"><u>Updated Find Out What Ray Tracing Is in After Effects, How It Works, and Learn About Ray-Traced 3D Settings with Simple Instructions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>Updated HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-acclaimed-music-archives-for-visual-media/"><u>[New] Acclaimed Music Archives for Visual Media</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-from-hd-to-hyper-hd-the-eizo-monitor-revolution-with-cg318-4k/"><u>[New] From HD to Hyper HD The EIZO Monitor Revolution with CG318-4K</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-weaving-in-youtubes-video-selection-a-step-by-step-guide/"><u>[Updated] Weaving in YouTube's Video Selection A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-a-smooth-cut-transition-effect/"><u>How to Create a Smooth Cut Transition Effect?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-zoom-meetings-with-ease-integrating-skype-functions/"><u>In 2024, Mastering Zoom Meetings with Ease Integrating Skype Functions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-make-timelapse-video-with-imovie/"><u>New 2024 Approved Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-follow-a-few-simple-steps-and-learn-how-to-create-a-professional-glowing-edge-effect-to-your-videos-in-filmora/"><u>New Follow a Few Simple Steps and Learn How to Create a Professional Glowing Edge Effect to Your Videos in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/we-all-know-very-well-that-a-1-second-video-has-several-images-in-a-single-row-even-with-imovie-time-lapse-you-can-create-this-so-without-any-further-ado-le/"><u>We All Know Very Well that a 1-Second-Video Has Several Images in a Single Row. Even with iMovie Time-Lapse, You Can Create This! So, without Any Further Ado, Lets Learn How to Make a Timelapse in iMovie</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063277714-windows-usb-hub-troubleshooting-guide-fixed/"><u>Windows USB Hub Troubleshooting Guide - Fixed!</u></a></li>
 </ul></div>
 

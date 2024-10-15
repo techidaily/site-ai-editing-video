@@ -1,7 +1,7 @@
 ---
 title: New How To Make a Timelapse in After Effects for 2024
-date: 2024-10-07T18:41:51.521Z
-updated: 2024-10-08T20:14:04.574Z
+date: 2024-10-12T00:46:57.626Z
+updated: 2024-10-14T17:55:36.518Z
 tags: 
   - ai
   - animation videos
@@ -38,6 +38,13 @@ You are prepared to make a time-lapse sequence if all of your photographs are sa
 5. To update your time-lapse, modify the Frame Rate setting and click OK.
 
 ![import images into after effects](https://images.wondershare.com/filmora/article-images/2022/11/import-images-into-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 3\. Create movements
 
@@ -109,13 +116,6 @@ So, if you want to know **how to export iMovie,** we will give you a step-by-ste
 
 Once you design the shape of your story, it is time you make the world know about your creativity. Since iMovie has loads of exciting tools and features, you can create videos with a professional touch. With the help of your iPhone, you can easily export iMovie videos in various ways. Following are the ways **how to export iMovie:**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Send video via email or text message
 
 You can easily send video via email or text message from your iPhone. Following are the steps:
@@ -151,6 +151,13 @@ Since iMovie is versatile video editing software, you can quickly transfer them 
 * Click on Next to upload your iMovie video.
 
 ## Part 2\. How to Export iMovie Video from Mac?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Send video via email
 
@@ -244,9 +251,23 @@ Therefore, it is time to empower your imagination and give it a professional loo
 
 The 1980s is widely regarded as the golden era of music and film-making. If you play a video recorded in the 80s, you'll notice graininess, blurriness, and light exposure, giving the footage a dreamy vintage touch. So, in this short tutorial, we'll learn how to create a vintage 1980-style video with a retro effect that will leave your audience yearning for more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Preparation
 
 ![1980s vintage scene](https://images.wondershare.com/filmora/article-images/2023/01/1980s-vintage-scene.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this tutorial, you'll need at least two video clips. First, take clear footage of a hoop dancer playing to music and a disco ball footage that you'll add to the background. You can also add another footage to give your dancing video the perfect transition.
 
@@ -270,23 +291,9 @@ With the two videos imported on Filmora, move the playhead to the point where th
 
 ![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
 
 ![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
 
@@ -313,13 +320,6 @@ First, run Wondershare Filmora and add the video with the hoop dancer on the fir
 With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
 
 ![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
 
@@ -403,19 +403,6 @@ Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. Yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Level Up Videos By Applying Keyframe with Filmora
 
 Everyone is fascinated by a video portraying creativity and effort in each frame. Your films can easily have this captivity through the keyframe feature. It provides you the accessibility to make even a simple, plain shot pace up, slow down, or pan across the screen.
@@ -457,13 +444,6 @@ The picture will move across the screen between the 30-second and 1-minute marks
 ## Part 3\. What Would You Need to Make a Keyframe Video
 
 Let us share the procedure for making a video using the keyframe feature.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. A Video Clip or Photos
 
@@ -578,6 +558,13 @@ For an illustrated guide to keyframing opacity, keep on reading the following in
 
 ![creating an initial keyframe](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Move** the red cursor to the end of the clip.
 
 ![moving the keyframe to the end of the clip](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-16.png)
@@ -586,9 +573,23 @@ For an illustrated guide to keyframing opacity, keep on reading the following in
 
 ![decreasing the opacity at the second keyframe](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-17.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * That's it; you have a theatrical variation of the clip's visible opacity throughout the timeline.
 
 ![keyframing opacity final result](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-18.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -655,6 +656,13 @@ The next step would be to use the movement option in Keyframing, where you can p
 
 ![adding keyframes and varying clip scale](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Now **play** your clip, and you'll see it zooms in and pans automatically to the state of the second keyframe over that timeline.
 
 ![final result of added movement](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-10.gif)
@@ -699,23 +707,9 @@ For an illustrated guide to keyframing opacity, keep on reading the following in
 
 ![decreasing the opacity at the second keyframe](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * That's it; you have a theatrical variation of the clip's visible opacity throughout the timeline.
 
 ![keyframing opacity final result](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-18.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -737,24 +731,16 @@ On the whole, keyframing is all about creativity at your fingertips. When detail
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-ultimate-viewing-experience-insights-on-eizos-4kcg318/"><u>[Updated] 2024 Approved The Ultimate Viewing Experience – Insights on EIZO’s 4KCG318</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertly-manipulating-colors-in-video-edits/"><u>[Updated] Expertly Manipulating Colors in Video Edits</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-event-videography-is-popular-in-weddings-graduation-family-reunion-and-other-great-moments-here-im-going-to-share-some-of-the-tips-to-make-a-b/"><u>2024 Approved Event Videography Is Popular in Weddings, Graduation, Family Reunion and Other Great Moments. Here Im Going to Share some of the Tips to Make a Better Event Videography</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hl-2280dw-usb-wifi-printer-drivers-for-windows-operating-systems-windows-111087/"><u>HL-2280DW USB WiFi Printer Drivers for Windows Operating Systems (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-honor-x50iplus-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Honor X50i+? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-7-hd-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 7 HD To Phone | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-s17t-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo S17t Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y28-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y28 5G Phone FRP Lock</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-rotate-videos-in-lightworks-for-2024/"><u>New Steps to Rotate Videos in Lightworks for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-users-rejoice-eliminate-the-black-screen-glitch-in-rainbow-six-siege-with-these-simple-steps/"><u>PC Users Rejoice: Eliminate the Black Screen Glitch in Rainbow Six Siege with These Simple Steps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/smart-eco-friendly-screen-tech-compilation/"><u>Smart, Eco-Friendly Screen Tech Compilation</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-20-best-video-background-templates/"><u>Updated 20 Best Video Background Templates</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-step-by-step-to-crop-videos-using-lightworks/"><u>Updated 2024 Approved Step by Step to Crop Videos Using Lightworks</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-best-cloud-storage-service-for-videos-for-2024/"><u>Updated Best Cloud Storage Service for Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-record-super-slow-motion-videos-on-your-huaweisamsungiphone/"><u>Updated How to Record Super Slow Motion Videos on Your Huawei/Samsung/iPhone?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-effects-on-tiktok/"><u>Updated In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-premium-choices-the-very-best-tripods-for-high-definition-shooting-for-2024/"><u>[New] Premium Choices The Very Best Tripods for High Definition Shooting for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-budget-friendly-cam-stream-viewer/"><u>[Updated] Top Budget-Friendly Cam Stream Viewer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-retrospective-on-the-goofy-movie-a-comprehensive-review/"><u>2024 Approved Retrospective on 'The Goofy Movie' A Comprehensive Review</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-try-these-10-music-video-templates-to-make-your-work-easy/"><u>2024 Approved Try These 10 Music Video Templates To Make Your Work Easy</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/comment-realiser-le-transfert-doem-de-windows-11-vers-un-ssd-une-methode-facile-en-quatre-etape/"><u>Comment Réaliser Le Transfert D'OEM De Windows 11 Vers Un SSD: Une Méthode Facile en Quatre Étape</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easily-sync-audio-with-video-with-filmora/"><u>Easily Sync Audio With Video With Filmora</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Infinix Smart 8 HD</u></a></li>
+<li><a href="https://extra-support.techidaily.com/natures-canvas-a-variety-of-downloads-to-enhance-cinematic-work-for-2024/"><u>Nature’s Canvas A Variety of Downloads to Enhance Cinematic Work for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-ideas-for-time-lapse-video/"><u>New Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-if-you-are-a-marketer-who-want-to-create-facebook-ads-to-boost-your-business-you-are-coming-to-the-right-place-well-share-you-some-useful-tips-to-st/"><u>Updated If You Are a Marketer Who Want to Create Facebook Ads to Boost Your Business, You Are Coming to the Right Place. Well Share You some Useful Tips to Start Your First FB Ads Campaign</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-holding-off-full-charges-on-your-iphone-15-may-not-be-ideal/"><u>Why Holding Off Full Charges on Your iPhone 15 May Not Be Ideal</u></a></li>
 </ul></div>
 

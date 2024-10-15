@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro
-date: 2024-10-05T17:08:23.062Z
-updated: 2024-10-08T16:10:35.120Z
+date: 2024-10-09T02:21:03.644Z
+updated: 2024-10-15T00:38:25.135Z
 tags: 
   - ai
   - animation videos
@@ -89,6 +89,13 @@ Find the image or video in the media library that you want to overlay over the b
 
 ![import media to overly](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3Spice up with Effects
 
 There are several choices available for adding extra effects to the video. By selecting the effect tab, you may look for more effects as well. The decision to switch to a green screen or include other components into the film is entirely up to you.
@@ -128,6 +135,19 @@ There are several choices available for adding extra effects to the video. By se
 ##### Step4Customize Effects and Save
 
 Inside the Effects window, press Ok and once you have applied the required effects to see the modifications appear on the screen. You may also add element movements to make the video seem more entertaining. Once the editing and effect adding are complete, you may export the video on the go.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -283,6 +303,13 @@ When the edits begin, the shape of the main character will shift from CS: GO CT 
 
 ![Best Gaming Montage Example - NEVERMORE](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 NEVERMORE \[CS: GO\]
 
 Closing Thoughts:
@@ -339,20 +366,14 @@ Navigate to Stock Media, where you'll find non-copyrighted music on Pixabay, and
 
 ![How to make a game montage with Filmora - Choose Background Music](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-2.png)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Choose Background Music
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5) Edit the Gaming Montage
 
@@ -460,6 +481,13 @@ It's not easy to get a testimonial video right. You need to know how to write on
 
 Fortunately for you, we're here with our step-by-step guide on how to edit testimonial videos using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). So, sit tight because we're about to take you through each stage of this process from start to finish!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Import Your Media Files to Filmora Video Editor
 
 It includes your testimonial videos and video/photo materials. You can import your media files from the following sources:
@@ -473,19 +501,6 @@ It includes your testimonial videos and video/photo materials. You can import yo
 ![import your media files](https://images.wondershare.com/filmora/article-images/2022/08/import-media-to-filmora.jpg)
 
 To save time, it is best to prepare ahead of time all your videos materials before start editing your testimonial video. Save it in just one folder including your script guide, photos, and videos
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Select Your Preferred Project Aspect Ratio
 
@@ -510,13 +525,6 @@ To split a video into smaller sections, start by cutting it down to the appropri
 
 From there, repeat this procedure until you've completed the whole narrative. You'll be left with numerous cut segments that you may either delete or rearrange. To remove a clip from your movie, choose Delete from the toolbar or right-click and select delete.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add Catchy Headlines and Text (Optional)
 
 If desired, add catchy headlines/texts like "How to Eliminate Chronic Pain Forever”. You can do this by clicking Text button from toolbar located across top portion of screen (beside Transitions button).
@@ -524,13 +532,6 @@ If desired, add catchy headlines/texts like "How to Eliminate Chronic Pain Forev
 ![add catchy headlines and text](https://images.wondershare.com/filmora/article-images/2022/08/add-logo-to-video-filmora.jpg)
 
 Adding a phrase or a short sentence is called “headline”. It would be nice to add one of them at your video, so that viewers can get an idea about what it's about before watching it in full. The text can be customized by using different font styles like bold, italic, underline etc., as well as its size and color.
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Input Subtitle
 
@@ -549,13 +550,6 @@ To add a fade-out transition: Click on the second clip and select “Effects.”
 Feel free also to use other transitions as you want, but be careful not to use an overly extreme one.
 
 ![apply transitions](https://images.wondershare.com/filmora/article-images/2022/08/apply-transition-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add Background Music to Testimonial Video
 
@@ -616,6 +610,19 @@ Hopefully, this post gave you an idea of how to use [Filmora](https://tools.tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Freeze Frame Clone Effect Is a Creative Effect to Use for Many Video Creators. This Article Will Show You How to Use Filmora to Make a Frozen Frame Clone Video Effect
 
 Preparation
@@ -646,11 +653,25 @@ Place the marker where you want the frame to freeze. Click on Camera icon under 
 
 ![add audio effects on sports videos](https://images.wondershare.com/filmora/article-images/2022/snapshot-freeze-frame-clone-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4
 
 Match the duration of the snapshot with the point where you want the frame to freeze. Go to Effects> AI Portrait> Human Segmentation and drop the effect on the snapshot layer to make the background disappear.
 
 ![adjust speed sports game video](https://images.wondershare.com/filmora/article-images/2022/use-ai-portrait-freeze-frame-clone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5
 
@@ -762,13 +783,6 @@ Double-click on the snapshot layer. Go to Effect and adjust the Edge thickness s
 
 ![add vintage effects sports game video](https://images.wondershare.com/filmora/article-images/2022/adjust-edge-freeze-frame-clone-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 6
 
 Perform Step 3 to Step 5 again where you need to select a frame to freeze, take snapshot, drop onto timeline and remove background. Finally, play the video to check out the freeze frame clone effect. Save the video on your hard drive by click on Export button.
@@ -809,13 +823,6 @@ Place the marker where you want the frame to freeze. Click on Camera icon under 
 
 ![add audio effects on sports videos](https://images.wondershare.com/filmora/article-images/2022/snapshot-freeze-frame-clone-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4
 
 Match the duration of the snapshot with the point where you want the frame to freeze. Go to Effects> AI Portrait> Human Segmentation and drop the effect on the snapshot layer to make the background disappear.
@@ -833,13 +840,6 @@ Step 6
 Perform Step 3 to Step 5 again where you need to select a frame to freeze, take snapshot, drop onto timeline and remove background. Finally, play the video to check out the freeze frame clone effect. Save the video on your hard drive by click on Export button.
 
 ![add light leaks sports video](https://images.wondershare.com/filmora/article-images/2022/export-freeze-frame-clone-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Summary
 
@@ -867,24 +867,20 @@ What you’ve learned:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-expert-tutorial-quick-hassle-free-ios-snapshots/"><u>[New] 2024 Approved Expert Tutorial Quick, Hassle-Free iOS Snapshots</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-exploring-the-best-screenshot-apps-for-idevices/"><u>[New] Exploring the Best Screenshot Apps for iDevices</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-youtube-ad-elimination-techniques-for-chrome-and-safari-users/"><u>[New] In 2024, YouTube Ad Elimination Techniques for Chrome & Safari Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-hidden-guide-watching-highly-engaged-comments-with-ease-on-youtube/"><u>[Updated] The Hidden Guide Watching Highly Engaged Comments with Ease on YouTube</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>2024 Approved How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pc-friendly-non-inshot-editing-software/"><u>2024 Approved PC-Friendly Non-Inshot Editing Software</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/alternative-video-editors-for-laptops-for-2024/"><u>Alternative Video Editors for Laptops for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-drivers-best-secret-weapon-for-avoiding-speeding-tickets-the-s55-reviewed-here/"><u>Budget Driver's Best Secret Weapon for Avoiding Speeding Tickets: The S55 Reviewed Here!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-lava-yuva-2-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Lava Yuva 2 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-8t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 8T to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-motion-tracking-in-video-editing/"><u>In 2024, How to Use Motion Tracking in Video Editing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-elevate-your-designs-with-feather-shapes-in-after-effects/"><u>New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-apply-video-filters/"><u>New In 2024, How to Apply Video Filters</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video/"><u>New Ultimate Guide on How to Plan and Storyboard a Music Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-achieve-gopro-slow-motion-with-quality/"><u>Updated 2024 Approved How to Achieve GoPro Slow Motion With Quality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-vintage-film-effect-1950s/"><u>Updated 2024 Approved How to Create Vintage Film Effect 1950S</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-essential-guide-to-winning-on-spotify-ad-campaigns/"><u>[New] Essential Guide to Winning on Spotify Ad Campaigns</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-create-a-square-video-for-instagram-in-imovie/"><u>[New] In 2024, How to Create a Square Video for Instagram in iMovie?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-connectivity-aid-fb-stories-saver-pro/"><u>[Updated] 2024 Approved Connectivity Aid FB Stories Saver Pro</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-detailed-video-capture-using-videoleap-tools/"><u>[Updated] Detailed Video Capture Using Videoleap Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-seamless-switching-between-screens-with-chromes-pip-for-2024/"><u>[Updated] Seamless Switching Between Screens with Chrome's PIP for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-intro-with-legend-intro-maker/"><u>2024 Approved How to Create Intro with Legend Intro Maker</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-make-modern-tiktok-velocity-dance-videos-in-filmora-just-like-the-ones-you-see-on-tiktok-and-instagram-reels/"><u>2024 Approved Learn How to Make Modern TikTok Velocity Dance Videos in Filmora Just Like the Ones You See on TikTok and Instagram Reels</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722202433959-beware-spotting-fake-imitations-of-the-chatgpt-windows-software/"><u>Beware: Spotting Fake Imitations of the ChatGPT Windows Software</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-slide-masking-effect-intro/"><u>Create Slide Masking Effect Intro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-pro-4g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Poco M6 Pro 4G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-podcasts-vs-youtube-making-an-informed-media-decision/"><u>In 2024, Podcasts Vs. YouTube Making an Informed Media Decision</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/subtlety-in-sound-decreasing-decibels-in-logic-pro-projects/"><u>Subtlety in Sound Decreasing Decibels in Logic Pro Projects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-20-best-video-background-templates/"><u>Updated 20 Best Video Background Templates</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-ideas-for-time-lapse-video/"><u>Updated Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>Updated Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
 </ul></div>
 

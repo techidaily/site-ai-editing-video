@@ -1,7 +1,7 @@
 ---
 title: New How To Make a Video by Mouse in Filmora for 2024
-date: 2024-10-06T19:38:56.262Z
-updated: 2024-10-08T18:17:56.000Z
+date: 2024-10-09T21:33:16.051Z
+updated: 2024-10-14T17:21:40.459Z
 tags: 
   - ai
   - animation videos
@@ -53,13 +53,6 @@ Our first and most crucial step will be to use our imagination and creativity. S
 
 ![reviewing the footage](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-3.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Head to the **stock media** folder on the bar mentioned above, the Wondershare Filmora.
 * Or you can simply look towards the left window, where you will find the sample **videos tab.**
 * Click on the sample videos tab, and a new **window** will appear on the library screen.
@@ -84,6 +77,13 @@ If you like to add a more **classical vibe**, pick a classical song or audio fro
 * Now random **close-up shots** of a piano, cinematic footage of a big **orchestra**, or simple landscapes with minimalistic movement while focusing on a single object, consider the example below.
 
 ![still shot of a bench](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-5.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now that a scenario is constructed, our next step is to arrange these clips in the Wondershare Filmora timeline.
 
@@ -187,6 +187,13 @@ If you have time, you can also add a few of the effects in the Wondershare Filmo
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** you can do so as many times as you want for the remaining video clips in the timeline.
 
 It seems our 15 minutes are running out! Play the music video from the beginning and review the edits you made. Then, finalize your edits and Voila. You have successfully created a music video using a mouse on Wondershare Filmora.
@@ -214,13 +221,6 @@ With just a mouse, you have created a music video! How easy is that? Try differe
      data-ad-slot="1223367746"></ins>
 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use Visual Effect for Zoom
 
 Zoom, a video calling software, has been quite popular over the last several months and is still one of the most used videos calling applications by millions of people worldwide. The site is a favorite among working professionals, but it is also utilized by individuals to connect with their friends and loved ones. Additionally, despite the app's abundance of practical built-in tools and functions, it lacks the fun filters and special effects that the majority of users are used to when using a camera. Zoom has ingrained itself in our vocabulary during the last year. It seemed almost inevitable given that everything, from meetings to parties, has moved online.
@@ -239,6 +239,13 @@ You don't need to seek farther than Zoom visual effects to inject a little jazz 
 2. [2\. How do I add visual effects to Zoom in Mobile?](#part3-2)  
 3. [3\. How do you download Zoom effects?](#part3-3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Popular Visual Effects you can add to Zoom
 
 You may apply one of four main graphic effects to your Zoom meetings. The visual effects that you may use in your next Zoom video chat are briefly summarized below.
@@ -248,13 +255,6 @@ You may apply one of four main graphic effects to your Zoom meetings. The visual
 Virtual backdrops may transform any plain wall into an artistic setting. Zoom provides you the choice to add photographs to your backdrop in addition to offering you a few pre-made backdrops. Zoom lets you add a movie to your backdrop in addition to simply photographs. With the help of this imaginative feature, gather your pals and enjoy your favorite meme or video. A presentation's collection of photos, a video, or a single image may all serve as virtual backdrops. A green screen would often be used as your real backdrop and consistent lighting would be required.
 
 To avoid having to reveal your real surroundings while in a conference, you may add any picture or video as a virtual backdrop in Zoom. You have the option of adding own photos and movies or selecting from the pre-existing backdrop films and images. The file type for video backgrounds should be MP4 or MOV, and the resolution should range from 360p to a maximum of 1080p. Ensure that the mirroring of your video is deselected in the Zoom's Video settings if your backdrop picture has text that may be read. By using virtual backdrops, you may alter the background of your video as it appears to the audience member with whom you are speaking. During the video conference you're in, the other participants will be able to view your face and body overlaid on the backdrop of your choice.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Filters
 
@@ -346,25 +346,11 @@ Virtual backdrops may transform any plain wall into an artistic setting. Zoom pr
 
 To avoid having to reveal your real surroundings while in a conference, you may add any picture or video as a virtual backdrop in Zoom. You have the option of adding own photos and movies or selecting from the pre-existing backdrop films and images. The file type for video backgrounds should be MP4 or MOV, and the resolution should range from 360p to a maximum of 1080p. Ensure that the mirroring of your video is deselected in the Zoom's Video settings if your backdrop picture has text that may be read. By using virtual backdrops, you may alter the background of your video as it appears to the audience member with whom you are speaking. During the video conference you're in, the other participants will be able to view your face and body overlaid on the backdrop of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Filters
 
 With these filters, you can have fun in all of your Zoom meetings! Filters are a fun way to spend time with loved ones who are far away, particularly at a period when maintaining social distance is crucial. Filters are the modifications you make to yourself during Zoom meetings (such as a mustache, beard, etc.). They enliven the proceedings and contribute to the fun and memorability of your Zoom meetings.
 
 Your films' colors may be changed, and video filters can also add new aspects. By selecting a filter appropriate for each event, like team meetings or game nights, you may create the right atmosphere. You may embellish your face in the video with flowers or animal traits by using Zoom's various filters. Alternately, you might just convert your video's color to black and white. The video filters from a different program, however, allow you to apply more vibrant filters and place a greater emphasis on special effects.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Lighting and Touch-ups
 
@@ -407,13 +393,6 @@ Select "Adjust for low light" in the video options. For your lighting, you may c
 Use Zoom's noise reduction option to keep your conversation focused during your video conference in addition to adding visual elements. To do this, go to "Audio Settings" and choose "High" under "Suppress background noise." Once you start speaking during the video conference, this essentially cancels out any background noise.
 
 ## Part 3: Related FAQs
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. What apps can add visual effect on Zoom?
 
@@ -464,23 +443,9 @@ You must be wondering why it’s essential to use the **motion blur plugin for P
 * **Removing Motion Blur:** Apart from adding and adjusting the motion blur effect, you can also remove the blur effect using RSMB effortlessly.
 * **Add Motion Blur to 360 Videos:** RSMB is also capable of adding a motion blur to 360 videos properly. It can recognize the edges of sides along with the top and bottom to create a motion blur effect appropriately.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Is It Worth Trying ReelSmart Motion Blur Pro?
 
 As we have discussed the regular version of ReelSmart Motion Blur, now we will also shed light on its Pro version. To help you in choosing the best version, we will draw a comparison between the regular and pro versions of RSMB in this section.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Pricing Price
 
@@ -535,6 +500,13 @@ Now head to the settings on the left side and enable the GPU settings. Moreover,
 
 ![enable the gpu option](https://images.wondershare.com/filmora/article-images/2023/02/reelsmart-motion-blur-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Motion blur effect can drastically transform your video clip. If you are using Premiere Pro to add motion blur, we will recommend you use the plugin called ReVisionFX ReelSmart Motion Blur. If you are unaware of the **motion blur plugin Premiere Pro**, this article has fetched all the related details. This article has provided all the significance and instructions to use the RSMB plugin.
@@ -560,9 +532,23 @@ Supported Hosts
 
 * 7 out of 5
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Our Verdict
 
 The new features in the pro version of RSMB are really compelling and beneficial. However, there are various restrictions when it comes to the supported hosts of the pro version. So, if you are using any common software for video editing that is not recognized by the pro version, we will recommend you use the regular version of RSMB. The regular version of RSMB is cost-effective and works proficiently.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Use ReelSmart Motion Blur Plugin in Premiere Pro?
 
@@ -630,6 +616,13 @@ We will now look at the example image with the rule of thirds in place and see i
 
 ![place thirds points in photo](https://images.wondershare.com/filmora/article-images/2022/11/place-thirds-points-in-photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 We have aligned the skyline with the first horizontal grid line and aligned the boats with the vertical grid lines. We have sacrificed the crane in the scene but overall I'm sure you can agree that this is more pleasing and makes more sense when you're viewing this. The whole middle section of the scene now has information within it and the contrast between the middle and the rest of the scene directs your eyes to what was intended to be viewed, This is called effect use of empty space. In doing this you save yourself time from adding more information to direct the viewer.
 
 Placing key elements directly in the center of your scene can seem static and boring but by placing elements to one side or using the first and second horizontal grid lines you create something called Dynamism , where the viewer sees an element along the grid and takes a journey through the rest of the image.
@@ -676,6 +669,13 @@ As you can see you are able to align the shot and change the aspect ratio to ali
 
 ![rule of thirds final video](https://images.wondershare.com/filmora/article-images/2022/11/rule-of-thirds-final-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 To conclude, the rule of thirds is very important within visual media and is tough within the fundamentals of art and photography from beginner level right up to the highest point of education, Practice thinking about your placement of key elements within your videos and how this affects your overall composition. The goal is to have this as an automatic thought when shooting your videos or still images. This is a small change you can make but has a big impact on how a viewer engages your content and in return leaves a positive opinion towards your creativity and eye for detail.
@@ -702,24 +702,19 @@ To conclude, the rule of thirds is very important within visual media and is tou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-transforming-spaces-the-art-of-metaphysical-marketing/"><u>[Updated] Transforming Spaces The Art of Metaphysical Marketing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-essential-windows-tips-for-efficient-live-tv-saving/"><u>2024 Approved Essential Windows Tips for Efficient Live TV Saving</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/examining-the-sony-xperia-5-portable-size-premium-cost/"><u>Examining the Sony Xperia 5: Portable Size, Premium Cost</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-change-text-in-premiere-pro/"><u>How To Change Text In Premiere Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-6-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 6 Plus</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-accelerate-your-storytelling-with-customized-speed-settings/"><u>In 2024, Accelerate Your Storytelling with Customized Speed Settings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-budget-friendly-filmmaking-choose-the-best-6-action-cameras/"><u>In 2024, Budget-Friendly Filmmaking Choose the Best 6 Action Cameras</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-magic-5-lite-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor Magic 5 Lite Phone Screen?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-green-screen-video-in-after-effects/"><u>New How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-film-a-slow-motion-video-for-2024/"><u>New How To Film a Slow Motion Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-animated-titles-and-text-in-the-filmora-video-editor-this-is-a-simple-step-by-step-tutorial-for-any-skill-level/"><u>New Learn How to Create Animated Titles and Text in the Filmora Video Editor. This Is a Simple Step-by-Step Tutorial for Any Skill Level</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-list-of-best-vhs-video-effect-makers/"><u>New Top List of Best VHS Video Effect Makers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-easy-strategies-to-turn-your-slideshows-into-engaging-videos/"><u>Quick and Easy Strategies to Turn Your Slideshows Into Engaging Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-common-issues-with-the-corsair-virtuoso-mic/"><u>Troubleshooting Guide: Solving Common Issues with the Corsair Virtuoso Mic</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-add-transition-effects-in-premiere-pro/"><u>Updated 2024 Approved Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-font-effects-to-videos/"><u>Updated 2024 Approved How to Add Font Effects to Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-way-to-color-grading-and-color-correction-in-filmora/"><u>Updated In 2024, Best Way To Color Grading & Color Correction in Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1920s-how-to-make-for-2024/"><u>Vintage Film Effect 1920S - How to Make for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-video-perfection-repairing-cameras-of-today-and-tomorrow/"><u>Zoom Video Perfection: Repairing Cameras of Today & Tomorrow</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-smooth-sailing-in-transforming-ppt-slides-into-videos/"><u>[Updated] 2024 Approved Smooth Sailing in Transforming PPT Slides Into Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-earning-the-big-bucks-as-a-youtube-star-for-2024/"><u>[Updated] Earning the Big Bucks as a YouTube Star for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-15-best-travel-vloggers-that-you-should-follow/"><u>2024 Approved 15 Best Travel Vloggers That You Should Follow</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-a-business-from-blogs-and-video-reviews/"><u>Building a Business From Blogs and Video Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-vcompdll-errors-in-windows-a-step-by-step-guide-to-resolve-not-detected-or-absent-messages/"><u>Fixing vcomp.dll Errors in Windows: A Step-by-Step Guide to Resolve Not Detected or Absent Messages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-disjointed-to-harmonious-the-logic-pro-x-transition-tale/"><u>From Disjointed to Harmonious The Logic Pro X Transition Tale</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-we-overcame-the-graphics-distortion-issue-in-rust-programming/"><u>How We Overcame The Graphics Distortion Issue in Rust Programming</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-dvd-upgrading-comprehensive-tutorial-for-turning-dvds-into-crystal-clear-480p-60fps-videos/"><u>Master the Art of DVD Upgrading: Comprehensive Tutorial for Turning DVDs Into Crystal Clear 480P 60FPS Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-options/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Options</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved How to Remove Background From a Video in Premier Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-creating-video-testimonials/"><u>Updated Creating Video Testimonials</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-the-best-frame-rate-for-4k-videos-in-2024/"><u>What Is the Best Frame Rate for 4K Videos, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/xbox-one-expansion-how-to-set-up-and-play-games-from-an-external-hard-drive/"><u>Xbox One Expansion: How to Set Up and Play Games From an External Hard Drive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/flv-mpg/"><u>없는 비용 - FLV에서 MPG로 전환하기 : 모바일 가능한 원활한 해결 방법</u></a></li>
 </ul></div>
 

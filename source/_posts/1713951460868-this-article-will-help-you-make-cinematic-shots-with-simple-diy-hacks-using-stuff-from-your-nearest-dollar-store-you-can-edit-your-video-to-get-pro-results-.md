@@ -1,7 +1,7 @@
 ---
 title: This Article Will Help You Make Cinematic Shots with Simple DIY Hacks Using Stuff From Your Nearest Dollar Store. You Can Edit Your Video to Get Pro Results by Wondershare Filmora for 2024
-date: 2024-10-01T20:15:43.565Z
-updated: 2024-10-08T17:49:03.466Z
+date: 2024-10-07T21:24:48.514Z
+updated: 2024-10-14T18:17:22.179Z
 tags: 
   - ai
   - animation videos
@@ -35,17 +35,38 @@ You can place it in front of your lens. Then focus on the talent behind it, givi
 
 **Note:** Remember, you can also use a **different angle** than simply approaching the object from the front. You can try and use different perspectives until you find the shot or footage you are looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tip 2\. Adjust lights with poster boards
 
 The shot below looks dark and boring because the background has no light. Here's the shot with and without the lights.
 
 ![shot with or without lights](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 A practical light is a light that shows up on screen rather than lighting talent from off-screen. For example, some dollar stores have small LED accent lights for around three dollars.
 
 Others even have lights with adhesive backings that allow you to place them all over the room—creating great lighting accents with small eye-catching pockets of light.
 
 ![lights with adhesive backings](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 On film sets, crews use a bounce to reflect light from one light source in another direction. At the dollar store, we can find something like this poster board to get a similar effect.
 
@@ -100,29 +121,22 @@ The shot below looks dark and boring because the background has no light. Here's
 
 ![shot with or without lights](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 A practical light is a light that shows up on screen rather than lighting talent from off-screen. For example, some dollar stores have small LED accent lights for around three dollars.
 
 Others even have lights with adhesive backings that allow you to place them all over the room—creating great lighting accents with small eye-catching pockets of light.
 
 ![lights with adhesive backings](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 On film sets, crews use a bounce to reflect light from one light source in another direction. At the dollar store, we can find something like this poster board to get a similar effect.
 
 ![use bounce to reflect light](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 By reflecting the light onto the bounce, we get softer, more spread-out light when it's reflected. Then you will get the result in a nicer look. Using poster boards, you can do multiple things with light.
 
@@ -139,13 +153,6 @@ The concept is recording your object in front of a green screen behind it. Then,
 
 ![green screen to create the fake background](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-8.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tip 3\. Smooth audio with felt pads or socks
 
 Do you ever have audio pop while you are recording? It can get annoying. So, to fix the issues, we are now teaching you three practical ways.
@@ -155,6 +162,13 @@ Do you ever have audio pop while you are recording? It can get annoying. So, to 
 Felt pads with adhesive backs can be stuck onto noisy props like a coffee mug. This way, we won't hear the mug hitting the table when we're recording sound.
 
 ![felt pads](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Socks as pop filters
 
@@ -192,13 +206,6 @@ So you have your work flow sorted out and you're well on your way with Filmora b
 
 I'm sure you may have heard of the rule of thirds for art or photography and you may not know or understand what it is. You may even be wondering how the rule of thirds can help you with your video creation. Well, that is what I'm going to show and explain to you today.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the rule of thirds
 
 At its core the rule of thirds is a guide to follow whenever you create something visual.
@@ -232,13 +239,6 @@ We have aligned the skyline with the first horizontal grid line and aligned the 
 Placing key elements directly in the center of your scene can seem static and boring but by placing elements to one side or using the first and second horizontal grid lines you create something called Dynamism , where the viewer sees an element along the grid and takes a journey through the rest of the image.
 
 Studies have shown that this is the humans natural way of viewing imagery, we first find something interesting to look at and then journey around that. So by using this rule you are creating a more natural process for your viewer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips when starting using the rule of thirds
 
@@ -277,10 +277,10 @@ Now click on the crop and zoom option and this editor will appear.
 ![crop rule of thirds filmora](https://images.wondershare.com/filmora/article-images/2022/11/crop-rule-of-thirds-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see you are able to align the shot and change the aspect ratio to align with your project. For a better look at the built in grid lines see image below.
@@ -304,10 +304,10 @@ To conclude, the rule of thirds is very important within visual media and is tou
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects
@@ -384,6 +384,13 @@ There are various video editors available, but not all of them are suitable for 
 
 Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Making videos with DIY green screen stand is no more an esoteric concept. You can set it up anywhere and start shooting video. The magic begins in the post-production stage where you can use Wondershare Filmora to replace the green screen with video effects that will blow the mind of your viewers and followers. Filmora has intuitive options and controls through which you can apply green screen effect in simple steps.
@@ -407,13 +414,6 @@ Step 3: Get The Best Video Editor For Green Screen Effect
 There are various video editors available, but not all of them are suitable for green screen effect. We recommend Wondershare Filmora as the best video editor to apply green screen effects on your video while editing. The reason behind the recommendation is that the steps to replace the green screen with any image or video are super simple and anyone can do it. There is no need to be a professional video editor.
 
 Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -525,22 +525,19 @@ Utilize each panel to practice and experiment. There is no right or wrong method
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-comprehensive-guide-to-exceptional-mobile-screen-capture-with-mobizen/"><u>[Updated] Comprehensive Guide to Exceptional Mobile Screen Capture with Mobizen</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-first-steps-in-virtual-conferencing-with-zoom/"><u>[Updated] In 2024, First Steps in Virtual Conferencing with Zoom</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-visual-vaulting-services/"><u>2024 Approved Top-Tier Visual Vaulting Services</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-ultimate-guide-5-top-earning-instagram-strategies/"><u>2024 Approved Ultimate Guide 5 Top-Earning Instagram Strategies</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fix-your-cod-modern-warfare-voice-chat-a-comprehensive-solution/"><u>Fix Your CoD: Modern Warfare Voice Chat - A Comprehensive Solution</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-performance-lags-and-stutter-in-modern-warfare-2-on-windows-systems/"><u>Fixing Performance Lags & Stutter in Modern Warfare 2 on Windows Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-free-up-iphone-8-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up iPhone 8 Plus Space | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-nokia-c12-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Nokia C12 Pro Through Google Earth?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-launch-a-creative-vision-start-xps-moviemaker-suite/"><u>In 2024, Launch a Creative Vision, Start Xp’s Moviemaker Suite</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-next-gen-iphone-features/"><u>Navigating Next-Gen iPhone Features</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722995270622-pubg-no-volume-heres-how-you-can-get-game-audio-back/"><u>PUBG No Volume? Here's How You Can Get Game Audio Back!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solution-to-stuttering-glitch-in-mass-effect-legendary-anthology-released/"><u>Solution to Stuttering Glitch in Mass Effect Legendary Anthology Released</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solving-your-razer-mic-issues-five-simple-solutions-to-restore-audio-functionality/"><u>Solving Your Razer Mic Issues: Five Simple Solutions to Restore Audio Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/success-story-escaping-the-sea-of-thieves-loading-screen-glitch/"><u>Success Story: Escaping the Sea of Thieves Loading Screen Glitch</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-guide-to-the-best-of-the-best-linksys-wrt3200acm-and-its-open-source-superiority/"><u>The Ultimate Guide to the Best of the Best: Linksys WRT3200ACM and Its Open-Source Superiority</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vyncs-link-analysis-unrivaled-monitoring-capabilities-overshadowed-by-puzzling-pricing-structures/"><u>Vyncs Link Analysis: Unrivaled Monitoring Capabilities Overshadowed by Puzzling Pricing Structures</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung ?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-affluent-streaming-stars-for-2024/"><u>[New] Affluent Streaming Stars for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-pioneering-rpgs-rogelikes-and-their-descendants/"><u>[Updated] Pioneering RPGs Rogelikes & Their Descendants</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-embrace-creativity-in-your-media-by-replacing-backgrounds-learn-to-replace-the-sky-in-lightroom-through-the-steps-and-details-discussed-in-thi/"><u>2024 Approved Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-do-we-experience-realities-in-a-virtual-sense/"><u>2024 Approved How Do We Experience Realities in a Virtual Sense?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-art-of-choosing-best-rated-church-streams/"><u>2024 Approved Master the Art of Choosing Best-Rated Church Streams</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-next-big-apple-unveiling-time-table-and-buzzing-rumors/"><u>All You Need to Know About the Next Big Apple Unveiling: Time Table & Buzzing Rumors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-and-defeating-the-502-bad-gateway-problem-a-step-by-step-approach/"><u>Decoding and Defeating the 502 Bad Gateway Problem: A Step-by-Step Approach</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/here-we-are-going-to-show-you-the-best-effects-to-appear-on-camera-made-with-filmora-for-2024/"><u>Here We Are Going to Show You the Best Effects to Appear on Camera Made with Filmora for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-vintage-film-effect-1950s-for-2024/"><u>How to Make Vintage Film Effect 1950S for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/hyperlapse-vs-timelapse-videos-for-2024/"><u>Hyperlapse VS Timelapse Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-eye-zoom-transition-effect-with-filmora-for-2024/"><u>New How to Make Eye Zoom Transition Effect with Filmora for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-notch-devices-toms-comprehensive-hardware-reviews/"><u>Unveiling Top-Notch Devices: Tom’s Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-audio-waveform-generator/"><u>Updated In 2024, Best Audio Waveform Generator</u></a></li>
 </ul></div>
 

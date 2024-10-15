@@ -1,7 +1,7 @@
 ---
 title: "Decoding the History of AI: How Old Is This Revolutionary Tech?"
-date: 2024-10-03T17:22:46.642Z
-updated: 2024-10-08T18:24:25.910Z
+date: 2024-10-09T02:14:18.023Z
+updated: 2024-10-14T21:38:43.048Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,10 @@ Maximum truth-seeking AI? Understand the nature of the universe?
  You'll be forgiven if Musk's description doesn't give you a clear picture of what exactly he's trying to build. However, you'll get a better idea of what he's talking about by looking at why he's trying to build it in the first place.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Is Elon Musk Building TruthGPT?
@@ -42,22 +42,15 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
  Elon Musk, who recently authored an open letter calling for a[moratorium on the development of powerful AI](http://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) models (specifically those more powerful than GPT-4), believes AI is moving too fast. He believes we need to slow down and reevaluate our approach to AI safety before AI "takes control." TruthGPT is a large language model (LLM) that promises to address these two core concerns with today's AI systems.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Would TruthGPT Look Like?
 
 ![artificial brain doing data analytics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
@@ -68,15 +61,28 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
 So, is this idea of a maximum truth-seeking AI even practical?
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Building TruthGPT Is a Huge Challenge
 
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you[understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) , it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
@@ -108,21 +114,20 @@ So, is this idea of a maximum truth-seeking AI even practical?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-growth-hurdle-cleared-500-subscribers-win/"><u>[New] In 2024, Growth Hurdle Cleared 500 Subscribers Win</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-ranking-the-best-non-sportful-activities-at-first-row/"><u>[New] In 2024, Ranking the Best Non-Sportful Activities at First Row</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-11-tips-to-make-product-ad-videos/"><u>2024 Approved 11 Tips to Make Product Ad Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-bypass-expenses-relish-films-anywhere-free-player/"><u>2024 Approved Bypass Expenses, Relish Films Anywhere (FREE Player)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-free-to-fortune-unlocking-youtubes-earnings-at-the-500-subscriber-level/"><u>2024 Approved From Free to Fortune Unlocking YouTube's Earnings at the 500 Subscriber Level</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-harness-freedom-with-top-rated-android-editing-apps/"><u>2024 Approved Harness Freedom with Top-Rated Android Editing Apps</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-image-jpgpng-to-gif-converters/"><u>Best Image (JPG/PNG) to GIF Converters</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-acknowledgments-galore-cost-effective-templates-here/"><u>In 2024, Acknowledgments Galore Cost-Effective Templates Here</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-way-to-add-transitions-to-videos/"><u>In 2024, Easy Way to Add Transitions to Videos</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-iphone-15-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the iPhone 15 Pro Without Previous Owner?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-printer-driver-canon-mx870-windows-10-7-8/"><u>Install Printer Driver: Canon MX870, Windows 10-7-8</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-applying-the-effect-of-camera-shake-in-video-creation/"><u>New Applying the Effect of Camera Shake in Video Creation</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-glitch-text-effect-for-2024/"><u>New Create Glitch Text Effect for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-time-lapse-to-normal-video/"><u>New In 2024, How to Convert Time-Lapse to Normal Video</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y100a-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y100A Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-videos-with-imovie/"><u>Updated 2024 Approved How to Loop Videos with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-guide-for-setting-tiktok-countdown-timer/"><u>2024 Approved Best Guide for Setting TikTok Countdown Timer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-device-editors-for-app-development-art/"><u>2024 Approved Leading Device Editors for App Development Art</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/auditory-purity-in-ffmpeg-a-format-friendly-perspective-for-2024/"><u>Auditory Purity in FFmpeg A Format-Friendly Perspective for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/cutting-edge-approaches-for-secure-and-precise-call-logging-for-2024/"><u>Cutting-Edge Approaches for Secure and Precise Call Logging for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-canva-collages/"><u>How to Make Canva Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-ideas-on-using-filmora-green-screen/"><u>In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-jest-journal-chronicles-of-timely-laughter/"><u>In 2024, Jest Journal Chronicles of Timely Laughter</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-fade-audio-in-premier-pro/"><u>New Steps To Fade Audio In Premier Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfect-spectrum-balancer/"><u>Perfect Spectrum Balancer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-12-amazing-free-online-calling-services/"><u>The Ultimate List: 12 Amazing Free Online Calling Services</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-difference-between-time-lapse-and-hyperlapse-for-2024/"><u>Updated Difference Between Time Lapse and Hyperlapse for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-tips-to-make-cinematic-color-grading/"><u>Updated In 2024, Tips to Make Cinematic Color Grading</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Updated Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
 </ul></div>
 

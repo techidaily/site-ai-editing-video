@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Add Effects on TikTok
-date: 2024-10-01T18:43:36.355Z
-updated: 2024-10-08T19:30:41.837Z
+date: 2024-10-07T21:40:07.116Z
+updated: 2024-10-14T23:28:39.127Z
 tags: 
   - ai
   - animation videos
@@ -81,6 +81,13 @@ Step4 Click the review button to examine your video with the effect applied befo
 
 ![publish and post video tiktok](https://images.wondershare.com/filmora/article-images/2022/07/publish-and-post-video-tiktok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4\. Add Filter on Video in TikTok
 
 You may apply the filters after you film the movie, just as you do with the effects. You just need to visit visual. There is no way to identify the filter that your favorite TikToker used on his video on TikTok. Don't worry, they often include the effect they employ in the hashtag or description, so you are still welcome to utilize it. To hunt for filter effects on TikTok, you might request a search function.
@@ -102,6 +109,13 @@ Step3 The options screen opens when you press the effect filter button. Your eff
 Step4 You may apply the filter to your video after you have officially made your decision. After doing this, leave the filter gallery and begin recording your video. Now that all of these procedures have been completed, you are able to capture your video with the effect on it.
 
 ![apply filters to videos tiktok](https://images.wondershare.com/filmora/article-images/2022/07/apply-filters-to-videos-tiktok.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -131,13 +145,6 @@ Filters on TikTok work similarly to filters on other social media applications. 
 A loop fashion lookbook will be familiar to you if you are a fashion YouTuber. Here we will show you how to record shots and make a creative lookbook to show off your best outfits in an excellent way with Wondershare Filmora.
 
 ![loop video](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-1.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Shots recording for loop masking
 
@@ -197,6 +204,13 @@ Step7 It will create several small sections on the second track.
 
 ![second track sections](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step8 Put the first clip at the start of the timeline and move the playhead to find the frame containing enough room for the second outfit.
 
 ![put the first outfit clip](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-11.gif)
@@ -251,13 +265,6 @@ Step2 Launch Wondershare Filmora, import the video clip into Filmora and place i
 
 ![import clip into filmora](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Find a frame with an empty background, i.e., without the subject, and freeze the frame.
 
 ![empty background frame](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-6.png)
@@ -281,6 +288,13 @@ Step7 It will create several small sections on the second track.
 Step8 Put the first clip at the start of the timeline and move the playhead to find the frame containing enough room for the second outfit.
 
 ![put the first outfit clip](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-11.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step9 Move the second outfit to that playhead area.
 
@@ -389,13 +403,6 @@ This pack is the right choice if you want to color-grade your portraits. Skin To
 
 ![skin tones pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. [Zoan Cinematic Pack](https://3dlutcreator.com/userstore.php?packid=9)
 
 Zoan Cinematic Pack is the perfect color-grading preset that gives your videos a professional-looking cinematic look. This pack has eight cinematic-rich presets you can apply to your videos and vlogs. These LUTs give the modern Hollywood-style impression. It adds richness to your videos, and it underexposes bright colors in your videos to create a modern cinematic ambiance.
@@ -428,13 +435,6 @@ With new tools and applications, video editing becomes more accessible with a pr
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * [Part 3: 6 Best LUTs That Can Be Used on 3DLUT Mobile App](#part3)
 
 ## Part 1: Overviewing The Features of the 3DLUT Mobile App
@@ -462,6 +462,13 @@ To install the application, go to the App Store/Play Store and search for the 3D
 Once you've imported your video file, it's time to apply the LUT to your video. To do so, choose the “LUT” tab from the bottom tray and select the desired LUT.
 
 ![access luts tab](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3 Apply the Changes and Save Your File
 
@@ -502,13 +509,6 @@ Zoan Cinematic Pack is the perfect color-grading preset that gives your videos a
 It is an exceptional and diversely influencing pack of 3DLUT Mobile. It changes your color composition to bluish to give a colder look. This pack has one LUT that comes with rich colors and deep blue color grading. These colors create an atmosphere that resembles winter and coldness. The blue tone and damping of other colors make your videos look more profound and meaningful.
 
 ![winter pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. [RakhmonovFilmsLUT Pack](https://3dlutcreator.com/userstore.php?packid=11)
 
@@ -633,13 +633,6 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 
 ![add blur effect in video multiple times](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-7.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step6 Drop the same video clip
 
 * Add the same video clip 2nd time on the timeline.
@@ -647,13 +640,6 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 * Make sure you add it to 2nd video track in the timeline above the first one.
 
 ![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step7 Add masks on the Video
 
@@ -674,6 +660,13 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 Watch the rotating and adjusting actions as shown below!
 
 ![rotation of mask in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-10.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 For example, when we add a mask in the below time-lapse video, follow the above mask adjustments. Unfortunately, we can't get good results. Therefore, we will apply another way to add a mask by changing shape and position. Follow the instructions for modifications:
 
@@ -703,6 +696,13 @@ Now, it's time to mask the whole object, which is far, but we want to make it in
 * Don't **blur** the edge of this mask.
 
 ![mask the object far from the camera for the main focus](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-13.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step8 Final Look
 
@@ -734,6 +734,19 @@ Here you will see almost more than **20 videos.** So, instead of using the actua
 * Then **Drag and Drop** it to the timeline section for further editing.
 
 ![add stock video in the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-4.gif)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Who will get Stock Media?**
 
@@ -841,13 +854,6 @@ You are excited now to see the final look of your miniature effect! Finally, it'
 
 ![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -870,22 +876,17 @@ Have you tried to add a miniature effect before? If yes, then share your experie
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-unlock-the-power-of-free-screen-recording-in-win11-for-2024/"><u>[Updated] Unlock the Power of Free Screen Recording in Win11 for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-easy-steps-to-create-intro-video-with-after-effects/"><u>2024 Approved Easy Steps to Create Intro Video with After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-embrace-creativity-in-your-media-by-replacing-backgrounds-learn-to-replace-the-sky-in-lightroom-through-the-steps-and-details-discussed-in-thi/"><u>2024 Approved Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-and-leveraging-snapchat-spotlight/"><u>2024 Approved Understanding and Leveraging Snapchat Spotlight</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/1726028682375-youtube/"><u>効率よくYouTube画像サイズ調整方法 -大きさアップのコツ</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-six-leading-edge-giant-language-systems/"><u>Discover the Six Leading-Edge Giant Language Systems</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/ensuring-long-term-access-to-instagrams-video-gems-for-2024/"><u>Ensuring Long-Term Access to Instagram's Video Gems for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/here-we-are-going-to-show-you-the-best-effects-to-appear-on-camera-made-with-filmora-for-2024/"><u>Here We Are Going to Show You the Best Effects to Appear on Camera Made with Filmora for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-poco-c65mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Poco C65Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/hyperlapse-vs-timelapse-videos-for-2024/"><u>Hyperlapse VS Timelapse Videos for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-essential-iphoneside-by-side-guide-for-fb-sharing/"><u>In 2024, The Essential iPhoneside by Side Guide for FB Sharing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-youtube-intro-for-2024/"><u>New How To Create A YouTube Intro for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-save-as-mp4-file-on-windows-movie-maker/"><u>New How to Save As MP4 File on Windows Movie Maker?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-transforming-epub-files-into-microsoft-word-documents-docx/"><u>Step-by-Step Guide: Transforming EPUB Files Into Microsoft Word Documents (DOCX)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-mirror-a-video-clip-in-premiere-pro/"><u>Updated 2024 Approved How To Mirror a Video Clip in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-zoom-video-in-vlc-media-player/"><u>Updated 2024 Approved How to Zoom Video in VLC Media Player</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-essential-actions-while-absorbing-audio-tales/"><u>[New] Essential Actions While Absorbing Audio Tales</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-moto-cams-best-top-5-hats-for-riders/"><u>[New] Moto Cam's Best Top 5 Hats for Riders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-time-warp-with-snapchat-reversing-videos-simplified/"><u>[Updated] 2024 Approved Time Warp with Snapchat Reversing Videos Simplified</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-igtv-strategies-for-uploading-horizontal-videos/"><u>[Updated] Mastering IGTV Strategies for Uploading Horizontal Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-methods-safeguard-your-digital-information/"><u>Essential Methods: Safeguard Your Digital Information</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flipping-filmmaking-on-your-android-device/"><u>In 2024, Flipping Filmmaking on Your Android Device</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-practical-tips-to-improve-your-lighting-in-the-sun-for-2024/"><u>New Best Practical Tips to Improve Your Lighting in the Sun for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New In 2024, Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-split-clips-in-vlc-for-2024/"><u>New Step by Step to Split Clips in VLC for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/open-minds-open-tech-easeus-report-for-2024/"><u>Open Minds, Open Tech - EaseUS Report for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sony-unveils-new-technologies-and-plans-for-the-future-2024-overview/"><u>Sony Unveils New Technologies and Plans for the Future: 2024 Overview</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-loop-videos-with-filmora-for-2024/"><u>Updated How to Create Loop Videos with Filmora for 2024</u></a></li>
 </ul></div>
 

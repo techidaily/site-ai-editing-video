@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved 3 Ways to Create Motion Text Effects for Your Video
-date: 2024-10-05T20:18:14.555Z
-updated: 2024-10-08T18:45:44.123Z
+date: 2024-10-10T16:26:55.604Z
+updated: 2024-10-14T20:38:35.418Z
 tags: 
   - ai
   - animation videos
@@ -71,6 +71,13 @@ Step1 From Tool panel, click on Type tool and click on Composition panel to type
 
 ![adjust text style after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-text-style-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Go to Effects and Presets panel, go through and search for the desired motion text effect preset. Drag and drop the selected preset on the text layer directly.
 
 ![drag preset text layer after effects](https://images.wondershare.com/filmora/article-images/2022/09/drag-preset-text-layer-after-effects.jpg)
@@ -131,13 +138,6 @@ Step3 If you want to edit the animation, select the text layer and go to Effects
 
 ![adjust key frame premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/adjust-key-frame-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Bring the keyframes closer or spread them apart to speed up or slow down. Tweak parameters like? Velocity Controls under different text properties to edit the animation effectively.
 
 ## Part 3\. How to Make Motion Text in After Effects
@@ -169,6 +169,13 @@ Random Spike Tumble – This is another motion effect on After Effects where the
 Comic and Life Effect – You get this motion effect on Filmora where the large texts are shown and they have a comical typography. The words keep on zooming in and out to add to the comical factor.
 
 Corporate Title Effect – This comes as a pack on After Effects whereby you get amazing text motion effects that you mostly see in professional videos. Starting from oblique stripe and emerge effect to slide in and out with modern touches and objects, you get stunning text motion to enhance your video content.?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -266,13 +273,6 @@ Then click the "**Effects**" button for more mask and effect options. Go to the 
 
 After adding a photo to a video and making basic adjustments, you can export it in various ways by pressing the "**Export**" button. You can save it in different formats in the Format tab. If you want to play the video creation on iPod, iPhone, or iPad, click "**Device**" and select the device from the list. You can also upload your video directly to YouTube or burn it to DVDs for playback on your TV using a DVD player. You can also share the video directly on social networks.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The above article talks about different software that can convert images to videos, hope it is helpful if you were wondering how to do that. As we can see above, using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) video editor, you will be more creative in making videos with fun or using Kapwing online software to convert your images to videos.
@@ -300,6 +300,13 @@ After importing the files into the program, drag the video clip to the video edi
 After that, edit your photo as you choose. Place the image anywhere you want, then drag its edge to change the size of the playing windows. The picture-in-picture track can also be customized using a variety of customizable settings provided by Filmora. To access the picture, color, and motion panel, double-click the additional image on the track. Here, you can select from more than 30 motion effects to animate the added photo, alter its saturation and hue, perform some color correction, or alter its transformation.
 
 ![edit photos](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then click the "**Effects**" button for more mask and effect options. Go to the Utility option under Filters and then drag the image mask onto the photo on the timeline. Double click on the photo and then you can change the shape, height, width, and blending of the image mask. On the mask tab, you can shape the photo with a single click. You can also invert the mask to create a new shape. Choose one of the effects according to your wish to make your video more unique.
 
@@ -356,10 +363,10 @@ After selecting the video you can add a template to your video or can add transi
 ![upload video add transition tiktok](https://images.wondershare.com/filmora/article-images/2022/11/upload-video-add-transition-tiktok.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step4 Create a loop video and save it or publish it
@@ -428,6 +435,13 @@ Place your video on a timeline or just simply drag and drop your video clip on t
 
 ![put the video on the timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Add effects and transitions
 
 After putting the video on the timeline add some effects to your video. If you are combining two or more videos then must add a dissolve transition between the videos to show your video more seamlessly.
@@ -441,10 +455,17 @@ After making all the editing videos, you can also select the duration according 
 ![edit the duration of the video then export it](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -482,13 +503,6 @@ After putting the video on the timeline add some effects to your video. If you a
 After making all the editing videos, you can also select the duration according to your requirements. You can also edit the duration of your per video.
 
 ![edit the duration of the video then export it](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -568,13 +582,6 @@ Secondly, we will discuss how we can do this on our mobiles (Android or iOS). Th
 
 Presets Store is an online platform that helps you with various Filters, LUTs, and other presets. So you can download LUTs for your videos for the VN editor using it. However, it's not a free service. You have to pay for the LUTs you want to download from here. You can visit their YouTube channel to follow the latest LUTs, Filters and other presets on this platform.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. [Apna Editz](https://www.apnaeditz.com/search?q=Luts+VN+editor)
 
 Apna Editz is another online platform you can use for this purpose. It also provides you with a fantastic variety of Presets like LUTs, Filters, and many other similar effects, which you can use in your video using the VN editor. The main Pros of this recommendation are that it's a free website. So you can download LUTs for your videos from it for free. Keep an eye on their YouTube channel to be updated about the latest LUTs.
@@ -582,19 +589,6 @@ Apna Editz is another online platform you can use for this purpose. It also prov
 ### 3\. [Lut Preset](https://www.lutpreset.com/search/label/VN%20Lut%20preset)
 
 Lut Preset is another alternative to all the above ones. You can get almost all your favorite LUTs for VN editor for free here and then use them in your videos as you want. They also share the latest LUTs on their YouTube Channel.
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. [Pencil Hub](https://www.pencilhub.in/2021/08/free-luts.html)
 
@@ -613,14 +607,14 @@ VN Editor is undoubtedly an excellent choice to add LUTs to your videos. However
 
 ![choose 3d lut](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-11.jpg)
 
-![use filmora to add luts](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-12.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![use filmora to add luts](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-12.jpg)
 
 1. Click the drop-down menu and select the Load new LUT option. Here you can import other downloaded preset LUTs to use
 
@@ -697,19 +691,22 @@ This post recommends several lut resources and demonstrates how to import them i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-mkv-player-for-pc-and-mobile/"><u>[New] 2024 Approved Best Mkv Player for PC and Mobile</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-navigating-snapchat-a-commerce-strategy/"><u>[Updated] In 2024, Navigating Snapchat A Commerce Strategy</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-video-replays-your-comprehensive-tutorial/"><u>[Updated] Mastering YouTube Video Replays Your Comprehensive Tutorial</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-skype-meetings-windowsos-x-record/"><u>2024 Approved Mastering Skype Meetings Windows/OS X Record</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-prime-selections-of-maximum-digital-safekeeping/"><u>2024 Approved Prime Selections of Maximum Digital Safekeeping</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fix-hp-deskjet-printer-windows-11-driver-issues/"><u>Fix HP Deskjet Printer Windows 11 Driver Issues</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-a-green-screen-to-zoom/"><u>In 2024, How to Add a Green Screen to Zoom</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-expression-in-after-effects/"><u>In 2024, How to Add Expression in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-merge-audio-and-video-in-vlc-media-player/"><u>In 2024, How to Merge Audio and Video in VLC Media Player</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-change-background-color-in-after-effects/"><u>New Change Background Color in After Effects</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-solutions-get-your-world-of-warcraft-voice-back-on-track/"><u>Quick Fix Solutions: Get Your World of Warcraft Voice Back on Track!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-the-itbm-driver-not-found-problem-with-simple-fixes/"><u>Resolve the 'ITBM Driver Not Found' Problem with Simple Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstuck-the-infinite-waiting-screen-of-valorant-with-proven-fixes/"><u>Unstuck the Infinite Waiting Screen of Valorant with Proven Fixes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1920s-how-to-make-for-2024/"><u>Vintage Film Effect 1920S - How to Make for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-streamline-your-instagram-feeds-with-macs-video-resizing/"><u>[New] Streamline Your Instagram Feeds with Mac's Video Resizing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-discovering-and-perfecting-your-individual-style/"><u>[Updated] 2024 Approved Discovering & Perfecting Your Individual Style</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-infographic-8-ways-to-make-money-on-youtube-for-beginners/"><u>[Updated] 2024 Approved Infographic - 8 Ways to Make Money on YouTube for Beginners</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-behind-the-scenes-with-intova-edge-x/"><u>[Updated] Behind the Scenes with Intova Edge X</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-guide-for-setting-tiktok-countdown-timer/"><u>2024 Approved Best Guide for Setting TikTok Countdown Timer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/free-mobile-screen-snatching-androids-leading-eight/"><u>Free Mobile Screen Snatching - Android's Leading Eight</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-canva-collages/"><u>How to Make Canva Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora/"><u>How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-p40-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-narzo-60-pro-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Narzo 60 Pro 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-4-solutions-to-add-white-border-to-video-on-mobile-and-desktop/"><u>New 2024 Approved 4 Solutions to Add White Border to Video on Mobile and Desktop</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-create-the-night-to-day-effect-video/"><u>New 2024 Approved How to Create the Night-to-Day Effect Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-fade-audio-in-premier-pro/"><u>New Steps To Fade Audio In Premier Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-persistent-pc-crashes-in-madden-nfl-21-tips-and-guides/"><u>Solving Persistent PC Crashes in Madden NFL 21 - Tips & Guides</u></a></li>
+<li><a href="https://article-tips.techidaily.com/transition-techniques-decreasing-volume-gradually-in-pp/"><u>Transition Techniques Decreasing Volume Gradually in PP</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-tips-to-make-cinematic-color-grading/"><u>Updated In 2024, Tips to Make Cinematic Color Grading</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Updated Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
 </ul></div>
 

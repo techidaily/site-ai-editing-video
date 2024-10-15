@@ -1,7 +1,7 @@
 ---
 title: Unlock More Fun on Your NES Classic with Essential Game Installation Techniques
-date: 2024-10-02T16:34:07.875Z
-updated: 2024-10-08T18:38:43.499Z
+date: 2024-10-13T17:52:20.916Z
+updated: 2024-10-15T03:06:01.910Z
 categories:
   - BestProducts
 description: This Article Describes Unlock More Fun on Your NES Classic with Essential Game Installation Techniques
@@ -19,10 +19,10 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
  This article explains how to add games to an NEC Classic using NES game ROMs you own and a Windows PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Games to NES Classic
@@ -41,14 +41,22 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
 4. Select**NES (USA/Europe)** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Choose NES (USA/Europe)](https://www.lifewire.com/thmb/K0_MIzgjkgi5Do_SG9rO9OU-b-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-add-more-games-to-the-nes-classic-2077915796d24b319622974016b4c322.jpg)
 5. Select**Add more games** to upload the ROMs you want to add to your NES Classic. Only files with the extension .NES will work, although you can also upload ZIP folders containing them.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 !['Add more games' selection to upload ROMs to NES Classic](https://www.lifewire.com/thmb/7vHf5faB-1mVibSy9cF1KVJ8qfY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-add-more-games-to-the-nes-classic-089a7d2332bb4059b63d6de31fea424a.jpg)
 6. Under the Custom Games list, select the title you want to add cover art to. Select**Google** to retrieve images directly from Google.  
 
@@ -56,6 +64,13 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
 7. On the Hakchi2 toolbar, select**Kernel** \>**Install/Repair,** then select**Yes** when asked if you want to flash the custom kernel.  
 ![Select Kernel > Install/Repair, then click Yes](https://www.lifewire.com/thmb/N_5Vp8fvKlu15K8g8IneRPpgamA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-add-more-games-to-the-nes-classic-cf58f3c816484e8e899c26bd4f7adf5e.jpg)
 8. Follow the instructions that appear. You might be required to install some drivers if they didn't automatically install when you connected the console.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Flash the custom kernel](https://www.lifewire.com/thmb/obxjQ5w6R-YGlPa1SqmQbuWoxcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot153-5c5a42ee46e0fb000152fca2.png)
 9. When the process is complete, select**Synchronize selected games with NES/SNES Mini** and confirm you flashed the custom kernel.  
@@ -67,13 +82,6 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
 12. When you want to add more games, connect the NES Classic to your PC, open**Hakchi** and select**Synchronize selected games with NES/SNES Mini** . There's no need to flash the custom kernel each time.  
 ![Adding new games.](https://www.lifewire.com/thmb/6dh3kGy-feD3hiGnzsqbsMpEwjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-add-more-games-to-the-nes-classic-46e50620a2ee4df28fe95c05d5712c49.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Making modifications to your NES Classic will void its warranty, and you could potentially damage the console. Add new games at your own risk.
 
 ![Nintendo Entertainment System Classic Controller](https://www.lifewire.com/thmb/FtuZUihm95iCMHAm4i5_PRSocb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Entertainment-System-NES-Controller-FR-5c5a494bc9e77c0001d00e2b.jpg)
@@ -81,13 +89,6 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
  <https://commons.wikimedia.org/wiki/File:Nintendo-Entertainment-System-NES-Controller-FR.jpg>
 
  You can follow these same instructions to add games to an SNES Classic using the Hakchi2 software.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Get ROMS for the NES Classic
 
@@ -126,17 +127,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-unwind-with-laughter-curating-15-hilarious-youtube-masterpieces/"><u>[New] In 2024, Unwind with Laughter Curating 15 Hilarious YouTube Masterpieces</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-13-miniipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 13 mini/iPad | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Infinix Hot 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-ad/"><u>New 2024 Approved Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-dollar-store-diy-hacks-to-use-for-filmmaking/"><u>New Dollar-Store DIY Hacks to Use for Filmmaking</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-feather-shapes-in-after-effects-and-add-a-professional-touch-to-your-designs-this-comprehensive-guide-covers-everything-from-the-basics-to-/"><u>New Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimat-konvertera-med-vlc-till-mp4-filer-den-basta-processningsmetoden/"><u>Optimat Konvertera Med VLC Till MP4-Filer - Den Bästa Processningsmetoden</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revive-your-logitech-k780-effective-fixes-for-a-dysfunctional-keyboard/"><u>Revive Your Logitech K780: Effective Fixes for a Dysfunctional Keyboard</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamline-your-video-livestreaming-vlc-strategies-for-2024/"><u>Streamline Your Video Livestreaming VLC Strategies for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-speed-ramping-to-create-an-intense-action-footage-for-2024/"><u>Updated How To Use Speed Ramping to Create an Intense Action Footage for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-cheap-but-effective-the-1-to-10-free-desktop-recorders/"><u>2024 Approved Cheap but Effective The #1 to #10 Free Desktop Recorders</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/behind-the-screen-samsung-ue590-4k-freesync-analysis-for-2024/"><u>Behind the Screen Samsung UE590 4K, FreeSync Analysis for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-connectivity-windows-11-driver-update-for-hp-laserjet/"><u>Enhance Connectivity: Windows 11 Driver Update for HP Laserjet</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-directory-name-invalid-error-a-complete-guide/"><u>Fixing the 'Directory Name Invalid' Error: A Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 14 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-first-timer-finds-low-cost-high-return-monetized-youtube-sites/"><u>In 2024, First-Timer Finds Low-Cost, High-Return Monetized YouTube Sites</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-green-screens-are-a-fun-way-for-creators-to-bring-their-personality-to-their-stream-allowing-them-to-dynamically-alter-their-stream-background-and-m/"><u>In 2024, Green Screens Are a Fun Way for Creators to Bring Their Personality to Their Stream, Allowing Them to Dynamically Alter Their Stream Background and Make Their Content Appear Even More Engaging and Polished</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-fee-free-timing-devices/"><u>In 2024, Prime Fee-Free Timing Devices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-tutorial-how-to-add-motion-blur-in-blender/"><u>In 2024, Tutorial How To Add Motion Blur in Blender?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/lumafusion-one-of-the-best-video-editors-for-ios/"><u>LumaFusion – One of the Best Video Editors for iOS</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-apply-video-filters-mobile-and-desktop-for-2024/"><u>New How to Apply Video Filters Mobile and Desktop for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/steps-to-add-subtitles-in-canva/"><u>Steps to Add Subtitles in Canva</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-13-mini-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 13 mini Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-fun-ahead-top-10-game-download-sites-for-pc-android-and-beyond/"><u>Updated Free Fun Ahead Top 10 Game Download Sites for PC, Android, and Beyond</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-11-tools-to-create-radial-blur-photo-mobile-and-desktop/"><u>Updated In 2024, 11 Tools To Create Radial Blur Photo Mobile And Desktop</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Steps to Rotate Videos in Lightworks for 2024
-date: 2024-10-05T19:20:55.279Z
-updated: 2024-10-08T18:00:34.966Z
+date: 2024-10-14T02:21:24.864Z
+updated: 2024-10-14T20:30:50.726Z
 tags: 
   - ai
   - animation videos
@@ -151,78 +151,12 @@ Step 3: Click on the "Edit" tool above the timeline and go to the "Transform" se
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-9.png)
 
-Step 4: Select the desired rotation option.
-
-![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-10.png)
-
-Step 5: Click on the "Ok" button.
-
-![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-11.png)
-
-Your video will now be rotated by the selected number of degrees.
-
-In conclusion, Lightworks is a powerful video editing application that offers a lot of features and options. If you're looking for something with all the features you need, then it's a great choice. However, if you're on a tight budget, there are other applications available that may be more suitable for your needs.
-
-Filmora is a lightweight video editor that is easy to use and offers powerful features such as motion graphics, text editing, and audio editing. You can try it for free by downloading the trial version from the Filmora website.
-
-Step 2: Choose the portion of the video you want to rotate; if you want to rotate the entire movie, simply choose the entire video instead of a specific portion.
-
-![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-2.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-Step 3: Click on the "VFX" tab and go to the “3D DVE" section.
-
-![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-3.png)
-
-Step 4: Choose the Z axis and rotate the video to the desired degree. You can also modify the orientation of the video by entering a value in the box provided in front of the Z-axis.
-
-![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-4.png)
-
-Step 5: Click on the Enter in the keyboard button.
-
-![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-5.png)
-
-Your video will now be rotated by the selected number of degrees.
-
-## How to Rotate Videos in Filmora
-
-On the other hand, Lightworks has an alternative video editing tool which is [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . If you are looking for a lightweight video editor with an easy-to-use interface, then Filmora is the best option for you. It offers powerful features such as motion graphics, text editing, and audio editing, while still being very easy to use.
-
-You can try it for free by downloading the trial version from the Filmora website. Filmora also offers a wide range of export options, so you can easily share your videos with others. You can export your video as an MP4 or MOV file, or upload it directly to YouTube or Facebook.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-### Step-by-step on how to rotate videos in Filmora
-
-How to Manually Rotate a Video in Filmora
-
-To rotate videos in Filmora manually...
-
-Step 1: Import your video into the project.
-
-![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-6.png)
-
-Step 2: Click the video clip you want to rotate.
-
-![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-7.png)
-
-Step 3: Click on the "Edit" tool above the timeline and go to the "Transform" section. Then, select the “Rotate” option.
-
-![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-8.png)
-
-![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-9.png)
 
 Step 4: Select the desired rotation option.
 
@@ -294,12 +228,71 @@ Step 4: Select the desired rotation option.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+Step 5: Click on the "Ok" button.
+
+![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-11.png)
+
+Your video will now be rotated by the selected number of degrees.
+
+In conclusion, Lightworks is a powerful video editing application that offers a lot of features and options. If you're looking for something with all the features you need, then it's a great choice. However, if you're on a tight budget, there are other applications available that may be more suitable for your needs.
+
+Filmora is a lightweight video editor that is easy to use and offers powerful features such as motion graphics, text editing, and audio editing. You can try it for free by downloading the trial version from the Filmora website.
+
+Step 2: Choose the portion of the video you want to rotate; if you want to rotate the entire movie, simply choose the entire video instead of a specific portion.
+
+![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-2.png)
+
+Step 3: Click on the "VFX" tab and go to the “3D DVE" section.
+
+![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-3.png)
+
+Step 4: Choose the Z axis and rotate the video to the desired degree. You can also modify the orientation of the video by entering a value in the box provided in front of the Z-axis.
+
+![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-4.png)
+
+Step 5: Click on the Enter in the keyboard button.
+
+![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-5.png)
+
+Your video will now be rotated by the selected number of degrees.
+
+## How to Rotate Videos in Filmora
+
+On the other hand, Lightworks has an alternative video editing tool which is [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . If you are looking for a lightweight video editor with an easy-to-use interface, then Filmora is the best option for you. It offers powerful features such as motion graphics, text editing, and audio editing, while still being very easy to use.
+
+You can try it for free by downloading the trial version from the Filmora website. Filmora also offers a wide range of export options, so you can easily share your videos with others. You can export your video as an MP4 or MOV file, or upload it directly to YouTube or Facebook.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+### Step-by-step on how to rotate videos in Filmora
+
+How to Manually Rotate a Video in Filmora
+
+To rotate videos in Filmora manually...
+
+Step 1: Import your video into the project.
+
+![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-6.png)
+
+Step 2: Click the video clip you want to rotate.
+
+![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-7.png)
+
+Step 3: Click on the "Edit" tool above the timeline and go to the "Transform" section. Then, select the “Rotate” option.
+
+![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-8.png)
+
+![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-9.png)
+
+Step 4: Select the desired rotation option.
+
+![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-10.png)
 
 Step 5: Click on the "Ok" button.
 
@@ -375,6 +368,19 @@ Step6Once you are happy with all the changes you have made, click on “Export�
 
 ![save and export video](https://images.wondershare.com/filmora/article-images/2022/08/adding-text-to-video-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add text to Video on iPhone
 
 One of the easiest ways to edit a video on an iPhone is to use iMovie. This simple and effective solution can help you edit videos on your iPhone in numerous ways including adding text and subtitles. The following are simple steps to help you use iMovie to add text to a video on an iPhone;
@@ -383,16 +389,16 @@ Step1Open the video clip that you would like to add text to. Once the video is o
 
 ![text icon imovie](https://images.wondershare.com/filmora/article-images/2022/08/text-icon-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2Select the style you would like to use from the list of templates.
 
 ![select text style imovie](https://images.wondershare.com/filmora/article-images/2022/08/select-text-style-imovie.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3A sample text will appear on the screen. Tap on it and then select “Edit” to enter the desired text. Tap “Done” once you are done typing.
 
@@ -429,13 +435,6 @@ Step4Type in the text that you want to add to the video on the text box and then
 You can use PowerDirector to change the font, color, and text size or even add effects like Text shadow.
 
 ![edit text powerdirector](https://images.wondershare.com/filmora/article-images/2022/08/edit-text-powerdirector.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5When you're done editing the video, tap on the “Export” icon at the top-right corner of the screen and choose if you would like to save the video on the device or share it via a social media app.
 
@@ -557,6 +556,19 @@ Once the audio file has been separated, you can move forward and delete it. To d
 
 So here we go. Our video file has been synced with the high-quality audio file. You can now hit the Export button to get this edited file. But wait a minute. Didn't we say we'll show you a method to automatically sync audio with video? Let's start this method now.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps To Automatically Sync Audio With Video Using Filmora
 
 Did you find the above method troubling? Well, be assured because [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) can also automatically sync your audio file with video in a single click. Here are the steps to achieve this feat.
@@ -596,13 +608,6 @@ You can finish your editing when the separate audio file perfectly aligns with t
 Congratulations! We have successfully synced separate audio and video files. Now let's take a look at some hot FAQs before we end our guide.
 
 ## Part 4: FAQs About Synching Audio With Video
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Is auto synchronization better than manual syncing?
 
@@ -682,6 +687,13 @@ Once the audio file has been separated, you can move forward and delete it. To d
 
 ![delete the detached audio](https://images.wondershare.com/filmora/article-images/2023/04/delete-the-detached-audio.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step6Enjoy your video with the new audio track
 
 So here we go. Our video file has been synced with the high-quality audio file. You can now hit the Export button to get this edited file. But wait a minute. Didn't we say we'll show you a method to automatically sync audio with video? Let's start this method now.
@@ -709,6 +721,19 @@ Once you've got everything ready, select both your audio and files from the time
 When you select these files, you'll see that the "Auto Synchronization" icon has appeared on the toolbar below the Import Media section. Click on this icon and wait for the magic.
 
 ![click on the auto synchronization icon](https://images.wondershare.com/filmora/article-images/2023/04/auto-synchronization-with-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Remember that you need a Premium ID of Wondershare Filmora to use the Auto Synchronization option.
 
@@ -778,92 +803,12 @@ Select the Titles tab and drag the Default Title to the Timeline.
 
 ![add new title filmora](https://images.wondershare.com/filmora/article-images/2023/01/title.png)
 
-Step 4
-
-Double-click on the Default Title inside the Timeline and go to **Advanced.** Here, you can change the text, pick a new font, change its size, and so on. Make sure you change the Color Type to **Gradient Fill.** Choose a color of your own liking. When you’re done customizing it, click on **OK.**
-
-![advanced text settings](https://images.wondershare.com/filmora/article-images/2023/01/advanced.png)
-
-Step 5
-
-Right-click on the Default Title clip and select **Copy.** Then, right-click anywhere on the Timeline and select **Paste.** After this, drag the copy of that clip on the Track above it.
-
-![copy clip in filmora](https://images.wondershare.com/filmora/article-images/2023/01/copy.png)
-
-Step 6
-
-Double-click on the copied Title, go to **Advanced,** and change the Color Type to **Color Fill.** Click **OK.**
-
-![color type fill](https://images.wondershare.com/filmora/article-images/2023/01/color-fill.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-Step 7
-
-Next, take a snapshot of the new title. Then, delete the copied Title clip from your Timeline. After this, drag the snapshot into the Timeline.
-
-![snapshot filmora](https://images.wondershare.com/filmora/article-images/2023/01/snapshot.png)
-
-Step 8
-
-Double-click on the Snapshot clip and go to the **Mask** tab. From here, select the **Rectangle** mask. Then, rotate it as you see in the image below. Don’t click on OK yet.
-
-![add mask filmora](https://images.wondershare.com/filmora/article-images/2023/01/mask.png)
-
-Step 9
-
-Now, look at the settings panel on the left and scroll down. First, change its **Rotation** to **40**. Then, drag the **Blur** bar to **15**. Finally, move the Rectangle mask to the left side like in the image below. Don’t click OK yet.
-
-![mask settings filmora](https://images.wondershare.com/filmora/article-images/2023/01/rotation.png)
-
-Step 10
-
-Now, move the Playhead to the starting position on the Timeline. Then, click on the “**+Add**” button to add a keyframe. Next, move the Playhead a few seconds forward and move the Rectangle mask all the way to the right side of the text. Click **OK.**
-
-![add keyframe filmora](https://images.wondershare.com/filmora/article-images/2023/01/keyframe.png)
-
-Step 11
-
-You are finally done. You can review, Render, and Export the video now to use it as you wish. Congratulations on creating a light sweep effect in Filmora.
-
-Summary
-
-**What you've learned:**
-
-* How to create a modern light sweep effect in the Filmora video editor
-* How to use Masks in Filmora
-* Edit titles like a pro
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-If you haven’t already, go ahead and download the [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/). Install it and run the application on your computer.
-
-Step 2
-
-Create a New Project by clicking on the big blue button. Immediately after, go to **File → Project Settings.** Here, make sure the project is in full resolution and 60 fps.
-
-![project settings filmora](https://images.wondershare.com/filmora/article-images/2023/01/fps.png)
-
-Step 3
-
-Select the Titles tab and drag the Default Title to the Timeline.
-
-![add new title filmora](https://images.wondershare.com/filmora/article-images/2023/01/title.png)
 
 Step 4
 
@@ -876,13 +821,6 @@ Step 5
 Right-click on the Default Title clip and select **Copy.** Then, right-click anywhere on the Timeline and select **Paste.** After this, drag the copy of that clip on the Track above it.
 
 ![copy clip in filmora](https://images.wondershare.com/filmora/article-images/2023/01/copy.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 6
 
@@ -1026,12 +964,92 @@ Create a New Project by clicking on the big blue button. Immediately after, go t
 
 ![project settings filmora](https://images.wondershare.com/filmora/article-images/2023/01/fps.png)
 
+Step 3
+
+Select the Titles tab and drag the Default Title to the Timeline.
+
+![add new title filmora](https://images.wondershare.com/filmora/article-images/2023/01/title.png)
+
+Step 4
+
+Double-click on the Default Title inside the Timeline and go to **Advanced.** Here, you can change the text, pick a new font, change its size, and so on. Make sure you change the Color Type to **Gradient Fill.** Choose a color of your own liking. When you’re done customizing it, click on **OK.**
+
+![advanced text settings](https://images.wondershare.com/filmora/article-images/2023/01/advanced.png)
+
+Step 5
+
+Right-click on the Default Title clip and select **Copy.** Then, right-click anywhere on the Timeline and select **Paste.** After this, drag the copy of that clip on the Track above it.
+
+![copy clip in filmora](https://images.wondershare.com/filmora/article-images/2023/01/copy.png)
+
+Step 6
+
+Double-click on the copied Title, go to **Advanced,** and change the Color Type to **Color Fill.** Click **OK.**
+
+![color type fill](https://images.wondershare.com/filmora/article-images/2023/01/color-fill.png)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Step 7
+
+Next, take a snapshot of the new title. Then, delete the copied Title clip from your Timeline. After this, drag the snapshot into the Timeline.
+
+![snapshot filmora](https://images.wondershare.com/filmora/article-images/2023/01/snapshot.png)
+
+Step 8
+
+Double-click on the Snapshot clip and go to the **Mask** tab. From here, select the **Rectangle** mask. Then, rotate it as you see in the image below. Don’t click on OK yet.
+
+![add mask filmora](https://images.wondershare.com/filmora/article-images/2023/01/mask.png)
+
+Step 9
+
+Now, look at the settings panel on the left and scroll down. First, change its **Rotation** to **40**. Then, drag the **Blur** bar to **15**. Finally, move the Rectangle mask to the left side like in the image below. Don’t click OK yet.
+
+![mask settings filmora](https://images.wondershare.com/filmora/article-images/2023/01/rotation.png)
+
+Step 10
+
+Now, move the Playhead to the starting position on the Timeline. Then, click on the “**+Add**” button to add a keyframe. Next, move the Playhead a few seconds forward and move the Rectangle mask all the way to the right side of the text. Click **OK.**
+
+![add keyframe filmora](https://images.wondershare.com/filmora/article-images/2023/01/keyframe.png)
+
+Step 11
+
+You are finally done. You can review, Render, and Export the video now to use it as you wish. Congratulations on creating a light sweep effect in Filmora.
+
+Summary
+
+**What you've learned:**
+
+* How to create a modern light sweep effect in the Filmora video editor
+* How to use Masks in Filmora
+* Edit titles like a pro
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+If you haven’t already, go ahead and download the [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/). Install it and run the application on your computer.
+
+Step 2
+
+Create a New Project by clicking on the big blue button. Immediately after, go to **File → Project Settings.** Here, make sure the project is in full resolution and 60 fps.
+
+![project settings filmora](https://images.wondershare.com/filmora/article-images/2023/01/fps.png)
 
 Step 3
 
@@ -1113,22 +1131,22 @@ Summary
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-mastering-camera-balance-gimbals-for-drones-explained/"><u>[New] Mastering Camera Balance Gimbals for Drones Explained</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-accelerating-artistic-outputs-fast-tracked-google-collage-creation/"><u>[Updated] 2024 Approved Accelerating Artistic Outputs Fast-Tracked Google Collage Creation</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-capture-the-moment-iphone-xs-revolutionary-camera/"><u>[Updated] 2024 Approved Capture the Moment IPhone X's Revolutionary Camera</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-gif-building-an-understanding/"><u>2024 Approved How To Slow Down GIF Building an Understanding</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easily-sync-audio-with-video-with-filmora/"><u>Easily Sync Audio With Video With Filmora</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dolby-atmos-issue-troubleshooting-failed-launch-of-dolby-drivers-on-windows-11/"><u>Fixing Dolby Atmos Issue: Troubleshooting Failed Launch of Dolby Drivers on Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigate-the-tech-world-with-toms-hardware-experts/"><u>Navigate the Tech World with Tom's Hardware Experts</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-ideas-for-time-lapse-video/"><u>New Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-blur-faces-in-your-videos-read-this-article-to-find-out-the-easiest-way-to-blur-the-faces-in-videos-using-adobe-premiere-pro/"><u>New Do You Want to Blur Faces in Your Videos? Read This Article to Find Out the Easiest Way to Blur the Faces in Videos Using Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-5-free-online-video-filter-editors/"><u>New Top 5 Free Online Video Filter Editors</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/the-ultimate-winx-dvd-handbook-your-complete-tutorial-on-software-utilization-and-features/"><u>The Ultimate WinX DVD Handbook: Your Complete Tutorial on Software Utilization and Features</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unlocking-instagrams-soundscape-feature-for-2024/"><u>Unlocking Instagram’s Soundscape Feature for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-transform-your-video-how-to-adjust-shape-and-size/"><u>Updated 2024 Approved Transform Your Video How to Adjust Shape and Size</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-blur-photo-with-gimp-step-by-step-guide/"><u>Updated Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-first-timers-blueprint-for-youtube-income-for-2024/"><u>[Updated] The First-Timer's Blueprint for YouTube Income for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-losungen-und-schritte-wiederherstellung-und-offnen-von-word-dateien/"><u>1. Lösungen Und Schritte: Wiederherstellung Und Öffnen Von Word-Dateien</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-peeps-funny-photos-iphones-style/"><u>2024 Approved Peeps' Funny Photos, iPhones Style</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/a-guide-to-adding-audio-in-wondershare-filmora/"><u>A Guide to Adding Audio in Wondershare Filmora</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-oppo-find-x7-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Oppo Find X7 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deepcool-assassin-4s-cooler-evaluation-silent-and-powerful-performance/"><u>DeepCool Assassin 4S Cooler Evaluation: Silent and Powerful Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208360473-get-your-youtube-sound-back-addressing-and-repairing-audio-renderer-errors-in-windows-1nvite-the-audio-troubleshooting-community-with-expert-tips/"><u>Get Your YouTube Sound Back: Addressing and Repairing Audio Renderer Errors in Windows 1Nvite the Audio Troubleshooting Community with Expert Tips.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-asus-rog-phone-7-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Asus ROG Phone 7</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies/"><u>Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-top-10-sony-lut-for-different-purposes/"><u>New 2024 Approved Top 10 Sony LUT for Different Purposes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/shotcut-review-is-it-the-best-free-video-editor-for-2024/"><u>Shotcut Review – Is It The Best Free Video Editor for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-guide-top-rated-video-players-on-windows-phone-10-lumia-950-xl-user-reviews/"><u>Ultimate Guide: Top-Rated Video Players on Windows Phone 10 Lumia 950 XL - User Reviews</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-remove-audio-from-video-without-watermark/"><u>Updated How to Remove Audio From Video Without Watermark?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>Updated In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/you-can-easily-film-rotating-video-illusions-from-your-smartphone-and-edit-them-on-wondershare-filmora-in-just-a-few-clicks-for-2024/"><u>You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks for 2024</u></a></li>
 </ul></div>
 

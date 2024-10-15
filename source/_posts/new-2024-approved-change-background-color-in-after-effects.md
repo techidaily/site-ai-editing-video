@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Change Background Color in After Effects
-date: 2024-10-01T18:54:36.013Z
-updated: 2024-10-08T17:59:04.202Z
+date: 2024-10-07T16:48:39.246Z
+updated: 2024-10-14T23:01:27.343Z
 tags: 
   - ai
   - animation videos
@@ -97,13 +97,6 @@ Step3 Double-click on the video clip and go to Video tab and turn on Chroma Key 
 
 ![adjust chroma key filmora](https://images.wondershare.com/filmora/article-images/2022/07/adjust-chroma-key-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 You will see the background color of the video disappear. Go to Elements> Background and drag and drop any background into Timeline. Make sure it is placed below the video clip and extend the duration of the background color as per your requirements.
 
 ![new background video filmora](https://images.wondershare.com/filmora/article-images/2022/07/new-background-video-filmora.jpg)
@@ -168,6 +161,13 @@ Before we begin to edit our video, make sure you download Wondershare Filmora. F
 
 ![add video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2 Add the Same Video again
 
 We aim to create a black background for the original video we imported above. To do so, follow the steps mentioned below.
@@ -291,6 +291,19 @@ You will immediately see changes to your video in the main play window. Play the
 ![final results of neon dance effect](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-12.gif)
 
 Congratulations! You have successfully created Neon Dance effects by using the user-friendly Wondershare Filmora.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -337,6 +350,13 @@ After adding the same video, now convert BG into a black screen. For this, follo
 
 ![changing the blending mode to difference](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * As soon as you click on the Difference option, you will notice a change in the main play window; it will all turn to a **black screen**.
 
 ##### Step4 Add the Pixelated Edges effect
@@ -348,13 +368,6 @@ Our target is to outline the individual in the video, so we can move on to creat
 * You will notice a search bar in the top right corner. Type "**Pixelated edges,**" and you will see some effects pop up in the import window.
 
 ![searching for pixelated edges effect](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Select the Pixelated edges effect. Then, click and drag it below the video that we turned to black using the **Difference**
 * The edges of the individual dancing in the video will be outlined.
@@ -414,13 +427,6 @@ To efficiently blend the outlines with the green screen, you can change the blen
 
 ![change the blending mode to lighten](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step8 Add the Glow effect
 
 To make the outlines glow like Neon lights, we will need to add another effect from the effects library.
@@ -451,13 +457,6 @@ You will immediately see changes to your video in the main play window. Play the
 ![final results of neon dance effect](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-12.gif)
 
 Congratulations! You have successfully created Neon Dance effects by using the user-friendly Wondershare Filmora.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -512,6 +511,13 @@ Step3 Next, click the **“Filters”** option from the top toolbar, select **�
 
 Step4 Once you are satisfied with your changes, click **“OK”** to apply the effect to the image, and make some other edits if needed. Finally, click **“File”** from the top toolbar, choose **“Export As,”** click **“File Type”** to select the format, and select the **“Export”** option to save your file.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus Tips – The Alternative To GIMP To Create Motion Blur Effect
 
 GIMP is a popular image editor that you can use to create motion blur effects. However, some users find it difficult to use the software for this purpose.
@@ -548,6 +554,13 @@ Step5 Once satisfied with the outcome, click the "Export" option, go to the **"L
 
 ![exporting file from filmora](https://images.wondershare.com/filmora/article-images/2023/02/exporting-file-from-filmora.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Filmora offers many export options, such as your device, YouTube, Vimeo, and DVD, with just a few clicks.
 
 ## Last Words
@@ -588,13 +601,6 @@ Step5 Once satisfied with the outcome, click the "Export" option, go to the **"L
 
 Filmora offers many export options, such as your device, YouTube, Vimeo, and DVD, with just a few clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Last Words
 
 In this detailed tutorial, we’ve discussed what GIMP is and its key features. We’ve provided a step-by-step guide to walk you through the process of creating the motion blur effect using the GIMP software.
@@ -608,13 +614,6 @@ Hopefully, you found this article helpful in resolving your queries, and you can
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Convert MP4 to 60 FPS GIF: A Step-by-Step Guide
 
@@ -740,13 +739,6 @@ There are various tools available, both online and desktop-based, that can conve
 
 ![wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Not only does it allow you to easily convert your videos to GIFs, but it also allows you to customize the frame rate and other settings to get the perfect results. With its user-friendly interface and powerful features, Filmora makes it simple for anyone to create high-quality GIFs that are perfect for sharing on social media or other platforms.
 
 Here's how to convert MP4 to GIF using Filmora:
@@ -754,6 +746,19 @@ Here's how to convert MP4 to GIF using Filmora:
 Step1 **Open** the Filmora software and **create** a new project
 
 ![filmora new project](https://images.wondershare.com/filmora/article-images/filmora-new-project.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 **Import** your video to the timeline
 
@@ -781,20 +786,27 @@ Step1 Upload a video from your computer or **drag** and **drop** it onto the pag
 
 ![media io upload video](https://images.wondershare.com/filmora/article-images/media-io-upload-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Customize the output size, frame rate, and length, and add text before creating your GIF.
 
 ![media io edit settings](https://images.wondershare.com/filmora/article-images/media-io-edit-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Download the resulting GIF file or **save** it for later.
 
 ![media io download gif](https://images.wondershare.com/filmora/article-images/media-io-download-gif.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## People Also Ask
 
@@ -838,19 +850,14 @@ There are various tools available, both online and desktop-based, that can conve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-audiovisual-harmony-merging-audio-and-visual-elements-on-youtube/"><u>[Updated] In 2024, Audiovisual Harmony Merging Audio and Visual Elements on YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastery-in-mac-screen-capture-format-conversion/"><u>2024 Approved Mastery in Mac Screen Capture Format Conversion</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-art-of-cinematography-basic-shots-explained/"><u>2024 Approved Unveiling the Art of Cinematography Basic Shots Explained</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/clarity-command-conquer-twisters-for-perfection/"><u>Clarity Command: Conquer Twisters for Perfection</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-strobe-light-text-effect-in-2024/"><u>How to Make Strobe Light Text Effect, In 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-nokia-xr21-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Nokia XR21 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/modificatore-foto-app-per-mac-prodotto-da-movavi-trasforma-le-tue-immagini-in-minuti/"><u>Modificatore Foto App per Mac Prodotto Da Movavi: Trasforma Le Tue Immagini in Minuti!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-use-virtual-green-screen-to-shoot-video/"><u>New 2024 Approved How To Use Virtual Green Screen to Shoot Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-3-in-camera-transitions-tricks-to-make-videos-like-a-pro-for-2024/"><u>Updated 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-benefits-of-live-streaming-on-youtube/"><u>Updated Benefits of Live Streaming on YouTube</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vsco-slow-motion/"><u>VSCO Slow Motion</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-xiaomi-redmi-note-13-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Xiaomi Redmi Note 13 Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-glitch-effect-with-filmora/"><u>2024 Approved How to Make Glitch Effect with Filmora</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-lava-yuva-3-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Lava Yuva 3 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/creating-a-prime-business-channel-top-picks-and-simple-steps-for-2024/"><u>Creating a Prime Business Channel Top Picks & Simple Steps for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-know-how-to-create-a-lol-montage-video-had-you-ever-tried-that-video-type-before-connect-with-this-article-to-study-the-tips-and-tricks-assoc/"><u>In 2024, Do You Know How to Create a Lol Montage Video? Had You Ever Tried that Video Type Before? Connect with This Article to Study the Tips and Tricks Associated with the Making of Montage Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hybridmix-pro-for-dual-os/"><u>In 2024, HybridMix Pro for Dual OS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-12-mini-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 12 mini Making It Possible</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-c55s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Realme C55s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-adding-audio-in-wondershare-filmora/"><u>New 2024 Approved Guide Adding Audio in Wondershare Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-the-popular-video-text-effects-to-your-video-in-2024/"><u>New How to Add the Popular Video Text Effects to Your Video, In 2024</u></a></li>
 </ul></div>
 

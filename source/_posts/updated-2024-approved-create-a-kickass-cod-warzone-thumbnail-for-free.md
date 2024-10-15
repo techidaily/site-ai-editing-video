@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free
-date: 2024-10-07T16:21:42.423Z
-updated: 2024-10-08T18:02:20.853Z
+date: 2024-10-12T17:10:54.707Z
+updated: 2024-10-14T16:20:00.017Z
 tags: 
   - ai
   - animation videos
@@ -137,13 +137,6 @@ This video is made by [Red Arcade](https://www.youtube.com/watch?v=u1UFojIiiK8).
 
 The thumbnail shows a screenshot from Warzone. A player's character is in the middle, with his back facing the camera. The words "AFK. Don't shoot!" are written on the wall he is facing. The character is viewed through a sniper scope. It's more "funny" than cool. But for what the video is about, it works fantastic.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Clean House \[PS5 UHD 4K\] Next-Gen Ultra Realistic Graphics PlayStation 5 Call of Duty Gameplay
 
 ![warzone thumbnail by hedgehog](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-3.JPG)
@@ -195,6 +188,13 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![select project settings](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. In the pop-up window, set the resolution to 1280\*720, which is the recommended resolution of YouTube Thumbnail.
 1. Drag and drop the screenshot you took into the Filmora window. Alternatively, click the "Click here to import media" link to locate and import it.
 
@@ -234,22 +234,16 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![opening the folder containing the snapshot](https://images.wondershare.com/filmora/article-images/reveal-in-explorer-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Use the screenshot as your video thumbnail.
 
 ![warzone video thumbnail made with filmora](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-result.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -275,13 +269,6 @@ Research is always key to accomplishing something. If you want to create kickass
 
 Let us help you with that. Here are 5 Call of Duty: Warzone thumbnails you should check out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Call of Duty Warzone: THE BATTLE OF VERDANSK GAMEPLAY! (No Commentary)
 
 ![warzone thumbnail by noannoyingcommentary](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-1.JPG)
@@ -291,13 +278,6 @@ This video from the channel [NoAnnoyingCommentary](https://www.youtube.com/watch
 ### 2\. TOP 300 FUNNIEST FAILS IN WARZONE
 
 ![warzone thumbnail by red arcade](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-2.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This video is made by [Red Arcade](https://www.youtube.com/watch?v=u1UFojIiiK8). It has attracted more than 12 million views. Admittedly, the title and the video concept are already enough to attract many viewers. But we can't say that the thumbnail did not help. It's actually really good.
 
@@ -360,6 +340,13 @@ The Best Laptops For Video Editing
 Acer Predator Triton 300 SE
 
 ![Filmora Note](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Tips:** This powerful Acer laptop is perfect for everyday tasks and will run your video editing software super smooth. With its powerful Intel i7 processor that holds a 3.30 GHz speed, editing video content will feel like never before.
 
@@ -468,13 +455,6 @@ It holds a GeForce RTX 3060 graphics card that has a 6 GB memory capacity for fl
 ## 2\. Dell XPS 17 (2021)
 
 ![Dell XPS 17 (2021)](https://images.wondershare.com/filmora/article-images/2022/06/the-best-laptops-for-video-editing-03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dell XPS 17 (2021)
 
@@ -586,6 +566,13 @@ Step 3On the new editor window, go to Effects> VST Effects and click on mdaDelay
 
 ![vst effects mdadelay so](https://images.wondershare.com/filmora/article-images/2022/08/vst-effects-mdadelay-so.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4From the pop-up window, you can adjust different parameters as per your preference for the enhanced echo effect. Click on Apply button.
 
 ![apply enhanced echo effect](https://images.wondershare.com/filmora/article-images/2022/08/apply-enhanced-echo-effect.jpg)
@@ -644,6 +631,13 @@ Step 5Play the video and go to File> Share> File option to export the edited vid
 
 ![share files imovie](https://images.wondershare.com/filmora/article-images/2022/08/share-files-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 Adding echo effect to video is a common trend when you want to emphasize what you are speaking. The echo effect sounds different and hence, it grabs the attention of the audience instantly. We have illustrated how you can add echo effect to your video online as well as on your computer. We highly recommend Wondershare Filmora to instant put echo effect to your video on Windows PC and Mac.
@@ -661,6 +655,13 @@ Step 1Download and install Filmora. Launch the application and click on New Proj
 Step 2Go to File> Import Media and click on Import Media Files option. Select your video file from your storage device. Otherwise, you can drag and drop the video on Project Media and drop the video on Timeline.
 
 ![import media files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3Click on Effects option located at the top and search for “echo”. Drag and drop the Echo effect on your video located on Timeline.
 
@@ -787,6 +788,13 @@ After previewing the clip, you will soon realize that your video is going too sl
 
 ![change video speed in canva 3](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) After the clip has been uploaded, a new tab will open up. Here you will find an option named "**multiplier**." Changing its value from greater than **one** will make your video move fast.
 
 ![change video speed in canva image](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-9.png)
@@ -794,6 +802,13 @@ After previewing the clip, you will soon realize that your video is going too sl
 3) Adjustust the desired multiplier value and select "**change video speed**."
 
 ![change video speed in canva tool](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Eizgif also gives you the freedom to adjust sound, if your video has any_
 
@@ -866,34 +881,13 @@ Speed ramp is a unique feature in Filmora which allows you to apply acceleration
 
 ![canva video speed increase 1](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-19.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3Export the Final Speed-Up Video
 
 1) After changing the video speed in Filmora, save it on your desktop. For that, move to the top left corner and select "**File<Save Project**."
 
 ![canva video speed increase 2](https://images.wondershare.com/filmora/article-images/2023/01/how-to-speed-up-video-in-canva-20.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) You can also use the "**Export**" option to move it to a local folder.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -963,24 +957,22 @@ This was our two cents on how you can speed up a video on Canva. In the end, spe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-proficiently-upload-impressive-elongated-youtube-content/"><u>[New] 2024 Approved How to Proficiently Upload Impressive, Elongated YouTube Content</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-ensuring-correct-ad-revenue-a-comprehensive-guide-to-yt-channel-earnings/"><u>[New] In 2024, Ensuring Correct Ad Revenue A Comprehensive Guide to YT Channel Earnings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/1716068938201-new-in-2024-seeking-the-best-ps2-games-try-these-5-android-emulators/"><u>[New] In 2024, Seeking the Best PS2 Games? Try These 5 Android Emulators!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unbeatable-6-apps-for-crafting-perfect-reels-on-instagram/"><u>[Updated] In 2024, Unbeatable 6 Apps for Crafting Perfect Reels on Instagram</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-a-step-by-step-guide-to-including-vimeo-on-instagram/"><u>2024 Approved A Step-by-Step Guide to Including Vimeo on Instagram</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-adjust-the-tiktok-videos-length-to-make-them-captivating/"><u>2024 Approved Adjust the TikTok Videos Length to Make Them Captivating</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-is-a-recommendation-about-bandicut-if-you-are-confused-please-check-it-out/"><u>2024 Approved This Is a Recommendation About Bandicut. If You Are Confused, Please Check It Out</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-ultimate-guide-to-convert-srt-to-txt-in-minutes/"><u>2024 Approved Ultimate Guide to Convert SRT to TXT in Minutes</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1726026363516-3/"><u>無料映像のプライバシー保護用、3つのおすすめフリーソフトウェア</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-free-luts-to-use-in-shotcut/"><u>Best Free LUTs To Use in Shotcut</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-excel-pivottable-overlap-error-troubleshooting-guide-by-stellar-guide/"><u>Fixed Excel PivotTable Overlap Error | Troubleshooting Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-6s-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 6s Apple ID and Apple Pay</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone-for-2024/"><u>How to Loop a Video with iMovie on Mac and iPhone for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-complete-guide-to-make-a-super-easy-rotating-video-effect/"><u>New 2024 Approved Complete Guide to Make a Super Easy Rotating Video Effect</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-freeze-frame-to-your-video-from-any-device/"><u>New 2024 Approved How to Add Freeze Frame to Your Video From Any Device?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-add-vhs-effects-to-videos-for-free-a-2024-guide/"><u>New Add VHS Effects to Videos for Free A 2024 Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/revolutionize-your-youtube-presence-with-personalized-thumbnails-for-2024/"><u>Revolutionize Your YouTube Presence with Personalized Thumbnails for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/ten-proven-methods-for-correcting-phantom-inputs-on-iphones/"><u>Ten Proven Methods for Correcting Phantom Inputs on iPhones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-complete-users-manual-on-durecorder/"><u>[New] 2024 Approved The Complete User’s Manual on DuRecorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quick-tips-making-high-quality-recordings-on-iphone/"><u>[New] Quick Tips Making High-Quality Recordings on iPhone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-essential-steps-for-organizing-youtube-content/"><u>[Updated] 2024 Approved Essential Steps for Organizing YouTube Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-firefox-recording-software/"><u>[Updated] Leading Firefox Recording Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-transform-every-moment-top-ideas-for-productive-podcast-sessions/"><u>2024 Approved Transform Every Moment Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/if-you-want-to-make-an-intro-video-then-adobe-after-effects-will-be-a-great-choice-this-article-will-show-the-steps-to-create-an-intro-video-with-after-effe/"><u>If You Want to Make an Intro Video, Then Adobe After Effects Will Be a Great Choice. This Article Will Show the Steps to Create an Intro Video with After Effects by Your Own</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-vintage-film-effect-1950s/"><u>New How to Create Vintage Film Effect 1950S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-the-premiere-pro-video-templates-help-make-original-content-of-broadcast-quality-the-article-introduces-10-free-premiere-pro-templates-that-are-sure-to-/"><u>New The Premiere Pro Video Templates Help Make Original Content of Broadcast Quality. The Article Introduces 10 Free Premiere Pro Templates that Are Sure to Make Your Life Easy</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-iis-management-entry/"><u>Unveiling the Secrets of IIS Management Entry</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>Updated Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-cropping-and-combining-content-in-wondershare-filmora-latest-for-2024/"><u>Updated Guide To Cropping and Combining Content in Wondershare Filmora Latest for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
 </ul></div>
 

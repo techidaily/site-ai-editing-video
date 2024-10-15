@@ -1,7 +1,7 @@
 ---
 title: Updated Create Motion Effect with Path Blur In Photoshop for 2024
-date: 2024-10-06T16:54:29.877Z
-updated: 2024-10-08T20:00:30.467Z
+date: 2024-10-12T18:37:27.896Z
+updated: 2024-10-15T02:48:18.511Z
 tags: 
   - ai
   - animation videos
@@ -43,18 +43,18 @@ Step2 Now proceed to the "Filter" section and locate the option "Blur Gallery". 
 
 ![choose the path blur](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Create a Long Exposure Picture
 
 Step1 Navigate to the Adobe Photoshop tool and begin by uploading a picture. Afterward, go to the "Filter" tab and select "Convert for Small Filters."
 
 ![select convert for the smart filters option](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Now go to the "Filter" tab again and choose the "Blur Gallery" option. From there, select the "Path Blur" option. Now adjust the displayed arrow in a particular direction to decide the starting and endpoint of the path blur. Moreover, modify the "Speed" slider according to your choice.
 
@@ -71,6 +71,13 @@ Step4 Utilize the noise section to add a grainy effect in the blurred area. Once
 Step5 In the fill menu, choose the color "Black." Now go to the "Select" section and click "Deselect." To soften the whole look, you can go to the "Properties" panel and adjust the "Feather" properties.
 
 ![adjust the feather properties](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step6 Now add the first layer and choose the option "Convert for Smart Filters." Again, go to the "Filter" section, select "Blur Gallery," and uncheck the option called "Edit Blur Screen."
 
@@ -107,16 +114,10 @@ To split, choose the starting and ending point in the clip where you want to add
 ![split the added clip](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-12.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step3 Apply the Transition
@@ -155,13 +156,6 @@ Once you have added the motion blur effect, you can check the results from the p
 
 ![access transitions tab](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If you want to display a sense of speed and movement in the picture, you can add a path blur effect. It's one of the types of motion blur effects that many people use in their pictures to add a dynamic element. By reading this article, you have learned how to add **path blur in Photoshop** through simple means. Moreover, you can also explore the tool Filmora to create a motion blur effect in the photos effortlessly.
@@ -187,27 +181,20 @@ As more than 100 million individuals use Canva every month, it’s a well-truste
 
 ![canva featured image](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: What is Canva?
 
 To create and edit videos flawlessly, Canva offers great options. It contains pre-sized video formats for YouTube, Facebook, and other social media platforms. If you are a beginner and struggling with ideas, Canva offers various templates of different categories, such as fitness, education, fashion, and real estate. Apart from using the built-in media library, you have complete freedom to upload your media files to add further modifications.
 
 ![canva editor interface](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Furthermore, using Canva, you can also add exciting animations and transitions to your videos to generate a smooth look. You can also add multiple overlays to add more dimensions to your video clips. Also, you can use the **Canvas captions** feature to generate customized subtitles for your video files. To learn more about Canva, let’s shed light on its key features, advantages, and pricing plans:
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Features of Canva
 
@@ -269,13 +256,6 @@ Download and launch Filmora on your desktop to initiate the process. On its main
 
 ![import your video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2 Select Speech-to-Text Feature
 
 Once done with uploading the file, drag the video file to the timeline. Click on the “Speech-to-Text” icon displayed on the timeline and hit the “OK” button after selecting the required language and file. After some seconds, subtitles would be automatically added to the timeline.
@@ -309,6 +289,13 @@ Step1 Begin by visiting the [video editor tool page of Canva](https://www.canva.
 Step2 Now, hit the "Upload Files" button from the left panel and import the video file on this tool. Once done, navigate to the "Text" tab and tap "Add a little bit of body text." Now adjust the position of the text box according to your desire. You can write your **Canva captions** by choosing your preferred font, color, size, and style.
 
 ![upload your video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 You can also add effects and animation to your added subtitles for more enhancements. Once done with customizations, click on the “Share” button. Here select MP4 as the video file format and save the video on your system.
 
@@ -346,18 +333,18 @@ On your timeline, double-click on the auto-generated subtitles to open the edit 
 
 ![modify your added subtitles](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Export the Video File
 
 Once you are done with all the subtitle edits, click on the “Export” button. Filmora provides you with various export resolution options and file formats that you can choose. Moreover, you can also share the video file to your desired social media platform, such as YouTube, Vimeo, or TikTok.
 
 ![export or share the filmora video](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -419,6 +406,13 @@ Step4 To add end credits to the video, simply select “End Credit” under “T
 
 You can then click on the titles, end credits, and openers to edit the text by changing the color and fonts to match your brand.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Improve Title Effects in Video
 
 Simply adding a title or text to the video will not do much to improve the quality of the video. You need to add effects that will not only make the videos more appealing but will also correspond with your brand colors.
@@ -444,10 +438,10 @@ To customize the text that you added to the video, double-click on it in the tim
 ![apply text animation](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you are happy with the animation and would like to include it in your project, click on “OK” to use it.
@@ -662,19 +656,17 @@ Beginning to experiment with all of Final Cut Pro X's functions and determining 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-engage-more-users-with-dual-stream-approach-ytplustwitch/"><u>[Updated] In 2024, Engage More Users with Dual-Stream Approach (YT+Twitch)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-is-a-recommendation-about-bandicut-if-you-are-confused-please-check-it-out/"><u>2024 Approved This Is a Recommendation About Bandicut. If You Are Confused, Please Check It Out</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hassle-free-usb-30-compatibility-ensuring-proper-functionality-in-windows-environments/"><u>Hassle-Free USB 3.0 Compatibility: Ensuring Proper Functionality in Windows Environments</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-do-masking-in-after-effects-alternative-provided-for-2024/"><u>How to Do Masking in After Effects Alternative Provided for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-guide-for-setting-tiktok-countdown-timer/"><u>In 2024, Best Guide for Setting TikTok Countdown Timer</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-decoding-the-secret-of-highest-quality-youtube-mp3s/"><u>In 2024, Decoding the Secret of Highest Quality YouTube MP3s</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-grasp-free-to-use-vimeo-editing-techniques/"><u>In 2024, Grasp Free-to-Use Vimeo Editing Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-flip-and-rotate-the-top-free-iphone-video-editing-apps/"><u>New 2024 Approved Flip and Rotate The Top Free iPhone Video Editing Apps</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-freeze-frame-to-your-video-from-any-device/"><u>New 2024 Approved How to Add Freeze Frame to Your Video From Any Device?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-free-ways-to-download-mobile-phone-green-screen-videos-and-pictures-no-copyright/"><u>New Free Ways to Download Mobile Phone Green Screen Videos and Pictures No Copyright</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/small-businesss-safest-video-conferencing-top-picks-for-2024/"><u>Small Business's Safest Video Conferencing Top Picks for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ultimate-relaxation-top-10-mobile-idle-games/"><u>Ultimate Relaxation Top 10 Mobile Idle Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-soundtrack-of-successful-snapchat-stories/"><u>[Updated] 2024 Approved The Soundtrack of Successful Snapchat Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-strategies-to-outlast-your-competitors-in-snapping-for-2024/"><u>[Updated] Strategies to Outlast Your Competitors in Snapping for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-mobile-filmmakers-playbook-crafting-compelling-youtubes-thumbnails/"><u>[Updated] The Mobile Filmmaker’s Playbook Crafting Compelling YouTubes Thumbnails</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-z-fold-5-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy Z Fold 5 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-freeze-frame-sequence-in-video/"><u>In 2024, How to Create A Freeze Frame Sequence in Video</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nokia-xr21-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nokia XR21</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-zoom-video-in-vlc-media-player/"><u>In 2024, How to Zoom Video in VLC Media Player</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-using-luts-perfectly-in-final-cut-pro-for-2024/"><u>New Guide To Using Luts Perfectly in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-whatre-the-best-alternatives-to-pexels/"><u>New Whatre the Best Alternatives to Pexels?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/revive-your-profile-resetting-2023s-facebook-error-for-2024/"><u>Revive Your Profile Resetting 2023'S Facebook Error for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-low-light-guru-writes-for-iphone-users/"><u>The Low Light Guru' Writes for iPhone Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y78-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y78 5G Device</u></a></li>
 </ul></div>
 
