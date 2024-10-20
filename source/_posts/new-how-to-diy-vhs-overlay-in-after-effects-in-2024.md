@@ -1,7 +1,7 @@
 ---
 title: New How to DIY VHS Overlay in After Effects, In 2024
-date: 2024-10-07T18:52:57.935Z
-updated: 2024-10-14T16:27:33.838Z
+date: 2024-10-16T16:51:55.088Z
+updated: 2024-10-20T16:44:54.786Z
 tags: 
   - ai
   - animation videos
@@ -266,13 +266,6 @@ Moreover, if you are into print and website design, you will find Envato Element
 
 ![envato elements website](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. [Storyblocks](https://www.storyblocks.com/video/premiere-pro-templates)
 
 Storyblocks are the next big thing if you need to download Premiere templates without much effort. This website presents an awful load of green screen footage, music and sound effects, animated backgrounds, royalty stock footage, and templates for Premiere Pro. It also has a Maker, enabling the user to make the professional video in seconds.
@@ -298,10 +291,10 @@ You can have Adobe Premiere Pro, Final Cut, DaVinci, and After Effects templates
 ![premiere pro templates by motion array](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. [Adobe Stock](https://stock.adobe.com/search/templates?k=premiere)
@@ -320,13 +313,6 @@ Moreover, Mixkit can be used for stock videos, music, sound effects, and music t
 
 ![mixkit premiere pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. [VideoHive](https://videohive.net/category/premiere-pro-templates)
 
 VideoHive offers the best quality and fast researched Premiere Pro templates. With more than 9,100 free Adobe Premiere templates, VideoHive helps add motion graphics and effects to your videos. Most filmmakers prefer the usage of motion graphics as it improves time and cost-effectiveness and enhances ease in adding animations to the projects.
@@ -334,6 +320,13 @@ VideoHive offers the best quality and fast researched Premiere Pro templates. Wi
 If you are interested in making a slideshow, animated title, transition, or logo stings, you will find VideoHive there for you.
 
 ![templates for premiere pro by videohive](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. [Videezy](https://www.videezy.com/free-video/premiere-pro-templates)
 
@@ -411,109 +404,6 @@ How to create a 1950s vintage film:
 
 ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
-
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
-
-Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
-
-![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
-
-Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
-
-##### Step 3 Add a Warm Film color effect
-
-![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
-
-Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
-
-##### Step 4 Apply more graininess to the film
-
-![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
-
-Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
-
-## Summary
-
-And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
-
-First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
-
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
-
-Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
-
-![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
-
-Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
-
-##### Step 3 Add a Warm Film color effect
-
-![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
-
-Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
-
-##### Step 4 Apply more graininess to the film
-
-![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
-
-Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
-
-## Summary
-
-And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
-
-First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
-
-##### Step 2 Apply a cropping effect to the video
-
-![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
-
-Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
-
-![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
-
-Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
-
-##### Step 3 Add a Warm Film color effect
-
-![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
-
-Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
-
-##### Step 4 Apply more graininess to the film
-
-![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
-
-Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
-
-## Summary
-
-And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
-
 First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
 
 ##### Step 2 Apply a cropping effect to the video
@@ -525,10 +415,10 @@ Once the video is successfully added to Filmora, click the **Effect** tab on the
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
@@ -544,6 +434,122 @@ Up to here, you'll realize that your video doesn't still look like a 1950s film 
 ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Summary
+
+And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
+
+First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
+
+##### Step 2 Apply a cropping effect to the video
+
+![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+
+Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
+
+![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
+
+Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
+
+##### Step 3 Add a Warm Film color effect
+
+![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+
+Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
+
+##### Step 4 Apply more graininess to the film
+
+![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+
+Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
+
+## Summary
+
+And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
+
+First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
+
+##### Step 2 Apply a cropping effect to the video
+
+![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+
+Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
+
+![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
+
+Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
+
+##### Step 3 Add a Warm Film color effect
+
+![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+
+Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
+
+##### Step 4 Apply more graininess to the film
+
+![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+
+Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
+
+## Summary
+
+And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
+
+First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
+
+##### Step 2 Apply a cropping effect to the video
+
+![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
+
+Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
+
+![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
+
+Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
+
+##### Step 3 Add a Warm Film color effect
+
+![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+
+Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
+
+##### Step 4 Apply more graininess to the film
+
+![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+
+Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -562,13 +568,6 @@ Gaming is a popular video category. And COD: Warzone is one of the most popular 
 With kickass thumbnails, the eyes of users searching for Call of Duty: Warzone videos will be attracted to your content. If your content is good, that will convert to an increase in views and subscribers.
 
 ![how to create cod warzone thumbnail](https://images.wondershare.com/filmora/article-images/create-cod-warzone-thumbnail.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How To Make an Impressive Warzone Thumbnail for Free
 
@@ -610,6 +609,19 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![importing the image to wondershare filmora](https://images.wondershare.com/filmora/article-images/import-screenshot-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Drag the Media to the Timeline, Add Effects, Stickers & Texts
 
 1. Drag the image from the Project Media section into the timeline.
@@ -682,6 +694,13 @@ This video from the channel [NoAnnoyingCommentary](https://www.youtube.com/watch
 
 ![warzone thumbnail by red arcade](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-2.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This video is made by [Red Arcade](https://www.youtube.com/watch?v=u1UFojIiiK8). It has attracted more than 12 million views. Admittedly, the title and the video concept are already enough to attract many viewers. But we can't say that the thumbnail did not help. It's actually really good.
 
 The thumbnail shows a screenshot from Warzone. A player's character is in the middle, with his back facing the camera. The words "AFK. Don't shoot!" are written on the wall he is facing. The character is viewed through a sniper scope. It's more "funny" than cool. But for what the video is about, it works fantastic.
@@ -693,13 +712,6 @@ The thumbnail shows a screenshot from Warzone. A player's character is in the mi
 This video from [HEDGEHOG ヅ](https://www.youtube.com/watch?v=wQlxN49jn6Y) has a whopping 12 million views. Again, the title likely is the main reason why it got that many views. But for sure, people did not read that long title at first. They were drawn to it by the thumbnail.
 
 The thumbnail shows a clear-as-crystal screenshot of a team of 4 players on the battlefield. At the top left corner is the PS5 logo. Then, at the bottom left is an icon that says the video is in 4K UHD. If you're also uploading 4K Warzone videos, you can try doing this. Users are attracted to videos that are eye-pleasing.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Call of Duty: Warzone Battle Royale | RTX 3080 10GB ( 4K Maximum Settings Ray Tracing OFF )
 
@@ -817,13 +829,6 @@ Let us help you with that. Here are 5 Call of Duty: Warzone thumbnails you shoul
 
 This video from the channel [NoAnnoyingCommentary](https://www.youtube.com/watch?v=k3pBdi2Cf9Y) has 3.3 million views. It shows the player pointing their gun upwards. Flying in the sky are many fighter planes (obviously edited.) Then, a sepia filter is applied to make it look like a shot from past real-world wars. It is cool and sure to attract the attention of the COD: Warzone demographics.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. TOP 300 FUNNIEST FAILS IN WARZONE
 
 ![warzone thumbnail by red arcade](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-2.JPG)
@@ -843,6 +848,13 @@ The thumbnail shows a clear-as-crystal screenshot of a team of 4 players on the 
 ### 4\. Call of Duty: Warzone Battle Royale | RTX 3080 10GB ( 4K Maximum Settings Ray Tracing OFF )
 
 ![warzone thumbnail by gtx 1050 ti](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-4.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The thumbnail for this video (made by [GTX 1050 Ti](https://www.youtube.com/watch?v=fU9zMSBcius)), with 5.2 million views, is just an in-game screenshot. At the top-right is a large logo of GEFORCE RTX 3080 and at the bottom left is an Intel logo. Like the previous one, it attracts viewers by stating the visual appeal of the video.
 
@@ -876,21 +888,16 @@ Your best option is Wondershare Filmora. Why? Because it is a thumbnail maker an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-diversify-earnings-multiplying-revenue-with-mobile-video-content/"><u>[New] 2024 Approved Diversify Earnings Multiplying Revenue with Mobile Video Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-10-ultimate-audio-capture-plugins-for-spotify/"><u>[New] 2024 Approved Top 10 Ultimate Audio Capture Plugins for Spotify</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-a-list-playbook-swiftly-climb-the-social-ladder-on-instagram-with-these-essentials/"><u>[Updated] The A-List Playbook Swiftly Climb the Social Ladder on Instagram with These Essentials</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-easy-steps-to-create-intro-video-with-after-effects/"><u>2024 Approved Easy Steps to Create Intro Video with After Effects</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-xiaomi-redmi-13c-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/effortless-imovie-music-enhancement-using-youtube-songs-for-2024/"><u>Effortless iMovie Music Enhancement Using YouTube Songs for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-advantages-of-upgraded-iphones/"><u>Exploring the Advantages of Upgraded iPhones</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-honor-x9a-by-drfone-android/"><u>In 2024, How to Bypass FRP on Honor X9a?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-8-upgrades-for-webcam-video-quality-for-2024/"><u>Innovative 8 Upgrades for Webcam Video Quality for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-ideas-for-time-lapse-video/"><u>New 2024 Approved Ideas for Time-Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-add-transition-effects-in-premiere-pro/"><u>New Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-youtube-intro-for-2024/"><u>New How To Create A YouTube Intro for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-save-as-mp4-file-on-windows-movie-maker/"><u>New How to Save As MP4 File on Windows Movie Maker?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/powerhouse-performance-in-small-packages-top-mini-pc-picks-for-gamers/"><u>Powerhouse Performance in Small Packages: Top Mini PC Picks for Gamers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-mirror-a-video-clip-in-premiere-pro/"><u>Updated 2024 Approved How To Mirror a Video Clip in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-zoom-video-in-vlc-media-player/"><u>Updated 2024 Approved How to Zoom Video in VLC Media Player</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-from-setup-to-streaming-the-definitive-guide-for-live-tv-screen-sharing-on-windows/"><u>[New] 2024 Approved From Setup to Streaming The Definitive Guide for Live TV Screen-Sharing on Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mac-audio-sync-for-screen-captures/"><u>[New] 2024 Approved Mac Audio Sync for Screen Captures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-best-9-online-platforms-featuring-advanced-3d-typography/"><u>[New] Explore the Best 9 Online Platforms Featuring Advanced 3D Typography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-5-must-know-techniques-for-cutting-through-reddit-noise-and-gaining-traction/"><u>2024 Approved 5 Must-Know Techniques for Cutting Through Reddit Noise and Gaining Traction</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-record-video-streams-with-ffmpeg-on-windows-and-mac/"><u>How to Record Video Streams With FFmpeg on Windows and Mac?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>In 2024, Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-90-gt-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-comment-on-youtube-live-chat/"><u>New In 2024, How to Comment on YouTube Live Chat</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/proven-tactic-combining-gopro-footage-in-seamless-virtual-reality-experience/"><u>Proven Tactic Combining GoPro Footage in Seamless Virtual Reality Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-create-motion-effect-with-path-blur-in-photoshop-for-2024/"><u>Updated Create Motion Effect with Path Blur In Photoshop for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-create-the-night-to-day-effect-videos/"><u>Updated In 2024, Create the Night-to-Day Effect Videos</u></a></li>
 </ul></div>
 

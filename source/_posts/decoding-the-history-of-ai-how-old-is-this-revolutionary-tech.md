@@ -1,7 +1,7 @@
 ---
 title: "Decoding the History of AI: How Old Is This Revolutionary Tech?"
-date: 2024-10-09T02:14:18.023Z
-updated: 2024-10-14T21:38:43.048Z
+date: 2024-10-15T16:54:23.148Z
+updated: 2024-10-20T16:41:13.770Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,10 @@ Maximum truth-seeking AI? Understand the nature of the universe?
  You'll be forgiven if Musk's description doesn't give you a clear picture of what exactly he's trying to build. However, you'll get a better idea of what he's talking about by looking at why he's trying to build it in the first place.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Is Elon Musk Building TruthGPT?
@@ -47,10 +47,10 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 ![artificial brain doing data analytics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
@@ -61,28 +61,15 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
 So, is this idea of a maximum truth-seeking AI even practical?
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Building TruthGPT Is a Huge Challenge
 
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you[understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) , it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
@@ -92,6 +79,13 @@ So, is this idea of a maximum truth-seeking AI even practical?
  Of course, accuracy can also be tackled from the algorithm side. However, irrespective of the algorithm, language ambiguity still represents a big problem for the accuracy of AI models. Even humans often struggle to accurately interpret a sentence or phrase's meaning, leading to misinformation. For AI models, ambiguity can lead to misinterpretations resulting in inaccuracies.
 
  For Musk, TruthGPT appears to be a chance for him to carve an AI model that he sees fit to deliver the truth. How that would come about without introducing his own biases is another question entirely and effectively leads us back to the start of the conversation. How are Musk's opinions on what is biased or not any different from those who trained and directed ChatGPT?
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is TruthGPT an Exciting Possibility?
 
@@ -114,20 +108,14 @@ So, is this idea of a maximum truth-seeking AI even practical?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-guide-for-setting-tiktok-countdown-timer/"><u>2024 Approved Best Guide for Setting TikTok Countdown Timer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-device-editors-for-app-development-art/"><u>2024 Approved Leading Device Editors for App Development Art</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/auditory-purity-in-ffmpeg-a-format-friendly-perspective-for-2024/"><u>Auditory Purity in FFmpeg A Format-Friendly Perspective for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/cutting-edge-approaches-for-secure-and-precise-call-logging-for-2024/"><u>Cutting-Edge Approaches for Secure and Precise Call Logging for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-canva-collages/"><u>How to Make Canva Collages</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-ideas-on-using-filmora-green-screen/"><u>In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-jest-journal-chronicles-of-timely-laughter/"><u>In 2024, Jest Journal Chronicles of Timely Laughter</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-fade-audio-in-premier-pro/"><u>New Steps To Fade Audio In Premier Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfect-spectrum-balancer/"><u>Perfect Spectrum Balancer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-12-amazing-free-online-calling-services/"><u>The Ultimate List: 12 Amazing Free Online Calling Services</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-difference-between-time-lapse-and-hyperlapse-for-2024/"><u>Updated Difference Between Time Lapse and Hyperlapse for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-tips-to-make-cinematic-color-grading/"><u>Updated In 2024, Tips to Make Cinematic Color Grading</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Updated Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-capturing-the-cloudline-in-your-backyard-the-revolutionary-dji-spark-unveiled/"><u>[New] 2024 Approved Capturing the Cloudline in Your Backyard The Revolutionary DJI Spark Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-remove-recommended-podcasts-from-spotify/"><u>2024 Approved How To Remove Recommended Podcasts From Spotify</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/benefits-of-live-streaming-on-youtube-for-2024/"><u>Benefits of Live Streaming on YouTube for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-8-ai-powered-apps-for-smartphones-compatible-with-androidiphone/"><u>Discover the Best 8 AI-Powered Apps for Smartphones: Compatible with Android/iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-ninja-jump-effect-with-filmora/"><u>In 2024, How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-recording-success-a-step-by-step-approach-to-capturing-chats-on-messenger/"><u>In 2024, Recording Success A Step-by-Step Approach to Capturing Chats on Messenger</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-different-ways-to-crop-tiktok-video-in-high-quality/"><u>New 2024 Approved Different Ways to Crop TikTok Video in High-Quality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-want-to-create-a-stunning-intro-video-on-your-smartphone-legend-intro-maker-is-a-popular-choice-learn-the-steps-to-design-intro-video-legend-intro-maker/"><u>New Want to Create a Stunning Intro Video on Your Smartphone? Legend Intro Maker Is a Popular Choice. Learn the Steps to Design Intro Video Legend Intro Maker</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-errcachemiss-issues-on-google-chrome/"><u>Solving ERR_CACHE_MISS Issues on Google Chrome</u></a></li>
 </ul></div>
 

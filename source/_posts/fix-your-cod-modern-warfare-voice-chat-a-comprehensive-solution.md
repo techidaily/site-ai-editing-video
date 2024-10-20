@@ -1,7 +1,7 @@
 ---
 title: "Fix Your CoD: Modern Warfare Voice Chat - A Comprehensive Solution"
-date: 2024-10-13T21:35:43.362Z
-updated: 2024-10-14T16:44:35.694Z
+date: 2024-10-17T16:21:17.260Z
+updated: 2024-10-20T16:59:13.879Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ Many players are reporting that they can hear others clearly but the voice chat 
 ![voice chat enabled](https://images.drivereasy.com/wp-content/uploads/2021/01/Voice-chat-enabled.jpg)
 3. If your**Voice Chat Recording Mode** is set to**Open Mic** , set Set **Open Mic Recording Threshold** to the lowest setting/minimum (we recommend 0.00). Setting this level too high may prevent your voice from being heard by other players.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-low.png)
 4. But if you set it to**Push to Talk** , please be sure you’re aware of exactly what button you’d need to press to activate your microphone.
 
@@ -58,14 +51,14 @@ Many players are reporting that they can hear others clearly but the voice chat 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates-windows.jpg)
 2. Install the available updates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Once complete, launch Modern Warfare again to see if voice chat is working now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Check sound settings
 
@@ -75,15 +68,15 @@ Many players are reporting that they can hear others clearly but the voice chat 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 2. Select the **Recording** tab. Right-click on the device that you’re currently using (your headphone) and then select **Set as Default Device** and then **Set as Default Communication Device** from its context menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/default.jpg)
 3. Right-click your default microphone and then select **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/audio-properties.jpg)
 4. On the **Levels** tab, drag the sliders of the **Microphone** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself.  
@@ -91,14 +84,14 @@ Many players are reporting that they can hear others clearly but the voice chat 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/headphone-levels.jpg)
 5. Click **OK** to save the changes.
 
-6. Play Modern Warfare and test if others can hear you this time.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Play Modern Warfare and test if others can hear you this time.
 
 ## Fix 4: Update your audio driver
 
@@ -106,18 +99,18 @@ Many players are reporting that they can hear others clearly but the voice chat 
 
  There are mainly two ways you can update your audio driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: Manually update your audio driver
 
  First, make sure you know the PC model and device model, and then go to the PC manufacturer’s website or the sound card’s website to check for the latest audio driver.
 
 **Note:** You can update your device driver via Device Manager, but Windows won’t deliver the latest driver.[Learn Why…](https://tools.techidaily.com/drivereasy/download/) So to make sure you can update your audio card driver to the latest version, you should get it from the manufacturer.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your audio driver (recommended)
 
@@ -132,13 +125,20 @@ Here’s how to update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the FREE version), and then manually install it.  
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll have the full support and a 30-day money back guarantee).
@@ -180,24 +180,22 @@ Here’s how to update your drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-strategies-in-photo-editing-for-profound-impact/"><u>[New] Expert Strategies in Photo Editing for Profound Impact</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-record-movies-on-pc-mac-and-smartphones-for-2024/"><u>[New] How to Record Movies on PC, Mac, and Smartphones for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-a-powerful-content-strategy-uncover-the-best-5-youtube-marketing-tactics/"><u>[Updated] 2024 Approved Crafting a Powerful Content Strategy Uncover the Best 5 YouTube Marketing Tactics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726029814338-mp4wav/"><u>「高解像度動画ファイルの復元」 - MP4からWAVへの変換手順</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fiendish-funny-factory/"><u>2024 Approved Fiendish Funny Factory</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-overlay-video-in-premiere-pro/"><u>2024 Approved How to Overlay Video in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/a-guide-to-adding-audio-in-wondershare-filmora/"><u>A Guide to Adding Audio in Wondershare Filmora</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-s17t-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo S17t Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-honor-80-pro-straight-screen-edition-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Honor 80 Pro Straight Screen Edition to Gmail | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies/"><u>Learn to Use Montage with These Movies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862721824-microsofts-copilot-takes-on-your-pc-check-out-the-new-lineup-of-snapdragon-elite-x-laptops-on-offer-today/"><u>Microsoft's Copilot Takes On Your PC - Check Out the New Lineup of Snapdragon Elite X Laptops on Offer Today!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-top-10-sony-lut-for-different-purposes/"><u>New 2024 Approved Top 10 Sony LUT for Different Purposes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/shotcut-review-is-it-the-best-free-video-editor-for-2024/"><u>Shotcut Review – Is It The Best Free Video Editor for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-remove-audio-from-video-without-watermark/"><u>Updated How to Remove Audio From Video Without Watermark?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>Updated In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-searches-for-missing-driver/"><u>Windows Searches for Missing Driver</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/you-can-easily-film-rotating-video-illusions-from-your-smartphone-and-edit-them-on-wondershare-filmora-in-just-a-few-clicks-for-2024/"><u>You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-designs-a-guide-to-cutting-out-background-in-figma/"><u>[New] Perfecting Designs A Guide to Cutting Out Background in Figma</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-elevate-your-success-must-have-essentials-for-the-modern-business-owner/"><u>[Updated] 2024 Approved Elevate Your Success Must-Have Essentials for the Modern Business Owner</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-all-things-about-adding-effects-in-kinemaster/"><u>2024 Approved All Things About Adding Effects In Kinemaster</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enjoy-complimentary-nfl-sunday-games-with-verizons-exclusive-offer/"><u>Enjoy Complimentary NFl Sunday Games with Verizon's Exclusive Offer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-and-benefits-of-the-netgear-nighthawk-c7000-wireless-networking-solution/"><u>Exploring the Features and Benefits of the Netgear Nighthawk C7000 Wireless Networking Solution</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-construct-your-own-powerful-pc-setup-for-efficient-chia-farming/"><u>How to Construct Your Own Powerful PC Setup for Efficient Chia Farming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminate-focus-leading-lines-in-iphone-composition-for-2024/"><u>Illuminate Focus Leading Lines in iPhone Composition for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/legacy-tech-lifeline-atlasos-revival-plan/"><u>Legacy Tech Lifeline: AtlasOS Revival Plan</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-follow-the-simple-steps-below-to-flip-crop-resize-or-move-clips-with-final-cut-pro/"><u>New Follow the Simple Steps Below to Flip, Crop, Resize or Move Clips with Final Cut Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-a-million-eyes-engaging-content-strategy/"><u>Unlock a Million Eyes Engaging Content Strategy</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-step-by-step-to-crop-videos-using-lightworks/"><u>Updated 2024 Approved Step by Step to Crop Videos Using Lightworks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-fade-in-windows-video-editor-for-2024/"><u>Updated How To Add Fade In Windows Video Editor for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-random-letter-reveal-intro/"><u>Updated How to Make Random Letter Reveal Intro?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-correct-lens-distortion-with-filmora/"><u>Updated In 2024, How to Correct Lens Distortion With Filmora</u></a></li>
 </ul></div>
 

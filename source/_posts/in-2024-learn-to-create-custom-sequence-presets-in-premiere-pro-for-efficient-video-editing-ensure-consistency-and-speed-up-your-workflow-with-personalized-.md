@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings
-date: 2024-10-04T18:46:43.300Z
-updated: 2024-10-08T19:37:11.381Z
+date: 2024-10-18T16:35:12.952Z
+updated: 2024-10-20T17:02:09.065Z
 tags: 
   - ai
   - animation videos
@@ -27,13 +27,6 @@ Creating a custom sequence is like tailoring a shirt to fit you perfectly. Here'
 
 Begin by launching Adobe Premiere Pro. Once opened, navigate to the top menu and select **_File_ \> _New_ \> _Sequence_**. This will open up the New Sequence window, where all the magic happens!
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Change the Editing Mode to Custom in the Settings Panel
 
 You'll see several tabs in the New Sequence window, but we will focus on the **"Settings"** tab for our purposes. Click on it.
@@ -102,13 +95,6 @@ Here, you'll find the **'Editing Mode'** dropdown menu. By default, it's set to 
 4. **Fields:** Choose 'No Fields' for progressive footage. If you're unsure, this is a safe bet.
 5. **Audio Settings:** Here, you can configure the sample rate, among other things. 48000Hz is standard for video.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Give the New Preset a Name and Save It
 
 Once you've customized the settings to your satisfaction, it's time to save this configuration for future use. At the bottom of the New Sequence window, you’ll see a **'Save Preset'** button. Click on it.
@@ -149,6 +135,19 @@ Adobe Premiere Pro's interface is designed to make tasks like these intuitive, s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Do Velocity Edits on PC
 
@@ -195,13 +194,6 @@ CapCut is a free, all-in-one velocity edit maker app for mobile video editing. C
 
 * Advanced color grading tools are not well enough.
 * Does not support higher frame rate than 60 FPS.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part2 How to do velocity edit in filmora?**
 
@@ -272,18 +264,18 @@ Choosing the right velocity edit maker helps you achieve the desired output in v
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 100+ Best TikTok Captions: Enhance Your Content
 
 * [Part 2: Creative Stimulation: A Comprehensive Inventory of Popular Titles on TikTok in 2024](#part2)
 * [Part 3: Automatically Generate TikTok Captions using Filmora's AI Copywriting Feature](#part3)
 * [Part 4: Summary](#part4)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Why Videos Posted on TikTok Need a Catchy Title
 
@@ -321,13 +313,6 @@ Captions aren't just about information but about flair, wit, and personality. As
 19. "Our hearts sync better than our choreography on TikTok 💖"
 20. "He's my favorite co-star in this TikTok love story 🌟"
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### TikTok Captions for Friends
 
 1. "Real friends don't let you do TikToks alone."
@@ -399,13 +384,6 @@ Captions aren't just about information but about flair, wit, and personality. As
 
 Captions are more than just add-ons. They're a part of the content's DNA, influencing virality and engagement. The above lists are just a teaser. With so much potential, the right caption can be the difference between a few views and a few million. Stay tuned as we explore more on this topic!
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Automatically Generate TikTok Captions using Filmora's AI Copywriting Feature
 
 In the ever-evolving world of content creation, tech tools can be a creator's best friend. With the overwhelming demand for frequent and catchy content, wouldn't it be a game-changer if an AI could whip up the perfect TikTok caption for you? Enter Filmora’s AI Copywriting feature!
@@ -442,9 +420,23 @@ Every TikTok creator, from amateur to influencer, will tell you that a caption i
 3. **Boosts Discoverability:** Strategic keywords in captions can make your videos more discoverable, especially as users search for specific content on TikTok.
 4. **It's Your Brand's Voice:** Established TikTokers have a recognizable style. Your captions can become a part of your brand's unique voice, making you distinguishable in a sea of creators.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Creative Stimulation: A Comprehensive Inventory of Popular Titles on TikTok in 2024
 
 Captions aren't just about information but about flair, wit, and personality. As TikTok evolves, so do the trends in captions. Let's dive into some categories that are making waves this year:
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### TikTok Captions for Couples
 
@@ -540,6 +532,13 @@ Captions aren't just about information but about flair, wit, and personality. As
 
 Captions are more than just add-ons. They're a part of the content's DNA, influencing virality and engagement. The above lists are just a teaser. With so much potential, the right caption can be the difference between a few views and a few million. Stay tuned as we explore more on this topic!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Automatically Generate TikTok Captions using Filmora's AI Copywriting Feature
 
 In the ever-evolving world of content creation, tech tools can be a creator's best friend. With the overwhelming demand for frequent and catchy content, wouldn't it be a game-changer if an AI could whip up the perfect TikTok caption for you? Enter Filmora’s AI Copywriting feature!
@@ -547,6 +546,13 @@ In the ever-evolving world of content creation, tech tools can be a creator's be
 [Create AI Captions](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Create AI Captions](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Download Filmora and Find the AI Copywriting Feature
 
@@ -574,10 +580,10 @@ Whether you're brainstorming creatively or seeking assistance from innovative to
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create Liquid Water Reveal Intro?
@@ -623,13 +629,6 @@ Once Wondershare Filmora is running on your system, you can start by importing a
 4. Then, drop the default title on track two.
 
 ![importing and selecting the stock video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3Entering the text
 
@@ -765,6 +764,13 @@ Once Wondershare Filmora is running on your system, you can start by importing a
 4. Then, drop the default title on track two.
 
 ![importing and selecting the stock video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3Entering the text
 
@@ -889,16 +895,16 @@ So, download [Wondershare Filmora](https://tools.techidaily.com/wondershare/film
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-speech-transcription-made-simple-utilizing-text-conversion-functionality-of-ms-word/"><u>[New] 2024 Approved Speech Transcription Made Simple Utilizing Text Conversion Functionality of MS Word</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-build-your-personal-brand-on-youtube-for-2024/"><u>[New] How to Build Your Personal Brand on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-avoiding-youtubes-controversial-scrutiny-for-2024/"><u>[Updated] Avoiding YouTube's Controversial Scrutiny for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-100plus-best-tiktok-captions-enhance-your-content/"><u>2024 Approved 100+ Best TikTok Captions Enhance Your Content</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-80-pro-straight-screen-edition-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 80 Pro Straight Screen Edition in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g14-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G14 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/seamless-power-sharing-using-an-iphone-magsafe-charger-on-your-android-smartphone/"><u>Seamless Power Sharing: Using an iPhone MagSafe Charger on Your Android Smartphone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-video-contents-that-convert-sales-for-2024/"><u>Updated How to Create Video Contents That Convert Sales for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora-in-2024/"><u>Updated How To Make a Video by Mouse in Filmora, In 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-dynamic-website-content-incorporating-youtube-playlists/"><u>[Updated] Dynamic Website Content Incorporating YouTube Playlists</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-key-techniques-for-assessing-youtube-engagement-and-profitability/"><u>[Updated] In 2024, Key Techniques for Assessing YouTube Engagement and Profitability</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieve-crystal-clear-shots-expert-guide-to-zooming-on-snapchat-for-2024/"><u>Achieve Crystal Clear Shots Expert Guide to Zooming on Snapchat for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-ways-to-blur-zoom-background-for-free-for-2024/"><u>Best Ways to Blur Zoom Background for Free for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/guide-facile-et-rapide-pour-deverrouiller-les-fichiers-pdf-avec-du-drm-des-fichiers-pdf-sans-restrictions/"><u>Guide Facile Et Rapide Pour Déverrouiller Les Fichiers PDF Avec Du DRM - Des Fichiers PDF Sans Restrictions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-remove-background-from-a-video-in-premier-pro-for-2024/"><u>How to Remove Background From a Video in Premier Pro for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-latest-fitbit-charge-grofitness-band-the-ultimate-review/"><u>In-Depth Look at the Latest Fitbit Charge Grofitness Band – The Ultimate Review</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>New In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-lag-and-glitches-optimize-your-pc-for-a-seamless-half-life-alyx-experience/"><u>Say Goodbye to Lag and Glitches: Optimize Your PC for a Seamless Half-Life Alyx Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated A Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Your Apex Legends Engine Glitches with These Easy Steps
-date: 2024-10-07T22:35:38.189Z
-updated: 2024-10-14T20:43:57.769Z
+date: 2024-10-17T16:05:40.589Z
+updated: 2024-10-20T16:16:50.611Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Install the latest game patch
 
  Respawn Entertainment, the developer of Apex Legends, releases regular game patches to fix bugs and enhance performance. It’s possible that a recent patch has triggered this issue, and that a new patch is required to fix it.
@@ -52,23 +45,9 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
 
@@ -92,34 +71,20 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Flush your DNS
 
@@ -128,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
  1\. On your keyboard, press **the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl, Shift,**  and **Enter**  on your keyboard at the same time to run Command Prompt as administrator. You will be prompted for permission. Click **Yes** to run**Command Prompt** .
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
@@ -151,12 +123,32 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5\. On the Steam page, log into**the new steam account you created in step One** .  
  You should see a window telling you that your account is now linked when you successfully logged into the new account.
 
  In order to link Apex Legends to your primary Steam account, you should save this URL address for the later use.
 
  6\. Launch Apex Legends to see if you fixed this issue. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair Apex Legends in Origin
 
@@ -194,20 +186,40 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel, or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends
 
@@ -240,20 +252,15 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-peak-performance-pcs-top-rated-screen-capture-tools-reviewed/"><u>[New] In 2024, Peak Performance PCs Top-Rated Screen Capture Tools Reviewed</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mastery-of-tasks-with-the-help-of-ez-grabber-for-2024/"><u>[Updated] Mastery of Tasks with the Help of EZ Grabber for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-simplycapture-windows-screens-in-minutes/"><u>[Updated] SimplyCapture - Windows Screens in Minutes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-cont/"><u>2024 Approved Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
-<li><a href="https://video-capture.techidaily.com/elevate-your-live-streaming-expert-camrecorder-guidance-for-2024/"><u>Elevate Your Live Streaming Expert CamRecorder Guidance for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-explore-and-evaluate-the-top-10-mobile-video-conferencing-apps/"><u>In 2024, Explore & Evaluate The Top 10 Mobile Video Conferencing Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-ram-management-in-minecraft/"><u>In 2024, Mastering RAM Management in Minecraft</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-song-rights-on-social-media/"><u>Navigating Song Rights on Social Media</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>New 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-film-a-slow-motion-video/"><u>New 2024 Approved How To Film a Slow Motion Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review-for-2024/"><u>New VSDC Free Video Editor Review for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleash-your-full-potential-in-the-metaverse/"><u>Unleash Your Full Potential in the Metaverse</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-3-best-effects-to-appear-on-camera/"><u>Updated In 2024, 3 Best Effects to Appear on Camera</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-hdr-camera-mastery-essential-buying-tips/"><u>[New] HDR Camera Mastery Essential Buying Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-efficient-digital-voice-alteration-for-vtubers/"><u>[Updated] Efficient Digital Voice Alteration for VTubers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-steps-for-safe-and-cost-free-vlc-downloads-on-apple-machines/"><u>2024 Approved Steps for Safe and Cost-Free VLC Downloads on Apple Machines</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-bokeh-effect-for-2024/"><u>How to Make a Bokeh Effect for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-the-ultimate-guide-to-make-a-text-collage/"><u>In 2024, The Ultimate Guide to Make a Text Collage</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/instant-insight-snapshots-for-windows-enthusiasts/"><u>Instant Insight Snapshots for Windows Enthusiasts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/professional-grau-gmbh-hardware-and-software-fixes-for-seamless-video-recovery/"><u>Professional Grau GmbH Hardware & Software Fixes for Seamless Video Recovery</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tailoring-pc-specifications-for-software-compatibility/"><u>Tailoring PC Specifications for Software Compatibility</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/0plus-free-online-youtube-intro-makers/"><u>Top 10+ Free Online YouTube Intro Makers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-easy-way-to-create-a-diy-green-screen-video-effect/"><u>Updated Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
 </ul></div>
 

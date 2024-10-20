@@ -1,7 +1,7 @@
 ---
 title: Updated How to Make Random Letter Reveal Intro?
-date: 2024-10-02T03:27:25.011Z
-updated: 2024-10-03T12:52:00.634Z
+date: 2024-10-13T16:27:57.707Z
+updated: 2024-10-20T16:53:04.522Z
 tags: 
   - ai
   - animation videos
@@ -65,31 +65,11 @@ Following that, zoom in on the timeline for a better view of these clipped parts
 
 ![zoom in on the timeline](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Change the character of each clip
 
 After making the previous edits, use your cursor to move to the first part of the timeline instead of zooming outward. Tap on the first clip that you had edited and double-click on it. In the text editing window, change the character to another random alphabet.
 
 ![change the character](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Repeat the same for all the split parts following the first one, changing the character to any random alphabet. At this time, ensure that you do not make two consecutive letters have the same alphabet, as that will put off the effect. However, keep the last elongated clip the same character as you originally put it.
 
@@ -121,6 +101,13 @@ For this, click on My Media and go to Project Media. Right-click on the library 
 
 ![press the open button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Drag the Snapshot to Timeline
 
 Tap on the Snapshot you saved earlier sitting on the media library and drag it onto the Track 1 of the editing timeline. Double-click on it to open the video editing window.
@@ -128,6 +115,13 @@ Tap on the Snapshot you saved earlier sitting on the media library and drag it o
 Click on the Opacity option in the Video editing section and change it to 20%. Press the OK button after that.
 
 ![click on the opacity option](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Drop the Clip into the Timeline
 
@@ -159,13 +153,6 @@ Choose the saved snapshot in the library window and drag-and-drop it behind Trac
 
 ![choose copy effects](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then, hide the Track 2 clip, unhide the Track 3 and Track 4 clip, and take a snapshot of that. As you did with Track 1's screenshot, take this snapshot and place it beside Track 3 clip. Right-click on it and tap on "Paste Effects". Repeat this one by one for all the clips after unhiding them for their particular step.
 
 ## 13\. Finishing touches to Opacity
@@ -189,6 +176,13 @@ Finally, you are ready to use the same tactics as explained to optimize the qual
 From the Downloads section of your browser, double-click on it and press the Install button when it appears. Give the necessary permissions that it prompts.
 
 ![click on the download button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then, the software will start the installation instantly, likely taking a few seconds to complete.
 
@@ -226,6 +220,13 @@ After making the previous edits, use your cursor to move to the first part of th
 
 ![change the character](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Repeat the same for all the split parts following the first one, changing the character to any random alphabet. At this time, ensure that you do not make two consecutive letters have the same alphabet, as that will put off the effect. However, keep the last elongated clip the same character as you originally put it.
 
 ## 6\. Export the first letter clip
@@ -242,6 +243,13 @@ For this, tap on the last clip on the timeline and double-click on it. Change th
 
 ![tap on the text field](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Like with the first clip, continue doing this step for all of the next clips, except for the final clip. Then, export it in the same manner as the first clip.
 
 Now that you know how to edit the first and second letters in sequence, repeat this process for all of the letters of your title to create a full clip for all of the intro title letters. When you are done, please select these clips and press the Delete button to remove them from the timeline.
@@ -255,6 +263,13 @@ Now it's time to add all of the clips to Filmora and merge them into one cohesiv
 For this, click on My Media and go to Project Media. Right-click on the library section and press the Import button. This will take you to your device storage. Find the location where you saved all cut clips, and select them all. Press the Open button, and all of them will import into Filmora.
 
 ![press the open button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Drag the Snapshot to Timeline
 
@@ -323,6 +338,14 @@ Finally, you are ready to use the same tactics as explained to optimize the qual
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Adjust the TikTok Videos Length to Make Them Captivating
 
@@ -406,13 +429,6 @@ If you are confused about the details related to the TikTok video specifications
 
 Hope the above part will prove helpful to you in terms of adjusting the TikTok video using Wondershare Filmora. Now, let's see what the common reasons which hinder users from adjusting the length of TikTok Videos are:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. The Video is Too Short
 
 Most TikTok users worry about **why they can't adjust TikTok clip length.** The common reason behind this query is the short length of the video. If your video length is 3 seconds, then it would not be possible to shorten it further on TikTok. Thus, try to make a Video of at least 15 seconds to upload it on TikTok successfully.
@@ -473,6 +489,19 @@ Step2 Drop the video clip onto timeline. If you do not have any background video
 
 ![drag motion background timeline filmora](https://images.wondershare.com/filmora/article-images/2022/09/drag-motion-background-timeline-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Go to Titles and search for “animation” and you will get all the motion text effect and animation templates. Select any one of them and drop onto the timeline above the background layer.
 
 ![select animation title text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-animation-title-text-filmora.jpg)
@@ -488,19 +517,6 @@ Adobe Premiere Pro is one of the most preferred video editors among professional
 Step1 Go to Graphics> Essential Graphics and select a motion text effect template as per your preference. Drag and drop it into your timeline above your video or background clip.
 
 ![select motion text template premiere](https://images.wondershare.com/filmora/article-images/2022/09/select-motion-text-template-premiere.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Double-click on the text to edit the words and type in your text. Go to Essential Graphics panel to customize the text effect parameters as per your requirements.
 
@@ -552,13 +568,6 @@ Step1 Download and install Wondershare Filmora on your computer. Click on New Pr
 
 ![download wondershare filmora](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Drop the video clip onto timeline. If you do not have any background video, you can select background from Stock Media> pexels/Pixabay> Video and drop animated background onto the timeline.
 
 ![drag motion background timeline filmora](https://images.wondershare.com/filmora/article-images/2022/09/drag-motion-background-timeline-filmora.jpg)
@@ -583,23 +592,9 @@ Step2 Double-click on the text to edit the words and type in your text. Go to Es
 
 ![customize text premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/customize-text-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 If you want to edit the animation, select the text layer and go to Effects Control panel. Open up Keyframe box by dragging it to the right. Adjust the keyframe as per your animation requirements.
 
 ![adjust key frame premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/adjust-key-frame-premiere-pro.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Bring the keyframes closer or spread them apart to speed up or slow down. Tweak parameters like? Velocity Controls under different text properties to edit the animation effectively.
 
@@ -740,20 +735,16 @@ Product ads video is the order of the day and it is very important as a business
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-premier-cloud-storage-guide-for-enterprises/"><u>[New] Premier Cloud Storage Guide for Enterprises</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-brilliant-backdrops-using-light-to-enchant-audiences/"><u>[Updated] Brilliant Backdrops Using Light to Enchant Audiences</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to-create-/"><u>2024 Approved Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/discover-a-quick-guide-to-add-personalized-video-filters-in-vn-app-learn-how-to-use-built-in-filters-and-import-external-ones-for-creative-video-editing-for/"><u>Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-have-the-habit-to-create-subtitle-for-your-video-you-can-always-add-open-and-close-subtitles-to-your-video-to-make-it-perfect-follow-this-article-to-/"><u>Do You Have the Habit to Create Subtitle for Your Video? You Can Always Add Open and Close Subtitles to Your Video to Make It Perfect. Follow This Article to Learn More About It</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-2-methods-to-cut-video-in-vlc-on-windows/"><u>In 2024, 2 Methods to Cut Video in VLC on Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-asus-rog-phone-8-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Asus ROG Phone 8 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-walkthrough-of-google-docs-text-conversion/"><u>In 2024, Step-by-Step Walkthrough of Google Docs Text Conversion</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-nokia-g22-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Nokia G22 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-online-video-snatcher-download-favorites-instantly/"><u>In 2024, Ultimate Online Video Snatcher Download Favorites Instantly</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-s18e-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo S18e? Fixed | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-the-stranger-things-upside-down-effect/"><u>Updated 2024 Approved How to Create the Stranger Things Upside Down Effect</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-6-websites-to-free-download-motivational-video-footage/"><u>Updated In 2024, 6 Websites to Free Download Motivational Video Footage</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-what-are-the-stages-of-film-production/"><u>Updated What Are The Stages Of Film Production</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/zero-downloads-the-ultimate-list-of-seamless-gif-to-video-tools-for-2024/"><u>Zero Downloads The Ultimate List of Seamless GIF to Video Tools for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aptivate-your-audience-professional-end-screen-creations/"><u>[New] Captivate Your Audience Professional End Screen Creations</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-content-strategy-mastery-selecting-top-rank-trackers-uncovered-for-2024/"><u>[New] Content Strategy Mastery - Selecting Top Rank Trackers Uncovered for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-guide-to-optimal-audio-changer-tools-for-vtubers-for-2024/"><u>[New] Guide to Optimal Audio Changer Tools for VTubers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-use-free-countdown-timer/"><u>[New] How to Use Free Countdown Timer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way/"><u>2024 Approved How to Slow Down a Video on iPhone and Android The Easy Way</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-hot-30-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Hot 30 5G Phones with/without a PC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-download-and-use-windows-movie-maker-10-for-2024/"><u>How to Download and Use Windows Movie Maker 10 for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a1-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo A1 5G?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-nord-ce-3-lite-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus Nord CE 3 Lite 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-best-laptops-for-video-editing/"><u>The Best Laptops For Video Editing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-this-article-talks-in-detail-about-how-to-convert-time-lapse-to-normal-video-using-certain-methods-on-iphone-online-tools-and-so-on-it-further-discu/"><u>Updated This Article Talks in Detail About How to Convert Time-Lapse to Normal Video Using Certain Methods on iPhone, Online Tools, and so On. It Further Discusses Converting Time-Lapse Video to Normal on the Computer. Check Out</u></a></li>
 </ul></div>
 

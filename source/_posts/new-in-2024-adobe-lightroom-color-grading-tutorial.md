@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Adobe Lightroom Color Grading Tutorial
-date: 2024-10-08T19:07:24.959Z
-updated: 2024-10-14T23:59:59.652Z
+date: 2024-10-15T16:26:02.293Z
+updated: 2024-10-20T16:20:15.428Z
 tags: 
   - ai
   - animation videos
@@ -49,6 +49,13 @@ Move to the HSL/Color Panel, which stands for Hue, Saturation, and Luminance, af
 
 Hue is measured in terms of the color wheel's degrees. It's possible to change the color's real shade in this panel. For instance, you can modify the turquoise or blue to a more greenish tone if your scenario is a beach (as in our example photo). It's advisable to begin making adjustments to your panel's Hue before moving on to the others.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Saturation
 
 The strength of the hue is known as saturation. (Remember that this HSL panel modification only affects the saturation of individual colors, not the saturation of the entire image.) In order to achieve a more subdued, muted appearance for this example, I reduced the Saturation on the aqua, blue, and green hues. To increase the intensity of your shot, you can do the exact reverse. Find the tweaks that suit your photo and the appearance you want to achieve best.
@@ -95,13 +102,6 @@ But, some of them are looking for guidance to work on DaVinci resolve correctly.
 
 DaVinci resolve is a comprehensive program that allows you to deliver different solutions. It can be related to editing the videos, correcting the colours, and producing the videos and audio. Just follow the simple steps below for splitting the videos in the DaVinci resolve:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Part 1 - Splitting of one clip:**
 
 **Step 1:** After installing the DaVinci resolve, launch it in your system.
@@ -143,13 +143,6 @@ For macOS 10.14 or later
 * Addition of the transition effects
 * Availability of controls for the audio, sound and video
 * Separating the audio from the video
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Part 1 - Splitting the clips in Wondershare Filmora**
 
@@ -209,19 +202,6 @@ You can also split the number of video and audio clips at the exact timings in D
 **Step 2:** Just keep pressing **Command or Control + \\** keys, or click on **timeline> Split Clip.** The selected clips of audio and video get split together now. No more slitting of the clips individually. This option is more appropriate for you when creating and managing different parts of massive projects.
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-3.png)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **An easier way to split the video clips**
 
@@ -522,6 +502,13 @@ Textanim is a true animated text generator GIF online. All you need to do is typ
 
 ![textanim text maker](https://images.wondershare.com/filmora/article-images/2022/08/textanim-text-maker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. [MakerMoon](https://www.makermoon.com/articles/animated-text/)
 
 MakerMoon comes with a dedicated animated text generator even though there is a full-featured video editor available online. The platform is suitable for creating animated text for websites that you can use for headers and titles. Choose from the available animated text templates and customize them as per your requirements. You can animate words as well as individual letters. You can save animated text video in GIF as well as get embed code. Here are the key features of MakerMoon.
@@ -562,10 +549,10 @@ There is a wide array of stock photos and videos along with music that you can u
 ![flexclip aniamted text maker](https://images.wondershare.com/filmora/article-images/2022/08/flexclip-aniamted-text-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. [RenderForest Animated Text Generator](https://www.renderforest.com/animated-text-generator)
@@ -596,13 +583,6 @@ There are literally unlimited 3D text animation templates. The user interface is
 
 ![text studio generator](https://images.wondershare.com/filmora/article-images/2022/08/text-studio-generator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. [Kapwing](https://www.kapwing.com/animated-text-video-maker)
 
 You can create stunning animated text videos with Kapwing animated text video editor. Kapwing is a full-featured online video editor and you can choose from various templates available. Thereafter, you can customize them as per your requirements. Alternatively, you can upload your video and add different animated text effects to enhance your video content. In fact, you can create animated text videos from scratch for different devices and platforms. Here are the key features of Kapwing animated text video editor.
@@ -614,6 +594,13 @@ You can create stunning animated text videos with Kapwing animated text video ed
 * Wide range of graphical elements to enhance text content.
 
 ![kapwing](https://images.wondershare.com/filmora/article-images/kapwing-editor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Editor's Pick: Wondershare Filmora
 
@@ -646,10 +633,10 @@ Selective color is an effect that lets you desaturate all the colors in a photo 
 ![color isolation](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 By using this effect, we can draw viewers' attention to a specific point in the clip. If you want your video do the same, Filmora can be a good helper. Alright, we’ll be creating selective color effects in two examples. Let’s get started.
@@ -726,13 +713,6 @@ Step6 Next, try selecting a second color to isolate within our shot. In this exa
 
 ![clicking on the second color](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step7 Pick the eyedropper tool and click it on the green part of the clip. Then adjust the range slider as needed.
 
 ![adjusting range slider](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-16.jpg)
@@ -749,6 +729,13 @@ Step1 Launch Wondershare Filmora and drag and drop your clip to the timeline.
 
 ![drag and drop the clip](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Go to effects and then click “NewBlue FX” option and select Newblue filters.
 
 ![select newblue filter](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-3.jpg)
@@ -757,9 +744,23 @@ Step3 Find the Selective Color Effect and drag it onto the clip. The effect will
 
 ![selective color effect](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Next, double-click on the clip and check out the effects menu at the top of the screen.
 
 ![effects menu](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 Open the preset drop-down menu. There will be a lot of presets with different colors. Select the preset you want to use. In this scenario, let us select Just Blue.
 
@@ -776,13 +777,6 @@ Step7 Now adjust the range slider to decrease the number of unwanted tints.
 Step8 To blur the edges of the effects, turn up the softened slider and remove any unwanted tint previously remaining.
 
 ![blurring the edges of effects](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In this way, you can add a selective color effect to your video clips and isolate the color of your choice.
 
@@ -840,24 +834,16 @@ Follow all the steps in the correct order. This is how you can use NewBlue effec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-unlocking-clearer-images-in-videoleap-videos/"><u>[New] Unlocking Clearer Images in Videoleap Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-frolicsome-user-enrollment-process/"><u>2024 Approved Frolicsome User Enrollment Process</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-honor-70-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/3-ways-to-stream-and-record-at-the-same-time/"><u>3 Ways To Stream And Record At The Same Time</u></a></li>
-<li><a href="https://fox-that.techidaily.com/banish-the-amber-hue-effective-methods-for-an-even-iphone-screen/"><u>Banish the Amber Hue: Effective Methods for an Even iPhone Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-create-a-zoom-motion-blur-effect-using-photoshop-if-you-are-unaware-of-how-to-do-this-read-this-article-to-learn-simple-yet-authentic-instruc/"><u>Do You Want to Create a Zoom Motion Blur Effect Using Photoshop? If You Are Unaware of How to Do This, Read This Article to Learn Simple yet Authentic Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-logitech-c270-hd-webcam-software-for-windows-pcs-windows-10-11/"><u>Download the Latest Logitech C270 HD Webcam Software for Windows PCs (Windows 10, 11)</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/error-the-page-youre-seeking-doesnt-exist/"><u>Error: The Page You're Seeking Doesn’t Exist</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-3-ways-to-stream-and-record-at-the-same-time/"><u>In 2024, 3 Ways To Stream And Record At The Same Time</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-achieve-peak-collaboration-a-complete-guide-to-slack-and-filmora-integration/"><u>In 2024, Achieve Peak Collaboration A Complete Guide to Slack & Filmora Integration</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-best-luts-for-vlog/"><u>In 2024, Overview of Best LUTs for Vlog</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/time-caption-generator/"><u>Real-Time Caption Generator</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unlocking-the-power-of-partnerships-a-guide-to-monetizing-instagram-posts-for-2024/"><u>Unlocking the Power of Partnerships A Guide to Monetizing Instagram Posts for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-the-best-voice-alteration-programs-for-vtubers-for-2024/"><u>Unveiling the Best Voice Alteration Programs for VTubers for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-video-contents-that-convert-sales-for-2024/"><u>Updated How to Create Video Contents That Convert Sales for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-apply-gaussian-blur-effect-to-videos-in-premiere-pro/"><u>Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954220029-updated-in-2024-what-you-should-know-about-speech-to-text-technology/"><u>Updated In 2024, What You Should Know About Speech-to-Text Technology</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/want-to-play-a-video-on-loop-on-vimeo-so-that-it-plays-again-and-again-here-are-all-the-different-ways-to-loop-a-video-on-vimeo-in-simple-steps-for-2024/"><u>Want to Play a Video on Loop on Vimeo so that It Plays Again and Again? Here Are All the Different Ways to Loop a Video on Vimeo in Simple Steps for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-macs-screen-capture-champions-the-premier-tools-evaluation/"><u>[Updated] Mac's Screen Capture Champions The Premier Tools Evaluation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-rhythm-and-reels-instagrams-music-playbook/"><u>2024 Approved Rhythm & Reels Instagram’s Music Playbook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/authenticating-your-instagram-photos-for-2024/"><u>Authenticating Your Instagram Photos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/cut-down-input-lag-in-cyberpunk-2077-tips-and-tricks-to-enhance-your-gaming-experience/"><u>Cut Down Input Lag in Cyberpunk 2077: Tips & Tricks to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-deathloop-from-freezing-and-jittering-on-your-computer/"><u>How To Stop Deathloop From Freezing and Jittering On Your Computer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-in-depth-tips-for-srt-file-production-mastery/"><u>In 2024, In-Depth Tips for SRT File Production Mastery</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-unresponsive-file-explorer-effective-fixes-for-windows-10-users-solved/"><u>Overcoming Unresponsive File Explorer: Effective Fixes for Windows 10 Users [Solved]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-problem-post-upgrade-success-story/"><u>Printer Problem Post Upgrade: Success Story</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/review-expose-on-netgears-advanced-x6-wifi-mesh-enhancer-a-deep-dive-into-its-innovative-traits/"><u>Review Exposé on Netgear's Advanced X6 Wifi Mesh Enhancer – A Deep Dive Into Its Innovative Traits</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/troubleshoot-your-apex-legends-engine-glitches-with-these-easy-steps/"><u>Troubleshoot Your Apex Legends Engine Glitches with These Easy Steps</u></a></li>
 </ul></div>
 

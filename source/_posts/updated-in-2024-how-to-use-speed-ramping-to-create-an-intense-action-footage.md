@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How To Use Speed Ramping to Create an Intense Action Footage
-date: 2024-10-08T17:16:41.442Z
-updated: 2024-10-14T23:42:18.176Z
+date: 2024-10-16T17:03:19.709Z
+updated: 2024-10-20T16:22:04.279Z
 tags: 
   - ai
   - animation videos
@@ -31,6 +31,13 @@ You've probably seen speed ramping used in suspenseful moments of a basketball v
 ![cinematic shots of a basketball player](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-1.gif)
 
 With speed ramping, we can slow down our most exciting moments to show our audience. And then speed it up again to keep pace with the music or action. So it will give you a smooth transition effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How to enhance action videos with the speed ramping effect?
 
@@ -85,6 +92,19 @@ The lower keyframe is when the video is slowest, and the peak is when the video 
 
 ![adjusting key-frames wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-6.gif)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Grab the keyframes and move them up to increase the speed or down to slow down the rate. You can also add more keyframes by moving the playhead to the spot where you want to change speed and clicking the plus button.
 
 After adjusting our keyframes, we can play it back to see if we like the result.
@@ -152,13 +172,6 @@ First, import a video from your media library in the Wondershare Filmora. And dr
 
 ![library in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Apply the speed ramping feature
 
 To apply the speed ramping feature, **right-click** on the clip on the timeline. And click speed in the menu and choose **speed ramping** to open the settings window.
@@ -168,13 +181,6 @@ To apply the speed ramping feature, **right-click** on the clip on the timeline.
 You can choose different speed templates in the setting window. Or, on the left corner, click on the customize option to adjust the keyframes and create the speed you want for the video.
 
 ![speed templates on wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The lower keyframe is when the video is slowest, and the peak is when the video is fastest. The middle parts between the keyframes are when it speeds up or slows down to reach the specific speed you set on each keyframe.
 
@@ -192,23 +198,9 @@ Since speed ramping can only be used for paid users, we also provide you with an
 
 ![uniform speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Next, move your playhead to the **point of the video** you want to slow down the speed. Here we will cut and then double-click that clip to open the speed menu again. Change the pace with the speed slider again
 
 ![split adjusting the clips](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-8.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Following the above steps, a speed ramping style effect can be created without using the premium feature. Stealthy, isn't it?
 
@@ -223,13 +215,6 @@ We will use Boris FX BCC glitch to add some intensity to our video. It is a plug
 * We are going to scroll down and select shake with motion blur. This preset will use the exact look we want for our basketball video to make the speed ramping more intense.
 
 ![present a drop-down menu and reduce the effect](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-9.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * You can change the settings around after choosing a preset. For example, let's turn up the glitch intensity to have our glitch a little more extreme. Moving further, we can change the glitch duration to our specific needs.
 
@@ -247,6 +232,13 @@ Now we can watch our video to see our glitch with the motion blur effect. Isn't 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make Eye Zoom Transition Effect with Filmora
 
@@ -440,13 +432,6 @@ With that done, move the playhead to the start of the freeze frame video and dou
 
 ![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
 
 ## Summary
@@ -473,6 +458,13 @@ Step 1: On your device, launch the web browser. Open the official website of Vim
 
 ![play video vimeo watch](https://images.wondershare.com/filmora/article-images/play-video-vimeo-watch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Now, you need to change the URL of the video you are playing. Here are the changes to make in the address bar.
 
 * Remove everything at the beginning of "vimeo.com". Add ".player" at the beginning of the URL.
@@ -498,6 +490,13 @@ Step 2: You will get to see several options, and you need to click on "Get Embed
 Step 3: On the next screen, you will get the embed code in a pop-up box. Click on Show options.
 
 ![show options share vimeo video](https://images.wondershare.com/filmora/article-images/show-options-share-vimeo-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: From the expanded section, go to Special Stuff section. Turn on "Loop this video" option.
 
@@ -535,13 +534,6 @@ Step 1: Download and install Wondershare Filmora. Download the desired Vimeo vid
 
 ![filmora startup window](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Drag and drop the downloaded video file into the Project Media folder on Filmora. Thereafter, bring the video file from Project Media folder into the timeline.
 
 ![drag vimeo video filmora timeline](https://images.wondershare.com/filmora/article-images/drag-vimeo-video-filmora-timeline.jpg)
@@ -549,6 +541,13 @@ Step 2: Drag and drop the downloaded video file into the Project Media folder on
 Step 3: Drag and drop the video clip into the timeline again. Make sure that there is no gap between the clips and they are on the same channel for looping. Alternative, you can copy and paste the video clip multiple times for looping.
 
 ![loop video in filmora](https://images.wondershare.com/filmora/article-images/copy-video-clips-to-loop-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: You can play the video and watch it in loop. Finally, click on the Export button to save the video in the desired file format.
 
@@ -597,13 +596,6 @@ There are several ways to loop a video on Vimeo. The best way out is to go for V
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Splitting Audio From Video in Sony Vegas [Step by Step]
 
@@ -652,6 +644,13 @@ For macOS 10.14 or later
 **Step 1:** After running the Wondershare Filmora, select the ratio of your choice 4:3 or 16:9 for entering in the mode of editing. Click on the “Import” so you can add the photos, video and audio from the folder of your system. After importing the videos, drag and drop in the timeline. As a default, all the files get merged with one another with no gap.
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** Right-click on the video clip from which you want to extract the audio. Select the option of “Detach Audio” from the menu. Instantly, an audio file is visible on the screen, and it is the original one from the source.
 
@@ -706,6 +705,13 @@ For macOS 10.14 or later
 **Step 2:** Right-click on the video clip from which you want to extract the audio. Select the option of “Detach Audio” from the menu. Instantly, an audio file is visible on the screen, and it is the original one from the source.
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Now, the audio track gets separated from the video successfully. Wondershare Filmora also offers to add one more audio file. Yes, it is also possible with this software.
 
@@ -835,16 +841,24 @@ Just little guidance and assistance can help you use the Wondershare Filmora as 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-directing-content-flow-uploading-imovie-films-to-youtube/"><u>[Updated] Directing Content Flow Uploading IMovie Films to YouTube</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-/"><u>2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/directx-glitch-in-anno-1800-heres-your-ultimate-solution/"><u>DirectX Glitch in Anno 1800? Here's Your Ultimate Solution</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-comment-on-youtube-live-chat/"><u>New In 2024, How to Comment on YouTube Live Chat</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-overcome-post-update-windows-10-booting-failures-with-these-fixes/"><u>Solved! Overcome Post-Update Windows 10 Booting Failures With These Fixes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformed-and-enhanced-discover-the-new-features-of-microsoft-excels-upgraded-web-interface/"><u>Transformed and Enhanced: Discover the New Features of Microsoft Excel's Upgraded Web Interface</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ultimate-guide-to-best-internet-recording-tools-2023/"><u>Ultimate Guide to Best Internet Recording Tools 2023</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated 2024 Approved Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-create-motion-effect-with-path-blur-in-photoshop-for-2024/"><u>Updated Create Motion Effect with Path Blur In Photoshop for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-take-your-video-editing-to-the-next-level-with-video-scopes/"><u>Updated Take Your Video Editing to the Next Level with Video Scopes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-fine-tuning-your-frames-with-videoleap/"><u>[New] 2024 Approved Fine-Tuning Your Frames with Videoleap</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-pathway-to-prominence-on-social-media/"><u>[New] The Pathway to Prominence on Social Media</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-from-start-to-finish-seamless-editing-with-kinemaster/"><u>[Updated] From Start to Finish Seamless Editing with Kinemaster</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/3-ways-to-stream-and-record-at-the-same-time/"><u>3 Ways To Stream And Record At The Same Time</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/4kmp4-hd/"><u>最新技術により、迅速4K動画をMP4 HDフォーマットにアップコンバートする方法</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/benefits-of-live-streaming-on-youtube-for-2024/"><u>Benefits of Live Streaming on YouTube for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/helldivers-2-black-screen-on-launch-startup-fix/"><u>Helldivers 2 Black Screen on Launch / Startup Fix</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-3-ways-to-stream-and-record-at-the-same-time/"><u>In 2024, 3 Ways To Stream And Record At The Same Time</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cold-climate-chronicles-highlights-from-the-icy-stage/"><u>In 2024, Cold Climate Chronicles Highlights From the Icy Stage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-ninja-jump-effect-with-filmora/"><u>In 2024, How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-changers/"><u>In 2024, Recommended Video Background Changers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-motorola-moto-g13-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Motorola Moto G13 Phones</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/inside-scoop-on-nhl-19-how-gamers-are-winning-on-digital-turf/"><u>Inside Scoop on NHL '19: How Gamers Are Winning on Digital Turf</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-different-ways-to-crop-tiktok-video-in-high-quality/"><u>New 2024 Approved Different Ways to Crop TikTok Video in High-Quality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-want-to-create-a-stunning-intro-video-on-your-smartphone-legend-intro-maker-is-a-popular-choice-learn-the-steps-to-design-intro-video-legend-intro-maker/"><u>New Want to Create a Stunning Intro Video on Your Smartphone? Legend Intro Maker Is a Popular Choice. Learn the Steps to Design Intro Video Legend Intro Maker</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-legality-of-dvd-duplication-is-it-against-the-law/"><u>Understanding the Legality of DVD Duplication: Is It Against the Law?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-apply-gaussian-blur-effect-to-videos-in-premiere-pro/"><u>Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954220029-updated-in-2024-what-you-should-know-about-speech-to-text-technology/"><u>Updated In 2024, What You Should Know About Speech-to-Text Technology</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-14-pro-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 14 Pro i Do? Get Answers here</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Make Eye Zoom Transition Effect with Filmora
-date: 2024-09-29T19:47:30.827Z
-updated: 2024-10-03T03:12:46.914Z
+date: 2024-10-16T16:11:27.162Z
+updated: 2024-10-20T16:35:38.297Z
 tags: 
   - ai
   - animation videos
@@ -64,16 +64,10 @@ With that done, move the playhead to the start of the freeze frame video and dou
 After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Summary
@@ -95,6 +89,19 @@ First, you need to create a close-up eye video. Although you can do that with yo
 After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
 
 ![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 2 Add a freeze frame to the video
 
@@ -161,13 +168,6 @@ With the two video tracks ready, it's time to apply a masking effect. Tap the **
 Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
 
 ![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 4 Add the transition video
 
@@ -312,9 +312,23 @@ Step1 Open [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![open filmora and click on new project](https://images.wondershare.com/filmora/guide/open-project-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Drag and drop the video clips on Timeline. If it is one video clip, you can cut it into multiple clips to add transitions in between them.
 
 ![drag and drop video clips](https://images.wondershare.com/filmora/guide/panel-layout-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 There are different categories of transition effects and drag and drop your desired transition on the Timeline.
 
@@ -348,16 +362,16 @@ Step1 Open [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![open filmora and click on new project](https://images.wondershare.com/filmora/guide/open-project-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Drag and drop the video clips on Timeline. If it is one video clip, you can cut it into multiple clips to add transitions in between them.
 
 ![drag and drop video clips](https://images.wondershare.com/filmora/guide/panel-layout-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 There are different categories of transition effects and drag and drop your desired transition on the Timeline.
 
@@ -421,13 +435,6 @@ People who are not having the time to bring in a professional video editor to wo
 
 You can download this proficient video editor for your iPhone and iPad. It can also be enjoyed on Mac devices, which are now available on Android devices. LumaFusion has scaled its support and compatibility of devices over time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pricing Plan
 
 If you intend to use **the LumaFusion app** to inject creativity into your videos, you must have to pay a single-time price of $19.99 to get access to the application. Apart from that, there are several in-app purchases that you can look forward to for increasing the hold on different tools and features, as per the requirement.
@@ -444,13 +451,6 @@ If you intend to use **the LumaFusion app** to inject creativity into your video
 ## Part 2: Key Features of LumaFusion Video Editor
 
 We will now highlight some essential features that can be considered about the **LumaFusion video editor**. These features will give a better understanding of the tool and provide a guideline on how to utilize the best functions with ease:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Interface
 
@@ -501,13 +501,6 @@ Suppose you are considering using the **LumaFusion video editor** on your iOS de
 * For large video files, you might face lagging issues and audio synchronization within videos.
 * To access the complete library of music and clips, you will have to subscribe to their additional plans.
 * The tool is already available at a price tag, which is associated with more subscription plans, making it a devalued option.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: What’s New in LumaFusion 3.2 Version
 
@@ -570,10 +563,17 @@ People who are not having the time to bring in a professional video editor to wo
 ![lumafusion video editor](https://images.wondershare.com/filmora/article-images/2023/02/lumafusion-video-editor-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Download LumaFusion: [Android](https://play.google.com/store/apps/details?id=com.luma%5Ftouch.lumafusion) | [iOS](https://apps.apple.com/app/apple-store/id1062022008)
@@ -669,13 +669,6 @@ In the previous versions of LumaFusion, you could not rename the linked folders,
 
 ![rename linked folder](https://images.wondershare.com/filmora/article-images/2023/02/lumafusion-video-editor-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Localizations for 2 New Versions
 
 Traditional Chinese and Brazilian Portuguese are now among the added localizations in the video editor. The wide range of language support is helping this application set up a new precedent in the market for other mobile video editors.
@@ -697,6 +690,13 @@ Traditional Chinese and Brazilian Portuguese are now among the added localizatio
 This article has provided a prominent overview of the **LumaFusion review**, a video editor that has made video editing operations easier on smartphones. While it is a great iOS video editor, you can find other prominent functions with extensive layered support, intuitive keyframes, and consolidated connectivity to other platforms. As a better option, this article has offered Wondershare Filmora as a more potent tool with better compatibility and inexpensive features.
 
 ## People Also Want to Know
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How to download LumaFusion on Windows?
 
@@ -855,20 +855,18 @@ Hopefully, you found this article helpful in resolving your queries, and you can
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enchanting-viewers-the-art-of-crafting-engaging-youtube-description-templates/"><u>[New] 2024 Approved Enchanting Viewers The Art of Crafting Engaging YouTube Description Templates</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-expertly-enhance-videos-with-top-10plus-mobile-and-desktop-editors-for-2024/"><u>[New] Expertly Enhance Videos with Top 10+ Mobile & Desktop Editors for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-guide-to-instagram-mastery-top-10-gadgets/"><u>[New] The Ultimate Guide to Instagram Mastery Top 10 Gadgets</u></a></li>
-<li><a href="https://video-capture.techidaily.com/diverse-iptv-content-distribution-for-2024/"><u>Diverse IPTV Content Distribution for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-sound-with-headsets-on-your-windows-7-pc/"><u>Expert Tips for Restoring Sound with Headsets on Your Windows 7 PC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-change-text-in-premiere-pro/"><u>How To Change Text In Premiere Pro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-boost-virtual-engagement-select-top-10-recorder-software/"><u>In 2024, Boost Virtual Engagement Select Top 10 Recorder Software</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-a-green-screen-to-zoom/"><u>In 2024, How to Add a Green Screen to Zoom</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-expression-in-after-effects/"><u>In 2024, How to Add Expression in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-merge-audio-and-video-in-vlc-media-player/"><u>In 2024, How to Merge Audio and Video in VLC Media Player</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-change-background-color-in-after-effects/"><u>New Change Background Color in After Effects</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818243705-no-more-laptop-screen-flickers-problem-solved/"><u>No More Laptop Screen Flickers, Problem Solved!</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/step-by-step-enhancing-photos-with-cropping-tools/"><u>Step-by-Step Enhancing Photos with Cropping Tools</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1920s-how-to-make-for-2024/"><u>Vintage Film Effect 1920S - How to Make for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-podcast-writing-tips-and-free-template-samples/"><u>[New] 2024 Approved Mastering Podcast Writing Tips & Free Template Samples</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/curated-collection-of-the-best-9-cross-device-video-calls-androidiphone-for-2024/"><u>Curated Collection of the Best 9 Cross-Device Video Calls (Android/iPhone) for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-ways-to-remove-motion-blur-in-photoshop-for-2024/"><u>Easy Ways to Remove Motion Blur In Photoshop for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-set-up-twitch-green-screen/"><u>How to Set Up Twitch Green Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-a14-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy A14 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>In 2024, How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-tecno-camon-30-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Tecno Camon 30 Pro 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-identityv-gameplay-on-your-computer-a-comprehensive-guide/"><u>Mastering IdentityV Gameplay on Your Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-3-best-effects-to-appear-on-camera-made-with-filmora/"><u>New In 2024, 3 Best Effects to Appear on Camera Made with Filmora</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/egic-thinking-keywords-that-lead-to-online-victory-for-2024/"><u>Strategic Thinking Keywords that Lead to Online Victory for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722846899549-ultimate-list-of-free-preschool-activities-play-and-learn-with-these-fantastic-resources/"><u>Ultimate List of Free Preschool Activities – Play & Learn with These Fantastic Resources</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-3-best-motion-blur-plugins-for-adobe-after-effects/"><u>Updated 2024 Approved 3 Best Motion Blur Plugins for Adobe After Effects</u></a></li>
 </ul></div>
 

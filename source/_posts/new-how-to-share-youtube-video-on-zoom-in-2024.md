@@ -1,7 +1,7 @@
 ---
 title: New How to Share YouTube Video on Zoom, In 2024
-date: 2024-10-12T21:27:47.172Z
-updated: 2024-10-15T01:48:10.831Z
+date: 2024-10-14T17:02:26.928Z
+updated: 2024-10-20T16:52:31.580Z
 tags: 
   - ai
   - animation videos
@@ -229,13 +229,6 @@ You and your friends are having a group video chat on Zoom. While laughing at so
 
 These are just some of the scenarios where you might have to share YouTube videos on Zoom. A whole set of different reasons may arise, which can cause you to share a YouTube video with your Zoom attendees. If such an instance arises, you need to learn how to do that quickly and efficiently.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Share YouTube Videos in Zoom
 
 While each of us might have different reasons for sharing YouTube videos on Zoom, the process to do so is identical on all versions of the Zoom application. Looking for a guide on how to **share YouTube videos on Zoom** easily?
@@ -260,18 +253,24 @@ Back in your Zoom meeting's main screen, check the bottom line for options. A gr
 
 ![tap on share screen feature](https://images.wondershare.com/filmora/article-images/2022/05/share-youtube-video-on-zoom-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Play Video**
 
 You can now go back to your browser window, open your video in the full-screen mode, and hit the “Play” button to share the YouTube video with everyone. You can press the “Stop Share” button to stop sharing your screen in the meeting.
 
 ![stop sharing youtube video](https://images.wondershare.com/filmora/article-images/2022/05/share-youtube-video-on-zoom-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Using Links to Share YouTube Video
 
@@ -292,13 +291,6 @@ Now go to your Zoom meeting’s interface and click on the “Chat” button at 
 Now simply paste the copied video link into the chat box and hit “Enter” to share it with everyone in the meeting.
 
 ![paste the youtube video link](https://images.wondershare.com/filmora/article-images/2022/05/share-youtube-video-on-zoom-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -441,13 +433,6 @@ When it comes to marketing, they help choose a reliable background for the brand
 
 In the media industry, backgrounds like the sky help express the emotion of an actor or a mass. If there is anger, the sky will turn red; if there is peace, it will have a calm outlook.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Audience Engagement and Focus
 
 A well-aligned background increases the audience's focus on the theme of the video. This is because irrelevant backgrounds can catch the audience's interest and distract them.
@@ -468,13 +453,6 @@ There are built-in effects and features to ease the editing process for you. In 
 
 ![enable pen tool to draw mask](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Now, select the top video in the timeline and search for “Key Cleaner.” Adjust the values of options under the key cleaner for precision.
 
 ![enable key cleaner](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-3.jpg)
@@ -493,18 +471,18 @@ There are built-in effects and features to ease the editing process for you. In 
 
 ![select a camera option](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Procedure 3: Replacing the Sky
 
 **Step 1:** Import the video of your sky and bring it to the timeline. Bring the sky in the back of your footage and change it to a 3D layer. Afterward, change the "Position" of your sky from the timeline. We recommend you set the values as far away as possible for realistic effect.
 
 ![adjust the position of sky](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** Once you have set the sky's position, navigate towards the timeline panel again. From there, change the "Scale" of the background to set according to your footage. Afterward, see if the sky needs any flipping. This is because you must align the bright parts of the sky with the bright parts of the ground.
 
@@ -557,6 +535,13 @@ In the Smart Cutout Video window, use the brush to mark the object you want in t
 Once the background has been removed, click this video in the timeline. Hover the cursor towards the right settings panel and access the "Video > Basic" tab. Scroll down to find the "Backgrounds" section and enable it. In the "Type" section, select the background type and choose from the options to add. Once you have added the background, click the "Export" button to save this video.
 
 ![replace the background](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -612,16 +597,16 @@ There are built-in effects and features to ease the editing process for you. In 
 
 ![enable key cleaner](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** If there are still some spaces left, use the “Simple Choker” effect to correct them. You can find it using the search bar and adjust the given values.
 
 ![enable simple choker effect](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Procedure 2: 3D Camera Tracking
 
@@ -715,6 +700,13 @@ FFmpeg stands for "FF Multi-Platform Executable" and was originally developed by
 
 FFmpeg is a complete, cross-platform solution to record, convert, mix, and edit audio and video files. The software has over 250 input formats, which allows users to **record video streams** in any media format. The FFmpeg commands stream the video back after recording, convert it into MP4 or MKV file, and process incoming data on the fly, such as rtmpdump.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to Record a Video Stream With FFmpeg on Windows?
 
 The free FFmpeg command line tool is a great way to record a live internet stream and listen back to it later. If you have a Windows PC and want to record a video stream or screen using FFmpeg, our following step-by-step method will help you go through this process without facing many difficulties.
@@ -728,6 +720,13 @@ On the next screen, select the latest **Windows 64-bit** file from the list. Why
 Step2 Locate the **ffmpeg.exe** file on the extracted file and copy it to a new folder on your computer hard drive (e.g., C:\\VideoRecorder).
 
 ![extracting ffmpeg files on windows pc](https://images.wondershare.com/filmora/article-images/2022/11/extracting-ffmpeg-files-on-windows-pc.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 In the next step, click the **Start** icon on your Windows dashboard and type **cmd** in the search box. Right-click on Command Prompt, select **“Run as Administrator,”** and launch the program.
 
@@ -748,6 +747,13 @@ The command options have the following meanings:
 **\-i** <https://www.youtube.com/watch?v=bV0RAcuG2Ao> is the stream URL that FFmpeg will record. You can change it with any video stream URL.
 
 **runningup.mp4** is the name of the output file.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tips: Automatically Recording Video Streams on Windows PC
 
@@ -793,14 +799,14 @@ Step2 **On the new Scrn pop-up window,** customize the recording size by enterin
 
 ![filmora custom audio video settings](https://images.wondershare.com/filmora/article-images/2022/11/filmora-custom-audio-video-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Click **Record** to start recording the video stream. Once you are done capturing the video stream on the computer screen, click the **F9** button to stop the recording.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -832,18 +838,20 @@ Hopefully, you can now record your video streams and save them in high quality t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-streamlined-strategies-for-joining-your-youtube-videos/"><u>[Updated] 2024 Approved Streamlined Strategies for Joining Your YouTube Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-experts-pathway-transforming-sdr-footage-into-hdri-for-2024/"><u>[Updated] The Expert's Pathway Transforming SDR Footage Into HDRI for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamline-your-video-capture-with-macbook-cam-settings/"><u>2024 Approved Streamline Your Video Capture with MacBook Cam Settings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/26-metaverse-milestones-a-journey-into-virtual-realms-for-2024/"><u>26 Metaverse Milestones A Journey Into Virtual Realms for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/bp550-review-latest-tech-advances/"><u>BP550 Review Latest Tech Advances</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-breakdown-of-winx-dvd-ripper-platinums-technical-features/"><u>Comprehensive Breakdown of WinX DVD Ripper Platinum's Technical Features</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-your-audio-files-seamlessly-professional-mp3-to-wav-and-wav-to-mp3-converter-software/"><u>Convert Your Audio Files Seamlessly: Professional MP3 to WAV and WAV to MP3 Converter Software</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/gtx-950-error-43-fix-guide-a-comprehensive-solution-for-windows-11-users/"><u>GTX 950 'Error 43' Fix Guide: A Comprehensive Solution for Windows 11 Users</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/hunt-for-amazing-prime-day-bargains-score-apple-deals/"><u>Hunt for Amazing Prime Day Bargains – Score Apple Deals</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-detailed-guide-to-rotate-videos-in-blender/"><u>In 2024, Detailed Guide to Rotate Videos in Blender</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-fps-for-youtube-videos/"><u>In 2024, Overview of FPS for YouTube Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-looking-for-the-best-vhs-video-effect-makers-get-to-know-the-top-list-for-2024/"><u>Updated Looking For the Best VHS Video Effect Makers? Get To Know the Top List for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-premier-free-tools-for-easy-jpggif-transformation-for-2024/"><u>[New] Premier Free Tools for Easy JPG/GIF Transformation for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-screencast-primer-fundamental-knowledge-for-video-enthusiasts/"><u>[Updated] The Screencast Primer Fundamental Knowledge for Video Enthusiasts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-7-tips-to-create-teaching-videos/"><u>2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-phone-as-webcam-a-step-by-step-guide-for-mobile-video-capture/"><u>2024 Approved Phone as Webcam A Step-by-Step Guide for Mobile Video Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photos-unbound-choosing-between-cost-free-and-premium-cloud-options/"><u>2024 Approved Photos Unbound Choosing Between Cost-Free and Premium Cloud Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unresponsive-context-menus-in-windows-oses/"><u>Fixing Unresponsive Context Menus in Windows OSes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-driver-software-fast-download-and-effortless-installation-tips/"><u>HP Driver Software: Fast Download & Effortless Installation Tips</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-perfect-360-videography-streaming-tips-for-youtube/"><u>In 2024, Perfect 360 Videography Streaming Tips for YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-8-most-effective-authentic-promotion-techniques/"><u>The 8 Most Effective, Authentic Promotion Techniques</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-hdri-everything-you-need-to-know-about-hdri-for-2024/"><u>What Is HDRI? Everything You Need to Know About HDRI for 2024</u></a></li>
 </ul></div>
 

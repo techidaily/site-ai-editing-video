@@ -1,7 +1,7 @@
 ---
 title: In 2024, Vintage Film Effect 1980S - How to Create
-date: 2024-10-07T17:46:19.082Z
-updated: 2024-10-08T17:13:49.189Z
+date: 2024-10-15T16:26:05.441Z
+updated: 2024-10-20T16:11:18.441Z
 tags: 
   - ai
   - animation videos
@@ -173,20 +173,6 @@ Let us tell you first that GoPro is primarily a company for camera accessories. 
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Slowing Down Videos on Your GoPro: A Guide
 
 [GoPro](https://gopro.com/en/us/) offers **Sony Vegas Pro Slow Motion** to record videos in slow motion. Does using such technical equipment seem challenging for you as a new user? Follow this step-by-step guide and set the camera before recording to make a perfect slow-mo shot.
@@ -271,6 +257,13 @@ Drag and drop the imported video in the timeline section. Place your cursor on t
 
 ![reduce speed and set ai frame](https://images.wondershare.com/filmora/article-images/2023/gopro-slow-motion-with-quality-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3: Preview the Results to Export or Continue to Edit
 
 Finally, get a preview of a slower but high-quality video by pressing the “Space” key. Afterward, if you are satisfied with the results, move to the “Export” option at the top right. Now, set the output settings based on how you want to save the video. Finally, press the “Export” button to save the results on your system.
@@ -300,13 +293,6 @@ Set the resolution to 2.7k for a slow-motion video and a frame rate of 240fps. A
 Reset the “Hyper Smooth” to high and later turn ISO to a minimum of 100 and a maximum of 800\. Then, head to set the "Shutter Speed" and "White Balance" to auto.
 
 ![adjust white balance and shutter speed](https://images.wondershare.com/filmora/article-images/2023/gopro-slow-motion-with-quality-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3
 
@@ -369,6 +355,13 @@ After learning the exceptional functionalities of Filmora, you might be consider
 Go to the official site of Wondershare Filmora and download its latest version, V13\. Launch it in your system and access its intuitive main interface. Choose “New Project” from its home screen and enter in the editing screen. Press your keyboard’s “Ctrl + I” keys and import your desired file in Filmora.
 
 ![create project to import video](https://images.wondershare.com/filmora/article-images/2023/gopro-slow-motion-with-quality-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 2: Use the Optical Flow Option and Slow Down the Video Speed
 
@@ -432,13 +425,6 @@ This function is quite helpful for showcasing your writing abilities to friends 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** **_For a thorough review of the Splice video editing app, visit_** [**_this full review passage._**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Part II. How to Change Video Speed Using Splice App
@@ -472,6 +458,13 @@ However, you can use alternative editing programs instead of utilizing them on y
 Upon clicking your video clip, a tab will display several options to modify the speed of your video. You can choose from slow to fast options. Click each option to choose from the specific speed you want
 
 ![click the fast or slow option](https://images.wondershare.com/filmora/article-images/2023/01/click-fast-or-slow-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Method 2\. Change the Speed Uniformly with "Uniform Speed"**
 
@@ -546,6 +539,13 @@ However, you can use alternative editing programs instead of utilizing them on y
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ultimate Guide to Customize Video Speed in Filmora
 
 **Method 1\. Click the "Fast" or "Slow" Options to Change the Speed Automatically**
@@ -572,6 +572,13 @@ The best thing about this feature is Filmora allows you to maintain the original
 
 ![choose the speed ramping panel](https://images.wondershare.com/filmora/guide/speed-ramping-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Here's how you can use the customization mode on the Speed Ramping panel.
 
 1. Click **Customize.**
@@ -580,13 +587,6 @@ Here's how you can use the customization mode on the Speed Ramping panel.
 4. Drag the white dot in the adjustment panel to change the video speed. Drag it upwards to accelerate the video speed or downwards to decelerate it.
 
 ![place the playhead to speed up](https://images.wondershare.com/filmora/article-images/2023/01/place-playhead-to-speed-up.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Splice Video Editor FAQs
 
@@ -605,6 +605,13 @@ You can choose between utilizing the Splice app and learning how to speed up vid
 * **iPhone**
 
 You must confirm that Splice is already loaded on your iPhone and is the most recent version. Open the program after installation, browse the project with the watermark and learn how to speed up video on iPhone with Splice. After selecting the watermark with a tap, click **"Edit"** from the menu in the screen's top right-hand corner. You'll now see a new tab labeled **"Effects"** immediately below the **"Audio"** tab; tap on it, and scroll down until you find the "Watermark" slider. To remove the watermark, slide it the entire way to the left. Your project is now free of the watermark.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom Line
 
@@ -664,6 +671,13 @@ Understand your target audience you need to know who you’ll be speaking to thr
 
 Making a script in your video is one way guide for you not to rattle or messed up everything, for me DIY vlog is different from product reviews or unboxing vlog. You can either write a word-by-word script for the video or just the general topics you aim to cover in the video. Either way, the point is to have a reference note so you don’t accidentally forget to cover an essential topic when you begin filming the video. DIY vlogs need to plan and make scripting because this is a more on tutorial video and you don’t like to missed one instruction on your video that is why making a script is a must unless you already doing it over and over again. You don’t have to be perfect and you don’t have to memorize any script. You just have to be relatable and authentic, yet professional.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Make You Video Short but full of information
 
 Make your video short but demand more attentions to your viewers because modern viewers have short attention spans specially when they’re on social media and there is always another video to see. Just make sure to grab your viewers attention by creating a catching footage.
@@ -718,20 +732,6 @@ A DIY video should be purely educational. Your audience will forgive your poor p
 
 ![informative content](https://images.wondershare.com/filmora/article-images/2022/07/informative-content.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Plan your video
 
 Ask yourself first of what you are trying to accomplish by producing the video. Remember that video is a tool and that it can hurt your channel if you don’t take it seriously and come properly prepared. Get organized and take down note if you have to.
@@ -739,6 +739,13 @@ Ask yourself first of what you are trying to accomplish by producing the video. 
 Understand your target audience you need to know who you’ll be speaking to through your video content. Make sure that you really understand what you are doing, by this kind of video content is in need your expertise. You have to share to your audience what your knowledge and experience about your video topic. This is the time where its ok to make or create a script and to map out a storyboard to guide you.
 
 ![plan your video 01](https://images.wondershare.com/filmora/article-images/2022/07/plan-your-video-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![plan your video 02](https://images.wondershare.com/filmora/article-images/2022/07/plan-your-video-02.jpg)
 
@@ -770,13 +777,6 @@ Add in your logo and branding to the video, it will make your video seem profess
 
 ![add transitions vlog video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-transitions-vlog-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Verdict
 
 Some studies say that making DIY project help reduce stress and improve your mood, that’s why a lot of people are watching DIY vlogs or video. DIY projects require you to use your hands, you’ll be able to learn new techniques and methods to put something together. This could also help you with future projects and you can even teach others how to use those skills as well.
@@ -801,20 +801,19 @@ Now that you know what kind of DIY videos you want to create, be ready and be pr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-dissecting-a-day-in-the-life-hero5-edition/"><u>[Updated] Dissecting a Day in the Life Hero5 Edition</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-fb-live-integration-with-cable-tv/"><u>[Updated] FB Live Integration with Cable TV</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-7-tips-to-create-teaching-videos/"><u>2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-excellent-video-and-picture-capture-for-iphones-and-androids-here/"><u>2024 Approved Excellent Video & Picture Capture for iPhones & Androids Here</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-ways-to-fix-minecrafts-exit-code-1-on-windows/"><u>6 Ways to Fix Minecraft's Exit Code: 1 on Windows</u></a></li>
-<li><a href="https://facebook.techidaily.com/friday-and-saturday-are-now-for-live-bargain-hunting-at-fb/"><u>Friday and Saturday Are Now for Live Bargain Hunting at FB</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a25-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A25 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-risograph-effect-in-photoshop-a-beginners-guide-for-2024/"><u>New Create Risograph Effect In Photoshop A Beginners Guide for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/nomadic-connections-unleashed-best-wireless-routers-for-travelers-this-year-2024/"><u>Nomadic Connections Unleashed: Best Wireless Routers for Travelers This Year, 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/seamless-pairing-solutions-resolve-your-airpods-iphone-disconnection-frustrations/"><u>Seamless Pairing Solutions: Resolve Your AirPods-iPhone Disconnection Frustrations</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/splitting-audio-from-video-in-sony-vegas-step-by-step-for-2024/"><u>Splitting Audio From Video in Sony Vegas Step by Step for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-your-own-lol-montage-video/"><u>Updated How to Create Your Own LOL Montage Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-hdri-everything-you-need-to-know-about-hdri-for-2024/"><u>What Is HDRI? Everything You Need to Know About HDRI for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ow-to-make-a-stunning-lyric-video-with-lyric-video-maker/"><u>[New] How to Make a Stunning Lyric Video with Lyric Video Maker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-logic-pros-strategy-for-muffled-sound-tracks/"><u>[Updated] In 2024, Logic Pro's Strategy for Muffled Sound Tracks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-adjust-the-tiktok-videos-length-to-make-them-captivating/"><u>2024 Approved Adjust the TikTok Videos Length to Make Them Captivating</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-free-luts-to-use-in-shotcut/"><u>Best Free LUTs To Use in Shotcut</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-tecno-camon-30-pro-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-crafting-compelling-vo-for-visual-storytelling-success/"><u>In 2024, Crafting Compelling VO for Visual Storytelling Success</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-s24plus-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy S24+ FRP Without Computer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-podcastpathfinder-charting-new-courses/"><u>In 2024, PodcastPathfinder Charting New Courses</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-complete-guide-to-make-a-super-easy-rotating-video-effect/"><u>New 2024 Approved Complete Guide to Make a Super Easy Rotating Video Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-add-vhs-effects-to-videos-for-free-a-2024-guide/"><u>New Add VHS Effects to Videos for Free A 2024 Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimizing-podcasts-on-googles-platform/"><u>Optimizing Podcasts on Google's Platform</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ten-proven-methods-for-correcting-phantom-inputs-on-iphones/"><u>Ten Proven Methods for Correcting Phantom Inputs on iPhones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-art-of-adding-audio-to-visual-content-for-facebook-sharing-for-2024/"><u>The Art of Adding Audio to Visual Content for Facebook Sharing for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing for 2024
-date: 2024-10-09T22:35:34.642Z
-updated: 2024-10-14T20:51:57.228Z
+date: 2024-10-16T17:02:03.520Z
+updated: 2024-10-20T16:07:23.546Z
 tags: 
   - ai
   - animation videos
@@ -77,13 +77,6 @@ The Import section of the Preferences dialog box is capable of handling source t
 
 ![box preference countdown video](https://images.wondershare.com/filmora/article-images/2022/11/box-preference-countdown-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That's it! You are now familiar with the process of creating a straightforward countdown and a countdown timer in After Effects, and you have three options to choose from. Make use of this information to give your videos an interesting spin and to round out the experience for the audience.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -129,6 +122,13 @@ Step3 When you're ready press these buttons to begin recording your tutorial and
 
 ![begin recording your tutorial](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Keep your intro short
 
 Avoid adding any long intro monologues or skits to your tutorial. First, your goal is to be informative and entertaining. Second, it's always best to lead with a peek at what the final result of your tutorial will look like whether it's a video effect arts and crafts or a recipe video.
@@ -142,19 +142,6 @@ No matter what your tutorial is about, breaking down your process into steps mak
 Step1 Move the playhead to where you want your first section to begin. Next, click the "Tittles" and pick a style that appeals to you.
 
 ![click the tittles](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-5.gif)
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Click and drag your title on a track above your footage.
 
@@ -200,16 +187,22 @@ Step5 Now, you have to double-click the clip in the preview window and move and 
 
 ![double-click the clip in the preview window](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-14.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step6 You can also use the sliders in the animation tab to do this if you want.
 
 ![use the sliders](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step7 Lastly, the mask highlight. To achieve this effect, you need to duplicate your desired clip by right-clicking and clicking "Duplicate."
 
@@ -242,6 +235,13 @@ Step13 here's where it all comes together. Double-click the bottom clip, click o
 Step14 Drag the opacity slider until you're happy with the contrast. Finally, you have a nifty mask highlight for your tutorial.
 
 ![drag the opacity slider](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-23.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -283,9 +283,29 @@ Step2 Click and drag your title on a track above your footage.
 
 ![click and drag your title](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Double-click your new title and type in your section title. You can even adjust the style of the text to your liking. Repeat the process for as many steps as you'd like for your tutorial
 
 ![type in your section title](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4\. Narrate your video
 
@@ -298,13 +318,6 @@ Step1 Moving your playhead to the beginning of your video. Then go to file recor
 Step2 Once you're done recording, you can adjust the volume and further edit the voiceover by double-clicking the new audio file on your timeline.
 
 ![adjust the volume](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5\. Emphasize important steps
 
@@ -330,6 +343,13 @@ Step5 Now, you have to double-click the clip in the preview window and move and 
 
 ![double-click the clip in the preview window](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step6 You can also use the sliders in the animation tab to do this if you want.
 
 ![use the sliders](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-15.jpg)
@@ -345,13 +365,6 @@ Step8 Drag the new clip to any layer above the original and make sure they're li
 Step9 To make things easier, turn off the bottom track by clicking the eye icon.
 
 ![turn off the bottom track](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-18.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step10 Double-click the clip on top and go to "Video > "Mask" and .click the button to turn it on. In this tutorial, we're going to use a "Rectangle" mask but the choice is yours.
 
@@ -453,19 +466,6 @@ Step4A brief list will start to appear. Next, on your iOS device, choose "Backgr
 
 ![best ways to blur zoom background for free](https://images.wondershare.com/filmora/article-images/2022/07/background-and-filters-zoom-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5Below your camera video, you'll see a few possibilities. Tap "Blur" to make the background blurry.
 
 ![best ways to blur zoom background for free](https://images.wondershare.com/filmora/article-images/2022/07/blur-bg-zoom-iphone.jpg)
@@ -483,6 +483,13 @@ Step2Select Virtual background after that. then choose a picture from the choice
 ![best ways to blur zoom background for free](https://images.wondershare.com/filmora/article-images/2022/07/virtual-background-android.jpg)
 
 Step3The backdrop of a picture or video added from your gallery using the Add icon will likewise successfully blur the background on your Zoom Android device. Now place Zoom calls as usual, and the backdrop of your live video will be automatically blurred.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -569,13 +576,6 @@ Step2Select Virtual background after that. then choose a picture from the choice
 ![best ways to blur zoom background for free](https://images.wondershare.com/filmora/article-images/2022/07/virtual-background-android.jpg)
 
 Step3The backdrop of a picture or video added from your gallery using the Add icon will likewise successfully blur the background on your Zoom Android device. Now place Zoom calls as usual, and the backdrop of your live video will be automatically blurred.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -682,16 +682,10 @@ Through this effect, you can smoothen your video by adding a realistic touch to 
 ![motion blur explained](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-plugin-for-ae-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: 3 Motion Blur Plugins for Adobe Effects
@@ -776,20 +770,14 @@ In this article, we have shed light on the top three motion blur plugins you can
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-explore-the-pinnacle-of-photography-frames-for-2024/"><u>[New] Explore the Pinnacle of Photography Frames for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-cinematic-zoom-effect-focus-on-film-for-2024/"><u>[New] The Cinematic Zoom Effect Focus on Film for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-watch-9-festive-feasts-of-film-with-zero-charges-online/"><u>[Updated] 2024 Approved Watch 9 Festive Feasts of Film with Zero Charges Online</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unmasking-instagrams-unnoticed-capabilities/"><u>[Updated] Unmasking Instagram’s Unnoticed Capabilities</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-10-best-sony-lut-for-different-purposes/"><u>2024 Approved 10 Best Sony LUT for Different Purposes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-cont/"><u>2024 Approved Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/boost-your-game-presence-a-comprehensible-guide-to-freegame-hashtags-for-2024/"><u>Boost Your Game Presence A Comprehensible Guide to FreeGame Hashtags for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/easyrecorder-straightforward-windows-10-tool-for-2024/"><u>EasyRecorder - Straightforward Windows 10 Tool for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/find-your-photo-oasis-a-guide-to-pexels-for-2024/"><u>Find Your Photo Oasis A Guide to Pexels for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-gear-comparison-gopros-best-match-ghost-s-drift/"><u>In 2024, High Gear Comparison GoPro's Best Match? Ghost-S Drift</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-in-canva/"><u>New 2024 Approved How to Add Subtitles in Canva?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>New 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-secret-tips-and-tricks-to-use-in-filmora-for-2024/"><u>Updated Secret Tips & Tricks to Use in Filmora for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/39842611-new-flawless-free-download-of-youtube-video-covers-no-hurdles/"><u>[New] Flawless Free Download of YouTube Video Covers - No Hurdles</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-mini-laptops-and-gimbals-for-mobile-videos/"><u>[New] In 2024, Mini Laptops & Gimbals for Mobile Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-steps-to-activate-a-full-screen-grid-on-google-meet-for-2024/"><u>[Updated] Easy Steps to Activate a Full-Screen Grid on Google Meet for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-see-who-viewed-your-instagram-post-for-2024/"><u>[Updated] How to See Who Viewed Your Instagram Post for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies/"><u>Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-trouble-free-performance-why-rebooting-your-phone-matters/"><u>Unlocking Trouble-Free Performance: Why Rebooting Your Phone Matters</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-remove-audio-from-video-without-watermark/"><u>Updated How to Remove Audio From Video Without Watermark?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/you-can-easily-film-rotating-video-illusions-from-your-smartphone-and-edit-them-on-wondershare-filmora-in-just-a-few-clicks-for-2024/"><u>You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks for 2024</u></a></li>
 </ul></div>
 

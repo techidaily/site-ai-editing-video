@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing
-date: 2024-10-08T01:34:27.211Z
-updated: 2024-10-15T01:18:21.903Z
+date: 2024-10-17T16:13:29.819Z
+updated: 2024-10-20T16:33:18.808Z
 tags: 
   - ai
   - animation videos
@@ -98,6 +98,13 @@ That's it! You are now familiar with the process of creating a straightforward c
      data-ad-slot="1223367746"></ins>
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 Best Effects to Appear on Camera Made with Filmora
 
 We all want to improve our video editing skills and give them more of a wow factor. A fantastic method of achieving this is using different effects and tricks on [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -125,13 +132,6 @@ Step2 Make a shot of your talent appearing from where the jacket landed. You can
 Step3 Download Filmora to edit your footage. You can get started by going to their official website.
 
 ![download filmora](https://images.wondershare.com/filmora/article-images/2022/12/appearance_3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 Now split the first clip on the frame where your jacket lands on the stool. Place it on the first track.
 
@@ -179,6 +179,13 @@ Step4 Double-click on it, activate the setting window and then key out the backg
 
 ![activate the setting window ](https://images.wondershare.com/filmora/article-images/2022/12/appearance_12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Move the clip until it covers only the first frame of the appearing clip. Now keyframe the following subject from the outer frame to the final position.
 
 ![move the clip](https://images.wondershare.com/filmora/article-images/2022/12/appearance_13.jpg)
@@ -186,13 +193,6 @@ Step5 Move the clip until it covers only the first frame of the appearing clip. 
 Step6 Now search for some smoke effects and put it upside down. So it looks like the ceiling is broken when the subject falls. Then add some camera shake to the fall.
 
 ![search for some smoke effects](https://images.wondershare.com/filmora/article-images/2022/12/appearance_14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step7 Drag the camera shake effect back to the top track and shorten it to an ideal length. You can also add some sound effects if you want to this video.
 
@@ -420,16 +420,16 @@ Go to the “Transform” selection, then select the rotate option.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Adjust the rotation angle using the tool.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
 
@@ -486,13 +486,6 @@ For Win 7 or later (64-bit)
 For macOS 10.14 or later
 
 There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step-by-step on how to rotate videos in Filmora
 
@@ -698,6 +691,13 @@ For Win 7 or later (64-bit)
 
 For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step by Step on How to Resize Videos using Filmora
 
 Resizing videos in Filmora is a quick and easy process. To resize videos, first make sure you have imported your video file into the editor.
@@ -722,13 +722,6 @@ Step 1: To import a video file, either drag and drop it onto the screen or use t
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Open the video shrinker's output window by clicking the "Export" button.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-10.png)
@@ -736,6 +729,13 @@ Step 2: Open the video shrinker's output window by clicking the "Export" button.
 Step 3: Select the Format tab and keep the video in its original format as a result. Then, in the "Settings" panel, click the triangle button below to downsize the video by choosing a lower video resolution, frame rate, or bit rate. When it comes to video formats, you can choose among FLV, MP4, and other similar formats, which normally result in smaller files.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: The shrunk file should be exported.
 
@@ -760,16 +760,10 @@ Step 1: Launch the VLC Media Player
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-4.png)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Go to Menu > View Menu > Advanced Controls in VLC Media Player and select it from the menu.
@@ -858,13 +852,6 @@ Step 1: Launch the VLC Media Player
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Go to Menu > View Menu > Advanced Controls in VLC Media Player and select it from the menu.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-5.png)
@@ -907,6 +894,13 @@ Step 1: To import a video file, either drag and drop the file on the screen or c
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Once you've imported your video, select the video clips that you want to resize by clicking on them; then, resizing them is as simple as dragging their borders!
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-8.png)
@@ -920,13 +914,6 @@ Step 4: Keep in mind that changing one dimension of a video clip will affect bot
 Step 1: To import a video file, either drag and drop it onto the screen or use the toolbar's "Import Files" option.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2: Open the video shrinker's output window by clicking the "Export" button.
 
@@ -1017,6 +1004,13 @@ Step 1: To import a video file, either drag and drop it onto the screen or use t
 Step 2: Open the video shrinker's output window by clicking the "Export" button.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Select the Format tab and keep the video in its original format as a result. Then, in the "Settings" panel, click the triangle button below to downsize the video by choosing a lower video resolution, frame rate, or bit rate. When it comes to video formats, you can choose among FLV, MP4, and other similar formats, which normally result in smaller files.
 
@@ -1044,22 +1038,21 @@ So you’ve got this beautiful video you want to post on your social media page 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-interactive-therapy-in-the-virtual-world/"><u>[New] 2024 Approved Interactive Therapy in the Virtual World</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-archival-artifacts-radeons-revamp-for-2024/"><u>[New] Archival Artifacts Radeon's Revamp for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-eco-friendly-recorder-ads-absolved-in-2024/"><u>[New] Eco-Friendly Recorder - Ads Absolved, In 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-optimal-sony-ps3-reproduction-tools-ranked-pc/"><u>[New] In 2024, Optimal Sony PS3 Reproduction Tools Ranked (PC)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-examining-the-potential-of-4-second-subscriptions/"><u>[Updated] Examining the Potential of 4-Second Subscriptions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-make-your-background-disappear-and-replace-with-an-attractive-background-here-is-how-to-add-a-green-screen-to-zoom-app-and-add-any-virtual-ba/"><u>Do You Want to Make Your Background Disappear and Replace with an Attractive Background? Here Is How to Add a Green Screen to Zoom App and Add Any Virtual Background of Your Choice</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-8-plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone 8 Plus Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-beginner-friendly-approach-embracing-video-chats-on-insta/"><u>In 2024, Beginner-Friendly Approach Embracing Video Chats on Insta</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-be-aware-of-vhss-meaning-there-is-nothing-to-be-worried-about-because-we-will-guide-you-in-this-article/"><u>In 2024, Do You Want to Be Aware of VHSs Meaning? There Is Nothing to Be Worried About because We Will Guide You in This Article</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-film-a-slow-motion-video/"><u>New 2024 Approved How To Film a Slow Motion Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review-for-2024/"><u>New VSDC Free Video Editor Review for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successfully-reinstalling-battleye-security-suite/"><u>Troubleshooting Guide: Successfully Reinstalling BattlEye Security Suite</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-choosing-iphone-16-and-iphone-16-pro-case-options-features-and-reviews-from-industry-testers-zdnet/"><u>Ultimate Guide to Choosing iPhone 16 & iPhone 16 Pro Case Options : Features and Reviews From Industry Testers | ZDNET</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-3-ways-to-make-time-lapse-video-on-macbook/"><u>Updated 3 Ways to Make Time-Lapse Video on MacBook</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora-for-2024/"><u>Updated How to Correct Lens Distortion With Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-3-best-effects-to-appear-on-camera/"><u>Updated In 2024, 3 Best Effects to Appear on Camera</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>Updated Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-auditory-ambiance-music-in-instagrams-visual-narratives-for-2024/"><u>[Updated] Auditory Ambiance Music in Instagram's Visual Narratives for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-direct-guide-to-modifying-macs-default-snapshots/"><u>[Updated] In 2024, Direct Guide to Modifying Mac's Default Snapshots</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/a-guide-to-adding-audio-in-wondershare-filmora/"><u>A Guide to Adding Audio in Wondershare Filmora</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/audews-handy-air-compressor-unveiling-the-power-of-a-miniature-marvel/"><u>Audew's Handy Air Compressor: Unveiling the Power of a Miniature Marvel</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blending-images-into-a-masterpiece-of-mosaics-for-2024/"><u>Blending Images Into a Masterpiece of Mosaics for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-globalviewers-access-unlimited-local-tv-for-life/"><u>In 2024, GlobalViewers Access Unlimited Local TV for Life</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-fake-snapchat-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/m4a-to-mpeg-konvertisseur-online-bonusgratis-betreffend-movavi/"><u>M4A-to-MPEG Konvertisseur Online Bonusgratis - Betreffend Movavi</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-top-10-sony-lut-for-different-purposes/"><u>New 2024 Approved Top 10 Sony LUT for Different Purposes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-working-out-all-important-details-of-slowing-down-video-in-after-effects/"><u>New Working Out All Important Details of Slowing Down Video in After Effects</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/reviving-old-photos-through-snapchats-memories-feature/"><u>Reviving Old Photos Through Snapchat's Memories Feature</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/shotcut-review-is-it-the-best-free-video-editor-for-2024/"><u>Shotcut Review – Is It The Best Free Video Editor for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-windows-techniques-for-enjoying-high-definition-adventures-with-scummvm/"><u>Top Windows Techniques for Enjoying High-Definition Adventures with ScummVM</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-before-and-after-editing-trick-filmora/"><u>Updated In 2024, Before & After Editing Trick - Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>Updated In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-renderforest-is-a-great-online-editing-platform-to-use-for-many-video-creators-if-you-want-to-make-an-intro-video-for-your-channel-or-daily-vlogs-yo/"><u>Updated Renderforest Is a Great Online Editing Platform to Use for Many Video Creators. If You Want to Make an Intro Video for Your Channel or Daily Vlogs, You Can Follow This Article to Know More Details</u></a></li>
 </ul></div>
 

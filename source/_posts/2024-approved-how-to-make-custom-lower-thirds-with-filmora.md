@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Make Custom Lower Thirds with Filmora
-date: 2024-09-30T22:30:59.547Z
-updated: 2024-10-02T22:52:18.002Z
+date: 2024-10-18T16:54:09.955Z
+updated: 2024-10-20T17:05:47.579Z
 tags: 
   - ai
   - animation videos
@@ -76,13 +76,6 @@ Click **Advanced > Animation > Up Down 1** animation. Adjust the animation lengt
 Double-click on the white line clip on the timeline to show the animation keyframe setting window. Then, playback the animation of the text, find a position before the text animation starts and move the play head there. Make sure it is close enough to when the texts show up so the white line enters the keyframe right before the text enters.
 
 ![add keyframes to the white line clip when entering](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-9.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Click to add a keyframe, double-check to make sure it is the final position you want, and the opacity should be 100 at this point.
 
@@ -165,6 +158,13 @@ If you want the name card to exit to the bottom, change the Y-axis number until 
 Finally, you can add a Subscribe button from the new default Filmora element pack “Social Media.”
 
 ![add a subscribe button](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-24.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Wrapping up
 
@@ -286,22 +286,15 @@ Double-click on the background clip to show the animation tab setting. Then, pla
 
 ![double-click on the background clip](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-21.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Similar to the tutorial before, move the play head again a few frames earlier to the left and add another keyframe. If you want to have the name card flying in from the left while expanding, you can change the X-axis and scale of the background card to 0\. Change the opacity to 0 to create a color change from transparent to white.
 
 ![move the play head again](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-22.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To let the background card exit the frame, add two more keyframes to the background card. Add a keyframe with no changes to settings. Move the play head to the right for a few frames and add another keyframe.
@@ -424,6 +417,13 @@ You are in the right place because this is an amazing **VHS camera overlay** edi
 
 ![glitch video effect live vhs](https://images.wondershare.com/filmora/article-images/2023/glitch-video-effect-live-vhs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. VHS Video Editor, Vintage Cam \[[iOS](https://apps.apple.com/us/app/vhs-video-editor-vintage-cam/id1491381915)\]
 
 Don't confuse yourself with retro, 90s, VHS, and vintage looks. All these looks are different from each other, and this iOS app has it all. From light leaks to the original VHS look, you can add any effect to your video. With over 100 effects and overlay options, VHS Video Editor has much to offer. Your videos will look dusty, with grains and increased noise, creating an old vintage look.
@@ -452,13 +452,6 @@ To begin, open Wondershare Filmora on your system and click on the "New Project"
 
 ![new project on filmora](https://images.wondershare.com/filmora/article-images/2023/new-project-on-filmora-to-add-vhs-camera-effect.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 2 Import and Arrange Your Video
 
 Import your file from the system using the import media option. Next, drag and drop your video into the timeline area to organize and prepare it for editing.
@@ -476,6 +469,13 @@ Now, it's time to apply the VHS effects to your video. Locate the "Effects" opti
 Change the intensity of the VHS overlay by adjusting its opacity. Go to the "Effects" tab on the right side of the screen and find the effect you applied. From there, modify its transparency to achieve the desired look. Once you're satisfied, click on the "Export" button located at the top left of the screen to save your video with the applied VHS effects.
 
 ![adjust vhs camera filter and export](https://images.wondershare.com/filmora/article-images/2023/adjust-vhs-camera-filter-and-export.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -504,6 +504,13 @@ Another amazing tool that gives you the original feel of VHS footage is Vaporgra
 **Compatibility:** Android 5.0 and newer
 
 ![vaporgram glitch photo editor](https://images.wondershare.com/filmora/article-images/2023/vaporgram-glitch-photo-editor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Film Cam -Vintage Roll Camera \[[Android](https://play.google.com/store/apps/details?id=com.lm.rolls.gp)\]
 
@@ -575,13 +582,6 @@ Change the intensity of the VHS overlay by adjusting its opacity. Go to the "Eff
 
 ![adjust vhs camera filter and export](https://images.wondershare.com/filmora/article-images/2023/adjust-vhs-camera-filter-and-export.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In conclusion, the internet offers many video effects that can enhance the look of your videos. With the help of such tools, you can easily apply these effects and overlays to your videos. However, if you want to apply a specific effect like the **VHS camera effect**, you can. Wondershare Filmora is a platform where you can edit and apply different effects to your video.
@@ -623,10 +623,10 @@ Have you ever used [**Adobe Premiere Pro**](https://www.adobe.com/products/premi
 **Adobe Premiere Pro** also allows you to color-correct the videos. You can adjust the elements such as saturation, contrast, hue, and brightness. Furthermore, you can add different types of blur effects, including the Gaussian blur effect. You can also add further alterations to your video file by adding text overlays and other graphics elements.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Steps to Add Gaussian Blur Effect Using Premiere Pro
@@ -641,20 +641,27 @@ Step2 On the menu of the Adjustment Layer, change the timebase to 60 FPS. Press 
 
 ![set the fps](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Now go to the “Effects” section and type “Gaussian” in its search box. From the results, drag and drop the Gaussian blur to the adjustment layer in the timeline. Now you will be able to see the effect controls section on the left side. From there, increase the “Blurriness” to 100%.
 
 ![increase the blurriness](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 To create animation, copy your video clip and paste it above the adjustment layer. Head back to the effects section and search for “Crop." Apply it to the top-most video clip. From the left section, change the “Top” to 0%. Once done, turn on its toggle and move the play head a little bit.
 
 ![search for crop effect](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 Add a new keyframe and then change the “Top” to 100%. After rendering the video, you can see the final results in the preview window.
 
@@ -761,13 +768,6 @@ Step1 Open Photoshop and import the desired picture. Once done, go to the "Layer
 Step2 Now proceed to the "Filter" section and locate the option "Blur Gallery". From there, choose the "Path Blur" option. Now you would be able to see an arrow on your screen. Using this arrow, you can specify the path blur motion. Drag and close the arrow where you want to show the speed. Also, set a higher value for the speed given on the right side. Once done, hit the "OK" button.
 
 ![choose the path blur](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Create a Long Exposure Picture
 
@@ -881,21 +881,20 @@ If you want to display a sense of speed and movement in the picture, you can add
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-easy-screen-capture-app-w10-edition-for-2024/"><u>[Updated] Easy Screen Capture App, W10 Edition for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-get-premium-minecraft-channel-graphics-for-2024/"><u>[Updated] Get Premium Minecraft Channel Graphics for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-dji-fpv-revolution-a-review-of-eyewear-innovation/"><u>2024 Approved The DJI FPV Revolution A Review of Eyewear Innovation</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-create-a-zoom-motion-blur-effect-using-photoshop-if-you-are-unaware-of-how-to-do-this-read-this-article-to-learn-simple-yet-authentic-instruc/"><u>Do You Want to Create a Zoom Motion Blur Effect Using Photoshop? If You Are Unaware of How to Do This, Read This Article to Learn Simple yet Authentic Instructions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-the-jitter-and-sparkle-a-comprehensive-solution-for-shakingflickering-surface-pro-displays/"><u>Fix the Jitter & Sparkle: A Comprehensive Solution for Shaking/Flickering Surface Pro Displays</u></a></li>
-<li><a href="https://win-dash.techidaily.com/freshly-updated-magiccard-rio-pro-driving-simulator-now-available-supports-windows-operating-systems-including-11-8-the-title-magicard-rio-pro-driver-latest277/"><u>Freshly Updated Magiccard Rio Pro Driving Simulator Now Available – Supports Windows Operating Systems Including 11, 8. The Title Magicard Rio Pro Driver | Latest Download | For Windows 11, 8.1 and 7 Could Be Rephrased As:</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-11-pro-max-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone 11 Pro Max</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-tecno-spark-go-2024-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Spark Go (2024) Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oneplus-ace-2v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on OnePlus Ace 2V Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-3-ways-to-stream-and-record-at-the-same-time/"><u>In 2024, 3 Ways To Stream And Record At The Same Time</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-best-luts-for-vlog/"><u>In 2024, Overview of Best LUTs for Vlog</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-steam-various-easy-routes/"><u>Reviving Steam: Various Easy Routes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-video-contents-that-convert-sales-for-2024/"><u>Updated How to Create Video Contents That Convert Sales for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954220029-updated-in-2024-what-you-should-know-about-speech-to-text-technology/"><u>Updated In 2024, What You Should Know About Speech-to-Text Technology</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/want-to-play-a-video-on-loop-on-vimeo-so-that-it-plays-again-and-again-here-are-all-the-different-ways-to-loop-a-video-on-vimeo-in-simple-steps-for-2024/"><u>Want to Play a Video on Loop on Vimeo so that It Plays Again and Again? Here Are All the Different Ways to Loop a Video on Vimeo in Simple Steps for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-fundamentals-of-using-ffpm-in-firefox/"><u>[New] In 2024, The Fundamentals of Using FFPM in Firefox</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-iphones-path-to-film-retrospection/"><u>[Updated] In 2024, IPhone's Path to Film Retrospection</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-foremost-zooid-beginnings-guide/"><u>2024 Approved Foremost Zooid Beginnings Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-/"><u>2024 Approved Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/boosting-laptop-performance-with-ram-expansion/"><u>Boosting Laptop Performance with RAM Expansion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-storytelling-skills-transforming-images-into-engaging-videos-with-pixiz/"><u>Elevate Your Storytelling Skills Transforming Images Into Engaging Videos with Pixiz</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-windows-phone-apps-for-your-cinematic-journey/"><u>In 2024, Best Windows Phone Apps for Your Cinematic Journey</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-freeze-frame-sequence-in-video/"><u>In 2024, How to Create A Freeze Frame Sequence in Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-zoom-video-in-vlc-media-player/"><u>In 2024, How to Zoom Video in VLC Media Player</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-using-luts-perfectly-in-final-cut-pro-for-2024/"><u>New Guide To Using Luts Perfectly in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-whatre-the-best-alternatives-to-pexels/"><u>New Whatre the Best Alternatives to Pexels?</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-overcome-genshin-impact-startup-issues-effortlessly/"><u>Quick Solutions: Overcome Genshin Impact Startup Issues Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-the-hamachi-disconnection-problem/"><u>Troubleshooting Tips: Resolving the Hamachi Disconnection Problem</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-cropping-and-combining-content-in-wondershare-filmora-latest-for-2024/"><u>Updated Guide To Cropping and Combining Content in Wondershare Filmora Latest for 2024</u></a></li>
 </ul></div>
 

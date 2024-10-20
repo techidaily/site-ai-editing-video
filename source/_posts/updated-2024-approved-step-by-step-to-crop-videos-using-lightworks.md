@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Step by Step to Crop Videos Using Lightworks
-date: 2024-10-10T02:01:22.164Z
-updated: 2024-10-14T22:58:45.431Z
+date: 2024-10-17T17:00:15.113Z
+updated: 2024-10-20T17:14:04.607Z
 tags: 
   - ai
   - animation videos
@@ -93,13 +93,6 @@ Step 2: After importing your videos into Lightworks, you can now proceed towards
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-3.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: How to crop videos using the DVE tool? You can now go to the ‘Crop’ option under the DVE tab and move your cursor over any unwanted portion of the video and click-and-drag it down and in the right direction. This will distort and stretch the video to remove that particular portion from there while preserving its overall appearance and quality.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-4.jpeg)
@@ -130,13 +123,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step-by-step on how to crop videos using Filmora?
 
 Step 1: Open a video that you want to edit.
@@ -146,6 +132,13 @@ Step 1: Open a video that you want to edit.
 Step 2: Open the Filmora editing tool and select the "Crop and Zoom" icon.
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-6.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Drag the cursor from any corner of your video preview window so as to adjust the size of the crop frame.
 
@@ -207,13 +200,6 @@ Step 3: Drag the cursor from any corner of your video preview window so as to ad
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-7.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Once you have adjusted it as per your needs hit the green "OK" button. So, this is how you can add or remove any part of a video clip on Filmora easily.
 
 This free video editing tool offers great features for users and helps them edit home videos without any hassle.
@@ -225,6 +211,13 @@ Step 2: After importing your videos into Lightworks, you can now proceed towards
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-2.jpeg)
 
 ![crop-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-lightworks-3.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: How to crop videos using the DVE tool? You can now go to the ‘Crop’ option under the DVE tab and move your cursor over any unwanted portion of the video and click-and-drag it down and in the right direction. This will distort and stretch the video to remove that particular portion from there while preserving its overall appearance and quality.
 
@@ -239,16 +232,10 @@ So, this is how you can edit or remove part of a video clip in Lightworks easily
 There are many video cropping tools available on the internet which can be used for free. Those who are looking for a free, easy to use video editor can download and use this tool without any hassle. That is why; Filmora is best alternative of Lightworks, which offers free version of simple editing tools with all the features you need for your home videos. The free version of this tool is available for Windows; Mac; and Linux operating systems.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Easier Way to Crop Video Using Filmora
@@ -268,6 +255,13 @@ For Win 7 or later (64-bit)
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step-by-step on how to crop videos using Filmora?
 
@@ -322,6 +316,19 @@ Because of this, it has the power to attract attention from the very beginning a
 ## 2\. What are some good intro makers?
 
 Here you will a list of many great intro makers you can use for free and paid.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adobe After Effects
 
@@ -425,6 +432,13 @@ If you're worried about how challenging and time-consuming it will be to create 
 
 When working on other video projects, you can use masking and blending to add layers to your videos and give them the shape you want, thereby producing the most artistic scenes possible. Make use of keyframing to modify the dynamism and smoothness of your edits with the help of animated effects. The chroma key tool allows you to get rid of green screens and create amazing effects that will blow people away. And AI Motion Tracking is just what you need to make it possible for text or graphics to automatically track specific objects throughout your films.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Bottom Line
 
 The readers of this post have been provided with a list of many free online 3D intro creator tools, which can be used to create the ideal film for both personal and commercial usage. The availability of multiple tools accompanied by clear descriptions of the capabilities supplied by each helps to simplify the decision process. In addition to this, users have been supplied with an in-depth introduction to Wondershare UniConverter, a program that provides tools that are universally applicable.
@@ -481,13 +495,6 @@ Once you know who your target audience are, then it’s time for you to create a
 
 ![Target Audience](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Target Audience
 
 ## 1\. Start with a Strong Hook
@@ -514,13 +521,6 @@ In a fast-paced world, it can be tempting to try and pack as much information in
 
 ![Keep Short and Sweet](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Keep Short and Sweet
 
 ## 3\. Focus on the Viewer
@@ -540,6 +540,13 @@ But what exactly is persuasive language? In essence, it's a way of speaking that
 So how can you use it effectively in your own sales pitches? Here are 35 words customers love to hear when making a decision:
 
 ![Use Persuasive Language](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Use Persuasive Language
 
@@ -658,13 +665,6 @@ Strong Hook
 
 ![Attention-Grabbing Headline](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Attention-Grabbing Headline
 
 You only have a few seconds to make a strong impression. Use a strong wisely and you'll soon see your sales start to climb.
@@ -685,6 +685,13 @@ When creating a video that is designed to convert viewers into paying customers,
 
 Focus on the Viewer
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Use Persuasive Language
 
 There's no denying it – persuasive language is a powerful tool for sales. By speaking in a way that encourages your audience to take action, you can convince them to buy your product or service. And when it comes to sales, every little bit counts.
@@ -694,13 +701,6 @@ But what exactly is persuasive language? In essence, it's a way of speaking that
 So how can you use it effectively in your own sales pitches? Here are 35 words customers love to hear when making a decision:
 
 ![Use Persuasive Language](https://images.wondershare.com/filmora/article-images/2022/06/how-to-create-video-contents-that-convert-sales-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Use Persuasive Language
 
@@ -781,21 +781,20 @@ Wrap Up
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-editing-video.techidaily.com/3-ways-to-stream-and-record-at-the-same-time/"><u>3 Ways To Stream And Record At The Same Time</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/9-command-center-of-live-gaming-streams-for-2024/"><u>9 Command Center of Live Gaming Streams for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/benefits-of-live-streaming-on-youtube-for-2024/"><u>Benefits of Live Streaming on YouTube for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-a23-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy A23 5G Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-conceal-dont-reveal-how-to-blur-faces-online/"><u>In 2024, Conceal, Don't Reveal How to Blur Faces Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-ninja-jump-effect-with-filmora/"><u>In 2024, How To Make Ninja Jump Effect with Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-changers/"><u>In 2024, Recommended Video Background Changers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-different-ways-to-crop-tiktok-video-in-high-quality/"><u>New 2024 Approved Different Ways to Crop TikTok Video in High-Quality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-want-to-create-a-stunning-intro-video-on-your-smartphone-legend-intro-maker-is-a-popular-choice-learn-the-steps-to-design-intro-video-legend-intro-maker/"><u>New Want to Create a Stunning Intro Video on Your Smartphone? Legend Intro Maker Is a Popular Choice. Learn the Steps to Design Intro Video Legend Intro Maker</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-xml-files-demystified-a-beginners-guide-to-fcpx/"><u>New XML Files Demystified A Beginners Guide to FCPX</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-game-cannot-load-restore-and-fix-the-absent-physxloaderdll-file/"><u>Overcoming 'Game Cannot Load': Restore and Fix the Absent physxloader.dll File</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-practice-of-regular-windows-saves/"><u>The Essential Practice of Regular Windows Saves</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tep-by-step-guide-to-youtube-gamers-broadcasting/"><u>The Step-by-Step Guide to YouTube Gamers' Broadcasting</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-narzo-n53-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Narzo N53</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-motorola-edge-2023-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Motorola Edge 2023 Android SIM Unlock APK</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-apply-gaussian-blur-effect-to-videos-in-premiere-pro/"><u>Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-tabletop-adventures-integrating-chatgpt-into-dungeons-and-dragons-gaming/"><u>Boosting Tabletop Adventures: Integrating ChatGPT Into Dungeons & Dragons Gaming</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-linksys-ae25n-wireless-network-up-and-running-fast-download-the-latest-drivers-here/"><u>Get Your Linksys AE25n Wireless Network Up & Running Fast – Download the Latest Drivers Here!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205926497-hp-laptops-unresponsive-keys-master-the-rapid-restoration-methods-today/"><u>HP Laptops' Unresponsive Keys? Master the Rapid Restoration Methods Today</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/if-you-want-to-make-an-intro-video-then-adobe-after-effects-will-be-a-great-choice-this-article-will-show-the-steps-to-create-an-intro-video-with-after-effe/"><u>If You Want to Make an Intro Video, Then Adobe After Effects Will Be a Great Choice. This Article Will Show the Steps to Create an Intro Video with After Effects by Your Own</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sierras-best-curated-list-of-exceptional-mac-video-tools/"><u>In 2024, Sierra's Best Curated List of Exceptional Mac Video Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-deck-games-9-premier-emulators/"><u>Mastering Steam Deck Games: 9 Premier Emulators</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/non-athletic-games-the-best-10-front-rows-for-2024/"><u>Non-Athletic Games The Best 10 Front Rows for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-to-fix-the-inability-of-windows-11-to-properly-shutdown/"><u>Solutions to Fix the Inability of Windows 11 to Properly Shutdown</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>Updated Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
 </ul></div>
 

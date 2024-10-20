@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Put a Filter on a Video in iMovie
-date: 2024-09-30T04:45:59.379Z
-updated: 2024-10-03T06:41:38.543Z
+date: 2024-10-16T16:13:34.647Z
+updated: 2024-10-20T16:40:31.408Z
 tags: 
   - ai
   - animation videos
@@ -83,6 +83,19 @@ Step2 Drag and drop video clips under Project Media folder. Thereafter, drag and
 
 ![drag and drop video clip](https://images.wondershare.com/filmora/guide/create-new-project-02.png)
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Go to Effects from the top panel and click on Filters from the left panel. You will see all the different categories of filters.
 
 ![click on filters](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
@@ -143,6 +156,13 @@ You may need those things to film under the harsh sun:
 4. Artificial light equipment.
 
 Now let's see when and how to use them against the strong sunlight!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2) Direct to the Sun
 
@@ -206,6 +226,13 @@ If you shoot or film outdoors, you must learn how to cope with the unsteady natu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Level Up Videos By Applying Keyframe with Filmora
 
 Everyone is fascinated by a video portraying creativity and effort in each frame. Your films can easily have this captivity through the keyframe feature. It provides you the accessibility to make even a simple, plain shot pace up, slow down, or pan across the screen.
@@ -244,13 +271,6 @@ We use the picture-in-picture effect in many editing formats, from tutorial vide
 
 The picture will move across the screen between the 30-second and 1-minute marks if you indicate that it will be in the upper left corner of the screen at the 30-second timestamp of your video and the bottom right corner at the 1-minute timestamp.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. What Would You Need to Make a Keyframe Video
 
 Let us share the procedure for making a video using the keyframe feature.
@@ -272,6 +292,13 @@ To utilize the keyframe feature, you need high-end video and animation editing s
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4\. How to Make a Keyframe Video With Filmora
 
@@ -302,13 +329,6 @@ Launch the most recent version of the software on your computer to produce an ou
 * Click on **Open,** and you will have imported files.
 
 ![importing clips to filmora](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3 Add your Photos and Videos to the Timeline
 
@@ -422,13 +442,6 @@ Launch the most recent version of the software on your computer to produce an ou
 * Click on **Open,** and you will have imported files.
 
 ![importing clips to filmora](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3 Add your Photos and Videos to the Timeline
 
@@ -527,13 +540,6 @@ Our eyes process colors differently. When two people look at the same picture, t
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 1\. Vectorscope: What is It and How to Read**
 
 Vectorscopes provide a great post-production way for color correction. It is video scope that provides greater data about the color properties of an image. Another way to look at it is that a Vectorscope is a circular graph, which monitors the following information of an image. By looking at it, you can measure saturation outward from the center while hue is measured in a circular pattern.
@@ -562,6 +568,13 @@ Just like many other video editing software, Adobe Premiere Pro offers Vectorsco
 
 The reference monitor will first display composite video. Clicking on the setting icon allows you to access the panel and choose the video scope you want to use. Now, this is how you use the Vectorscope in Premiere Pro:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Reading a Vectorscope on Premiere Pro**
 
 A Vectorscope is similar to a color wheel. It displays colors in the same places as the wheel, with cyan to the bottom right and red to the top left. When you see a dot or line in the Vectorscope, you can tell it is giving you information about the color or chrominance of a shot. Essentially, this information is the hue (specific color) and the saturation (the strength of that hue).
@@ -571,13 +584,6 @@ A Vectorscope is similar to a color wheel. It displays colors in the same places
 As you examine the Vectorscope, you get to see how strong a particular color is by the length of the line from the center of the wheel. A longer line indicates that the color is more saturated. However, all Vectorscopes have small color targets. The Vectorscope points are lined with a drop-down used to read the scope. The default is set to 75%, which is a good limit for a typical broadcast system.
 
 ![drop-down](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-4.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2\. Adjusting Skin Tones**
 
@@ -590,6 +596,13 @@ The Vectorscope skin tone line represents the color of blood flowing through the
 The major problem is figuring out how to look at skin tones in a shot with many other colors. With the skin tons line in Premiere Pro, color correction becomes easy and quick. You only need to use a garbage matte, which is found under video effects then keying. Adjust the points so that they cover the skin of the person on the shot, then look at the Premiere Pro Vectorscope to see your end results.
 
 ![skin tone adjustments](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-6.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 3\.** **How to Use Vectorscope in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/): Step-by-Step Guide**
 
@@ -620,6 +633,13 @@ After starting a new project, head to the top right corner of the main interface
 Customizing the layout of the video scope bar allows you to have more freedom in using the feature. You have the option to choose from four layouts or expand the button to display the video scope’s name. The purpose of this step is to modify the display option of the video scopes, allowing you to have a clear view of what you are editing.
 
 ![customize video scopes bar](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-9.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 4Manage the Vectorscope as Desired
 
@@ -669,19 +689,6 @@ Just like many other video editing software, Adobe Premiere Pro offers Vectorsco
 
 The reference monitor will first display composite video. Clicking on the setting icon allows you to access the panel and choose the video scope you want to use. Now, this is how you use the Vectorscope in Premiere Pro:
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **1\. Reading a Vectorscope on Premiere Pro**
 
 A Vectorscope is similar to a color wheel. It displays colors in the same places as the wheel, with cyan to the bottom right and red to the top left. When you see a dot or line in the Vectorscope, you can tell it is giving you information about the color or chrominance of a shot. Essentially, this information is the hue (specific color) and the saturation (the strength of that hue).
@@ -703,13 +710,6 @@ The Vectorscope skin tone line represents the color of blood flowing through the
 The major problem is figuring out how to look at skin tones in a shot with many other colors. With the skin tons line in Premiere Pro, color correction becomes easy and quick. You only need to use a garbage matte, which is found under video effects then keying. Adjust the points so that they cover the skin of the person on the shot, then look at the Premiere Pro Vectorscope to see your end results.
 
 ![skin tone adjustments](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-6.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 3\.** **How to Use Vectorscope in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/): Step-by-Step Guide**
 
@@ -741,6 +741,13 @@ Customizing the layout of the video scope bar allows you to have more freedom in
 
 ![customize video scopes bar](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-9.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 4Manage the Vectorscope as Desired
 
 On the preview screen, choose the Vectorscope option. This video scope allows you to define the skin tone indication for better color grading and correction.
@@ -752,19 +759,6 @@ On the preview screen, choose the Vectorscope option. This video scope allows yo
 To achieve more accurate and better results, explore the other video scopes in the same window. View the color changes in your image through parade, histogram, and waveform video scopes. You can also change the color channels to view specific color changes across the video.
 
 ![manage Vectorscope](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-11.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -786,21 +780,20 @@ Vectorscopes are great for post-production color correction. Although lesser-kno
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-livelink-audio-visual-crafting-portal/"><u>[New] LiveLink Audio-Visual Crafting Portal</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-enjoy-premium-video-artwork-download-at-no-cost-today/"><u>[Updated] Enjoy Premium Video Artwork - Download at No Cost Today!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-educational-synergy-enhancing-learning-with-youtube-videos/"><u>[Updated] In 2024, Educational Synergy Enhancing Learning with YouTube Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-clarity-unleashed-in-depth-review-of-the-hp-z32-x-display/"><u>2024 Approved Clarity Unleashed In-Depth Review of the HP Z32 X Display</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-overcome-the-windows-10-update-failure-error-0x800705b4-explained-and-solved/"><u>Effective Strategies to Overcome the Windows 10 Update Failure: Error 0X800705b4 Explained and Solved</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/full-spectrum-data-salvage-system-next-level-technical-assistance-for-complete-data-recovery/"><u>Full-Spectrum Data Salvage System: Next-Level Technical Assistance for Complete Data Recovery</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-8-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 8 Plus Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-augment-your-vfx-arsenal-explore-these-top-8-sites-for-free-eco-backgrounds/"><u>In 2024, Augment Your VFX Arsenal - Explore These Top 8 Sites for Free Eco-Backgrounds</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For ZTE Axon 40 Lite? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/macxdvd-by-digiarty/"><u>MacXDVD by Digiarty: お問い合わせ手順と支援リンク</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-fullview-media-collaboration-guidebook/"><u>[New] 2024 Approved FullView Media Collaboration Guidebook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-digital-distinction-design-molding-an-animated-profile/"><u>[New] In 2024, Digital Distinction Design Molding an Animated Profile</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-step-by-step-voice-memo-creation-on-ios-devices-for-2024/"><u>[New] Step-by-Step Voice Memo Creation on iOS Devices for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-synthesizing-mood-an-ode-to-trailer-tunes/"><u>[New] Synthesizing Mood An Ode to Trailer Tunes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-best-budget-friendly-video-stock-sites/"><u>[Updated] 2024 Approved Best Budget-Friendly Video Stock Sites</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-laughter-lab-virtually/"><u>[Updated] 2024 Approved Laughter Lab Virtually</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/44cm5l255so5lin5yplusv77ya5lqs5oplusb5ocn44gu44gq44ge44oq44od44kv44ki44od44ox44go5zcm5pyf5qmf6io9ic0g5luw44gu5ysq56ea54sh5paz6kej5rg6562w44ks44gu5oplusq5qgi311/"><u>「使用不可：互換性のないバックアップと同期機能 - 他の優秀無料解決策をご提案します」</u></a></li>
+<li><a href="https://games-able.techidaily.com/highlights-economical-white-pc-building-kits/"><u>Highlights: Economical White PC Building Kits</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-change-text-in-premiere-pro/"><u>How To Change Text In Premiere Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-pixel-8-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Google Pixel 8 Phone with Broken Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-a-green-screen-to-zoom/"><u>In 2024, How to Add a Green Screen to Zoom</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-expression-in-after-effects/"><u>In 2024, How to Add Expression in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-merge-audio-and-video-in-vlc-media-player/"><u>In 2024, How to Merge Audio and Video in VLC Media Player</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-change-background-color-in-after-effects/"><u>New Change Background Color in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1920s-how-to-make-for-2024/"><u>Vintage Film Effect 1920S - How to Make for 2024</u></a></li>
 </ul></div>
 

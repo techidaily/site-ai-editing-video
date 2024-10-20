@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Consider a LUT to Be a Color Preset that a Filmmaker Can Use to Start Working on a Project Quickly. Sony Engineers Have Developed LUTs to Help Filmmakers Perform Specific Tasks. All of These Are Available for Free
-date: 2024-10-01T18:13:20.264Z
-updated: 2024-10-08T20:18:12.204Z
+date: 2024-10-18T17:08:19.277Z
+updated: 2024-10-20T17:02:23.513Z
 tags: 
   - ai
   - animation videos
@@ -22,6 +22,13 @@ Achieving a specific ambiance in a scene demands ongoing effort and naturally ta
 ## Benefits of using LUTs
 
 There are numerous advantages to using lookup tables to edit your footage. We've already discussed that it helps to give your films a more polished and professional appearance, which is one of the primary explanations why individuals use LUTs, but there are many more.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. A beginning towards professionalism
 
@@ -46,6 +53,19 @@ Whether it's a client or a personal project, things can often get pushed to the 
 ### 4\. It provides an artistic approach
 
 LUTs are beneficial because they allow videos shot with cameras that shoot very dark, discolored images to have more vivid tones and contrast. This is excellent for grabbing viewers' attention and making videos more intriguing and engaging. LUTs add an artistic element to videos and can help you develop a visual artistic identity for your videos if you use the same colors. Another advantage of LUTs is that they enhance the color quality of videos shot on smartphones with particular color schemes. Although this varies significantly from brand to brand, you can use LUTs to make a Smartphone video more vibrant and appealing.
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Top 10 Sony LUT for Different Purposes
 
@@ -73,21 +93,7 @@ Nature has influenced it. Nature LUTs are designed to complement the natural env
 
 ![Sony Lut - Sony Nature LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sony Nature LUTs
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Sony A7S III, FX3 & A7 IV – S-Log 3 Correction LUTs
 
@@ -97,24 +103,18 @@ Three correction LUTs are explicitly created for S-Log 3 footage. They are compa
 
 Sony A7S III, FX3 & A7 IV – S-Log 3 Correction LUTs
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Sony Cine-4 Film and Standard LUTs
 
 There are 24 Sony Cine-4 Film LUTs and 24 Rec 709 LUTs in this LUTs set. They can be used in films and television shows, social videos, presentations, and more. They're also quite simple to operate. To apply stunning color grading to your film, import the preset file or simply drag & drop the LUT over it. It works with any resolution. Make your films, social media posts, documentaries, and images look sleek and modern.
 
 ![Sony Lut - Sony Cine-4 Film and Standard LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sony Cine-4 Film and Standard LUTs
 
@@ -212,13 +212,6 @@ In **the zoom-in Google** section, you will have to tap or click on the "+" opti
 
 ![how to use zoom in google](https://images.wondershare.com/filmora/article-images/2022/07/zoom-control-google.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4Making Zoom adjustments
 
 Once you are done using **Google Zoom**, users can make adjustments using a magnifying glass, which appears in the address bar. Click on that and press "+" to zoom in and – to zoom out, or you can press the reset button to come back to default level.
@@ -266,6 +259,13 @@ Step1Tap on the Zoom option in the toolbar. It will show a drop-down option with
 Step2Choose the level you wish. You can choose from the existing one or manually enter the value. You must know that if you prefer more petite than a hundred percent, it will get smaller, and if you choose more than a hundred, it will get bigger.
 
 Step3You can even veg the same options while you click File Tab and linger the cursor on zoom options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Use the zoom controller manually in Google Sheets by using the browser?
 
@@ -359,10 +359,10 @@ Step1Sign in to Google Drive and open your documents where you want to zoom in o
 Step2Click or Tap on the zoom button in the toolbar above the document and then choose the predefined zoom levels, or you can manually enter the preferred zoom level in the space.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Use the zoom controller in Google sheets with Built-in Functionality?
@@ -436,13 +436,6 @@ Until recently, you needed expensive enterprise level software like Sony Vegas o
 3. [Step 3: Choose a Lower Third Template](#Part4-03)
 
 * [Start Using Lower Thirds Today](#Part5)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. What is a Lower Third?
 
@@ -562,16 +555,22 @@ Double click on the template and it will allow you to edit the text.
 
 ![Choose a Lower Third Template](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-a-lower-third-to-your-video-05.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Choose a Lower Third Template
 
 ![Choose a Lower Third Template2](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-a-lower-third-to-your-video-06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Choose a Lower Third Template2
 
@@ -753,6 +752,13 @@ Wrap Up
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Filters on iMovie
 
 There are times when you record a video and find out that the light and color in the video have been up to the mark. The light could be too bright or too dark while there could be some color overlays in certain portion as well as the entire frame of the video. Thanks to the video editing apps, you can correct any lighting and coloration issues with different filters available to apply to your video.
@@ -768,6 +774,13 @@ You have to install iMovie app from App Store as it does not come pre-install. I
 Step1 Open iMovie app on your iPhone. Tap on Create Project option and tap on Movie on the next screen.
 
 ![new project imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/new-project-imovie-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Select the video from your iPhone that you want to edit and add filters. After your selection, tap on Create Movie option located at the bottom.
 
@@ -788,13 +801,6 @@ Step5 Tap on Play icon to check how the filter is looking on your video. Once yo
 Step6 Tap on Share icon at the bottom and then tap on Save Video option to save the modified video on your iPhone.
 
 ![save video imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/save-video-imovie-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How to add filters on Mac iMovie
 
@@ -878,18 +884,16 @@ If you are an iPhone user or a Mac user, you can add filters to your video using
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-syma-x8c-mastering-advanced-maneuvers-for-2024/"><u>[Updated] Syma X8C Mastering Advanced Maneuvers for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-keyframes-interval-everything-you-need-to-know/"><u>2024 Approved Keyframes Interval Everything You Need To Know</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/adjusting-windows-10s-lock-screen-duration-settings/"><u>Adjusting Windows 10'S Lock Screen Duration Settings</u></a></li>
-<li><a href="https://video-capture.techidaily.com/download-the-ultimate-goodnight-sleep-video-share-it-on-whatsapp-and-facebook/"><u>Download the Ultimate 'Goodnight Sleep' Video: Share It on WhatsApp & Facebook</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-excel-2010-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to make a digital signature for Excel 2010 files</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-cultivating-connection-not-compulsion-in-subscriptions/"><u>In 2024, Cultivating Connection, Not Compulsion in Subscriptions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-way-to-add-transitions-to-videos/"><u>In 2024, Easy Way to Add Transitions to Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713950879141-looking-for-the-steps-to-add-transitions-effects-in-premiere-pro-here-are-the-steps-to-add-and-edit-transitions-in-premiere-pro-and-an-alternative-way-to-vi/"><u>Looking for the Steps to Add Transitions Effects in Premiere Pro? Here Are the Steps to Add and Edit Transitions in Premiere Pro and an Alternative Way to Video Transitions for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-motion-text-effects-for-your-video/"><u>New How to Create Motion Text Effects for Your Video?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-make-a-tattoo-disappear-like-a-magic/"><u>New In 2024, Make A Tattoo Disappear Like A Magic</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-to-run-this-install-net-error-in-windows/"><u>Troubleshooting To Run This, Install .NET Error in Windows</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-distort-disrupt-delight-top-glitch-video-editing-apps-for-mobile/"><u>Updated 2024 Approved Distort, Disrupt, Delight Top Glitch Video Editing Apps for Mobile</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-color-finale-for-2024/"><u>What Is Color Finale for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-instantly-design-custom-coverage-for-your-short-videos/"><u>[New] 2024 Approved How To Instantly Design Custom Coverage For Your Short Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-dissecting-disney-disguises-the-goofy-trek/"><u>[New] In 2024, Dissecting Disney Disguises 'The Goofy Trek'</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-live-transmission-via-obs-to-instagram/"><u>[Updated] 2024 Approved Live Transmission via OBS to Instagram</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-turn-tracks-into-tunes-mp3-to-youtube-conversion-made-simple/"><u>[Updated] In 2024, Turn Tracks Into Tunes MP3-to-YouTube Conversion Made Simple</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-genius-widecam-f100-examining-image-quality-and-audio-performance/"><u>Comprehensive Review of the Genius WideCam F100: Examining Image Quality & Audio Performance</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-video-contents-that-convert-sales-for-2024/"><u>Updated How to Create Video Contents That Convert Sales for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora-in-2024/"><u>Updated How To Make a Video by Mouse in Filmora, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-play-a-video-on-loop-on-vimeo-so-that-it-plays-again-and-again-here-are-all-the-different-ways-to-loop-a-video-on-vimeo-in-simple-steps-for-2024/"><u>Want to Play a Video on Loop on Vimeo so that It Plays Again and Again? Here Are All the Different Ways to Loop a Video on Vimeo in Simple Steps for 2024</u></a></li>
 </ul></div>
 

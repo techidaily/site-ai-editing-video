@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved 3 Ways to Create Motion Text Effects for Your Video
-date: 2024-10-10T16:26:55.604Z
-updated: 2024-10-14T20:38:35.418Z
+date: 2024-10-17T17:16:16.500Z
+updated: 2024-10-20T16:52:23.505Z
 tags: 
   - ai
   - animation videos
@@ -72,10 +72,10 @@ Step1 From Tool panel, click on Type tool and click on Composition panel to type
 ![adjust text style after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-text-style-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2 Go to Effects and Presets panel, go through and search for the desired motion text effect preset. Drag and drop the selected preset on the text layer directly.
@@ -118,6 +118,13 @@ Step3 Go to Titles and search for “animation” and you will get all the motio
 
 ![select animation title text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-animation-title-text-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Double-click on the text layer to type in your desired text. Reposition the text layer on the timeline and on the video from Viewer.
 
 ![customize animation type text filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-animation-type-text-filmora.jpg)
@@ -130,6 +137,13 @@ Step1 Go to Graphics> Essential Graphics and select a motion text effect templat
 
 ![select motion text template premiere](https://images.wondershare.com/filmora/article-images/2022/09/select-motion-text-template-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Double-click on the text to edit the words and type in your text. Go to Essential Graphics panel to customize the text effect parameters as per your requirements.
 
 ![customize text premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/customize-text-premiere-pro.jpg)
@@ -139,6 +153,13 @@ Step3 If you want to edit the animation, select the text layer and go to Effects
 ![adjust key frame premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/adjust-key-frame-premiere-pro.jpg)
 
 Bring the keyframes closer or spread them apart to speed up or slow down. Tweak parameters like? Velocity Controls under different text properties to edit the animation effectively.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. How to Make Motion Text in After Effects
 
@@ -170,13 +191,6 @@ Comic and Life Effect – You get this motion effect on Filmora where the large 
 
 Corporate Title Effect – This comes as a pack on After Effects whereby you get amazing text motion effects that you mostly see in professional videos. Starting from oblique stripe and emerge effect to slide in and out with modern touches and objects, you get stunning text motion to enhance your video content.?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Bottom Line
 
 If there are texts and titles in your video, you have to use motion text effect to make your video content interesting. We have illustrated the simple steps to create and edit motion text effects. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as the best video editor for creating motion text effects as the user interface is intuitive and there are unlimited motion text effects to choose from.
@@ -206,6 +220,13 @@ Kapwing allows users to create videos from scratch with Kapwing's extensive libr
 ## Part 2\. How to convert image to video with Kapwing?
 
 ![convert image to video](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Easily convert images and GIFs to videos with music and stop scrolling with Kapwing's image-to-video tool. With kapwing, you can turn your photos into a dynamic slideshow for a presentation or an engaging video for social media and YouTube. Even with minimal editing experience, you can turn a single image into a professional video.
 
@@ -261,6 +282,13 @@ After importing the files into the program, drag the video clip to the video edi
 
 ![add a photo to video](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After that, edit your photo as you choose. Place the image anywhere you want, then drag its edge to change the size of the playing windows. The picture-in-picture track can also be customized using a variety of customizable settings provided by Filmora. To access the picture, color, and motion panel, double-click the additional image on the track. Here, you can select from more than 30 motion effects to animate the added photo, alter its saturation and hue, perform some color correction, or alter its transformation.
 
 ![edit photos](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-7.jpg)
@@ -300,13 +328,6 @@ After importing the files into the program, drag the video clip to the video edi
 After that, edit your photo as you choose. Place the image anywhere you want, then drag its edge to change the size of the playing windows. The picture-in-picture track can also be customized using a variety of customizable settings provided by Filmora. To access the picture, color, and motion panel, double-click the additional image on the track. Here, you can select from more than 30 motion effects to animate the added photo, alter its saturation and hue, perform some color correction, or alter its transformation.
 
 ![edit photos](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then click the "**Effects**" button for more mask and effect options. Go to the Utility option under Filters and then drag the image mask onto the photo on the timeline. Double click on the photo and then you can change the shape, height, width, and blending of the image mask. On the mask tab, you can shape the photo with a single click. You can also invert the mask to create a new shape. Choose one of the effects according to your wish to make your video more unique.
 
@@ -361,13 +382,6 @@ Click on the “+” symbol after that you can record your video or you can also
 After selecting the video you can add a template to your video or can add transitions to your video. Your video must have an authentic starting and ending. You can add a transition in the middle of your video. Keep your looping video clips shorter because it looks more real.
 
 ![upload video add transition tiktok](https://images.wondershare.com/filmora/article-images/2022/11/upload-video-add-transition-tiktok.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4 Create a loop video and save it or publish it
 
@@ -436,10 +450,10 @@ Place your video on a timeline or just simply drag and drop your video clip on t
 ![put the video on the timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step3 Add effects and transitions
@@ -455,17 +469,10 @@ After making all the editing videos, you can also select the duration according 
 ![edit the duration of the video then export it](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -607,13 +614,6 @@ VN Editor is undoubtedly an excellent choice to add LUTs to your videos. However
 
 ![choose 3d lut](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![use filmora to add luts](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-12.jpg)
 
 1. Click the drop-down menu and select the Load new LUT option. Here you can import other downloaded preset LUTs to use
@@ -691,22 +691,16 @@ This post recommends several lut resources and demonstrates how to import them i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-streamline-your-instagram-feeds-with-macs-video-resizing/"><u>[New] Streamline Your Instagram Feeds with Mac's Video Resizing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-discovering-and-perfecting-your-individual-style/"><u>[Updated] 2024 Approved Discovering & Perfecting Your Individual Style</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-infographic-8-ways-to-make-money-on-youtube-for-beginners/"><u>[Updated] 2024 Approved Infographic - 8 Ways to Make Money on YouTube for Beginners</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-behind-the-scenes-with-intova-edge-x/"><u>[Updated] Behind the Scenes with Intova Edge X</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-guide-for-setting-tiktok-countdown-timer/"><u>2024 Approved Best Guide for Setting TikTok Countdown Timer</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/free-mobile-screen-snatching-androids-leading-eight/"><u>Free Mobile Screen Snatching - Android's Leading Eight</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-canva-collages/"><u>How to Make Canva Collages</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora/"><u>How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-p40-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-narzo-60-pro-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Narzo 60 Pro 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-4-solutions-to-add-white-border-to-video-on-mobile-and-desktop/"><u>New 2024 Approved 4 Solutions to Add White Border to Video on Mobile and Desktop</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-create-the-night-to-day-effect-video/"><u>New 2024 Approved How to Create the Night-to-Day Effect Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-fade-audio-in-premier-pro/"><u>New Steps To Fade Audio In Premier Pro</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-persistent-pc-crashes-in-madden-nfl-21-tips-and-guides/"><u>Solving Persistent PC Crashes in Madden NFL 21 - Tips & Guides</u></a></li>
-<li><a href="https://article-tips.techidaily.com/transition-techniques-decreasing-volume-gradually-in-pp/"><u>Transition Techniques Decreasing Volume Gradually in PP</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-tips-to-make-cinematic-color-grading/"><u>Updated In 2024, Tips to Make Cinematic Color Grading</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Updated Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-optimizing-techniques-broadcasting-via-obs-to-facebook/"><u>2024 Approved Optimizing Techniques Broadcasting via OBS to Facebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-light-filmographys-five-essential-camera-techniques-of-24/"><u>Capture the Light Filmography's Five Essential Camera Techniques of '24</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-influence-are-we-witnessing-the-end-of-conventional-academic-papers/"><u>ChatGPT's Influence: Are We Witnessing the End of Conventional Academic Papers?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/download-and-install-the-latest-logitech-g403-mouse-drivers-on-your-pc/"><u>Download and Install the Latest Logitech G403 Mouse Drivers on Your PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro Max to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-blurring-techniques-for-cleaner-image-edits/"><u>In 2024, Blurring Techniques for Cleaner Image Edits</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-put-a-filter-on-a-video-in-imovie/"><u>In 2024, How to Put a Filter on a Video in iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-wondering-if-you-can-make-diy-green-screen-video-for-streaming-learn-the-easy-steps-to-setup-diy-green-screen-shoot-the-video-and-edit-it-out-to-add/"><u>In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects-for-2024/"><u>New How To Make a Timelapse in After Effects for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-free-apps-for-youtube-gallery-downloading-for-2024/"><u>Top FREE Apps for YouTube Gallery Downloading for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-something-about-skin-care-vlog-ideas/"><u>Updated Something About Skin Care Vlog Ideas</u></a></li>
 </ul></div>
 

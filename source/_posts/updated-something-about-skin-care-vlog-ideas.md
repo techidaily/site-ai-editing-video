@@ -1,7 +1,7 @@
 ---
 title: Updated Something About Skin Care Vlog Ideas
-date: 2024-10-07T18:15:21.391Z
-updated: 2024-10-08T18:46:11.778Z
+date: 2024-10-13T16:39:10.447Z
+updated: 2024-10-20T16:57:24.541Z
 tags: 
   - ai
   - animation videos
@@ -56,13 +56,6 @@ Now a days most people get all the information they want in watching YouTube vid
 ![Skin Care Product Review Vlogs](https://images.wondershare.com/filmora/article-images/2022/07/something-about-skin-care-vlog-ideas-02.jpg)
 
 Skin Care Product Review Vlogs
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Skin Care Unboxing Vlogs
 
@@ -129,13 +122,6 @@ It allows **noise cancellation** in the background of your audio so that your vi
 
 ![Doing A Skin Care Product Review](https://images.wondershare.com/filmora/article-images/2022/07/something-about-skin-care-vlog-ideas-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Doing A Skin Care Product Review
 
 Filmora has the ability to blur video, which you can use especially when you display products in the viewer, you need to blur the background to focus on the products you are showing.
@@ -196,6 +182,13 @@ The subject will jump into the air at a distance from the camera. He should jump
 
 ![shot 1](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-1.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Shot 2: Jump and Act Like You Are Landing
 
 The subject should jump and act like he is landing on the floor. This shot has to be taken directly in front of the camera.
@@ -253,6 +246,13 @@ Step3 Hide the first track clip so that mask can be viewed better and edited eff
 Step4 Adjust the scale, position, and shape of the mask and make the edges smoother to match the object.
 
 ![masking](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-5.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Boris Fx Effect**
 
@@ -368,13 +368,6 @@ The **soft light** is trying to wrap around the subject. It gives diffused shado
 
 ![soft light on the subject](https://images.wondershare.com/filmora/article-images/2023/04/soft-light-on-the-subject.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To get better results of the soft look, you need to add diffusion to lower the intensity.
@@ -395,13 +388,6 @@ You need a haze machine to create the atmosphere and give the environment true v
 
 To give proper lights in the set is illustrated with the help of an example as shown below!
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Examples
 
 In this music video of the 3lau's, the main prop used is a bus, which is presented in the middle of the set and lit very well. The bus is rounded by many tungsten lights, which give a resemblance to those street lights. They are set up automatically in such a way that this stimulates the real movement of the bus on the road.
@@ -442,6 +428,19 @@ Whenever we use a microscope, we are dealing with the aspect ratio and narrowing
 
 Framing is a way used to illustrate the concepts such as the rule of thirds and leading lines. To give customized headroom to the subject, the framing is used from the top of the head and the top of the frame.
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Camera Movement
 
 The camera movement actually shows the real story presented in the music video. The camera movements used for filming are mainly the pedestal, truck, pan, tilt, and roll.
@@ -454,22 +453,16 @@ Whenever the protagonist looks out the bus's window, the camera operator will us
 
 The trucking movement of the camera is done in left-to-right motion in the filming. This is used for emotional purposes and whenever the subject is in a pull-out shot.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Dolly Movement
 
 The dolly movement of the camera is done by moving towards or away from the subject. This often gives a sense of importance to the character.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -486,6 +479,13 @@ You need a haze machine to create the atmosphere and give the environment true v
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![filmora](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Light a Set
 
@@ -521,18 +521,18 @@ In filmy view, the most appropriate aspect ratio is 2.35, which is also a cinema
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** The narrow ratio is helpful in showing the relationships between the subjects.
 
 ![aspect ratio of the filming](https://images.wondershare.com/filmora/article-images/2023/04/aspect-ratio-of-the-filming.jpg)
 
 Whenever we use a microscope, we are dealing with the aspect ratio and narrowing down to the required point where we want to look, and this is all about framing, which is discussed as shown below!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Framing
 
@@ -549,13 +549,6 @@ Whenever the protagonist looks out the bus's window, the camera operator will us
 ### Trucking Movement
 
 The trucking movement of the camera is done in left-to-right motion in the filming. This is used for emotional purposes and whenever the subject is in a pull-out shot.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dolly Movement
 
@@ -593,6 +586,13 @@ Green screener chroma key is commonly used in film, tv shows, and social media v
 
 ![t-shirt tv screen](https://images.wondershare.com/filmora/article-images/2023/01/fun-green-screen-4.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Setting Up The Green Screen
 
 Filming with the green screen is getting easier and easier. Anyone can do it, but before you get started, we will share some do's and don'ts to help you get the best results.
@@ -600,13 +600,6 @@ Filming with the green screen is getting easier and easier. Anyone can do it, bu
 In fact, there are many ways to set up a green screen, but the most cost-efficient way is with a green screen fabric. If you are using a green fabric as a DIY green screen, make sure you steam or iron it out, whether taping it to a wall or hanging it off the rack. Keep in mind the green screen should not leave any wrinkles.
 
 It is because wrinkles will make lighting the green screen a nightmare, and uneven lighting will leave you with shadows and disappointing results. It would help if you also pulled the green screen tight to get a seamless background. The better you do with the setup, the easier it will be the key it out later
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Lighting a Green Screen
 
@@ -626,6 +619,13 @@ Once your footage is good, go into [Filmora](https://tools.techidaily.com/wonder
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![go into filmora and import it into your timeline](https://images.wondershare.com/filmora/article-images/2023/01/fun-green-screen-6.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -655,15 +655,21 @@ Aside from a video background, there are many things you can use chrome key effe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-grandest-directors-trailers/"><u>[New] 2024 Approved Grandest Director's Trailers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-vision-to-visuals-craft-your-story-with-youtube-editor-for-2024/"><u>[New] From Vision to Visuals Craft Your Story with YouTube Editor for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-revolutionary-q500-the-ultimate-4k-bird-for-2024/"><u>[New] Revolutionary Q500 The Ultimate 4K Bird for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easy-guide-to-zoom-video-in-vlc/"><u>Easy Guide to Zoom Video in VLC</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-xiaomi-14-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi 14 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-byte-sized-hits-the-heart-of-viral-content/"><u>In 2024, Byte-Sized Hits The Heart of Viral Content</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/professional-grau-gmbh-hardware-and-software-fixes-for-seamless-video-recovery/"><u>Professional Grau GmbH Hardware & Software Fixes for Seamless Video Recovery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimizing-your-brands-presence-in-spotify-advertising/"><u>[New] Optimizing Your Brand's Presence in Spotify Advertising</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-perfect-your-macs-microphone-usage-with-this-guide-to-audacity/"><u>[Updated] 2024 Approved Perfect Your Mac's Microphone Usage with This Guide to Audacity</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-enlightenment-streams-foremost-ed-resources-online/"><u>[Updated] Enlightenment Streams Foremost Ed Resources Online</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-how-to-effortlessly-run-apps-and-videos-together-in-chrome/"><u>[Updated] In 2024, How to Effortlessly Run Apps & Videos Together In Chrome</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-rhythmic-reconnaissance-video-music-matchmaking/"><u>[Updated] Rhythmic Reconnaissance Video Music Matchmaking</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-lenovo-tab-m10-fhdplus-laptop-tablet-stunning-hd-display-meets-affordability/"><u>Discover the Lenovo Tab M10 FHD+ Laptop Tablet - Stunning HD Display Meets Affordability</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-quick-tips-transferring-camera-roll-from-your-device-to-snapchat-app/"><u>In 2024, Quick Tips Transferring Camera Roll From Your Device to Snapchat App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavi3gppwma/"><u>Movaviオンラインで簡単！3GPPへのWMAファイル自動変換</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-effective-ways-to-add-text-behind-objects/"><u>New 2024 Approved 2 Effective Ways to Add Text Behind Objects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved How to Remove Background From a Video in Premier Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/virtual-background-and-webcam-magic-with-manycam-top-online-livestreaming-tool/"><u>Virtual Background & Webcam Magic with ManyCam – Top Online Livestreaming Tool</u></a></li>
 </ul></div>
 

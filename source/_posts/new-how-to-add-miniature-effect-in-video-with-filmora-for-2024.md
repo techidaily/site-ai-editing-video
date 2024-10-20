@@ -1,7 +1,7 @@
 ---
 title: New How to Add Miniature Effect in Video with Filmora for 2024
-date: 2024-10-12T21:41:02.421Z
-updated: 2024-10-14T23:10:05.041Z
+date: 2024-10-17T16:56:45.539Z
+updated: 2024-10-20T17:09:06.873Z
 tags: 
   - ai
   - animation videos
@@ -110,6 +110,13 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 
 ![add blur effect in video multiple times](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-7.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step6 Drop the same video clip
 
 * Add the same video clip 2nd time on the timeline.
@@ -117,19 +124,6 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 * Make sure you add it to 2nd video track in the timeline above the first one.
 
 ![add the same video for 2nd time on the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-8.gif)
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step7 Add masks on the Video
 
@@ -200,13 +194,6 @@ If you don't have good-quality footage, but want to boost your video, here is ho
 
 ![choose stock footage from stock media in filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Move to the **stock media** folder on the above bar in the Wondershare Filmora. Or you can look towards the left window, where you will see the sample **videos tab.**
 
 * Click on the sample videos tab, and a new **window** will appear on the library screen.
@@ -230,13 +217,6 @@ Want to get stock media? You can only have access to the stock media library if 
 As we are working on miniature effects, what do we need first? First, we ensure that we have a **Blur** effect on the video.
 
 ![search for the blur effect on effect panel in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-5.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To add a blur effect from the panel, follow the below-mentioned steps:
 
@@ -267,6 +247,13 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 * Finally, add effect by just the **Drag and Drop**
 
 ![add blur effect in video multiple times](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-7.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step6 Drop the same video clip
 
@@ -376,6 +363,13 @@ This is how video that has been sped up for slow motion may still preserve its q
 
 ![understand frame rates](https://images.wondershare.com/filmora/article-images/2022/11/understand-frame-rates.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Post processing
 
 This is when it gets a bit complicated. Some cameras come equipped with a slow-motion feature. To capture the video in slow motion at a higher frame rate, go to your settings. You might not have this built-in slow-motion feature in other models.
@@ -407,13 +401,6 @@ When you first begin working with slow-motion video, you need to ask yourself, "
 2\. The second strategy is to draw attention to striking visuals that you might have overlooked in other circumstances and that contribute significantly to the aesthetic value of your setting. A flutter of the eyelid, a butterfly stretching its wings, rains falling on a flower petal, shards of fire breaking free, etc. are all examples of how quickly things may happen. You need to have a good reason for using slow motion, and you shouldn't abuse the effect too much too. You should only do so at those moments where it makes logical sense to do so.
 
 ![draw attention with slow motion video](https://images.wondershare.com/filmora/article-images/2022/11/draw-attention-with-slow-motion-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Subconscious slow-motion. Overusing or misusing a function ruins its appeal. Filming isn't an exact science, but it does nothing unnecessary. For a cinematic effect, slow-motion should be introduced carefully.
 
@@ -471,6 +458,13 @@ Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/fi
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Import your video under Project Media folder and drag and drop into Timeline.
 
 ![import green screen video filmora](https://images.wondershare.com/filmora/article-images/2022/07/import-green-screen-video-filmora.jpg)
@@ -495,13 +489,6 @@ Import your video clip with a solid background color and place it on Timeline. G
 
 The steps for After Effects how to change background color solid involve removing the background color and adding a layer of solid color to replace the transparency of the video. Go to Layer> New> Solid. Under Solid Settings window, go to Color and select the desired color from Color option and click on OK button. The new color will get reflected in the background of the video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. How do you add a white background in After Effects?
 
 Go to Layer> New> Solid and add a white color solid first. However, this white color layer will not be visible unless you turn the background of your video transparent. Go to Effects & Presets and search for Luma Key and drop Luma Key on your video. Set Key type as Brighter and the threshold of the Lema key as per suitability on your video to see the white background appear.
@@ -515,6 +502,13 @@ Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/fi
 Step2 Import your video under Project Media folder and drag and drop into Timeline.
 
 ![import green screen video filmora](https://images.wondershare.com/filmora/article-images/2022/07/import-green-screen-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Double-click on the video clip and go to Video tab and turn on Chroma Key option. Select the solid color present in the background of the video and click on Ok button.
 
@@ -598,6 +592,13 @@ When the window pops up, click on the "Apply changes" button, and the video auto
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-6.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## An easier way to split the video
 
 No doubt, VSDC is a good option for editing the videos, but [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) has more features and better software for splitting the video. It fulfils the requirements of various users, whether it is for personal or business purposes. Also, the stylizing of the video is possible, including the quality, resolution, speed and other parameters.
@@ -627,29 +628,9 @@ Wondershare Filmora is always helpful in splitting, trimming and different optio
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-7.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3\.** Save the video clip according to the format of your own choice. Simply click on "Export" and select the format from the tab "Format". It is leftwards of the window. There is a whole list of the formats.
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-8.jpeg)
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 It would help if you used the Wondershare Filmora for splitting the video clips into parts without losing their quality. There is a number of effects and features that will definitely attract you. It is definitely suitable for making outstanding videos and images.
 
@@ -668,10 +649,10 @@ Right-click on the video clip to get the option of "Cutting and Splitting" in th
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-3.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4:**
@@ -683,6 +664,19 @@ At this moment, you can export the video that you have edited. Save it on your P
 A splitting tool is also available in VSDC when you want to use different video parts after applying the effects. After adding the video file from the "Export project" tab, and then click on the "Set markers". Click "Apply Changes" when all the markers are ready for splitting the clips. Option for exporting the video is present so you can save it in the format of your choice. It is simple to save the video's parts that are created from the markers.
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-4.jpeg)
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Part3 - Splitting of one clip into more than one scene and applying the effect on them:**
 
@@ -885,16 +879,21 @@ Wondershare Filmora has undoubtedly received many positive reviews compared to o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-budget-friendly-chinese-vr-gear/"><u>[New] 2024 Approved Budget-Friendly Chinese VR Gear</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-innovative-cameras-of-2024-the-ultimate-rundown/"><u>[Updated] Innovative Cameras of 2024 The Ultimate Rundown</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-seek-a-guide-to-add-motion-in-blender-this-article-explains-the-blender-motion-blur-effect-in-detail-and-helps-you-master-it/"><u>2024 Approved Do You Seek a Guide to Add Motion in Blender? This Article Explains the Blender Motion Blur Effect in Detail and Helps You Master It</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-microcapture-screen-capture-tool-analysis/"><u>2024 Approved MicroCapture Screen Capture Tool Analysis</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/downloads-gratuitos-para-converter-vob-em-nfgs-servicos-do-movavi-online/"><u>Downloads Gratuitos Para Converter VOB Em nfGs - Serviços Do Movavi Online</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-tips-on-accessing-technical-support-for-your-iphone-via-apple-support-tool/"><u>Expert Tips on Accessing Technical Support for Your iPhone via Apple Support Tool</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713950874876-looking-for-the-simple-steps-to-add-transition-effects-in-your-video-we-will-illustrate-how-to-add-transition-in-filmora-and-mention-tips-and-tricks-for-vid/"><u>Looking for the Simple Steps to Add Transition Effects in Your Video? We Will Illustrate How to Add Transition in Filmora and Mention Tips and Tricks for Video Transition Effects for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-a-video-on-vimeo/"><u>Updated 2024 Approved How to Loop a Video on Vimeo?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-best-way-to-color-grading-and-color-correction-in-filmora-for-2024/"><u>Updated Best Way To Color Grading & Color Correction in Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-frame-rate-for-4k-video/"><u>Updated In 2024, Best Frame Rate for 4K Video</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-innovative-recorders-for-console-gameplay-footage/"><u>[New] Innovative Recorders for Console Gameplay Footage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-premier-8-video-transformers-for-your-mac-and-phone/"><u>[New] The Premier 8 Video Transformers for Your Mac & Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-skyrim-no-sound-problem/"><u>[Solved] Skyrim No Sound Problem</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-15-best-travel-vloggers-that-you-should-follow/"><u>2024 Approved 15 Best Travel Vloggers That You Should Follow</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-tecno-phantom-v-flip-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Phantom V Flip Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-logitech-c270-camera-software-webcam-setup-and-drivers-windows-1011-compatible/"><u>Free Logitech C270 Camera Software (Webcam) Setup & Drivers | Windows 10/11 Compatible</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-pro-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Realme 12 Pro 5G Phone without Google Account?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-extreme-sports-gopro-vs-star-sj7-comparison/"><u>In 2024, Extreme Sports GoPro Vs Star SJ7 Comparison</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-effective-ways-to-add-text-behind-objects/"><u>New 2024 Approved 2 Effective Ways to Add Text Behind Objects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved How to Remove Background From a Video in Premier Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-reviews-and-advice/"><u>Tom's Tech Insights: Expert Reviews & Advice</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/h-wave-on-your-screen-monetizing-as-a-streamer-for-2024/"><u>Wealth Wave on Your Screen Monetizing as a Streamer for 2024</u></a></li>
 </ul></div>
 

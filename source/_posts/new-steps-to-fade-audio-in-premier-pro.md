@@ -1,7 +1,7 @@
 ---
 title: New Steps To Fade Audio In Premier Pro
-date: 2024-10-07T17:25:54.722Z
-updated: 2024-10-08T16:54:51.107Z
+date: 2024-10-13T16:18:19.137Z
+updated: 2024-10-20T17:09:39.279Z
 tags: 
   - ai
   - animation videos
@@ -31,13 +31,6 @@ Step2Once it is open, select the audio clip in the timeline and then click on �
 
 ![apply audio transition](https://images.wondershare.com/filmora/article-images/2022/08/apply-audio-transition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can also use the keyboard shortcut Shift + Command + D (macOS) or Shift+ Ctrl + D (PC). This will add the “Constant Power Cross Fade” effect at the beginning and the end of the clip.
 
 Step3You can then just change the duration of the effect by simply dragging the end of the transition.
@@ -49,13 +42,6 @@ Step3You can then just change the duration of the effect by simply dragging the 
 Step1Adobe Premier Pro has two volume keyframes; Track and Clip. Make the audio larger so you can see the volume line and then under the audio name, click on the volume keyframes option to make sure “Clip Keyframes” is enabled.
 
 ![clip keyframes premiere](https://images.wondershare.com/filmora/article-images/2022/08/clip-keyframes-premiere.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2You can then press down on the Command Key (macOS) or the Control Key (PC) and drag the volume line down to add a fade-in or fade-out effect.
 
@@ -84,13 +70,6 @@ You can also use the fade icons on the left and right edges of the audio wavefor
 To add a fade-in effect, drag the fade-in maker to the right. Then go to the end of the clip to drag the fade-out maker to the left to add a fade-out effect.
 
 ![using the audio waveform](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Related FAQs about Audio Fade
 
@@ -139,13 +118,6 @@ To add a duration for the audio transitions, go to Edit > Preferences > Timeline
 ## The Most Complete Guide to Make Fortnite Montage
 
 If you're skilled at playing Fortnite, you'll probably want to share your gameplay clips as montages with other players. The popularity of Fortnite montage videos is rapidly growing because millions of people play the game. Tons of people also like watching their peers play this online video game in the form of gaming montages. We'll explain how to make a montage Fortnite that will get views when you upload it on social media platforms.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is Fortnite?
 
@@ -201,6 +173,13 @@ ApowerRec Setting
 
 ![Record Fortnite video clip with ApowerRec - Enable option](https://images.wondershare.com/filmora/article-images/2022/05/fortnite-montage-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Enable option to record
 
 1. If you'll be using a microphone, click on the speaker symbol and enable audio boost and noise cancellation.
@@ -240,13 +219,6 @@ If you are caught using copyrighted music, you might have to pay the music owner
 
 There are loads of platforms that offer non-copyrighted music that you can use in your montage Fortnite. These include YouTube, Twitch, and Pixabay.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Choose the Correct Video Editing Software
 
 Now that you have downloaded all the Fortnite video clips and saved them on your computer, you need to choose the correct video editing software. Here are three of the most reliable programs that you can use to make a montage Fortnite video.
@@ -264,6 +236,13 @@ Grow Together
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Premiere Pro CC
 
@@ -362,6 +341,13 @@ Add Effects
 Under the Effects tab, go to Filters to add filters to your montage video. The program has many filters that you can choose from, such as glitch, shake, and mosaic. Use these two effects to add transitions to your video clip.
 
 ![Edit Fortnite Video with Filmora - Add Effects](https://images.wondershare.com/filmora/article-images/2022/05/fortnite-montage-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Add Filters
 
@@ -402,10 +388,10 @@ It is a viral film by Christopher Nolan, which was a great success. He explained
 ![tenet 2020](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How To Shoot Video Reverse Effect?
@@ -430,6 +416,13 @@ Now you have to split your area into portions. Each task is in its part of the f
 
 After covering the prerequisites, we will now learn the editing process of creating a video reverse effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. How To Edit Video Reverse Effect In Filmora? \[Stepwise Guide\]
 
 Creating video reverse effects is much easier these days. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is going to help you a lot. Filmora is an exceptional platform for creating innovative and creative videos. It has advanced editing features, which help make professional videos.
@@ -446,6 +439,13 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 * After opening the software, import the recording files by clicking "Import Media."
 
 ![download the filmora](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step2 Drag the Shots to the Timeline
 
@@ -498,6 +498,13 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 * Please select "Export" in the top right corner of the screen. And ship it to the device.
 
 ![export the video](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step8 Final Video
 
@@ -522,13 +529,6 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 
 ![download the filmora](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2 Drag the Shots to the Timeline
 
 * Drag the shots to the timeline and drop it. If Filmora asks for a matching resolution on the timeline, please click "Match to Media." It will adjust your media resolution according to the timeline.
@@ -586,13 +586,6 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 Now have a look at the final project. How smooth and perfect it looks. That's it!
 
 ![final video example](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-12.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -874,6 +867,13 @@ Filmora's AI requires a bit of information to generate a caption that resonates 
 
 After inputting the required details, Filmora's AI will churn out multiple caption suggestions. Choose the one that best fits or use them as inspiration to craft your unique spin.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Summary
 
 TikTok has transformed the world of short video content, and behind each viral video is a captivating caption that perfectly captures the moment's essence. While understanding the importance of catchy titles is crucial, having the tools and insights to generate them consistently can set you apart from the crowd.
@@ -896,24 +896,19 @@ Whether you're brainstorming creatively or seeking assistance from innovative to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-amazon-original-elite-social-favorites-and-watch-count-hits/"><u>[New] 2024 Approved Amazon Original Elite Social Favorites and Watch Count Hits</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-from-vimeo-to-engaging-animated-content-for-2024/"><u>[New] Step-by-Step From Vimeo to Engaging Animated Content for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unleashing-the-potential-of-instavids-planning-for-success/"><u>[Updated] In 2024, Unleashing the Potential of InstaVids Planning for Success</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-indoor-antennas-showdown-how-the-1byone-digital-tv-signal-booster-outperforms-its-competitors-on-a-shoestring-budget/"><u>Best Indoor Antennas Showdown: How the 1BYONE Digital TV Signal Booster Outperforms Its Competitors on a Shoestring Budget</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/explore-with-akasos-ek7000-high-quality-economical-adventure-tool/"><u>Explore with AKASO's EK7000: High-Quality, Economical Adventure Tool</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fix-your-cod-modern-warfare-voice-chat-a-comprehensive-solution/"><u>Fix Your CoD: Modern Warfare Voice Chat - A Comprehensive Solution</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-performance-lags-and-stutter-in-modern-warfare-2-on-windows-systems/"><u>Fixing Performance Lags & Stutter in Modern Warfare 2 on Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-geforce-rtx-letez-2070-drivers-install-now-on-windows-1187/"><u>Latest GeForce RTX Letez 2070 Drivers - Install Now on Windows 11/8/7</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722995270622-pubg-no-volume-heres-how-you-can-get-game-audio-back/"><u>PUBG No Volume? Here's How You Can Get Game Audio Back!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/quick-glance-at-stars-contribution-for-2024/"><u>Quick Glance at Star's Contribution for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solution-to-stuttering-glitch-in-mass-effect-legendary-anthology-released/"><u>Solution to Stuttering Glitch in Mass Effect Legendary Anthology Released</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solving-your-razer-mic-issues-five-simple-solutions-to-restore-audio-functionality/"><u>Solving Your Razer Mic Issues: Five Simple Solutions to Restore Audio Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/success-story-escaping-the-sea-of-thieves-loading-screen-glitch/"><u>Success Story: Escaping the Sea of Thieves Loading Screen Glitch</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-guide-to-the-best-of-the-best-linksys-wrt3200acm-and-its-open-source-superiority/"><u>The Ultimate Guide to the Best of the Best: Linksys WRT3200ACM and Its Open-Source Superiority</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/ultimate-10-volume-uplifters-for-windowsios-devices-for-2024/"><u>Ultimate 10 Volume Uplifters for Windows/iOS Devices for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-11-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone 11 Pro Max iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/uncover-the-art-of-participating-in-tiktok-live-shows/"><u>Uncover the Art of Participating in TikTok Live Shows</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/virtual-extension-instant-fb-stories-archive/"><u>Virtual Extension Instant FB Stories Archive</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vyncs-link-analysis-unrivaled-monitoring-capabilities-overshadowed-by-puzzling-pricing-structures/"><u>Vyncs Link Analysis: Unrivaled Monitoring Capabilities Overshadowed by Puzzling Pricing Structures</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-instagram-featured-posts-with-video/"><u>[New] Instagram Featured Posts with Video</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unleash-creativity-on-screen-discover-the-best-reactions/"><u>[New] Unleash Creativity on Screen Discover the Best Reactions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-broadcast-battle-royale-deciding-between-vmix-and-wirecast/"><u>[Updated] Broadcast Battle Royale Deciding Between VMix and Wirecast</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-webcam-setup-simplified-for-hp-and-chrome-users/"><u>[Updated] Webcam Setup Simplified for HP & Chrome Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-motion-blur-photo-with-gimp-step-by-step-guide/"><u>2024 Approved Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-steps-to-create-makeup-videos/"><u>2024 Approved Steps to Create Makeup Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-add-green-screen-eff/"><u>Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
+<li><a href="https://techtrends.techidaily.com/frei-handhabung-von-dvd-regionscodes-bei-der-konvertierung-fur-verschiedene-gebiete-auf-windows-7810/"><u>Frei Handhabung Von DVD-Regionscodes Bei Der Konvertierung Für Verschiedene Gebiete Auf Windows 7/8/10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-complete-mastery-over-picsart-the-ultimate-users-guide/"><u>In 2024, Complete Mastery over PicsArt The Ultimate User's Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-transitions-in-adobe-premiere-pro/"><u>New How to Add Transitions in Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-in-canva-editor/"><u>New How to Loop a Video in Canva Editor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262295089-reaching-new-heights-pushing-an-amd-ryzen-7-9700x-up-to-a-stunning-58ghz-with-advanced-aio-liquid-cooling-plus-a-surprising-peak-at-6ghz-idle/"><u>Reaching New Heights: Pushing an AMD Ryzen #7 9700X Up to a Stunning 5.8GHz with Advanced AIO Liquid Cooling, Plus a Surprising Peak at 6GHz Idle</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/this-article-aims-to-show-you-how-to-improve-your-lighting-in-the-sun/"><u>This Article Aims to Show You How to Improve Your Lighting in the Sun</u></a></li>
 </ul></div>
 

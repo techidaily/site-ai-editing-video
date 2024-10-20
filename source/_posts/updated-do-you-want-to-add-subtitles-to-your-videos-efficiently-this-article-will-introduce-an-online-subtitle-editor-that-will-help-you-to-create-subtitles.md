@@ -1,7 +1,7 @@
 ---
 title: Updated Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video
-date: 2024-10-01T16:18:19.197Z
-updated: 2024-10-08T19:06:40.902Z
+date: 2024-10-19T16:26:32.595Z
+updated: 2024-10-20T16:16:09.949Z
 tags: 
   - ai
   - animation videos
@@ -38,13 +38,6 @@ Step 3 After uploading the file, your subtitles will sync with your video. To ed
 Step 4 Once done with making the changes on added subtitles, you can click on the "Export Project" button to save or share the file.
 
 ![export your kapwing project](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Automatically Generate your Subtitle on Kapwing
 
@@ -107,6 +100,13 @@ From the timeline, locate the feature of "Speech to Text." Now choose the langua
 After the conversion, you can double-click the added subtitles to make modifications. After making the adjustments, hit the "OK" button. Now go to the "Export" button and select the video format in which you want to export the video, or you can also share it on social media platforms.
 
 ![confirm the subtitle edits](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -180,13 +180,6 @@ On Premiere Pro, you can also connect third-party plugins for more features. It 
 
 ![adjust keyframes and finalize](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2:Leading Templates Offering Quick Slow Motion Effect in Premiere Pro
 
 In this section, you can find popular **slow-motion effect Premiere Pro** templates. After accessing the templates, you can customize them as per your needs. Hence, let’s dig into the details below:
@@ -197,11 +190,25 @@ This template is perfect for use in the intros of videos, presentations, slidesh
 
 ![slow motion short opener template](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * [Slow Motion Explosion Logo Opener](https://videohive.net/item/slow-motion-explosion-logo-opener-for-premiere-pro/46233632)
 
 The slow-motion explosion logo opener is an attractive template featuring vibrant colors. It contains a hand-drawn animated logo with suitable backgrounds. Along with the logo reveal, it includes background music that matches the theme of the video. It also offers media and text placeholders to let you introduce your brand.
 
 ![slow motion explosion logo opener template](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * [Urban Freeze Frame](https://motionarray.com/premiere-pro-templates/urban-freeze-frame-72310/)
 
@@ -247,13 +254,6 @@ The presets are available for speed ramping in the above section. Choose “Cust
 
 ![select preset or customize](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 4Render the Video
 
 Expand the option of “AI Frame Interpolation” and choose “Optical Flow.” Once done, click on “Render Preview” from the timeline’s toolbar to see the highest-quality results.
@@ -267,13 +267,6 @@ Expand the option of “AI Frame Interpolation” and choose “Optical Flow.”
 [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: How To Perform Slow Motion on Adobe Premiere Pro?
 
@@ -346,6 +339,19 @@ After the launch of Filmora, click on the “New Project” button. Click on the
 Go to the right panel of the screen to open the settings. From there, go to the “Speed” tab and select “Speed Ramping”. It will display the speed ramping settings below.
 
 ![access speed ramping settings](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-13.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 3Adjust the Video Speed
 
@@ -511,6 +517,13 @@ Have you accidentally captured the strangers' faces in your video? No need to wo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Create Chroma Key Written Text Effects in Filmora
 
 Did you know it only takes a few clicks to key out the color in Filmora? It means that you can add green screen effects to many other objects. This article will show a cool chroma key effect you can try using written text.
@@ -520,13 +533,6 @@ Did you know it only takes a few clicks to key out the color in Filmora? It mean
 Composing of the chroma key effect is widely used in the gaming and newscasting industries. In this technique, you can make layering images and videos for the text together based on color hues.
 
 ![chroma key text effect](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Video editors can eliminate the basis from a picture by automatically choosing a certain hue in post-production. An interactive animation results by adding different color schemes; it's an easy way to make 3D motion videos.
 
@@ -578,6 +584,13 @@ It is because the effect we insert during editing will be more standing and give
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** You can create more shots till you get the right angle for a final video. Just focus on the camera alignment and highlighted words, then it will be all set.
 
 After filming all the clips, you must edit those shots on the Filmora to get the chroma effect. Scroll more to get the step-by-step process!
@@ -607,13 +620,6 @@ First, import the best footage into the filmora which you have shot. Ensure that
 For this, click on **Import Media** and choose from the PC library what you want to edit.
 
 ![import the clip to the filmora](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3 Drag the clip to the timeline
 
@@ -696,6 +702,13 @@ You can also use any other motion video of scenes rather than colorful videos to
 Create more attractive looks and share them with your subscribers. Mainly, vloggers can attract many viewers by making the introductory part with this effect. Then, choose hundreds of other videos from the stock media and create different looks daily.
 
 See how you can get editing tricks on Wondershare Filmora and use them in a few clicks to get an attractive look!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 3\. Camera Angles
 
@@ -777,22 +790,16 @@ To key out the specific color for changing its background, you have to perform t
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** Ensure to select the color from the middle of the text for better key-out accuracy.
 
 ![color key out from the text](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-10.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You have to adjust the size and thickness after selecting the key-out. For this, follow the next step!
 
@@ -811,13 +818,6 @@ Now, it's time to set the background after fixing all the settings of the chroma
 You have to add an excellent motion background in the handwritten text video. For this, you must first import the background clip into the filmora. Then, click on **Import Media** and choose what you want from your PC.
 
 ![import background clip into the filmora](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step8 Add a background clip to the timeline
 
@@ -865,21 +865,22 @@ See how you can get editing tricks on Wondershare Filmora and use them in a few 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-mastering-audio-notes-essential-tips-for-2024/"><u>[New] Mastering Audio Notes Essential Tips for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagrams-latest-trends-reels-and-stories/"><u>[New] Mastering Instagram's Latest Trends Reels and Stories</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-recorded-tones-the-iphone-voicemail-keeper/"><u>[Updated] Recorded Tones The iPhone Voicemail Keeper</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722201609786-cut-the-red-tape-speak-to-chatgpt/"><u>Cut the Red Tape – Speak to ChatGPT</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-xs-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-audio-plug-ins-for-video-editors/"><u>In 2024, Best Audio Plug-Ins For Video Editors</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-laugh-out-loud-essential-comedy-channels-for-endless-fun/"><u>In 2024, Laugh Out Loud Essential Comedy Channels for Endless Fun</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/learn-how-to-use-3d-camera-tracking-in-adobe-after-effects-and-take-your-skills-to-the-next-level-for-2024/"><u>Learn How to Use 3D Camera Tracking in Adobe After Effects and Take Your Skills to the Next Level for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-countdown-video/"><u>New How to Make a Countdown Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-6-tips-for-your-first-facebook-ads/"><u>New In 2024, 6 Tips for Your First Facebook Ads</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-montage-makes-it-easy-to-create-and-share-videos-this-article-will-explain-what-it-can-do-and-show-you-examples-of-movies-that-use-montage/"><u>New Montage Makes It Easy to Create and Share Videos. This Article Will Explain What It Can Do and Show You Examples of Movies that Use Montage</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-motion-blur-photo-with-gimp-step-by-step-guide-for-2024/"><u>New Motion Blur Photo With GIMP Step-By-Step Guide for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-spark-20c-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Spark 20C</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-x50-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>Updated How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-screen-mastery-for-premier-pro-users/"><u>[New] Full Screen Mastery for Premier Pro Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhancing-presentations-adding-youtube-to-google-slides/"><u>[Updated] In 2024, Enhancing Presentations Adding YouTube to Google Slides</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-finest-9-digital-places-for-harvesting-futuristic-3d-typefaces/"><u>[Updated] The Finest 9 Digital Places for Harvesting Futuristic 3D Typefaces</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-path-of-exile-connection-failures-an-authoritative-guide-to-overcoming-server-issues/"><u>Beat Path of Exile Connection Failures: An Authoritative Guide to Overcoming Server Issues</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/is-windows-movie-maker-still-available-in-2024/"><u>Is Windows Movie Maker Still Available, In 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mac-iphoneipadapple-tvitunesmp4mov/"><u>Mac上の優れたビデオコンバータ: IPhone、iPad、Apple TV、iTunes、MP4、MOV形式へ容易に変換可能</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-are-you-in-search-for-a-step-by-step-guide-to-how-to-add-effects-in-tiktok-here-it-is-to-add-some-flavor-to-your-tiktok-videos-use-these-how-to-add-effe/"><u>New Are You in Search for a Step-by-Step Guide to How to Add Effects in TikTok? Here It Is. To Add some Flavor to Your TikTok Videos. Use These How to Add Effect to TikTok Recommendations</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-freeware-alternativen-zum-win32-disk-image-generator-gratis-herunterladen/"><u>Top Freeware: Alternativen Zum Win32 Disk Image-Generator - Gratis Herunterladen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-stressful-moments-solutions-with-chatgpt/"><u>Transforming Stressful Moments: Solutions with ChatGPT</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-overlay-videos-in-premiere-pro/"><u>Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-a-lut-that-you-can-use-for-your-high-definition-content-you-can-use-rec-709-lut-premiere-pro-for-your-hd-digital-media-to-give-the-perfe/"><u>Updated Do You Want a LUT that You Can Use for Your High-Definition Content? You Can Use Rec 709 LUT Premiere Pro for Your HD Digital Media to Give the Perfect Result</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-ninja-jump-effect-with-filmora/"><u>Updated How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-seo-guide-how-to-improve-search-rankings-for-your-youtube-videos-for-2024/"><u>YouTube SEO Guide How to Improve Search Rankings For Your YouTube Videos for 2024</u></a></li>
 </ul></div>
 

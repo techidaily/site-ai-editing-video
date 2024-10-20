@@ -1,7 +1,7 @@
 ---
 title: Solution to Stuttering Glitch in Mass Effect Legendary Anthology Released
-date: 2024-10-08T23:11:40.640Z
-updated: 2024-10-14T22:58:34.722Z
+date: 2024-10-13T17:02:04.834Z
+updated: 2024-10-20T16:27:21.633Z
 tags:
   - win11
   - win10
@@ -38,15 +38,15 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-appdata.jpg)
 2. Go to **Local > Hotta > Saved > Config > WindowsNoEditor** . Right click**GameUserSettings.ini** and rename it to**GameUserSettings.ini.backup.**  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-config-1.jpg)
 3. **Right-click the empty** area and create a new .txt file with the name**GamerUserSettings.ini** . Edit the file and paste the following:  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [D3DRHIPreference]  
 bPreferD3D12InGame=False  
@@ -56,6 +56,13 @@ bPreferD3D12InGame=False
 Now you can restart Tower of Fantasy and check the results.
 
 If the game still crashes, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2:**Update your graphics driver**
 
@@ -67,8 +74,23 @@ If the game still crashes, take a look at the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -99,30 +121,17 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-0.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, set to**run this program in compatibility mode for Windows 8** . Then check the box next to**Disable fullscreen optimizations** and**Run this program as an administrator** . In the end, click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-1.jpg)
 3. Now you can test the gameplay in Tower of Fantasy.
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this fix doesn’t work for you, undo the settings and continue to the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Modify your Registry (Advanced)
 
@@ -137,36 +146,22 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-1.jpg)
 3. Right click the empty space and create a**DWORD (32-bit) Value** . Then name it**TdrLevel** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-2.jpg)
 4. Double-click**TdrLevel** to edit the value. Select**Hexadecimal** and set**Value data** to**0** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-3.jpg)
 5. Now reboot your PC and launch Tower of Fantasy.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If TdrLevel didn’t fix the issue, rename TdrLevel to**TdrDelay** , select the**Decimal** option and set Value data to**10** and try again after reboot.
 
 If this fix doesn’t give you luck, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
 
@@ -180,10 +175,10 @@ If this fix doesn’t give you luck, take a look at the next one.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -209,18 +204,17 @@ If this fix doesn’t give you luck, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-brief-bliss-in-photo-collage-crafting-the-google-way/"><u>[New] 2024 Approved Brief Bliss in Photo Collage Crafting - The Google Way</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-audio-and-visual-quality-in-youtube-videos/"><u>[Updated] Mastering Audio & Visual Quality in YouTube Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-windows-movie-maker-save-mp4-file/"><u>2024 Approved How Windows Movie Maker Save MP4 File</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-15-pro-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 15 Pro to Samsung | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/blender-green-screen-effects-for-2024/"><u>Blender Green Screen Effects for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-fix-dvd-player-no-disc-detected-or-error-message-issue/"><u>How to Fix DVD Player 'No Disc Detected' Or 'Error Message' Issue</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oneplus-ace-3withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on OnePlus Ace 3with/without a PC</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-masterclass-picks-professional-webcam-stands/"><u>In 2024, Masterclass Picks Professional Webcam Stands</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-tutorial-video-with-filmora/"><u>New How to Make Tutorial Video with Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-start-a-vlog/"><u>Updated How to Start a Vlog</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-convert-your-videos-to-60-fps-using-these-excellent-tools/"><u>Updated In 2024, Convert Your Videos to 60 FPS Using These Excellent Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-live-online-learning-captures/"><u>[New] Live Online Learning Captures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-nurturing-nature-on-android-animals-in-a-virtual-world/"><u>[Updated] 2024 Approved Nurturing Nature on Android Animals in a Virtual World</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-essential-gif-tool-guide-tips-from-the-experts/"><u>[Updated] In 2024, Essential GIF Tool Guide Tips From the Experts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-precision-timing-crafting-your-ideal-video-conference-for-2024/"><u>[Updated] Precision Timing Crafting Your Ideal Video Conference for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-13c-5g-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Redmi 13C 5G Lock Screen Password?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tutorial-triumph-a-step-towards-a-million-view-goal/"><u>In 2024, Tutorial Triumph A Step Towards a Million View Goal</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-path-to-perfect-ps3-game-footage-a-step-by-step-guide-for-2024/"><u>The Path to Perfect PS3 Game Footage A Step-by-Step Guide for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New How to Apply Video Filters Mobile and Desktop for 2024
-date: 2024-10-12T18:04:28.448Z
-updated: 2024-10-14T20:55:28.373Z
+date: 2024-10-13T17:10:38.240Z
+updated: 2024-10-20T16:35:29.376Z
 tags: 
   - ai
   - animation videos
@@ -25,23 +25,9 @@ Applying video filters on mobile devices is a simple process that can significan
 
 First, you must download a video editing app with different filters. One popular option is Filmora, which can be found in the app store.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Step2: Import your videos**
 
 Once you have downloaded the app, you can begin importing your videos. It can typically do this by selecting the "Import" option within the app and choosing the desired videos from your library. You may also record videos directly within the app if desired.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step3: Add video filter effects**
 
@@ -163,13 +149,6 @@ Step1Open System Preferences and choose Trackpad. Next, choose the Scroll & Zoom
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/trackpad-scroll-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2You can zoom in or out on Mac by placing two fingers on the touchpad and moving one finger closer to the other or further apart (repeat for additional zooming)
 
 Step3Another option is to simply zoom in and out by double-tapping the touchpad with two fingers.
@@ -191,13 +170,6 @@ Step3Select the desired modifier key from the dropdown menu.
 ## Way 4: Enable Hover Text to Zoom
 
 Use the wonderful assistive feature called Hover Text to enlarge a single macOS user interface piece without zooming out the whole Mac screen. One of your alternatives is to enable zooming while hovering over text. The "Enable Hover Text" option is part of the Zoom menu but does not directly magnify the display. The function allows users to use the Command key to momentarily enlarge just the text below the pointer and is accessible without Zoom having to be activated. When Hover Text is enabled on your Mac, you may drag the cursor over anything on the screen, such as text, input fields, menu items, or buttons, and a high-resolution magnified version of those objects will appear in a new window. Find out here how to make Hover Text available on your Mac:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Steps to Use Hover Text to Zoom
 
@@ -222,6 +194,13 @@ Step2Click the Apple symbol in the upper left corner of your screen and choose "
 Step3Select "Keyboard" > "Keyboard" and then select "Touch Bar shows" under the Touch Bar settings. Then choose an option from the menu, which also includes the larger Control Strip and app buttons.
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/enable-touch-bar-on-mac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -259,13 +238,6 @@ Step2You can zoom in or out on Mac by placing two fingers on the touchpad and mo
 
 Step3Another option is to simply zoom in and out by double-tapping the touchpad with two fingers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 3: Use Scroll Gesture
 
 If you'd like to use your mouse, you may utilize the screen zoom option, which enlarges everything on your screen rather than just the app window you're now viewing. This would need holding down one of the designated modifier keys while scrolling in order to zoom in on a Mac. Just like on an iPhone or iPad, you can zoom in and out by pinching and un-pinching. The smart zoom motion, on the other hand, is executed by double-tapping with two fingers. This immediately zooms into or immediately zooms out of a web page or pdf.
@@ -290,9 +262,23 @@ Step1When you choose this option, a larger, higher-resolution picture of the tex
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/enable-hover-text-to-zoom.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2Additional customization options are available in the Options menu, including the ability to alter the font, the size of the zoomed-in text (which may range from 14pt to 128pt), the font's appearance surrounding the cursor, and the modifier key that activates the function.
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/customize-text-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 5: Enable Touch Bar
 
@@ -340,19 +326,6 @@ To install the software, you have to double-click on the app installer that got 
 
 ![install the software](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-1.gif)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Adding the footage
 
 Next, your main step is to add the video you will edit into the Filmora software. First, you must click the Create New Project tab on the homepage. When the editor opens, tap on the "Click here to import media" button and insert the video you will edit from your device. Next, drag it down to the editing timeline for making further changes. Choose the Keep project settings option when the prompt comes up to ensure the same quality of the video.
@@ -378,6 +351,13 @@ Afterward, you should click on the playhead and move it a little ahead by a few 
 ## Unlock the layers
 
 Repeat this step for a few more layers, like dragging the snapshot image to the timeline > moving the playhead by some frames > Snapshot > Lock Track. Then, after you are done with the number of stages possible with your video clip, unlock all of the locked track layers sequentially from top to bottom.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Editing the layers
 
@@ -435,13 +415,6 @@ On the video clip, you added to the editing timeline, click on the playhead. The
 
 ![click the snapshot icon](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-3.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Move the image in place
 
 After the previously mentioned step, you should drag the snapshot you just captured to the second layer on the timeline above the clip. Make sure to place the image where the playhead is, marking the point of the freeze frame. Then, drag the slider at the end of the image clip you added to the timeline to match its length with the video clip.
@@ -478,6 +451,19 @@ Then, drag the playhead on the clip to the frame at which the third freeze frame
 
 ![drag the playhead and split](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-7.gif)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Create the freeze frame to reverse the speed effect
 
 After this, right-click on the top of the remaining video clip on your timeline. From the drop-down menu that appears, tap on the Copy option. Then, paste the second half beside the first half on the same layer.
@@ -487,10 +473,10 @@ After that, right-click on the second copied clip and choose the Speed option > 
 ![play the preview](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-8.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -604,6 +590,13 @@ Once you have enabled this option, navigate towards the timeline toolbar. Search
 
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
 
 This part of the article will highlight some of the prominent video editing features of Filmora. The uniqueness of these features lies in their AI-backed algorithms. You can give directions according to your video, and AI will operate accordingly. Here are some of its video editing features that you’ll come across upon entering:
@@ -645,6 +638,13 @@ The software has undergone multiple updates since its creation. With each versio
 * **Motion Tracking:** Do you want to blur out or remove a person or scene throughout a video? With this feature, doing that is a piece of cake. Select the object-to-motion track and play the video from start to end. The tracker will detect the object's motion and add a specific effect throughout.
 * **Masking:** Many video editors offer masking options, but a few offer precision. Precision is very important during masking, and After Effects is a master of that. Along with different masking options, it offers custom settings to bring accuracy.
 * **Timeline Editing:** To see how professional software is, see if it has a timeline panel. Timeline editing is one of the functions that bring accuracy and professionalism. You can cut, align, apply effects, transitions, and much more on it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: A Guide to Slow Down Video in Adobe After Effects During Editing
 
@@ -765,24 +765,17 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-dive-into-effortless-gif-sharing-in-snapchats-guide/"><u>[New] In 2024, Dive Into Effortless Gif Sharing in Snapchat's Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-scalability-of-youtube-media/"><u>[Updated] Fine-Tuning Scalability of YouTube Media</u></a></li>
-<li><a href="https://discover-great.techidaily.com/10-professionelle-tipps-und-tricks/"><u>10 - Professionelle Tipps Und Tricks</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-capture-and-connect-dslr-tips-for-live-streaming-to-pcmac/"><u>2024 Approved Capture and Connect DSLR Tips for Live-Streaming to PC/Mac</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-asus-rog-phone-7-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Asus ROG Phone 7 Phone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exclusive-insights-into-windows-superior-video-players/"><u>Exclusive Insights Into Window's Superior Video Players</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-audio-plug-ins-for-video-editors/"><u>In 2024, Best Audio Plug-Ins For Video Editors</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/learn-how-to-use-3d-camera-tracking-in-adobe-after-effects-and-take-your-skills-to-the-next-level-for-2024/"><u>Learn How to Use 3D Camera Tracking in Adobe After Effects and Take Your Skills to the Next Level for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-100-working-methods-to-learn-how-to-rotate-tiktok-video-for-2024/"><u>New 100 Working Methods to Learn How to Rotate TikTok Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-motion-blur-in-davinci-resolve-in-2024/"><u>New How To Add Motion Blur In Davinci Resolve, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954212516-new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video-for-2024/"><u>New Ultimate Guide on How To Plan and Storyboard a Music Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review/"><u>New VSDC Free Video Editor Review</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/schnellere-pc-performance-entdecken-sie-5-powervolle-methoden-um-ihren-rechner-zu-beschleunigen/"><u>Schnellere PC-Performance: Entdecken Sie 5 Powervolle Methoden, Um Ihren Rechner Zu Beschleunigen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-virtual-green-screen-to-shoot-video-for-2024/"><u>Updated How To Use Virtual Green Screen to Shoot Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-clone-yourself-in-videos-with-filmora/"><u>Updated In 2024, Clone Yourself in Videos with Filmora</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-innovative-snapchat-strategies-the-ultimate-list/"><u>[New] 2024 Approved Innovative Snapchat Strategies The Ultimate List</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-swift-clearing-of-tiktok-imprints-on-mobile-devices/"><u>[New] In 2024, Swift Clearing of TikTok Imprints on Mobile Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transform-your-channel-with-effective-youtube-link-protocols/"><u>[New] Transform Your Channel with Effective YouTube Link Protocols</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-ways-to-add-meme-text-to-videos/"><u>2024 Approved Best Ways to Add Meme Text to Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the-a/"><u>2024 Approved Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/access-chatgpt-anywhere-your-mobile-guide-unveiled/"><u>Access ChatGPT Anywhere: Your Mobile Guide Unveiled!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-a56s-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo A56s 5G Phone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-vintage-film-effect-1920s/"><u>How to Create Vintage Film Effect 1920S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora/"><u>How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-huawei-nova-y91-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Huawei Nova Y91 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-create-the-night-to-day-effect-video/"><u>New 2024 Approved How to Create the Night-to-Day Effect Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/troubleshooting-division-2-loading-issues-top-fixes/"><u>Troubleshooting Division 2 Loading Issues - Top Fixes</u></a></li>
 </ul></div>
 

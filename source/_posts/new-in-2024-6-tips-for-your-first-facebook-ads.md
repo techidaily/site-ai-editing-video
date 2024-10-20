@@ -1,7 +1,7 @@
 ---
 title: New In 2024, 6 Tips for Your First Facebook Ads
-date: 2024-10-09T02:50:57.661Z
-updated: 2024-10-15T00:38:38.443Z
+date: 2024-10-17T16:32:05.788Z
+updated: 2024-10-20T16:02:19.569Z
 tags: 
   - ai
   - animation videos
@@ -56,6 +56,13 @@ Whatever the case, make sure you have a clear goal from start to finish to under
 Before you create any ads, it's important to define who will see them. You'll want to think carefully about the type of person who would be interested in what you're offering and how they would respond when they see the ad. If you can't answer these questions, it's time to start considering different audiences.
 
 ![know your target audience](https://images.wondershare.com/filmora/article-images/2022/08/know-your-target-audience.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 But how do we begin defining a target audience? To start, let's look at the different terms used by advertisers:
 
@@ -121,13 +128,6 @@ If you're running a single video ad for example and your budget is $100 per day,
 You need to determine how much you're willing to spend on your Facebook ads. This will help you to create a budget and also to decide how often you want your ad to be shown.
 
 ![plan your fb ad budget](https://images.wondershare.com/filmora/article-images/2022/08/plan-your-fb-ad-budget.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The average Facebook ad spends between $5 and $10 per day. However, this can vary depending on the type of product or service that you're promoting, as well as the size of your target audience.
 
@@ -238,6 +238,13 @@ Step5 Move the clip until it covers only the first frame of the appearing clip. 
 
 ![move the clip](https://images.wondershare.com/filmora/article-images/2022/12/appearance_13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step6 Now search for some smoke effects and put it upside down. So it looks like the ceiling is broken when the subject falls. Then add some camera shake to the fall.
 
 ![search for some smoke effects](https://images.wondershare.com/filmora/article-images/2022/12/appearance_14.jpg)
@@ -278,13 +285,6 @@ There are several fantastic camera effects that you can experiment with in your 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Quickly Turn Any Video Into a Paper Rip Effect
 
 Video editors use different effects to add creative flair to their projects. These effects can also create a transition between clips, make text or images stand out, or add movement to a static image.
@@ -312,13 +312,6 @@ We here take [Wondershare Filmora](https://tools.techidaily.com/wondershare/film
 * Over 2,000+ audio resources range from music and audio effects, and much more.
 * The shortcut key saves you time while editing videos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Stepwise Guide to Make the Paper Rip Effect
 
 Step1 Download Wondershare Filmora from the official website. If you have already downloaded the Wondershare Filmora. Open it, and let's start editing the video.
@@ -331,25 +324,11 @@ Step3 Drag and drop **Clip 1** onto the timeline and move the playhead to the la
 
 ![drag-drop clip 1](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Alt text: Paper rip effect.
 
 Step4 Now right-click on **Clip 1** to open the menu and select **Add Freeze Frame**.
 
 ![selecting add freeze frame](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 After adding a freeze frame, cut here.
 
@@ -366,13 +345,6 @@ Step7 Double-click the paper picture on the timeline to open the settings window
 In the preview window, we can see that the freeze frame has the paper texture now!
 
 ![freeze frame has a paper texture](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-08.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step8 Now you can use the new feature of Filmora to export this small portion of the video. First, click and drag the playhead to the start of the freeze frame and press **"I"** on the keyboard to set the **IN POINT**, then move the playhead to the end of this freeze frame and press **"O"** on the keyboard to set the **OUT POINT**.
 
@@ -447,6 +419,13 @@ Step2 First, we need to find a photo of a white paper that you can easily downlo
 
 ![select the material](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Drag and drop **Clip 1** onto the timeline and move the playhead to the last frame of the clip.
 
 ![drag-drop clip 1](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-03.png)
@@ -456,6 +435,13 @@ Alt text: Paper rip effect.
 Step4 Now right-click on **Clip 1** to open the menu and select **Add Freeze Frame**.
 
 ![selecting add freeze frame](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 After adding a freeze frame, cut here.
 
@@ -484,6 +470,13 @@ Step8 Now you can use the new feature of Filmora to export this small portion of
 Step9 Then click **Export** and choose **Create Video**. Let's name it **freeze frame 1** and click on Export.
 
 ![selecting create a video](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-010.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 It will only export the selected part on the timeline. Once the exporting process is completed, **Right-Click** on the timeline and **Cancel** the selected range.
 
@@ -518,13 +511,6 @@ Step16 Now you can add several Filmora transitions to finish the effect. Go to t
 Step17 Drag and drop it onto the cut between **clip 1** and **freeze frame 1** and the cut between **clip 2** and **freeze frame 2**. You can also adjust the length of the transition.
 
 ![dropping the transition effect](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-018.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step18 Then, find **Torned Paper Transition 4** in the **Transitions window**. Drag and drop it to the cut between **freeze frame 1** and **freeze frame 2**. Then choose **Prefix** mode in the transition setting video. Adjust the length if needed.
 
@@ -611,6 +597,13 @@ As we are working on miniature effects, what do we need first? First, we ensure 
 
 ![search for the blur effect on effect panel in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-5.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To add a blur effect from the panel, follow the below-mentioned steps:
 
 * First of all, move toward the above tabs.
@@ -660,13 +653,6 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 * Set the mask on video according to your style and choice.
 
 ![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -799,7 +785,21 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 
 ![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can adjust the mask size and position by rotating and changing its shape.
 
@@ -864,21 +864,24 @@ Have you tried to add a miniature effect before? If yes, then share your experie
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-compelling-podcast-imagery-fundamental-tips/"><u>[Updated] Crafting Compelling Podcast Imagery Fundamental Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unlock-your-view-best-bargain-cam-recording-apps/"><u>[Updated] In 2024, Unlock Your View Best Bargain Cam Recording Apps</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-building-a-successful-online-presence-wirecast-streaming-to-youtube/"><u>2024 Approved Building a Successful Online Presence WireCast Streaming to Youtube</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-easy-steps-to-master-volume-control-transitions/"><u>2024 Approved Easy Steps to Master Volume Control Transitions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-motion-blur-photo-with-gimp-step-by-step-guide/"><u>2024 Approved Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-add-green-screen-eff/"><u>Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-california-drivers-can-securely-store-licenses-in-apple-and-google-wallets-step-by-step-guide/"><u>How California Drivers Can Securely Store Licenses in Apple and Google Wallets - Step-by-Step Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-11-pro-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone 11 Pro online without SIM Card?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-elevate-your-edits-10-essential-apps-for-instagram-videos/"><u>In 2024, Elevate Your Edits 10 Essential Apps for Instagram Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-exploring-8-top-tier-free-video-communication-tools-for-enterprises/"><u>In 2024, Exploring 8 Top-Tier Free Video Communication Tools for Enterprises</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-transitions-in-adobe-premiere-pro/"><u>New How to Add Transitions in Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-in-canva-editor/"><u>New How to Loop a Video in Canva Editor</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/this-article-aims-to-show-you-how-to-improve-your-lighting-in-the-sun/"><u>This Article Aims to Show You How to Improve Your Lighting in the Sun</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/understanding-and-implementing-reliable-backup-strategies-for-your-applications/"><u>Understanding & Implementing Reliable Backup Strategies for Your Applications</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-8-best-sites-to-get-glitch-transition-for-premiere-pro/"><u>Updated In 2024, 8 Best Sites to Get Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-create-the-night-to-day-effect-videos/"><u>Updated In 2024, Create the Night-to-Day Effect Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-becoming-an-expert-at-scheduling-virtual-team-sessions-google/"><u>[New] Becoming an Expert at Scheduling Virtual Team Sessions (Google)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ultimate-3d-experience-guide-to-top-blu-ray-players/"><u>[Updated] In 2024, Ultimate 3D Experience Guide to Top Blu-Ray Players</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-100plus-best-tiktok-captions-enhance-your-content/"><u>2024 Approved 100+ Best TikTok Captions Enhance Your Content</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windows-11-windows-7/"><u>保全数据，直接转换Windows 11的 Windows 7用户指南</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/wav3g2movavi/"><u>在線自助更改WAV音效為3G2，只需要Movavi的編譯器及無成本服務</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/crafting-stories-that-capture-attention-a-3-tiered-approach-to-fb-advertising-copywriting/"><u>Crafting Stories That Capture Attention A 3-Tiered Approach to FB Advertising Copywriting</u></a></li>
+<li><a href="https://video-capture.techidaily.com/farm-fanatics-forecast-future-of-virtual-harvesting-for-2024/"><u>Farm Fanatics’ Forecast Future of Virtual Harvesting for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-s17-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo S17 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/modify-display-scaling-in-windows-11/"><u>Modify Display Scaling in Windows 11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-how-to-create-luts-with-luts-generator/"><u>New 2024 Approved Learning How to Create LUTs with LUTs Generator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-samsung-galaxy-a05s-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Samsung Galaxy A05s</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-6-coupons-and-discounts-sites-save-big-on-every-purchase/"><u>Top 6 Coupons & Discounts Sites: Save Big on Every Purchase</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-video-contents-that-convert-sales-for-2024/"><u>Updated How to Create Video Contents That Convert Sales for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora-in-2024/"><u>Updated How To Make a Video by Mouse in Filmora, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-is-windows-movie-maker-still-available/"><u>Updated Is Windows Movie Maker Still Available?</u></a></li>
 </ul></div>
 

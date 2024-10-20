@@ -1,7 +1,7 @@
 ---
 title: In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects
-date: 2024-10-07T23:25:58.910Z
-updated: 2024-10-14T18:26:28.629Z
+date: 2024-10-17T16:36:26.146Z
+updated: 2024-10-20T16:15:05.242Z
 tags: 
   - ai
   - animation videos
@@ -189,13 +189,6 @@ The subject should jump and act like he is landing on the floor. This shot has t
 
 ![shot 2](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-2.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Shot 3: Empty Background Clip
 
 This is an empty background clip. This clip includes only background settings without the subject. We need this clip to make layers while editing.
@@ -205,6 +198,13 @@ This is an empty background clip. This clip includes only background settings wi
 ## How To Edit These Clips On Filmora?
 
 Once the shots have been taken, we move towards editing these clips, and for this purpose, we are using Filmora. Here is a step-by-step guide for editing these shots.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps To Edit These Clips
 
@@ -231,6 +231,13 @@ Step2 Add a freeze frame at this point by right-clicking on the playhead and sel
 Step3 Make a cut at the start of the freeze frame, keep it for 8 frames and delete the rest.
 
 ![initial steps](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-4.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Masking of the Video Clips**
 
@@ -274,6 +281,13 @@ Step8 Move the clip next to the freeze frame clip.
 
 ![borax fx effect](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-6.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Keyframing**
 
 Now we have to add animation in the freezing frame so that the masked shadow can be shown moving from the back towards the front, a speedy moving shadow. This is probably the most crucial step in editing.
@@ -293,6 +307,13 @@ Step5 Add another keyframe at the end with your masked shadow appearing half fro
 This step is a bit tricky to understand, but the most important. Once it is done, your animation will give the impression of an object moving like a flash from the back to the front of view.
 
 ![keyframing](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-7.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Speed Ramping**
 
@@ -344,13 +365,6 @@ Price: $37.
 
 ![best luts to buy in 2022 - Urban Dark LUTs](https://images.wondershare.com/filmora/article-images/2022/05/best-free-luts-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Urban Dark LUTs
 
 ### 2\. [Osiris Cinematic LUT](https://www.color.io/visioncolor-osiris-luts#pricing)
@@ -371,6 +385,13 @@ Price: $22.
 
 ![best luts to buy in 2022 - Black Magic LUT](https://images.wondershare.com/filmora/article-images/2022/05/best-free-luts-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Black Magic LUT
 
 ### 4\. [Filmic Tone LUT](https://www.innergrade.com/products/filmic-tone-luts)
@@ -380,6 +401,13 @@ In this LUT, you can rectify the color gradients and match the skin tone perfect
 Price: $28.
 
 ![best luts to buy in 2022 - Filmic Tone LUT](https://images.wondershare.com/filmora/article-images/2022/05/best-free-luts-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Filmic Tone LUT
 
@@ -423,13 +451,6 @@ Price: $35
 
 Autumn LUTs pack
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 9\. [Sports LUTs](https://www.innergrade.com/products/20-sports-luts-pack%20)
 
 It is a pack of 20 unique sports LUTs exclusively available to insert into your videos and images. Customize the LUTs by adjusting the brightness, contrast, color grading and intensity values to add value to the captured content.
@@ -439,13 +460,6 @@ Price: $36
 ![best luts to buy in 2022 - Sports LUTs ](https://images.wondershare.com/filmora/article-images/2022/05/best-free-luts-10.jpg)
 
 Sports LUTs
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 10\. [Christmas LUTs](https://www.innergrade.com/products/20-christmas-luts-pack)
 
@@ -475,13 +489,6 @@ Price: $17
 
 ![best luts to buy in 2022 - Black and White LUTs ](https://images.wondershare.com/filmora/article-images/2022/05/best-free-luts-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Black and White LUTs
 
 ### 13\. [Creamy LUTs](https://www.innergrade.com/products/20-creamy-luts-pack)
@@ -493,6 +500,13 @@ Price: $36
 ![best luts to buy in 2022 - Creamy LUTs ](https://images.wondershare.com/filmora/article-images/2022/05/best-free-luts-14.jpg)
 
 Creamy LUTs
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 14\. [Retro LUTs](https://www.innergrade.com/products/20-retro-luts-pack)
 
@@ -574,19 +588,6 @@ Suppose you are looking for professionals who can edit videos for you and halt y
 
 One of the best features of a movie maker is that you can encapsulate images, sound, and videos into a single frame. With the help of its exciting features, you can edit your videos according to your choice and upload them on social media. Since **Windows movie maker 2012** is available online for free, you can easily download the program and launch it on your PC for a perfect video editing journey.
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. Key Features of Windows Movie Maker 2012
 
 Windows movie maker has some of the most exciting features that can help you create professional videos of your choice. Following are some of the key features:
@@ -629,6 +630,13 @@ In the present era, you may find it challenging to get the download option of wi
 
 ![download windows movie maker](https://images.wondershare.com/filmora/article-images/2022/07/download-windows-movie-maker-2012.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Click to open the setup file from the download folder of your computer.
 * Now, at this point, opt to click on run to start the installation process of windows essentials.
 
@@ -638,30 +646,10 @@ In the present era, you may find it challenging to get the download option of wi
 
 ![click on install all windows essential](https://images.wondershare.com/filmora/article-images/2022/07/install-all-windows-essential.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * The windows movie maker 2012 will start installing on your computer.
 * Once the installation is complete, you can click on the windows movie maker 2012 icon to open the application.
 
 ![click on windows movie maker 2012 icon](https://images.wondershare.com/filmora/article-images/2022/07/open-windows-movie-maker-2012.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. How to use Windows Movie Maker 2012?
 
@@ -744,19 +732,21 @@ Therefore, it is time you explore your creativity with the help of **windows liv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-effortless-zoom-the-path-to-crystal-clear-borders/"><u>[New] In 2024, Effortless Zoom The Path to Crystal Clear Borders</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unveiling-hidden-gems-instagrams-download-secrets/"><u>2024 Approved Unveiling Hidden Gems Instagram's Download Secrets</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-14-plusipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 14 Plus/iPad | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-ways-to-blur-zoom-background-for-free-for-2024/"><u>Best Ways to Blur Zoom Background for Free for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/capture-ultra-hd-quality-discover-the-newest-8k-cameras-launch-details-and-technical-specifications/"><u>Capture Ultra HD Quality: Discover the Newest 8K Camera's Launch Details & Technical Specifications</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-poco-m6-pro-4g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Poco M6 Pro 4G</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-steps-to-revive-your-black-screen-windows-11/"><u>Easy Steps to Revive Your Black Screen Windows 11</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-remove-background-from-a-video-in-premier-pro-for-2024/"><u>How to Remove Background From a Video in Premier Pro for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-create-a-motion-blur-effect-in-your-videos-read-this-well-described-guide-to-learn-how-to-add-motion-blur-on-capcut-on-iphone-and-and/"><u>In 2024, Do You Want to Create a Motion Blur Effect in Your Videos? Read This Well-Described Guide to Learn How to Add Motion Blur on CapCut on iPhone and Android Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-personalized-/"><u>In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-excellent-church-streaming-services/"><u>In 2024, Navigating the Excellent Church Streaming Services</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-syncing-your-soundtrack-import-music-into-inshot/"><u>In 2024, Syncing Your Soundtrack Import Music Into InShot</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>New In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-e2-user-profile/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest E2 User Profile</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-differentiating-between-metaverse-and-multiplemetaverse-worlds/"><u>[New] Differentiating Between Metaverse & MultipleMetaverse Worlds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-best-ringtones-roundup-essential-sites/"><u>[Updated] 2024 Approved Best Ringtones Roundup Essential Sites</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-specialized-compilation-choosing-ringtones-with-ease/"><u>[Updated] Specialized Compilation Choosing Ringtones with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bebop-2s-avian-spectacle-a-compreran-analysis-for-2024/"><u>Bebop 2'S Avian Spectacle – A Compreran Analysis for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-know-how-you-can-trim-or-merge-using-wondershare-filmora-trimming-and-merging-using-this-tool-is-an-easy-task-learn-how-for-2024/"><u>Do You Know How You Can Trim or Merge Using Wondershare Filmora? Trimming and Merging Using This Tool Is an Easy Task; Learn How for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-make-your-background-disappear-and-replace-with-an-attractive-background-here-is-how-to-add-a-green-screen-to-zoom-app-and-add-any-virtual-ba/"><u>Do You Want to Make Your Background Disappear and Replace with an Attractive Background? Here Is How to Add a Green Screen to Zoom App and Add Any Virtual Background of Your Choice</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-steps-to-loop-youtube-videos-on-iphone/"><u>Easy Steps to Loop YouTube Videos on iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-fade-in-text-in-adobe-premiere-pro-for-2024/"><u>How to Fade in Text in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oneplus-nord-3-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on OnePlus Nord 3 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-easy-steps-to-export-video-in-filmora/"><u>New 2024 Approved Easy Steps to Export Video in Filmora</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/produce-personalized-internet-chuckles/"><u>Produce Personalized Internet Chuckles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-words-into-art-utilizing-chatgpt-for-your-poetic-journey/"><u>Transform Words Into Art: Utilizing ChatGPT for Your Poetic Journey</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-ways-to-make-time-lapse-video-on-macbook/"><u>Updated 3 Ways to Make Time-Lapse Video on MacBook</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-best-animation-software-for-all-skill-levels-top-picks/"><u>Updated Best Animation Software for All Skill Levels Top Picks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora-for-2024/"><u>Updated How to Correct Lens Distortion With Filmora for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-gt-5-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme GT 5 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

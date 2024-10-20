@@ -1,7 +1,7 @@
 ---
 title: Solutions for Fixing Misinstalled Ryzen Master Driver on Your PC
-date: 2024-10-09T17:28:25.177Z
-updated: 2024-10-14T21:53:16.913Z
+date: 2024-10-19T16:16:32.383Z
+updated: 2024-10-20T16:00:02.831Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -80,14 +87,14 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
 
@@ -130,13 +137,20 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -153,29 +167,9 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -191,19 +185,19 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
@@ -230,24 +224,24 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-constructing-youtube-playlists-made-simple-for-2024/"><u>[New] Constructing YouTube Playlists Made Simple for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-effortlessly-gain-premium-quality-pictures-online/"><u>[Updated] How to Effortlessly Gain Premium Quality Pictures Online</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pushing-the-boundaries-an-in-depth-look-at-magix-studio-max-2024/"><u>[Updated] Pushing the Boundaries An In-Depth Look at Magix Studio Max 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-blender-green-screen/"><u>2024 Approved How to Use Blender Green Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-fade-in-text-in-adobe-premiere-pro-for-2024/"><u>How to Fade in Text in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo A78 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-strobe-light-text-effect-in-2024/"><u>How to Make Strobe Light Text Effect, In 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-nubia-z50s-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Nubia Z50S Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-online-changers/"><u>In 2024, Recommended Video Background Online Changers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-steps-to-add-subtitles-in-canva/"><u>In 2024, Steps to Add Subtitles in Canva</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-poco-c51-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Poco C51 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-whats-the-real-distinction-between-youtube-and-dailymention/"><u>In 2024, What's the Real Distinction Between YouTube and DailyMention?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-use-virtual-green-screen-to-shoot-video/"><u>New 2024 Approved How To Use Virtual Green Screen to Shoot Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-creating-motivational-videos-with-ai-comprehensive-guide-2024/"><u>New Creating Motivational Videos with AI Comprehensive Guide 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-windows-device-manager-code-28-problems/"><u>Step-by-Step Guide: Correcting Windows Device Manager 'Code 28' Problems</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-benefits-of-live-streaming-on-youtube/"><u>Updated Benefits of Live Streaming on YouTube</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vsco-slow-motion/"><u>VSCO Slow Motion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-expert-strategies-pcmobile-filters-for-professional-results-for-2024/"><u>[New] Expert Strategies PC/Mobile Filters for Professional Results for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-guide-to-free-music-for-mindfulness-and-serenity/"><u>[New] In 2024, Guide to Free Music for Mindfulness & Serenity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-secret-behind-successful-igtv-uploads-from-h-videos-for-2024/"><u>[New] The Secret Behind Successful IGTV Uploads From H-Videos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-honor-magic-6-lite-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Honor Magic 6 Lite to iPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/beantech-bitwatch-s1-plus-smartwatch-assessed-an-engaging-and-economical-wearable-experience/"><u>Beantéch Bitwatch S1 Plus Smartwatch Assessed: An Engaging and Economical Wearable Experience</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-nubia-red-magic-9-proplus-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nubia Red Magic 9 Pro+ FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/full-spectrum-data-salvage-system-next-level-technical-assistance-for-complete-data-recovery/"><u>Full-Spectrum Data Salvage System: Next-Level Technical Assistance for Complete Data Recovery</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-expert-approved-audio-editing-software-top-8-picks/"><u>New In 2024, Expert-Approved Audio Editing Software Top 8 Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-playstation-plus-membership/"><u>Reinstating PlayStation Plus Membership</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-full-potential-of-your-idevices-lens-a-users-handbook/"><u>Unlock the Full Potential of Your iDevice's Lens - A User's Handbook</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-overlay-videos-in-premiere-pro/"><u>Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
 </ul></div>
 
