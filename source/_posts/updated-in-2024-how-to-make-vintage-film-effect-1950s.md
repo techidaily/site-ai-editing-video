@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Make Vintage Film Effect 1950S
-date: 2024-10-16T16:16:11.456Z
-updated: 2024-10-20T17:00:54.402Z
+date: 2024-10-19T04:27:16.222Z
+updated: 2024-10-25T20:31:13.686Z
 tags: 
   - ai
   - animation videos
@@ -57,6 +57,13 @@ Up to here, you'll realize that your video doesn't still look like a 1950s film 
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Summary
 
 And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
@@ -74,13 +81,6 @@ First, fire up Filmora and load the video you want to send back to the 1950s. Th
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
 
@@ -198,6 +198,13 @@ Step3 Put the timeline cursor at the beginning of the selected text clip. Therea
 
 ![make opacity to zero pr](https://images.wondershare.com/filmora/article-images/2022/07/make-opacity-to-zero-pr.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Put the timeline cursor at that point in the clip where you want the text to appear completely. Now make the Opacity value to 100\. Click on Stopwatch to add a keyframe here.
 
 ![make opacity to 100 pr](https://images.wondershare.com/filmora/article-images/2022/07/make-opacity-to-100-pr.jpg)
@@ -217,6 +224,19 @@ Step2 Go to Effects panel and click on Video Transitions option.
 Step3 Click on Dissolve and from the dropdown list, drag and drop Film Dissolve to the beginning of the selected video clip for fade in effect.
 
 ![drag film dissolve pr](https://images.wondershare.com/filmora/article-images/2022/07/drag-film-dissolve-pr.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Click on the added effect on Timeline to adjust speed, duration, and alignment of the effect.
 
@@ -262,20 +282,27 @@ Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/fi
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/create-new-project-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Import the video clip under Project Media folder. Drag and drop the video clip to Timeline.
 
 ![import video clip](https://images.wondershare.com/filmora/guide/create-new-project-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Go to Titles located at the top and drag and drop any title style on Timeline. Double-click on the Title clip on Timeline and type in your required text in the Viewer. You can stretch the Title clip to extend its duration as per your requirement.
 
 ![go to titles](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Double-click on Title clip again on the Timeline and go to Text> Animation tab located at the top-left corner. Scroll down to go to Fade1 option and double-click Fade1 to apply it to your text.
 
@@ -309,13 +336,6 @@ Step1Go to Accessibility > System Preferences > Zoom, then click Zoom in the sid
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/open-zoom-from-accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2Press the plus/equal sign ("+ =") button, which is adjacent to the delete button on the top right side of the keyboard, while continuing to hold down the command button to zoom in.
 
 Step3Press the dash/underscore button ("- \_"), which is situated next to the "+ =" button on the top right side of the keyboard, while still holding down the command button, to zoom out.
@@ -347,6 +367,13 @@ Step1To make this feature active, from the Apple menu, choose System Preferences
 Step2Select "Use scroll motion with modifier keys to zoom" from the drop-down menu as shown above.
 
 Step3Select the desired modifier key from the dropdown menu.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 4: Enable Hover Text to Zoom
 
@@ -394,22 +421,16 @@ Step1Go to Accessibility > System Preferences > Zoom, then click Zoom in the sid
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/open-zoom-from-accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2Press the plus/equal sign ("+ =") button, which is adjacent to the delete button on the top right side of the keyboard, while continuing to hold down the command button to zoom in.
 
 Step3Press the dash/underscore button ("- \_"), which is situated next to the "+ =" button on the top right side of the keyboard, while still holding down the command button, to zoom out.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 2: Use Trackpad Gestures
 
@@ -435,27 +456,20 @@ Step1To make this feature active, from the Apple menu, choose System Preferences
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/use-scroll-gesture.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2Select "Use scroll motion with modifier keys to zoom" from the drop-down menu as shown above.
 
 Step3Select the desired modifier key from the dropdown menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 4: Enable Hover Text to Zoom
 
 Use the wonderful assistive feature called Hover Text to enlarge a single macOS user interface piece without zooming out the whole Mac screen. One of your alternatives is to enable zooming while hovering over text. The "Enable Hover Text" option is part of the Zoom menu but does not directly magnify the display. The function allows users to use the Command key to momentarily enlarge just the text below the pointer and is accessible without Zoom having to be activated. When Hover Text is enabled on your Mac, you may drag the cursor over anything on the screen, such as text, input fields, menu items, or buttons, and a high-resolution magnified version of those objects will appear in a new window. Find out here how to make Hover Text available on your Mac:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Steps to Use Hover Text to Zoom
 
@@ -466,20 +480,6 @@ Step1When you choose this option, a larger, higher-resolution picture of the tex
 Step2Additional customization options are available in the Options menu, including the ability to alter the font, the size of the zoomed-in text (which may range from 14pt to 128pt), the font's appearance surrounding the cursor, and the modifier key that activates the function.
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/customize-text-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 5: Enable Touch Bar
 
@@ -515,24 +515,21 @@ Even the most experienced Mac users sometimes get lost and google topics that sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/utperform-competitors-youtube-visibility-tactics-for-2024/"><u>[New] Outperform Competitors YouTube Visibility Tactics for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-top-virtual-reality-games-oculus-vs-htc-vive-vs-playstation-vr-showdown/"><u>[Updated] In 2024, Top Virtual Reality Games Oculus vs HTC Vive vs PlayStation VR Showdown</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtubes-top-12-choices-in-gamers-introductory-videos-freepaid/"><u>[Updated] In 2024, YouTube's Top 12 Choices in Gamers' Introductory Videos (Free/Paid)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>2024 Approved How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-watch-youtube-green-screen-videos-and-inspire-your-green-screen-ideas/"><u>2024 Approved Watch Youtube Green Screen Videos and Inspire Your Green Screen Ideas</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-narzo-n53-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme Narzo N53</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-unveil-world-written-large-innovative-zooming-tips/"><u>In 2024, Unveil World' Written Large Innovative Zooming Tips</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-wondering-if-you-can-make-diy-green-screen-video-for-streaming-learn-the-easy-steps-to-setup-diy-green-screen-shoot-the-video-and-edit-it-out-to-add/"><u>In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects</u></a></li>
-<li><a href="https://win-top.techidaily.com/master-the-art-of-blog-seo-boost-your-visibility-using-massmail-techniques/"><u>Master the Art of Blog SEO: Boost Your Visibility Using MassMail Techniques</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-elevate-your-designs-with-feather-shapes-in-after-effects/"><u>New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-apply-video-filters/"><u>New In 2024, How to Apply Video Filters</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video/"><u>New Ultimate Guide on How to Plan and Storyboard a Music Video</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/snag-a-steal-exclusive-deal-on-apple-watch-series-10-for-under-100-through-best-buys-preorder-offer-full-details-inside-zdnet/"><u>Snag a Steal: Exclusive Deal on Apple Watch Series 10 for Under $100 Through Best Buy's Preorder Offer – Full Details Inside | ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamline-entertainment-incorporating-subtitles-into-wmp/"><u>Streamline Entertainment Incorporating Subtitles Into WMP</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-vintage-film-effect-1950s/"><u>Updated 2024 Approved How to Create Vintage Film Effect 1950S</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/levating-business-and-personal-visibility-with-youtube-mobile-edition/"><u>[New] Elevating Business & Personal Visibility with YouTube, Mobile Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-frame-by-frame-focus-analyzing-recorder-quality/"><u>[New] Frame-by-Frame Focus Analyzing Recorder Quality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-10-best-sony-lut-for-different-purposes/"><u>2024 Approved 10 Best Sony LUT for Different Purposes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-leading-apps-for-dji-video-manipulation-and-mixing/"><u>2024 Approved Leading Apps for DJi Video Manipulation and Mixing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-cont/"><u>2024 Approved Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-top-underground-sources-for-smart-fb-memes/"><u>2024 Approved Top Underground Sources for Smart FB Memes</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/boost-your-dell-xps-13s-speed-by-upgrading-to-a-solid-state-drive-a-comprehensive-guide/"><u>Boost Your Dell XPS 13'S Speed by Upgrading to a Solid State Drive - A Comprehensive Guide!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/intels-raptor-lake-cpu-empowers-compact-performance-in-the-energy-efficient-msi-mini-pc-featuring-four-high-speed-lan-ports/"><u>Intel's Raptor Lake CPU Empowers Compact Performance in the Energy-Efficient MSI Mini PC, Featuring Four High-Speed LAN Ports</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>New 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review-for-2024/"><u>New VSDC Free Video Editor Review for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/to-monterey-or-not-on-my-mac/"><u>To Monterey, or Not on My Mac?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-fat-drive-issues-on-windows-10/"><u>Troubleshooting and Repairing FAT Drive Issues on Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-through-toms-critiques/"><u>Unveiling the Latest in Hardware Through Tom's Critiques</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-secret-tips-and-tricks-to-use-in-filmora-for-2024/"><u>Updated Secret Tips & Tricks to Use in Filmora for 2024</u></a></li>
 </ul></div>
 

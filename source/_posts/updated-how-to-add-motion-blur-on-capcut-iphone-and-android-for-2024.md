@@ -1,7 +1,7 @@
 ---
 title: Updated How To Add Motion Blur On CapCut? (IPhone & Android) for 2024
-date: 2024-10-16T16:23:16.539Z
-updated: 2024-10-20T17:07:59.952Z
+date: 2024-10-19T05:36:04.749Z
+updated: 2024-10-26T06:37:59.812Z
 tags: 
   - ai
   - animation videos
@@ -40,6 +40,13 @@ Step1 After adding the desired video clip in CapCut, select it and scroll in the
 Step2 Moreover, you can choose the direction and times of the motion blur effect. Once you are done, tap on the “Tick” icon. After some seconds, the motion blur effect will be applied to your video.
 
 ![set direction and times setting](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. On Android
 
@@ -294,13 +301,6 @@ Step5 Finally, click **“Files”** from the top taskbar, scroll down, and sele
 
 To help you better put the guidance into practice, we have prepared a video tutorial to deepen your understanding.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Two Concepts You Should Know In Creating Halftone Effect
 
 Apart from the practical guidance, there are two important concepts you need to be aware of: radius and channels. Below, we’ve discussed both of them in detail to make things more understandable to you:
@@ -316,13 +316,6 @@ You can adjust the sizes of the dots to change the gradient, spacing in between,
 Channel refers to the number of values that are used to create the image. The more values you use, the more details will be visible.
 
 The Channel setting of halftone effects affects how the dots are positioned and overlap. Each Channel is governed by a Screen Angle setting, which is listed in degrees. Changing the value modifies the angle at which Cyan, Magenta, Yellow, and Black dots are added to the pattern. When the dots overlap, a new color is created depending on the combination of the primary colors and black.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -378,10 +371,10 @@ LUTs (look-up tables) enhance color grading within photos and videos. After all,
 * [Part 3: Using The Most Effective LUTs in Wondershare Filmora](#part3)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: What are 3D LUTs?
@@ -449,10 +442,10 @@ Blend extraordinary filmy looks into your graphical media with Filmic Style Cano
 ![filmic style luts](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 10\. [City Film](https://fixthephoto.com/film-luts/download-4)
@@ -461,18 +454,25 @@ An aerial picture of your city determines its beauty. But the sandy or dusty atm
 
 ![city film luts](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 11\. [Dusty Light](https://fixthephoto.com/film-luts/download-10)
 
 Sometimes interior images look more attractive in dusty lighting. This LUT pack comes with diverse filter presets that add brownish dusty looks. Thus, your visual content will be enhanced with optimized resolutions within dusty lighting. The Canon LUT will adjust the color schemes within your visual content. Hence, you will have a visually appealing image with outstanding dusty contrast.
 
 ![Dusty Light](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 12\. [Tinted Shades](https://fixthephoto.com/film-luts/download-10)
 
@@ -587,13 +587,6 @@ You need not have any darker blueish effects on your outdoor visual media anymor
 
 ![Vintage ](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. [Blue Skies](https://fixthephoto.com/canon-lut/download-10)
 
 The sky is blue as the water. Thus, if your visual content has natural landmarks, provide blue touch. After all, blueish effects will enlighten your visual content in an appealing way. With next-level color grading, you will feel special emotions and feelings vibes. The LUTs are easy to use and integrate into your images or videos.
@@ -611,13 +604,6 @@ Blend extraordinary filmy looks into your graphical media with Filmic Style Cano
 An aerial picture of your city determines its beauty. But the sandy or dusty atmosphere can ruin picture quality. Using this Canon LUT, you can upscale your city picture. There are unique color gradients that eliminate dust for clarity within the image. Meanwhile, with the correct color combination, you'll see a clean environment overall.
 
 ![city film luts](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 11\. [Dusty Light](https://fixthephoto.com/film-luts/download-10)
 
@@ -643,6 +629,13 @@ Red-brownish mountains look impressive in their original colors. A pink-grade LU
 
 ![pink grade luts](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 15\. [Landscape](https://fixthephoto.com/lut-color-grading/download-4)
 
 Landscapes look great in their clean yet natural colors. But if your photography or videography goes wrong, landscapes may look poor. In this scenario, using a landscape Canon LUT is a great thing to have. After all, the LUT has useful color preset filters that will provide refreshing looks. The greenery will be restored, and the blue sky will be back.
@@ -654,19 +647,6 @@ Landscapes look great in their clean yet natural colors. But if your photography
 The bright yet exceptional blue color of the sea is always mind-blowing. If you want to use the blueish sea filter effect, download this Canon cinematic LUTs. There are special filter effects that will enhance resoLUTions and optimize color schemas. The colors are transformed while keeping blueish sea effects in the process. The end result is always amazing, with naturally appealing graphics.
 
 ![sea luts](https://images.wondershare.com/filmora/article-images/2023/06/find-the-best-free-canon-luts-16.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Using The Most Effective LUTs in Wondershare Filmora
 
@@ -689,9 +669,23 @@ In contrast, you can use Wondershare Filmora for other video editing tasks as we
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Conclusion
 
@@ -777,20 +771,19 @@ Color Finale includes several high-end color suite capabilities. Color Finale in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-wattpad-stars-moments-on-snapchat/"><u>[New] 2024 Approved Wattpad Stars Moments on Snapchat</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-professional-editors-guide-fcps-top-10-plugins/"><u>[Updated] Professional Editor’s Guide FCP's Top 10 Plugins</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-15-best-travel-vloggers-that-you-should-follow/"><u>2024 Approved 15 Best Travel Vloggers That You Should Follow</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-proven-pathway-to-pure-sound/"><u>2024 Approved Proven Pathway to Pure Sound</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-swap-out-your-videos-soundtracks-without-spending-4-cost-free-techniques/"><u>How To Swap Out Your Videos' Soundtracks Without Spending: 4 Cost-Free Techniques</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y36-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y36 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-sites-for-3d-type-artistry/"><u>In 2024, Leading Sites for 3D Type Artistry</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavis-onlinestroom-liefhebbers-zeerveilige-en-vrije-gratis-omzetting-van-wma-in-wav-formaat/"><u>Movavi's Onlinestroom Liefhebbers: Zeerveilige En Vrije Gratis Omzetting Van WMA in WAV-Formaat</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-effective-ways-to-add-text-behind-objects/"><u>New 2024 Approved 2 Effective Ways to Add Text Behind Objects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved How to Remove Background From a Video in Premier Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-creating-video-testimonials/"><u>Updated Creating Video Testimonials</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-the-best-frame-rate-for-4k-videos-in-2024/"><u>What Is the Best Frame Rate for 4K Videos, In 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-every-angle-in-a-single-shot-versus-depth-driven-photography/"><u>[New] Every Angle in a Single Shot versus Depth-Driven Photography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-find-your-favorites-ranking-of-8-preferred-mp3-extractors-android/"><u>[Updated] Find Your Favorites Ranking of 8 Preferred MP3 Extractors (Android)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-embrace-creativity-in-your-media-by-replacing-backgrounds-learn-to-replace-the-sky-in-lightroom-through-the-steps-and-details-discussed-in-thi/"><u>2024 Approved Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/here-we-are-going-to-show-you-the-best-effects-to-appear-on-camera-made-with-filmora-for-2024/"><u>Here We Are Going to Show You the Best Effects to Appear on Camera Made with Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/hyperlapse-vs-timelapse-videos-for-2024/"><u>Hyperlapse VS Timelapse Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-embarking-on-vlogging-critical-equipment-and-tools/"><u>In 2024, Embarking on Vlogging Critical Equipment and Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/insights-into-ftdibussys-windows-memory-safeguard-breach/"><u>Insights Into ftdibus.sys: Windows' Memory Safeguard Breach</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitech-g510-gamepad-driver-downloads-for-windows-versions-7810/"><u>Install Logitech G510 Gamepad: Driver Downloads for Windows Versions (7/8/10)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-youtube-intro-for-2024/"><u>New How To Create A YouTube Intro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-eye-zoom-transition-effect-with-filmora-for-2024/"><u>New How to Make Eye Zoom Transition Effect with Filmora for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-motorola-moto-g04-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Motorola Moto G04 has been deleted</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-asus-rt-ac88u-does-this-router-deliver-as-promised/"><u>The Ultimate Guide to Asus RT-AC88U – Does This Router Deliver as Promised?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-zoom-video-in-vlc-media-player/"><u>Updated 2024 Approved How to Zoom Video in VLC Media Player</u></a></li>
+<li><a href="https://video-capture.techidaily.com/windows-11-game-snapshots-top-5-capture-strategies/"><u>Windows 11 Game Snapshots Top 5 Capture Strategies</u></a></li>
 </ul></div>
 

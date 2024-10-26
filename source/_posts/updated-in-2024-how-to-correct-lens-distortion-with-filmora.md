@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Correct Lens Distortion With Filmora
-date: 2024-10-14T16:56:51.032Z
-updated: 2024-10-20T16:16:20.198Z
+date: 2024-10-18T19:21:04.610Z
+updated: 2024-10-26T08:15:48.799Z
 tags: 
   - ai
   - animation videos
@@ -55,6 +55,13 @@ You can see a bit of curvature, but it looks much more natural, and all of the l
 
 ![adjust the distortion](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-3.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Lastly, if you play the video back, you will see the video look much better than before.
 
 ![play the video back](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-4.gif)
@@ -94,6 +101,13 @@ You can see a bit of curvature, but it looks much more natural, and all of the l
 Step4 Lastly, if you play the video back, you will see the video look much better than before.
 
 ![play the video back](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-4.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to avoid distorted lens while shooting?
 
@@ -223,10 +237,10 @@ Step3 Go to Effects from the top panel and click on Filters from the left panel.
 ![click on filters](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4 Select any filter and drag and drop it on Timeline. You can stretch the duration of the filter as per your requirements.
@@ -252,13 +266,6 @@ In this article, we will be showing you how to use FFmpeg to speed up and slow d
 Finally, we will explain how to automate these commands so that you can run them on all your videos with ease.
 
 ![how to automate these commands](https://images.wondershare.com/filmora/article-images/2023/01/change-video-speed-ffmeg-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. What is FFmpeg?
 
@@ -291,6 +298,19 @@ Some of the drawbacks are that some settings are not configurable, like with You
 
 Another possible disadvantage is the time required for downloading the various resources since they may not be readily available on standard file hosting sites such as Mediafire or Dropbox (though they can be found through third-party websites). If you're looking for something more robust than Windows Movie Maker or iMovie, we recommend checking out FFmpeg.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to Speed Up a Video in FFmpeg?
 
 FFmpeg can be used to speed up videos. It's not the only option, but it's one of the most common ways to make your videos faster. If you want your video to be faster, then FFmpeg is the right tool for the job. Some speed-up features include: FFmpeg speed up video and audio, ffmpeg speed up video mp4, ffmpeg change video speed, and so on.
@@ -310,6 +330,13 @@ Step3 This is accomplished with the command -filter:v "setpts=."
 Step4 According to the documentation, fast motion requires: -filter:v setpts=0.5\*PTS.
 
 ![fast motion requires](https://images.wondershare.com/filmora/article-images/2023/01/change-video-speed-ffmeg-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 Click Enter.
 
@@ -364,13 +391,6 @@ The general speed of the film is continually increased or decreased when we choo
 
 ![rapid and regular slow](https://images.wondershare.com/filmora/article-images/2022/05/change-video-speed-4.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once we click "OK," the video's tempo adjusts automatically.
 
 ### Method 3: Adjusting the Fast/Slow motion to fit your movie using the Speed Ramping option
@@ -430,13 +450,6 @@ The general speed of the film is continually increased or decreased when we choo
 
 Once we click "OK," the video's tempo adjusts automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Adjusting the Fast/Slow motion to fit your movie using the Speed Ramping option
 
 To set up the speed ramping feature for your video, double-clicking the video will give us access to the "SPEED RAMPING" option in the speed panel. When we select the speed ramping option, we see a range of graphs. Each graph shows a number of tempo variations that we may use in our movie.
@@ -469,13 +482,6 @@ FFmpeg is a powerful tool that allows you to do just that, and in this guide, we
 
 ![concat videos with ffmpeg](https://images.wondershare.com/filmora/article-images/ffmpeg-concat-videos.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Overview and Installation of FFmpeg
 
 FFmpeg is free, open-source project that allows you to record, convert, and stream digital audio and video. It is a command-line tool widely used in video editing and transcoding. FFmpeg can be used to concatenate videos and other tasks, such as adding subtitles, changing video resolution, and more. It is available for Windows, Mac, and Linux, making it a versatile and accessible tool for anyone to use.
@@ -499,6 +505,13 @@ _$ ffmpeg -version_
 Before we merge videos using FFmpeg, we must understand the various methods available to us. FFmpeg offers three ways to concatenate videos: a demuxer, a filter, or a protocol. However, each method has its own set of considerations, and the best method for you will depend on the properties of the videos you're working with.
 
 It's crucial to ensure that all encoding-related properties align with your chosen method. This includes the timebase, height and width, codecs, and pixel format. Some methods require the videos you're merging to have the same encoding, while others allow for different encodings. It's essential to keep this in mind to ensure that the final video is seamless without any breaks. Remember that these prerequisites will help you have a smooth process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Concatenate Videos With Same Codecs Using FFmpeg
 
@@ -572,13 +585,6 @@ _\-filter\_complex "\[0:v\] \[0:a\] \[1:v\] \[1:a\] \[2:v\] \[2:a\]_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note: \[0:v\]\[0:a\]** means FFmpeg needs to take the video and audio from the 0th video (file1.mp4).
 
 Step3 Tell FFmpeg to concatenate three files (n=3).
@@ -691,13 +697,6 @@ _ffmpeg -i "concat:input1.mp4|input2.mp4" -c copy output\_protocol.mp4_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** If you try to use this method on video formats that are not supported, only the first input video will be saved in the output video. And the video ends after the first video.
 
 Although this method is limited in terms of supported video formats, it's very easy to use if you merge videos in the supported formats. It's a single command in the terminal without needing a text file. Additionally, using the -c copy option makes it efficient as it doesn’t require re-encoding, saving time.
@@ -717,6 +716,13 @@ Step2 **Use** the **filter\_complex** filtergraph parameter to instruct FFmpeg f
 _\-filter\_complex "\[0:v\] \[0:a\] \[1:v\] \[1:a\] \[2:v\] \[2:a\]_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note: \[0:v\]\[0:a\]** means FFmpeg needs to take the video and audio from the 0th video (file1.mp4).
 
@@ -747,13 +753,6 @@ Step2 **Use** the **filter\_complex** parameter in FFmpeg to specify the input s
 _\[0:0\] \[0:1\] \[0:2\] \[1:0\] \[1:1\] \[1:2\] \[2:0\] \[2:1\] \[2:2\]_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note: Single video stream** (\[0:0\], \[1:0\], \[2:0\])
 
@@ -793,6 +792,13 @@ Step3 **Drag** and **drop** the files you want to merge from the media library t
 
 ![filmora add media](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 **Edit** your video.
 
 ![filmora edit video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
@@ -821,18 +827,22 @@ FFmpeg is a powerful tool that allows you to concatenate videos in various ways.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-picsarts-latest-features-a-complete-guide-and-review-of-its-revamp/"><u>[Updated] Exploring PicsArt's Latest Features – A Complete Guide & Review of Its Revamp</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-steps-to-create-makeup-videos/"><u>2024 Approved Steps to Create Makeup Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effektiv-udforlig-guide-til-handtering-din-vokaler-se-optimale-resultater/"><u>Effektiv Udførlig Guide Til Håndtering Din Vokaler - Se Optimale Resultater</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-blast-from-the-past-top-1980s-vhs-techniques-to-infect-your-edits-with-flair/"><u>In 2024, Blast From the Past Top 1980S VHS Techniques to Infect Your Edits with Flair</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-g2-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo G2 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-laptop-friendly-tips-to-start-live-chats-with-whatsapp-desktop/"><u>In 2024, Laptop-Friendly Tips to Start Live Chats with WhatsApp Desktop</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-4-solutions-to-add-white-border-to-video-on-mobile-and-desktop/"><u>New 2024 Approved 4 Solutions to Add White Border to Video on Mobile and Desktop</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-customized-transitions-to-obs/"><u>New 2024 Approved How to Add Customized Transitions to OBS</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>Updated 2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-/"><u>Updated A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-filmora-hacks-streamline-your-reaction-video-creation-process-for-2024/"><u>Updated Filmora Hacks Streamline Your Reaction Video Creation Process for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-movie-magic-for-minis-teach-your-child-to-create-their-own-films/"><u>Updated In 2024, Movie Magic for Minis Teach Your Child to Create Their Own Films</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories/"><u>[Updated] 2024 Approved From Selfie to Sensation Vloggers' Choice of Top 9 Camera Accessories</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-speedy-instagram-video-views-desktop-methods/"><u>[Updated] In 2024, Speedy Instagram Video Views Desktop Methods</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-12-pro-max-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 12 Pro Max online without jailbreak</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/identifying-individuals-who-preserved-your-insta-posts-a-comprehensive-guide/"><u>Identifying Individuals Who Preserved Your Insta Posts: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-enable-the-motion-blur-effect-while-playing-dying-light-2-read-this-article-to-find-out-how-to-use-dying-light-2-motion-blur-for-a-gr/"><u>In 2024, Do You Want to Enable the Motion Blur Effect While Playing Dying Light 2? Read This Article to Find Out How to Use Dying Light 2 Motion Blur for a Great Gaming Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-redmi-note-12-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi Redmi Note 12 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-gopro-camera-showdown/"><u>In 2024, The Ultimate GoPro Camera Showdown</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-samsung-galaxy-m54-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Samsung Galaxy M54 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-steam-deck-experience-our-list-of-top-9-emulators/"><u>Maximize Your Steam Deck Experience: Our List of Top 9 Emulators</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-id/"><u>New 2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-export-video-in-filmora/"><u>New In 2024, How To Export Video in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-remedy-fixing-file-not-found-issues-in-windows-1110/"><u>Quick Remedy: Fixing 'File Not Found' Issues in Windows 11/10</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-to-add-subtitles-to-your-videos-efficiently-this-article-will-introduce-an-online-subtitle-editor-that-will-help-you-to-create-subtitles/"><u>Updated Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-introduction-to-luts-their-overview-and-benefits/"><u>Updated Introduction to LUTs Their Overview and Benefits</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-shoot-video-with-virtual-green-screen/"><u>Updated Shoot Video with Virtual Green Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-text-animation-intro-tutorial-in-filmora/"><u>Updated Text Animation Intro Tutorial in Filmora</u></a></li>
 </ul></div>
 

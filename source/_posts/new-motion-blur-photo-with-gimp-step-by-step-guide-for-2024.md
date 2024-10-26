@@ -1,7 +1,7 @@
 ---
 title: New Motion Blur Photo With GIMP Step-By-Step Guide for 2024
-date: 2024-10-17T16:19:28.500Z
-updated: 2024-10-20T16:52:11.541Z
+date: 2024-10-24T09:50:47.516Z
+updated: 2024-10-26T09:39:34.650Z
 tags: 
   - ai
   - animation videos
@@ -50,11 +50,25 @@ Step2 In the next step, click **“File”** on the GIMP dashboard, and select *
 
 ![importing photo to gimp to add motion blur effect](https://images.wondershare.com/filmora/article-images/2023/02/importing-photo-to-gimp-to-add-motion-blur-effect.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Next, click the **“Filters”** option from the top toolbar, select **“Blur,”** and choose **“Motion Blur”** from the drop-down menu. A dialogue box will now open where you can preview the effect and adjust the settings, including Blur Type, Blur Center, and Blur Parameters.
 
 ![adding motion blur effect to photo using gimp](https://images.wondershare.com/filmora/article-images/2023/02/adding-motion-blur-effect-to-photo-using-gimp.png)
 
 Step4 Once you are satisfied with your changes, click **“OK”** to apply the effect to the image, and make some other edits if needed. Finally, click **“File”** from the top toolbar, choose **“Export As,”** click **“File Type”** to select the format, and select the **“Export”** option to save your file.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tips – The Alternative To GIMP To Create Motion Blur Effect
 
@@ -91,13 +105,6 @@ Step4 Click the effect in the timeline to open its settings. Now, play your clip
 Step5 Once satisfied with the outcome, click the "Export" option, go to the **"Local"** tab, select a file format to save the images, and click **"Export"** again to save your project.
 
 ![exporting file from filmora](https://images.wondershare.com/filmora/article-images/2023/02/exporting-file-from-filmora.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Filmora offers many export options, such as your device, YouTube, Vimeo, and DVD, with just a few clicks.
 
@@ -136,6 +143,13 @@ Step4 Click the effect in the timeline to open its settings. Now, play your clip
 Step5 Once satisfied with the outcome, click the "Export" option, go to the **"Local"** tab, select a file format to save the images, and click **"Export"** again to save your project.
 
 ![exporting file from filmora](https://images.wondershare.com/filmora/article-images/2023/02/exporting-file-from-filmora.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Filmora offers many export options, such as your device, YouTube, Vimeo, and DVD, with just a few clicks.
 
@@ -208,19 +222,6 @@ Step6 Afterwards, open the "White Balance"menu and adjust the temperature. Indee
 
 ![open the white balance menu](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-10.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Make the tattoo disappear
 
 Step1 Move the play head to where you want the tattoo fades, and adjust the length of the tattoo picture there.
@@ -230,13 +231,6 @@ Step1 Move the play head to where you want the tattoo fades, and adjust the leng
 Step2 Next, find the "Evaporate 1" from the "Transitions" window. Drag and drop it to the end of the tattoo clip.
 
 ![find the evaporate 1](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-12.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Adjust the length if needed. Finally, Let's playback and see how it looks!
 
@@ -318,29 +312,22 @@ Step 3: From Media Bin, drag and drop the media files to the timeline. Keep the 
 
 ![camtasia media bin to timeline](https://images.wondershare.com/filmora/article-images/camtasia-media-bin-to-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Go to Annotation to add shapes, texts, arrows, and callouts. Go to Transitions and drag and drop transitions of your choice in between video clips on the timeline as you think perfect.
 
 ![camtasia transitions](https://images.wondershare.com/filmora/article-images/camtasia-transitions.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Go to Audio Effects to enhance the audio of the video. Moreover, you can check and apply animations, behaviors(text effects), cursor effects, visual effects as well as interactivity as you think relevant.
 
 Step 6: On the canvas, check out how your edited video looks like. Once you are satisfied, click on Export button to save the video on your hard drive.
 
 ![camtasia save the video](https://images.wondershare.com/filmora/article-images/camtasia-save-the-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Camtasia Alternative to Edit Videos
 
@@ -506,13 +493,6 @@ Step 6: Play the video once everything is done, and click on Export button to sa
 
 ![filmora export your video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5\. FAQs about Camtasia
 
 1\. Can I use Camtasia for free?
@@ -595,6 +575,13 @@ Move the timeline cursor to the right side and add another keyframe there. Now, 
 
 ![adjust speed using keyframe](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Quick Alternative: Wondershare Filmora and Slow-Motion Clips
 
 You might have gotten the answer to “**how to make slow-motion video in Premiere Pro**” until now. But another question comes into mind: “[How to make slow-mo videos easily](https://tools.techidaily.com/wondershare/filmora/download/)?” Using Adobe Premiere Pro can be tricky for starters, so they look for alternative tools. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a great option if you struggle with using Adobe Premier Pro.
@@ -663,6 +650,20 @@ Regular videos do not always generate the same level of response from viewers. S
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: What Are Some Potential Real-Life Use Cases of Having Slow Motion Videos?
 
 Slow-motion movies can be utilized to record and examine events in greater depth. Before delving into **how to make a slow-motion video in Premiere Pro**, learn its use cases. Thus, below are a few applications of the slow motion in real life:
@@ -705,24 +706,18 @@ Move the timeline cursor to the right side and add another keyframe there. Now, 
 
 ![adjust speed using keyframe](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Quick Alternative: Wondershare Filmora and Slow-Motion Clips
 
 You might have gotten the answer to “**how to make slow-motion video in Premiere Pro**” until now. But another question comes into mind: “[How to make slow-mo videos easily](https://tools.techidaily.com/wondershare/filmora/download/)?” Using Adobe Premiere Pro can be tricky for starters, so they look for alternative tools. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a great option if you struggle with using Adobe Premier Pro.
 
 The tool is easy to use and can process heavy videos, keeping its quality intact. With its AI features, the edits that used to take hours can now be done within minutes. The tool has amazing options for all kinds of media editing.
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step-by-Step Guide to Perform Slow Motion in Filmora Using Different Methods
 
@@ -741,13 +736,6 @@ Using this method, you can slow down your video smartly with the help of AI. Som
 Install Filmora 13 on your device and open it to access “New Project” from the main interface. When you enter the editing window, import your file into the media panel.
 
 ![create new project in filmora](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 2Adjust the Speed and Other Use Advanced Options
 
@@ -807,20 +795,21 @@ Regular videos do not always generate the same level of response from viewers. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-fast-tip-mastering-green-screen-techniques/"><u>[New] Fast Tip Mastering Green Screen Techniques</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-examination-of-fb-video-dimensions/"><u>[New] In 2024, Examination of FB Video Dimensions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-leveraging-hashtags-to-skyrocket-your-engagement/"><u>[New] In 2024, Leveraging Hashtags to Skyrocket Your Engagement</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-streamline-your-steam-playback-for-flawless-replays/"><u>[New] In 2024, Streamline Your Steam Playback for Flawless Replays</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-outro-crafting-for-beginners-top-6-free-resources/"><u>[Updated] 2024 Approved Outro Crafting for Beginners Top 6 Free Resources</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-enriching-meta-descriptions-a-template-transformation-journey/"><u>2024 Approved Enriching Meta Descriptions A Template Transformation Journey</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-glitch-effect-with-filmora/"><u>2024 Approved How to Make Glitch Effect with Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/decoding-the-history-of-ai-how-old-is-this-revolutionary-tech/"><u>Decoding the History of AI: How Old Is This Revolutionary Tech?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/live-stream-tech-showdown-soft-vs-hardscape-winners/"><u>Live Stream Tech Showdown Soft vs Hardscape Winners</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/local-vs-global-is-a-local-large-language-model-right-for-your-needs/"><u>Local vs Global: Is a Local Large Language Model Right for Your Needs?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-add-text-animation-to-a-video-online/"><u>New 2024 Approved Add Text Animation to A Video Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-filter-to-video-online/"><u>New 2024 Approved How to Add Filter to Video Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-the-night-to-day-effect-video/"><u>New In 2024, How to Create the Night-to-Day Effect Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolved-troubleshooting-guide-overcoming-world-of-warcraft-wont-start-on-pc/"><u>Resolved: Troubleshooting Guide - Overcoming 'World of Warcraft Won't Start' On PC</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/icks-11-affordable-innovative-yt-moniker-generators/"><u>Top Picks 11 Affordable, Innovative YT Moniker Generators</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-anti-fog-gear-for-clear-shot-capture-in-cold-weather-for-2024/"><u>[New] Anti-Fog Gear for Clear Shot Capture in Cold Weather for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-crafting-perfect-playlists-import-music-with-inshot/"><u>[New] Crafting Perfect Playlists Import Music with InShot</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-visual-impact-mastering-thumbnail-dimensions-for-2024/"><u>[New] YouTube Visual Impact Mastering Thumbnail Dimensions for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-must-have-tiktok-instruments-boosting-fame-in-the-shortest-time/"><u>2024 Approved Must-Have TikTok Instruments Boosting Fame in the Shortest Time</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/a-guide-to-adding-audio-in-wondershare-filmora/"><u>A Guide to Adding Audio in Wondershare Filmora</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-hdr-horizon-highlights-selective-online-skies-compilation/"><u>In 2024, HDR Horizon Highlights Selective Online Skies Compilation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-15-windows-10-recording-applications-reviewed/"><u>In 2024, Top 15 Windows 10 Recording Applications Reviewed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-7-tips-to-create-teaching-videos/"><u>New 2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-download-and-use-windows-movie-maker-10/"><u>New How to Download and Use Windows Movie Maker 10</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-working-out-all-important-details-of-slowing-down-video-in-after-effects/"><u>New Working Out All Important Details of Slowing Down Video in After Effects</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-ottimizzatori-di-contenuti-multimediale-con-intelligenza-artificiale-gratis-per-pc-e-mac/"><u>Top 10 Ottimizzatori Di Contenuti Multimediale Con Intelligenza Artificiale Gratis per PC E Mac</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-phantom-v-flip-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Phantom V Flip FRP Bypass</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-before-and-after-editing-trick-filmora/"><u>Updated In 2024, Before & After Editing Trick - Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-blur-background-in-adobe-premiere-pro-detailed-guide/"><u>Updated In 2024, How To Blur Background in Adobe Premiere Pro Detailed Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-renderforest-is-a-great-online-editing-platform-to-use-for-many-video-creators-if-you-want-to-make-an-intro-video-for-your-channel-or-daily-vlogs-yo/"><u>Updated Renderforest Is a Great Online Editing Platform to Use for Many Video Creators. If You Want to Make an Intro Video for Your Channel or Daily Vlogs, You Can Follow This Article to Know More Details</u></a></li>
 </ul></div>
 

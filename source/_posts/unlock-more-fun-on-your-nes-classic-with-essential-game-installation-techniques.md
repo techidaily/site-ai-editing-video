@@ -1,7 +1,7 @@
 ---
 title: Unlock More Fun on Your NES Classic with Essential Game Installation Techniques
-date: 2024-10-16T16:54:30.711Z
-updated: 2024-10-20T16:07:57.802Z
+date: 2024-10-19T11:48:46.893Z
+updated: 2024-10-26T11:49:28.853Z
 categories:
   - BestProducts
 description: This Article Describes Unlock More Fun on Your NES Classic with Essential Game Installation Techniques
@@ -34,10 +34,10 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
 4. Select**NES (USA/Europe)** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Choose NES (USA/Europe)](https://www.lifewire.com/thmb/K0_MIzgjkgi5Do_SG9rO9OU-b-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-add-more-games-to-the-nes-classic-2077915796d24b319622974016b4c322.jpg)
@@ -48,18 +48,26 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
 
 ![Add cover art by clicking the titles under Custom Games](https://www.lifewire.com/thmb/neOlwOfUiIZx5S1tEn80GL82VMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-add-more-games-to-the-nes-classic-c2bdeef7eff64d139156d138e2c6e7a7.jpg)
 7. On the Hakchi2 toolbar, select**Kernel** \>**Install/Repair,** then select**Yes** when asked if you want to flash the custom kernel.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Select Kernel > Install/Repair, then click Yes](https://www.lifewire.com/thmb/N_5Vp8fvKlu15K8g8IneRPpgamA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-add-more-games-to-the-nes-classic-cf58f3c816484e8e899c26bd4f7adf5e.jpg)
 8. Follow the instructions that appear. You might be required to install some drivers if they didn't automatically install when you connected the console.  
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Flash the custom kernel](https://www.lifewire.com/thmb/obxjQ5w6R-YGlPa1SqmQbuWoxcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot153-5c5a42ee46e0fb000152fca2.png)
 9. When the process is complete, select**Synchronize selected games with NES/SNES Mini** and confirm you flashed the custom kernel.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Select Synchronize selected games with NES/SNES Mini](https://www.lifewire.com/thmb/OQNrcOP_nKxq5Z51RZCf26tzUJ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-add-more-games-to-the-nes-classic-601953ec9f1947eca4af89041d99caba.jpg)
 10. After your ROMs finish uploading, turn off the console and disconnect it from your PC.
@@ -72,22 +80,15 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
 
 ![Nintendo Entertainment System Classic Controller](https://www.lifewire.com/thmb/FtuZUihm95iCMHAm4i5_PRSocb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Entertainment-System-NES-Controller-FR-5c5a494bc9e77c0001d00e2b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  <https://commons.wikimedia.org/wiki/File:Nintendo-Entertainment-System-NES-Controller-FR.jpg>
 
  You can follow these same instructions to add games to an SNES Classic using the Hakchi2 software.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Get ROMS for the NES Classic
@@ -127,22 +128,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/astering-youtube-seo-boost-your-video-popularity-for-2024/"><u>[New] Mastering YouTube SEO Boost Your Video Popularity for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-affordable-mic-picks-for-aspiring-yt-bands/"><u>[Updated] 2024 Approved Affordable Mic Picks for Aspiring YT Bands</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-and-easy-guide-to-exquisite-collage-artistry/"><u>2024 Approved Quick & Easy Guide to Exquisite Collage Artistry</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-to-mimic-professional-filming-gears-for-2024/"><u>How to to Mimic Professional Filming Gears for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-htc-u23-phone-by-drfone-android/"><u>How to Unlock a Network Locked HTC U23 Phone?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-routes-to-collecting-visual-content/"><u>In 2024, Best Routes to Collecting Visual Content</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-know-how-to-create-a-lol-montage-video-had-you-ever-tried-that-video-type-before-connect-with-this-article-to-study-the-tips-and-tricks-assoc/"><u>In 2024, Do You Know How to Create a Lol Montage Video? Had You Ever Tried that Video Type Before? Connect with This Article to Study the Tips and Tricks Associated with the Making of Montage Videos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Poco C50? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-integrating-azures-speech-recognition-into-development/"><u>In 2024, Integrating Azure’s Speech Recognition Into Development</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-by-ste/"><u>In 2024, Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-adding-audio-in-wondershare-filmora/"><u>New 2024 Approved Guide Adding Audio in Wondershare Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-working-through-the-details-of-imovie-slow-motion-video-making-100-effective/"><u>New 2024 Approved Working Through the Details of iMovie Slow Motion Video Making 100 Effective</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-a-movie-with-windows-movie-maker/"><u>New Create a Movie with Windows Movie Maker</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-the-popular-video-text-effects-to-your-video-in-2024/"><u>New How to Add the Popular Video Text Effects to Your Video, In 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/pioneering-sky-hdr-images-at-your-fingertips/"><u>Pioneering Sky HDR Images at Your Fingertips</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-gui/"><u>Updated How To Quickly Create A Screen Print Effect In Photoshop Detailed Gui</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zatisteni-dvdu-s-prvnimi-programy-bezplatne-pro-windows-top-6-recomendacnich-verzech/"><u>Zátištění DVDů S Prvními Programy Bezplatné Pro Windows: Top 6 Recomendačních Verzech</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/udiovisual-quality-its-significance-in-video-ranking-for-2024/"><u>[New] Audiovisual Quality Its Significance in Video Ranking for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-evaluating-the-effectiveness-of-shake-reduction-in-adobe-photos/"><u>[New] Evaluating the Effectiveness of 'Shake' Reduction in Adobe Photos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-incors-guide-to-enriched-video-engagement-through-commentary-and-alert-embeddings/"><u>[New] In 2024, Incor's Guide to Enriched Video Engagement Through Commentary and Alert Embeddings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-filter-techniques-for-a-stunning-feed/"><u>[New] Instagram Filter Techniques for a Stunning Feed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-comprehensive-review-camera-lenses-for-youtube/"><u>[Updated] A Comprehensive Review Camera Lenses for YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/a-guide-to-adding-audio-in-wondershare-filmora/"><u>A Guide to Adding Audio in Wondershare Filmora</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-s23plus-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel S23+ Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-top-10-sony-lut-for-different-purposes/"><u>New 2024 Approved Top 10 Sony LUT for Different Purposes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/shotcut-review-is-it-the-best-free-video-editor-for-2024/"><u>Shotcut Review – Is It The Best Free Video Editor for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-before-and-after-editing-trick-filmora/"><u>Updated In 2024, Before & After Editing Trick - Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>Updated In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-renderforest-is-a-great-online-editing-platform-to-use-for-many-video-creators-if-you-want-to-make-an-intro-video-for-your-channel-or-daily-vlogs-yo/"><u>Updated Renderforest Is a Great Online Editing Platform to Use for Many Video Creators. If You Want to Make an Intro Video for Your Channel or Daily Vlogs, You Can Follow This Article to Know More Details</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Steps To Fade Audio In Premier Pro
-date: 2024-10-13T16:18:19.137Z
-updated: 2024-10-20T17:09:39.279Z
+date: 2024-10-20T00:27:49.743Z
+updated: 2024-10-25T20:44:01.418Z
 tags: 
   - ai
   - animation videos
@@ -37,6 +37,13 @@ Step3You can then just change the duration of the effect by simply dragging the 
 
 ![add transitions premiere](https://images.wondershare.com/filmora/article-images/2022/08/add-transitions-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fade Audio using Clip Keyframes
 
 Step1Adobe Premier Pro has two volume keyframes; Track and Clip. Make the audio larger so you can see the volume line and then under the audio name, click on the volume keyframes option to make sure “Clip Keyframes” is enabled.
@@ -62,6 +69,13 @@ Step2Once the video has been added to the timeline, double-click on it to access
 Step3Here, you can very simply add the fade-in and fade-out effects by simply dragging the sliders to the desired duration or by manually entering the duration in seconds.
 
 ![add fade in or out effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Using the Audio Waveform**
 
@@ -173,13 +187,6 @@ ApowerRec Setting
 
 ![Record Fortnite video clip with ApowerRec - Enable option](https://images.wondershare.com/filmora/article-images/2022/05/fortnite-montage-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Enable option to record
 
 1. If you'll be using a microphone, click on the speaker symbol and enable audio boost and noise cancellation.
@@ -237,13 +244,6 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Premiere Pro CC
 
 Designed for the most demanding users, Premiere Pro CC is a comprehensive video editing program developed by Adobe Inc. The software includes audio editing functionality.
@@ -342,13 +342,6 @@ Under the Effects tab, go to Filters to add filters to your montage video. The p
 
 ![Edit Fortnite Video with Filmora - Add Effects](https://images.wondershare.com/filmora/article-images/2022/05/fortnite-montage-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Add Filters
 
 Closing Thoughts:
@@ -387,13 +380,6 @@ It is a viral film by Christopher Nolan, which was a great success. He explained
 
 ![tenet 2020](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. How To Shoot Video Reverse Effect?
 
 The reverse effect is unique, so special attention should be paid while filming a video. This section will cover some of the crucial prerequisites to film a video.
@@ -403,6 +389,13 @@ The reverse effect is unique, so special attention should be paid while filming 
 It would be best to have your camera placed on a steady surface or mounted on a tripod stand to lock the focus. We will split the area and perform different tasks to make it look smooth. The audience will not get the idea that you completed the tasks separately. And it helps in the editing process as well.
 
 ![keep your camera steady](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### A Spacious Area
 
@@ -415,13 +408,6 @@ Now you have to split your area into portions. Each task is in its part of the f
 ![making three portions of the area](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-4.png)
 
 After covering the prerequisites, we will now learn the editing process of creating a video reverse effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. How To Edit Video Reverse Effect In Filmora? \[Stepwise Guide\]
 
@@ -439,13 +425,6 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 * After opening the software, import the recording files by clicking "Import Media."
 
 ![download the filmora](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step2 Drag the Shots to the Timeline
 
@@ -470,6 +449,19 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 * For that purpose, double-click on the video. Next, click on "Effects" in the top right corner of the screen. Then select "Image Mask" and make the necessary adjustments so that each mask shows each footage.
 
 ![editing of image mask effect](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-8.png)
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step5 Trimming the Video Clip
 
@@ -498,13 +490,6 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 * Please select "Export" in the top right corner of the screen. And ship it to the device.
 
 ![export the video](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step8 Final Video
 
@@ -546,6 +531,13 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 
 ![add image mask effect to the clips](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Adjustment of the Image Mask of each Footage
 
 * Now we will adjust the image mask of each footage so that each will show the task without any glitches.
@@ -586,6 +578,13 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 Now have a look at the final project. How smooth and perfect it looks. That's it!
 
 ![final video example](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-12.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -617,6 +616,13 @@ Every TikTok creator, from amateur to influencer, will tell you that a caption i
 ## Part 2: Creative Stimulation: A Comprehensive Inventory of Popular Titles on TikTok in 2024
 
 Captions aren't just about information but about flair, wit, and personality. As TikTok evolves, so do the trends in captions. Let's dive into some categories that are making waves this year:
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### TikTok Captions for Couples
 
@@ -821,6 +827,13 @@ Captions aren't just about information but about flair, wit, and personality. As
 19. "Embrace the coolness, TikTok is our canvas 🎨"
 20. "Coolness is an attitude, and my attitude is TikTok-fueled 😎"
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Funny TikTok Captions
 
 1. "My dance moves: better than my cooking skills. Sorry, not sorry. 💃🍳"
@@ -867,13 +880,6 @@ Filmora's AI requires a bit of information to generate a caption that resonates 
 
 After inputting the required details, Filmora's AI will churn out multiple caption suggestions. Choose the one that best fits or use them as inspiration to craft your unique spin.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Summary
 
 TikTok has transformed the world of short video content, and behind each viral video is a captivating caption that perfectly captures the moment's essence. While understanding the importance of catchy titles is crucial, having the tools and insights to generate them consistently can set you apart from the crowd.
@@ -896,19 +902,19 @@ Whether you're brainstorming creatively or seeking assistance from innovative to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-instagram-featured-posts-with-video/"><u>[New] Instagram Featured Posts with Video</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unleash-creativity-on-screen-discover-the-best-reactions/"><u>[New] Unleash Creativity on Screen Discover the Best Reactions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-broadcast-battle-royale-deciding-between-vmix-and-wirecast/"><u>[Updated] Broadcast Battle Royale Deciding Between VMix and Wirecast</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-webcam-setup-simplified-for-hp-and-chrome-users/"><u>[Updated] Webcam Setup Simplified for HP & Chrome Users</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-motion-blur-photo-with-gimp-step-by-step-guide/"><u>2024 Approved Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-steps-to-create-makeup-videos/"><u>2024 Approved Steps to Create Makeup Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-add-green-screen-eff/"><u>Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
-<li><a href="https://techtrends.techidaily.com/frei-handhabung-von-dvd-regionscodes-bei-der-konvertierung-fur-verschiedene-gebiete-auf-windows-7810/"><u>Frei Handhabung Von DVD-Regionscodes Bei Der Konvertierung Für Verschiedene Gebiete Auf Windows 7/8/10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-complete-mastery-over-picsart-the-ultimate-users-guide/"><u>In 2024, Complete Mastery over PicsArt The Ultimate User's Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-transitions-in-adobe-premiere-pro/"><u>New How to Add Transitions in Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-in-canva-editor/"><u>New How to Loop a Video in Canva Editor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262295089-reaching-new-heights-pushing-an-amd-ryzen-7-9700x-up-to-a-stunning-58ghz-with-advanced-aio-liquid-cooling-plus-a-surprising-peak-at-6ghz-idle/"><u>Reaching New Heights: Pushing an AMD Ryzen #7 9700X Up to a Stunning 5.8GHz with Advanced AIO Liquid Cooling, Plus a Surprising Peak at 6GHz Idle</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/this-article-aims-to-show-you-how-to-improve-your-lighting-in-the-sun/"><u>This Article Aims to Show You How to Improve Your Lighting in the Sun</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-comparing-top-titles-magix-video-pro-x-among-others/"><u>[Updated] 2024 Approved Comparing Top Titles Magix Video Pro X Among Others</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-huawei-nova-y91-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Huawei Nova Y91</u></a></li>
+<li><a href="https://discover-data.techidaily.com/guida-passo-passo-al-creazione-di-unusb-repair-drive-per-windows-11/"><u>Guida Passo-Passo Al Creazione Di Un'USB Repair Drive per Windows 11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-set-up-twitch-green-screen/"><u>How to Set Up Twitch Green Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-kdenlive-is-a-free-open-source-video-editing-software-application-kdenlive-is-a-powerful-video-editor-that-can-be-used-to-create-professional-qualit/"><u>In 2024, Kdenlive Is a Free, Open-Source Video Editing Software Application. Kdenlive Is a Powerful Video Editor that Can Be Used to Create Professional-Quality Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/macbook-showdown-pros-and-cons-of-macbook-air-and-macbook-pro-to-find-the-perfect-fit-for-you-zdnet/"><u>MacBook Showdown: Pros and Cons of MacBook Air & MacBook Pro to Find the Perfect Fit for You | ZDNET</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-your-own-lol-montage-video-for-2024/"><u>New How to Create Your Own LOL Montage Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-3-best-effects-to-appear-on-camera-made-with-filmora/"><u>New In 2024, 3 Best Effects to Appear on Camera Made with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-content-creati/"><u>New Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/step-by-step-guide-separating-sound-from-video-using-vlc/"><u>Step-by-Step Guide: Separating Sound From Video Using VLC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-new-frontier-of-ai-chatgpt-for-your-android-device/"><u>The New Frontier of AI: ChatGPT for Your Android Device</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-thermaltake-massive-tm-laptop-cooling-pad-insight-a-wealth-of-pros-with-a-pricey-tag/"><u>The Thermaltake Massive TM Laptop Cooling Pad Insight: A Wealth of Pros with a Pricey Tag</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-6-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 6</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-3-best-motion-blur-plugins-for-adobe-after-effects/"><u>Updated 2024 Approved 3 Best Motion Blur Plugins for Adobe After Effects</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide"
-date: 2024-10-13T17:13:44.205Z
-updated: 2024-10-20T16:12:09.037Z
+date: 2024-10-19T02:04:38.524Z
+updated: 2024-10-25T16:40:09.497Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -60,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -89,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -115,15 +108,22 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -141,22 +141,41 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -173,13 +192,6 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -203,19 +215,18 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-visual-identity-mastery-crafting-business-symbols-with-tailored-templates-for-2024/"><u>[New] Visual Identity Mastery Crafting Business Symbols with Tailored Templates for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-high-end-audio-gear-the-top-9-mic-recorders-online-in-23/"><u>2024 Approved High-End Audio Gear The Top 9 Mic Recorders Online in '23</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-dimming-down-soundtracks-in-premiere-pro/"><u>2024 Approved The Ultimate Guide to Dimming Down Soundtracks in Premiere Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-itel-a60-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Itel A60 to Roku | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/a-guide-to-adding-audio-in-wondershare-filmora/"><u>A Guide to Adding Audio in Wondershare Filmora</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/easy-steps-to-update-specific-pages-in-your-website-using-flipbuilder-no-need-for-a-full-rebuild/"><u>Easy Steps to Update Specific Pages in Your Website Using FlipBuilder - No Need for a Full Rebuild</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-top-10-sony-lut-for-different-purposes/"><u>New 2024 Approved Top 10 Sony LUT for Different Purposes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-avi-images-from-video-to-graphics-using-filmora-for-2024/"><u>Transform Your AVI Images From Video To Graphics Using Filmora for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-105-classic-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia 105 Classic without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-the-power-of-ai-achieve-professional-results-using-free-gpt-4-turbo-and-copilot-techniques/"><u>Unleash the Power of AI: Achieve Professional Results Using Free GPT-4 Turbo and Copilot Techniques</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-before-and-after-editing-trick-filmora/"><u>Updated In 2024, Before & After Editing Trick - Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>Updated In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-renderforest-is-a-great-online-editing-platform-to-use-for-many-video-creators-if-you-want-to-make-an-intro-video-for-your-channel-or-daily-vlogs-yo/"><u>Updated Renderforest Is a Great Online Editing Platform to Use for Many Video Creators. If You Want to Make an Intro Video for Your Channel or Daily Vlogs, You Can Follow This Article to Know More Details</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win-10-update-issues-clear-the-corrupted-store-cache-solved/"><u>Win 10 Update Issues? Clear the Corrupted Store Cache - Solved!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-6-methods-for-capturing-your-netflix-viewing-experience-on-mac-for-2024/"><u>[New] Top 6 Methods for Capturing Your Netflix Viewing Experience on Mac for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-understanding-and-adhering-to-twitters-video-standards/"><u>[Updated] In 2024, Understanding and Adhering to Twitter's Video Standards</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-step-by-step-guide-to-adding-subtitles-in-wmp-for-2024/"><u>[Updated] Step-by-Step Guide to Adding Subtitles in WMP for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elite-screen-capturing-top-5-mac-alternatives-excluding-bandicam-for-2024/"><u>Elite Screen Capturing Top 5 Mac Alternatives Excluding Bandicam for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-can-i-control-speed-of-a-video/"><u>How Can I Control Speed of a Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-wish-to-learn-about-some-tools-to-slow-down-a-video-discover-how-to-slow-down-time-lapse-on-iphone-throughout-this-article/"><u>In 2024, Do You Wish to Learn About some Tools to Slow Down a Video? Discover How to Slow Down Time Lapse on iPhone Throughout This Article</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-guide-to-overlay-videos-in-premiere-pro/"><u>In 2024, Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-highest-quality-action-capturing-methods/"><u>In 2024, Highest Quality Action Capturing Methods</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-vacation-slideshow-in-5-minutes/"><u>In 2024, How to Create a Vacation Slideshow in 5 Minutes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unlocking-quantum-hdr-your-comprehensive-guide/"><u>In 2024, Unlocking Quantum HDR Your Comprehensive Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-want-to-loop-a-video-to-extend-its-duration-you-can-use-imovie-to-loop-a-video-on-your-mac-and-iphone-and-we-will-illustrate-how-to-loop-a-video-in-/"><u>In 2024, Want to Loop a Video to Extend Its Duration? You Can Use iMovie to Loop a Video on Your Mac and iPhone and We Will Illustrate How to Loop a Video in iMovie</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-ideal-aspect-ratio-for-video-content/"><u>Unveiling the Ideal Aspect Ratio for Video Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wise-crypto-dialogues-for-gpt-enthusiasts/"><u>Wise Crypto Dialogues for GPT Enthusiasts</u></a></li>
 </ul></div>
 

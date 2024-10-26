@@ -1,7 +1,7 @@
 ---
 title: New Are You in Search for a Step-by-Step Guide to How to Add Effects in TikTok? Here It Is. To Add some Flavor to Your TikTok Videos. Use These How to Add Effect to TikTok Recommendations
-date: 2024-10-18T17:00:03.549Z
-updated: 2024-10-20T16:09:30.376Z
+date: 2024-10-25T08:18:26.366Z
+updated: 2024-10-26T03:38:43.375Z
 tags: 
   - ai
   - animation videos
@@ -80,19 +80,6 @@ Step3 You have access to a wide variety of effects once you enter the effects ga
 Step4 Click the review button to examine your video with the effect applied before publishing it. This will lead you to a preview screen. Before you actually publish it, you may also add music and other components.
 
 ![publish and post video tiktok](https://images.wondershare.com/filmora/article-images/2022/07/publish-and-post-video-tiktok.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Add Filter on Video in TikTok
 
@@ -215,6 +202,13 @@ Step3 There are different categories of transition effects and drag and drop you
 
 ![drag and drop desired transition](https://images.wondershare.com/filmora/guide/find-transition.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Place the transitions in between video clips and drag the transition as per the duration requirements. Play the video and once you are satisfied, click on Export button to save the video.
 
 ![click on export button](https://images.wondershare.com/filmora/guide/add-transitions-2.png)
@@ -232,6 +226,19 @@ The transitions are present under Effects tab located at the topmost bar. There 
 ### How to add transitions to photos in Premiere Pro?
 
 Adding transitions to photos in Premiere Pro is the same as videos. Therefore, you should import photos to Project panel and drag and drop them to Timeline. Go to Effects> Video Transitions and drop the selected transitions in between the photos.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -261,6 +268,13 @@ Step4 Place the transitions in between video clips and drag the transition as pe
 
 Import all the video clips to Timeline in Premiere. Go to Effects> Video Transitions and drag and drop the video transitions of your choice to Timeline. You should place the transitions in between the video clips and adjust their duration as per your requirements for smoother transition for jump cuts.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Where are the transitions in Premiere Pro?
 
 The transitions are present under Effects tab located at the topmost bar. There are different types of video transitions as well as audio transitions available. If you are looking for how to add text transitions in Premiere Pro, you can type the text and add effects from Graphics tab.
@@ -268,6 +282,13 @@ The transitions are present under Effects tab located at the topmost bar. There 
 ### How to add transitions to photos in Premiere Pro?
 
 Adding transitions to photos in Premiere Pro is the same as videos. Therefore, you should import photos to Project panel and drag and drop them to Timeline. Go to Effects> Video Transitions and drop the selected transitions in between the photos.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -377,13 +398,6 @@ We would first focus on the transform panel. Here you would have many options, b
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** make sure to rotate the smoke screen effect by simply sliding the slider or dragging the slider right or left to your desire.
 
 * You would have created an **angle** of the smokescreen to make it more natural.
@@ -462,13 +476,6 @@ Also, if you have a YouTube channel or a content creator, adding these effects w
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. What do you need to create fire effects?
 
 Using simple tools such as Filmora and visual effects, you can create a realistic fire effect with an easy setup. For filming the effect, we will need
@@ -479,13 +486,6 @@ Using simple tools such as Filmora and visual effects, you can create a realisti
 4. Basic editing skills
 
 However, the light source is key to the fire effects. It will be beneficial if you have a **warmer color** light or a light that can change its temperature. You can use **tungsten** light bulbs or small circular **LEDs** that are pretty famous with Vloggers and tick-tock users.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How to make a realistic effect fire?
 
@@ -577,6 +577,13 @@ Adjust the slider to the **left** so it blends in with the flickering of the lig
 
 ![adjust the slider](https://images.wondershare.com/filmora/article-images/2022/12/realistic-fire-effect-using-wondershare-filmora-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Cool, isn't it? Now we have added smoke to our timeline. Combined with the flickering light effect, we are closer to our goal.
 
 ##### Step4 Add flames or sparks
@@ -619,13 +626,6 @@ If you focus on the spark effect that appears on the screen, you will notice tha
 And the following are ideal parameters of our adjustment just for you to refer to.
 
 ![ideal parameters](https://images.wondershare.com/filmora/article-images/2022/12/realistic-fire-effect-using-wondershare-filmora-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Final results
 
@@ -697,13 +697,6 @@ LUTs can be integrated into your editing software, allowing you to apply and mod
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
@@ -712,11 +705,25 @@ LUTs can be integrated into your editing software, allowing you to apply and mod
 
 Peter McKinnon is a great content creator with exceptional video editing skills. Here is a list of **Peter McKinnon LUT Pack free** and paid ones, which you can download. Make your videos look like Peter McKinnon's and get the praise you deserve.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. [Cine LUTS V2](https://www.petermckinnon.com/v2-luts)
 
 Cine LUTS V2 is a pack of 15 cinematic-style LUTs to color grade your videos. With these LUTs, you can achieve various cinematic looks, such as Dawn, Dusk, Elemental, and Ember. Moreover, the Dawn LUT adds a warm and soft color tone to your video. However, the Elemental LUT brings out vibrant colors, making your content appear bold and impactful. Furthermore, each LUT in this pack offers a unique color grading style.
 
 ![cine luts v2](https://images.wondershare.com/filmora/article-images/2023/cine-luts-v2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. [Cine LUTS V1](https://www.petermckinnon.com/v1-luts)
 
@@ -745,13 +752,6 @@ Are you a fan of Peter McKinnon and want to make your content look professional 
 [Add LUTs on Video](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -801,13 +801,6 @@ Arctic Shade LUT is a color grading tool inspired by Peter McKinnon's technique.
 
 ![arctic shade](https://images.wondershare.com/filmora/article-images/2023/arctic-shade.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. [Bleak Galaxy](https://fixthephoto.com/vlog-lut/download-7)
 
 Bleak Galaxy is a fantastic LUT pack inspired by Peter McKinnon. This LUT is perfect for enhancing your night sky footage. It amplifies the blue tones, making the night sky even more beautiful. Additionally, it boosts saturation, bringing out the vibrant colors in the scene. With Bleak Galaxy, you can capture the details of the stunning night sky in all its beauty.
@@ -829,6 +822,13 @@ Are you a fan of Peter McKinnon and want to make your content look professional 
 Besides video editing capabilities, you can color grade your videos like Peter McKinnon. In the same way, this tool offers paid and free LUTs that you can use. Additionally, Filmora has over 200 LUTs, each with a unique set of styles and color tones. You can download similar-looking **Peter McKinnon LUTs free LUTs** to apply on your digital media using Filmora.
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-luts.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -858,22 +858,18 @@ In conclusion, Peter McKinnon is an impressive content creator and professional.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-unfolding-the-future-drones-in-modern-and-next-era/"><u>[New] Unfolding the Future Drones in Modern and Next Era</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-50-free-youtube-banners-come-see-them-all-for-2024/"><u>[Updated] 50 FREE YouTube Banners - Come See Them All for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-virtual-reality-gamers-wealth/"><u>[Updated] Virtual Reality Gamers' Wealth</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>2024 Approved How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/divergent-paths-in-video-sharing-comparing-igtv-and-youtube-for-2024/"><u>Divergent Paths in Video Sharing Comparing IGTV & YouTube for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-the-sony-headset-mic-malfunction-when-connected-to-your-pc/"><u>Effective Fixes for the Sony Headset Mic Malfunction When Connected to Your PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-launching-successful-online-gaming-shows-on-youtube/"><u>In 2024, Launching Successful Online Gaming Shows on YouTube</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-your-daily-dose-of-humor-and-heartbreak-from-instagram-memes/"><u>In 2024, Your Daily Dose of Humor & Heartbreak From Instagram Memes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-elevate-your-designs-with-feather-shapes-in-after-effects/"><u>New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-apply-video-filters/"><u>New In 2024, How to Apply Video Filters</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video/"><u>New Ultimate Guide on How to Plan and Storyboard a Music Video</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ling-the-best-3-video-hosts-post-youtube-era-for-2024/"><u>Unveiling the Best 3 Video Hosts Post-YouTube Era for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-vintage-film-effect-1950s/"><u>Updated 2024 Approved How to Create Vintage Film Effect 1950S</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-efficiently-broadcasting-your-videos-as-shorts-via-computers-and-mobile/"><u>[New] 2024 Approved Efficiently Broadcasting Your Videos as Shorts via Computers & Mobile</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-commanders-canvas-painting-victory-in-the-top-7-total-wars/"><u>[New] In 2024, Commanders' Canvas Painting Victory in the Top 7 Total Wars</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-taking-twitter-videos-from-regular-to-high-definition/"><u>[Updated] Taking Twitter Videos From Regular to High-Definition</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-motion-blur-photo-with-gimp-step-by-step-guide/"><u>2024 Approved Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-steps-to-create-makeup-videos/"><u>2024 Approved Steps to Create Makeup Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-add-green-screen-eff/"><u>Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
+<li><a href="https://windows11.techidaily.com/an-insight-into-windows-audio-channel-separation/"><u>An Insight Into Windows' Audio Channel Separation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/eternal-vision-recorder-tool/"><u>Eternal Vision Recorder Tool</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-4-solutions-to-add-white-border-to-video-on-mobile-and-desktop/"><u>New 2024 Approved 4 Solutions to Add White Border to Video on Mobile and Desktop</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-customized-transitions-to-obs/"><u>New 2024 Approved How to Add Customized Transitions to OBS</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-transitions-in-adobe-premiere-pro/"><u>New How to Add Transitions in Adobe Premiere Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/premium-jokester-visualizer/"><u>Premium Jokester Visualizer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-steps-to-successfully-restart-your-non-responsive-airpods/"><u>Solving the Issue: Steps to Successfully Restart Your Non-Responsive AirPods</u></a></li>
 </ul></div>
 

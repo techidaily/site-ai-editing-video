@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Add Effects on TikTok
-date: 2024-10-18T16:03:23.498Z
-updated: 2024-10-20T16:43:57.822Z
+date: 2024-10-20T01:59:42.364Z
+updated: 2024-10-26T00:22:17.253Z
 tags: 
   - ai
   - animation videos
@@ -53,6 +53,19 @@ Step2 On the right side of the screen, tap Filters. The screen's bottom will rev
 
 ![tap filter from right side](https://images.wondershare.com/filmora/article-images/2022/07/tap-filter-from-right-side.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 To see the choices, swipe. By tapping the tabs, you may quickly navigate to that particular set of filters. Alternatively, you may just swipe and browse through each choice. Select a filter by tapping it. To lessen or intensify the filter effect, move the slider to the left or right.
 
 ![select protrait tiktok](https://images.wondershare.com/filmora/article-images/2022/07/select-protrait-tiktok.jpg)
@@ -94,13 +107,6 @@ Step1 Click the "+" symbol in the bottom menu's center after launching the TikTo
 Step2 The "effects" symbol, which looks like a winking emoji, should be tapped. You will have access to a wide variety of TikTok filters once inside. On your screen, click the Filters symbol in the top right corner.
 
 ![add video effects on tiktok](https://images.wondershare.com/filmora/article-images/2022/07/add-video-effects-on-tiktok.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 The options screen opens when you press the effect filter button. Your effect will appear in your video once you just hit the red button. When you are presented with all of these filters, choose the one that best fits your video and give it a try.
 
@@ -169,6 +175,13 @@ After recording the shots, the next step is to edit them. [Wondershare Filmora](
 
 Below is the step-by-step guide on using Wondershare Filmora to create a loop masking or lookbook video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to edit a loop lookbook video
 
 Step1 Download and install Wondershare Filmora on your PC or Mac.
@@ -177,16 +190,16 @@ Step2 Launch Wondershare Filmora, import the video clip into Filmora and place i
 
 ![import clip into filmora](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Find a frame with an empty background, i.e., without the subject, and freeze the frame.
 
 ![empty background frame](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 Extend the frozen frame and cut out the rest of the video.
 
@@ -417,18 +430,18 @@ With new tools and applications, video editing becomes more accessible with a pr
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 * [Part 3: 6 Best LUTs That Can Be Used on 3DLUT Mobile App](#part3)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Overviewing The Features of the 3DLUT Mobile App
 
@@ -461,13 +474,6 @@ Once you've imported your video file, it's time to apply the LUT to your video. 
 When you have selected the desired LUT, tap on the “Tick” sign in the right corner of the screen. You can save your file in the gallery by tapping the same sign. Moreover, you can further adjust your file by selecting the Basic option from the bottom tray.
 
 ![apply changes and save](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: 6 Best LUTs That Can Be Used on 3DLUT Mobile App
 
@@ -502,13 +508,6 @@ Zoan Cinematic Pack is the perfect color-grading preset that gives your videos a
 It is an exceptional and diversely influencing pack of 3DLUT Mobile. It changes your color composition to bluish to give a colder look. This pack has one LUT that comes with rich colors and deep blue color grading. These colors create an atmosphere that resembles winter and coldness. The blue tone and damping of other colors make your videos look more profound and meaningful.
 
 ![winter pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. [RakhmonovFilmsLUT Pack](https://3dlutcreator.com/userstore.php?packid=11)
 
@@ -550,6 +549,13 @@ However, when we film a miniature model, the depth of field is shallow. So, we o
 
 ![a miniature effect for landscape](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To create a miniature look, we can use specific effects to fake a shallow depth of field, and then the landscape view will look like a tiny model. While some keys to notice before making the miniature effect are:
 
 * It utilizes **selective blur** to make things appear like **small**
@@ -578,6 +584,19 @@ If you don't have good-quality footage, but want to boost your video, here is ho
 * Open Filmora and select any stock footage in Wondershare Filmora.
 
 ![choose stock footage from stock media in filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Move to the **stock media** folder on the above bar in the Wondershare Filmora. Or you can look towards the left window, where you will see the sample **videos tab.**
 
@@ -652,13 +671,6 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 * Set the mask on video according to your style and choice.
 
 ![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -703,13 +715,6 @@ You are excited now to see the final look of your miniature effect! Finally, it'
 
 ![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -734,6 +739,13 @@ Here you will see almost more than **20 videos.** So, instead of using the actua
 * Then **Drag and Drop** it to the timeline section for further editing.
 
 ![add stock video in the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-4.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Who will get Stock Media?**
 
@@ -767,6 +779,13 @@ After selecting and downloading the blur effect, it's time to add it to the vide
 * Then, make sure to release the effect on the video to give it a lens blur appearance.
 
 ![add effect on the video in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-6.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step5 Add the effect multiple times
 
@@ -817,13 +836,6 @@ For example, when we add a mask in the below time-lapse video, follow the above 
 Want to change the shape of the mask? Then follow the below steps:
 
 ![changing the mask of video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-12.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Double-click on the video present in 2nd video track.
 * **Settings** will activate on the top left side.
@@ -870,20 +882,19 @@ Have you tried to add a miniature effect before? If yes, then share your experie
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-accelerated-artistry-instant-collage-creation-on-fb/"><u>2024 Approved Accelerated Artistry Instant Collage Creation on FB</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-explore-chromes-full-screen-multitasking-capabilities/"><u>2024 Approved Explore Chrome's Full-Screen Multitasking Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerating-windows-11-eradicate-delays-and-lags/"><u>Accelerating Windows 11: Eradicate Delays and Lags</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easy-guide-to-zoom-video-in-vlc/"><u>Easy Guide to Zoom Video in VLC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-guide-protecting-your-privacy-with-a-vpn-in-vision-pro-and-similar-xr-devices-insights/"><u>Essential Guide: Protecting Your Privacy with a VPN in Vision Pro and Similar XR Devices Insights</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/full-spectrum-data-salvage-system-next-level-technical-assistance-for-complete-data-recovery/"><u>Full-Spectrum Data Salvage System: Next-Level Technical Assistance for Complete Data Recovery</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-honor-90-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Honor 90</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-chroma-key-written-text-effects-in-filmora/"><u>New Create Chroma Key Written Text Effects in Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-movie-magic-made-simple-a-step-by-step-guide/"><u>New Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/problemlosung-ursachen-fur-die-unfahigkeit-diese-ordner-zu-synchronisieren/"><u>Problemlösung: Ursachen Für Die Unfähigkeit, Diese Ordner Zu Synchronisieren</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-swipe-right-for-music-top-10-fb-vids-today/"><u>[New] In 2024, Swipe Right for Music Top 10 FB Vids Today</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-achieve-complete-volume-on-fb-media-shows/"><u>[Updated] How to Achieve Complete Volume on Fb Media Shows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/blender-green-screen-effects-for-2024/"><u>Blender Green Screen Effects for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decoding-and-rectifying-visually-distorted-issues-in-hitman-2-cold-as-a-grave-case-study-on-rust-game-fixes/"><u>Decoding and Rectifying Visually Distorted Issues in Hitman 2: Cold As A Grave - Case Study on RUST Game Fixes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-high-performance-epson-scanner-drivers-available-for-download/"><u>Easy Installation of High-Performance Epson Scanner Drivers Available for Download</u></a></li>
+<li><a href="https://fox-within.techidaily.com/guia-completa-para-transferir-correos-de-foxmail-al-formato-pst-en-pasos-sencillos/"><u>Guía Completa Para Transferir Correos De Foxmail Al Formato PST en Pasos Sencillos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-y100-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo Y100 online without jailbreak</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects-for-2024/"><u>New How To Make a Timelapse in After Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-tutorial-video-with-filmora/"><u>New How to Make Tutorial Video with Filmora</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ultimate-step-by-step-tutorial-capturing-images-with-your-toshiba-device/"><u>Ultimate Step-by-Step Tutorial: Capturing Images with Your Toshiba Device</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-start-a-vlog/"><u>Updated How to Start a Vlog</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-convert-your-videos-to-60-fps-using-these-excellent-tools/"><u>Updated In 2024, Convert Your Videos to 60 FPS Using These Excellent Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/virtual-help-desk-solutions-mastering-winx-dvd-ripping-and-video-editing-tool/"><u>Virtual Help Desk Solutions: Mastering WinX DVD Ripping & Video Editing Tool</u></a></li>
 </ul></div>
 

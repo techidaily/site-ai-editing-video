@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article
-date: 2024-10-13T16:33:14.097Z
-updated: 2024-10-20T16:33:58.769Z
+date: 2024-10-24T02:59:39.117Z
+updated: 2024-10-25T21:07:15.649Z
 tags: 
   - ai
   - animation videos
@@ -51,13 +51,6 @@ As discussed earlier, [**changing the sky**](https://tools.techidaily.com/wonder
 
 ![try other skies](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Bring this picture back to the Lightroom and go to its right-side panel. There, use the Exposure, Contrast, and Highlights sliders below the "Light" downward icon. After enhancing your image, right-click on it and look for the “Export” option to save the file.
 
 ![change image parameters in lightroom](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-4.jpg)
@@ -100,13 +93,6 @@ Aside from changing background, you can unleash your creativity with an AI Image
 
 ![ai image filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to Change Background with Different Ways Using Filmora
 
 Instead of **lightroom sky replacement**, Filmora offers the simplest way to edit images and videos. Let’s explore the quickest ways to change backgrounds using Filmora.
@@ -122,6 +108,13 @@ Instead of **lightroom sky replacement**, Filmora offers the simplest way to edi
 Successfully launch the latest version of Filmora in your system. Double-tap on it to enter the home screen. Click on “New Project” and access the editing screen of Filmora.
 
 ![opening new project filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Use the Chroma Key and Change the Background**
 
@@ -239,6 +232,13 @@ Aside from changing background, you can unleash your creativity with an AI Image
 
 ![ai image filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to Change Background with Different Ways Using Filmora
 
 Instead of **lightroom sky replacement**, Filmora offers the simplest way to edit images and videos. Let’s explore the quickest ways to change backgrounds using Filmora.
@@ -312,13 +312,6 @@ In short, sky replacement is a feature of Adobe Photoshop that turns clear skies
      data-ad-slot="1223367746"></ins>
 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Vintage Film Effect 1990S - How to Make
 
 In the 90s, movie production technology improved a lot. This decade saw horror movies become much more fun and immersive than in the 80s and 50s because they were more psychological. In fact, we can say that the horror movies of the 90s laid the foundation for current horror movies. So, without wasting time, let's create a 1990s horror movie similar to The Blair Witch Project.
@@ -339,13 +332,6 @@ How to create a 1990s horror film with [Filmora](https://tools.techidaily.com/wo
 
 ![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
 
 ##### Step2 Apply color grading
@@ -412,6 +398,13 @@ We'll now change the size and positioning of the smokescreen effect to match the
 
 ![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
 
 ![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
@@ -446,6 +439,13 @@ Obviously, you'll want your horror film to look as creepy as possible. To achiev
 
 ![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
 
 ##### Step4 Add a retro filming effect
@@ -455,13 +455,6 @@ We'll now change the size and positioning of the smokescreen effect to match the
 Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
 
 ![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -544,13 +537,6 @@ Step 5Once the title is in the sequence, you will be able to make changes to it 
 For the purpose of this tutorial, we chose to use the basic title, but Adobe Premiere Rush allows you to choose from a wide range of titles and styling effects to suit your project's requirements. You also have the choice to add numerous graphics and effects to the title.
 
 You can also very easily duplicate the formatted text as many times as you need to. Just right-click on the formatted text and select “duplicate” to create a copy.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternative Way to Add Text Effects to a Video
 
@@ -636,6 +622,13 @@ Yes. Adobe Premiere Rush does allow you to add captions and subtitles to any vid
 
 Yes, you can easily move text in Adobe Rush. Add the text to the video as described in the first part of this article and once it is on the timeline, you can simply drag the text clip to any desired area on the timeline to change its location.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. How Do I Add a Title in Adobe Rush Mobile?
 
 One of the greatest advantages of choosing Adobe Rush over other video editors is that it can be very easy to use on mobile devices. The steps to add a title using Adobe Rush for mobile are just as simple as the steps to do it on a desktop. Just open Adobe Rush on your mobile device and then open the video you want to edit, tap on the blue “+” icon at the bottom and select “Graphics > More > Basic Default Title” and then tap “Add” to add your title. You also get the same options to edit the text in various ways including the font size, color, and effects.
@@ -664,6 +657,13 @@ You can also just drag and drop the video into the main window to open it.
 
 ![open the video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3Add the Video/Videos to the Timeline
 
 To edit the video and any of its components, you will need to add the video to the timeline. You can do that by simply dragging and dropping the video clips from the media library to the timeline below.
@@ -677,6 +677,13 @@ With the video in the timeline, you are now ready to add your text. To do that, 
 Filmora offers more than 200+ text effects that apply to various types of videos. Find the title preset that you would like to use and double-click on it and you should be able to see the effect in the “Preview” window.
 
 ![see effect in the preview window](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you like what you see, place your Playhead icon where you want the add the text and title in the timeline, and then drag and drop the track above the video.
 
@@ -737,13 +744,6 @@ One of the greatest advantages of choosing Adobe Rush over other video editors i
 ## How to Correct Lens Distortion With Filmora
 
 The distortion in your video may irritate you when you're working on the video's edit. When you take images or record sound, you frequently end up with distorted results due to lens distortion. In this article, we will discuss what lens distortion is, how it may be fixed, and the factors you need to pay attention to avoid lens distortion when taking or recording videos.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Basic introduction to lens distortion
 
@@ -813,18 +813,18 @@ Step2 Click on the clip and head over to the lens correction. Choose the "Camera
 
 ![click on the clip](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 To adjust the distortion, you can slide the bar to the left or the right. If you slide the bar to the right (maximum level), there will be no adjustment. However, if you slide the bar to the left, you can see it pulling those lines as high up as possible.
 
 You can see a bit of curvature, but it looks much more natural, and all of the lines in the video look so much better.
 
 ![adjust the distortion](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-3.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 Lastly, if you play the video back, you will see the video look much better than before.
 
@@ -866,22 +866,18 @@ for this. A 50mm lens is great for portraits, street photography, and many other
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-harmony-and-rhythm-discover-the-best-15-youtube-educational-videos-for-2024/"><u>[New] Harmony & Rhythm Discover the Best 15 YouTube Educational Videos for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-overcome-instagrams-story-upload-issues/"><u>[Updated] 2024 Approved Overcome Instagram's Story Upload Issues</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-video-guide-from-youtube-to-twitter-for-2024/"><u>[Updated] Ultimate Video Guide From YouTube to Twitter for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-/"><u>2024 Approved Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/if-you-want-to-make-an-intro-video-then-adobe-after-effects-will-be-a-great-choice-this-article-will-show-the-steps-to-create-an-intro-video-with-after-effe/"><u>If You Want to Make an Intro Video, Then Adobe After Effects Will Be a Great Choice. This Article Will Show the Steps to Create an Intro Video with After Effects by Your Own</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-catching-every-frame-leading-windows-10-capture-tools/"><u>In 2024, Catching Every Frame Leading Windows 10 Capture Tools</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-freeze-frame-sequence-in-video/"><u>In 2024, How to Create A Freeze Frame Sequence in Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-zoom-video-in-vlc-media-player/"><u>In 2024, How to Zoom Video in VLC Media Player</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-quick-vid-overview-top-tips-and-facts-now/"><u>In 2024, Quick Vid Overview Top Tips & Facts Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/league-of-legends-connectivity-fix-overcoming-lag-and-disconnects/"><u>League of Legends Connectivity Fix: Overcoming Lag and Disconnects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-vintage-film-effect-1950s/"><u>New How to Create Vintage Film Effect 1950S</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-the-premiere-pro-video-templates-help-make-original-content-of-broadcast-quality-the-article-introduces-10-free-premiere-pro-templates-that-are-sure-to-/"><u>New The Premiere Pro Video Templates Help Make Original Content of Broadcast Quality. The Article Introduces 10 Free Premiere Pro Templates that Are Sure to Make Your Life Easy</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-whatre-the-best-alternatives-to-pexels/"><u>New Whatre the Best Alternatives to Pexels?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-listings-photoplustune-recording-software-innovations-for-2024/"><u>Prime Listings Photo+Tune Recording Software Innovations for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-m54-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy M54 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-cropping-and-combining-content-in-wondershare-filmora-latest-for-2024/"><u>Updated Guide To Cropping and Combining Content in Wondershare Filmora Latest for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-lead-the-likes-the-best-social-app-list-on-androidiphone/"><u>[Updated] 2024 Approved Lead the Likes The Best Social App List on Android/iPhone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-reviewing-the-next-level-in-mobile-video-with-samsung-s8-for-2024/"><u>[Updated] Reviewing the Next Level in Mobile Video with Samsung S8 for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-seamless-multiplayer-sessions-with-xbox-zoom-support-for-2024/"><u>[Updated] Seamless Multiplayer Sessions with Xbox Zoom Support for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-syncopating-youtube-melodies-with-visuals/"><u>2024 Approved Syncopating YouTube Melodies with Visuals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/annual-highlights-ultimate-free-lut-download-guide/"><u>Annual Highlights Ultimate Free LUT Download Guide</u></a></li>
+<li><a href="https://solve-news.techidaily.com/free-winx-dvd-author-software-effortless-dvd-burning-and-creation-on-windows-11/"><u>Free WinX DVD Author Software: Effortless DVD Burning & Creation on Windows 11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/gtx-950-error-43-fix-guide-a-comprehensive-solution-for-windows-11-users/"><u>GTX 950 'Error 43' Fix Guide: A Comprehensive Solution for Windows 11 Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-detailed-guide-to-rotate-videos-in-blender/"><u>In 2024, Detailed Guide to Rotate Videos in Blender</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-eye-catching-thumbnails-select-the-best-fonts/"><u>In 2024, Eye-Catching Thumbnails Select the Best Fonts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-fps-for-youtube-videos/"><u>In 2024, Overview of FPS for YouTube Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-through-connectivity-woes-how-to-ensure-a-constant-wi-fi-connection-for-your-mouse/"><u>Navigate Through Connectivity Woes: How To Ensure a Constant Wi-Fi Connection for Your Mouse</u></a></li>
+<li><a href="https://windows11.techidaily.com/pathway-to-windows-11-utilizing-windows-7-key-as-a-gateway/"><u>Pathway to Windows 11: Utilizing Windows 7 Key as a Gateway</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-save-your-edited-video-file-in-mp4-format-in-windows-movie-maker-here-are-the-simple-steps-along-with-a-better-alternative/"><u>Want to Save Your Edited Video File in MP4 Format in Windows Movie Maker? Here Are the Simple Steps Along with a Better Alternative</u></a></li>
 </ul></div>
 

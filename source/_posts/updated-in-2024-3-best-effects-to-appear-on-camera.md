@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, 3 Best Effects to Appear on Camera
-date: 2024-10-16T16:27:28.533Z
-updated: 2024-10-20T16:48:56.817Z
+date: 2024-10-23T11:36:59.357Z
+updated: 2024-10-25T17:37:47.242Z
 tags: 
   - ai
   - animation videos
@@ -37,6 +37,13 @@ Step2 Make a shot of your talent appearing from where the jacket landed. You can
 
 ![make a shot of your talent appearing](https://images.wondershare.com/filmora/article-images/2022/12/appearance_2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Download Filmora to edit your footage. You can get started by going to their official website.
 
 ![download filmora](https://images.wondershare.com/filmora/article-images/2022/12/appearance_3.jpg)
@@ -66,6 +73,13 @@ Step4 Delete the rest on the left. The trick is to use some explosion or smoke e
 Step5 Use the green screen sample in the default menu here. Add some smoke effects available in film stock. Place it on the third video track and move it to hide the transition.
 
 ![use the green screen sample](https://images.wondershare.com/filmora/article-images/2022/12/appearance_8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Make Roof Appearance
 
@@ -172,6 +186,13 @@ Step4 **Import** photos and videos.
 
 ![filmora import clips](https://images.wondershare.com/filmora/article-images/drag-recap-files-to-edit.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 **Add** the imported media and **edit** the clip.
 
 Step6 **Add** some effects and overlay to the timeline
@@ -216,6 +237,13 @@ Step2 Tap the "**New Year**" panel for an end-of-year recap video template.
 
 ![filmora mobile select template](https://images.wondershare.com/filmora/article-images/filmora-mobile-select-template.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Select the template and **tap** on "**Make Video**" to start editing.
 
 Step4 **Add** your photos and footage to the template, then **tap** "**Go**."
@@ -252,23 +280,9 @@ Step3 **Compile** clips, add music, text, and effects
 
 ![instagram compile clips](https://images.wondershare.com/filmora/article-images/instagram-compile-clips.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 **Post** and **share** the Reel on Instagram and other platforms.
 
 ![instagram post reel](https://images.wondershare.com/filmora/article-images/instagram-post-reel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips for Making Event Recap Videos
 
@@ -309,6 +323,13 @@ Step3 **Drag and drop** media like clips, overlay, and tracks to the timeline
 
 ![filmora add media](https://images.wondershare.com/filmora/article-images/drag-new-year-book-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 **Import** photos and videos.
 
 ![filmora import clips](https://images.wondershare.com/filmora/article-images/drag-recap-files-to-edit.jpg)
@@ -327,13 +348,6 @@ Step8 **Apply** all the transitions and overlay to the clip. **Edit** the text a
 
 For more detailed instructions, you can watch the video tutorial:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2\. How To Make an Event Recap Video Using Filmora Templates on a Desktop
 
 Another approach to creating a recap video is using templates from Filmora for Desktop. Filmora offers various templates specifically designed for event recap videos, making it easy to create a professional-looking video without spending hours editing.
@@ -350,6 +364,13 @@ Step4 **Customize** the texts in the template to match the details of your event
 
 Step5 **Preview** the final result in the player window, and if satisfied, **click** "**Export**" and **adjust** the output settings in the "**Output Settings**" window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3\. How to Create an End-of-Year Recap Video With Filmora for Mobile
 
 Creating a recap video doesn't have to be limited to desktop editing software. With Filmora for mobile, you can create a professional-looking end-of-year recap video from the convenience of your mobile device.
@@ -363,6 +384,13 @@ Step1 Start by **launching** the Filmora for mobile app and **selecting** the "*
 Step2 Tap the "**New Year**" panel for an end-of-year recap video template.
 
 ![filmora mobile select template](https://images.wondershare.com/filmora/article-images/filmora-mobile-select-template.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Select the template and **tap** on "**Make Video**" to start editing.
 
@@ -403,13 +431,6 @@ Step3 **Compile** clips, add music, text, and effects
 Step4 **Post** and **share** the Reel on Instagram and other platforms.
 
 ![instagram post reel](https://images.wondershare.com/filmora/article-images/instagram-post-reel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips for Making Event Recap Videos
 
@@ -472,13 +493,6 @@ The amount of the image that is judged to be in the highlights, shadows, or midt
 
 Move to the HSL/Color Panel, which stands for Hue, Saturation, and Luminance, after your image is ready to use. It is located under Tone Curve in the Develop Panel. This adjustment panel, in contrast to the ones stated before, will let you change different colors in your image independently of one another. Hue, Saturation, and Luminance are the three modifications that each color will receive.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Hue
 
 Hue is measured in terms of the color wheel's degrees. It's possible to change the color's real shade in this panel. For instance, you can modify the turquoise or blue to a more greenish tone if your scenario is a beach (as in our example photo). It's advisable to begin making adjustments to your panel's Hue before moving on to the others.
@@ -518,13 +532,6 @@ Utilize each panel to practice and experiment. There is no right or wrong method
 Almost every video has some titles and texts to show to the viewers. Instead of showing static texts on the video, everyone loves to add animated texts so that the video looks attractive and engaging. If you want to show credits and titles in intro and outro of the video, you will usually see texts scrolling vertically on the video.
 
 If you want to show any text repeatedly, you can add horizontal scrolling text effect to your video so that the repeated text does not look weird. You will need a video editor to add scrolling rolling text effect to texts and titles in your video. We will illustrate in simple steps how to animate text on scroll using free as well as premium video editors.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. Add Scrolling Text to Video with Filmora
 
@@ -598,19 +605,6 @@ Step1 Install VSDC free video editor and click on New Project option. Click on F
 
 ![import video to vsdc](https://images.wondershare.com/filmora/article-images/2022/07/import-video-to-vsdc.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Select Type tool from the left panel and draw a box on the video where you can type your text. Make sure the text layer is on top of the video layer in Timeline.
 
 ![select type tool vsdc](https://images.wondershare.com/filmora/article-images/2022/07/select-type-tool-vsdc.jpg)
@@ -649,13 +643,6 @@ Step3 Go to Titles option located at the top, and on the left panel, go to End C
 
 ![scroll text effects filmora](https://images.wondershare.com/filmora/article-images/2022/07/scroll-text-effects-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Once you are satisfied with any scrolling text effects, drag and drop it into Timeline above the video clip layer. Adjust the position of the text effect so that it appears on the video as expected. You can stretch the duration of the effect as per your preference.
 
 ![drag scroll effects timeline filmora](https://images.wondershare.com/filmora/article-images/2022/07/drag-scroll-effects-timeline-filmora.jpg)
@@ -683,6 +670,13 @@ Step3 Move the duplicate text out of the visible screen to the left by changing 
 Step4 Turn on Position option and change the duration and add a keyframe.
 
 ![add key frame after effects](https://images.wondershare.com/filmora/article-images/2022/07/add-key-frame-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 Right-click on Composition setting and go to New> Null Object. Change the duration and make it the same as the Duplicate layer and add a keyframe there. Besides, move the null object out of the visible screen to the right.
 
@@ -746,18 +740,22 @@ Adding scrolling text to your video should no more be an issue for you. If you a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-build-diy-virtual-reality-google-cardboard-hack/"><u>[Updated] In 2024, Build DIY Virtual Reality Google Cardboard Hack</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-unlocking-the-secrets-of-instagrams-music-rights-management/"><u>[Updated] In 2024, Unlocking the Secrets of Instagram's Music Rights Management</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/a-new-dawn-in-gaming-stardew-valleys-best-mods-7/"><u>A New Dawn in Gaming - Stardew Valley's Best Mods (#7)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/create-a-stunning-light-sweep-effect-in-filmora-use-simple-and-easy-steps-to-export-a-high-quality-video-that-will-impress-even-pro-video-editors-for-2024.m/"><u>Create a Stunning Light Sweep Effect in Filmora. Use Simple and Easy Steps to Export a High-Quality Video that Will Impress Even Pro Video Editors for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-video-by-mouse-in-filmora/"><u>How To Make a Video by Mouse in Filmora?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/inside-the-making-of-the-iconic-3d-pipes-screen-saver-a-development-journey/"><u>Inside the Making of the Iconic 3D Pipes Screen Saver: A Development Journey</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-filter-to-video-online/"><u>New In 2024, How to Add Filter to Video Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-whats-the-best-laptops-for-video-editing-for-2024/"><u>New Whats The Best Laptops For Video Editing for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-redmi-note-13-pro-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi Redmi Note 13 Pro 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-nubia-red-magic-9-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Nubia Red Magic 9 Pro Phones</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-features-and-performance-of-lgs-entry-level-um7300-49-inch-4k-tv-is-it-worth-it/"><u>Unveiling the Features and Performance of LG's Entry-Level UM7300 49-Inch 4K TV - Is It Worth It?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-ideas-on-using-green-screen-with-filmora/"><u>Updated 2024 Approved Best Ideas on Using Green Screen with Filmora</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminating-your-android-videos/"><u>[New] Illuminating Your Android Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-plot-crafting-hub/"><u>[New] Leading Plot Crafting Hub</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-crafting-a-non-ad-revenue-stream-on-youtube-the-self-sustaining-creators-tale/"><u>[Updated] 2024 Approved Crafting a Non-Ad Revenue Stream on YouTube The Self-Sustaining Creator’s Tale</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-maximize-fun-5-windows-11-gamers-recording-tactics/"><u>[Updated] 2024 Approved Maximize Fun 5 Windows 11 Gamers' Recording Tactics</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-ways-to-add-meme-text-to-videos/"><u>2024 Approved Best Ways to Add Meme Text to Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the-a/"><u>2024 Approved Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-visual-impact-with-extra-camera-work/"><u>2024 Approved Maximizing Visual Impact with Extra Camera Work</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-the-square-wave-of-facebook-video-popularity/"><u>2024 Approved Navigating the Square Wave of Facebook Video Popularity</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-spot-real-vs-sham-accounts-in-instagram-life/"><u>2024 Approved Spot Real Vs. Sham Accounts in Instagram Life</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-vintage-film-effect-1920s/"><u>How to Create Vintage Film Effect 1920S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-4-solutions-to-add-white-border-to-video-on-mobile-and-desktop/"><u>New 2024 Approved 4 Solutions to Add White Border to Video on Mobile and Desktop</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-customized-transitions-to-obs/"><u>New 2024 Approved How to Add Customized Transitions to OBS</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-create-the-night-to-day-effect-video/"><u>New 2024 Approved How to Create the Night-to-Day Effect Video</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-windows-code-39-mismatch-errors/"><u>Step-by-Step Solutions for Windows Code 39 Mismatch Errors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-the-secret-to-exceptional-time-lapse-videos-on-galaxy/"><u>Unlock the Secret to Exceptional Time-Lapse Videos on Galaxy</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>Updated 2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-/"><u>Updated A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How To Film a Slow Motion Video
-date: 2024-10-15T16:27:21.068Z
-updated: 2024-10-20T16:10:31.688Z
+date: 2024-10-18T19:31:24.266Z
+updated: 2024-10-25T21:17:10.492Z
 tags: 
   - ai
   - animation videos
@@ -48,13 +48,6 @@ Therefore, even though the footage was taken at a higher frame rate, the camera 
 The 24/30 fps editing timelines are pre-set. The majority of the video you capture at this frame rate plays back just nicely on this timeline. You must stretch out video that was shot at a higher frame rate to match this timeline, though. That effectively doubles or triples the length of a video, depending on the multiple of the timeline's typical frame rate.
 
 ![post processing filmora](https://images.wondershare.com/filmora/article-images/2022/11/post-processing-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Lighting
 
@@ -147,6 +140,26 @@ As you examine the Vectorscope, you get to see how strong a particular color is 
 
 ![drop-down](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-4.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. Adjusting Skin Tones**
 
 A commonly used feature of the Premier Pro Vectorscope is the Skin Tone Line. With this feature, you get the line on the scope between the Yellow and the Red sections at about 10.30 or 11 o’clock position.
@@ -158,6 +171,13 @@ The Vectorscope skin tone line represents the color of blood flowing through the
 The major problem is figuring out how to look at skin tones in a shot with many other colors. With the skin tons line in Premiere Pro, color correction becomes easy and quick. You only need to use a garbage matte, which is found under video effects then keying. Adjust the points so that they cover the skin of the person on the shot, then look at the Premiere Pro Vectorscope to see your end results.
 
 ![skin tone adjustments](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-6.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 3\.** **How to Use Vectorscope in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/): Step-by-Step Guide**
 
@@ -295,13 +315,6 @@ On the preview screen, choose the Vectorscope option. This video scope allows yo
 
 ![manage Vectorscope](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-10.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 5Change Other Video Scopes
 
 To achieve more accurate and better results, explore the other video scopes in the same window. View the color changes in your image through parade, histogram, and waveform video scopes. You can also change the color channels to view specific color changes across the video.
@@ -338,13 +351,6 @@ How to create a 1990s horror film with [Filmora](https://tools.techidaily.com/wo
 
 ![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
 
 ##### Step2 Apply color grading
@@ -445,13 +451,6 @@ Obviously, you'll want your horror film to look as creepy as possible. To achiev
 
 ![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
 
 ##### Step4 Add a retro filming effect
@@ -461,13 +460,6 @@ We'll now change the size and positioning of the smokescreen effect to match the
 Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
 
 ![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -494,13 +486,6 @@ Now click the **3D LUT** option and choose a LUT that works for your film. For t
 ##### Step3 Add creepiness to the video
 
 ![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
 
@@ -533,10 +518,10 @@ While it can be very easy to add text to an image, the same cannot be said when 
 There are very many programs in the market that can technically be used to add text to a video. But the ones we will look at are video editors that make the process easy, but also give you a wide range of options to customize your text in numerous ways.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Filmora
@@ -544,13 +529,6 @@ There are very many programs in the market that can technically be used to add t
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) by Wondershare is one of the best video editors in the market. Its user interface is so easy to use that adding text to the video is a simple 3-step process. Aside from adding text to the video, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) also allows you to edit other aspects of the video including adding transitions, overlays, and animations to any section of the video.
 
 ![filmora](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key Features:**
 
@@ -608,6 +586,13 @@ TechSmith Camtasia is one of the most popular tools to create and edit videos. O
 
 ![camtasia](https://images.wondershare.com/filmora/article-images/run-camtasia.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Key Features:**
 
 * It gives you numerous options to add text to the images including text boxes, templates, and effects
@@ -615,11 +600,31 @@ TechSmith Camtasia is one of the most popular tools to create and edit videos. O
 * You can easily customize the text by adding transitions and effects or even by simply changing the font, color, and size of the text
 * The text can be moved to any section of the video
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Typito
 
 Typito is an online video editor with simple tools that can help you make changes to any video. designed to help YouTube content creators and video editors, Typito can be used to add all kinds of text and text effects to any video. It is accessible on all browsers and it is also very easy to use.
 
 ![typito](https://images.wondershare.com/filmora/article-images/add-text-video-typito.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Key Features:**
 
@@ -654,6 +659,13 @@ If the text you want to add to the video is in the form of captions or subtitles
 * Adding text to the video is very easy
 * You can easily customize the text by changing the font color, and size and adding transitions and text effects
 * It supports various languages, making it ideal for captions and subtitles
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MySubtitle
 
@@ -691,24 +703,19 @@ MySubtitle is a simple but highly effective app that you can use to add text to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-polished-content-youtube-studio-edition/"><u>[New] 2024 Approved From Raw Footage to Polished Content YouTube Studio Edition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-in-depth-look-at-camstudios-capturing-capabilities/"><u>[New] 2024 Approved In-Depth Look at CamStudio's Capturing Capabilities</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-professional-strategies-for-embedding-timestamps-on-your-channel/"><u>[New] In 2024, Professional Strategies for Embedding Timestamps on Your Channel</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-prove-your-prowess-with-swift-video-edits-on-windows-11-photos/"><u>[Updated] 2024 Approved Prove Your Prowess with Swift Video Edits on Windows 11 Photos</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-jujutsu-kaisen-making-waves-tiktok-edition/"><u>[Updated] In 2024, Jujutsu Kaisen Making Waves TikTok Edition</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-make-your-background-disappear-and-replace-with-an-attractive-background-here-is-how-to-add-a-green-screen-to-zoom-app-and-add-any-virtual-ba/"><u>Do You Want to Make Your Background Disappear and Replace with an Attractive Background? Here Is How to Add a Green Screen to Zoom App and Add Any Virtual Background of Your Choice</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-be-aware-of-vhss-meaning-there-is-nothing-to-be-worried-about-because-we-will-guide-you-in-this-article/"><u>In 2024, Do You Want to Be Aware of VHSs Meaning? There Is Nothing to Be Worried About because We Will Guide You in This Article</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oneplus-11r-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From OnePlus 11R to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>New 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review-for-2024/"><u>New VSDC Free Video Editor Review for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/premier-professional-development-elite-linkedin-learning-courses/"><u>Premier Professional Development: Elite LinkedIn Learning Courses</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ray-tracing-explained-a-comprehensive-overview-of-the-technique/"><u>Ray Tracing Explained: A Comprehensive Overview of the Technique</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-dolby-atmos-playback-problems-on-windows-operating-systems/"><u>Step-by-Step Solution for Dolby Atmos Playback Problems on Windows Operating Systems</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-3-ways-to-make-time-lapse-video-on-macbook/"><u>Updated 3 Ways to Make Time-Lapse Video on MacBook</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-3-best-effects-to-appear-on-camera/"><u>Updated In 2024, 3 Best Effects to Appear on Camera</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>Updated Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-viral-potential-the-key-to-popularizing-your-videos/"><u>[Updated] 2024 Approved Mastering Viral Potential The Key to Popularizing Your Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-navigating-the-metaverse-with-elite-headsets/"><u>[Updated] 2024 Approved Navigating the Metaverse with Elite Headsets</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-capture-with-clarity-advanced-tips-for-gopro-hero5-black/"><u>[Updated] Capture with Clarity Advanced Tips for GoPro Hero5 Black</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-pros-picks-the-5-ultimate-gaming-stream-cams-uncovered/"><u>[Updated] Pro's Picks The 5 Ultimate Gaming Stream Cams Uncovered</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-gif-building-an-understanding/"><u>2024 Approved How To Slow Down GIF Building an Understanding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209115745-effortlessly-resolve-your-windows-10-continuous-rebooting-dilemma-today/"><u>Effortlessly Resolve Your Windows 10 Continuous Rebooting Dilemma Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-games-universal-access-over-exclusivity/"><u>Future Games: Universal Access Over Exclusivity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-13-pro-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-options/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Options</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-blur-faces-in-your-videos-read-this-article-to-find-out-the-easiest-way-to-blur-the-faces-in-videos-using-adobe-premiere-pro/"><u>New Do You Want to Blur Faces in Your Videos? Read This Article to Find Out the Easiest Way to Blur the Faces in Videos Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/os-xdvdiphoneipadipod/"><u>OS X用DVD/ビデオファイルをiPhone/iPad/iPodへ転送・プレーヤー設定ガイド</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-motion-blur-photo-with-gimp-step-by-step-guide/"><u>Updated Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
 </ul></div>
 

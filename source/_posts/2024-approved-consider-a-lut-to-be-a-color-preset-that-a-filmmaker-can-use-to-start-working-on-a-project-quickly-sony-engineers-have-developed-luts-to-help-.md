@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Consider a LUT to Be a Color Preset that a Filmmaker Can Use to Start Working on a Project Quickly. Sony Engineers Have Developed LUTs to Help Filmmakers Perform Specific Tasks. All of These Are Available for Free
-date: 2024-10-18T17:08:19.277Z
-updated: 2024-10-20T17:02:23.513Z
+date: 2024-10-18T16:06:22.009Z
+updated: 2024-10-26T00:19:07.001Z
 tags: 
   - ai
   - animation videos
@@ -22,13 +22,6 @@ Achieving a specific ambiance in a scene demands ongoing effort and naturally ta
 ## Benefits of using LUTs
 
 There are numerous advantages to using lookup tables to edit your footage. We've already discussed that it helps to give your films a more polished and professional appearance, which is one of the primary explanations why individuals use LUTs, but there are many more.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. A beginning towards professionalism
 
@@ -54,19 +47,6 @@ Whether it's a client or a personal project, things can often get pushed to the 
 
 LUTs are beneficial because they allow videos shot with cameras that shoot very dark, discolored images to have more vivid tones and contrast. This is excellent for grabbing viewers' attention and making videos more intriguing and engaging. LUTs add an artistic element to videos and can help you develop a visual artistic identity for your videos if you use the same colors. Another advantage of LUTs is that they enhance the color quality of videos shot on smartphones with particular color schemes. Although this varies significantly from brand to brand, you can use LUTs to make a Smartphone video more vibrant and appealing.
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Top 10 Sony LUT for Different Purposes
 
 The highlights in your videos will seem smooth with this set of Free Sony LUTs, while the shadows will add intensity and depth without sacrificing any details. It's easy to use Sony LUTs in.CUBE and.LOOK versions, and they help you get the cinematic appearance you want.
@@ -76,6 +56,13 @@ The highlights in your videos will seem smooth with this set of Free Sony LUTs, 
 The Sony Natural Enhanced LUT pack was created to address Sony's color science-related difficulties with skin tones and hue levels. These LUTs correct and fix the colors in your S-Log2 and S-Log3 videos, giving them a colorful natural look.
 
 ![Sony Lut - SLog2 & SLog3 to Enhanced Rec709 LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 SLog2 & SLog3 to Enhanced Rec709 LUTs
 
@@ -103,13 +90,6 @@ Three correction LUTs are explicitly created for S-Log 3 footage. They are compa
 
 Sony A7S III, FX3 & A7 IV – S-Log 3 Correction LUTs
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Sony Cine-4 Film and Standard LUTs
 
 There are 24 Sony Cine-4 Film LUTs and 24 Rec 709 LUTs in this LUTs set. They can be used in films and television shows, social videos, presentations, and more. They're also quite simple to operate. To apply stunning color grading to your film, import the preset file or simply drag & drop the LUT over it. It works with any resolution. Make your films, social media posts, documentaries, and images look sleek and modern.
@@ -123,6 +103,13 @@ Sony Cine-4 Film and Standard LUTs
 The Urban Dark LUT pack aims to provide users with some dark, fascinating tones that work well with urban landscapes. These LUTs have a dark vibe that complements skin tones well.
 
 ![Sony Lut - Sony Urban Dark LUT](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sony Urban Dark LUT
 
@@ -250,6 +237,13 @@ Step1Sign in to Google Drive and open your documents where you want to zoom in o
 
 Step2Click or Tap on the zoom button in the toolbar above the document and then choose the predefined zoom levels, or you can manually enter the preferred zoom level in the space.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Use the zoom controller in Google sheets with Built-in Functionality?
 
 It is a functionality of Google sheets that allows using the zoom controller. Here are the steps of using the Zoom feature in Google sheets:
@@ -259,13 +253,6 @@ Step1Tap on the Zoom option in the toolbar. It will show a drop-down option with
 Step2Choose the level you wish. You can choose from the existing one or manually enter the value. You must know that if you prefer more petite than a hundred percent, it will get smaller, and if you choose more than a hundred, it will get bigger.
 
 Step3You can even veg the same options while you click File Tab and linger the cursor on zoom options.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use the zoom controller manually in Google Sheets by using the browser?
 
@@ -280,6 +267,13 @@ Step3You can even find a similar option to zoom in on other browsers.
 ### 3\. How to use the Zoom controller in Mobile
 
 When you are using an iOS or Android device, you can pinch the screen to zoom in and slide two fingers apart to zoom out.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. How to make Google earth zoom-in video
 
@@ -358,13 +352,6 @@ Step1Sign in to Google Drive and open your documents where you want to zoom in o
 
 Step2Click or Tap on the zoom button in the toolbar above the document and then choose the predefined zoom levels, or you can manually enter the preferred zoom level in the space.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Use the zoom controller in Google sheets with Built-in Functionality?
 
 It is a functionality of Google sheets that allows using the zoom controller. Here are the steps of using the Zoom feature in Google sheets:
@@ -403,6 +390,13 @@ Do you also want to make a fantastic **Google earth zoom-in video?** Then let's 
 8. Zoom out the earth, open the "Movie maker" box, and click on "Create Movie."
 9. Click on the city name to see the **Google earth zoom-in video.**
 10. After the video is done, you can click on "Stop Recording."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -555,19 +549,6 @@ Double click on the template and it will allow you to edit the text.
 
 ![Choose a Lower Third Template](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-a-lower-third-to-your-video-05.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Choose a Lower Third Template
 
 ![Choose a Lower Third Template2](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-a-lower-third-to-your-video-06.jpg)
@@ -626,6 +607,19 @@ Funnily enough, despite its name, a lower third does not have to be in the lower
 In the shot below, the viewer automatically knows he is looking at the rooftops of Alfama, a neighborhood in Lisbon, without someone having to say it - no distractions from the video content.
 
 ![Why Add A Lower Third](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-a-lower-third-to-your-video-02.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Why Add A Lower Third
 
@@ -752,18 +746,18 @@ Wrap Up
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Filters on iMovie
 
 There are times when you record a video and find out that the light and color in the video have been up to the mark. The light could be too bright or too dark while there could be some color overlays in certain portion as well as the entire frame of the video. Thanks to the video editing apps, you can correct any lighting and coloration issues with different filters available to apply to your video.
 
 If you are using iPhone or Mac, you can use Apple’s iMovie app easily. Therefore, you should know how to add filters on iMovie to get the desired output. iMovie app is available for both iPhone and iPad users as well as Mac users. You do not need prior experience in video editing to add filter to your videos to enhance and improve them. We will illustrate the steps on how to add filters in iMovie as well as suggest a better iMovie alternative.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1\. How to add filters on iMovie iPhone
 
@@ -774,13 +768,6 @@ You have to install iMovie app from App Store as it does not come pre-install. I
 Step1 Open iMovie app on your iPhone. Tap on Create Project option and tap on Movie on the next screen.
 
 ![new project imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/new-project-imovie-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Select the video from your iPhone that you want to edit and add filters. After your selection, tap on Create Movie option located at the bottom.
 
@@ -860,6 +847,13 @@ Step3 Go to Effects from the top panel and click on Filters from the left panel.
 
 ![click on filters](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Select any filter and drag and drop it on Timeline. You can stretch the duration of the filter as per your requirements.
 
 You can also check Overlay> Utility option from the left panel to add face filters to your video in the same manner. If you want to save the modified video, click on Export button.
@@ -884,16 +878,22 @@ If you are an iPhone user or a Mac user, you can add filters to your video using
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-instantly-design-custom-coverage-for-your-short-videos/"><u>[New] 2024 Approved How To Instantly Design Custom Coverage For Your Short Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-dissecting-disney-disguises-the-goofy-trek/"><u>[New] In 2024, Dissecting Disney Disguises 'The Goofy Trek'</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-live-transmission-via-obs-to-instagram/"><u>[Updated] 2024 Approved Live Transmission via OBS to Instagram</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-turn-tracks-into-tunes-mp3-to-youtube-conversion-made-simple/"><u>[Updated] In 2024, Turn Tracks Into Tunes MP3-to-YouTube Conversion Made Simple</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-genius-widecam-f100-examining-image-quality-and-audio-performance/"><u>Comprehensive Review of the Genius WideCam F100: Examining Image Quality & Audio Performance</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 13 Pro Max without Password?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-video-contents-that-convert-sales-for-2024/"><u>Updated How to Create Video Contents That Convert Sales for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora-in-2024/"><u>Updated How To Make a Video by Mouse in Filmora, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/want-to-play-a-video-on-loop-on-vimeo-so-that-it-plays-again-and-again-here-are-all-the-different-ways-to-loop-a-video-on-vimeo-in-simple-steps-for-2024/"><u>Want to Play a Video on Loop on Vimeo so that It Plays Again and Again? Here Are All the Different Ways to Loop a Video on Vimeo in Simple Steps for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/est-screen-recorder-for-youtube-for-2024/"><u>[New] Best Screen Recorder for YouTube for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-award-winners-in-writing-for-different-movie-types/"><u>[Updated] 2024 Approved Award Winners in Writing for Different Movie Types</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-how-to-record-and-edit-video-using-the-adobe-connect/"><u>[Updated] 2024 Approved How to Record and Edit Video Using the Adobe Connect</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-5-best-live-stream-video-conference-recorders/"><u>[Updated] In 2024, 5 Best Live Stream Video Conference Recorders</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-add-subtitles-to-your-videos-efficiently-this-article-will-introduce-an-online-subtitle-editor-that-will-help-you-to-create-sub/"><u>2024 Approved Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-optimize-frame-rates-for-maximum-gameplay-immersion/"><u>2024 Approved Optimize Frame Rates for Maximum Gameplay Immersion</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-ideal-next-language-to-learn/"><u>Discovering Ideal Next-Language To Learn</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-in-canva/"><u>New 2024 Approved How to Add Subtitles in Canva?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-diy-vhs-overlay-in-after-effects-in-2024/"><u>New How to DIY VHS Overlay in After Effects, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-use-rule-of-thirds-in-video/"><u>New In 2024, How to Use Rule of Thirds in Video</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-dilemma-of-your-iphone-not-recognizing-by-itunes-in-windows-11-environment/"><u>Resolving the Dilemma of Your iPhone Not Recognizing by iTunes in Windows 11 Environment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skillful-use-of-chatgpt-dont-fall-for-wasteful-apps/"><u>Skillful Use of ChatGPT: Don't Fall for Wasteful Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solved-how-to-successfully-transfer-non-apple-music-to-your-iphone-via-itunes/"><u>Solved: How to Successfully Transfer Non-Apple Music to Your iPhone via iTunes!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-15-best-luts-to-buy/"><u>Updated 2024 Approved 15 Best LUTS to Buy</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-6-websites-to-free-download-motivational-video-footage/"><u>Updated 6 Websites to Free Download Motivational Video Footage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-ideas-for-time-lapse-video/"><u>Updated Ideas for Time-Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-easy-steps-to-create-intro-video-with-after-effects/"><u>Updated In 2024, Easy Steps to Create Intro Video with After Effects</u></a></li>
 </ul></div>
 

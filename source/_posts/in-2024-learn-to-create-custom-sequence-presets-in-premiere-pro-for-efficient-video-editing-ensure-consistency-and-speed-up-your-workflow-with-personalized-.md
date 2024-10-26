@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings
-date: 2024-10-18T16:35:12.952Z
-updated: 2024-10-20T17:02:09.065Z
+date: 2024-10-24T21:23:18.802Z
+updated: 2024-10-25T17:53:25.091Z
 tags: 
   - ai
   - animation videos
@@ -95,6 +95,13 @@ Here, you'll find the **'Editing Mode'** dropdown menu. By default, it's set to 
 4. **Fields:** Choose 'No Fields' for progressive footage. If you're unsure, this is a safe bet.
 5. **Audio Settings:** Here, you can configure the sample rate, among other things. 48000Hz is standard for video.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Give the New Preset a Name and Save It
 
 Once you've customized the settings to your satisfaction, it's time to save this configuration for future use. At the bottom of the New Sequence window, you’ll see a **'Save Preset'** button. Click on it.
@@ -137,21 +144,22 @@ Adobe Premiere Pro's interface is designed to make tasks like these intuitive, s
 
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Do Velocity Edits on PC
 
 If you are wondering what is velocity edit? Well, velocity editing is a term used in music production and MIDI (Musical Instrument Digital Interface) programming. When we talk about the velocity edit app, "velocity" refers to the intensity or force with which a note is played on a MIDI instrument, such as a keyboard. Velocity in a velocity editor is a parameter that gives expression to a MIDI performance to make the music sound more dynamic and realistic.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part1 Best 3 velocity edit softwares**
 
@@ -264,13 +272,6 @@ Choosing the right velocity edit maker helps you achieve the desired output in v
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 100+ Best TikTok Captions: Enhance Your Content
 
 * [Part 2: Creative Stimulation: A Comprehensive Inventory of Popular Titles on TikTok in 2024](#part2)
@@ -289,6 +290,13 @@ Every TikTok creator, from amateur to influencer, will tell you that a caption i
 ## Part 2: Creative Stimulation: A Comprehensive Inventory of Popular Titles on TikTok in 2024
 
 Captions aren't just about information but about flair, wit, and personality. As TikTok evolves, so do the trends in captions. Let's dive into some categories that are making waves this year:
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### TikTok Captions for Couples
 
@@ -420,23 +428,9 @@ Every TikTok creator, from amateur to influencer, will tell you that a caption i
 3. **Boosts Discoverability:** Strategic keywords in captions can make your videos more discoverable, especially as users search for specific content on TikTok.
 4. **It's Your Brand's Voice:** Established TikTokers have a recognizable style. Your captions can become a part of your brand's unique voice, making you distinguishable in a sea of creators.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Creative Stimulation: A Comprehensive Inventory of Popular Titles on TikTok in 2024
 
 Captions aren't just about information but about flair, wit, and personality. As TikTok evolves, so do the trends in captions. Let's dive into some categories that are making waves this year:
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### TikTok Captions for Couples
 
@@ -532,13 +526,6 @@ Captions aren't just about information but about flair, wit, and personality. As
 
 Captions are more than just add-ons. They're a part of the content's DNA, influencing virality and engagement. The above lists are just a teaser. With so much potential, the right caption can be the difference between a few views and a few million. Stay tuned as we explore more on this topic!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Automatically Generate TikTok Captions using Filmora's AI Copywriting Feature
 
 In the ever-evolving world of content creation, tech tools can be a creator's best friend. With the overwhelming demand for frequent and catchy content, wouldn't it be a game-changer if an AI could whip up the perfect TikTok caption for you? Enter Filmora’s AI Copywriting feature!
@@ -546,13 +533,6 @@ In the ever-evolving world of content creation, tech tools can be a creator's be
 [Create AI Captions](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Create AI Captions](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: Download Filmora and Find the AI Copywriting Feature
 
@@ -578,13 +558,6 @@ Whether you're brainstorming creatively or seeking assistance from innovative to
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Create Liquid Water Reveal Intro?
 
@@ -642,6 +615,13 @@ After the successful uploading of the stock video, it is time to add text to the
 6. Last, you have to rotate the text according to the needs and align its position accordingly.
 
 ![entering the text](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4Selecting the color
 
@@ -719,6 +699,13 @@ Next, you have to add the keyframes and adjust the playheads in the video. In th
 
 ![adding keyframes and adjusting playheads](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step10Previewing and export the video
 
 Once done with all the necessary effects and settings, it is time for a quick preview of the created video. The "Render Preview" option in the Wondershare Filmora offers a fast rendering of the made video to help users with a brief overview of the file. It reduces the preview lag, as observed in other tools due to the application of heavy effects and features. After previewing, you can quickly export the video. The quick steps for the same are:
@@ -765,13 +752,6 @@ Once Wondershare Filmora is running on your system, you can start by importing a
 
 ![importing and selecting the stock video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3Entering the text
 
 After the successful uploading of the stock video, it is time to add text to the intro. In this step, you can change the font style, and font size, and maintain the text spacing. The quick steps for the same are:
@@ -784,6 +764,13 @@ After the successful uploading of the stock video, it is time to add text to the
 6. Last, you have to rotate the text according to the needs and align its position accordingly.
 
 ![entering the text](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4Selecting the color
 
@@ -818,6 +805,19 @@ After adding the water effect to the video, you can adjust the settings like "Em
 4. Press "OK" to apply changes.
 
 ![completing the water effect settings](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-6.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step7Enabling the Chroma Key and other settings
 
@@ -895,16 +895,18 @@ So, download [Wondershare Filmora](https://tools.techidaily.com/wondershare/film
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-dynamic-website-content-incorporating-youtube-playlists/"><u>[Updated] Dynamic Website Content Incorporating YouTube Playlists</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-key-techniques-for-assessing-youtube-engagement-and-profitability/"><u>[Updated] In 2024, Key Techniques for Assessing YouTube Engagement and Profitability</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/achieve-crystal-clear-shots-expert-guide-to-zooming-on-snapchat-for-2024/"><u>Achieve Crystal Clear Shots Expert Guide to Zooming on Snapchat for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-ways-to-blur-zoom-background-for-free-for-2024/"><u>Best Ways to Blur Zoom Background for Free for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/guide-facile-et-rapide-pour-deverrouiller-les-fichiers-pdf-avec-du-drm-des-fichiers-pdf-sans-restrictions/"><u>Guide Facile Et Rapide Pour Déverrouiller Les Fichiers PDF Avec Du DRM - Des Fichiers PDF Sans Restrictions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-remove-background-from-a-video-in-premier-pro-for-2024/"><u>How to Remove Background From a Video in Premier Pro for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-latest-fitbit-charge-grofitness-band-the-ultimate-review/"><u>In-Depth Look at the Latest Fitbit Charge Grofitness Band – The Ultimate Review</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>New In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-lag-and-glitches-optimize-your-pc-for-a-seamless-half-life-alyx-experience/"><u>Say Goodbye to Lag and Glitches: Optimize Your PC for a Seamless Half-Life Alyx Experience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-a-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated A Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-best-10-volume-magnifiers-for-windowsmacos/"><u>[New] 2024 Approved Best 10 Volume Magnifiers for Windows/MacOS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-architectural-wonders-from-the-sandbox/"><u>[Updated] Architectural Wonders From the Sandbox</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-speed-ramping-to-create-a-footage/"><u>2024 Approved How to Use Speed Ramping to Create a Footage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-skype-speak-saver-mp3-conversion-masterclass/"><u>2024 Approved Skype Speak Saver MP3 Conversion Masterclass</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/boost-your-spirit-creating-motivational-status-videos/"><u>Boost Your Spirit Creating Motivational Status Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breakdown-of-funds-required-for-music-video-shooting/"><u>Breakdown of Funds Required for Music Video Shooting</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/flip-it-a-step-by-step-guide-to-rotating-clips-in-fcp/"><u>Flip It! A Step-by-Step Guide to Rotating Clips in FCP</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-captureit-all-the-complete-screen-recorder-hack/"><u>In 2024, CaptureIt All The Complete Screen Recorder Hack</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-2023-free-compre-folios/"><u>In 2024, Innovative 2023 Free, Compre Folios</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-y100i-power-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo Y100i Power 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-find-out-what-ray-tracing-is-in-after-effects-how-it-works-and-learn-about-ray-traced-3d-settings-with-simple-instructions/"><u>Updated Find Out What Ray Tracing Is in After Effects, How It Works, and Learn About Ray-Traced 3D Settings with Simple Instructions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>Updated HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-learning-how-to-create-luts-with-luts-generator/"><u>Updated Learning How to Create LUTs with LUTs Generator</u></a></li>
 </ul></div>
 

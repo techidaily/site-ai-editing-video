@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Use Speed Ramping to Create a Footage
-date: 2024-10-17T16:27:37.115Z
-updated: 2024-10-20T16:56:21.150Z
+date: 2024-10-24T09:12:14.992Z
+updated: 2024-10-25T19:09:28.820Z
 tags: 
   - ai
   - animation videos
@@ -46,6 +46,13 @@ To edit a montage, you must first capture it correctly. For our example footage,
 
 ![shot footage from a higher angels](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **How to capture the best footage?**
 
 You can shoot handheld with a camera or a mobile phone because it allows you to move around your talent and catch some movements and action while giving a shaky camera effect for added suspense. To make evenly balanced videos, you can use a gimbal stabilizer. Here are some tips to get better shots.
@@ -76,13 +83,6 @@ First, import a video from your media library in the Wondershare Filmora. And dr
 To apply the speed ramping feature, **right-click** on the clip on the timeline. And click speed in the menu and choose **speed ramping** to open the settings window.
 
 ![add speed ramping option](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can choose different speed templates in the setting window. Or, on the left corner, click on the customize option to adjust the keyframes and create the speed you want for the video.
 
@@ -119,6 +119,13 @@ We will use Boris FX BCC glitch to add some intensity to our video. It is a plug
 * We are going to scroll down and select shake with motion blur. This preset will use the exact look we want for our basketball video to make the speed ramping more intense.
 
 ![present a drop-down menu and reduce the effect](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-9.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * You can change the settings around after choosing a preset. For example, let's turn up the glitch intensity to have our glitch a little more extreme. Moving further, we can change the glitch duration to our specific needs.
 
@@ -251,6 +258,13 @@ We'll now change the size and positioning of the smokescreen effect to match the
 
 ##### Step4 Add a retro filming effect ![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
 
 ![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
@@ -291,16 +305,16 @@ That's it! With these tips and tricks, you can effortlessly create a retro-style
 
 ##### Step1 Add the horror video to the timeline ![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
 
 ##### Step2 Apply color grading ![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
 
@@ -318,6 +332,13 @@ We'll now change the size and positioning of the smokescreen effect to match the
 
 ##### Step4 Add a retro filming effect ![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
 
 ![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
@@ -325,13 +346,6 @@ Now we'll make the film more believable by adding a retro overlay. Click the **E
 ## Summary
 
 That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step1 Add the horror video to the timeline ![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
 
@@ -422,13 +436,6 @@ Step6 Drag and drop the paper photo onto the second video track of the timeline,
 
 ![dropping paper photo](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-06.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step7 Double-click the paper picture on the timeline to open the settings window and then open the **Compositing** menu. Then Change the **Blending Mode** from Normal to **Multiply**.
 
 ![opening compositing menu](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-07.png)
@@ -479,6 +486,13 @@ Step16 Now you can add several Filmora transitions to finish the effect. Go to t
 
 ![select the transition effect](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-017.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step17 Drag and drop it onto the cut between **clip 1** and **freeze frame 1** and the cut between **clip 2** and **freeze frame 2**. You can also adjust the length of the transition.
 
 ![dropping the transition effect](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-018.png)
@@ -490,6 +504,13 @@ Step18 Then, find **Torned Paper Transition 4** in the **Transitions window**. D
 Finally, it's done. Let's play the video and see how the paper effect and transitions enhanced the video.
 
 ![the outcome](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-020.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -517,13 +538,6 @@ Alt text: Paper rip effect.
 Step4 Now right-click on **Clip 1** to open the menu and select **Add Freeze Frame**.
 
 ![selecting add freeze frame](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 After adding a freeze frame, cut here.
 
@@ -565,35 +579,9 @@ Step11 Now let's make the second part of the transition effect. You should drag 
 
 ![adding clip 2 to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-013.png)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step12 Drag and drop the paper photo onto the second video track of the timeline and make sure it starts at the beginning of the freeze frame on the first video track. And again, change the blending mode to Multiply as well.
 
 ![adding paper photo](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-014.png)
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step13 Select the range you want to export by setting **IN and OUT** points as we did before. Press the **I** key on the keyboard to set the in point, drag the playhead to the out point, and press the **O** key.
 
@@ -651,6 +639,13 @@ Step2 Select the video from your iPhone that you want to edit and add filters. A
 
 ![create movie in imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/create-movie-in-imovie-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Your selected video will now be available on the Timeline where you can edit your video. Tap on Filters icon located at the bottom-right corner.
 
 ![filter timeline iphone imovie](https://images.wondershare.com/filmora/article-images/2022/07/filter-timeline-iphone-imovie.jpg)
@@ -658,13 +653,6 @@ Step3 Your selected video will now be available on the Timeline where you can ed
 Step4 You will see all the different filters available on iMovie app. You can also find a slider above each selected filter. You can adjust the filter to increase or decrease the filter intensity.
 
 ![filter options imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/filter-options-imovie-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 Tap on Play icon to check how the filter is looking on your video. Once you are satisfied, tap on Done option located at the top-left corner.
 
@@ -756,15 +744,21 @@ If you are an iPhone user or a Mac user, you can add filters to your video using
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ish-on-titles-crafting-captivating-cookery-channel-names/"><u>[New] Dish on Titles Crafting Captivating Cookery Channel Names</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-save-the-day-guide-to-downloading-and-converting-vimeo-videos-mp4/"><u>[Updated] In 2024, Save the Day Guide to Downloading and Converting Vimeo Videos (MP4)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-zero-cost-frame-perfection-on-youtube-video-viewing/"><u>[Updated] In 2024, Zero-Cost Frame Perfection on YouTube Video Viewing</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-infinix-smart-8-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Infinix Smart 8 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-deep-learnings-concealed-mechanisms-ai-black-boxes-revealed/"><u>Exploring Deep Learning's Concealed Mechanisms: AI Black Boxes Revealed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-and-latest-news-from-toms-tech-hub/"><u>In-Depth Reviews & Latest News From Tom's Tech Hub</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-countdown-video/"><u>New How to Make a Countdown Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-6-tips-for-your-first-facebook-ads/"><u>New In 2024, 6 Tips for Your First Facebook Ads</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-motion-blur-photo-with-gimp-step-by-step-guide-for-2024/"><u>New Motion Blur Photo With GIMP Step-By-Step Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>Updated How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/hort-film-producer-yt-for-2024/"><u>[New] Short Film Producer YT for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-top-selections-top-6-fb-lite-extractors/"><u>[Updated] 2024 Approved Top Selections #Top 6 FB Lite Extractors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-integrating-timestamps-into-your-images-for-2024/"><u>[Updated] Integrating Timestamps Into Your Images for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-journey-to-audio-excellence-mastering-ios-based-recording-techniques/"><u>[Updated] Journey to Audio Excellence Mastering iOS-Based Recording Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-techniques-to-boost-pc-audio-recording-efficiency/"><u>[Updated] Techniques to Boost PC Audio Recording Efficiency</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-all-things-about-adding-effects-in-kinemaster/"><u>2024 Approved All Things About Adding Effects In Kinemaster</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-10-plugins-to-enhance-fcp/"><u>2024 Approved Ultimate 10 Plugins to Enhance FCP</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Does find my friends work on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 15 Plus</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-find-x6-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo Find X6 FRP Without Computer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-fade-in-windows-video-editor-for-2024/"><u>Updated How To Add Fade In Windows Video Editor for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-random-letter-reveal-intro/"><u>Updated How to Make Random Letter Reveal Intro?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-correct-lens-distortion-with-filmora/"><u>Updated In 2024, How to Correct Lens Distortion With Filmora</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike
-date: 2024-10-16T17:05:33.124Z
-updated: 2024-10-20T16:54:53.239Z
+date: 2024-10-24T00:49:34.543Z
+updated: 2024-10-26T11:35:44.613Z
 tags: 
   - ai
   - animation videos
@@ -56,6 +56,13 @@ Step1 Go to the "**Effects and Preset**" tab and search for the "**Fast Box Blur
 Step2 Increase the "**Blur Radius**" to see the edges feather.
 
 ![after effects editing the blur radius](https://images.wondershare.com/filmora/article-images/after-effects-blur-radius.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How To Use Variable Mask Feather in After Effects?
 
@@ -206,6 +213,13 @@ Whether you're looking to feather shapes in After Effects or prefer the convenie
      data-ad-slot="1223367746"></ins>
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Unraveling How the Slow Motion Guys Have Revolutionized The Slow Motion Game
 
 All the aspects of our lives are inspired by someone, and we try to follow in their footsteps. Sometimes, it can be a person in your life, an influential personality, or YouTube. When it comes to editing, beginners often try to follow those who have mastered it. In a similar way, you might seek inspiration from social media or websites to create slomos.
@@ -248,6 +262,13 @@ Locate and launch the "Camera" application on your Android. In the bottom bar, y
 
 ![select the more settings](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2
 
 In the appearing menu, locate and select the “Slow motion” option. After setting these preferences, hit the recorder button and record the video. The video will record normally, but when you preview it later, you'll have a slomo.
@@ -263,13 +284,6 @@ In addition, you can infuse your slomo with multiple visual effects, transitions
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Using Uniform Speed to Create a Slow-Motion Video in Filmora
 
@@ -346,16 +360,10 @@ Apple offers a pre-developed feature to create slomos using a simple method. In 
 ![select the slo mo mode](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step-by-Step Guide to Creating a Slow Motion in Android
@@ -374,6 +382,13 @@ In the appearing menu, locate and select the “Slow motion” option. After set
 
 ![select the slow motion mode](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Slow Motion Video Making and Wondershare Filmora: Make Videos Like Slow Mo Guys
 
 All the above methods of [creating slow motion](https://tools.techidaily.com/wondershare/filmora/download/) are effective, but there is a drawback. You'll have to record the complete video in slow motion, and there are no custom options. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a professional video editing software that can resolve this. This software will help you create videos similar to **Dan Slow Mo Guys**.
@@ -383,13 +398,6 @@ In addition, you can infuse your slomo with multiple visual effects, transitions
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Using Uniform Speed to Create a Slow-Motion Video in Filmora
 
@@ -412,6 +420,13 @@ This is the AI feature that increases the video frame rate for a smooth, slow-mo
 Once all is set and done, navigate towards the timeline panel to select this video again. With the help of your cursor, access the "File" tab at the top toolbar. Select the "Render Preview" option from the expanding menu. After rendering is complete, use the preview screen to observe the slo-mo and export it.
 
 ![access and start render preview](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Using Speed Ramping to Create a Slow-Motion Video in Filmora
 
@@ -453,13 +468,6 @@ MAGIX Vegas Pro is a powerful and flexible solution for editing, creating, and a
 
 In this **MAGIX Vegas Pro review**, we'll take a look at the software and tell you why it's a great video editor. We'll also provide a Sony Vegas vs. Adobe Premiere comparison to see how they stand against each other.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. What Is MAGIX Vegas Pro
 
 Firstly, let's have a deeper understanding of MAGIX Vegas Pro before we have a review in Part 2.
@@ -491,19 +499,6 @@ MAGIX Vegas Pro 20 is an industry-leading video editing software program owned b
 Some basic functions of the Vegas Pro 20 include Speech to Text functionality, Audio production with VST3, Eight Preset Window Layouts, Track effect, Color grading, Optical Flow mode, Fade In/Out features, Honeycomb, and Color Plane presets for GL transitions, and Add and Arrange Media.
 
 ![magix vegas pro 20](https://images.wondershare.com/filmora/article-images/2022/11/magix-vegas-pro-20.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. MAGIX Vegas Pro Review
 
@@ -696,13 +691,6 @@ Step3 Give a name to the Stinger transition and click Ok button.
 
 ![name stinger transition obs](https://images.wondershare.com/filmora/article-images/2022/07/name-stinger-transition-obs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 You will see Properties window now. Click on Browser button against Video file and select the transparent video animation file that you want to play on top of the current video before applying the cut transition effect.
 
 ![apply cut transition effects](https://images.wondershare.com/filmora/article-images/2022/07/apply-cut-transition-effects.jpg)
@@ -710,13 +698,6 @@ Step4 You will see Properties window now. Click on Browser button against Video 
 Step5 For Transition Point Type, select Time(milliseconds) option. In the Transition Point field, add the duration of the transparent video animation so that the transition to the next scene takes place immediately after the video animation gets completed.
 
 ![select transition point field](https://images.wondershare.com/filmora/article-images/2022/07/select-transition-point-field.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step6 If your video animation has audio, go to Audio Monitoring and select Monitor and Output option from the dropdown. For Audio Fade Style, you can select Crossfade option for better output.
 
@@ -756,6 +737,13 @@ Step4 Check them out and once you have selected one to apply, drag and drop it i
 
 ![check transitions out](https://images.wondershare.com/filmora/guide/add-transitions-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Play the video and click on Export button to save the video.
 
 ## Part 4: Related FAQs about OBS Transitions
@@ -786,13 +774,6 @@ Step3 Go to Transitions tab located at the top of the application screen. You wi
 
 ![go to transitions tab](https://images.wondershare.com/filmora/guide/add-transitions-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Check them out and once you have selected one to apply, drag and drop it in between the video clips.
 
 ![check transitions out](https://images.wondershare.com/filmora/guide/add-transitions-2.png)
@@ -800,6 +781,13 @@ Step4 Check them out and once you have selected one to apply, drag and drop it i
 Step5 Play the video and click on Export button to save the video.
 
 ## Part 4: Related FAQs about OBS Transitions
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How do I add a transition overlay in OBS?
 
@@ -829,20 +817,24 @@ Go to the OBS Forums from where you get to download transitions for OBS Studio. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-cameras-for-quality-youtube-content/"><u>[New] In 2024, Best Cameras for Quality YouTube Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-high-quality-wincams/"><u>2024 Approved The Ultimate Guide to High-Quality WinCams</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-started-fast-free-downloads-of-easycap-control-software-drivers/"><u>Get Started Fast: Free Downloads of EasyCAP Control Software Drivers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-film-a-slow-motion-video/"><u>How To Film a Slow Motion Video</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-essential-gaming-collection-best-of-action-adventure-classics/"><u>In 2024, Essential Gaming Collection Best of Action-Adventure Classics</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-reinstate-missing-watch-thumbnail/"><u>In 2024, Reinstate Missing Watch Thumbnail</u></a></li>
-<li><a href="https://extra-support.techidaily.com/install-and-upgrade-guide-to-the-latest-macos-sierra-for-2024/"><u>Install and Upgrade Guide to the Latest macOS Sierra for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-a-guide-to-create-your-own-lol-montage-video-for-2024/"><u>New A Guide to Create Your Own LOL Montage Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-add-transition-effects-in-premiere-pro/"><u>New Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-on-using-filmora-green-screen/"><u>New In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-make-a-countdown-video/"><u>New In 2024, Make A Countdown Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/steps-to-fade-audio-in-premier-pro/"><u>Steps To Fade Audio In Premier Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-finding-and-recovering-erased-contacts-on-android-smartphones/"><u>The Ultimate Tutorial for Finding and Recovering Erased Contacts on Android Smartphones</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in-this-ar/"><u>Updated Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-mastering-closer-video-in-google-meet-sessions/"><u>[New] In 2024, Mastering Closer Video in Google Meet Sessions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-the-top-8-instagram-schedulers-for-iphone-and-android-users-for-2024/"><u>[Updated] Unveiling the Top 8 Instagram Schedulers for iPhone and Android Users for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-kinetic-typography-text-effect-easyandfast/"><u>2024 Approved Kinetic Typography Text Effect 【EASY&FAST】</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-masterpiece-models-best-of-the-computer-world/"><u>2024 Approved Masterpiece Models Best of the Computer World</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-need-to-learn-about-halftone-effects-learn-how-to-quickly-create-a-halftone-effect-in-adobe-photoshop-with-simple-easy-to-follow-instructions./"><u>2024 Approved Need to Learn About Halftone Effects? Learn How to Quickly Create a Halftone Effect in Adobe Photoshop with Simple, Easy-to-Follow Instructions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-mp3-to-m4a-converter-moveavi/"><u>Free Online MP3 to M4A Converter - MoveAVI</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-do-velocity-edits-on-pc-for-2024/"><u>How to Do Velocity Edits on PC for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-6s-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 6s without Password?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-use-montage-with-these-movies/"><u>In 2024, Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-group-conference-calls-platforms/"><u>Leading Group Conference Calls Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-mindmapping-innovative-strategies-using-chatgpt/"><u>Mastering the Art of Mindmapping: Innovative Strategies Using ChatGPT</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2-methods-to-cut-video-in-vlc-on-windows/"><u>New 2 Methods to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-6-ways-to-mimic-professional-filming-gears/"><u>New 6 Ways to Mimic Professional Filming Gears</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-discover-the-process-of-slowing-down-time-lapse-videos-on-your-iphone/"><u>New Discover the Process of Slowing Down Time-Lapse Videos on Your iPhone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/next-level-gaming-with-dell-alienware-aurora-r9-the-cutting-edge-pc-review/"><u>Next-Level Gaming with Dell Alienware Aurora R9 - The Cutting Edge PC Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simplifying-cross-language-communication-with-chatgpt-as-your-go-to-translator-tool/"><u>Simplifying Cross-Language Communication with ChatGPT as Your Go-To Translator Tool</u></a></li>
+<li><a href="https://driver-download.techidaily.com/up-to-date-guide-on-acquiring-and-updating-canon-mg3600-printing-drivers/"><u>Up-to-Date Guide on Acquiring and Updating Canon MG3600 Printing Drivers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-videos-with-imovie/"><u>Updated 2024 Approved How to Loop Videos with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-lumafusion-offers-various-look-up-table-presets-or-luts-such-as-filmic-delog-and-filmic-deflat-and-several-stylistic-luts-for-use-with-neutral-use-v/"><u>Updated LumaFusion Offers Various Look Up Table Presets, or LUTs, Such as FiLMiC deLog and FiLMiC DeFlat, and Several Stylistic LUTs for Use with Neutral Use Video. You Can Also Manually Add the LUTs</u></a></li>
 </ul></div>
 

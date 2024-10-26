@@ -1,7 +1,7 @@
 ---
 title: New How to Apply Video Filters Mobile and Desktop for 2024
-date: 2024-10-13T17:10:38.240Z
-updated: 2024-10-20T16:35:29.376Z
+date: 2024-10-20T18:03:39.358Z
+updated: 2024-10-26T05:11:40.370Z
 tags: 
   - ai
   - animation videos
@@ -143,6 +143,13 @@ Step3Press the dash/underscore button ("- \_"), which is situated next to the "+
 
 You may quickly learn how to zoom in on a Mac using trackpad movements if you prefer using a touchpad versus learning any kind of keyboard shortcuts. With a MacBook, there is another, maybe simpler way to zoom in and out in addition to the approach mentioned above. If your keyboard isn't entirely working, it may still be helpful. However, make sure that gesture support is turned on in the settings on your Mac. Although a Mac still supports the usage of a mouse, new Mac software is designed to be used with a trackpad. Apple is abandoning the mouse. And with a little practice, you can do it too. What you must do is as follows:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to Enable Trackpad Gestures
 
 Step1Open System Preferences and choose Trackpad. Next, choose the Scroll & Zoom tab and select the "Smart zoom" checkbox. Zooming in on web sites, photos, and documents couldn't be much simpler after gesture support was set up:
@@ -152,6 +159,13 @@ Step1Open System Preferences and choose Trackpad. Next, choose the Scroll & Zoom
 Step2You can zoom in or out on Mac by placing two fingers on the touchpad and moving one finger closer to the other or further apart (repeat for additional zooming)
 
 Step3Another option is to simply zoom in and out by double-tapping the touchpad with two fingers.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 3: Use Scroll Gesture
 
@@ -181,6 +195,13 @@ Step2Additional customization options are available in the Options menu, includi
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/customize-text-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Way 5: Enable Touch Bar
 
 This substitute is only accessible on Macs equipped with Touch Bars. A handy feature is the Touch Bar. The Touch Bar is a feature on every current MacBook Pro model, including the 13-inch and 16-inch versions. On the Touch Bar, there is a mix of App Controls and a Control Strip. To use with your compatible MacBook Pro, the Touch Bar has additional features. Although it is helpful right out of the box, some customization may be required for your advantage. Fortunately, Apple makes modifications rather straightforward. You may change your default by following the instructions below.
@@ -194,13 +215,6 @@ Step2Click the Apple symbol in the upper left corner of your screen and choose "
 Step3Select "Keyboard" > "Keyboard" and then select "Touch Bar shows" under the Touch Bar settings. Then choose an option from the menu, which also includes the larger Control Strip and app buttons.
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/enable-touch-bar-on-mac.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -262,23 +276,9 @@ Step1When you choose this option, a larger, higher-resolution picture of the tex
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/enable-hover-text-to-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2Additional customization options are available in the Options menu, including the ability to alter the font, the size of the zoomed-in text (which may range from 14pt to 128pt), the font's appearance surrounding the cursor, and the modifier key that activates the function.
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/customize-text-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 5: Enable Touch Bar
 
@@ -352,13 +352,6 @@ Afterward, you should click on the playhead and move it a little ahead by a few 
 
 Repeat this step for a few more layers, like dragging the snapshot image to the timeline > moving the playhead by some frames > Snapshot > Lock Track. Then, after you are done with the number of stages possible with your video clip, unlock all of the locked track layers sequentially from top to bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Editing the layers
 
 After this, click on the second clip in the layers. Right-click on the top of the clip in the timeline and choose "Edit Properties" from the drop-down menu. Next, click on the Compositing option and tap the tickmark beside it. Then, select the drop-down menu for the Blending Mode option and change Normal to Darken. Press the OK button after you are done.
@@ -382,6 +375,26 @@ Choose all of the video clip sections you edited on Filmora from the timeline af
 Then, drag the playhead on the clip to the frame at which the third freeze frame occurs. For this, you can play the Preview of the clip to verify. After placing the playhead at that exact moment, click on the Split icon from the toolbar above the editor timeline or the Scissor icon. Then, remove the second half of the clip.
 
 ![drag the playhead and split](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-7.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Create the freeze frame to reverse the speed effect
 
@@ -451,19 +464,6 @@ Then, drag the playhead on the clip to the frame at which the third freeze frame
 
 ![drag the playhead and split](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-7.gif)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Create the freeze frame to reverse the speed effect
 
 After this, right-click on the top of the remaining video clip on your timeline. From the drop-down menu that appears, tap on the Copy option. Then, paste the second half beside the first half on the same layer.
@@ -471,13 +471,6 @@ After this, right-click on the top of the remaining video clip on your timeline.
 After that, right-click on the second copied clip and choose the Speed option > Click on Reverse. After that, play the Preview to see how the effect appears in your video. Finally, export the video from Filmora.
 
 ![play the preview](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-8.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -520,6 +513,13 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 **Step 1:** After importing a video, navigate towards the timeline video layer and right-click on it. From the dropdown menu, select "Time" and then select the "Time Stretch" option.
 
 ![access time stretch feature](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** In the Time Stretch window, increase the default value of "Stretch Factor." Then click "OK," and this will slow down your clip.
 
@@ -590,13 +590,6 @@ Once you have enabled this option, navigate towards the timeline toolbar. Search
 
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
 
 This part of the article will highlight some of the prominent video editing features of Filmora. The uniqueness of these features lies in their AI-backed algorithms. You can give directions according to your video, and AI will operate accordingly. Here are some of its video editing features that you’ll come across upon entering:
@@ -616,6 +609,13 @@ Filmora offers multiple mask options to infuse effects and filters to specific p
 #### 4\. [AI Thumbnail Creator](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Thumbnails increase video views by evoking the audience's interest in seeing a video. In Filmora, you can employ the AI Thumbnail creator to auto-create thumbnails. It analyzes the best frame out of your video and chooses it as a thumbnail. You can further apply many templates to this thumbnail according to context.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -639,13 +639,6 @@ The software has undergone multiple updates since its creation. With each versio
 * **Masking:** Many video editors offer masking options, but a few offer precision. Precision is very important during masking, and After Effects is a master of that. Along with different masking options, it offers custom settings to bring accuracy.
 * **Timeline Editing:** To see how professional software is, see if it has a timeline panel. Timeline editing is one of the functions that bring accuracy and professionalism. You can cut, align, apply effects, transitions, and much more on it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: A Guide to Slow Down Video in Adobe After Effects During Editing
 
 Upon learning about After Effects and its functionalities, let’s move forward. This section highlights the step-by-step procedure of creating a video slow mo. This is a quick and simple method to slow down a video using After Effects. Keep reading the below section for a seamless **slow-down clip After Effects**:
@@ -661,6 +654,13 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
 
 ![look for pixel motion](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Alternative: Slowing Down Video in Wondershare Filmora with Clarity
 
@@ -765,17 +765,20 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-innovative-snapchat-strategies-the-ultimate-list/"><u>[New] 2024 Approved Innovative Snapchat Strategies The Ultimate List</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-swift-clearing-of-tiktok-imprints-on-mobile-devices/"><u>[New] In 2024, Swift Clearing of TikTok Imprints on Mobile Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-transform-your-channel-with-effective-youtube-link-protocols/"><u>[New] Transform Your Channel with Effective YouTube Link Protocols</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-ways-to-add-meme-text-to-videos/"><u>2024 Approved Best Ways to Add Meme Text to Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the-a/"><u>2024 Approved Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/access-chatgpt-anywhere-your-mobile-guide-unveiled/"><u>Access ChatGPT Anywhere: Your Mobile Guide Unveiled!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-a56s-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo A56s 5G Phone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-vintage-film-effect-1920s/"><u>How to Create Vintage Film Effect 1920S</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora/"><u>How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-huawei-nova-y91-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Huawei Nova Y91 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-create-the-night-to-day-effect-video/"><u>New 2024 Approved How to Create the Night-to-Day Effect Video</u></a></li>
-<li><a href="https://article-helps.techidaily.com/troubleshooting-division-2-loading-issues-top-fixes/"><u>Troubleshooting Division 2 Loading Issues - Top Fixes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-crafting-captivating-stories-on-fb-a-comprehensive-guide-to-bio-crafting/"><u>[New] 2024 Approved Crafting Captivating Stories on FB A Comprehensive Guide to Bio Crafting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-creating-high-impact-yt-cover-images/"><u>[Updated] 2024 Approved Creating High-Impact YT Cover Images</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-ultimate-guide-to-making-engaging-youtube-video-thumbnails-with-phones/"><u>[Updated] 2024 Approved The Ultimate Guide to Making Engaging YouTube Video Thumbnails with Phones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unlock-the-art-of-recording-all-your-hulu-content-for-2024/"><u>[Updated] Unlock the Art of Recording All Your Hulu Content for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-webcam-tricks-for-smooth-video-on-hp-devices/"><u>[Updated] Webcam Tricks for Smooth Video on HP Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discovering-potential-an-expert-review-of-ion-air-pro-3/"><u>2024 Approved Discovering Potential An Expert Review of ION Air Pro 3</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-ways-to-blur-zoom-background-for-free-for-2024/"><u>Best Ways to Blur Zoom Background for Free for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-remove-background-from-a-video-in-premier-pro-for-2024/"><u>How to Remove Background From a Video in Premier Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-create-a-motion-blur-effect-in-your-videos-read-this-well-described-guide-to-learn-how-to-add-motion-blur-on-capcut-on-iphone-and-and/"><u>In 2024, Do You Want to Create a Motion Blur Effect in Your Videos? Read This Well-Described Guide to Learn How to Add Motion Blur on CapCut on iPhone and Android Devices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>In 2024, How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-personalized-/"><u>In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/modern-warfare-and-warzone-crash-fix-overcoming-fatal-developer-errors/"><u>Modern Warfare & Warzone Crash Fix - Overcoming Fatal Developer Errors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>New In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
+<li><a href="https://media-tips.techidaily.com/no-hacks-required-a-comprehensive-tutorial-on-iphone-screen-recording/"><u>No Hacks Required: A Comprehensive Tutorial on iPhone Screen Recording</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated A Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
 </ul></div>
 

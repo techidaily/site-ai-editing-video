@@ -1,7 +1,7 @@
 ---
 title: Updated Guide To Cropping and Combining Content in Wondershare Filmora Latest for 2024
-date: 2024-10-17T16:50:44.217Z
-updated: 2024-10-20T17:09:44.674Z
+date: 2024-10-23T11:43:24.898Z
+updated: 2024-10-26T02:45:43.109Z
 tags: 
   - ai
   - animation videos
@@ -23,19 +23,19 @@ The editing process changes the whole narrative of a video by adding more depth 
 
 Merging and trimming videos is an editing technique that offers many benefits. Here's how these actions can help you in so many ways. Find out how it helps the users when they merge or **trim a video:**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Trimming Videos
 
 * **Trimming** allows users to remove unwanted portions of a video. You can eliminate mistakes, irrelevant footage, or unnecessary pauses in the video. It also helps streamline the content and improve its overall quality.
 * It can help adjust the pacing of a video by removing or shortening sections that may be too slow or lengthy. This ensures a more engaging and dynamic viewing experience.
 * By trimming, you can select the best moments from a longer video. You can also create highlight reels that showcase the most important or exciting parts.
 * Many social media platforms have specific time limitations for videos. It allows you to meet these requirements and share their content without compromising its essence.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Merging Videos
 
@@ -150,13 +150,6 @@ When done with the cropping adjustments, click "Apply." This will save the chang
 
 ![add file to trim and export](https://images.wondershare.com/filmora/article-images/2023/cropping-and-combining-content-in-filmora-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Manual and Automated Techniques of Merging Content on Wondershare Filmora
 
 Wondershare Filmora is an editing platform that makes editing simple for everyone. If you're an enthusiast looking to [learn basics like **merging** videos](https://www.youtube.com/watch?v=FBtxlvjhvV8) and **cropping YouTube videos**, you're at the right place. In the part below, you will learn two methods to merge video in Filmora.
@@ -180,13 +173,6 @@ To merge two or more video clips using Wondershare Filmora, start by launching t
 Proceed to drag and drop each video clip, one by one, onto the timeline. Ensure that you place each clip layer right next to each other in the desired merging order.
 
 ![set multiple clips on timeline](https://images.wondershare.com/filmora/article-images/2023/cropping-and-combining-content-in-filmora-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3Adjust and Export
 
@@ -236,6 +222,13 @@ Besides all this, the tool offers more than you're expectations. It exists for p
 
 You're in luck if you want to learn about **trimming** and cropping videos using Wondershare Filmora. This portion will let you know **how to crop a video** and trim parts of it using this tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Filmora Tutorial - Basic Editing in Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -265,6 +258,13 @@ Crop the video by moving the edges accordingly using your mouse. Click and drag 
 When done with the cropping adjustments, click "Apply." This will save the changes, and your video will be cropped based on your preferences. Lastly, make sure to save your file by selecting the "Export" option.
 
 ![export crop video](https://images.wondershare.com/filmora/article-images/2023/cropping-and-combining-content-in-filmora-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Trimming Methods and Guide
 
@@ -344,13 +344,6 @@ Proceed to drag and drop each video clip, one by one, onto the timeline. Ensure 
 
 ![set multiple clips on timeline](https://images.wondershare.com/filmora/article-images/2023/cropping-and-combining-content-in-filmora-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3Adjust and Export
 
 Adjust the timeframe of your videos, if needed, by trimming or extending them on the timeline. Once you are satisfied with the arrangement, proceed to export the project. By exporting, your multiple video clips will be merged into a single video file.
@@ -376,6 +369,13 @@ Within the new window, locate the "Merge" option and click on it. Select the vid
 After your video clips have been successfully merged, it's time to export the final result. In the same window, find the "Export" option and click on it. This will export the merged file directly to the editing window of Wondershare Filmora.
 
 ![export final merged video](https://images.wondershare.com/filmora/article-images/2023/cropping-and-combining-content-in-filmora-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -426,13 +426,6 @@ Now that you know the necessary resources, the following are the **steps to crea
 Step1 Launch the[Photoshop](https://www.adobe.com/products/photoshop.html) program on your laptop/desktop and click **“Create New”** on the software dashboard. Next, select the page size, such as **“letter,”** and click **“Open.”**
 
 ![click create new](https://images.wondershare.com/filmora/article-images/2023/01/creating-new-document-in-photoshop-to-use-screen-print-effect.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now, click the **“File”** option in the top toolbar, and from the drop-down menu, select **“Open.”** Next, choose the image you want to apply the screen print effect by browsing to its location on your computer.
 
@@ -503,6 +496,19 @@ Live streaming is a streaming media simultaneously recorded and broadcast in rea
 
 ![click create youtube channel](https://images.wondershare.com/filmora/article-images/2022/07/click-create-youtube-channel.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Next is you’ll see a drop-down box, choose Go Live.
 
 ![choose go live youtube](https://images.wondershare.com/filmora/article-images/2022/07/choose-go-live-youtube.jpg)
@@ -514,13 +520,6 @@ Live streaming is a streaming media simultaneously recorded and broadcast in rea
 * I chose the second one since we’re not going on live at this very moment. As you can see in the image below. There you have options to choose from. Whether to use the built-in webcam of your laptop or the computer you’re using or you can use a personal computer screen recorder like OBS Studio (Open Broadcaster Software). I already break down the whereabouts of this particular screen recorder on my previous article. But, let me just discuss you a little bit, maybe it’ll be helpful if you want to go on live with a more powerful and engaging live streaming.
 
 ![select camera device youtube live](https://images.wondershare.com/filmora/article-images/2022/07/select-camera-device-youtube-live.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is OBS Studio?
 
@@ -541,19 +540,6 @@ Next step, you just need to click the “Allow” button and you’re ready to t
 * I changed the Title and the Description as an example and the thumbnail as well. You can edit it when you continue to scroll down. You'll choose what kind of category it fits in. If you want, you can also add it to your Playlist and you’ll choose your audience, if it’s suitable for kids or not.
 
 ![create stream details](https://images.wondershare.com/filmora/article-images/2022/07/create-stream-details.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * And since my YouTube Channel was already monetized, I have the options to monetize the live streaming too.
 
@@ -632,6 +618,13 @@ Applying LUT doesn't take time, and it instantly improves color grading. This wa
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Add LUTs in Premiere Pro?
 
 LUTs are great video editing tools with extended color grading and schemas. Premiere Pro is a commonly consumed video editing tool with extensive features. Being a new user, you might not be aware of the functionality of LUTs in the platform. To add LUTs to Premiere Pro, you need to follow simple steps:
@@ -691,10 +684,16 @@ Videos are close to all of us, as they store our important visual data. This is 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -706,6 +705,13 @@ Videos are close to all of us, as they store our important visual data. This is 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Add LUTs in Premiere Pro?
 
@@ -783,17 +789,22 @@ Videos are close to all of us, as they store our important visual data. This is 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-cost-efficiency-in-yt-promotional-campaigns/"><u>[Updated] 2024 Approved Cost Efficiency in YT Promotional Campaigns</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-real-time-skype-monitoring-with-live-obs-integration/"><u>[Updated] 2024 Approved Real-Time Skype Monitoring with Live OBS Integration</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-intersection-of-reality-and-illusion-through-ar/"><u>[Updated] 2024 Approved The Intersection of Reality and Illusion Through AR</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-win-11-guide-to-storing-mov-files-effectively/"><u>[Updated] In 2024, Win 11 Guide to Storing .mov Files Effectively</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-ways-to-blur-zoom-background-for-free-for-2024/"><u>Best Ways to Blur Zoom Background for Free for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/exploring-browser-hijacking-threats-and-solutions-using-malwarefox/"><u>Exploring Browser Hijacking Threats and Solutions Using MalwareFox</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-personalized-/"><u>In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-cross-platform-80211n-driver-pack-for-windows-download-today/"><u>Latest Cross-Platform 802.11N Driver Pack for Windows: Download Today</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>New In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-a-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated A Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-introduction-to-luts-their-overview-and-benefits/"><u>Updated Introduction to LUTs Their Overview and Benefits</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-100-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-choice-10-budget-friendly-caption-tools/"><u>[New] 2024 Approved Essential Choice 10 Budget-Friendly Caption Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-android-lens-mastery-techniques-and-apps/"><u>[Updated] Android Lens Mastery Techniques & Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pro-tips-top-11-inexpensive-youtube-naming-tools/"><u>[Updated] Pro Tips Top 11 Inexpensive YouTube Naming Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-seek-a-guide-to-add-motion-in-blender-this-article-explains-the-blender-motion-blur-effect-in-detail-and-helps-you-master-it/"><u>2024 Approved Do You Seek a Guide to Add Motion in Blender? This Article Explains the Blender Motion Blur Effect in Detail and Helps You Master It</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hues-in-action-implementing-color-schemes-properly/"><u>2024 Approved Hues in Action Implementing Color Schemes Properly</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-in-this-article-you-will-learn-easy-ways-to-edit-videos-using-a-mouse-in-wondershare-filmora-you-can-do-video-editing-without-a-keyboard-after/"><u>2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comprehensive-oura-ring-gen-3-assessment-unlock-advanced-health-metrics-with-ease/"><u>Comprehensive Oura Ring Gen 3 Assessment: Unlock Advanced Health Metrics with Ease</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminate-rocket-league-stutters-a-comprehensive-fix-guide/"><u>Eliminate Rocket League Stutters: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-random-letter-reveal-intro/"><u>In 2024, How to Make Random Letter Reveal Intro?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713950874876-looking-for-the-simple-steps-to-add-transition-effects-in-your-video-we-will-illustrate-how-to-add-transition-in-filmora-and-mention-tips-and-tricks-for-vid/"><u>Looking for the Simple Steps to Add Transition Effects in Your Video? We Will Illustrate How to Add Transition in Filmora and Mention Tips and Tricks for Video Transition Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamlining-zoom-sessions-through-effective-recording-for-2024/"><u>Streamlining Zoom Sessions Through Effective Recording for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-a-video-on-vimeo/"><u>Updated 2024 Approved How to Loop a Video on Vimeo?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-way-to-color-grading-and-color-correction-in-filmora-for-2024/"><u>Updated Best Way To Color Grading & Color Correction in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-frame-rate-for-4k-video/"><u>Updated In 2024, Best Frame Rate for 4K Video</u></a></li>
 </ul></div>
 

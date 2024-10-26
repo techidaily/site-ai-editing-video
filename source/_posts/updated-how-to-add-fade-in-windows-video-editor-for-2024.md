@@ -1,7 +1,7 @@
 ---
 title: Updated How To Add Fade In Windows Video Editor for 2024
-date: 2024-10-14T16:02:02.141Z
-updated: 2024-10-20T16:38:05.376Z
+date: 2024-10-23T23:18:16.910Z
+updated: 2024-10-25T21:44:34.530Z
 tags: 
   - ai
   - animation videos
@@ -99,13 +99,6 @@ In the windows video editor, there is a panel for basic video editing tools. But
 
 As stated earlier, there is no option for fading in windows video editor, hence, even the text cannot be faded in or out. There is a panel for basic video editing tools in the Windows video editor. However, there is no ability for a video or text to fade in and out. There is no "transition" option in the built-in Windows programme. Microsoft considers these transitions to be unnecessary, so it simply switches from one video clip to the next without making any other effects.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. How do I fade out music in Windows video editor?
 
 There is no direct command for making the music or sound fade out but you can do it manually, that is, in the video where ever you want the music or sound to fade out is that you can trim that clip out and then divide into two more clips. You can take the first of the two clips and lower its sound and in the next clip, you can mute the clip, note: the clips must be kept small, otherwise it will sound quite weird. If the respective lengths of the clips are kept quite small, only then will the fade feel natural. Due to unavailability of a direct command, fading the music out can be a very taxing job.
@@ -141,6 +134,13 @@ The first step in this process is to learn how to use Filmora to begin fading yo
 ![use fade in or out effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** Playing the file inside the timeline to the Filmora preview layout will also allow you to listen to the audio and video respectively.
 
@@ -225,6 +225,13 @@ Below is a list of requirements any electronic device should fulfill before bein
 * A 10-bit color depth that allows for 1,024 shades of red, yellow, and blue.
 * A high dynamic range for color accuracy.
 * An excellent combination of black level and peak brightness. The peak brightness should not exceed 1,000 nits, and the black level shouldn't go below 0.5 nits. Alternatively, the peak brightness shouldn't exceed 540 nits; neither should the black level plummet below 0.0005 nits.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Frame Rate for 4K Video
 
@@ -314,9 +321,23 @@ Step1 Launch the platform on your device and select the "File" tab. After a drop
 
 ![filmora project settings](https://images.wondershare.com/filmora/article-images/project-settings-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 In the dialogue box, select "Frame Rate" and choose the frame rate you think is ideal for your video.
 
 ![export video frame rate](https://images.wondershare.com/filmora/guide/video-and-audio-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Click "OK" and edit the videos as you like.
 
@@ -386,21 +407,7 @@ Step3Scroll down and come to Chat Font Scaling and move the slider to the right 
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-appearance-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 There is Reset option at the bottom to cancel out the changes made as far as zoom effect goes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -424,6 +431,13 @@ Step3On the right section, scroll down, and you will find three options for zoom
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-nitro-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4According to your requirements, you can move the slider to the right to zoom in on Discord. You can also press Ctrl and “+” keys together to zoom in. Press Ctrl and “-“ keys together to zoom out. If you want to reset the changes, press Ctrl and O keys together.
 
 Step5Once you are satisfied with the level of zooming, press Esc key on your keyboard to save the changes.
@@ -443,13 +457,6 @@ Step3From the drop-down menu, go to Zoom option. Click on “+” icon to zoom i
 Alternatively, you can simply launch Discord on any browser and press Ctrl and “+” or “-“ keys together for zooming in and out. You get to see by how much percentage the browser is zooming in and zooming out. If you want to reset, bring the percentage to 100%.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/zoom-discord-screen-online.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Zoom Discord on Mobile
 
@@ -523,32 +530,12 @@ First conceptualized in 1969, Ray Tracing is a common technique used to create c
 
 Despite the challenges, Ray Tracing is becoming increasingly popular due to computer hardware and software advances. And as technology continues to improve, we can expect to see even more realistic images in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Advantages
 
 Here're some advantages of Ray Tracing:
 
 1. **Realistic Rendering:** Ray Tracing can create more realistic images than those created with traditional rendering techniques. This is because it calculates the light path more accurately, resulting in more realistic shadows, refraction, and reflections.
 2. **Anti-aliasing And Depth Of Field:** Ray Tracing can help you quickly get the anti-aliasing and depth of field effects.
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Disadvantages
 
@@ -587,6 +574,13 @@ Though as mentioned above, the Ray Tracing feature was removed in 2020, its adva
 ## Part 5\. Ray-Traced 3D Settings In Adobe After Effects
 
 The release of the **Ray-Traced 3D** setting in After Effects CS6 made it easier than ever to create stunning 3D images and animations. Let’s focus on how to use it in After Effects appropriately.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How To Set It
 
@@ -639,13 +633,6 @@ Hopefully, your queries have been resolved, and you now fully understand the Ray
 2. [When To Use It](#part5-2)  
 3. [Ray Traced 3D After Effects Plugin Download](#part5-3)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. What Is Ray Tracing?
 
 Ray Tracing is a powerful rendering technique that can create incredibly realistic lighting and shadows. By tracing the path of light, algorithms can simulate the way that light interacts with virtual objects in a computer-generated world.
@@ -656,16 +643,16 @@ In simple words, Ray Tracing is a computer graphics technique for generating rea
 
 ![ray tracing technology](https://images.wondershare.com/filmora/article-images/2022/07/ray-tracing-technology.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Overview Of Ray Tracing
 
 In this part, we will explain what Ray Tracing is from the following sides and for your better understanding.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### History
 
@@ -715,6 +702,19 @@ Though as mentioned above, the Ray Tracing feature was removed in 2020, its adva
 ### How Does It Work
 
 3D Ray Tracing in After Effects works by giving your text and paths more depth. Extruded layers have a z-axis depth, making them three-dimensional. This extra dimension is viewable from all angles, even when the layer is rotated. In contrast, non-extruded layers have zero depth on the z-axis. So, they will disappear if you try to rotate them 90 degrees on the x or y-axis.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5\. Ray-Traced 3D Settings In Adobe After Effects
 
@@ -779,22 +779,20 @@ Hopefully, your queries have been resolved, and you now fully understand the Ray
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-master-the-art-of-browsing-and-playing-fb-videos-via-appletv-for-2024/"><u>[New] Master the Art of Browsing and Playing FB Videos via AppleTV for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-maximizing-youtube-shorts-income-strategies/"><u>[Updated] 2024 Approved Maximizing YouTube Shorts Income Strategies</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-digital-self-portrait-designing-your-animated-profile/"><u>[Updated] Digital Self-Portrait Designing Your Animated Profile</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-masters-of-illusion-top-vr-producers/"><u>[Updated] Masters of Illusion Top VR Producers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-joining-google-meet-from-computerphone/"><u>2024 Approved Joining Google Meet From Computer/Phone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/configuring-zoom-step-by-step-video-conference-guide-for-2024/"><u>Configuring Zoom Step-by-Step Video Conference Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-master-movie-making-a-step-by-step-guide-to-pro-level-videos/"><u>New Master Movie Making A Step-by-Step Guide to Pro-Level Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-100-on-alienware-aw322nqf-immerse-in-ultra-hd-4k-gaming-with-oled-display-and-rapid-240hz-action/"><u>Save $100 on Alienware AW322nQF - Immerse in Ultra HD 4K Gaming with OLED Display and Rapid 240Hz Action</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/shop-now-exclusive-deal-on-powerband-for-apple-watches-save-big-and-boost-functionality-for-only-40-insights/"><u>Shop Now: Exclusive Deal on PowerBand for Apple Watches! Save Big and Boost Functionality for Only $40 | Insights</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-overlay-videos-in-premiere-pro/"><u>Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-exploring-the-influence-of-luts-on-digital-imagery-quality/"><u>[New] 2024 Approved Exploring the Influence of LUTs on Digital Imagery Quality</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ultimate-microphone-choices-for-filmmakers/"><u>[New] Ultimate Microphone Choices for Filmmakers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-fcp-downloading-what-you-need/"><u>[Updated] Free FCP Downloading - What You Need</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-10-free-graphics-websites-a-compreran-analysis/"><u>[Updated] Top 10 FREE Graphics Websites A Compreran Analysis</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-100plus-best-tiktok-captions-enhance-your-content/"><u>2024 Approved 100+ Best TikTok Captions Enhance Your Content</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-windows-movie-maker-save-mp4-file/"><u>2024 Approved How Windows Movie Maker Save MP4 File</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-reverse-playlist-routine-tail-end-dominance-on-yt/"><u>2024 Approved The Reverse Playlist Routine Tail-End Dominance on YT</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-infinix-hot-40-pro-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-how-to-create-luts-with-luts-generator/"><u>New 2024 Approved Learning How to Create LUTs with LUTs Generator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723004465148-overcoming-pc-instability-issues-with-updated-lunaclient-crashes-no-more/"><u>Overcoming PC Instability Issues with Updated LunaClient - Crashes No More!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-is-windows-movie-maker-still-available/"><u>Updated Is Windows Movie Maker Still Available?</u></a></li>
 </ul></div>
 

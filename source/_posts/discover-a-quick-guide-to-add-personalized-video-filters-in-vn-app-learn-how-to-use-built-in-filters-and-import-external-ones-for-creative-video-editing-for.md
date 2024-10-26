@@ -1,7 +1,7 @@
 ---
 title: Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024
-date: 2024-10-16T16:18:05.626Z
-updated: 2024-10-20T16:03:51.422Z
+date: 2024-10-20T03:51:28.147Z
+updated: 2024-10-25T23:49:17.521Z
 tags: 
   - ai
   - animation videos
@@ -40,13 +40,6 @@ Tap on it and watch your video transform instantly. Not sure about your pick? No
 Okay, young director, you've chosen your filter. But what if you want to tweak it just a bit? VN's got your back.
 
 Once a filter is applied, you'll notice sliders or dials – these are your video filter editor tools. Play around with them! You can adjust the filter's intensity, making it as subtle or dramatic as you like. Tweak the brightness, contrast, and saturation until your video looks like you envisioned.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Download External Filter Installation Package
 
@@ -108,6 +101,19 @@ Tap on it and watch your video transform instantly. Not sure about your pick? No
 Okay, young director, you've chosen your filter. But what if you want to tweak it just a bit? VN's got your back.
 
 Once a filter is applied, you'll notice sliders or dials – these are your video filter editor tools. Play around with them! You can adjust the filter's intensity, making it as subtle or dramatic as you like. Tweak the brightness, contrast, and saturation until your video looks like you envisioned.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Download External Filter Installation Package
 
@@ -208,16 +214,16 @@ With packages starting at just $49.99 per year to $79.99 perpetual, you can avai
 
 So, what are you waiting for? Download Filmora now. And don't worry; we have got you covered with some great tips to begin your Filmora journey.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Some Stunning Features in Filmora
 
 Although Filmora is easy to use, and you can explore it on your own, it never hurts to know a few features before you dive in.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1.Split Screen Presets
 
@@ -246,6 +252,13 @@ Choose the preset that you need. You can also preview the layout.
 Add the chosen preset to the timeline track.
 
 ![adding split screen to timeline](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4Add videos to the layout
 
@@ -341,6 +354,13 @@ To separate the audio, right-click on the video and choose "Detach Audio." The a
 
 ![detach the audio](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5.Blur Effects
 
 Next up, we have the feature of blurring your video or the background in your video. To do so, follow these simple steps.
@@ -370,10 +390,10 @@ Add the chosen effect to your video. Then adjust its position accordingly. Doubl
 These are some of the most amazing features that we have listed here. FYI, this is just the brink of the iceberg. There is a whole lot more that Filmora has to offer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final Words
@@ -448,6 +468,13 @@ Import media from your library or use stock media to add videos to your layout. 
 
 ![add videos to the layout](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step5Edit the split screen
 
 Once you have all the videos added to the layout, double-click on the split screen in the timeline panel. The edit options will appear on the left.
@@ -455,13 +482,6 @@ Once you have all the videos added to the layout, double-click on the split scre
 ![edit the split screen](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-6.jpg)
 
 Choose how you want to edit your video and then save it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.Filters and LUTs
 
@@ -543,13 +563,6 @@ To separate the audio, right-click on the video and choose "Detach Audio." The a
 
 ![detach the audio](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5.Blur Effects
 
 Next up, we have the feature of blurring your video or the background in your video. To do so, follow these simple steps.
@@ -598,13 +611,6 @@ Moreover, you can add adjustment layers on After Effects to make your video edit
 
 ![after effects featured image](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: What is the Adjustment Layer in After Effects?
 
 The adjustment layer can save you time and energy from adding effects to multiple clips individually. It does not alter the composition of your video clip until you start applying the effects. Once you add the effect in the adjustment layer, it will replace the effect on all the layers under it.
@@ -614,13 +620,6 @@ You can add the adjustment layers in your timeline for creating visual effects s
 ![adjustment layer in after effects](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-2.jpg)
 
 Moreover, always keep in mind that anything placed under the adjustment layer will have a direct effect. In contrast, anything above the adjustment layer won’t get affected. Hence, you can use adjustment layers in After Effects for your convenience to apply all kinds of effects from color to distortion.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Add Adjustment Layers in After Effects?
 
@@ -666,6 +665,13 @@ Moreover, you can also add blur and matte effects for more modifications. You ca
 
 ![select the perspective effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Add Blur Effect
 
 There are various blur effects, such as Gaussian blur, motion blur, radial blur, etc. You can add any of the blur effects in your video clip to craft a smoother look. In After Effects, you can find a variety of blur effects that can help you change your video's perspective. To use an adjustment layer for adding the blur effect, here are the accurate steps:
@@ -685,13 +691,6 @@ Step1 After uploading the video on After Effects, go to the “Layer” tab and 
 Step2 Once you have found the suitable color correction effect, apply it to the adjustment layer. You can always change the settings of the applied effect from the left panel.
 
 ![apply the color correction](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -740,6 +739,19 @@ Step1 After uploading the video on After Effects, go to the “Layer” tab and 
 Step2 Once you have found the suitable color correction effect, apply it to the adjustment layer. You can always change the settings of the applied effect from the left panel.
 
 ![apply the color correction](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-8.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -847,18 +859,24 @@ If you are using Adobe Premiere Pro to edit your videos, adding filters to your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-clear-visuals-ahead-mastering-your-logitech-webcams-capabilities-for-2024/"><u>[New] Clear Visuals Ahead Mastering Your Logitech Webcam's Capabilities for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-achieve-professional-quality-on-yt-with-simple-blurring-for-2024/"><u>[Updated] Achieve Professional Quality on YT with Simple Blurring for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-discovering-the-superiority-of-apples-m1-macbooks-for-2024/"><u>[Updated] Discovering the Superiority of Apple's M1 MacBooks for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-reviving-obs-sound-capture-steps-for-2024/"><u>[Updated] Reviving OBS Sound Capture Steps for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-tutorial-smoothly-embedding-urls-on-instagram-feed/"><u>2024 Approved Tutorial Smoothly Embedding URLs on Instagram Feed</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/benefits-of-live-streaming-on-youtube-for-2024/"><u>Benefits of Live Streaming on YouTube for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-ninja-jump-effect-with-filmora/"><u>In 2024, How To Make Ninja Jump Effect with Filmora</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-ultimate-vivocut-guide-for-enhanced-video-creation/"><u>In 2024, Ultimate VivoCut Guide for Enhanced Video Creation</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/metodos-faciles-para-realizar-una-copia-segura-del-iphone-a-windows-1110-tus-opciones-son-cuatro/"><u>Métodos Fáciles Para Realizar Una Copia Segura Del iPhone a Windows 11/10: Tus Opciones Son Cuatro!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-different-ways-to-crop-tiktok-video-in-high-quality/"><u>New 2024 Approved Different Ways to Crop TikTok Video in High-Quality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-want-to-create-a-stunning-intro-video-on-your-smartphone-legend-intro-maker-is-a-popular-choice-learn-the-steps-to-design-intro-video-legend-intro-maker/"><u>New Want to Create a Stunning Intro Video on Your Smartphone? Legend Intro Maker Is a Popular Choice. Learn the Steps to Design Intro Video Legend Intro Maker</u></a></li>
-<li><a href="https://win-hot.techidaily.com/the-best-three-methods-of-uploading-your-server-data-safely-and-simply-into-the-cloud/"><u>The Best Three Methods of Uploading Your Server Data Safely and Simply Into the Cloud</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-apply-gaussian-blur-effect-to-videos-in-premiere-pro/"><u>Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-enhancing-communication-strategies-for-effective-call-logging/"><u>[New] In 2024, Enhancing Communication Strategies for Effective Call Logging</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-perfect-color-accuracy-in-canon-imagery-with-free-and-paid-lut-combinations/"><u>[New] Perfect Color Accuracy in Canon Imagery with Free & Paid LUT Combinations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-compelling-top-10-pc-cameras-for-recording-for-2024/"><u>[Updated] Compelling Top 10 PC Cameras for Recording for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-tech-knowledge-at-your-fingertips-toms-hardware-corner/"><u>Comprehensive Tech Knowledge at Your Fingertips - Tom's Hardware Corner</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-make-your-background-disappear-and-replace-with-an-attractive-background-here-is-how-to-add-a-green-screen-to-zoom-app-and-add-any-virtual-ba/"><u>Do You Want to Make Your Background Disappear and Replace with an Attractive Background? Here Is How to Add a Green Screen to Zoom App and Add Any Virtual Background of Your Choice</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ifinds-step-by-step-solution-for-retrieving-deleted-drives-in-windows-1011-using-ifind-data-recovery-software/"><u>IFinD's Step-by-Step Solution for Retrieving Deleted Drives in Windows 10/11 Using IFind Data Recovery Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-be-aware-of-vhss-meaning-there-is-nothing-to-be-worried-about-because-we-will-guide-you-in-this-article/"><u>In 2024, Do You Want to Be Aware of VHSs Meaning? There Is Nothing to Be Worried About because We Will Guide You in This Article</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>New 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-film-a-slow-motion-video/"><u>New 2024 Approved How To Film a Slow Motion Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review-for-2024/"><u>New VSDC Free Video Editor Review for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-latency-in-naraka-bladestorm/"><u>Troubleshooting Tips: Resolving Latency in Naraka Bladestorm</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-gaming-secrets-discover-these-6-awesome-chatgpt-games/"><u>Unlock Gaming Secrets: Discover These 6 Awesome ChatGPT Games</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-ways-to-make-time-lapse-video-on-macbook/"><u>Updated 3 Ways to Make Time-Lapse Video on MacBook</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-3-best-effects-to-appear-on-camera/"><u>Updated In 2024, 3 Best Effects to Appear on Camera</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>Updated Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
 </ul></div>
 

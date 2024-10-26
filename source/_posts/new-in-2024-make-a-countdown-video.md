@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Make A Countdown Video
-date: 2024-10-14T16:44:57.390Z
-updated: 2024-10-20T16:32:00.325Z
+date: 2024-10-20T04:52:56.563Z
+updated: 2024-10-26T02:11:27.580Z
 tags: 
   - ai
   - animation videos
@@ -54,6 +54,19 @@ Timecode:
 Displays the current time as timecode in the time rulers of the Timeline, Layer, and Footage panels. You have the option of utilizing the timecode from the source media (Use Media Source) or beginning at 00:00:00:00\. To use timecode rather than frames, select the Timecode option from the menu. It is important to take note that there are no options available for changing the frame rate or whether or not to delete frames, as the source timecode is recognized and used instead.
 
 ![customize timecode countdown video](https://images.wondershare.com/filmora/article-images/2022/11/customize-timecode-countdown-video.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Source timecode
 
@@ -156,6 +169,13 @@ Step2 Now add the keyframe to the position where you want to start and end the t
 
 ![select the ease-out option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Mask
 
 By using masks in Premiere Pro, you can efficiently blur, highlight, or add an effect to a specific area of your video clip. With this tool, you can draw different mask shapes, such as ellipses, rectangles, etc. Thus, it’s a great way to edit any particular part of the video clip effortlessly. Here are the simple steps to add masks to the video clips using the adjustment layer:
@@ -187,13 +207,6 @@ Are you using Premiere Pro frequently? Adobe Premiere Pro is considered advanced
 If you want to be a professional video editor, you must know the basic techniques of executing video editing. In Premiere Pro, there are various options and features that can help you in enhancing your productivity. For instance, the use of adjustment layers in video editing can make a huge difference. By reading this article, you can come to know about the **Premiere Pro adjustment layer** efficiently.
 
 ![premiere pro featured image](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: What is Adjustment Layer in Premiere Pro?
 
@@ -233,20 +246,14 @@ Step1 After uploading the video clip in Premiere Pro, create a new adjustment la
 
 ![select the film convert nitrate option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-6.jpg)
 
-Step2 Apply this effect to the adjustment layer and choose your camera to match the color profile. Afterward, you can adjust the saturation, exposure filmstock, and curves according to your choice. You can also increase the vibrancy and hue saturation curves for more enhancement. You can also navigate to the basic correction section to modify the contrast value accordingly.
-
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Step2 Apply this effect to the adjustment layer and choose your camera to match the color profile. Afterward, you can adjust the saturation, exposure filmstock, and curves according to your choice. You can also increase the vibrancy and hue saturation curves for more enhancement. You can also navigate to the basic correction section to modify the contrast value accordingly.
 
 ### 2\. Transition
 
@@ -420,13 +427,6 @@ Delete the clip on Track 1\. Then, move the clip from Track 2 to Track 1\. Now, 
 
 ![import clip to filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 8
 
 Go to **Effects** and find the **Blur** effect. Drag the Blur effect to the clip on Track 2.
@@ -489,6 +489,19 @@ Go to the **Effects** tab and apply the “**Pixelated Edges**” effect to the 
 
 ![add effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/effect.png)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5
 
 Double-click on the Clip in Track 1\. Go to **Video → Effects.** Here, change the color to anything you want. This will determine what color your glowing edge effect will be. When you’re done choosing a color, click **OK.**
@@ -500,13 +513,6 @@ Step 6
 Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video → Basic.** Scroll down and change the **Blending Mode** to “**Difference**”. Click **OK** and **Export** the clip at a higher rate. Click on the blue Export button at the top center.
 
 ![change blending mode](https://images.wondershare.com/filmora/article-images/2023/01/difference.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 7
 
@@ -582,18 +588,18 @@ Double-click on the Clip in Track 1\. Go to **Video → Effects.** Here, change 
 
 ![glowing edge color](https://images.wondershare.com/filmora/article-images/2023/01/color.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 6
 
 Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video → Basic.** Scroll down and change the **Blending Mode** to “**Difference**”. Click **OK** and **Export** the clip at a higher rate. Click on the blue Export button at the top center.
 
 ![change blending mode](https://images.wondershare.com/filmora/article-images/2023/01/difference.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 7
 
@@ -671,6 +677,19 @@ Once you're happy, in the top right hand corner, hit Save Copy and that's it, th
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **An easier way to rotate videos in Google Photos**
 
 If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
@@ -689,6 +708,13 @@ For macOS 10.14 or later
 
 Here’s How to do it…
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Rotate video at any angle
 
 You can also rotate the video by using the **Transform** tab located at the top right corner.
@@ -701,13 +727,6 @@ You can also rotate the video by using the **Transform** tab located at the top 
 * Here you can move the rotate slider or directly enter the rotating value.
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You will notice that I have changed the rotation of my video from its original position to the rotated angle.
 
@@ -826,13 +845,6 @@ After you rotate the video at an angle you like. You can change the aspect ratio
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
 
 ## **Conclusion**
@@ -884,6 +896,13 @@ You can also rotate the video by using the **Transform** tab located at the top 
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You will notice that I have changed the rotation of my video from its original position to the rotated angle.
 
 You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
@@ -932,13 +951,6 @@ A good destiny is waiting for you.
 You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
 
@@ -1036,21 +1048,22 @@ A good destiny is waiting for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-achieving-professional-bokeh-on-mobile-phones/"><u>[New] 2024 Approved Achieving Professional Bokeh on Mobile Phones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-capture-share-and-record-with-the-best-mac-video-capture-tools/"><u>[New] 2024 Approved Capture, Share, and Record with the Best Mac Video Capture Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-banishing-the-blank-screen-from-youtube-videos-for-2024/"><u>[New] Banishing the Blank Screen From YouTube Videos for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-unveiling-the-secrets-to-producing-popular-youtube-shorts/"><u>2024 Approved Unveiling the Secrets to Producing Popular YouTube Shorts</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-top-3-free-mac-alternatives-to-vlc-media-player-install-today/"><u>Discover the Top 3 Free Mac Alternatives to VLC Media Player – Install Today!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-mix-fold-3-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Mix Fold 3.</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-xiaomi-redmi-note-12t-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Xiaomi Redmi Note 12T Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/transform-your-website-analytics-powered-by-the-expertise-of-cookiebot/"><u>Transform Your Website Analytics Powered by the Expertise of Cookiebot</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-gas-station-simulator-from-crashing-on-windows/"><u>Troubleshooting Guide: How to Stop 'Gas Station Simulator' From Crashing on Windows</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-overlay-videos-in-premiere-pro/"><u>Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-toontech-full-evaluation-and-how-to-guide-24/"><u>[New] ToonTech Full Evaluation & How-To Guide '24</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-100plus-best-tiktok-captions-enhance-your-content/"><u>2024 Approved 100+ Best TikTok Captions Enhance Your Content</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-realme-12plus-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Realme 12+ 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beginning-with-windows-10-sound-recording/"><u>Beginning with Windows 10 Sound Recording</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-pathfinder-wrath-of-the-righteeous-from-suddenly-crashing-issues-resolved/"><u>How to Stop Pathfinder: Wrath of the Righteeous From Suddenly Crashing - Issues Resolved</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-se-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone SE When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-how-to-create-luts-with-luts-generator/"><u>New 2024 Approved Learning How to Create LUTs with LUTs Generator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-problems-with-back-4-blood-on-windows-operating-systems/"><u>Overcoming Launch Problems with 'Back 4 Blood' On Windows Operating Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hots-of-sound-characters-short-musical-roles-for-2024/"><u>Snapshots of Sound Characters Short Musical Roles for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-swashbucklers-overcome-delayed-gameplay-in-sw-bf2/"><u>Swift Swashbucklers: Overcome Delayed Gameplay in SW BF2</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlock-youtubes-potential-essential-tips-and-techniques-for-optimal-titles/"><u>Unlock YouTube's Potential Essential Tips & Techniques for Optimal Titles</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-video-contents-that-convert-sales-for-2024/"><u>Updated How to Create Video Contents That Convert Sales for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora-in-2024/"><u>Updated How To Make a Video by Mouse in Filmora, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-is-windows-movie-maker-still-available/"><u>Updated Is Windows Movie Maker Still Available?</u></a></li>
 </ul></div>
 

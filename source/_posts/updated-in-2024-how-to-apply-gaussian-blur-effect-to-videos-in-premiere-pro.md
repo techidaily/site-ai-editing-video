@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?
-date: 2024-10-15T16:44:13.922Z
-updated: 2024-10-20T17:04:14.215Z
+date: 2024-10-22T03:38:22.165Z
+updated: 2024-10-25T16:09:32.458Z
 tags: 
   - ai
   - animation videos
@@ -28,6 +28,13 @@ You can apply the Gaussian Blur Effect if you want to soften an image or video. 
 ## Part 2: What Can the Gaussian Blur Be Used For?
 
 In the post-production of videos, many content creators and professionals use the Gaussian blur effect. You can add the Gaussian blur effect to your captured videos within a few clicks. To know about more benefits of the Gaussian blur effect, proceed to the following section:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Image Denoising
 
@@ -107,13 +114,6 @@ Being a professional, you should know the significance of various blur effects. 
 
 It also contains several kinds of trending effects that can be easily applied to your videos. Also, it does not destroy the original quality of your video. Hence, you should try Filmora, as it has a clean interface that can produce quality results.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to Create Gaussian Blur Effect Using Filmora
 
 Do you want to create Gaussian Blur Effect in your video easily? Read the instructions below for creating it with Filmora:
@@ -176,6 +176,13 @@ Montage movies are made up of a compilation of short yet powerful scenes put tog
 * A montage allows filmmakers to explore a theme using several sequential shots that can't be covered in a single shot.
 
 ## Learn To Use Montage With These Movies
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Rocky (1976)
 
@@ -293,18 +300,18 @@ Miles Teller plays Andrew Neiman, a promising young drummer who enrolls in a tou
 
 Whiplash (2014)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 9\. Gone Girl (2014)
 
 Gillian Flynn's eponymous novel is the basis for David Fincher's psychological crime drama. On their fifth wedding anniversary, Amy Elliott Dunne (Rosamund Pike) disappears, and Nicholas Dunne (Ben Affleck) becomes the prime suspect. Amy carefully crafts her new identity in this Montage as we learn she is alive. The Montage ends as Amy sets up her cabin and begins purchasing supplies. After hitting herself with a hammer, the sequence ends.
 
 Whiplash (2014)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 10\. Parasite (2019)
 
@@ -330,13 +337,6 @@ If you're thinking about using Montage, check out movies and trailers in the Act
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use LUTs Perfectly in Final Cut Pro
 
 Final Cut Pro is a powerful video editing software available for Mac OS. You can create professional-looking videos using this tool. To give your videos a more professional touch, you can use LUTs as well. It is a quick way to color grade and improve the feel of your media content. They are essentially a set of instructions that apply a particular color grading to your video.
@@ -356,20 +356,6 @@ This free LUT pack is a perfect choice to give your videos a cinematic look. It 
 
 ![free cinematic luts pack ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.[10 Free Vintage Color Presets for Final Cut Pro](https://www.shutterstock.com/blog/free-vintage-presets-final-cut-pro)
 
 10 Free Vintage Color Presets for Final Cut Pro is a great pack if you're looking for a vintage or retro feel. It has a warm, yellowish color grading that can give your videos a nostalgic look. This pack is ideal for footage shot in the 70s, 80s, or 90s. It highlights the muddiness and brown shades in your video to add a touch of authenticity to it.
@@ -381,6 +367,13 @@ This free LUT pack is a perfect choice to give your videos a cinematic look. It 
 Perfect Green Video LUT is a pack of 3 cinematic-style LUTs. This pack is ideal for travel or nature videos as it increases the green tone in your videos. It has a lush, green color grading that can make your videos look vibrant and lively. Additionally, this pack is effective for outdoor scenes as it improves your video's natural colors and makes it look more dynamic.
 
 ![perfect green video lut ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. [Cyberpunk Color Grades](https://motionarray.com/final-cut-pro-templates/cyberpunk-color-grades-818232/)
 
@@ -406,6 +399,13 @@ Open Final Cut Pro and import your video. Once the video is imported, click on t
 
 ![import video to final cut pro ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2
 
 Go to the “Effect Browser” and search for the LUT option from the search menu. After selecting it, you will get a “Custom LUT” layer. Select the custom LUT layer and drag and drop it onto your video clip. Then, click on the video clip and go to the “Inspector” window.
@@ -426,18 +426,18 @@ Click the plugin button once you've imported your video clip and choose RT Adjus
 
 ![access adjustment layer ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2
 
 An icon will appear once you've selected RT Adjustment Layer. Drag and drop this icon on top of your video clip.
 
 ![drop adjustment layer to timeline ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3
 
@@ -473,16 +473,16 @@ Furthermore, Wondershare Filmora offers options for color adjustments and enhanc
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Conclusion
 
@@ -512,6 +512,19 @@ Perfect Green Video LUT is a pack of 3 cinematic-style LUTs. This pack is ideal 
 
 ![perfect green video lut ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. [Cyberpunk Color Grades](https://motionarray.com/final-cut-pro-templates/cyberpunk-color-grades-818232/)
 
 Cyberpunk Color Grades is a pack of modern cyberpunk-style LUTs. It is a fantastic LUT pack if you're working on a music video or a creative project. It has a bold, colorful grading with high saturation that can make your video stand out. This LUT pack is perfect for scenes with many neon lights or bright backgrounds. Moreover, it adds an extra pop of color and makes your videos look more energetic.
@@ -595,13 +608,6 @@ Furthermore, Wondershare Filmora offers options for color adjustments and enhanc
 [Apply LUT on Videos](https://tools.techidaily.com/wondershare/filmora/download/) [Apply LUT on Videos](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -855,21 +861,24 @@ Detailed tutorials provided by the official channel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-premieres-role-in-your-youtube-creation-process/"><u>[Updated] Premiere's Role in Your YouTube Creation Process</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-revolutionize-your-memories-old-photos-new-video-life/"><u>[Updated] Revolutionize Your Memories Old Photos, New Video Life</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-ways-to-add-meme-text-to-videos/"><u>2024 Approved Best Ways to Add Meme Text to Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the-a/"><u>2024 Approved Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-started-fast-brother-mfc-9130cw-printer-driver-software-and-utilities/"><u>Get Started Fast: Brother MFC-9130CW Printer Driver Software & Utilities</u></a></li>
-<li><a href="https://games-able.techidaily.com/harmony-and-input-which-for-games/"><u>Harmony and Input: Which for Games?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-vintage-film-effect-1920s/"><u>How to Create Vintage Film Effect 1920S</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-xcover-7-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy XCover 7 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-ultimate-guide-to-budget-friendly-4k-cameras/"><u>In 2024, Ultimate Guide to Budget-Friendly 4K Cameras</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-customized-transitions-to-obs/"><u>New 2024 Approved How to Add Customized Transitions to OBS</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-create-the-night-to-day-effect-video/"><u>New 2024 Approved How to Create the Night-to-Day Effect Video</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/optimizing-web-video-for-crystal-clear-display/"><u>Optimizing Web Video for Crystal Clear Display</u></a></li>
-<li><a href="https://win-help.techidaily.com/rescuing-information-from-disaster-a-step-by-step-guide-to-repairing-your-malfunctioning-seagate-portable-hard-drive/"><u>Rescuing Information From Disaster: A Step-by-Step Guide to Repairing Your Malfunctioning Seagate Portable Hard Drive</u></a></li>
-<li><a href="https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/"><u>Stellar Repair for Excel</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>Updated 2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-/"><u>Updated A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-17-software-selections-for-background-extraction/"><u>[New] Premier 17 Software Selections for Background Extraction</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-earning-edge-exploiting-youtube-studio-for-global-viewers/"><u>[Updated] In 2024, Earning Edge Exploiting YouTube Studio for Global Viewers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-guidelines-to-safely-download-and-store-facebook-vids/"><u>[Updated] In 2024, Guidelines to Safely Download and Store Facebook Vids</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-5-affordable-no-frills-screen-recorders-for-2024/"><u>[Updated] Top 5 Affordable, No-Frills Screen Recorders for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-and-solve-the-reset-your-pc-problem-on-windows-11-expert-advice-and-strategies/"><u>Decode and Solve the 'Reset Your PC' Problem on Windows 11: Expert Advice & Strategies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-ways-to-remove-motion-blur-in-photoshop-for-2024/"><u>Easy Ways to Remove Motion Blur In Photoshop for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-solutions-to-fix-realteks-alc887-sound-drivers-on-your-windows-machine/"><u>Expert Solutions to Fix Realtek's ALC887 Sound Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-set-up-twitch-green-screen/"><u>How to Set Up Twitch Green Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>In 2024, How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-kdenlive-is-a-free-open-source-video-editing-software-application-kdenlive-is-a-powerful-video-editor-that-can-be-used-to-create-professional-qualit/"><u>In 2024, Kdenlive Is a Free, Open-Source Video Editing Software Application. Kdenlive Is a Powerful Video Editor that Can Be Used to Create Professional-Quality Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-mastering-conversations-and-sharing-in-facebook-world/"><u>In 2024, Mastering Conversations and Sharing in Facebook World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-educational-tools-wisely-why-chatgpt-isnt-a-students-sole-resource/"><u>Navigating Educational Tools Wisely: Why ChatGPT Isn’t a Student’s Sole Resource</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-your-own-lol-montage-video-for-2024/"><u>New How to Create Your Own LOL Montage Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-3-best-effects-to-appear-on-camera-made-with-filmora/"><u>New In 2024, 3 Best Effects to Appear on Camera Made with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-content-creati/"><u>New Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-google-pixel-fold-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Google Pixel Fold has been deleted.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-mystery-a-step-by-step-guide-to-correcting-windows-code-19-troubles/"><u>Resolving the Mystery: A Step-by-Step Guide to Correcting Windows Code 19 Troubles</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-3-best-motion-blur-plugins-for-adobe-after-effects/"><u>Updated 2024 Approved 3 Best Motion Blur Plugins for Adobe After Effects</u></a></li>
 </ul></div>
 

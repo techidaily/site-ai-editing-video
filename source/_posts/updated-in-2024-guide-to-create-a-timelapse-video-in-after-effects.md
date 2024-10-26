@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Guide to Create a Timelapse Video in After Effects
-date: 2024-10-16T16:01:18.369Z
-updated: 2024-10-20T16:52:28.361Z
+date: 2024-10-24T11:58:48.138Z
+updated: 2024-10-25T21:34:21.911Z
 tags: 
   - ai
   - animation videos
@@ -26,13 +26,6 @@ Calculating your composition length to accommodate the frame rate and number of 
 1. Verify the number of images you have for your Sequence.
 2. New Composition Creation. Selecting a frame rate: A time lapse film produced at 30 frames per second will flow smoothly, but you can select any frame rate you like.
 3. To determine the duration of your composition, divide the number of photographs you have by the frame rate you've chosen. For instance, if you use 600 photos at 30 frames per second, your composition will last 20 seconds.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 2\. Import your images
 
@@ -112,6 +105,13 @@ Have you ever seen the text reveal led by a subject when moving across the frame
 
 While it may look complicated, it's actually quite easy to create with a video editing program like Filmora. Filmora's masking feature allows users to create impressive and eye-catching text reveals in their videos. For those looking for a tutorial on how to make text reveal, here's a step-by-step guide to help you out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to add text reveal effect using [Filmora's](https://tools.techidaily.com/wondershare/filmora/download/) masking tool
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -132,6 +132,13 @@ Drag and drop your clip onto the first and third video tracks of the timeline. T
 
 ![import the clip to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3 Make a cut at the beginning of the text
 
 Find the spot where you want the text reveals to start, then click the scissor icon to make a cut on the clip from the first video track.
@@ -184,18 +191,18 @@ You will need three video tracks in order to create this effect, so click the (+
 
 ![add video tracks](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 2 Import the clip to the timeline
 
 Drag and drop your clip onto the first and third video tracks of the timeline. Then, align them with each other.
 
 ![import the clip to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 3 Make a cut at the beginning of the text
 
@@ -222,13 +229,6 @@ Go to Effects > Utility > Image Mask, then drag and drop it onto the latter half
 Make more cuts on the top latter clip, frame by frame, starting from the first cut you have made.
 
 ![make more cuts on the top latter clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-7.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Double-click on each of the smaller clips and find the mask settings.
 
@@ -268,13 +268,6 @@ Find the spot where you want the text reveals to start, then click the scissor i
 
 ![make a cut at the beginning of the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 4 Add and adjust the text
 
 Go to Title > Plain Text > select which text styles suit you best. Then, drag the title to the second video track.
@@ -284,6 +277,13 @@ Go to Title > Plain Text > select which text styles suit you best. Then, drag th
 Double-click on the title clip and type out your text. Then, adjust the text position and align it to the cut you have made.
 
 ![double-click on the title clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-5.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 5 Use the masking tool
 
@@ -295,23 +295,9 @@ Make more cuts on the top latter clip, frame by frame, starting from the first c
 
 ![make more cuts on the top latter clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-7.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Double-click on each of the smaller clips and find the mask settings.
 
 ![double-click on each of the smaller clips](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Since the subject in this tutorial is moving from side to side, we are going to match the mask's y-axis setting, which is also the revealed text portion, with the subject's movement. Starting from the first clip, adjust the y-axis number to a smaller/bigger number.
 
@@ -356,6 +342,19 @@ Go to Title > Plain Text > select which text styles suit you best. Then, drag th
 Double-click on the title clip and type out your text. Then, adjust the text position and align it to the cut you have made.
 
 ![double-click on the title clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-5.gif)
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 5 Use the masking tool
 
@@ -424,6 +423,13 @@ send button.
 
 Additionally, a number of YouTube viewers frequently lament their inability to comment on livestreams or the fact that their messages keep disappearing. Because certain comments are flagged as spam and filtered, this is the cause. There is no other option but to post constructive criticism. If the streamer is one you enjoy or if you don't want to miss the author's next live stream. Then choose "HIDE Chat" if you don't want to see any comments at all. The procedures below can be used if you simply want to have a private conversation or reply to someone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 You now know what YouTube live chat is and how to participate in it thanks to this post. I hope it will be beneficial to you.
@@ -470,14 +476,14 @@ It is simple to create a lol montage video. Creativity with innovative edits is 
 
 ![How to Create LOL Montage](https://images.wondershare.com/filmora/article-images/2022/05/lol-montage-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 How to Create LOL Montage
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Prepare your LOL video clips
 
@@ -498,13 +504,6 @@ You can work on many factors in the videos to enhance their overall performance.
 It is an exclusive video editor compatible with multi-platforms like Linux, Mac, and Windows, and you can use this app to trim and slice the videos into desired pieces. There are options to animate and keyframe the content hassle-free. This app enables you to work with multiple tracks without any watermark issues. Insert slow-motion effects and playback speed variations to add flavors to the edited content. It supports more than 70 languages and displays a simple interface.
 
 ![Openshot Video Editor](https://images.wondershare.com/filmora/article-images/2022/05/lol-montage-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Openshot Video Editor
 
@@ -533,6 +532,13 @@ Grow Together
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step2Add Visual effects
 
@@ -592,22 +598,24 @@ Thus, this article has given valuable insights into the LOL montage video making
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-why-are-social-media-suggested-videos-evanescent/"><u>[New] Why Are Social Media Suggested Videos Evanescent?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimal-vr-headset-choice-embracing-the-freedom-of-mobile-or-the-tethered-experience/"><u>[Updated] Optimal VR Headset Choice Embracing the Freedom of Mobile Or The Tethered Experience?</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-gionee-f3-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-webcapture-pro-live-chat-videos/"><u>2024 Approved WebCapture Pro Live Chat Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-syma-x8c-mastering-advanced-maneuvers/"><u>In 2024, Syma X8C Mastering Advanced Maneuvers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-asus-rog-zephyrus-gx501-s-compromises-for-performance/"><u>In-Depth Analysis of the ASUS ROG Zephyrus GX501 S - Compromises for Performance</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-ad/"><u>New 2024 Approved Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-dollar-store-diy-hacks-to-use-for-filmmaking/"><u>New Dollar-Store DIY Hacks to Use for Filmmaking</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-what-is-the-best-fps-for-youtube-videos/"><u>New In 2024, What Is the Best FPS for YouTube Videos?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-feather-shapes-in-after-effects-and-add-a-professional-touch-to-your-designs-this-comprehensive-guide-covers-everything-from-the-basics-to-/"><u>New Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/swiftly-enhance-videos-on-android-devices/"><u>Swiftly Enhance Videos on Android Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-to-add-subtitles-to-your-videos-efficiently-this-article-will-introduce-an-online-subtitle-editor-that-will-help-you-to-create-subtitles/"><u>Updated Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-custom-filters-in-vn-app-2024-quick-guide/"><u>Updated How to Add Custom Filters in VN App 2024 Quick Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-speed-ramping-to-create-an-intense-action-footage-for-2024/"><u>Updated How To Use Speed Ramping to Create an Intense Action Footage for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-high-quality-youtube-images-download-without-any-cost/"><u>[Updated] 2024 Approved High-Quality YouTube Images Download Without Any Cost</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-from-novice-to-expert-advanced-screencasting-steps/"><u>[Updated] From Novice to Expert Advanced Screencasting Steps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pioneer-productions-with-your-mac-for-viral-youtube-videos/"><u>[Updated] Pioneer Productions with Your Mac for Viral Youtube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2023s-ultimate-capture-software-revisited-for-2024/"><u>2023'S Ultimate Capture Software Revisited for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-seek-a-guide-to-add-motion-in-blender-this-article-explains-the-blender-motion-blur-effect-in-detail-and-helps-you-master-it/"><u>2024 Approved Do You Seek a Guide to Add Motion in Blender? This Article Explains the Blender Motion Blur Effect in Detail and Helps You Master It</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-in-this-article-you-will-learn-easy-ways-to-edit-videos-using-a-mouse-in-wondershare-filmora-you-can-do-video-editing-without-a-keyboard-after/"><u>2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-hot-40-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Hot 40 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/achieving-a-natural-sound-curve-dimming-audio-smoothly-for-2024/"><u>Achieving a Natural Sound Curve Dimming Audio Smoothly for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-infinix-hot-40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Hot 40 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/cutting-edge-gaming-setup-unpacking-samsungs-ue590-panel-for-2024/"><u>Cutting Edge Gaming Setup Unpacking Samsung's UE590 Panel for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-reinstall-nvidia-drivers-on-windows/"><u>How to Reinstall NVIDIA Drivers on Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-coin-magic-with-filmora/"><u>In 2024, How to Make Coin Magic With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-video-fade-to-black-in-movie-maker/"><u>In 2024, How to Make Video Fade to Black in Movie Maker</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-share-youtube-video-on-zoom-in-2024/"><u>New How to Share YouTube Video on Zoom, In 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-a-video-on-vimeo/"><u>Updated 2024 Approved How to Loop a Video on Vimeo?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-way-to-color-grading-and-color-correction-in-filmora-for-2024/"><u>Updated Best Way To Color Grading & Color Correction in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-frame-rate-for-4k-video/"><u>Updated In 2024, Best Frame Rate for 4K Video</u></a></li>
 </ul></div>
 

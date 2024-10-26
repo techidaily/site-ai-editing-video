@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Add Effects on TikTok
-date: 2024-10-17T16:00:19.919Z
-updated: 2024-10-20T17:14:43.096Z
+date: 2024-10-25T08:39:37.341Z
+updated: 2024-10-26T01:20:14.686Z
 tags: 
   - ai
   - animation videos
@@ -61,6 +61,13 @@ Step4 If you like the result, press the screen to start recording your video nor
 
 ![start recording video tiktok](https://images.wondershare.com/filmora/article-images/2022/07/start-recording-video-tiktok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. Adding Effects After Recording
 
 Forgot to use a filter effect before to beginning your recording? Not to worry! On the Preview page, you may also apply a filter to your clips. By selecting Visual under Effects after recording or uploading your TikTok video, you may also add some lovely dynamic filter effects. You may achieve that by saving the films to your camera roll after applying each effect individually to the same clip. then launch the app's video recorder, add the previously recorded video, and choose a new filter to apply to the video clip.
@@ -95,29 +102,9 @@ Step2 The "effects" symbol, which looks like a winking emoji, should be tapped. 
 
 ![add video effects on tiktok](https://images.wondershare.com/filmora/article-images/2022/07/add-video-effects-on-tiktok.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 The options screen opens when you press the effect filter button. Your effect will appear in your video once you just hit the red button. When you are presented with all of these filters, choose the one that best fits your video and give it a try.
 
 ![choose desired filters tiktok](https://images.wondershare.com/filmora/article-images/2022/07/choose-desired-filters-tiktok.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 You may apply the filter to your video after you have officially made your decision. After doing this, leave the filter gallery and begin recording your video. Now that all of these procedures have been completed, you are able to capture your video with the effect on it.
 
@@ -225,10 +212,10 @@ Install Filmora 13 on your device and open it to access “New Project” from t
 ![create new project in filmora](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step 2Adjust the Speed and Other Use Advanced Options
@@ -236,6 +223,19 @@ Install Filmora 13 on your device and open it to access “New Project” from t
 Later, drag that file to the timeline and right-click on it to get a list. Select the “Uniform Speed” option from that list and head to the editing panel opened to the right. Under the “Speed,” there will be a slider. You have to move it to the left for slow-motion video. While adjusting speed with that slider, track video duration from the “Duration” section. Below that option, you can toggle the “Reverse Speed” option if required.
 
 ![choose uniform speed from drop down](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-8.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Otherwise, check the “Ripple Edit” and “Maintain Pitch” option for good. Now, extend the “AI Interpolation” menu and choose “Optical Flow.” It will let AI automatically adjust the video speed in slow motion with high quality.
 
@@ -347,13 +347,6 @@ Later, drag that file to the timeline and right-click on it to get a list. Selec
 
 ![choose uniform speed from drop down](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Otherwise, check the “Ripple Edit” and “Maintain Pitch” option for good. Now, extend the “AI Interpolation” menu and choose “Optical Flow.” It will let AI automatically adjust the video speed in slow motion with high quality.
 
 ![select ai frame and custom settings](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-9.jpg)
@@ -373,6 +366,13 @@ Tap the “Speed Ramping” next to the “Uniform Speed” in the right-side pa
 In the Speed Ramping Section, you will get 6 templates. Pick one or hit the “Customize” to design your own speed ramping in videos. Later, move to the toolbar of the timeline section and choose “Render Preview” next to the “Copilot” icon. It will bring a smooth playback of your speed ramping in videos.
 
 ![apply changes and render preview](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Matchless Features of Wondershare Filmora
 
@@ -505,13 +505,6 @@ Moreover, with so many options available, you can choose from any color grading 
 
 You are at the right place if you're having trouble finding the best LUTs for FCPX. This section will provide you with one of the best LUTs you can choose for your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1.[Free Cinematic LUTs Pack for Video Editing](https://filtergrade.com/free-cinematic-luts-video-editing/)
 
 This free LUT pack is a perfect choice to give your videos a cinematic look. It features a soft blue color grading with high contrast that can make your footage look like it was shot on film. This LUT is especially effective for outdoor scenes and action shots. Moreover, its color grading enhances the drama and feel of your video footage.
@@ -541,13 +534,6 @@ Cyberpunk Color Grades is a pack of modern cyberpunk-style LUTs. It is a fantast
 Prince Meyson offers this skin tone enhancer LUT pack. It has a neutral, balanced color grading that can make your videos look more polished and professional. This LUT is ideal for interviews, documentaries, or corporate videos. Moreover, this pack is perfect for portraits and close-up shots. It can enhance the natural colors of your footage and make it look more refined.
 
 ![pro retouching essentials pack ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Apply LUTs on Final Cut Pro
 
@@ -587,13 +573,6 @@ An icon will appear once you've selected RT Adjustment Layer. Drag and drop this
 
 ![drop adjustment layer to timeline ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3
 
 Drag and drop the “Custom LUT” layer onto your RT Adjustment Layer from the Effect Browser. Click on the RT Adjustment Layer and choose your desired LUT from the “Inspector” menu.
@@ -613,13 +592,6 @@ Import your video into Final Cut Pro and click on your video in the library and 
 In the section of the “Inspector” menu, click the drop-down menu and select the “General” option. It will open up new options in the menu where you have to choose the “Camera LUT” option and select your preferred LUT. After selecting your LUT, save your video by choosing the option.
 
 ![change settings and apply luts](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Discussing Wondershare Filmora LUTs - The Best Video Editing Platform
 
@@ -679,6 +651,13 @@ Prince Meyson offers this skin tone enhancer LUT pack. It has a neutral, balance
 
 ![pro retouching essentials pack ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Apply LUTs on Final Cut Pro
 
 Now that you've discovered there are many Final Cut Pro LUTs free to download. The most important thing is to learn how to use these free LUTs on your video using FCPX. Here are some methods to learn to apply LUTs using Final Cut Pro in simple steps.
@@ -696,6 +675,13 @@ Open Final Cut Pro and import your video. Once the video is imported, click on t
 Go to the “Effect Browser” and search for the LUT option from the search menu. After selecting it, you will get a “Custom LUT” layer. Select the custom LUT layer and drag and drop it onto your video clip. Then, click on the video clip and go to the “Inspector” window.
 
 ![open inspector window](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3
 
@@ -751,9 +737,23 @@ Furthermore, Wondershare Filmora offers options for color adjustments and enhanc
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Conclusion
 
@@ -777,19 +777,19 @@ In conclusion, Final Cut Pro is a powerful tool for video editing. This tool all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-premiere-pro-streamline-for-online-video-uploads/"><u>[New] 2024 Approved Premiere Pro Streamline for Online Video Uploads</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-amplifying-online-videos-best-5-tools-and-tricks/"><u>[New] Amplifying Online Videos Best 5 Tools & Tricks</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-essential-guide-fast-tracking-subtitle-creation-for-your-fb-posts/"><u>[Updated] In 2024, The Essential Guide Fast-Tracking Subtitle Creation for Your FB Posts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-quintessential-10-fight-royale-jams/"><u>[Updated] Quintessential 10 Fight Royale Jams</u></a></li>
-<li><a href="https://win-dash.techidaily.com/approach-analyze-the-effects-of-horizontal-forces-on-building-stability/"><u>Approach: Analyze the Effects of Horizontal Forces on Building Stability.</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/budget-friendly-obs-configuration-guide-for-2024/"><u>Budget-Friendly OBS Configuration Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-bokeh-effect-for-2024/"><u>How to Make a Bokeh Effect for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-guide-for-2024/"><u>How To Quickly Create A Screen Print Effect In Photoshop Detailed Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-the-ultimate-guide-to-make-a-text-collage/"><u>In 2024, The Ultimate Guide to Make a Text Collage</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-vintage-film-effect-1980s-how-to-create/"><u>In 2024, Vintage Film Effect 1980S - How to Create</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/professional-grau-gmbh-hardware-and-software-fixes-for-seamless-video-recovery/"><u>Professional Grau GmbH Hardware & Software Fixes for Seamless Video Recovery</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/skyrocket-your-subscribers-with-these-easy-strategies/"><u>Skyrocket Your Subscribers with These Easy Strategies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-dos-and-donts-of-youtube-video-logging/"><u>The Do's and Don'ts of YouTube Video Logging</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-easy-way-to-create-a-diy-green-screen-video-effect/"><u>Updated Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-more-views-with-the-best-youtube-thumbnail-ideas/"><u>[Updated] In 2024, Get More Views with the Best YouTube Thumbnail Ideas</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-future-is-virtual-making-and-sharing-immersive-footage-for-fb-for-2024/"><u>[Updated] The Future Is Virtual Making and Sharing Immersive Footage for FB for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/advanced-strategies-for-google-adsense-success-in-2009-preventing-your-account-from-closure-with-massmail-tools/"><u>Advanced Strategies for Google AdSense Success in 2009 - Preventing Your Account From Closure with MassMail Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/film-creation-tools-go-free-and-green/"><u>Film Creation Tools Go Free and Green</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oneplus-open-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked OnePlus Open Phone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-put-a-filter-on-a-video-in-imovie/"><u>In 2024, How to Put a Filter on a Video in iMovie</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-se-2022-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone SE (2022) and iPad?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-wondering-if-you-can-make-diy-green-screen-video-for-streaming-learn-the-easy-steps-to-setup-diy-green-screen-shoot-the-video-and-edit-it-out-to-add/"><u>In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unleash-your-creativity-top-rated-3d-animation-software-for-all-levels/"><u>New In 2024, Unleash Your Creativity Top-Rated 3D Animation Software for All Levels</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-nokia-c22-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Nokia C22 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-something-about-skin-care-vlog-ideas/"><u>Updated Something About Skin Care Vlog Ideas</u></a></li>
 </ul></div>
 

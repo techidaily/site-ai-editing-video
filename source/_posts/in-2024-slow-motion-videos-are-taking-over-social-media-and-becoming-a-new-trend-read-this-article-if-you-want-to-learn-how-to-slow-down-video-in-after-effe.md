@@ -1,7 +1,7 @@
 ---
 title: In 2024, Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects
-date: 2024-10-13T17:06:18.730Z
-updated: 2024-10-20T16:17:55.020Z
+date: 2024-10-25T11:52:27.427Z
+updated: 2024-10-25T17:09:03.226Z
 tags: 
   - ai
   - animation videos
@@ -102,6 +102,13 @@ After importing media and bringing it to the timeline panel, select it. Then, na
 
 ![look for speed ramping section](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2Access the AI Frame Interpolation
 
 Continue to select a specific preset for speed ramping. As you select one, locate and expand the “AI Frame Interpolation” section. From the appearing option, select the “Optical Flow” option.
@@ -144,6 +151,13 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: A Complete Overview of Adobe After Effects
 
 Before learning **how to slow mo in After Effects**, we want to introduce you to the software. [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) is a professional software designed to assist in post-production. Those unrealistic scenes you see in a sci-fi movie are its creation. Users can work with multiple effects categories to create animated scenes and titles.
@@ -164,13 +178,6 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 
 ![access time stretch feature](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** In the Time Stretch window, increase the default value of "Stretch Factor." Then click "OK," and this will slow down your clip.
 
 ![change stretch factor](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-2.jpg)
@@ -178,6 +185,13 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
 
 ![look for pixel motion](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Alternative: Slowing Down Video in Wondershare Filmora with Clarity
 
@@ -218,6 +232,13 @@ A settings panel will appear on the right side of the screen; navigate towards i
 
 ![adjust speed and execute](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Method 2\. Step-by-Step Guide to Slow a Video Using Optical Flow Option
 
 If you prefer the automated creation of slow-mo, then Filmora offers an AI Frame Interpolation feature. Find the detailed instruction manual for accessing this feature below:
@@ -241,17 +262,10 @@ Once you have enabled this option, navigate towards the timeline toolbar. Search
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
@@ -299,6 +313,13 @@ When you record a video with your phone camera, digital camera, or even webcam, 
 
 Video filters can correct color imbalances and make the video have consistent colors. For example, if you had recorded a video when the sun was setting, you can use a high saturation video filter to make the video color more vivid. You can even set the mood of a video with video filters so that the audience can get the exact emotion you want to portray through your video. We will illustrate the different ways on how to add filter to video online instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Way 1\. [Use Clideo Filter Editor](https://clideo.com/filter-video)
 
 Clideo Filter Editor is one of the fastest video editors that you can apply filters to your videos instantly. There is a wide range of different presets to apply temporarily and compare. Therefore, you can choose the best video filter and save your modified video. The user interface is super intuitive for everyone.
@@ -319,13 +340,6 @@ Step4Finalize a video filter to apply to your video and click on Export to save 
 
 ![export filter video clideo](https://images.wondershare.com/filmora/article-images/2022/08/export-filter-video-clideo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 2\. [Veed.io Video Filters](https://www.veed.io/tools/video-filters)
 
 If you are looking for some stunning video filters to use on your video, Veed.io Video Filters is the best online platform. You can add filter to video online free, and the platform supports several video file formats. You will find color grading filters as well as effects to apply to your video and get the desired outcome. If you are going to upload videos to social media, you should definitely use Veed.io Video Filters to make your videos feel unique. Here are the steps on how to add filter video online using Veed.io Video Filters.
@@ -342,23 +356,9 @@ Step3After the video file gets uploaded, you will see Filters on the left side o
 
 ![color grading effects veedio](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-effects-veedio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4Click on the filters to see how they look on your video instantly. Once you have selected a filter for the video, click on Export button to save the edited video in desired file format.
 
 ![apply filter to video veedio](https://images.wondershare.com/filmora/article-images/2022/08/apply-filter-to-video-veedio.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 3\. [Clipchamp Video Filter Editor](https://clipchamp.com/en/video-filters-editor/)
 
@@ -386,19 +386,6 @@ Step6Finally, click on the selected filter and click on Export button to save th
 
 ![export filter video clipchamp](https://images.wondershare.com/filmora/article-images/2022/08/export-filter-video-clipchamp.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 4\. [FlexClip Video Filter Editor](https://www.flexclip.com/tools/filter-video/)
 
 FlexClip has a collection of online tools to edit your video instantly without installing any video editor application. FlexClip Video Filter Editor has over 20 popular video filters to apply to your video on the go. You can change the video outlook, and the platform supports different types of video file formats. You can add filter to video online free, and there is not going to be any watermark on your edited video. Here are the steps on how you can add filter to your video using FlexClip video filter editor.
@@ -416,6 +403,13 @@ Step3After successful uploading, you will see all the video filters on the left 
 Step4Click on the video filters one to one to apply them to the video and see which one suits the best. You can adjust the intensity of the filters as per your preference.
 
 ![apply filters flexclip](https://images.wondershare.com/filmora/article-images/2022/08/apply-filters-flexclip.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5Once you have applied a filter and you can satisfy with it, click on Export button to save the edited video.
 
@@ -436,13 +430,6 @@ Step2Once Kapwing video editor opens, drag and drop your video to upload on the 
 Step3Click on the video and on the right side, go to Edit tab and click on Filters under Video section.
 
 ![edit video in kapwing](https://images.wondershare.com/filmora/article-images/2022/08/edit-video-in-kapwing.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4You will see a host of video filters that you can apply to your video. Click on them to check them out. You can also customize the video filter by going to Adjust tab.
 
@@ -467,6 +454,13 @@ If you want to apply video filters to your recorded video in order to enhance th
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Uue Adobe Lightroom Color Grading
 
@@ -670,24 +664,18 @@ An image or animation that you contribute to your movies as a video overlay will
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-maximizing-video-reach-sharing-twitters-content-on-facebooks/"><u>[New] 2024 Approved Maximizing Video Reach Sharing Twitters' Content on Facebooks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ccelerated-steps-to-rearrange-youtube-music-ordering-for-2024/"><u>[New] Accelerated Steps to Rearrange YouTube Music Ordering for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-make-instagram-slow-motion-video/"><u>[Updated] How to Make Instagram Slow Motion Video</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-ideal-sites-convert-your-favorite-youtube-moments-into-ringtones-for-2024/"><u>[Updated] Ideal Sites Convert Your Favorite YouTube Moments Into Ringtones for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-resolving-partially-silenced-facebook-media/"><u>[Updated] Resolving Partially Silenced Facebook Media</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos./"><u>2024 Approved Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-highlights-from-chinas-winter-olympiad-2022/"><u>2024 Approved Highlights From China's Winter Olympiad 2022</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-3d-camera-tracking-effects-in-after-effects/"><u>2024 Approved How to Use 3D Camera Tracking Effects in After Effects</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-decoding-youtubes-revenue-model-for-video-clips/"><u>In 2024, Decoding YouTube's Revenue Model for Video Clips</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-comment-on-youtube-live-chat/"><u>In 2024, How to Comment on YouTube Live Chat</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-cutting-edge-mkv-trimmers-for-mac-top-3-reviews-for-2024/"><u>New Cutting-Edge MKV Trimmers for Mac Top 3 Reviews for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
-<li><a href="https://facebook.techidaily.com/steering-clear-meta-on-stopping-online-sensitive-pics/"><u>Steering Clear: Meta on Stopping Online Sensitive Pics</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-full-guide-to-funcall-voice-changer-and-its-alternatives-for-2024/"><u>Updated Full Guide to Funcall Voice Changer and Its Alternatives for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-flame-the-fire-enhancing-your-snapstreak-game/"><u>[New] Flame the Fire Enhancing Your Snapstreak Game</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-steer-clear-of-virtual-reality-sickness/"><u>[New] Steer Clear of Virtual Reality Sickness</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/evaluating-the-wet-weather-defense-of-the-new-iphone-15-is-it-truly-waterproof/"><u>Evaluating the Wet Weather Defense of the New iPhone 15 – Is It Truly Waterproof?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-correct-lens-distortion-with-filmora/"><u>How to Correct Lens Distortion With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-vintage-film-effect-1950s-for-2024/"><u>How to Make Vintage Film Effect 1950S for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-prime-chart-to-screen-recorder/"><u>In 2024, Prime Chart to Screen Recorder</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-6-tips-for-your-first-facebook-ads/"><u>New In 2024, 6 Tips for Your First Facebook Ads</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-images-into-video-kapwing-tutorial/"><u>New In 2024, How to Convert Images Into Video - Kapwing Tutorial</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-something-about-skin-care-vlog-ideas/"><u>New Something About Skin Care Vlog Ideas</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-10-best-games-for-steam-deck/"><u>The 10 Best Games for Steam Deck</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiled-top-10-superior-gopro-housing-options-for-2024/"><u>Unveiled Top 10 Superior GoPro Housing Options for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
 </ul></div>
 

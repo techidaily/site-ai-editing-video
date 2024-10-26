@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article
-date: 2024-10-14T16:23:11.875Z
-updated: 2024-10-20T17:12:54.864Z
+date: 2024-10-21T17:43:43.179Z
+updated: 2024-10-26T00:42:37.048Z
 tags: 
   - ai
   - animation videos
@@ -25,13 +25,6 @@ Let us be honest, most shortcuts are not available without the keyboard. To coun
 
 ![different controls and panels](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-1.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Take the challenge and find a solution together
 
 To counter these difficulties, even if you have a keyboard, you can imagine yourself in a situation. A situation in which we have a keyboard but will not be using it.
@@ -43,6 +36,13 @@ Therefore, presenting us with a challenge, so if you someday come across a situa
 Before getting into the editing process handicapped from resources, you need to be familiar with the software that we will use. We will use [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) You can click the link below and catch it up.
 
 ![buying wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-2.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Create a Music Video Without a Keyboard
 
@@ -59,13 +59,6 @@ Step 1\. Review your footage
 Our first and most crucial step will be to use our imagination and creativity. So get those neurons firing, and let us go!
 
 ![reviewing the footage](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-3.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Head to the **stock media** folder on the bar mentioned above, the Wondershare Filmora.
 * Or you can simply look towards the left window, where you will find the sample **videos tab.**
@@ -122,10 +115,10 @@ When you have your audio in the timeline, your next step is adding the video. Af
 ![adding sample videos](https://images.wondershare.com/filmora/article-images/2022/12/editing-use-mouse-only-with-filmora-team-7.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * **Click** and **drag** to drop the video clips where you want the video to start.
@@ -168,6 +161,13 @@ It seems our 15 minutes are running out! Play the music video from the beginning
 
 So in a rare scenario when you don't have a keyboard, you can just use your mouse to browse the Wondershare Filmora and put those creative ideas to work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 With just a mouse, you have created a music video! How easy is that? Try different music, audio, and video, and then enjoy the rest! Creativity has no limits if you know how to make the most of it by using the tools at your hand. Tell out more about your creative ideas! We love to hear from your side!
@@ -202,10 +202,10 @@ If you have time, you can also add a few of the effects in the Wondershare Filmo
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do so as many times as you want for the remaining video clips in the timeline.
@@ -239,6 +239,13 @@ With just a mouse, you have created a music video! How easy is that? Try differe
 
 There are many aspects to consider when it comes to publishing a video. Safety and privacy aspects are some of them. If you're looking to blur out a bystander or cut out profanities from your video with Filmora, this is the right article for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. How to add a beep sound to a video with Filmora
 
 Filmora's powerful video editing menu includes easy tweaking on audio. You can censor any part of speech you want to exclude from your video with just these simple steps.
@@ -247,23 +254,9 @@ Step1 Create a new project and import the video to Filmora.
 
 ![import the video to filmora](https://images.wondershare.com/filmora/article-images/2022/12/censor-effects-with-filmora-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Separate the audio component from the video by right-clicking on the video and selecting the Detach Audio option. You can now edit each of them individually.
 
 ![detach the audio component](https://images.wondershare.com/filmora/article-images/2022/12/censor-effects-with-filmora-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Mark the part to place the start of the beep using the playhead and click the Split icon on the editor’s toolbar.
 
@@ -276,13 +269,6 @@ Step4 Place the playhead at the end of the censored segment and click Split. Dou
 Step5 Click the **Audio>Audio** Effects menu on the upper left corner of the screen. After you find the Beep effect, drag the track to the audio timeline and place it in between the split section. Adjust trimming and volume until the censor is placed correctly.
 
 ![adjust the sound effect placement](https://images.wondershare.com/filmora/article-images/2022/12/censor-effects-with-filmora-5.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How to add mosaic to video with Filmora
 
@@ -360,6 +346,13 @@ Step3You will come across several options such as 1:4 quarter, 1:2 half, 1:1 ori
 
 ![zoom in vlc](https://images.wondershare.com/filmora/article-images/2022/07/choose-vlc-zoom-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Otherwise, you can press Shift + Z keys together to try out different zoom options.
 
 ## Part 3: Zoom VLC Video Using Magnifier
@@ -401,10 +394,10 @@ Step 5: Go to Pan & Zoom tab and move the rectangular box and play the video to 
 ![zoom in vlc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -424,6 +417,13 @@ Step 4: Drag and drop the video file into Timeline. Click on Crop icon on the to
 Step 5: Go to Pan & Zoom tab and move the rectangular box and play the video to watch its magnified video. You can also export the video after cropping in your desired file format.
 
 ![zoom in vlc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -445,20 +445,16 @@ There are several scenarios when you need to zoom into a video to focus on the d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-a-glimpse-at-the-best-curating-a-list-of-5-exceptional-book-tts/"><u>[New] 2024 Approved A Glimpse at the Best Curating a List of 5 Exceptional Book TTs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-game-soundscapes-with-ps-console-tweaks/"><u>[Updated] Revolutionizing Game Soundscapes with PS Console Tweaks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-swift-strategies-randomize-your-video-playlist-quickly/"><u>2024 Approved Swift Strategies Randomize Your Video Playlist Quickly</u></a></li>
-<li><a href="https://os-tips.techidaily.com/4-simple-methods-to-securely-sync-and-backup-your-iphone-data-with-icloud-itunes-and-computer/"><u>4 Simple Methods to Securely Sync and Backup Your iPhone Data with iCloud, iTunes & Computer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/acid-pro-alternatives-the-ultimate-review-series/"><u>ACID Pro Alternatives The Ultimate Review Series</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/boost-your-spirit-creating-motivational-status-videos/"><u>Boost Your Spirit Creating Motivational Status Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/canon-mg2900-find-and-install-the-latest-drivers-for-perfect-printing-performance/"><u>Canon MG2900 - Find & Install the Latest Drivers for Perfect Printing Performance</u></a></li>
-<li><a href="https://extra-information.techidaily.com/day-after-analysis-non-traditional-ideas/"><u>Day After Analysis Non-Traditional Ideas</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-reno-10-proplus-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Reno 10 Pro+ 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-export-video-in-filmora-for-2024/"><u>New Easy Steps to Export Video in Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-create-glitch-text-effect/"><u>Updated Create Glitch Text Effect</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-find-out-what-ray-tracing-is-in-after-effects-how-it-works-and-learn-about-ray-traced-3d-settings-with-simple-instructions/"><u>Updated Find Out What Ray Tracing Is in After Effects, How It Works, and Learn About Ray-Traced 3D Settings with Simple Instructions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>Updated HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-learning-how-to-create-luts-with-luts-generator/"><u>Updated Learning How to Create LUTs with LUTs Generator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way/"><u>2024 Approved How to Slow Down a Video on iPhone and Android The Easy Way</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-canon-printer-mg3022-drivers-get-the-latest-version/"><u>Download and Update Canon Printer MG3022 Drivers - Get the Latest Version</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-download-and-use-windows-movie-maker-10-for-2024/"><u>How to Download and Use Windows Movie Maker 10 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-gaming-service-failures-on-pcs-and-laptops/"><u>How To Resolve Gaming Service Failures on PCs and Laptops</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-censor-effects-with-filmora/"><u>In 2024, How to Make Censor Effects with Filmora</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-xiaomi-13t-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Xiaomi 13T to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/launch-your-live-stream-a-comprehensive-beginners-manual/"><u>Launch Your Live Stream A Comprehensive Beginner's Manual</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-review-on-cutting-edge-tech-devices-with-toms-team/"><u>Pioneering Review on Cutting-Edge Tech Devices with Tom's Team</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/snapcutxp-review-complete-evaluation-of-video-editing-software-for-2024/"><u>SnapCutXp Review – Complete Evaluation of Video Editing Software for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-best-laptops-for-video-editing/"><u>The Best Laptops For Video Editing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-this-article-talks-in-detail-about-how-to-convert-time-lapse-to-normal-video-using-certain-methods-on-iphone-online-tools-and-so-on-it-further-discu/"><u>Updated This Article Talks in Detail About How to Convert Time-Lapse to Normal Video Using Certain Methods on iPhone, Online Tools, and so On. It Further Discusses Converting Time-Lapse Video to Normal on the Computer. Check Out</u></a></li>
 </ul></div>
 

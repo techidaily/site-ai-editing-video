@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Add Subtitles in Canva?
-date: 2024-10-17T17:00:22.828Z
-updated: 2024-10-20T16:46:41.162Z
+date: 2024-10-21T21:02:17.914Z
+updated: 2024-10-26T06:22:21.439Z
 tags: 
   - ai
   - animation videos
@@ -29,6 +29,13 @@ To create and edit videos flawlessly, Canva offers great options. It contains pr
 
 Furthermore, using Canva, you can also add exciting animations and transitions to your videos to generate a smooth look. You can also add multiple overlays to add more dimensions to your video clips. Also, you can use the **Canvas captions** feature to generate customized subtitles for your video files. To learn more about Canva, let’s shed light on its key features, advantages, and pricing plans:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Features of Canva
 
 * **Multiple Export Options**: Canva offers various export formats such as MP3, PNG, GIF, MP4, PPTX, etc. You can also check the video quality before exporting it to your device.
@@ -53,13 +60,6 @@ If you want to learn more about Canva's detailed plan, you can visit its [offici
 | Canva Pro       | $54.99/Year for 1 Person |
 | Canva for Teams | $84.90/Year for 5 Person |
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Add Captions to Videos in Canva?
 
 Do you want to know **how to add subtitles in Canva**? Adding subtitles in Canva is extremely simple and quick. In this section, we have jotted down accurate and simple instructions to add subtitles using the Canva tool:
@@ -77,17 +77,10 @@ Step3 You can also add effects and animation to your added subtitles for more en
 ![hit the share button](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Is There a Good Alternative to Add Subtitles to Videos?
@@ -115,6 +108,13 @@ Download and launch Filmora on your desktop to initiate the process. On its main
 Once done with uploading the file, drag the video file to the timeline. Click on the “Speech-to-Text” icon displayed on the timeline and hit the “OK” button after selecting the required language and file. After some seconds, subtitles would be automatically added to the timeline.
 
 ![customize speech to text options](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3 Add Modifications to Subtitles
 
@@ -158,13 +158,6 @@ Canva provides a very basic user interface to create subtitles. If you want to e
 
 Filmora also offers great styles and font options to customize the subtitles. You can easily check the results from the preview window of this efficient video editor. Hence, Filmora acts as a complete and well-trusted platform to generate subtitles in different ways.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Instructions to Create Subtitles Using Filmora
 
 Are you tired of writing subtitles manually in Canva? Read the precise instructions guided below to create the subtitles automatically in more than 16 languages:
@@ -186,6 +179,13 @@ Once done with uploading the file, drag the video file to the timeline. Click on
 On your timeline, double-click on the auto-generated subtitles to open the edit settings. By going to the Presets section, you can select the subtitle styles. To add more modifications, you can head to the Custom tab as displayed on your screen. From here, you can change the font, style, color, and size of the subtitles. To confirm the subtitles edits, press the “OK” button.
 
 ![modify your added subtitles](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4 Export the Video File
 
@@ -272,22 +272,35 @@ Wondershare: A video-making and editing program has its flagship product called 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Import Files
 
 Media files may be easily added to the timeline in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) from the device's library. .mpg,.mpeg, and many more file types are supported for this video file format's input.
 
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utilize Filmstock
 
 On [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), there is a full-service shop called Filmstock that offers a ton of exciting media and after-effects for download. You may get free sound effects and short video clips to add to your videos on this website.
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Edit Effect
 
@@ -298,6 +311,13 @@ Download films from the effect store or import them from your device and add the
 ### Apply filters
 
 Overlays and video filters are effects used to enhance the appeal of the video. Open the effects tab and select your desired filter to apply overlays and filters. To apply it, drag and drop it into the timeline's video. Additionally, filters may be adjusted to change the time scale and transparency.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Export
 
@@ -365,13 +385,6 @@ Media files may be easily added to the timeline in [Filmora](https://tools.techi
 
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Utilize Filmstock
 
 On [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), there is a full-service shop called Filmstock that offers a ton of exciting media and after-effects for download. You may get free sound effects and short video clips to add to your videos on this website.
@@ -427,13 +440,6 @@ There are very many programs in the market that can technically be used to add t
 Adobe After Effects is a motion picture editing program that you can also use to add text and other animations to your video. While you can use it to add simple text to the video, it is an ideal solution when your goal is to add advanced text animations. It is however by no means a simple solution, especially for beginners who may find it hard to get going with After Effects.
 
 ![after effects](https://images.wondershare.com/filmora/article-images/after-effects-new-text.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key Features:**
 
@@ -495,6 +501,13 @@ Typito is an online video editor with simple tools that can help you make change
 * Changing the font size, color, and style of the text is very easy
 * You can publish videos directly to numerous video-sharing sites after editing
 * It allows users to add animations, transitions, and effects to the text
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Splice
 
@@ -588,13 +601,6 @@ This article may refer to some features that are only available in the Pro editi
 
 The interface of Color Finale 2 is split into two sections: a control panel that can be found in the Final Cut Pro inspector and a layer editing panel that can be moved around and resized. These panels make use of a design language for the interface that is similar to that of Final Cut Pro. Both have contextual pulldown pickers and contextual menus, in addition to return arrows that are located next to the majority of the parameters in order to reset their values to the default (identified by three vertical dots).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Minimum system requirements?
 
 Apple Mac 2012 or newer OS X 10.13 and later Requires graphics card sold by Apple supporting Graphics card with Metal support Final Cut Pro X 10.4 or later 4 GB of RAM.
@@ -629,18 +635,17 @@ Color Finale includes several high-end color suite capabilities. Color Finale in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-secure-re-entry-resuming-fb-usage-post-hack/"><u>[New] 2024 Approved Secure Re-Entry Resuming Fb Usage Post Hack</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-comparing-360-degree-captures-and-full-immersion-media/"><u>[New] Comparing 360-Degree Captures and Full Immersion Media</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-digital-self-portrait-designing-your-animated-profile-for-2024/"><u>[New] Digital Self-Portrait Designing Your Animated Profile for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-2024s-leading-cloud-services-pricing-ranked/"><u>[Updated] 2024'S Leading Cloud Services Pricing Ranked</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-the-end-scene-in-youtube-productions-for-2024/"><u>[Updated] Elevating the End Scene in YouTube Productions for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos./"><u>2024 Approved Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-3d-camera-tracking-effects-in-after-effects/"><u>2024 Approved How to Use 3D Camera Tracking Effects in After Effects</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-key-to-advanced-web-personalization-and-analytics/"><u>Cookiebot: The Key to Advanced Web Personalization and Analytics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722136301026-experience-advanced-chatbot-intelligence-on-your-android-device-now/"><u>Experience Advanced Chatbot Intelligence on Your Android Device Now!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-comment-on-youtube-live-chat/"><u>In 2024, How to Comment on YouTube Live Chat</u></a></li>
-<li><a href="https://win-news.techidaily.com/losungen-fur-iphone-videoprobleme-bei-verschiedenen-bedingungen/"><u>Lösungen Für iPhone-Videoprobleme Bei Verschiedenen Bedingungen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-full-guide-to-funcall-voice-changer-and-its-alternatives-for-2024/"><u>Updated Full Guide to Funcall Voice Changer and Its Alternatives for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-stitching-gopro-content-in-extended-panorama-videos/"><u>[New] Master Stitching GoPro Content in Extended Panorama Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebook-today-key-changes-for-users/"><u>[Updated] 2024 Approved Facebook Today Key Changes for Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-auditory-capture-techniques-for-professional-note-takers/"><u>[Updated] Auditory Capture Techniques for Professional Note-Takers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-track-mattes-the-ultimate-guide-for-after-effects/"><u>2024 Approved Track Mattes The Ultimate Guide For After Effects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fix-for-disappearing-bluetooth-in-windows-10-get-back-online-now/"><u>Easy Fix for Disappearing Bluetooth in Windows 10 - Get Back Online Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-stability-solving-the-star-citizen-windows-crashes-problem/"><u>Enhanced Stability: Solving the Star Citizen Windows Crashes Problem</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastering-pip-a-complete-overview-on-edge-browser-for-2024/"><u>Mastering PIP A Complete Overview on Edge Browser for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/"><u>New 2024 Approved Creative Ways to Add Green Screen Effects In Photoshop</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-your-own-lol-montage-video-for-2024/"><u>New How to Create Your Own LOL Montage Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-legend-intro-maker-create-intro-video-with-ease/"><u>New In 2024, Legend Intro Maker – Create Intro Video with Ease</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-content-creati/"><u>New Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-sound-problems-in-your-airpods-quickly-top-10-tips-and-hacks/"><u>Solve Sound Problems in Your AirPods Quickly - Top 10 Tips and Hacks</u></a></li>
 </ul></div>
 
