@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro
-date: 2024-10-23T19:29:08.376Z
-updated: 2024-10-26T06:18:25.593Z
+date: 2024-10-30T03:42:35.225Z
+updated: 2024-11-01T02:25:21.559Z
 tags: 
   - ai
   - animation videos
@@ -160,10 +160,10 @@ Essentially, the workflow will be slightly different for these two scenarios. It
 With that in mind, here is how to make a gaming montage.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1) Decide Your Montage Story/Type
@@ -171,13 +171,6 @@ With that in mind, here is how to make a gaming montage.
 Deciding your montage type beforehand helps clear your mind and create an epic gaming montage that will keep viewers watching. It allows you to choose the relevant video clips for your gaming montage.
 
 Choose the topic of the video and decide the length of each clip and the sequence of the clips. Be sure to put the most epic or funny clips in the last section of your video. And this will make your viewers watch the video until the end.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2) Record Your Gameplay Footage
 
@@ -252,13 +245,6 @@ Try to match gunshot sounds with beats and rhythms in shooter video games. The b
 ### 4\. Add Creative Transitions
 
 You can spice up your gaming montage by adding transitions, especially when you have loads of clips for the montage. But avoid overusing it, as you could confuse your audience with a range of dazzling and glaring transitions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Color Grade the Video for the Mood
 
@@ -330,6 +316,13 @@ Deciding your montage type beforehand helps clear your mind and create an epic g
 
 Choose the topic of the video and decide the length of each clip and the sequence of the clips. Be sure to put the most epic or funny clips in the last section of your video. And this will make your viewers watch the video until the end.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2) Record Your Gameplay Footage
 
 The methods to capture the gameplay varies depending on the platform where the game is. The most important thing you have to keep in mind is to ensure your recorder supports Replay Buffer; this will allow you to record scenes that occurred minutes or seconds ago.
@@ -349,6 +342,19 @@ By right-clicking on the clip in your timeline, you'll see the options to zoom, 
 ![How to make a game montage - import videos](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-1.png)
 
 Import Videos
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4) Choose Background Music for Your Montage
 
@@ -382,13 +388,6 @@ Once you have finished editing your video and added music, hit the Export button
 
 You can now enter your login details and upload your gaming montage video on your YouTube channel to share it with other players.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Useful Tips for Making a Gaming Montage
 
 Making gaming montages can help you build a large online community if you do the right thing. When making a gaming montage, there are a few tips that you should keep in mind. They include:
@@ -421,19 +420,6 @@ You can add dark edges around the corners of your video to highlight action or c
 
 You can use Filmora to apply the vignetting effect by heading to Advanced Color Tuning, then clicking the Vignette option. You can then add the vignette effect to the video. Additionally, you can adjust the vignette's exposure, feather, roundness, size, and highlights.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Gaming Montage for Studying
 
 Here are three gaming montages that are good for studying.
@@ -446,6 +432,13 @@ DemixB set the gunshot in the montage video to the music tune. The track builds 
 
 ![Best Gaming Montage Example - Call of Duty: Modern Warfare](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Call of Duty: Modern Warfare
 
 ### 2\. ShutteR's Gaming Montage
@@ -457,6 +450,13 @@ ShutteR used a slow-motion to highlight action in each scene, then speeds up aga
 ![Best Gaming Montage Example - ShutteR's Gaming Montage](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-5.png)
 
 ShutteR's Gaming Montage
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. NEVERMORE \[CS: GO\]
 
@@ -519,6 +519,13 @@ Being aware of the right ratio for each social media platform will help you to a
 
 ![split testimonial video into small clips](https://images.wondershare.com/filmora/article-images/2022/08/split-testimonial-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When you're ready, drag your video testimonials to the Show Track then begin to use the “split” button to cut out parts of the video.
 
 To split a video into smaller sections, start by cutting it down to the appropriate length by moving the playhead to the beginning position of the part you want to cut, clicking the Split icon (the scissors icon) on the toolbar, or clicking the Split button on the playhead.
@@ -530,6 +537,13 @@ From there, repeat this procedure until you've completed the whole narrative. Yo
 If desired, add catchy headlines/texts like "How to Eliminate Chronic Pain Forever”. You can do this by clicking Text button from toolbar located across top portion of screen (beside Transitions button).
 
 ![add catchy headlines and text](https://images.wondershare.com/filmora/article-images/2022/08/add-logo-to-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Adding a phrase or a short sentence is called “headline”. It would be nice to add one of them at your video, so that viewers can get an idea about what it's about before watching it in full. The text can be customized by using different font styles like bold, italic, underline etc., as well as its size and color.
 
@@ -570,19 +584,6 @@ To add a logo or watermark to your video, follow these steps:
 You may also add your company's logo at the end of the video as a fade-out transition.
 
 ![add business logo](https://images.wondershare.com/filmora/article-images/2022/08/add-logo-to-video-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 By adding a logo or watermark to your video, you can make it harder for people to illegally distribute and share your video without permission. It helps also to promote your brand or business. When viewers see your logo or watermark throughout the video, they will be more likely to remember who made the video and where they can find more information about your company or products.
 
@@ -653,175 +654,174 @@ Place the marker where you want the frame to freeze. Click on Camera icon under 
 
 ![add audio effects on sports videos](https://images.wondershare.com/filmora/article-images/2022/snapshot-freeze-frame-clone-video.jpg)
 
+Step 4
+
+Match the duration of the snapshot with the point where you want the frame to freeze. Go to Effects> AI Portrait> Human Segmentation and drop the effect on the snapshot layer to make the background disappear.
+
+![adjust speed sports game video](https://images.wondershare.com/filmora/article-images/2022/use-ai-portrait-freeze-frame-clone.jpg)
+
+Step 5
+
+Double-click on the snapshot layer. Go to Effect and adjust the Edge thickness so that it looks perfect. Click on OK button and play the video to check out the effect.
+
+![add vintage effects sports game video](https://images.wondershare.com/filmora/article-images/2022/adjust-edge-freeze-frame-clone-video.jpg)
+
+Step 6
+
+Perform Step 3 to Step 5 again where you need to select a frame to freeze, take snapshot, drop onto timeline and remove background. Finally, play the video to check out the freeze frame clone effect. Save the video on your hard drive by click on Export button.
+
+![add light leaks sports video](https://images.wondershare.com/filmora/article-images/2022/export-freeze-frame-clone-video.jpg)
+
+Summary
+
+What you’ve learned:
+
+* How to take snapshot from a video for freeze frame
+* How to remove background from snapshot
+* How to mix snapshots and video for cloning effect
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+Download and install Wondershare Filmora on your computer. Launch Filmora and click on New Project on the welcome screen. Alternatively, go to File menu and select New Project option.
+
+![import-freeze-frame-clone-video](https://images.wondershare.com/filmora/article-images/2022/import-freeze-frame-clone-video.jpg)
+
+Step 2
+
+Import your video clip to Project Media folder. Go to File> Import Media and click on Import Media Files option. Select the video clip from your hard drive. Otherwise, you can drag and drop the video clip directly into the Project Media folder. Finally, drop the video clip from Project Media folder onto the timeline.
+
+![import sports video into filmora](https://images.wondershare.com/filmora/article-images/2022/drag-freeze-frame-clone-video-timeline.jpg)
+
+Step 3
+
+Place the marker where you want the frame to freeze. Click on Camera icon under Program window. This will take a snapshot of the current frame and place it under Project Media folder. Drag and drop the snapshot onto the timeline.
+
+![add audio effects on sports videos](https://images.wondershare.com/filmora/article-images/2022/snapshot-freeze-frame-clone-video.jpg)
+
+Step 4
+
+Match the duration of the snapshot with the point where you want the frame to freeze. Go to Effects> AI Portrait> Human Segmentation and drop the effect on the snapshot layer to make the background disappear.
+
+![adjust speed sports game video](https://images.wondershare.com/filmora/article-images/2022/use-ai-portrait-freeze-frame-clone.jpg)
+
+Step 5
+
+Double-click on the snapshot layer. Go to Effect and adjust the Edge thickness so that it looks perfect. Click on OK button and play the video to check out the effect.
+
+![add vintage effects sports game video](https://images.wondershare.com/filmora/article-images/2022/adjust-edge-freeze-frame-clone-video.jpg)
+
+Step 6
+
+Perform Step 3 to Step 5 again where you need to select a frame to freeze, take snapshot, drop onto timeline and remove background. Finally, play the video to check out the freeze frame clone effect. Save the video on your hard drive by click on Export button.
+
+![add light leaks sports video](https://images.wondershare.com/filmora/article-images/2022/export-freeze-frame-clone-video.jpg)
+
+Summary
+
+What you’ve learned:
+
+* How to take snapshot from a video for freeze frame
+* How to remove background from snapshot
+* How to mix snapshots and video for cloning effect
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+Download and install Wondershare Filmora on your computer. Launch Filmora and click on New Project on the welcome screen. Alternatively, go to File menu and select New Project option.
+
+![import-freeze-frame-clone-video](https://images.wondershare.com/filmora/article-images/2022/import-freeze-frame-clone-video.jpg)
+
+Step 2
+
+Import your video clip to Project Media folder. Go to File> Import Media and click on Import Media Files option. Select the video clip from your hard drive. Otherwise, you can drag and drop the video clip directly into the Project Media folder. Finally, drop the video clip from Project Media folder onto the timeline.
+
+![import sports video into filmora](https://images.wondershare.com/filmora/article-images/2022/drag-freeze-frame-clone-video-timeline.jpg)
+
+Step 3
+
+Place the marker where you want the frame to freeze. Click on Camera icon under Program window. This will take a snapshot of the current frame and place it under Project Media folder. Drag and drop the snapshot onto the timeline.
+
+![add audio effects on sports videos](https://images.wondershare.com/filmora/article-images/2022/snapshot-freeze-frame-clone-video.jpg)
+
+Step 4
+
+Match the duration of the snapshot with the point where you want the frame to freeze. Go to Effects> AI Portrait> Human Segmentation and drop the effect on the snapshot layer to make the background disappear.
+
+![adjust speed sports game video](https://images.wondershare.com/filmora/article-images/2022/use-ai-portrait-freeze-frame-clone.jpg)
+
+Step 5
+
+Double-click on the snapshot layer. Go to Effect and adjust the Edge thickness so that it looks perfect. Click on OK button and play the video to check out the effect.
+
+![add vintage effects sports game video](https://images.wondershare.com/filmora/article-images/2022/adjust-edge-freeze-frame-clone-video.jpg)
+
+Step 6
+
+Perform Step 3 to Step 5 again where you need to select a frame to freeze, take snapshot, drop onto timeline and remove background. Finally, play the video to check out the freeze frame clone effect. Save the video on your hard drive by click on Export button.
+
+![add light leaks sports video](https://images.wondershare.com/filmora/article-images/2022/export-freeze-frame-clone-video.jpg)
+
+Summary
+
+What you’ve learned:
+
+* How to take snapshot from a video for freeze frame
+* How to remove background from snapshot
+* How to mix snapshots and video for cloning effect
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+Download and install Wondershare Filmora on your computer. Launch Filmora and click on New Project on the welcome screen. Alternatively, go to File menu and select New Project option.
+
+![import-freeze-frame-clone-video](https://images.wondershare.com/filmora/article-images/2022/import-freeze-frame-clone-video.jpg)
+
+Step 2
+
+Import your video clip to Project Media folder. Go to File> Import Media and click on Import Media Files option. Select the video clip from your hard drive. Otherwise, you can drag and drop the video clip directly into the Project Media folder. Finally, drop the video clip from Project Media folder onto the timeline.
+
+![import sports video into filmora](https://images.wondershare.com/filmora/article-images/2022/drag-freeze-frame-clone-video-timeline.jpg)
+
+Step 3
+
+Place the marker where you want the frame to freeze. Click on Camera icon under Program window. This will take a snapshot of the current frame and place it under Project Media folder. Drag and drop the snapshot onto the timeline.
+
+![add audio effects on sports videos](https://images.wondershare.com/filmora/article-images/2022/snapshot-freeze-frame-clone-video.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-Step 4
-
-Match the duration of the snapshot with the point where you want the frame to freeze. Go to Effects> AI Portrait> Human Segmentation and drop the effect on the snapshot layer to make the background disappear.
-
-![adjust speed sports game video](https://images.wondershare.com/filmora/article-images/2022/use-ai-portrait-freeze-frame-clone.jpg)
-
-Step 5
-
-Double-click on the snapshot layer. Go to Effect and adjust the Edge thickness so that it looks perfect. Click on OK button and play the video to check out the effect.
-
-![add vintage effects sports game video](https://images.wondershare.com/filmora/article-images/2022/adjust-edge-freeze-frame-clone-video.jpg)
-
-Step 6
-
-Perform Step 3 to Step 5 again where you need to select a frame to freeze, take snapshot, drop onto timeline and remove background. Finally, play the video to check out the freeze frame clone effect. Save the video on your hard drive by click on Export button.
-
-![add light leaks sports video](https://images.wondershare.com/filmora/article-images/2022/export-freeze-frame-clone-video.jpg)
-
-Summary
-
-What you’ve learned:
-
-* How to take snapshot from a video for freeze frame
-* How to remove background from snapshot
-* How to mix snapshots and video for cloning effect
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-Download and install Wondershare Filmora on your computer. Launch Filmora and click on New Project on the welcome screen. Alternatively, go to File menu and select New Project option.
-
-![import-freeze-frame-clone-video](https://images.wondershare.com/filmora/article-images/2022/import-freeze-frame-clone-video.jpg)
-
-Step 2
-
-Import your video clip to Project Media folder. Go to File> Import Media and click on Import Media Files option. Select the video clip from your hard drive. Otherwise, you can drag and drop the video clip directly into the Project Media folder. Finally, drop the video clip from Project Media folder onto the timeline.
-
-![import sports video into filmora](https://images.wondershare.com/filmora/article-images/2022/drag-freeze-frame-clone-video-timeline.jpg)
-
-Step 3
-
-Place the marker where you want the frame to freeze. Click on Camera icon under Program window. This will take a snapshot of the current frame and place it under Project Media folder. Drag and drop the snapshot onto the timeline.
-
-![add audio effects on sports videos](https://images.wondershare.com/filmora/article-images/2022/snapshot-freeze-frame-clone-video.jpg)
-
-Step 4
-
-Match the duration of the snapshot with the point where you want the frame to freeze. Go to Effects> AI Portrait> Human Segmentation and drop the effect on the snapshot layer to make the background disappear.
-
-![adjust speed sports game video](https://images.wondershare.com/filmora/article-images/2022/use-ai-portrait-freeze-frame-clone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 5
-
-Double-click on the snapshot layer. Go to Effect and adjust the Edge thickness so that it looks perfect. Click on OK button and play the video to check out the effect.
-
-![add vintage effects sports game video](https://images.wondershare.com/filmora/article-images/2022/adjust-edge-freeze-frame-clone-video.jpg)
-
-Step 6
-
-Perform Step 3 to Step 5 again where you need to select a frame to freeze, take snapshot, drop onto timeline and remove background. Finally, play the video to check out the freeze frame clone effect. Save the video on your hard drive by click on Export button.
-
-![add light leaks sports video](https://images.wondershare.com/filmora/article-images/2022/export-freeze-frame-clone-video.jpg)
-
-Summary
-
-What you’ve learned:
-
-* How to take snapshot from a video for freeze frame
-* How to remove background from snapshot
-* How to mix snapshots and video for cloning effect
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-Download and install Wondershare Filmora on your computer. Launch Filmora and click on New Project on the welcome screen. Alternatively, go to File menu and select New Project option.
-
-![import-freeze-frame-clone-video](https://images.wondershare.com/filmora/article-images/2022/import-freeze-frame-clone-video.jpg)
-
-Step 2
-
-Import your video clip to Project Media folder. Go to File> Import Media and click on Import Media Files option. Select the video clip from your hard drive. Otherwise, you can drag and drop the video clip directly into the Project Media folder. Finally, drop the video clip from Project Media folder onto the timeline.
-
-![import sports video into filmora](https://images.wondershare.com/filmora/article-images/2022/drag-freeze-frame-clone-video-timeline.jpg)
-
-Step 3
-
-Place the marker where you want the frame to freeze. Click on Camera icon under Program window. This will take a snapshot of the current frame and place it under Project Media folder. Drag and drop the snapshot onto the timeline.
-
-![add audio effects on sports videos](https://images.wondershare.com/filmora/article-images/2022/snapshot-freeze-frame-clone-video.jpg)
-
-Step 4
-
-Match the duration of the snapshot with the point where you want the frame to freeze. Go to Effects> AI Portrait> Human Segmentation and drop the effect on the snapshot layer to make the background disappear.
-
-![adjust speed sports game video](https://images.wondershare.com/filmora/article-images/2022/use-ai-portrait-freeze-frame-clone.jpg)
-
-Step 5
-
-Double-click on the snapshot layer. Go to Effect and adjust the Edge thickness so that it looks perfect. Click on OK button and play the video to check out the effect.
-
-![add vintage effects sports game video](https://images.wondershare.com/filmora/article-images/2022/adjust-edge-freeze-frame-clone-video.jpg)
-
-Step 6
-
-Perform Step 3 to Step 5 again where you need to select a frame to freeze, take snapshot, drop onto timeline and remove background. Finally, play the video to check out the freeze frame clone effect. Save the video on your hard drive by click on Export button.
-
-![add light leaks sports video](https://images.wondershare.com/filmora/article-images/2022/export-freeze-frame-clone-video.jpg)
-
-Summary
-
-What you’ve learned:
-
-* How to take snapshot from a video for freeze frame
-* How to remove background from snapshot
-* How to mix snapshots and video for cloning effect
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-Download and install Wondershare Filmora on your computer. Launch Filmora and click on New Project on the welcome screen. Alternatively, go to File menu and select New Project option.
-
-![import-freeze-frame-clone-video](https://images.wondershare.com/filmora/article-images/2022/import-freeze-frame-clone-video.jpg)
-
-Step 2
-
-Import your video clip to Project Media folder. Go to File> Import Media and click on Import Media Files option. Select the video clip from your hard drive. Otherwise, you can drag and drop the video clip directly into the Project Media folder. Finally, drop the video clip from Project Media folder onto the timeline.
-
-![import sports video into filmora](https://images.wondershare.com/filmora/article-images/2022/drag-freeze-frame-clone-video-timeline.jpg)
-
-Step 3
-
-Place the marker where you want the frame to freeze. Click on Camera icon under Program window. This will take a snapshot of the current frame and place it under Project Media folder. Drag and drop the snapshot onto the timeline.
-
-![add audio effects on sports videos](https://images.wondershare.com/filmora/article-images/2022/snapshot-freeze-frame-clone-video.jpg)
 
 Step 4
 
@@ -867,14 +867,17 @@ What you’ve learned:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-key-techniques-for-storing-lol-matches/"><u>[Updated] In 2024, Key Techniques for Storing LOL Matches</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-screen-snatchers-handbook-by-zd-software-experts-for-2024/"><u>[Updated] The Ultimate Screen Snatcher’s Handbook by ZD Software Experts for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-kinetic-typography-text-effect-easyandfast/"><u>2024 Approved Kinetic Typography Text Effect 【EASY&FAST】</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-journey-through-the-digital-landscape-six-engaging-quizzes-for-every-vlogger-admirer/"><u>A Journey Through the Digital Landscape Six Engaging Quizzes for Every Vlogger Admirer</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-image-jpgpng-to-gif-converters/"><u>Best Image (JPG/PNG) to GIF Converters</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-6s-plus-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 6s Plus Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-redmi-note-12-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Redmi Note 12 5G Phone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-applying-the-effect-of-camera-shake-in-video-creation/"><u>New Applying the Effect of Camera Shake in Video Creation</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-videos-with-imovie/"><u>Updated 2024 Approved How to Loop Videos with iMovie</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-making-the-most-of-both-worlds-obs-and-zoom-guide/"><u>[New] 2024 Approved Making the Most of Both Worlds OBS & Zoom Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-essential-tips-building-an-instagram-money-machine/"><u>[Updated] 2024 Approved Essential Tips Building an Instagram Money Machine</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-obs-and-zoom-integration-tips-for-2024/"><u>[Updated] Mastering OBS & Zoom Integration Tips for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-easy-steps-to-create-intro-video-with-after-effects/"><u>2024 Approved Easy Steps to Create Intro Video with After Effects</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/boosting-income-via-social-media-snapchats-methods/"><u>Boosting Income via Social Media Snapchat's Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-break-down-and-fix-frozen-windows-updates/"><u>How to Break Down and Fix Frozen Windows Updates</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-realme-narzo-n55-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Sony Xperia 5 V FRP</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-youtube-intro-for-2024/"><u>New How To Create A YouTube Intro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-save-as-mp4-file-on-windows-movie-maker/"><u>New How to Save As MP4 File on Windows Movie Maker?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-easter-treat-unlock-wondershare-filmora-discounts-with-our-special-coupon-code/"><u>New In 2024, Easter Treat Unlock Wondershare Filmora Discounts with Our Special Coupon Code</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-mirror-a-video-clip-in-premiere-pro/"><u>Updated 2024 Approved How To Mirror a Video Clip in Premiere Pro</u></a></li>
 </ul></div>
 

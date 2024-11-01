@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Add Text Animation to A Video Online
-date: 2024-10-25T07:49:43.813Z
-updated: 2024-10-25T22:29:06.114Z
+date: 2024-10-25T04:50:57.782Z
+updated: 2024-11-01T00:55:52.857Z
 tags: 
   - ai
   - animation videos
@@ -165,13 +165,6 @@ For the first shot, stay on one side of the frame and do the first action. For e
 
 ![shooting the first clip](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-1.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To make it more realistic, make an interaction by reacting to the "clone" while facing the other direction.
 
 ![make an interaction](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-2.jpg)
@@ -240,6 +233,13 @@ Then, drag and drop the effect again in the transition between the first and the
 
 Step3 You can playback and see how it looks on the preview screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Summary
 
 Making a clone effect on video is easy using Filmora. You can use the same trick to create a fashion lookbook video or other creative content to make them more engaging. Let us know if you want to see more tutorials.
@@ -276,13 +276,6 @@ Step3 If the timing of the two clips doesn't match, you can fix it using the spe
 
 ![double-click the second clip](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Move the keyframe up to increase the speed. You can adjust it according to your needs.
 
 ![adjust keyframe](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-9.gif)
@@ -318,13 +311,6 @@ Making a clone effect on video is easy using Filmora. You can use the same trick
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Movavi Slideshow Maker Is a Powerful Video Editing Tool that Can Be Used to Add Rich Effects to Videos Easily. This Guide Will Introduce the Features and Show You How to Apply Effects to Videos with This Tool
 
@@ -441,6 +427,13 @@ _Brush – Sketch Filter effect_
 
 ![brush sketch filter effect](https://images.wondershare.com/filmora/article-images/2022/11/brush-sketch-filter-effect.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Adding Transition Effect
 
 Transitions guide your audience.
@@ -466,13 +459,6 @@ Step4 If you finally chose a Transition effect, drag it between each imported vi
 Step5 Now you will see this kind of symbol, which means you have already put a Transition effect between the imported videos.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **_Note:_** Transition effects can also be applied even if you have only one video. You can put transitions effects either at the start of the video, which could make your video introduction more appealing. Also, you can set the Transition effect at the end of the video, which could give you a pleasant closing.
 
@@ -568,13 +554,6 @@ Step7 You can also adjust the time duration of the Titling Motion effect in two 
 
 ![change title duration movavi slideshow](https://images.wondershare.com/filmora/article-images/2022/11/change-title-duration-movavi-slideshow.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 These are some ways to apply effects on Movavi Slideshow Maker video editing software. You can choose your desired effects that can make an excellent contribution to your video project. You can download other effects not included in this software by simply going to their store. Click the Help tab to find “Movavi Store” or “Movavi Effects Store.”
 
 ![click movavi effects store](https://images.wondershare.com/filmora/article-images/2022/11/click-movavi-effects-store.jpg)
@@ -613,18 +592,18 @@ People upload them as Stories and Statuses to entertain their followers regularl
 
 **Timelapse** \- Timelapse videos are a treat to watch. You can shoot the video in timelapse mode or speed up the video while editing. That is how you can fit hours of a video into a few minutes or seconds of video duration.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part II. Speed Up Video using DaVinci Resolve
 
 DaVinci Resolve is a professional video editor where you can change your video's speed in several ways. You can instantly change your video clip's speed by mentioning the speed in terms of percentage.
 
 You can also use the advanced Speed Ramp option to customize the video speed unevenly. Besides, there are retime curves to adjust the video speed at your convenience. Let us go through the detailed guide on how to speed up the video in DaVinci Resolve 17.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1\. Change Clip Speed Option
 
@@ -652,6 +631,13 @@ Step1 Right-click the video clip on your timeline. From the menu, select the Ret
 
 ![video clip](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Move the play head where you want to change the speed. Click the arrow next to 100% and select the Add Speed Point option. Similarly, move the play head to another point and add a new speed point.
 
 ![change the speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-5.jpg)
@@ -659,6 +645,13 @@ Step2 Move the play head where you want to change the speed. Click the arrow nex
 Step3 Click on the arrow next to 100% to change the speed between two-speed points. Go to the Change Speed option and select from the preset. Based on your preset speed selection, the video's speed within the speed points will change.
 
 ![arrow next to 100](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part III. Pros and Cons
 
@@ -722,6 +715,13 @@ Step2 Choose the Uniform Speed option, which will open the Uniform Speed tab.
 
 ![uniform speed option](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Adjust the speed slider to change the video speed as you need.
 
 ![change the video speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-11.jpg)
@@ -743,13 +743,6 @@ Step3 You can select any preset or select the Customize option. When you select 
 ![select any preset](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-13.jpg)
 
 Step4 Click on the Ok button, followed by the Export button, to save the video.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part V. Comparison Between DaVinci Resolve and Filmora
 
@@ -786,13 +779,6 @@ There are basically three ways to change video speed in Filmora. You can choose 
 
 Watch [this video](https://www.youtube.com/watch?v=4w6CEhFHnII) to discover all the methods to change video speed in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1\. Select From Speed Presets
 
 You can instantly select from Speed Presets if you want to change your video speed in fewer steps. There are fast speed presets as well as slow speed presets available. Follow these steps to choose a speed preset.
@@ -800,6 +786,13 @@ You can instantly select from Speed Presets if you want to change your video spe
 Step1 Install Filmora on your computer (Windows or macOS). Open Filmora and select Create New Project.
 
 ![open filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Drag the video file from your computer to Filmora's timeline. Choose video and tap Speed icon that you can find at the top of the timeline.
 
@@ -818,6 +811,13 @@ Step1 Once you have the video on the timeline, click on the Speed icon.
 Step2 Choose the Uniform Speed option, which will open the Uniform Speed tab.
 
 ![uniform speed option](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Adjust the speed slider to change the video speed as you need.
 
@@ -874,21 +874,22 @@ We have answered how you can use the speed ramp DaVinci Resolve 17 to speed up y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-stream-to-screen-how-to-download-youtube-on-iphoneipad/"><u>[Updated] In 2024, From Stream to Screen How to Download Youtube on iPhone/iPad</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-insta-meets-tiktok-connectors-handbook/"><u>[Updated] Insta Meets TikTok Connector's Handbook</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-overlay-video-in-premiere-pro/"><u>2024 Approved How to Overlay Video in Premiere Pro</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-viral-video-ventures-crafting-addictive-loops-on-ig/"><u>2024 Approved Viral Video Ventures Crafting Addictive Loops on IG</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/como-rescatar-una-particion-desaparecida-en-el-registro-de-arranque-principal-mbr/"><u>Cómo Rescatar Una Partición Desaparecida en El Registro De Arranque Principal (MBR)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-f23-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo F23 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Nokia Lock Screen Password?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-initiate-seamless-gaming-streams-mastering-obs-recording/"><u>In 2024, Initiate Seamless Gaming Streams Mastering OBS Recording</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies/"><u>Learn to Use Montage with These Movies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-accessibility-on-insta-a-tutorial-for-instagram-story-captions/"><u>Mastering Accessibility on Insta: A Tutorial for Instagram Story Captions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-rated-free-video-editors-for-mp4-files/"><u>New Top-Rated Free Video Editors for MP4 Files</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/shotcut-review-is-it-the-best-free-video-editor-for-2024/"><u>Shotcut Review – Is It The Best Free Video Editor for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-remove-audio-from-video-without-watermark/"><u>Updated How to Remove Audio From Video Without Watermark?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>Updated In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/you-can-easily-film-rotating-video-illusions-from-your-smartphone-and-edit-them-on-wondershare-filmora-in-just-a-few-clicks-for-2024/"><u>You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-transforming-brands-a-list-of-20-keymarketing-phrases-for-2024/"><u>[New] Transforming Brands A List of 20 Keymarketing Phrases for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extracting-youtube-srt-step-by-step-strategies-for-successful-download/"><u>[Updated] Extracting YouTube SRT Step-by-Step Strategies for Successful Download</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-tips-for-efficiently-changing-fb-cover-image-for-2024/"><u>[Updated] Tips for Efficiently Changing FB Cover Image for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-glitch-effect-with-filmora/"><u>2024 Approved How to Make Glitch Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/decoding-the-history-of-ai-how-old-is-this-revolutionary-tech/"><u>Decoding the History of AI: How Old Is This Revolutionary Tech?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-personal-care-with-chatgpts-cutting-edge-uses/"><u>Elevating Personal Care with ChatGPT's Cutting-Edge Uses</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/frenzied-funhouse-a-guide-to-wildest-tiktok-games-for-2024/"><u>Frenzied Funhouse A Guide to Wildest TikTok Games for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/heroic-measures-against-a-corrupted-disk-in-steam-games-a-simple-fix-guide/"><u>Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-codegpt-into-your-vs-code-workflow-easy-installation-tips/"><u>Integrating CodeGPT Into Your VS Code Workflow: Easy Installation Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-the-release-of-gpt-5-imminent-anticipating-its-official-debut-date/"><u>Is the Release of GPT-5 Imminent? Anticipating Its Official Debut Date</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/local-vs-global-is-a-local-large-language-model-right-for-your-needs/"><u>Local vs Global: Is a Local Large Language Model Right for Your Needs?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-filter-to-video-online/"><u>New 2024 Approved How to Add Filter to Video Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-the-night-to-day-effect-video/"><u>New In 2024, How to Create the Night-to-Day Effect Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-windows-from-announcing-patches/"><u>Preventing Windows From Announcing Patches</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/resolved-troubleshooting-guide-overcoming-world-of-warcraft-wont-start-on-pc/"><u>Resolved: Troubleshooting Guide - Overcoming 'World of Warcraft Won't Start' On PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/step-up-your-streams-advanced-practices-for-capturing-vr-playtimes/"><u>Step Up Your Streams Advanced Practices for Capturing VR Playtimes</u></a></li>
 </ul></div>
 

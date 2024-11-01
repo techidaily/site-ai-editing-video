@@ -1,7 +1,7 @@
 ---
 title: New How To Add Motion Blur In Davinci Resolve, In 2024
-date: 2024-10-21T07:03:21.203Z
-updated: 2024-10-26T08:03:25.006Z
+date: 2024-10-28T06:12:18.863Z
+updated: 2024-11-01T04:56:53.777Z
 tags: 
   - ai
   - animation videos
@@ -87,18 +87,18 @@ After launching Filmora, hit the “Create New Project” button to open a new i
 
 ![create a new filmora project](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-davinci-resolve-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2 Choose the Motion Blur Effect
 
 Now go to the "Effects" tab and select the "Video Effects" category from the left panel. Now you will have to type "Blur" in the search bar to get all the blur effects of Filmora. Select your option and apply the effect to the timeline.
 
 ![search for blur effect](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-davinci-resolve-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3 Add the Dissolve Transition
 
@@ -107,10 +107,10 @@ You can also add a transition known as “Dissolve” by searching for it in the
 ![add the dissolve transition](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-davinci-resolve-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -185,13 +185,6 @@ Go back and open the “Settings” and select the “Camera” section. In came
 
 ![change camera settings](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Making a Slow Motion After Recording
 
 The first method will record your overall video in slow motion. However, you can use the other method to add a slow-mo effect to a specific part. Follow the given instructions to learn how to operate it:
@@ -207,6 +200,19 @@ Open the "Photos" application from your home screen and click "Albums." From the
 Choose a video from this album and go to the “Edit” option at the top right corner.
 
 ![start editing video](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 3
 
@@ -265,6 +271,19 @@ Whether it's about changing speed or doing other types of speed edits, this app 
 
 ![video speech changer editor](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-9.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Key Features
 
 * The tool offers to import or record media through its built-in recorder option.
@@ -296,13 +315,6 @@ Once you have downloaded this software, access the "New Project" button. Then, u
 Once you finish the speed settings, there is a tip to enhance the slow-mo effect. Find the "AI Frame Interpolation" option in the same section and expand it. Select the "Optical Flow" option at the third to smoothen the video.
 
 ![enable ai frame interpolation option](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3Rendering and Exporting
 
@@ -350,6 +362,13 @@ Open the "Photos" application from your home screen and click "Albums." From the
 
 ![access slow mo album](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2
 
 Choose a video from this album and go to the “Edit” option at the top right corner.
@@ -418,13 +437,6 @@ Whether it's about changing speed or doing other types of speed edits, this app 
 * The tool offers to import or record media through its built-in recorder option.
 * You can also add fast-motion elements like time-lapse, time warp, or hyper-lapse.
 * The user interface is straightforward and leaves no room for confusion.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Part: Make and Play Your Video in Slow Motion: Use Wondershare Filmora
 
@@ -564,6 +576,13 @@ Right-click the original downloaded PNG file in the Develop module. Go to "Devel
 
 ![paste settings in original png](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step6
 
 Now export the edited PNG by right-clicking on the PNG and selecting "Export." In the Export popup menu, ensure you have the same settings as in the screenshot.
@@ -655,6 +674,13 @@ Edit your photo inside the “Develop” module in Lightroom with your desired p
 
 ![open develop module and make changes ](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3
 
 Download the original PNG from <www.onlinelutcreator.com/lutcreator>. Import it into Lightroom as you did in the first step.
@@ -741,13 +767,6 @@ After importing your videos, you can start adding video filter effects. Filmora 
 
 With a few easy and quick taps on your mobile device, you can transform your video filters for iPhone to create visually stunning content.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part** **2 Apply Video Filters on Desktop**
 
 To apply video filters on your desktop, you can follow these steps using the software Filmora
@@ -760,16 +779,16 @@ To apply video filters on your desktop, you can follow these steps using the sof
 
 Start by downloading and installing the Filmora software onto your desktop. This software provides a range of video editing tools, including video filters.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Step 2: Import your videos**
 
 Open Filmora and import the videos you want to apply filters to. You can do this by clicking the "Import" button and selecting the video files from your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 3: Add video filter effects in 2 ways**
 
@@ -804,13 +823,6 @@ Start by downloading and installing the Filmora software onto your desktop. This
 ### **Step 2: Import your videos**
 
 Open Filmora and import the videos you want to apply filters to. You can do this by clicking the "Import" button and selecting the video files from your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 3: Add video filter effects in 2 ways**
 
@@ -850,19 +862,19 @@ In the modern digital era, Filmora will be the best video filter editor, thanks 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-igtv-video-placement-to-facebook-networks-5-ways/"><u>[New] In 2024, IGTV Video Placement to Facebook Networks (5 Ways)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-zany-tiktok-trials-the-ultimate-unusual-game-list/"><u>[Updated] Zany TikTok Trials The Ultimate Unusual Game List</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/1728505398934-4/"><u>如何還原已經被刪掉的資源回收桶：4種有效方法完整解析</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/fix-noted-uninterrupted-sign-in-to-your-online-accounts-guaranteed/"><u>Fix Noted: Uninterrupted Sign-In to Your Online Accounts Guaranteed</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-correct-lens-distortion-with-filmora/"><u>How to Correct Lens Distortion With Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-vintage-film-effect-1950s-for-2024/"><u>How to Make Vintage Film Effect 1950S for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-underdeveloped-world-of-vr-experiences/"><u>In 2024, The Underdeveloped World of VR Experiences</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-images-into-video-kapwing-tutorial/"><u>New In 2024, How to Convert Images Into Video - Kapwing Tutorial</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-something-about-skin-care-vlog-ideas/"><u>New Something About Skin Care Vlog Ideas</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-process-how-to-transform-vob-videos-to-mp4-on-pcs-running-windows-11-or-macos/"><u>Step-by-Step Process: How to Transform VOB Videos to MP4 on PCs Running Windows 11 or macOS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-best-motivational-films-to-fuel-your-ambition-for-2024/"><u>The Best Motivational Films to Fuel Your Ambition for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-audio-waveform-generator/"><u>Updated In 2024, Best Audio Waveform Generator</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeo-demystified-for-passionate-creators-and-viewers-for-2024/"><u>Vimeo Demystified For Passionate Creators & Viewers for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/windows-11-and-10-optimal-hevc-h265-encoder-for-quality-4k-video-conversion/"><u>Windows 11 & 10 Optimal HEVC H.265 Encoder for Quality 4K Video Conversion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-eliminating-frame-discrepancies-in-obs-recordings/"><u>[New] 2024 Approved Eliminating Frame Discrepancies in OBS Recordings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-efficiently-engaging-with-numerous-youtube-lectures-for-2024/"><u>[New] Efficiently Engaging with Numerous YouTube Lectures for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-honorable-warriors-reimagined-best-matching-gaming-titles/"><u>[Updated] 2024 Approved Honorable Warriors, Reimagined Best Matching Gaming Titles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-brighten-your-night-photos-on-iphone-quickly/"><u>2024 Approved Brighten Your Night Photos on Iphone Quickly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-the-future-of-ridesharing-tesla-robotaxi-pricing-and-release-details-unveiled/"><u>All You Need to Know About the Future of Ridesharing: Tesla Robotaxi Pricing & Release Details Unveiled!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/detailed-tutorial-correcting-the-not-found-problem-with-d3dx928dll/"><u>Detailed Tutorial: Correcting the 'Not Found' Problem with d3dx9_28.dll</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-green-screen-in-obs/"><u>How to Add Green Screen in OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-stop-chatgpt-from-saving-your-conversations/"><u>How to Stop ChatGPT From Saving Your Conversations</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-ad/"><u>New 2024 Approved Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-rec-room-mic-problems-for-pc-users-comprehensive-2024-edition/"><u>Solving Rec Room Mic Problems for PC Users - Comprehensive 2024 Edition</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>Updated A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-custom-filters-in-vn-app-2024-quick-guide/"><u>Updated How to Add Custom Filters in VN App 2024 Quick Guide</u></a></li>
 </ul></div>
 

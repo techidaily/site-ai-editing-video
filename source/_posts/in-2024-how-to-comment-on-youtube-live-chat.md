@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Comment on YouTube Live Chat
-date: 2024-09-30T08:49:31.682Z
-updated: 2024-10-03T10:43:15.165Z
+date: 2024-10-30T21:34:42.809Z
+updated: 2024-11-01T05:00:29.193Z
 tags: 
   - ai
   - animation videos
@@ -158,6 +158,13 @@ It's done. Let's add our channel text now.
 
 ![adding the channel text](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Now double-click this layer and add the text you want. You can also change the color of the text, scale it down and place it where ever you want.
 
 ![editing the channel text](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-12.png)
@@ -186,13 +193,6 @@ We can't finish our structure without icons, can we? So let's move on to them.
 
 ![thumbs up and mouse cursor icons added](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Finally, our structure is finished. Now let's start animating.
 
 ##### Step3 Animate the graphics
@@ -210,6 +210,13 @@ First, we'll make it so that all these graphics come in from below the view.
 * As you can see, the text appears before the color layers. Let's correct it. Double-click the text layer. Select the" Type Writer' form and hit the "Advanced option.
 
 ![selecting type writer style for text](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-20.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Here, you can adjust the text with the color layers.
 
@@ -358,13 +365,6 @@ We can't finish our structure without icons, can we? So let's move on to them.
 
 ![adding a freezeframe of the bell icon](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * You can also extend the freeze frame and remove the other parts. Then reduce its size and place it beside the "Subscribe" text.
 
 ![adjust the bell icon](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-16.png)
@@ -441,13 +441,6 @@ The process of animating out your graphics is like how we animated in our video.
 * From here, fix the text speed and end with your other graphic elements. After it's done, we will do the same for the "Subscribe" button text.
 
 ![adjust the text with your graphics](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-29.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Finally, our graphic is completed. "Export" it from the software to your computer.
 
@@ -533,6 +526,237 @@ Step 2: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degre
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 3: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-9.png)
+
+Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-10.png)
+
+## An Easy Way to Rotate Videos Using Filmora
+
+To conclude, there are a number of ways to rotate videos on different devices. In this article, we have shown you how to rotate videos using Obs. Meanwhile, we have another suggestion which is using [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate videos. Filmora is a Wondershare product that helps you to rotate videos without quality loss. With its easy-to-use interface, you can rotate videos with just a few clicks. If you are interested in it, please feel free to check the guide below:
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+### Step-by-step on how to rotate videos using Filmora
+
+How to rotate videos using Filmora?
+
+First, to rotate videos using Filmora, follow the steps below:
+
+Step 1: Import the video you want to rotate into Filmora.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 2: Click on the "Edit" button in the toolbar.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-12.png)
+
+Step 3: Go to Transform > Rotate.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-13.png)
+
+Step 4: Select the rotation angle you want to use.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-14.png)
+
+Step 5: Click on the ‘Ok’ to rotate it.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-15.png)
+
+Second, if you want to rotate a video and flip it, follow the steps below:
+
+Click on the flip option that you want to use, either upside down or sideways, vertically or horizontally.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-16.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Click on ‘Ok’ to apply the rotation and the flip.
+
+Third, if you want to rotate a video by a specific number of degrees, follow the steps below:
+
+To conclude, Filmora provides a number of ways for you to rotate your videos as well as using Obs. If you are looking for an easy way to rotate your videos without quality loss, then Filmora is the best option for you.
+
+Step 2: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-2.png)
+
+Step 3: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-3.png)
+
+Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-4.png)
+
+How to rotate using the advance controls in obs?
+
+Second, to use the filters in obs, follow the steps below:
+
+Step 1: Open obs and click on the Edit tab > Transform > Edit transform. You can also click Ctrl + E.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-5.png)
+
+Step 2: Go to the Rotation section.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-6.png)
+
+Step 3: Select the rotation degree you want to use.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-7.png)
+
+Step 4: Click on enter on your keyboard to rotate it.
+
+How to rotate using right-clicking on the video?
+
+Third, to use right-clicking on the video, follow the following:
+
+Step 1: Open obs and right-click on the clip that you want to rotate.
+
+Step 2: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-8.png)
+
+Step 3: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-9.png)
+
+Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-10.png)
+
+## An Easy Way to Rotate Videos Using Filmora
+
+To conclude, there are a number of ways to rotate videos on different devices. In this article, we have shown you how to rotate videos using Obs. Meanwhile, we have another suggestion which is using [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate videos. Filmora is a Wondershare product that helps you to rotate videos without quality loss. With its easy-to-use interface, you can rotate videos with just a few clicks. If you are interested in it, please feel free to check the guide below:
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+### Step-by-step on how to rotate videos using Filmora
+
+How to rotate videos using Filmora?
+
+First, to rotate videos using Filmora, follow the steps below:
+
+Step 1: Import the video you want to rotate into Filmora.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-11.png)
+
+Step 2: Click on the "Edit" button in the toolbar.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-12.png)
+
+Step 3: Go to Transform > Rotate.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-13.png)
+
+Step 4: Select the rotation angle you want to use.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-14.png)
+
+Step 5: Click on the ‘Ok’ to rotate it.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Second, if you want to rotate a video and flip it, follow the steps below:
+
+Click on the flip option that you want to use, either upside down or sideways, vertically or horizontally.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-16.png)
+
+Click on ‘Ok’ to apply the rotation and the flip.
+
+Third, if you want to rotate a video by a specific number of degrees, follow the steps below:
+
+To conclude, Filmora provides a number of ways for you to rotate your videos as well as using Obs. If you are looking for an easy way to rotate your videos without quality loss, then Filmora is the best option for you.
+
+Step 2: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-2.png)
+
+Step 3: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-3.png)
+
+Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+How to rotate using the advance controls in obs?
+
+Second, to use the filters in obs, follow the steps below:
+
+Step 1: Open obs and click on the Edit tab > Transform > Edit transform. You can also click Ctrl + E.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-5.png)
+
+Step 2: Go to the Rotation section.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-6.png)
+
+Step 3: Select the rotation degree you want to use.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-7.png)
+
+Step 4: Click on enter on your keyboard to rotate it.
+
+How to rotate using right-clicking on the video?
+
+Third, to use right-clicking on the video, follow the following:
+
+Step 1: Open obs and right-click on the clip that you want to rotate.
+
+Step 2: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
+
+![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-8.png)
+
 Step 3: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-9.png)
@@ -676,223 +900,6 @@ Step 4: Select the rotation angle you want to use.
 Step 5: Click on the ‘Ok’ to rotate it.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-15.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Second, if you want to rotate a video and flip it, follow the steps below:
-
-Click on the flip option that you want to use, either upside down or sideways, vertically or horizontally.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-16.png)
-
-Click on ‘Ok’ to apply the rotation and the flip.
-
-Third, if you want to rotate a video by a specific number of degrees, follow the steps below:
-
-To conclude, Filmora provides a number of ways for you to rotate your videos as well as using Obs. If you are looking for an easy way to rotate your videos without quality loss, then Filmora is the best option for you.
-
-Step 2: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-2.png)
-
-Step 3: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-3.png)
-
-Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-4.png)
-
-How to rotate using the advance controls in obs?
-
-Second, to use the filters in obs, follow the steps below:
-
-Step 1: Open obs and click on the Edit tab > Transform > Edit transform. You can also click Ctrl + E.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-5.png)
-
-Step 2: Go to the Rotation section.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-6.png)
-
-Step 3: Select the rotation degree you want to use.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-7.png)
-
-Step 4: Click on enter on your keyboard to rotate it.
-
-How to rotate using right-clicking on the video?
-
-Third, to use right-clicking on the video, follow the following:
-
-Step 1: Open obs and right-click on the clip that you want to rotate.
-
-Step 2: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-8.png)
-
-Step 3: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-9.png)
-
-Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-10.png)
-
-## An Easy Way to Rotate Videos Using Filmora
-
-To conclude, there are a number of ways to rotate videos on different devices. In this article, we have shown you how to rotate videos using Obs. Meanwhile, we have another suggestion which is using [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate videos. Filmora is a Wondershare product that helps you to rotate videos without quality loss. With its easy-to-use interface, you can rotate videos with just a few clicks. If you are interested in it, please feel free to check the guide below:
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-### Step-by-step on how to rotate videos using Filmora
-
-How to rotate videos using Filmora?
-
-First, to rotate videos using Filmora, follow the steps below:
-
-Step 1: Import the video you want to rotate into Filmora.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-11.png)
-
-Step 2: Click on the "Edit" button in the toolbar.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-12.png)
-
-Step 3: Go to Transform > Rotate.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-13.png)
-
-Step 4: Select the rotation angle you want to use.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-14.png)
-
-Step 5: Click on the ‘Ok’ to rotate it.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-15.png)
-
-Second, if you want to rotate a video and flip it, follow the steps below:
-
-Click on the flip option that you want to use, either upside down or sideways, vertically or horizontally.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-16.png)
-
-Click on ‘Ok’ to apply the rotation and the flip.
-
-Third, if you want to rotate a video by a specific number of degrees, follow the steps below:
-
-To conclude, Filmora provides a number of ways for you to rotate your videos as well as using Obs. If you are looking for an easy way to rotate your videos without quality loss, then Filmora is the best option for you.
-
-Step 2: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-2.png)
-
-Step 3: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-3.png)
-
-Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-4.png)
-
-How to rotate using the advance controls in obs?
-
-Second, to use the filters in obs, follow the steps below:
-
-Step 1: Open obs and click on the Edit tab > Transform > Edit transform. You can also click Ctrl + E.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-5.png)
-
-Step 2: Go to the Rotation section.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-6.png)
-
-Step 3: Select the rotation degree you want to use.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-7.png)
-
-Step 4: Click on enter on your keyboard to rotate it.
-
-How to rotate using right-clicking on the video?
-
-Third, to use right-clicking on the video, follow the following:
-
-Step 1: Open obs and right-click on the clip that you want to rotate.
-
-Step 2: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees clockwise.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-8.png)
-
-Step 3: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-9.png)
-
-Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-10.png)
-
-## An Easy Way to Rotate Videos Using Filmora
-
-To conclude, there are a number of ways to rotate videos on different devices. In this article, we have shown you how to rotate videos using Obs. Meanwhile, we have another suggestion which is using [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate videos. Filmora is a Wondershare product that helps you to rotate videos without quality loss. With its easy-to-use interface, you can rotate videos with just a few clicks. If you are interested in it, please feel free to check the guide below:
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-### Step-by-step on how to rotate videos using Filmora
-
-How to rotate videos using Filmora?
-
-First, to rotate videos using Filmora, follow the steps below:
-
-Step 1: Import the video you want to rotate into Filmora.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 2: Click on the "Edit" button in the toolbar.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-12.png)
-
-Step 3: Go to Transform > Rotate.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-13.png)
-
-Step 4: Select the rotation angle you want to use.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-14.png)
-
-Step 5: Click on the ‘Ok’ to rotate it.
-
-![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-15.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Second, if you want to rotate a video and flip it, follow the steps below:
 
@@ -929,13 +936,6 @@ To gain a better understanding of this here is a visual example of the gridlines
 ![rule of thirds gridline](https://images.wondershare.com/filmora/article-images/2022/11/rule-of-thirds-gridline.jpg)
 
 This may seem simple but is often overlooked due to time restraints and eagerness to get that video out there. By following these guidelines your overall composition will gain interesting and pleasing results that can help with viewer engagement. This is only one piece of the puzzle but as any photography professional or artist will tell you, It's the small things that add up.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to use the rule of thirds
 
@@ -980,10 +980,16 @@ The rule is very useful when you're aiming to grab the attention towards a certa
 Even when working with a symmetrical scene you can incorporate the rule within for elements such as people or key figures but in this situation it is down to the creator to figure what they feel is best in any given shot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Rule of Thirds in Filmora
@@ -1032,17 +1038,24 @@ To conclude, the rule of thirds is very important within visual media and is tou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-crafting-impeccable-inshot-segment-flows-for-2024/"><u>[New] Crafting Impeccable Inshot Segment Flows for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-amplifying-your-playlists-on-instagram/"><u>[New] In 2024, Amplifying Your Playlists on Instagram</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-the-perfect-tone-accessible-software-for-effortless-vocal-transformation-for-2024/"><u>Crafting the Perfect Tone Accessible Software for Effortless Vocal Transformation for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-poco-x6-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Poco X6 Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-narzo-60-pro-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Narzo 60 Pro 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-comment-on-youtube-live-chat/"><u>New In 2024, How to Comment on YouTube Live Chat</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/pocket-safari-androids-selection-of-best-simulators/"><u>Pocket Safari Android's Selection of Best Simulators</u></a></li>
-<li><a href="https://win-answers.techidaily.com/spotify-web-player-woes-heres-how-to-enhance-its-speed-and-functionality/"><u>Spotify Web Player Woes? Here's How to Enhance Its Speed & Functionality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-artificial-intelligence-unveiling-its-risks/"><u>Understanding Artificial Intelligence: Unveiling Its Risks</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated 2024 Approved Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-create-motion-effect-with-path-blur-in-photoshop-for-2024/"><u>Updated Create Motion Effect with Path Blur In Photoshop for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-take-your-video-editing-to-the-next-level-with-video-scopes/"><u>Updated Take Your Video Editing to the Next Level with Video Scopes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-no-displayed-video-fixing-camera-issue-with-sony-a6400-for-2024/"><u>[Updated] No Displayed Video Fixing Camera Issue with Sony A6400 for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>2024 Approved How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-master-android-flip-digital-content-sequence/"><u>2024 Approved Master Android Flip Digital Content Sequence</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-year-ahead-exploring-instagrams-innovative-filters/"><u>2024 Approved The Year Ahead Exploring Instagram's Innovative Filters</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/a-gradual-journey-into-automation-with-abbyy-essential-guidance-for-successful-integration/"><u>A Gradual Journey Into Automation with ABBYY: Essential Guidance for Successful Integration</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-hot-40-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Hot 40 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-your-wmv-videos-into-mp3-format-no-cost-solution/"><u>How to Transform Your WMV Videos Into MP3 Format - No Cost Solution!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-7-plus-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone 7 Plus</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tigating-the-economics-of-t-series-on-youtube/"><u>Investigating the Economics of T-Series on YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-elevate-your-designs-with-feather-shapes-in-after-effects/"><u>New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-apply-video-filters/"><u>New In 2024, How to Apply Video Filters</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video/"><u>New Ultimate Guide on How to Plan and Storyboard a Music Video</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-windows-11s-elan-pad-hurdles-for-smooth-use/"><u>Overcoming Windows 11'S Elan Pad Hurdles for Smooth Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-solving-your-d3dx-library-file-woes/"><u>Troubleshooting and Solving Your D3DX Library File Woes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-achieve-gopro-slow-motion-with-quality/"><u>Updated 2024 Approved How to Achieve GoPro Slow Motion With Quality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-vintage-film-effect-1950s/"><u>Updated 2024 Approved How to Create Vintage Film Effect 1950S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
 </ul></div>
 

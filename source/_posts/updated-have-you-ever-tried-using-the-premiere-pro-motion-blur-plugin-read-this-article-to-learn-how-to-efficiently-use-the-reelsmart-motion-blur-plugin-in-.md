@@ -1,7 +1,7 @@
 ---
 title: Updated Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro
-date: 2024-10-24T16:34:54.416Z
-updated: 2024-10-26T03:49:25.834Z
+date: 2024-10-27T16:16:28.135Z
+updated: 2024-11-01T06:48:57.721Z
 tags: 
   - ai
   - animation videos
@@ -55,13 +55,6 @@ As we have discussed the regular version of ReelSmart Motion Blur, now we will a
 * **Use of Tracking Points:** To help the RSMB’s calculation of motion vectors, you can provide tracking points. By defining the tracking points, you can tell RSMB about the movement of one pixel from one frame to another efficiently. (Not available with Vegas Pro, Media Composer, Catalyst Edit, DaVinci Resolve, Smoke, Flame, Movie Studio, or Nucoda)
 * **Spline Guidance:** If RSMB encounters problems related to tracking, you can draw and animate shapes to tell about the object's movement. Thus, it can help the RSMB find the object movement easily. (Not available with Premiere Pro, Nucoda, Vegas Pro, HitFilm, Movie Studio, Smoke, Sihouette, Flame, Scratch, Nuke, Motion, Media Composer, DaVinci Resolve, Catalyst Edit, FCPX)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Rating
 
 * 7 out of 5
@@ -85,13 +78,6 @@ Open Adobe Premiere Pro in your system and start with a new project. On the newl
 Once you have dropped the video into the timeline, navigate to the “Effects” tab given on the right side. On the search box, type "RSMB." From the fetched results, select RSMB and apply it to the above layer of your video clip in the timeline.
 
 ![search for rsmb effect](https://images.wondershare.com/filmora/article-images/2023/02/reelsmart-motion-blur-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3 Adjust the Plugin Settings
 
@@ -284,13 +270,6 @@ Use the slider to set the amount of rotation you need.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click OK to apply the changes.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-16.png)
@@ -415,13 +394,6 @@ Step 2: Open the Effects tab and expand the Transform, Distort Perspective tab.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Drag the Rotate filter onto your clip.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-3.png)
@@ -457,13 +429,6 @@ Step 2: Right-click on the clip and select Apply an Effect > Transform from the 
 Step 3: The Properties window will open. Select the Rotate tab.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Use the slider to set the amount of rotation you need.
 
@@ -502,6 +467,13 @@ Step 2: Right-click on the video.
 Step 3: Select ‘Rotate 90 CW’ or click Ctrl + Alt + Right to rotate the video 90 degrees clockwise.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Select ‘Rotate 90 CCW’ or click Ctrl + Alt + Left to rotate the video 90 degrees counterclockwise.
 
@@ -541,6 +513,13 @@ Step 2: Open the Effects tab and expand the Transform, Distort Perspective tab.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Drag the Rotate filter onto your clip.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-3.png)
@@ -569,6 +548,13 @@ Step 1: Import your video clip to the timeline.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Right-click on the clip and select Apply an Effect > Transform from the menu.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-7.png)
@@ -576,13 +562,6 @@ Step 2: Right-click on the clip and select Apply an Effect > Transform from the 
 Step 3: The Properties window will open. Select the Rotate tab.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Use the slider to set the amount of rotation you need.
 
@@ -616,6 +595,13 @@ Step 1: Import your video clip into Filmora.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Right-click on the video.
 
 Step 3: Select ‘Rotate 90 CW’ or click Ctrl + Alt + Right to rotate the video 90 degrees clockwise.
@@ -647,13 +633,6 @@ Select the ‘Transform’ option, then go to ‘Rotate’
 Use the slider to set the amount of rotation you need.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-15.png)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Click OK to apply the changes.
 
@@ -668,6 +647,13 @@ Both Filmora and Kdenlive offer a rotate filter that allows you to rotate your v
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 Best Effects to Appear on Camera
 
@@ -750,6 +736,13 @@ Step5 Move the clip until it covers only the first frame of the appearing clip. 
 Step6 Now search for some smoke effects and put it upside down. So it looks like the ceiling is broken when the subject falls. Then add some camera shake to the fall.
 
 ![search for some smoke effects](https://images.wondershare.com/filmora/article-images/2022/12/appearance_14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step7 Drag the camera shake effect back to the top track and shorten it to an ideal length. You can also add some sound effects if you want to this video.
 
@@ -883,20 +876,27 @@ Step1After opening the software, choose the aspect ratio that you desire and cli
 
 ![choose the aspect ratio](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2Search for "Intro" from the list of templates on the Media tab. Choose a video clip that you want to use and drag it to your timeline. If you only want to use the free template, avoid the paid assets with a pink diamond icon. Otherwise, you can use free stock video clips included with Filmora.
 
 ![search intro video filmora](https://images.wondershare.com/filmora/article-images/2022/09/search-intro-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3Edit and customize the texts by double-clicking the text on the preview box. You can change the style, font, size, colors, etc.
 
 ![edit text intro video filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-text-intro-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4Change, add or customize the audio of your video on the Audio menu. You can also add and customize the text, transition, and effect from other menus. Don't forget to export your video to the preferred video format and locate it in your desired folder.
 
@@ -938,14 +938,21 @@ While there is no one-size-fits-all answer to this question, there are some comm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-key-practices-for-screen-recording-on-phones/"><u>[Updated] 2024 Approved Key Practices for Screen Recording on Phones</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtubing-success-final-stages-and-top-resources/"><u>[Updated] In 2024, YouTubing Success Final Stages and Top Resources</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-a-closer-look-at-instagram-stories-beyond-the-screen/"><u>2024 Approved A Closer Look at Instagram Stories Beyond the Screen</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneers-of-prose-and-plot-the-worlds-best-top-8/"><u>2024 Approved Pioneers of Prose and Plot The World's Best (Top 8)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-to-correct-acrocefexeexe-error-and-enhance-stability/"><u>Expert Tips to Correct acrocefexe.exe Error and Enhance Stability</u></a></li>
-<li><a href="https://win-online.techidaily.com/guide-rapide-pour-deplacer-windows-10-sur-ssd-m2-pas-de-reinstallation-necessaire/"><u>Guide Rapide Pour Déplacer Windows 10 Sur SSD M.2 : Pas De Reinstallation Nécessaire !</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/score-big-savings-on-gadgets-during-amazons-2024-prime-day-extravaganza/"><u>Score Big Savings on Gadgets During Amazon's 2024 Prime Day Extravaganza</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solutions-for-fixing-misinstalled-ryzen-master-driver-on-your-pc/"><u>Solutions for Fixing Misinstalled Ryzen Master Driver on Your PC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-list-top-2024-recommendations-for-quality-17-inch-laptops/"><u>The Ultimate List: Top 2024 Recommendations for Quality 17-Inch Laptops</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unlocking-success-with-instagrams-business-platform/"><u>[New] In 2024, Unlocking Success with Instagram's Business Platform</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ispring-screencap-tech-explored-in-detail-for-2024/"><u>[Updated] ISpring Screencap Tech Explored in Detail for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/embrace-a-healthier-lifestyle-with-the-compact-samsung-galaxy-fit2-tracker-at-your-side/"><u>Embrace a Healthier Lifestyle with the Compact Samsung Galaxy Fit2 Tracker at Your Side</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-change-text-in-premiere-pro/"><u>How To Change Text In Premiere Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-13t-pro-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi 13T Pro Phone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-5-best-video-editors-for-ipad-2022-review/"><u>In 2024, 5 Best Video Editors for iPad 2022 Review</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-lava-yuva-3-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Lava Yuva 3 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-exploring-vn-video-editor-pro-is-this-app-right-for-you-in-2024/"><u>New Exploring VN Video Editor Pro Is This App Right for You, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-green-screen-video-in-after-effects/"><u>New How To Create A Green Screen Video In After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-film-a-slow-motion-video-for-2024/"><u>New How To Film a Slow Motion Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-animated-titles-and-text-in-the-filmora-video-editor-this-is-a-simple-step-by-step-tutorial-for-any-skill-level/"><u>New Learn How to Create Animated Titles and Text in the Filmora Video Editor. This Is a Simple Step-by-Step Tutorial for Any Skill Level</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-list-of-best-vhs-video-effect-makers/"><u>New Top List of Best VHS Video Effect Makers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-asus-chromebook-flip-c302ca-value-packed-and-feature-rich-for-tech-enthusiasts/"><u>The Ultimate Guide to the Asus Chromebook Flip C302CA – Value Packed and Feature Rich for Tech Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlocking-your-most-watched-fb-movies-for-2024/"><u>Unlocking Your Most-Watched Fb Movies for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-add-transition-effects-in-premiere-pro/"><u>Updated 2024 Approved Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-way-to-color-grading-and-color-correction-in-filmora/"><u>Updated In 2024, Best Way To Color Grading & Color Correction in Filmora</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Create a Vacation Slideshow in 5 Minutes
-date: 2024-10-01T19:24:58.463Z
-updated: 2024-10-02T23:59:35.157Z
+date: 2024-10-30T18:11:23.297Z
+updated: 2024-11-01T05:36:38.027Z
 tags: 
   - ai
   - animation videos
@@ -105,6 +105,13 @@ To create a **vacation slideshow** quickly and easily there are several factors 
 
 02 [Best Software for Creating a Vacation Slideshow in 5 Minutes- Wondershare Filmora](#Part 2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1 Tips For Creating A Vacation Slideshow In 5 Minutes
 
 There are several useful tips that can help you create a vacation slideshow in just a few minutes. Check them below.
@@ -182,6 +189,13 @@ There are several useful tips that can help you create a vacation slideshow in j
 ### 01Choose A Theme And Select Relevant Pictures
 
 First of all, select a story or a theme for your **holiday slideshow**, and then choose the most relevant images and videos that can be included in the slideshow. With hundreds of images and videos for any particular trip selecting a few is the most cumbersome task and once you have a story in mind, picking up a few images becomes easy.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 01Use Templates
 
@@ -331,6 +345,13 @@ During shooting for big projects, you need room to store all gear and sensitive 
 
 ![separate room to store gears](https://images.wondershare.com/filmora/article-images/2023/04/separate-room-to-store-gears.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Check the size
 
 The foremost thing in choosing the location is to check the Height and Width of the studio. They should be enough to rig the lights in the studio easily and place every required thing in a decided space.
@@ -340,13 +361,6 @@ For Example, while shooting a 3lau song, there is a need for a bus to come into 
 ![check the size of the studio](https://images.wondershare.com/filmora/article-images/2023/04/check-the-size-of-the-studio.jpg)
 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A cross-platform for making videos anywhere for all creators
 
@@ -397,9 +411,23 @@ Public places are easily available and have many options, such as public parks, 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** During public shooting, ensure that the space is empty, and there should be no interruption of the public in filming the shots.
 
 ![public interruption in shots](https://images.wondershare.com/filmora/article-images/2023/04/public-interruption-in-shots.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The weather is also a major factor when shooting a video, which you must check before the shoot days. After selecting and scouting the location, now it's time to make a schedule which you'll get in hand in the below lines!
 
@@ -474,6 +502,13 @@ If you don't have enough budget to get a studio space, then you can easily shoot
 
 You should go with the space available at your home to shoot, such as: on couches or in the bedroom, to give a good impression to your music video.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Location 2\. Office Space
 
 You can also make scenes of your music video in office space to better describe the work in the video.
@@ -492,13 +527,6 @@ Public places are easily available and have many options, such as public parks, 
 
 ![public places for music videos](https://images.wondershare.com/filmora/article-images/2023/04/public-places-for-music-videos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** During public shooting, ensure that the space is empty, and there should be no interruption of the public in filming the shots.
@@ -511,19 +539,6 @@ The weather is also a major factor when shooting a video, which you must check b
 
 If you have a big project and more scenes to shoot, it's better to make a whole plan about each and everything. You have to make a schedule of using even a single light at a specific time and space. The following are the main considerations you should take care of!
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Pre-Rig Day
 
 You need to come to the setup before the filming day to check the main things like electricity, measure exact spaces, check the lightning setup, loaded everything such as the bus, crew, and gears.
@@ -535,13 +550,6 @@ You need to come to the setup before the filming day to check the main things li
 A call sheet is a daily shot list given to the cast and crew to follow the timelines, and it contains the phone number of everyone, their location, and the time to arrive on set. It also includes the nearest hospital, sunset, and sun-rising timing.
 
 ![call sheet of tokyo song](https://images.wondershare.com/filmora/article-images/2023/04/call-sheet-of-tokyo-song.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 It consists of one to two pages according to shoot days and has a plan of everything that happens after the Pre-Rig day.
 
@@ -615,13 +623,6 @@ Since the above method only adds subtitles temporarily, you might be looking for
 
 Below we've provided step-by-step methods to add subtitles to video in the VLC media player on your Windows and Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### On Windows
 
 You can permanently embed the subtitles to your video in the VLC media player on your Windows in the following way:
@@ -643,13 +644,6 @@ Step4 Check the box next to **"Active Transcoding,"** click the Wrench icon, and
 Finally, click the **"Save"** option, select **"Next,"** and click **"Stream"** in the new window. Wait for the processing to complete, and your video with subtitles will be saved to the folder you've selected.
 
 ![saving the video file with subtitles](https://images.wondershare.com/filmora/article-images/2022/12/saving-the-video-file-with-subtitles.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### On Mac
 
@@ -677,18 +671,18 @@ Step1 Launch a [**text editor**](https://sonix.ai/)on your PC, import your video
 
 ![sonix text editor for creating subtitles in vlc](https://images.wondershare.com/filmora/article-images/2022/12/sonix-text-editor-for-creating-subtitles-in-vlc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Open the **VLC media player** and play the video. Now, edit the subtitles while matching them with the timestamps.
 
 Step3 Next, add a **new line**, **timestamp**, and **subtitle** for each caption.
 
 Step4 Repeat the process to create and add all the required subtitles.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tips: How To Add And Edit Subtitles In The Best VLC Alternative
 
@@ -808,18 +802,18 @@ Step1 Launch the Filmora software on your PC and click **"Create New Project."**
 
 ![importing video clip to filmora to add subtitles](https://images.wondershare.com/filmora/article-images/2022/12/importing-video-clip-to-filmora-to-add-subtitles.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Add the video to the **timeline** and play it. Listen to the **voiceover** and press the **"M"** key to add a marker.
 
 Now, click the **"Titles"** option and head to the **"Subtitles"** tab from the left menu. **Double-click** a subtitle to download and preview it.
 
 ![downloading subtitles in filmora](https://images.wondershare.com/filmora/article-images/2022/12/downloading-subtitles-in-filmora.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Drag and drop the **subtitle** you want to use in the timeline and adjust it along the **marker** point.
 
@@ -859,18 +853,16 @@ Hopefully, you've enjoyed reading this article and can now enjoy watching a vide
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-6-multilingual-video-decoders/"><u>[New] Best 6 Multilingual Video Decoders</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-10-best-sony-lut-for-different-purposes/"><u>2024 Approved 10 Best Sony LUT for Different Purposes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-cont/"><u>2024 Approved Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-reno-10-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo Reno 10 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-in-canva/"><u>New 2024 Approved How to Add Subtitles in Canva?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-use-rule-of-thirds-in-video/"><u>New In 2024, How to Use Rule of Thirds in Video</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-huawei-p60-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Huawei P60.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-latest-strategies-for-rectifying-rust-microphone-malfunctions-in-the-new-year-of-2024/"><u>The Latest Strategies for Rectifying Rust Microphone Malfunctions in the New Year of 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-ultimate-guide-to-youtube-income-compliance/"><u>The Ultimate Guide to YouTube Income Compliance</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-secret-tips-and-tricks-to-use-in-filmora-for-2024/"><u>Updated Secret Tips & Tricks to Use in Filmora for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-sound-not-working-on-pc-quickly-and-easily/"><u>[Fixed] Sound Not Working on PC | Quickly & Easily</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-social-media-supremacy-amplifying-sales-via-tiktok-campaigns/"><u>[Updated] 2024 Approved Social Media Supremacy Amplifying Sales via TikTok Campaigns</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-friendly-vr-best-multiplayer-metaverse-delights/"><u>[Updated] Friendly VR Best Multiplayer Metaverse Delights</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-create-a-zoom-motion-blur-effect-using-photoshop-if-you-are-unaware-of-how-to-do-this-read-this-article-to-learn-simple-yet-authentic-instruc/"><u>Do You Want to Create a Zoom Motion Blur Effect Using Photoshop? If You Are Unaware of How to Do This, Read This Article to Learn Simple yet Authentic Instructions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-14-pro-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Pro Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-best-luts-for-vlog/"><u>In 2024, Overview of Best LUTs for Vlog</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954220029-updated-in-2024-what-you-should-know-about-speech-to-text-technology/"><u>Updated In 2024, What You Should Know About Speech-to-Text Technology</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-play-a-video-on-loop-on-vimeo-so-that-it-plays-again-and-again-here-are-all-the-different-ways-to-loop-a-video-on-vimeo-in-simple-steps-for-2024/"><u>Want to Play a Video on Loop on Vimeo so that It Plays Again and Again? Here Are All the Different Ways to Loop a Video on Vimeo in Simple Steps for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Make Strobe Light Text Effect, In 2024
-date: 2024-10-19T16:10:36.324Z
-updated: 2024-10-20T17:08:58.560Z
+date: 2024-10-30T04:37:38.913Z
+updated: 2024-11-01T03:31:19.006Z
 tags: 
   - ai
   - animation videos
@@ -107,13 +107,6 @@ Add the keyframe here and change the value of the Scale parameter to 400 or some
 
 Move your playhead on this snapshot clip in the timeline by at least 1 second. Then, add another keyframe in this location by tapping the Add button. Here, reset the Scale and Rotate parameters and press the OK button to end.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add the lens flare and particle video
 
 Next, go back to the media section where all the files you added are present and drag your lens flare clip to the timeline, right on the track above the last one you added. Drop it here and adjust the length of it to match others if it does not show that automatically.
@@ -125,6 +118,13 @@ Then, double-click on this Particles video clip on the timeline and go to the Co
 Now, play the preview again.
 
 ![drag and drop particles video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Adjust the second title, again
 
@@ -176,13 +176,6 @@ Then you should double-click on the original Default Title you added and start e
 
 ![change the second title text](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Insert the snapshots
 
 Remove the two title clips you added to the timeline. You have to work with the Snapshots you took now.
@@ -200,13 +193,6 @@ After you have imported the snapshots to Filmora, you have to tap on the Import 
 Choose all files and click on Open to add them to the Filmora software. Now starts the process of merging them all into one cohesive effect.
 
 ![open all of the files](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Drag the files into the timeline
 
@@ -265,6 +251,13 @@ Here, tap on the Split icon and remove the clip's first half. Then, double-click
 Subsequently, move the play head to the point when the lens flare effect stop, which is around 2 seconds more. At this point, you have to add another keyframe and change the Opacity to 100.
 
 Play the preview of the whole thing to see how the effect looks in completion.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -330,6 +323,13 @@ First conceptualized in 1969, Ray Tracing is a common technique used to create c
 
 Despite the challenges, Ray Tracing is becoming increasingly popular due to computer hardware and software advances. And as technology continues to improve, we can expect to see even more realistic images in the future.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Advantages
 
 Here're some advantages of Ray Tracing:
@@ -341,11 +341,25 @@ Here're some advantages of Ray Tracing:
 
 The downside of Ray Tracing technology is that it requires a lot of computing power to run, and it can be difficult to create more complex lighting effects like [caustics.](https://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2017/ENU/3DSMax/files/GUID-174FC56F-A781-4D0A-98D7-790D436E98AE-htm.html#:~:text=Caustics%20are%20the%20effects%20of,or%20refraction%20through%20another%20object.&text=To%20calculate%20caustics%2C%20the%20mental,by%20the%20default%20scanline%20renderer.%29)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. How Does Ray Tracing Work?
 
 Ray Tracking uses the process of denoising. The algorithm starts with the camera and traces the shades of shadows and lights.
 
 Ray Tracing uses machine learning to fill in the gaps to form a realistic image. The brighter the scene, the higher the graphics quality; the higher the quality, the more expensive it is. This is why Ray Tracing didn't become popular in the video game industry until recently.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4\. Ray Tracing In Adobe After Effects
 
@@ -390,13 +404,6 @@ A layer becomes a 3D layer when the 3D checkbox is checked in the timeline and h
 The former deals with the layer's depth and edges shape, while the latter deals with the interaction of layers with depth and includes shadow, reflection, refraction, and transparency option.
 
 ![layer properties timeline in after effects](https://images.wondershare.com/filmora/article-images/2022/07/layer-properties-timeline-in-after-effects.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When To Use It
 
@@ -617,11 +624,25 @@ And if you’re looking for the best video editor for Personal Computers this ye
 
 A smart phone and a tripod will do. You don’t need to have all those professional vlogging equipment's if you’re a new YouTuber. Each and every smart phone now can record a high-definition resolution. I started with my Samsung S6 and a pile of books as my tripod. Silly me! But you need to be resourceful. As the time went by, I bought a tripod from JOOM (an online store just like Ali Express). Very cheap and it last long. You also need a video editor for post editing. You don’t want to upload a raw video on YouTube without anything in it. It will be dull and boring.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Reasons Why You Need a Video Editor?
 
 ### 1\. Videos Are Impactful
 
 While pictures can tell a thousand words, video tells a thousand more. On your videos, your audiences can see your feelings about a particular topic, and with the correct techniques and editing secrets, you can effectively tell someone or many people a message you want to get across. Whether it is a message on how to make a do-it-yourself video or what is the best video editor for beginners?
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. People Access Video Everywhere
 
@@ -652,20 +673,6 @@ During these days, I’m filming using my Canon GX7 Mark II and it’s a result 
 After you finished a vlog/video, you need to edit it and that’s the most exciting part for me, at least. Put your teaser, your intro, the body of the video itself and don’t forget the outro.
 
 ![do it yourself video editing](https://images.wondershare.com/filmora/article-images/2022/07/do-it-yourself-video-editing.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -719,13 +726,6 @@ For example, if you're using an encoder like Wirecast, you might notice that bro
 
 This happens because the delta frames have to share a lot more information to share in each frame in the video with a moving background. When you have an encoder like Wirecast, it's working to keep your stream at an average bitrate. This can result in reduced quality if there is a lot of extra information in the [delta frames.](https://www.pcmag.com/encyclopedia/term/delta-frame#:~:text=In%20interframe%20video%20coding%2C%20a,%2Dframes%20or%20B%2Dframes.)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4\. What You Need To Know To Set A Right Keyframe Interval
 
 After understanding the important concepts in video editing, let’s see how to set the keyframe level in our videos appropriately.
@@ -735,13 +735,6 @@ Most streaming services will automatically set it for you based on your stream's
 * Set the frame interval at 2 seconds. Do not increase it from 4 seconds.
 * Disable the "auto" keyframe feature.
 * To allow for b-frames, use an encoding profile higher than baseline and use IDR-based keyframes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5\. How To Change The Keyframe Interval On OBS Studio
 
@@ -768,6 +761,13 @@ Step3 On the Settings Window, click **"Output"** and configure the output mode t
 Step4 Finally, edit the **Keyframe Interval,** set it to **2** seconds, and click **"OK"** to save your changes.
 
 ![changing the keyframe interval value on obs studio](https://images.wondershare.com/filmora/article-images/2022/07/changing-the-keyframe-interval-value-on-obs-studio.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 6\. Will Keyframe Interval Affect Your Video’s Quality?
 
@@ -819,17 +819,24 @@ Hopefully, the information provided in this guide was helpful, and you now have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-building-an-effective-monetization-plan-for-video-content-on-vimeo/"><u>[Updated] 2024 Approved Building an Effective Monetization Plan for Video Content on Vimeo</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bridging-content-gap-youtube-videos-to-instagram/"><u>[New] 2024 Approved Bridging Content Gap YouTube Videos to Instagram</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-enrich-your-viewing-experience-with-these-leading-top-6-tools-to-download-youtubes-short-videos/"><u>[New] 2024 Approved Enrich Your Viewing Experience with These Leading Top 6 Tools to Download YouTubes' Short Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-get-more-instagram-video-views/"><u>[New] 2024 Approved How to Get More Instagram Video Views</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-conquer-common-youtube-short-setbacks-for-2024/"><u>[Updated] Conquer Common YouTube Short Setbacks for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-intro-with-legend-intro-maker/"><u>2024 Approved How to Create Intro with Legend Intro Maker</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way/"><u>2024 Approved How to Slow Down a Video on iPhone and Android The Easy Way</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-make-modern-tiktok-velocity-dance-videos-in-filmora-just-like-the-ones-you-see-on-tiktok-and-instagram-reels/"><u>2024 Approved Learn How to Make Modern TikTok Velocity Dance Videos in Filmora Just Like the Ones You See on TikTok and Instagram Reels</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/cookiebot-driven-automation-enhance-your-sites-user-engagement/"><u>Cookiebot-Driven Automation: Enhance Your Site's User Engagement</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/create-slide-masking-effect-intro/"><u>Create Slide Masking Effect Intro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010921756-evil-genius-2-wont-start-heres-how-to-successfully-get-it-running-again/"><u>Evil Genius 2 Won't Start? Here's How to Successfully Get It Running Again</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-track-to-upgraded-performance-hp-stream-driver-downloads-made-easy/"><u>Fast Track to Upgraded Performance: HP Stream Driver Downloads Made Easy</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-s17e-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo S17e Location by Number | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-quirky-expressions-in-text-master-meme-creation/"><u>In 2024, Quirky Expressions in Text Master Meme Creation</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-unites-affordable-language-lessons-breaking-down-ukrainian-barriers/"><u>Mondly Unites: Affordable Language Lessons Breaking Down Ukrainian Barriers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-tecno-pova-5-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Tecno Pova 5 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/financial-flourishing-with-glamour-vlogs-for-2024/"><u>Financial Flourishing with Glamour Vlogs for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-download-and-use-windows-movie-maker-10-for-2024/"><u>How to Download and Use Windows Movie Maker 10 for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/insights-from-toms-computer-analysis-and-reviews/"><u>Insights From Tom's Computer Analysis and Reviews</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-epson-driver-update-for-optimal-functionality-on-windows-11-devices/"><u>Mastering Epson Driver Update for Optimal Functionality on Windows 11 Devices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-20-best-video-background-templates/"><u>Updated 20 Best Video Background Templates</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-best-ideas-for-time-lapse-video/"><u>Updated Best Ideas for Time Lapse Video</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>Updated Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-this-article-talks-in-detail-about-how-to-convert-time-lapse-to-normal-video-using-certain-methods-on-iphone-online-tools-and-so-on-it-further-discu/"><u>Updated This Article Talks in Detail About How to Convert Time-Lapse to Normal Video Using Certain Methods on iPhone, Online Tools, and so On. It Further Discusses Converting Time-Lapse Video to Normal on the Computer. Check Out</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/jpg-movavi-jpeg/"><u>최신 JPG 이미지 교체기 프로그램 - Movavi 효율적인 JPEG 변환 해제</u></a></li>
 </ul></div>
 

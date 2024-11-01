@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Make Ninja Jump Effect with Filmora
-date: 2024-10-19T16:18:48.094Z
-updated: 2024-10-20T16:09:29.434Z
+date: 2024-10-26T17:52:18.498Z
+updated: 2024-10-31T21:06:46.481Z
 tags: 
   - ai
   - animation videos
@@ -129,13 +129,6 @@ Step8 Move the clip next to the freeze frame clip.
 
 ![borax fx effect](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-6.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Keyframing**
 
 Now we have to add animation in the freezing frame so that the masked shadow can be shown moving from the back towards the front, a speedy moving shadow. This is probably the most crucial step in editing.
@@ -172,13 +165,6 @@ Once you have done speed ramping on both clips, your editing is done. Now play t
 
 ![speed ramping](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-8.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final Words
 
 Make sure you follow all these steps in the correct order. You can get Filmora from the Filmora website, but its cracked versions are also available. While editing, try to make the transitions and clips as smooth and synchronized as you can. Also, if you find this article helpful, do not forget to share these tips with your friends.
@@ -209,6 +195,20 @@ Moreover, you can add adjustment layers on After Effects to make your video edit
 
 ![after effects featured image](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: What is the Adjustment Layer in After Effects?
 
 The adjustment layer can save you time and energy from adding effects to multiple clips individually. It does not alter the composition of your video clip until you start applying the effects. Once you add the effect in the adjustment layer, it will replace the effect on all the layers under it.
@@ -227,13 +227,6 @@ Do you want to learn **how to add an adjustment layer in After Effects**? In thi
 
 ![select the adjustment layer option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Way 2:** Once done with uploading the project on After Effects, go to the blank space in the timeline section on the left side. Right-click using your mouse and select the option "New." Afterward, click on "Adjustment Layer" to proceed. This will add the adjustment layer on the top of your layers stack.
 
 ![choose the adjustment layer option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-4.jpg)
@@ -245,13 +238,6 @@ Do you want to save time while creating an adjustment layer in After Effects? Th
 | **For Windows** | **For MacBook**  |
 | --------------- | ---------------- |
 | Ctrl+Alt+Y      | Command+Option+Y |
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Popular Effects You Can Try With Adjustment Layers in After Effects
 
@@ -277,6 +263,13 @@ Moreover, you can also add blur and matte effects for more modifications. You ca
 
 ![select the perspective effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Add Blur Effect
 
 There are various blur effects, such as Gaussian blur, motion blur, radial blur, etc. You can add any of the blur effects in your video clip to craft a smoother look. In After Effects, you can find a variety of blur effects that can help you change your video's perspective. To use an adjustment layer for adding the blur effect, here are the accurate steps:
@@ -296,13 +289,6 @@ Step1 After uploading the video on After Effects, go to the “Layer” tab and 
 Step2 Once you have found the suitable color correction effect, apply it to the adjustment layer. You can always change the settings of the applied effect from the left panel.
 
 ![apply the color correction](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -340,13 +326,6 @@ Step1 Once you have imported the video clip to the timeline of After Effects, ad
 
 ![add the required blur effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 After applying the effect to the adjustment layer, you can change its settings from the left side. From the left panel, you can change the blurriness value and blur dimensions according to your choice.
 
 ### 3\. Color Correction
@@ -375,6 +354,13 @@ Quiz videos are becoming popular on YouTube but creating good content takes work
 
 So, what are you waiting for? Read on to learn **how to create quiz videos for Youtube!**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. What Is A Quiz Video?
 
 A quiz video is a type of content that provides viewers with a series of questions that are typically about a particular topic or subject matter and may also provide additional information about the topic. You can use the video for various purposes, including educational, entertainment, and marketing.
@@ -384,13 +370,6 @@ A quiz video is a type of content that provides viewers with a series of questio
 To make an appealing **video quiz**, you have to look at it from various angles, such as its purpose, type, and relevancy.
 
 Moreover, a well-made quiz video will demand the viewer's attention and encourage them to take action without being intrusive or annoying. One of the best ways is to provide visual captions that can explain the point being made in an engaging, fast-paced, and entertaining way.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. What Are The Advantages Of A Quiz And How To Use It?
 
@@ -517,6 +496,19 @@ To add text to your intro, click on the **text track** in the timeline. Enter th
 Next, add the GK questions and answers to your video using the **"Titles"** tab. You should adjust the display time and text on the timeline as needed.
 
 ![adding quiz media to the timeline](https://images.wondershare.com/filmora/article-images/2023/02/adding-quiz-media-to-the-timeline.png)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4 Increase Interactivity In Your Quiz Video
 
@@ -658,6 +650,13 @@ LUTS, or Lookup Tables, do exist in small files. These files have sources to enh
 
 Within LUTs, you will find a range of preset filters that can be applied. Meanwhile, the color grading is executed with more consistency. This way, the colors are accurately applied to all frames of visual content. The colors are mapped into the original footage using pre-determined color options. So, you don't need to adjust or manually customize individual colors.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How Can LUTs be Used in Drone Footage Editing?
 
 Drone technology is a new revolution in this modern world. After all, it allows us to capture aerial photos and videos with greater proximity. While the quality of this footage may not be good, LUTs can help. Here is how you can use LUTs in drone footage editing and make your work easier:
@@ -666,6 +665,13 @@ Drone technology is a new revolution in this modern world. After all, it allows 
 * Match Colors: If you use different cameras to record drone footage, colors may differ. That’s where LUTs can be useful. They can match colors in all frames with dedicated filter presets.
 * Color Correction: Drone footage often faces lighting issues that damage color gradients. When using drone LUTs pack-free, you can correct color schemas with consistency. The color imbalances will rectify.
 * Saves Resources: With LUTs, you can save time and money. So, you don't need to waste long hours on video editing. You don't even have to spend money on good editing software. Color grading becomes more straightforward with LUTs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Best Drone LUTs To Discover In 2024
 
@@ -701,6 +707,13 @@ Aerial videography can be upscaled in a simpler way using JHL drone LUTs. After 
 
 ![ jhl drone luts ](https://images.wondershare.com/filmora/article-images/2023/06/drone-footage-with-free-luts-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. [Drone LUTs](https://motionarray.com/premiere-pro-presets/drone-luts-1229457/?q=drone%20luts&sort%5Fby=most-popular&subcategories=luts)
 
 Make your aerial project more enchanting with this drone LUTs pack free. You will get 20 diverse drone LUTs preset filters. In contrast, these filters suit all lighting, weather, and environment. The color gradients of your visual content are optimized with stunning color grading. These LUTs work with any resolution. You need to drag and drop these elements into your content.
@@ -712,13 +725,6 @@ Make your aerial project more enchanting with this drone LUTs pack free. You wil
 Black and white color schemes are always special. Adding them to your aerial videos or photos can enlighten your content's visualization. By using these B&W LUTs for drones, turn aerial shoots into appealing black-and-white contrasts. This will make your visual content more aesthetic with improved engagement. Using this LUTs pack is very convenient and straightforward.
 
 ![B&W](https://images.wondershare.com/filmora/article-images/2023/06/drone-footage-with-free-luts-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Part: Learn More About Video Editing Through LUTs with Wondershare Filmora
 
@@ -778,18 +784,22 @@ Drone technology is evolving modern videography and photography with aerial view
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-unleash-creativity-a-deep-dive-into-metaverse-meme-culture/"><u>[New] In 2024, Unleash Creativity A Deep Dive Into Metaverse Meme Culture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-authenticating-a-step-by-step-for-youtube-users/"><u>[Updated] 2024 Approved Authenticating A Step-by-Step for Youtube Users</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/deciphering-youtubes-subscriber-code/"><u>Deciphering YouTube's Subscriber Code</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/esports-news-and-analysis-from-top-vloggers-for-2024/"><u>Esports News and Analysis From Top Vloggers for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-11x-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme 11X 5G Phone that is Locked?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-innovative-video-concepts-through-google-trends-exploration/"><u>In 2024, Innovative Video Concepts Through Google Trends Exploration</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-safety-reasons-to-shun-the-microphone/"><u>PS5 Safety: Reasons to Shun the Microphone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-unveiling-2025-lineup-exclusive-date-latest-updates-and-speculations/"><u>Samsung Unveiling 2025 Lineup: Exclusive Date, Latest Updates & Speculations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-chatgpt-on-your-mobile-device-android-and-ios-compatibility-explained/"><u>Unlock the Power of ChatGPT on Your Mobile Device - Android & iOS Compatibility Explained</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-easy-ways-to-add-music-to-imovie-from-youtube/"><u>[New] 2024 Approved Easy Ways to Add Music to iMovie From YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-10-ae-text-styles-guide/"><u>[New] Top 10 AE Text Styles Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-streamline-your-views-the-ultimate-8-fb-movie-download-guide/"><u>[Updated] Streamline Your Views The Ultimate #8 FB Movie Download Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-/"><u>2024 Approved Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pixel-perfection-expert-tips-on-iphone-photo-editing/"><u>2024 Approved Pixel Perfection Expert Tips on iPhone Photo Editing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-sites-enhancing-your-digital-experience/"><u>Cookiebot-Enabled Sites: Enhancing Your Digital Experience</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/cut-down-catch-more-the-best-url-reducers-for-youtube/"><u>Cut Down, Catch More The Best URL Reducers for YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/if-you-want-to-make-an-intro-video-then-adobe-after-effects-will-be-a-great-choice-this-article-will-show-the-steps-to-create-an-intro-video-with-after-effe/"><u>If You Want to Make an Intro Video, Then Adobe After Effects Will Be a Great Choice. This Article Will Show the Steps to Create an Intro Video with After Effects by Your Own</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-13t-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi 13T Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-vintage-film-effect-1950s/"><u>New How to Create Vintage Film Effect 1950S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-the-premiere-pro-video-templates-help-make-original-content-of-broadcast-quality-the-article-introduces-10-free-premiere-pro-templates-that-are-sure-to-/"><u>New The Premiere Pro Video Templates Help Make Original Content of Broadcast Quality. The Article Introduces 10 Free Premiere Pro Templates that Are Sure to Make Your Life Easy</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-whatre-the-best-alternatives-to-pexels/"><u>New Whatre the Best Alternatives to Pexels?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/personalized-ai-authorship-strategies-to-train-chatgpt-as-an-extension-of-you/"><u>Personalized AI Authorship: Strategies to Train ChatGPT as an Extension of You</u></a></li>
+<li><a href="https://win-forum.techidaily.com/swf-a-mkv-conversion-free-online-convert-your-files-effortlessly-with-movavi/"><u>Swf a Mkv Conversion Free Online - Convert Your Files Effortlessly with Movavi</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>Updated Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-cropping-and-combining-content-in-wondershare-filmora-latest-for-2024/"><u>Updated Guide To Cropping and Combining Content in Wondershare Filmora Latest for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
 </ul></div>
 

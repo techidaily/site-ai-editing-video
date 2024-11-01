@@ -1,7 +1,7 @@
 ---
 title: Updated Vintage Film Effect 1980S - How to Create
-date: 2024-10-24T16:15:11.845Z
-updated: 2024-10-25T18:51:46.157Z
+date: 2024-10-27T19:14:32.116Z
+updated: 2024-11-01T00:12:11.919Z
 tags: 
   - ai
   - animation videos
@@ -77,13 +77,6 @@ Now find the **Animation** tab, then click the **Customize** tab. Next, click **
 
 ![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
 
 ##### Step3 Add retro filters and effects to the video
@@ -120,7 +113,21 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 
 ![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -151,13 +158,6 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 ![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
 
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -213,11 +213,147 @@ Go to Title > Plain Text > select which text styles suit you best. Then, drag th
 
 ![add and adjust the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-4.jpg)
 
+Double-click on the title clip and type out your text. Then, adjust the text position and align it to the cut you have made.
+
+![double-click on the title clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-5.gif)
+
+##### Step 5 Use the masking tool
+
+Go to Effects > Utility > Image Mask, then drag and drop it onto the latter half of the top video clip.
+
+![use the masking tool](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-6.jpg)
+
+Make more cuts on the top latter clip, frame by frame, starting from the first cut you have made.
+
+![make more cuts on the top latter clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-7.gif)
+
+Double-click on each of the smaller clips and find the mask settings.
+
+![double-click on each of the smaller clips](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-8.jpg)
+
+Since the subject in this tutorial is moving from side to side, we are going to match the mask's y-axis setting, which is also the revealed text portion, with the subject's movement. Starting from the first clip, adjust the y-axis number to a smaller/bigger number.
+
+![adjust the y-axis number](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-9.gif)
+
+There we go! The final look should look like this:
+
+![final look](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-10.gif)
+
+## Summary
+
+That is how we can create the text reveal effect using Wondershare Filmora. Using Filmora's masking tool, it's easy to create a text reveal the effect that can add flair and interest to your videos. Just follow the simple steps, and you'll be able to get the desired result with a few clicks of your mouse. Give it a try, and share your thoughts with us.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+First, make sure the video clips you are using are clear, with the subject moving across the frame. It will help the text to stand out and be more easily seen. Now, follow the step-by-step guides below:
+
+##### Step 1 Add video tracks
+
+You will need three video tracks in order to create this effect, so click the (+) icon above the timeline > Add Video Track and add two more video tracks.
+
+![add video tracks](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-1.jpg)
+
+##### Step 2 Import the clip to the timeline
+
+Drag and drop your clip onto the first and third video tracks of the timeline. Then, align them with each other.
+
+![import the clip to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-2.jpg)
+
+##### Step 3 Make a cut at the beginning of the text
+
+Find the spot where you want the text reveals to start, then click the scissor icon to make a cut on the clip from the first video track.
+
+![make a cut at the beginning of the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+##### Step 4 Add and adjust the text
+
+Go to Title > Plain Text > select which text styles suit you best. Then, drag the title to the second video track.
+
+![add and adjust the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-4.jpg)
+
+Double-click on the title clip and type out your text. Then, adjust the text position and align it to the cut you have made.
+
+![double-click on the title clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-5.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+##### Step 5 Use the masking tool
+
+Go to Effects > Utility > Image Mask, then drag and drop it onto the latter half of the top video clip.
+
+![use the masking tool](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-6.jpg)
+
+Make more cuts on the top latter clip, frame by frame, starting from the first cut you have made.
+
+![make more cuts on the top latter clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-7.gif)
+
+Double-click on each of the smaller clips and find the mask settings.
+
+![double-click on each of the smaller clips](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-8.jpg)
+
+Since the subject in this tutorial is moving from side to side, we are going to match the mask's y-axis setting, which is also the revealed text portion, with the subject's movement. Starting from the first clip, adjust the y-axis number to a smaller/bigger number.
+
+![adjust the y-axis number](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-9.gif)
+
+There we go! The final look should look like this:
+
+![final look](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-10.gif)
+
+## Summary
+
+That is how we can create the text reveal effect using Wondershare Filmora. Using Filmora's masking tool, it's easy to create a text reveal the effect that can add flair and interest to your videos. Just follow the simple steps, and you'll be able to get the desired result with a few clicks of your mouse. Give it a try, and share your thoughts with us.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+First, make sure the video clips you are using are clear, with the subject moving across the frame. It will help the text to stand out and be more easily seen. Now, follow the step-by-step guides below:
+
+##### Step 1 Add video tracks
+
+You will need three video tracks in order to create this effect, so click the (+) icon above the timeline > Add Video Track and add two more video tracks.
+
+![add video tracks](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-1.jpg)
+
+##### Step 2 Import the clip to the timeline
+
+Drag and drop your clip onto the first and third video tracks of the timeline. Then, align them with each other.
+
+![import the clip to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-2.jpg)
+
+##### Step 3 Make a cut at the beginning of the text
+
+Find the spot where you want the text reveals to start, then click the scissor icon to make a cut on the clip from the first video track.
+
+![make a cut at the beginning of the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-3.jpg)
+
+##### Step 4 Add and adjust the text
+
+Go to Title > Plain Text > select which text styles suit you best. Then, drag the title to the second video track.
+
+![add and adjust the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Double-click on the title clip and type out your text. Then, adjust the text position and align it to the cut you have made.
@@ -246,63 +382,18 @@ There we go! The final look should look like this:
 
 ![final look](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-10.gif)
 
-## Summary
-
-That is how we can create the text reveal effect using Wondershare Filmora. Using Filmora's masking tool, it's easy to create a text reveal the effect that can add flair and interest to your videos. Just follow the simple steps, and you'll be able to get the desired result with a few clicks of your mouse. Give it a try, and share your thoughts with us.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-First, make sure the video clips you are using are clear, with the subject moving across the frame. It will help the text to stand out and be more easily seen. Now, follow the step-by-step guides below:
-
-##### Step 1 Add video tracks
-
-You will need three video tracks in order to create this effect, so click the (+) icon above the timeline > Add Video Track and add two more video tracks.
-
-![add video tracks](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-1.jpg)
-
-##### Step 2 Import the clip to the timeline
-
-Drag and drop your clip onto the first and third video tracks of the timeline. Then, align them with each other.
-
-![import the clip to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-2.jpg)
-
-##### Step 3 Make a cut at the beginning of the text
-
-Find the spot where you want the text reveals to start, then click the scissor icon to make a cut on the clip from the first video track.
-
-![make a cut at the beginning of the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-3.jpg)
-
-##### Step 4 Add and adjust the text
-
-Go to Title > Plain Text > select which text styles suit you best. Then, drag the title to the second video track.
-
-![add and adjust the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-4.jpg)
-
-Double-click on the title clip and type out your text. Then, adjust the text position and align it to the cut you have made.
-
-![double-click on the title clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-5.gif)
-
-##### Step 5 Use the masking tool
-
-Go to Effects > Utility > Image Mask, then drag and drop it onto the latter half of the top video clip.
-
-![use the masking tool](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-6.jpg)
-
-Make more cuts on the top latter clip, frame by frame, starting from the first cut you have made.
-
-![make more cuts on the top latter clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-7.gif)
-
-Double-click on each of the smaller clips and find the mask settings.
-
-![double-click on each of the smaller clips](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-8.jpg)
-
-Since the subject in this tutorial is moving from side to side, we are going to match the mask's y-axis setting, which is also the revealed text portion, with the subject's movement. Starting from the first clip, adjust the y-axis number to a smaller/bigger number.
-
-![adjust the y-axis number](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-9.gif)
-
-There we go! The final look should look like this:
-
-![final look](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-10.gif)
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -330,63 +421,12 @@ Find the spot where you want the text reveals to start, then click the scissor i
 
 ![make a cut at the beginning of the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-3.jpg)
 
-##### Step 4 Add and adjust the text
-
-Go to Title > Plain Text > select which text styles suit you best. Then, drag the title to the second video track.
-
-![add and adjust the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-4.jpg)
-
-Double-click on the title clip and type out your text. Then, adjust the text position and align it to the cut you have made.
-
-![double-click on the title clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-5.gif)
-
-##### Step 5 Use the masking tool
-
-Go to Effects > Utility > Image Mask, then drag and drop it onto the latter half of the top video clip.
-
-![use the masking tool](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-6.jpg)
-
-Make more cuts on the top latter clip, frame by frame, starting from the first cut you have made.
-
-![make more cuts on the top latter clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-7.gif)
-
-Double-click on each of the smaller clips and find the mask settings.
-
-![double-click on each of the smaller clips](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-8.jpg)
-
-Since the subject in this tutorial is moving from side to side, we are going to match the mask's y-axis setting, which is also the revealed text portion, with the subject's movement. Starting from the first clip, adjust the y-axis number to a smaller/bigger number.
-
-![adjust the y-axis number](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-9.gif)
-
-There we go! The final look should look like this:
-
-![final look](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-10.gif)
-
-## Summary
-
-That is how we can create the text reveal effect using Wondershare Filmora. Using Filmora's masking tool, it's easy to create a text reveal the effect that can add flair and interest to your videos. Just follow the simple steps, and you'll be able to get the desired result with a few clicks of your mouse. Give it a try, and share your thoughts with us.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-First, make sure the video clips you are using are clear, with the subject moving across the frame. It will help the text to stand out and be more easily seen. Now, follow the step-by-step guides below:
-
-##### Step 1 Add video tracks
-
-You will need three video tracks in order to create this effect, so click the (+) icon above the timeline > Add Video Track and add two more video tracks.
-
-![add video tracks](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-1.jpg)
-
-##### Step 2 Import the clip to the timeline
-
-Drag and drop your clip onto the first and third video tracks of the timeline. Then, align them with each other.
-
-![import the clip to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-2.jpg)
-
-##### Step 3 Make a cut at the beginning of the text
-
-Find the spot where you want the text reveals to start, then click the scissor icon to make a cut on the clip from the first video track.
-
-![make a cut at the beginning of the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 4 Add and adjust the text
 
@@ -488,13 +528,6 @@ The two important issues have been solved, so what are you waiting for? Platform
 
 ## Part 3\. How to Turn a Text Into a Podcast?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Text To Speech
 
 To turn your text into audible content, Text-to-speech (TTS) is an assistive technology. With a single click, TTS reads your written text aloud. Many people also use it for writing and editing to maintain audience concentration.
@@ -539,13 +572,6 @@ Step3 After adding your selected video, select the option “Titles” to add te
 
 ![select the option titles to add your text](https://images.wondershare.com/filmora/article-images/2023/01/podcast-text-to-speech-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Select your favorite position for text in the video, like “lower third,” which is used the most in video titles.
 
 ![go to option custom](https://images.wondershare.com/filmora/article-images/2023/01/podcast-text-to-speech-5.jpg)
@@ -589,13 +615,6 @@ With the help of the smartphone app Google Recorder you can easily convert podca
 * After you click stop on the app, you can store and share the files once you finish your recording.
 
 You have an option of sharing the text, the audio, or both. Alternatively, you can save them to your Google Drive if you don't want to share them.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to turn my podcast into a sound?
 
@@ -721,13 +740,6 @@ Removing green screen backgrounds and replacing them with stunning videos is a c
 
 First, you have to opt for remove green screen Photoshop and then add anything you want in place of the green screen. The difference between Chroma key Photoshop and any other photo editor is that you can pay attention to details and remove the entire green screen halo effect around the main subject or object on the photo. Therefore, there will be no jittery green edges and green patches to disturb the overall photo quality. Here are the steps to use green screen effect in Adobe Photoshop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. How To Use Green Screen in Photoshop?
 
 There are various ways available to remove greenscreen Photoshop. The beginners prefer using the Magic Wand tool but there will always be green patches around the main object on the photo. These green patches will get highlighted when you insert any image in the background. Therefore, we are using the best method to Chroma key Photoshop and that is through Color Range option. Here are the detailed steps to use color keying in Photoshop to use green screen effect.
@@ -745,13 +757,6 @@ Step 3: Pick the Eyedropper tool. Hold Shift key to select the green background.
 Step 3: Go to Select menu and click on Inverse. Now, the selection will be on the main subject instead of the background.
 
 ![click on inverse](https://images.wondershare.com/filmora/article-images/click-on-inverse.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: If you want to see a preview of the selection in your photo, you should select Image radio button and from Selection Preview, select any option other than None.
 
@@ -802,6 +807,13 @@ On the Timeline, your recorded video should be below the replacement photo or vi
 Step 5: Double-click on your video, and you will come across a panel on the upper-left side. From that panel, you have to turn on Chroma Key option. This will enable the green screen effect due to which you will see the replacement photo or video superimposed on your recorded video in the green screen background.
 
 ![green screen background](https://images.wondershare.com/filmora/article-images/green-screen-background.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 6: Finally, adjust the parameters available to fine-tune the overall green screen effect. Lastly, click on Ok button.
 
@@ -903,21 +915,19 @@ If you are looking to add green screen effects to your photo, you can opt for Ch
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-8-best-5k-monitors-for-you-for-2024/"><u>[New] 8 Best 5K Monitors for You for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-power-of-easy-video-editing-in-photos-and-windows-11/"><u>[Updated] Explore the Power of Easy Video Editing in Photos & Windows 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-the-simple-steps-to-update-your-networks-banner-image/"><u>[Updated] Unveiling the Simple Steps to Update Your Network's Banner Image</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos./"><u>2024 Approved Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
-<li><a href="https://common-error.techidaily.com/accelerating-response-time-a-guide-to-fixing-slow-keyboards-instantly/"><u>Accelerating Response Time: A Guide to Fixing Slow Keyboards Instantly</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-lava-yuva-3-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Lava Yuva 3 Pro PC | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-comment-on-youtube-live-chat/"><u>In 2024, How to Comment on YouTube Live Chat</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
-<li><a href="https://fox-info.techidaily.com/premier-pro-expertise-for-sound-switchers/"><u>Premier Pro Expertise for Sound Switchers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-full-guide-to-funcall-voice-changer-and-its-alternatives-for-2024/"><u>Updated Full Guide to Funcall Voice Changer and Its Alternatives for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/electronic-notebook-preservation-and-pdf-utilization/"><u>「一人だけでもスタートしやすいデジタルノート管理方法：Electronic Notebook Preservation & PDF Utilization」</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-use-path-blur-in-photoshop-to-create-motion-effect/"><u>2024 Approved Use Path Blur In Photoshop To Create Motion Effect</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-6-trending-home-entertainment-streaming-devices-expert-reviews/"><u>Best 6 Trending Home Entertainment Streaming Devices - Expert Reviews</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/fast-tracking-insta-ready-content-how-to-hasten-video-playback-on-instagram/"><u>Fast Tracking Insta-Ready Content: How to Hasten Video Playback on Instagram</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fossil-fuels-in-the-crosshairs-are-they-solely-to-blame/"><u>Fossil Fuels in the Crosshairs: Are They Solely to Blame?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/idt-software-compatibility-issue-correcting-the-detected-hardware-is-not-supported-message/"><u>IDT Software Compatibility Issue: Correcting the Detected Hardware Is Not Supported Message</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/installing-the-newest-logiteam-g403-controller-software-on-pc-systems/"><u>Installing the Newest Logiteam G403 Controller Software on PC Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-practical-tips-to-improve-your-lighting-in-the-sun-for-2024/"><u>New Best Practical Tips to Improve Your Lighting in the Sun for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-everything-that-you-need-to-know-about-video-montages-ideas-techniques-and-software/"><u>New Everything That You Need to Know About Video Montages- Ideas, Techniques, and Software</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-split-clips-in-vlc-for-2024/"><u>New Step by Step to Split Clips in VLC for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-removing-applications-on-your-pc-windows-11/"><u>Step-by-Step Guide: Removing Applications on Your PC - Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/step-by-step-format-hard-drive-on-apple-systems-mac/"><u>Step-by-Step: Format Hard Drive on Apple Systems (Mac)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-loop-videos-with-filmora-for-2024/"><u>Updated How to Create Loop Videos with Filmora for 2024</u></a></li>
 </ul></div>
 

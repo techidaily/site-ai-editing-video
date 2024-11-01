@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make Random Letter Reveal Intro?
-date: 2024-10-17T16:53:30.320Z
-updated: 2024-10-20T16:13:11.529Z
+date: 2024-10-27T21:21:11.822Z
+updated: 2024-10-31T18:33:06.506Z
 tags: 
   - ai
   - animation videos
@@ -54,6 +54,13 @@ On the editing timeline, tap on the Track 1 clip and click on the Snapshot icon 
 Then, take hold of the playhead on the timeline at the 3rd frame mark. Then, tap on the Scissor icon on the play head, which will split the clip into two portions. Click on the part following the 3rd frame mark and delete it.
 
 ![split the clip into two portions](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Copy the clipped section multiple times
 
@@ -108,6 +115,13 @@ Tap on the Snapshot you saved earlier sitting on the media library and drag it o
 Click on the Opacity option in the Video editing section and change it to 20%. Press the OK button after that.
 
 ![click on the opacity option](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Drop the Clip into the Timeline
 
@@ -163,6 +177,13 @@ From the Downloads section of your browser, double-click on it and press the Ins
 
 ![click on the download button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then, the software will start the installation instantly, likely taking a few seconds to complete.
 
 ## 2\. Add the Default Title and Edit its Font
@@ -176,10 +197,10 @@ Following that, click on the text size option and change it to 15\. Scroll down 
 ![change the value here to 20](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Split the title
@@ -207,13 +228,6 @@ After making the previous edits, use your cursor to move to the first part of th
 ![change the character](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-5.jpg)
 
 Repeat the same for all the split parts following the first one, changing the character to any random alphabet. At this time, ensure that you do not make two consecutive letters have the same alphabet, as that will put off the effect. However, keep the last elongated clip the same character as you originally put it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Export the first letter clip
 
@@ -270,6 +284,13 @@ Following this, click on the second letter clip and drag and drop it onto Track 
 Tap on this clip and move your playhead to the end position. Then, right-click on it and choose the Paste Effects option. Double-click on this clip on the timeline and change the position axis value until the letter aligns with its original position per the snapshot. Again, look at the Preview to ensure you align them correctly.
 
 ![look at the preview to align clips correctly](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Repeat this with all the other letters, making sure to change the starting position for each consecutive one-two frame forward.
 
@@ -335,13 +356,6 @@ LUTs are data files that stand for Look-Up Tables. These are used in video editi
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: What Are the Different Types of LUTs Available for Utility?
 
 To fully understand **LUT editing**, you need to be aware of the types of LUTs. In this section, we will discuss the types of LUTs. Have a look below to find out more about them:
@@ -401,13 +415,6 @@ The best and most optimized platform that can be used for this purpose is [Wonde
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-luts.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Filmora
 
@@ -512,6 +519,13 @@ In the following article, you have learned **what are LUTs in video editing**. F
 Time-Lapse movies are great for a variety of projects; you can use them as establishing shots in sitcoms, corporate marketing videos, and they can make lovely backgrounds for animated slideshows. A time-lapse video is essentially a series of photographs taken at regular intervals to depict how the environment changes gradually over a shorter period of time. In this article, we'll demonstrate how you may quickly and easily build an After Effects time-lapse effect.
 
 With that said, let's start!
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 1\. Create a new composition
 
@@ -656,31 +670,11 @@ You can also make scenes of your music video in office space to better describe 
 
 ![office space for shooting](https://images.wondershare.com/filmora/article-images/2023/04/office-space-for-shooting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Location 3\. Outdoor Locations
 
 For better daylight and illustrations in the music video, you can go with the outdoor location, which is free of cost.
 
 ![outdoor location for shooting](https://images.wondershare.com/filmora/article-images/2023/04/outdoor-location-for-shooting.jpg)
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Location 4\. Public Places
 
@@ -730,13 +724,6 @@ While in day 2, there is a filming of every memory. For this, there are setups o
 
 ![day 2 of filming tokyo song](https://images.wondershare.com/filmora/article-images/2023/04/day-2-of-filming-tokyo-song.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Take No Stress
 
 You should not blow up and take stress during shoot day because it'll obviously cause chaos in every little scene and give a bad impression to the music video. You just should work hard and get all done.
@@ -765,6 +752,13 @@ A cross-platform for making videos anywhere for all creators! ![filmora-02](http
  \* Secure Download
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternate Ways of Location Scouting
 
@@ -800,13 +794,6 @@ Public places are easily available and have many options, such as public parks, 
 
 The weather is also a major factor when shooting a video, which you must check before the shoot days. After selecting and scouting the location, now it's time to make a schedule which you'll get in hand in the below lines!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scheduling for the Music Video
 
 If you have a big project and more scenes to shoot, it's better to make a whole plan about each and everything. You have to make a schedule of using even a single light at a specific time and space. The following are the main considerations you should take care of!
@@ -822,6 +809,13 @@ You need to come to the setup before the filming day to check the main things li
 A call sheet is a daily shot list given to the cast and crew to follow the timelines, and it contains the phone number of everyone, their location, and the time to arrive on set. It also includes the nearest hospital, sunset, and sun-rising timing.
 
 ![call sheet of tokyo song](https://images.wondershare.com/filmora/article-images/2023/04/call-sheet-of-tokyo-song.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 It consists of one to two pages according to shoot days and has a plan of everything that happens after the Pre-Rig day.
 
@@ -867,22 +861,22 @@ Filming with people is not always bulky and flopping, but if you have a cooperat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-capture-the-spectacular-with-nikon-d500-in-4k/"><u>[New] In 2024, Capture the Spectacular with Nikon D500 in 4K</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-successful-youtubing-master-end-credits-and-makers-sources/"><u>[New] Successful YouTubing Master End Credits and Makers' Sources</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-breaking-down-the-secrets-of-impactful-asmr-video-creation-for-2024/"><u>[Updated] Breaking Down the Secrets of Impactful ASMR Video Creation for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-videos-with-imovie/"><u>2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-infinix-smart-8-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Infinix Smart 8 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/best-15-gopro-cutting-and-editing-software-for-2024/"><u>Best 15 GoPro Cutting and Editing Software for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/counteracting-non-standard-video-barriers/"><u>Counteracting Non-Standard Video Barriers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-censor-effects-with-filmora/"><u>In 2024, How to Make Censor Effects with Filmora</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-skype-learning-logs/"><u>In 2024, Skype Learning Logs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-storytelling-with-chatgpt-a-six-step-approach-for-authors/"><u>Innovative Storytelling with ChatGPT: A Six-Step Approach for Authors</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-3-ways-to-create-motion-text-effects-for-your-video/"><u>New 2024 Approved 3 Ways to Create Motion Text Effects for Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-loop-videos-with-imovie/"><u>New 2024 Approved How to Loop Videos with iMovie</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-achieving-flawless-gameplay-optimizing-your-switch-pro-experience-on-steam/"><u>[New] In 2024, Achieving Flawless Gameplay Optimizing Your Switch Pro Experience on Steam</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-fb-video-content-with-1-5-downloaders/"><u>[New] Unlocking FB Video Content with #1-5 Downloaders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-direct-tweet-transfers-to-facebook-feed/"><u>[Updated] In 2024, Direct Tweet Transfers to Facebook Feed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-7-tips-to-create-teaching-videos/"><u>2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-auditory-options-for-iphones/"><u>2024 Approved Premier Auditory Options for iPhones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-learning-managing-incremental-sound-gain/"><u>Essential Learning Managing Incremental Sound Gain</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-official-hp-laserjet-pro-mfp-series-m12-7fn-printer-drivers-for-your-computer/"><u>Get the Official HP Laserjet Pro MFP Series M12 7FN Printer Drivers for Your Computer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-create-risograph-effect-in-photoshop-a-beginners-guide-for-2024/"><u>New Create Risograph Effect In Photoshop A Beginners Guide for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-add-miniature-effect-to-videos/"><u>New Easy Steps to Add Miniature Effect to Videos</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-from-fast-to-slow-a-comprehensive-guide-to-slow-motion-effects-in-windows-live-movie-maker/"><u>Updated From Fast to Slow A Comprehensive Guide to Slow Motion Effects in Windows Live Movie Maker</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-custom-subtitles-to-netflix/"><u>Updated In 2024, How to Add Custom Subtitles to Netflix</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ownload-free-youtube-file-acquisition-for-2024/"><u>PureDownload Free YouTube File Acquisition for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/splitting-audio-from-video-in-sony-vegas-step-by-step-for-2024/"><u>Splitting Audio From Video in Sony Vegas Step by Step for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-high-definition-adventures-winning-with-windows-and-scummvm/"><u>The Ultimate Guide to High Definition Adventures: Winning with Windows & ScummVM</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-your-own-lol-montage-video/"><u>Updated How to Create Your Own LOL Montage Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-hdri-everything-you-need-to-know-about-hdri-for-2024/"><u>What Is HDRI? Everything You Need to Know About HDRI for 2024</u></a></li>
 </ul></div>
 

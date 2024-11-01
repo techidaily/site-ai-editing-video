@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved 7 Tips to Create Teaching Videos
-date: 2024-10-20T21:01:32.897Z
-updated: 2024-10-26T03:46:22.453Z
+date: 2024-10-31T04:53:21.843Z
+updated: 2024-11-01T06:51:45.381Z
 tags: 
   - ai
   - animation videos
@@ -109,6 +109,19 @@ There's a chance that your recorded video doesn't meet your requirements or you 
 Do you know what adds a realistic effect to videos? Professionals add various types of effects to the videos to create artistic perspective flawlessly. Usually, the process of adding effects to the videos happens in the post-production phase, where professionals utilize various software. One of the commonly added effects is the motion blur effect which creates a subtle motion in the video.
 
 In this article, we will address **how to do motion blur on CapCut** with simple steps. So, continue reading this guide to learn an easy and simple way of creating motion blur in your videos.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Why Should You Add Motion Blur to Videos?
 
@@ -313,13 +326,6 @@ With the help of video editing programs like [Filmora](https://tools.techidaily.
 
 In this article, we'll walk you through the process of how to clone yourself in videos using Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Film Clips for Cloning Effects?
 
 To make cloning effects, you will need to take two different shots and use a tripod to place the camera, so the frame doesn't change.
@@ -341,13 +347,6 @@ Then, shoot for the second clip without changing the frame. You will have to go 
 ![shooting the second clip](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-3.gif)
 
 Act as if you have just appeared there and give a reaction to the other side as well.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Do the Clone Effect with Filmora?
 
@@ -387,6 +386,19 @@ Move the keyframe up to increase the speed. You can adjust it according to your 
 
 ![adjust keyframe](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-9.gif)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Once you are satisfied, adjust the clip length on the timeline and make sure that both clips finish at the same time.
 
 ![adjust the clip length](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-10.jpg)
@@ -400,19 +412,6 @@ Step1 Open the **Effects** window and search for "up down 1."
 Step2 Drag and drop the effect onto the timeline where the first cut is set. Adjust the effect length to match the action.
 
 ![drag and drop the effect onto the timeline](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-12.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then, drag and drop the effect again in the transition between the first and the second clip. Adjust it to the appropriate length, then it will give a more dramatic effect.
 
@@ -444,6 +443,13 @@ Then, double-click the second clip and go to the Filmora setting window. Tap on 
 
 ![tap on mask section](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 On the preview screen, adjust the position of the mask to only show "the clone."
 
 ![adjust the position of the mask](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-7.gif)
@@ -453,13 +459,6 @@ Set the blur strength on the setting to make a smoother edge transition.
 Step3 If the timing of the two clips doesn't match, you can fix it using the speed ramping feature on Filmora 11\. To use it, double-click the second clip and select **Speed > Speed Ramping > Customize**.
 
 ![double-click the second clip](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Move the keyframe up to increase the speed. You can adjust it according to your needs.
 
@@ -514,6 +513,13 @@ Video editors are professionals that are tasked to edit and customize videos. Th
 * Professional Quality: The quality of applied LUTs is amazing. After all, LUTs provide dedicated filter presets to optimize color saturation and brightness. With professional color grading, experience a top-quality video.
 * Creative Colors: LUTs are ideal for adding premium yet stylish color schemas into videos. The color gradients are creative as well as sleek and luxurious. You will not regret using creative color presets in LUTs.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Discussing Some Practical Uses of LUTs in Video Editing
 
 LUTs, also known as look-up tables, are unique video editing tools. They use mathematical instructions to map input color values into output color values. This way, consistent color gradings are applied across video content. In video editing, LUTs can be used for a variety of practical uses:
@@ -575,10 +581,10 @@ Upgrade your preset library with this amazing Filmic Tone LUTs pack. While featu
 ![filmic tone luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-filmic-pro-luts-for-video-editing-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. [7. Filmic LUTs Vol.2](https://www.etsy.com/listing/1248235354/filmic-luts-vol2-final-cut-luts-adobe?ga%5Forder=most%5Frelevant&ga%5Fsearch%5Ftype=all&ga%5Fview%5Ftype=gallery&ga%5Fsearch%5Fquery=filmic+pro+luts&ref=sr%5Fgallery-1-4&organic%5Fsearch%5Fclick=1)
@@ -604,13 +610,6 @@ Moody Filmic retouches are always special and exciting. When adding them to visu
 Transform color grading within your visual content with this cinematic film LUTs pack. To sum up, there are 50 different cinematic LUTs in this pack. So, while using these LUTs, color saturation and brightness will upgrade your visual content. The good thing is the LUTs are compatible with both video and image formats.
 
 ![movie cinematic film luts](https://images.wondershare.com/filmora/article-images/2023/06/best-filmic-pro-luts-for-video-editing-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Getting To Know Wondershare Filmora and Its Use in LUTs
 
@@ -668,6 +667,13 @@ Enhancing color schemas is easier and more convenient using LUTs. These editing 
 
 Different cameras produce videos with diverse quality, which is unsatisfying. Through LUTs, you can match the color of your footage with a consistent appearance. The color schemes and tone contrasts are optimized in a collective way.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Best Filmic Pro LUTs To Use
 
 Using LUTs in video editing can save a lot of time. For video editors, LUTs can be revolutionizing because of less effort with amazing output. In general, using Filmic Pro LUTs is in great demand. Let’s discover some of them:
@@ -677,13 +683,6 @@ Using LUTs in video editing can save a lot of time. For video editors, LUTs can 
 Bring Filmic looks to your videos using this Filmic Pro LUTs download pack. There are up to 7 different LUT preset filters that you can import. With Filmic touch, you can add unique cinematic looks to your visual content. LUT Quick Action Modal (QAM) is also introduced to switch into preview mode or apply LUT to the video.
 
 ![filmic lut support](https://images.wondershare.com/filmora/article-images/2023/06/best-filmic-pro-luts-for-video-editing-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. [Richard Lackey FREE Filmic Pro LOGv2 LUT for FilmConvert](https://www.richardlackey.com/shop/lut/richard-lackey-free-filmic-pro-logv2-lut/)
 
@@ -702,6 +701,19 @@ Make your photo or video more special with this Free LUT Filmic pack. Meanwhile,
 Enhance your visual creativity by blending premium looks into your videos. After all, this Filmic Pro LUT download pack has fantastic color upscaling solutions. It contains a collection of 20 Film REC 709 LUTs and 20 Film Slog3 LUTs to adapt. This way, you can improve the color gradients of your social media videos and presentations.
 
 ![ film slog3 and standard luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-filmic-pro-luts-for-video-editing-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5.[FILMIC PRO SUPER-BUNDLE LUTS PACK](https://ryancampfilms.sellfy.store/p/mahvrf/)
 
@@ -727,18 +739,18 @@ Add a retro touch to your videos with this Filmic Pro LUT download pack. After a
 
 ![50 Cinematic Retro Film LUTs Pack ](https://images.wondershare.com/filmora/article-images/2023/06/best-filmic-pro-luts-for-video-editing-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 9\. [Moody Filmic Cityscape LR Presets](https://www.etsy.com/listing/1375455924/12-moody-filmic-cityscape-lr-presets?ga%5Forder=most%5Frelevant&ga%5Fsearch%5Ftype=all&ga%5Fview%5Ftype=gallery&ga%5Fsearch%5Fquery=filmic+pro+luts&ref=sr%5Fgallery-1-5&sts=1&organic%5Fsearch%5Fclick=1)
 
 Moody Filmic retouches are always special and exciting. When adding them to visual content, you can extend quality in an optimal way. After all, this Filmic Tone LUTs free download pack has 12 filter presets. This way, you can enhance color grading with the right correction standards. You can use these filter presets on both mobile and the web.
 
 ![Moody Filmic Cityscape LR Presets ](https://images.wondershare.com/filmora/article-images/2023/06/best-filmic-pro-luts-for-video-editing-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 10\. [Movie Cinematic Film LUTs](https://www.etsy.com/listing/1427618154/60-movie-cinematic-film-luts-pack-for?ga%5Forder=most%5Frelevant&ga%5Fsearch%5Ftype=all&ga%5Fview%5Ftype=gallery&ga%5Fsearch%5Fquery=filmic+luts&ref=sr%5Fgallery-1-2&pro=1&organic%5Fsearch%5Fclick=1)
 
@@ -786,18 +798,16 @@ LUTs are pre-defined color gradients that work in an instant way. Meanwhile, the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-optimizing-google-meet-view-with-grids-for-all-attendees/"><u>[New] 2024 Approved Optimizing Google Meet View with Grids for All Attendees</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-essential-guide-the-8-best-zero-price-video-cutting-software-for-2024/"><u>[New] Essential Guide The 8 Best Zero Price Video Cutting Software for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-blender-green-screen/"><u>2024 Approved How to Use Blender Green Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-life-with-chatgpts-health-innovations/"><u>Enhancing Your Life with ChatGPT’s Health Innovations</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-y100a-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y100A</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-navigating-through-bings-artificer-tips-for-android-users/"><u>Guide: Navigating Through Bing's Artificer - Tips for Android Users</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-strobe-light-text-effect-in-2024/"><u>How to Make Strobe Light Text Effect, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-online-changers/"><u>In 2024, Recommended Video Background Online Changers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-steps-to-add-subtitles-in-canva/"><u>In 2024, Steps to Add Subtitles in Canva</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-creating-motivational-videos-with-ai-comprehensive-guide-2024/"><u>New Creating Motivational Videos with AI Comprehensive Guide 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nokia-data-retrieval-tool-restore-lost-data-from-nokia-c110-by-fonelab-android-recover-data/"><u>Nokia Data Retrieval tool – restore lost data from Nokia C110</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/sound-sanitization-cleaning-up-your-online-footage-for-2024/"><u>Sound Sanitization Cleaning Up Your Online Footage for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-a25-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy A25 5G Device</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-construct-your-dreams-with-dynamic-time-lapses-on-a-hero5/"><u>[New] Construct Your Dreams with Dynamic Time-Lapses on a Hero5</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-capturing-discords-magic-3-steps-for-ensuring-your-live-stream-stays-alive/"><u>[New] In 2024, Capturing Discord's Magic 3 Steps for Ensuring Your Live Stream Stays Alive</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-create-slow-motion-videos-using-final-cut-pro-with-ease/"><u>2024 Approved Create Slow Motion Videos Using Final Cut Pro with Ease</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-overlay-video-in-premiere-pro/"><u>2024 Approved How to Overlay Video in Premiere Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30-vip-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Infinix Note 30 VIP to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-quadcopter-power-5-premium-engine-choices-for-2024/"><u>Mastering Quadcopter Power 5 Premium Engine Choices for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-file-extraction-from-youtube-browser-os-and-terminal-methods-for-2024/"><u>Navigating File Extraction From Youtube Browser, OS and Terminal Methods for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-creating-testimonial-videos-for-health-and-wellness-business-industry-for-2024/"><u>New Creating Testimonial Videos For Health And Wellness Business Industry for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-acid-pro-effect-exploring-similar-tools-for-2024/"><u>The ACID Pro Effect Exploring Similar Tools for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-achieving-gopro-slow-motion-with-quality-an-in-depth-overview/"><u>Updated 2024 Approved Achieving GoPro Slow Motion with Quality An In-Depth Overview</u></a></li>
 </ul></div>
 

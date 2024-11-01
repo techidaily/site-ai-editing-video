@@ -1,7 +1,7 @@
 ---
 title: New Do You Want to Blur Faces in Your Videos? Read This Article to Find Out the Easiest Way to Blur the Faces in Videos Using Adobe Premiere Pro
-date: 2024-10-23T03:19:30.595Z
-updated: 2024-10-26T04:38:14.729Z
+date: 2024-10-28T19:25:17.844Z
+updated: 2024-10-31T21:41:36.374Z
 tags: 
   - ai
   - animation videos
@@ -93,6 +93,13 @@ To proceed, head to the “Effects” section and locate the “Video Effects”
 
 ![select the mosaic effect](https://images.wondershare.com/filmora/article-images/2023/02/blur-face-in-premiere-pro-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Adjust the Blur Settings
 
 Now, double-click on the effect to open settings. You can choose your desired “Blur Type” for your Mosaic effect from the settings. Also, you can change the opacity and blur strength. Afterward, adjust the blurred space on your preview window. Press “OK” to continue.
@@ -161,13 +168,6 @@ Have you accidentally captured the strangers' faces in your video? No need to wo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8 Best Sites to Get Glitch Transition for Premiere Pro
 
@@ -417,6 +417,13 @@ Once you have created subtitles for your imported video, click the "Export" butt
 
 ![export or share your edited video](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. [Cisdem Video Converter](https://www.cisdem.com/video-converter.html)
 
 Cisdem is an efficient tool that can be used by content creators for various purposes. Along with editing the videos, this tool can help you add subtitles to your video files in any format. It supports various formats for adding subtitles, such as MKV, MP4, AVI, etc. This tool also offers a built-in editor to modify the MKV videos flawlessly. Hence, it's a basic tool that generates quality results instantly.
@@ -440,13 +447,6 @@ Step2 From the editing window, go to "Subtitle and Audio" and click on "No subti
 Step3 Now press the "Save" button to proceed. As the default output format in this tool is MP4, navigate to the "General Video" section to change it. From this option, select "MKV Video" as the output format. Afterward, hit the "Convert" button to embed the added subtitles easily.
 
 ![convert your video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. [VLC Media Player](https://www.videolan.org/vlc/)
 
@@ -480,6 +480,13 @@ Step4 By going to the "Audio codec" and "Video codec" sections, check the box "k
 
 Are you looking for **MKV subtitle editors** that are compatible with Mac? In this section, you can learn how to **add subtitles to MKV** on your Mac devices easily.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. [HD Video Converter Deluxe](https://www.winxdvd.com/hd-video-converter-for-mac/)
 
 This tool is highly compatible with Mac users and provides tons of advanced features. Besides being a great video editor, this tool can help you add subtitles to your MKV video files. It supports popular subtitle formats such as ASS, SSA, and SRT. If you want to embed hardcode subtitles into your MKV files, this is the most compatible tool.
@@ -496,6 +503,13 @@ Step1 Start by launching HD Video Converter Deluxe on your MacBook. Afterward, t
 
 ![add the video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 On the Output Profile window, choose "MKV" as your output format. Click on the "OK" button to proceed. Now navigate to the "Edit" tab and select "Subtitle." From there, check "Enable Subtitle." Also, check "Extra" and then click on the "Add" button. Now you can import the subtitle file to this tool.
 
 ![import your subtitle file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-13.jpg)
@@ -503,13 +517,6 @@ Step2 On the Output Profile window, choose "MKV" as your output format. Click on
 Step3 Click the "Done" button and then hit the "RUN" button to embed the subtitles.
 
 ![press the run button](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. [Wondershare UniConverter](https://tools.techidaily.com/wondershare/videoconverter/download/)
 
@@ -534,13 +541,6 @@ Step2 You can click on the "Manual Subtitles" button to add your subtitles with 
 Step3 You can edit the added subtitles by going to the "Styles" section. Here, you can change the font, color, and style of your subtitles. Once done, click on the "Save" button.
 
 ![save the edited file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-17.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Add Subtitles to MKV Online?
 
@@ -585,6 +585,13 @@ Do you want an interesting tool to create subtitles? Flixier is an efficient onl
 Step1 Visit the website of Flixier and click on "Add subtitles to your videos" from its tools. Afterward, tap on "Get Started" to proceed. The tool will ask you to upload your video file.
 
 ![get started flixier](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-21.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Once you have uploaded the MKV video, click on "Text" given on the left side. Afterward, tap "Add Subtitle" to create subtitles for your video. You can add text to the given space to create subtitles. You can also tap on the "Import Subtitle" button to upload the subtitle file. To change the properties of your subtitles, you can edit them from the provided options on your screen.
 
@@ -635,13 +642,6 @@ Download and install Filmora on your PC and click "Create Project." Afterward, i
 
 ![import your mkv file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2 Go to Titles Tab
 
 After importing the video, drag it to the timeline. Once done, click on the "Titles" section given on top. Afterward, click on "Subtitles" from the left section. Now you will be able to see different types of subtitles on your screen. Select your favorite style of subtitles and tap on its "Download" icon.
@@ -653,13 +653,6 @@ After importing the video, drag it to the timeline. Once done, click on the "Tit
 After that, tap on the "Plus" icon to add your selected subtitle style to the timeline. Double-click on the added subtitles, which will open the settings. You can manually add the subtitles on the "Input Text" box easily. Moreover, you can easily change the text font, color, opacity, and alignment.
 
 ![edit your subtitles](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4 Export and Save Video
 
@@ -687,13 +680,6 @@ Step2 From the editing window, go to "Subtitle and Audio" and click on "No subti
 
 ![add your subtitle file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Now press the "Save" button to proceed. As the default output format in this tool is MP4, navigate to the "General Video" section to change it. From this option, select "MKV Video" as the output format. Afterward, hit the "Convert" button to embed the added subtitles easily.
 
 ![convert your video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-7.jpg)
@@ -713,6 +699,13 @@ The VLC Media Player is a commonly used platform that offers various functions. 
 Step1 Open your VLC media player and click on the "Media" tab given on top. From there, tap on the "Convert/Save" option.
 
 ![choose the convert to save option](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 A new dialogue box will open regarding "Open Media." Now you can instantly upload your MKV file on this tool. By staying on the same window, check the box saying, "Use a subtitle file." Afterward, browse the SRT file from your computer.
 
@@ -754,13 +747,6 @@ Step3 Click the "Done" button and then hit the "RUN" button to embed the subtitl
 
 ![press the run button](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. [Wondershare UniConverter](https://tools.techidaily.com/wondershare/videoconverter/download/)
 
 UniConverter is one of the famous tools that many people prefer due to its high reliability. Among its various advanced features, you can use its "Subtitle Editor" to add subtitles to MKV videos. You can create subtitles manually in your preferred font. Moreover, it provides an auto generator to create subtitles by extracting audio from the video file. This feature supports more than 100 languages to offer more diversity.
@@ -784,6 +770,13 @@ Step2 You can click on the "Manual Subtitles" button to add your subtitles with 
 Step3 You can edit the added subtitles by going to the "Styles" section. Here, you can change the font, color, and style of your subtitles. Once done, click on the "Save" button.
 
 ![save the edited file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Add Subtitles to MKV Online?
 
@@ -837,6 +830,13 @@ Step3 Once done with creating and adjusting subtitles, click on the "Export" but
 
 ![hit the export button](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-to-mkv-23.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Subtitles are shown at the bottom of a video and help make the video content comprehensive. If you are dealing with MKV files and want to add subtitles in an instant way, this article has provided all the details. By reading this guide, you can learn how to **add subtitles to MKV** files on different platforms.
@@ -861,24 +861,20 @@ To attain the best results and utilize advanced features, we will highly recomme
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-24-hour-heavyweights-top-10-most-watched-on-yt/"><u>[New] 2024 Approved 24 Hour Heavyweights Top 10 Most Watched on YT</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-cartoonhub-master-review-2024-overview/"><u>[Updated] CartoonHub Master Review 2024 Overview</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-clear-water-footage-pro-techniques-for-gopro-underwater-scenes-for-2024/"><u>[Updated] Clear Water Footage Pro Techniques for GoPro Underwater Scenes for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-titanium-takes-flight-drones-for-industrial-prowess/"><u>[Updated] Titanium Takes Flight Drones for Industrial Prowess</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-100plus-best-tiktok-captions-enhance-your-content/"><u>2024 Approved 100+ Best TikTok Captions Enhance Your Content</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-windows-movie-maker-save-mp4-file/"><u>2024 Approved How Windows Movie Maker Save MP4 File</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-guide-to-a-bespoke-youtube-channel-url/"><u>2024 Approved The Essential Guide to a Bespoke YouTube Channel URL</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/blender-green-screen-effects-for-2024/"><u>Blender Green Screen Effects for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/breakdown-of-windows-11s-enhancements-february-update-speaks/"><u>Breakdown of Windows 11'S Enhancements – February Update Speaks</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-to-share-your-4k-videos-with-the-world-via-youtube/"><u>How to Share Your 4K Videos with the World via YouTube</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-how-to-create-luts-with-luts-generator/"><u>New 2024 Approved Learning How to Create LUTs with LUTs Generator</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-tutorial-video-with-filmora/"><u>New How to Make Tutorial Video with Filmora</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/star-wars-squadrons-crashing-solved/"><u>STAR WARS: Squadrons Crashing [Solved]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-mp4-videos-into-mpg-files-without-cost-using-movavis-web-service/"><u>Transform Your MP4 Videos Into MPG Files Without Cost Using Movavi's Web Service</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/trasforma-i-file-webm-in-formato-m4a-gratuitamente-conversione-online-con-movavi/"><u>Trasforma I File WebM in Formato M4A Gratuitamente - Conversione Online Con Movavi</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-is-windows-movie-maker-still-available/"><u>Updated Is Windows Movie Maker Still Available?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-setup-guide-to-capture-high-quality-video-using-logitech-camera/"><u>[Updated] Expert Setup Guide to Capture High-Quality Video Using Logitech Camera</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-mg3022-printer-driver-update-where-to-download-them-now/"><u>Canon MG3022 Printer Driver Update - Where to Download Them Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dell-audio-driver-download-and-update-easily/"><u>Dell Audio Driver Download & Update Easily</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortlessly-update-usb-drivers-across-windows-10-7-8-and-81-with-these-easy-tips/"><u>Effortlessly Update USB Drivers Across Windows 10, 7, 8 & 8.1 with These Easy Tips!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/exploring-flexus-200-a-revolutionary-audio-experience/"><u>Exploring Flexus 200: A Revolutionary Audio Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/fixing-performance-lags-and-stutter-in-modern-warfare-2-on-windows-systems/"><u>Fixing Performance Lags & Stutter in Modern Warfare 2 on Windows Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hidden-insights-for-importer-mastery-on-windows-10/"><u>Hidden Insights for Importer Mastery on Windows 10</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/lifeline-of-live-logs-extraction/"><u>Lifeline of Live Logs Extraction</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mpeg4-dashmp3/"><u>MPEG4-DASH形式からMP3ファイルへの直接変換：シンプルガイド</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1722995270622-pubg-no-volume-heres-how-you-can-get-game-audio-back/"><u>PUBG No Volume? Here's How You Can Get Game Audio Back!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/solution-to-stuttering-glitch-in-mass-effect-legendary-anthology-released/"><u>Solution to Stuttering Glitch in Mass Effect Legendary Anthology Released</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speed-up-your-ukrainian-skills-with-short-regular-sessions-106-chars/"><u>Speed Up Your Ukrainian Skills with Short, Regular Sessions (106 Chars)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/unlock-more-fun-on-your-nes-classic-with-essential-game-installation-techniques/"><u>Unlock More Fun on Your NES Classic with Essential Game Installation Techniques</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vyncs-link-analysis-unrivaled-monitoring-capabilities-overshadowed-by-puzzling-pricing-structures/"><u>Vyncs Link Analysis: Unrivaled Monitoring Capabilities Overshadowed by Puzzling Pricing Structures</u></a></li>
 </ul></div>
 

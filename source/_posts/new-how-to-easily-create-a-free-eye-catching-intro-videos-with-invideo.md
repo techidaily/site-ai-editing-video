@@ -1,7 +1,7 @@
 ---
 title: New How to Easily Create a Free Eye-Catching Intro Videos with Invideo
-date: 2024-09-29T18:11:26.931Z
-updated: 2024-10-03T08:45:22.508Z
+date: 2024-10-25T17:38:47.633Z
+updated: 2024-10-31T20:11:08.773Z
 tags: 
   - ai
   - animation videos
@@ -39,6 +39,13 @@ A movie intro video builds anticipation and excitement to your audience. The int
 
 Creating a right advertising introduction video is sufficient to promote your products to potential customers. To increase brand awareness, it should include information about your company, your products or services, and your brand.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Steps to Make an Intro Video with InVideo
 
 **Intro maker InVideo** is the answer for creating a simple online video editing platform for any purpose. With a variety of available video templates on InVideo, no need to spend hours in front of a computer! To start making one, simply follow these steps:
@@ -58,6 +65,13 @@ Step3After choosing the template, you can customize it by clicking on the things
 Step4Once you are satisfied with the result, export your video by clicking on the "Export" button on the top-right of your workspace. InVideo will start rendering your video.
 
 ![export video from invideo](https://images.wondershare.com/filmora/article-images/2022/09/export-video-from-invideo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. InVideo Alterative to Make Intro Video on Computer
 
@@ -177,6 +191,13 @@ Step1 **Choose** the layer to which you want to apply the mask.
 
 ![after effect select layer](https://images.wondershare.com/filmora/article-images/after-effect-select-layer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 **Choose** one of the shape tools from the toolbar.
 
 ![after effect choose shape](https://images.wondershare.com/filmora/article-images/after-effect-choose-shape.jpg)
@@ -236,19 +257,6 @@ In addition to its masking feature, Filmora offers various tools and features th
 
 Overall, Wondershare Filmora is a great alternative to After Effects, particularly for users looking for a more user-friendly and affordable video editing and masking option. With its comprehensive features, Filmora provides an excellent option for users who want to create professional-looking videos without needing advanced technical skills.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How To Use Shape Tool In Masking Using Filmora
 
 The Shape Tool in Filmora is a feature in the video editing software Wondershare Filmora, which allows users to create masks with various shapes such as rectangles, circles, double lines, single lines, love, and star, as well as custom shapes using the draw mask feature. Masks in Filmora can hide or reveal specific parts of a video clip, add animations, and create composite images and videos.
@@ -259,6 +267,13 @@ Step1 **Enter** the Video panel, and **switch** to the Mask tab in Wondershare F
 
 ![filmora basic mask shapes](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 **Select** a shape; see only the masked area in the Preview window.
 
 ![filmora basic mask shapes preview](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes-preview.jpg)
@@ -266,19 +281,6 @@ Step2 **Select** a shape; see only the masked area in the Preview window.
 Step3 **Add** keyframes to animate the mask and **adjust** position, rotation, size, and blur strength.
 
 ![filmora basic mask shapes add keyframe](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes-add-keyframe.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How To Use Pen Tool In Masking Using Filmora
 
@@ -323,13 +325,6 @@ Step3 **Place** a new image behind a masked image for a new background.
 
 ![after effect pen tool add background](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool-add-background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 **Add** a masked image feather if needed.
 
 ![after effect pen tool add mask feather](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool-add-mask-feather.jpg)
@@ -366,23 +361,9 @@ Step1 **Enter** the Video panel, and **switch** to the Mask tab in Wondershare F
 
 ![filmora basic mask shapes](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 **Select** a shape; see only the masked area in the Preview window.
 
 ![filmora basic mask shapes preview](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes-preview.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 **Add** keyframes to animate the mask and **adjust** position, rotation, size, and blur strength.
 
@@ -416,18 +397,24 @@ Whether you're using After Effects or Filmora, you can use masks to control the 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## OBS Green Screen Guide
 
 OBS Studio is a free and open-source app for screen-casting and live streaming. Written in C/C++ and built with Qt, OBS Studio provides real-time capture, scene composition, recording, encoding, and broadcasting via the Real Time Messaging Protocol (RTMP).It can stream Videos to any RTMP supporting destination including YouTube, Twitch, Instagram and Facebook.
 
 You only need one green screen software – OBS. The reason why OBS is the most recommended for streaming is because once you have set it up properly, you can do literally anything you can think of with the software (either with or without added plug-ins).
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Chroma Key Settings in OBS
 
@@ -489,6 +476,13 @@ You can also import video clips using your Touch Bar controls if your computer h
 
 ![drag green screen](https://images.wondershare.com/filmora/guide/drag-green-screen-video-win.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Record a media file
 
 Apart from the videos shot by your digital devices, you can also directly import media files by recording video from your webcam, capturing the computer screen, or recording a voice-over.
@@ -577,13 +571,6 @@ You can follow the instructions above and live stream to multiple platforms at o
 
 Using green screens for filmmaking isn't the most complicated or difficult thing in the world but it certainly has its pitfalls. If you ask any experienced filmmaker what to look out for when using a green screen, chances are they're going to mention lighting about a billion times and that's for good reason.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tips on How to make OBS green screen settings better
 
 * Evenly light your green screen so you can get a good key.
@@ -593,6 +580,13 @@ Using green screens for filmmaking isn't the most complicated or difficult thing
 * Aperture: Setting your aperture to f4 or f5.6 will give you slightly more depth of field, which will blur and smooth out your green screen.
 * Format: Set your camera to the best recording format it has.
 * ISO: Try to avoid high ISOs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Filmora
 
@@ -607,6 +601,13 @@ For Win 7 or later (64-bit)
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Installation Steps
 
@@ -641,13 +642,6 @@ All the recorded media files will be saved into Media Library automatically and 
 Pro tip:
 
 You can follow the instructions above and live stream to multiple platforms at once with Restream. Multistreaming to platforms like YouTube, Facebook, Twitter, Twitch, and LinkedIn allows you to drastically increase the audience reach and grow your followers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to make OBS green screen settings better
 
@@ -725,19 +719,20 @@ All the recorded media files will be saved into Media Library automatically and 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-travel-bloggers-blueprint-strategies-for-professional-growth/"><u>[New] The Travel Blogger's Blueprint Strategies for Professional Growth</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-tiktok-to-mp4-mastery-free-watermark-free-extractors/"><u>[Updated] 2024 Approved TikTok to MP4 Mastery Free, Watermark-Free Extractors</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-techniques-that-elevate-your-ppt-recording-experience/"><u>2024 Approved Techniques that Elevate Your PPT Recording Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/are-wi-fi-mesh-networks-the-smart-choice/"><u>Are Wi-Fi Mesh Networks the Smart Choice?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-screenshots-for-live-viewers/"><u>Essential Screenshots for Live Viewers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-can-i-control-speed-of-a-video/"><u>How Can I Control Speed of a Video</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-compreeved-guide-youtube-to-mp3mpeg-transcoding/"><u>In 2024, Compreeved Guide YouTube to MP3/MPEG Transcoding</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-wish-to-learn-about-some-tools-to-slow-down-a-video-discover-how-to-slow-down-time-lapse-on-iphone-throughout-this-article/"><u>In 2024, Do You Wish to Learn About some Tools to Slow Down a Video? Discover How to Slow Down Time Lapse on iPhone Throughout This Article</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-vacation-slideshow-in-5-minutes/"><u>In 2024, How to Create a Vacation Slideshow in 5 Minutes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-look-at-the-expected-specs-and-release-of-samsungs-galaxy-z-fold-7-news-update-with-rumored-details/"><u>In-Depth Look at the Expected Specs and Release of Samsung's Galaxy Z Fold 7 – News Update with Rumored Details</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/keep-your-epson-wf-7720-printer-running-smoothly-latest-windows-compatible-drivers-update-guide/"><u>Keep Your Epson WF-7720 Printer Running Smoothly: Latest Windows Compatible Drivers Update Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>New In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/step-by-step-to-split-a-clip-in-vlc-for-2024/"><u>Step by Step to Split a Clip in VLC for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleashing-the-power-of-edit-in-tiktok-video-creation/"><u>Unleashing the Power of Edit in TikTok Video Creation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-effective-streaming-strategies-facebook-crossposting-for-2024/"><u>[New] Effective Streaming Strategies Facebook Crossposting for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-guide-the-intricate-process-of-media-import-in-w11/"><u>[New] Exclusive Guide The Intricate Process of Media Import in W11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to-create-/"><u>2024 Approved Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pinnacle-studio-25-review-2023/"><u>2024 Approved Pinnacle Studio 25 Review 2023</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/5-tools-to-create-a-time-lapse-video-online/"><u>5 Tools to Create a Time-Lapse Video Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/discover-a-quick-guide-to-add-personalized-video-filters-in-vn-app-learn-how-to-use-built-in-filters-and-import-external-ones-for-creative-video-editing-for/"><u>Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-have-the-habit-to-create-subtitle-for-your-video-you-can-always-add-open-and-close-subtitles-to-your-video-to-make-it-perfect-follow-this-article-to-/"><u>Do You Have the Habit to Create Subtitle for Your Video? You Can Always Add Open and Close Subtitles to Your Video to Make It Perfect. Follow This Article to Learn More About It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-next-generation-key-upgrades-in-apples-latest-airpods-4-lineup-insights/"><u>Exploring the Next Generation: Key Upgrades in Apple's Latest AirPods 4 Lineup - Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-wacom-tablet-malfunctions-and-restore-functionality/"><u>How to Resolve Wacom Tablet Malfunctions and Restore Functionality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-2-methods-to-cut-video-in-vlc-on-windows/"><u>In 2024, 2 Methods to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-free-video-text-dynamics/"><u>In 2024, Mastering FREE Video Text Dynamics</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-g2-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo G2 Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/luminous-iphone-videos-three-quick-tips/"><u>Luminous iPhone Videos Three Quick Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/reach-out-to-professionals-discover-how-digiarty-can-help-your-business/"><u>Reach Out to Professionals: Discover How Digiarty Can Help Your Business</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-save-your-edited-video-file-in-mp4-format-in-windows-movie-maker-here-are-the-simple-steps-along-with-a-better-alternative/"><u>Want to Save Your Edited Video File in MP4 Format in Windows Movie Maker? Here Are the Simple Steps Along with a Better Alternative</u></a></li>
 </ul></div>
 
