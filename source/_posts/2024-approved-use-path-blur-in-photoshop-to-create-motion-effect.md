@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Use Path Blur In Photoshop To Create Motion Effect
-date: 2024-09-29T20:45:04.415Z
-updated: 2024-10-02T22:28:30.729Z
+date: 2024-11-03T18:05:23.357Z
+updated: 2024-11-07T00:57:41.440Z
 tags: 
   - ai
   - animation videos
@@ -33,6 +33,13 @@ Photoshop is undoubtedly the most commonly used tool to edit pictures with great
 
 Are you ready to use Photoshop path blur? Read this part of the article to find out two interesting ways to create a path blur effect in the images.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add Dynamic Effect to Your Static Images
 
 Step1 Open Photoshop and import the desired picture. Once done, go to the "Layers" section and copy the background layer. For this, press "Ctrl + J" in Windows and "Command + J" for MacBook.
@@ -42,6 +49,13 @@ Step1 Open Photoshop and import the desired picture. Once done, go to the "Layer
 Step2 Now proceed to the "Filter" section and locate the option "Blur Gallery". From there, choose the "Path Blur" option. Now you would be able to see an arrow on your screen. Using this arrow, you can specify the path blur motion. Drag and close the arrow where you want to show the speed. Also, set a higher value for the speed given on the right side. Once done, hit the "OK" button.
 
 ![choose the path blur](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Create a Long Exposure Picture
 
@@ -105,19 +119,6 @@ Once you have added the motion blur effect, you can check the results from the p
 
 ![access transitions tab](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-13.jpg)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If you want to display a sense of speed and movement in the picture, you can add a path blur effect. It's one of the types of motion blur effects that many people use in their pictures to add a dynamic element. By reading this article, you have learned how to add **path blur in Photoshop** through simple means. Moreover, you can also explore the tool Filmora to create a motion blur effect in the photos effortlessly.
@@ -135,6 +136,19 @@ If you are a beginner and want to create a motion blur effect, then use the step
 After launching Filmora, select "Create New Project" and import the desired picture. After dragging it to the timeline, you have to split it to proceed.
 
 ![import the desired image](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-11.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step2 Choose the Background Blur
 
@@ -180,13 +194,6 @@ To create and edit videos flawlessly, Canva offers great options. It contains pr
 
 Furthermore, using Canva, you can also add exciting animations and transitions to your videos to generate a smooth look. You can also add multiple overlays to add more dimensions to your video clips. Also, you can use the **Canvas captions** feature to generate customized subtitles for your video files. To learn more about Canva, let’s shed light on its key features, advantages, and pricing plans:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Features of Canva
 
 * **Multiple Export Options**: Canva offers various export formats such as MP3, PNG, GIF, MP4, PPTX, etc. You can also check the video quality before exporting it to your device.
@@ -222,6 +229,13 @@ Step1 Begin by visiting the [video editor tool page of Canva](https://www.canva.
 Step2 Now, hit the "Upload Files" button from the left panel and import the video file on this tool. Once done, navigate to the "Text" tab and tap "Add a little bit of body text." Now adjust the position of the text box according to your desire. You can write your **Canva captions** by choosing your preferred font, color, size, and style.
 
 ![upload your video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 You can also add effects and animation to your added subtitles for more enhancements. Once done with customizations, click on the “Share” button. Here select MP4 as the video file format and save the video on your system.
 
@@ -259,6 +273,13 @@ On your timeline, double-click on the auto-generated subtitles to open the edit 
 
 ![modify your added subtitles](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Export the Video File
 
 Once you are done with all the subtitle edits, click on the “Export” button. Filmora provides you with various export resolution options and file formats that you can choose. Moreover, you can also share the video file to your desired social media platform, such as YouTube, Vimeo, or TikTok.
@@ -294,13 +315,6 @@ Canva provides a very basic user interface to create subtitles. If you want to e
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 Filmora also offers great styles and font options to customize the subtitles. You can easily check the results from the preview window of this efficient video editor. Hence, Filmora acts as a complete and well-trusted platform to generate subtitles in different ways.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Instructions to Create Subtitles Using Filmora
 
@@ -391,13 +405,6 @@ LUTs are an amazing tool in video editing to improve the color scheme of your vi
 
 **4\. Real-Time Preview:** Moreover, LUTs provide a real-time preview of the final look. It enables you to make informed, creative decisions. Additionally, you can experiment with different looks during the editing process.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Disadvantages of LUTs in Video Editing
 
 **1\. Generic Look:** Pre-made LUTs may not perfectly match your creative vision. Similarly, it results in a generic or overused appearance that lacks uniqueness or creativity.
@@ -405,13 +412,6 @@ LUTs are an amazing tool in video editing to improve the color scheme of your vi
 **2\. Limited Control:** LUTs offer overall color and tone adjustments, but limitations exist. They may not provide precise control over individual color parameters. It limits the customization options for each clip.
 
 **3\. Compatibility Issues:** Not all LUTs are compatible with every editing software or color space. Furthermore, it potentially leads to below-par results. Moreover, it can also lead to compatibility problems with specific file formats.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Danny Gevirtz LUTs: An Iconic List of LUTs Available for Effective Video Editing
 
@@ -654,6 +654,13 @@ Make sure **your subject only crosses the same spot once**. Otherwise, you would
 * It prevents misalignment of the shots, and your print won't get damaged, primarily when you use pieces of the same image.
 * It helps to create an illusion of holding specific moments.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final Words
 
 The Freeze Frame Sequence looks professional but much more manageable. The creator's confidence gets to the next level when they learn how to create it. This step-wise guide using Wondershare Filmora is all for your ease.
@@ -667,10 +674,10 @@ Open Filmora and create a new project. Import your clip into the media library. 
 ![import your video clip and add it to the timeline](https://images.wondershare.com/filmora/article-images/2022/12/freeze-frame-sequence-filmora-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step3 Apply color correction to the footage
@@ -678,6 +685,13 @@ Open Filmora and create a new project. Import your clip into the media library. 
 Before we start our edit, let's color correct our footage, so the corrected color is already applied when we take the screenshots.
 
 ![apply color correction to your clip](https://images.wondershare.com/filmora/article-images/2022/12/freeze-frame-sequence-filmora-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4 Find your first action frame
 
@@ -739,13 +753,6 @@ Please have a look at the final product and how it looks!
 
 ![sreeze frame sequence](https://images.wondershare.com/filmora/article-images/2022/12/freeze-frame-sequence-filmora-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And that's how you create a freeze-frame video effect in Filmora.
 
 ## Part 3\. Tips To Use Freeze Frame Sequence
@@ -757,13 +764,6 @@ You've known how to make the freeze frame sequence. However, don't miss essentia
 First, ensure **a steady shot with no camera shake** while filming. You can use a tripod or a stable surface to keep your camera still.
 
 ![keep your camera still](https://images.wondershare.com/filmora/article-images/2022/12/freeze-frame-sequence-filmora-18.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Why is it necessary to make a steady shot?**
 
@@ -806,20 +806,18 @@ The Freeze Frame Sequence looks professional but much more manageable. The creat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unmasking-the-potential-of-recordcast/"><u>[New] 2024 Approved Unmasking the Potential of RecordCast</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-searches-the-updated-guide-for-finding-youtube-on-fb/"><u>[Updated] Seamless Searches The Updated Guide for Finding YouTube on FB</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-out-what-keyframe-interval-is-why-it-is-important-and-to-change-its-value-on-obs-studio-with-simple-and-easy-to-follow-instructions/"><u>2024 Approved Find Out What Keyframe Interval Is, Why It Is Important, and to Change Its Value on OBS Studio with Simple and Easy-to-Follow Instructions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-pro-max-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Pro Max Without a Passcode</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-nvidia-drivers-for-windows-operating-systems-windows-1078/"><u>Get the Latest NVIDIA Drivers for Windows Operating Systems (Windows 10/7/8)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-fantastic-glitch-effects-with-filmora-read-this-guide-to-find-out-how-to-apply-glitch-effects-on-your-videos-and-make-custom-glitch-effects/"><u>How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-6-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone 6 | Stellar</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>In 2024, Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-your-best-fit-in-virtual-reality-worlds-choosing-between-portable-and-plugged-in/"><u>In 2024, Understanding Your Best Fit in Virtual Reality Worlds Choosing Between Portable and Plugged In</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-3-in-camera-transitions-tricks-to-make-videos-for-2024/"><u>New 3 In-Camera Transitions Tricks To Make Videos for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/sending-high-quality-video-files-over-gmail-tips-for-exceeding-a-25mb-size-limit/"><u>Sending High-Quality Video Files Over Gmail: Tips for Exceeding a 25MB Size Limit</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-creating-the-perfect-vhs-effect-look-in-premiere-pro/"><u>Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-motion-blur-on-capcut-iphone-and-android-for-2024/"><u>Updated How To Add Motion Blur On CapCut? (IPhone & Android) for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora/"><u>Updated How to Correct Lens Distortion With Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-use-speed-ramping-to-create-an-intense-action-footage/"><u>Updated In 2024, How To Use Speed Ramping to Create an Intense Action Footage</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-direct-connection-navigating-desktop-display-integration-on-facebook/"><u>[New] In 2024, Direct Connection Navigating Desktop Display Integration on Facebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-sharpening-scenes-the-power-of-film-zoom-for-2024/"><u>[New] Sharpening Scenes The Power of Film Zoom for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-youtube-video-text-overlay-techniques/"><u>[Updated] 2024 Approved Mastering YouTube Video Text Overlay Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-exploring-the-finest-8-no-cost-open-source-video-communication-apps/"><u>2024 Approved Exploring the Finest 8 No-Cost, Open Source Video Communication Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-using-azures-voice-recognition/"><u>2024 Approved The Essentials of Using Azure's Voice Recognition</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/financial-arrangements-in-buying-guides-online-in-2024/"><u>Financial Arrangements in Buying Guides Online, In 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-infinix-note-30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Infinix Note 30 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-put-a-filter-on-a-video-in-imovie/"><u>In 2024, How to Put a Filter on a Video in iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-wondering-if-you-can-make-diy-green-screen-video-for-streaming-learn-the-easy-steps-to-setup-diy-green-screen-shoot-the-video-and-edit-it-out-to-add/"><u>In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-something-about-skin-care-vlog-ideas/"><u>Updated Something About Skin Care Vlog Ideas</u></a></li>
 </ul></div>
 

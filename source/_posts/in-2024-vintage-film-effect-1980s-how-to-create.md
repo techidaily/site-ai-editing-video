@@ -1,7 +1,7 @@
 ---
 title: In 2024, Vintage Film Effect 1980S - How to Create
-date: 2024-10-27T18:33:50.418Z
-updated: 2024-11-01T06:44:46.717Z
+date: 2024-10-30T19:44:37.167Z
+updated: 2024-11-06T22:10:44.350Z
 tags: 
   - ai
   - animation videos
@@ -145,6 +145,13 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Summary
 
 Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
@@ -161,13 +168,6 @@ Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. Yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Having GoPro Accessories Is Easy, but Editing on GoPro Quik Is Challenging. Read This Guide and, Stepwise, Learn to Use GoPro Slow-Motion for Perfect Shots
 
@@ -190,6 +190,13 @@ Let us tell you first that GoPro is primarily a company for camera accessories. 
 Set the resolution to 2.7k for a slow-motion video and a frame rate of 240fps. Afterward, keep the “Color” natural if you don’t want to color grade it. Moreover, adjust the “Sharping” low by using its respective options.
 
 ![set resolution and frame rate](https://images.wondershare.com/filmora/article-images/2023/gopro-slow-motion-with-quality-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 2
 
@@ -225,6 +232,19 @@ Making a slow motion means spending cognitive effort and time on a project. Thus
 
 It is a video editing software with various powerful editing features compared with GoPro Quik. This platform can perform more tasks than trimming, merging, and splitting clips. Filmora is equipped with AI technology to provide maximum ease to users. You can use this tool to ensure a smooth workflow and boost your productivity.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why Filmora is Better Than GoPro Quik?
 
 Filmora provides many features that GoPro Quik does not offer. Everyone needs solid arguments and valid reasons to reconsider their choices. Thus, here we have highlighted some proven and logical reasons to use Filmora instead of GoPro:
@@ -245,13 +265,6 @@ Filmora provides many features that GoPro Quik does not offer. Everyone needs so
 * AI in Filmora can generate images with your prompts that will not claim legal rights. This service is unavailable in GoPro; it is just limited to video editing.
 * Last but not least, Filmora can transform your text into engaging videos. By doing so, you can save the budget for actors, video editors, and other crew.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step-by-Step Guide to Slow Down Video With Filmora
 
 After learning the exceptional functionalities of Filmora, you might be considering using it. To put you at ease, we have explained stepwise usage of achieving slow motion with Filmora. It’s quite easier and more automatic than **GoPro slow motion**:
@@ -265,13 +278,6 @@ After learning the exceptional functionalities of Filmora, you might be consider
 Go to the official site of Wondershare Filmora and download its latest version, V13\. Launch it in your system and access its intuitive main interface. Choose “New Project” from its home screen and enter in the editing screen. Press your keyboard’s “Ctrl + I” keys and import your desired file in Filmora.
 
 ![create project to import video](https://images.wondershare.com/filmora/article-images/2023/gopro-slow-motion-with-quality-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 2: Use the Optical Flow Option and Slow Down the Video Speed
 
@@ -304,10 +310,10 @@ Set the resolution to 2.7k for a slow-motion video and a frame rate of 240fps. A
 ![set resolution and frame rate](https://images.wondershare.com/filmora/article-images/2023/gopro-slow-motion-with-quality-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step 2
@@ -405,13 +411,6 @@ To summarize, the GoPro camera is available in the market to capture slow-motion
 Controlling the speed of the video enables viewers to engage with the content much more actively. There are instances when you may have a lengthy video scene or audio segment that includes little-to-no essential information, and you wish to speed it up. The whole video or audio file can be sped up or slowed down, or only specific sections can. It is simple to perform with a **splice speed up video**. As a result, the project size and duration are reduced, and viewers are given clearer instructions on how to speed up the video on Splice.
 
 ![learning how to speed up video on splice](https://images.wondershare.com/filmora/article-images/2023/01/learn-how-to-speed-up-video-on-splice.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This article will emphasize how to speed up videos on Splice, covering the procedures and alternatives that will assist you in producing splice speed up videos.
 
@@ -544,13 +543,6 @@ Step2 From the editing toolbar, choose Speed. Utilize the slider beneath the tim
 
 ![choose speed in the editing toolbar](https://images.wondershare.com/filmora/article-images/2023/01/choose-speed-in-editing-toolbar.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Alternative to Splice Video Editor For Changing Speed Of Videos
 
 Splice was distinctive during this time. It has significantly reduced peoples' travel costs compared to desktop video editing software because you never have to take a heavy laptop with you. Splice is different from a desktop editing program. If you purchase a desktop app, you'll have access to more sophisticated tools and the capacity to store your data. Splice will only work for you if you want to make lengthy movies with loads of intricate effects.
@@ -644,13 +636,6 @@ In this article I share to you my tips on how to make a DIY vlog or video.
 * Life hacks
 * Trick and trips
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Here are few tips for creating DIY Vlogs
 
 * Informative Content
@@ -733,6 +718,20 @@ A DIY video should be purely educational. Your audience will forgive your poor p
 
 ![informative content](https://images.wondershare.com/filmora/article-images/2022/07/informative-content.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Plan your video
 
 Ask yourself first of what you are trying to accomplish by producing the video. Remember that video is a tool and that it can hurt your channel if you don’t take it seriously and come properly prepared. Get organized and take down note if you have to.
@@ -743,22 +742,29 @@ Understand your target audience you need to know who you’ll be speaking to thr
 
 ![plan your video 02](https://images.wondershare.com/filmora/article-images/2022/07/plan-your-video-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Write a script
 
 Making a script in your video is one way guide for you not to rattle or messed up everything, for me DIY vlog is different from product reviews or unboxing vlog. You can either write a word-by-word script for the video or just the general topics you aim to cover in the video. Either way, the point is to have a reference note so you don’t accidentally forget to cover an essential topic when you begin filming the video. DIY vlogs need to plan and make scripting because this is a more on tutorial video and you don’t like to missed one instruction on your video that is why making a script is a must unless you already doing it over and over again. You don’t have to be perfect and you don’t have to memorize any script. You just have to be relatable and authentic, yet professional.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Make You Video Short but full of information
 
 Make your video short but demand more attentions to your viewers because modern viewers have short attention spans specially when they’re on social media and there is always another video to see. Just make sure to grab your viewers attention by creating a catching footage.
 
 As long as you know well your topic then that’s good enough because it take some guts to get in front of the camera and be confident.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Editing and Personalize your DIY Video
 
@@ -802,24 +808,18 @@ Now that you know what kind of DIY videos you want to create, be ready and be pr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-decoding-the-marketplace-where-to-invest-in-monetized-channels/"><u>[New] 2024 Approved Decoding the Marketplace Where to Invest in Monetized Channels</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-analyzing-the-post-upload-process-in-youtubes-ecosystem/"><u>[New] Analyzing the Post-Upload Process in YouTube's Ecosystem</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-impact-of-visual-client-reviews-on-business-image/"><u>[New] Impact of Visual Client Reviews on Business Image</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sierra-navigating-desktop-drives-with-ease/"><u>[New] Sierra Navigating Desktop, Drives with Ease</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-screen-capture-tools-explored-apowersoft-and-others-compared/"><u>[New] Top Screen Capture Tools Explored - Apowersoft and Others Compared</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-nine-essential-live-gaming-services/"><u>[Updated] Best Nine Essential Live Gaming Services</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/create-a-stunning-light-sweep-effect-in-filmora-use-simple-and-easy-steps-to-export-a-high-quality-video-that-will-impress-even-pro-video-editors-for-2024.m/"><u>Create a Stunning Light Sweep Effect in Filmora. Use Simple and Easy Steps to Export a High-Quality Video that Will Impress Even Pro Video Editors for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-do-masking-in-after-effects-alternative-provided-for-2024/"><u>How to Do Masking in After Effects Alternative Provided for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-video-by-mouse-in-filmora/"><u>How To Make a Video by Mouse in Filmora?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-guide-for-setting-tiktok-countdown-timer/"><u>In 2024, Best Guide for Setting TikTok Countdown Timer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/moviecraft-analysis-in-depth-exploration/"><u>MovieCraft Analysis – In-Depth Exploration</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-free-ways-to-download-mobile-phone-green-screen-videos-and-pictures-no-copyright/"><u>New Free Ways to Download Mobile Phone Green Screen Videos and Pictures No Copyright</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-filter-to-video-online/"><u>New In 2024, How to Add Filter to Video Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New In 2024, Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-whats-the-best-laptops-for-video-editing-for-2024/"><u>New Whats The Best Laptops For Video Editing for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/section-2c-increasingly-complex-questions-on-diastolic-dysfunction-in-hfpef/"><u>Section 2C: Increasingly Complex Questions on Diastolic Dysfunction in HFpEF</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-ideas-on-using-green-screen-with-filmora/"><u>Updated 2024 Approved Best Ideas on Using Green Screen with Filmora</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>Updated In 2024, How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-definition-ready-enabling-av1-on-youtube/"><u>[New] 2024 Approved High Definition Ready Enabling AV1 on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-overcoming-youtube-disqualification/"><u>[New] 2024 Approved Overcoming YouTube Disqualification</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unlocking-success-youtubes-keyword-research-secrets-revealed/"><u>2024 Approved Unlocking Success YouTube's Keyword Research Secrets Revealed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-the-stranger-things-upside-down-effect-video-for-2024/"><u>Create the Stranger Things Upside Down Effect Video for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-guide-to-enhancing-photos-with-facetune-app-for-2024/"><u>Full Guide to Enhancing Photos with Facetune App for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-freeze-frame-sequence-in-video/"><u>In 2024, How to Create A Freeze Frame Sequence in Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-zoom-video-in-vlc-media-player/"><u>In 2024, How to Zoom Video in VLC Media Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-transition-securing-a-spot-in-technology-with-your-mba-insights-from-zdnet/"><u>Mastering the Transition: Securing a Spot in Technology with Your MBA - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-using-luts-perfectly-in-final-cut-pro-for-2024/"><u>New Guide To Using Luts Perfectly in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-whatre-the-best-alternatives-to-pexels/"><u>New Whatre the Best Alternatives to Pexels?</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-eliminate-the-notorious-google-chrome-critical-error-scam/"><u>Step-by-Step Guide: Eliminate the Notorious 'Google Chrome Critical Error' Scam</u></a></li>
+<li><a href="https://article-posts.techidaily.com/virtual-virtuoso-verbalization-voyager/"><u>Virtual Virtuoso Verbalization Voyager</u></a></li>
 </ul></div>
 

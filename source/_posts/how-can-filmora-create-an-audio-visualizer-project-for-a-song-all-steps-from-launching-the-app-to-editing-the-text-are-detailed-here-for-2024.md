@@ -1,7 +1,7 @@
 ---
 title: How Can Filmora Create an Audio Visualizer Project for a Song? All Steps, From Launching the App to Editing the Text, Are Detailed Here for 2024
-date: 2024-10-30T00:38:00.020Z
-updated: 2024-11-01T00:50:31.508Z
+date: 2024-11-05T01:31:25.228Z
+updated: 2024-11-06T18:03:26.307Z
 tags: 
   - ai
   - animation videos
@@ -69,13 +69,6 @@ Here, make some changes to the quality of the audio visualizer as you prefer. Ad
 
 ![make changes to the quality of the audio visualizer](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add the Portrait Image
 
 Go to the My Media tab next to get the Portrait image into the project. If you previously imported the image to Filmora, drag it to the timeline. Or, you can add it later by clicking on the Import Media button and adding the Portrait photo from your device.
@@ -88,13 +81,6 @@ Next, the editing window for that will open. Make changes to the size and placem
 
 ![tap the ok button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add the overlapping visualizer effect
 
 After adding the portrait, you can add another audio visualizer effect to the project. For this, again, tap on the Effects tab and choose the Filmstock option. Select Audio Visualizer and click on the circular visualizer effect from the list. Repeat the dragging and dropping step for this effect as well.
@@ -102,13 +88,6 @@ After adding the portrait, you can add another audio visualizer effect to the pr
 On the timeline, you have to adjust the visualizer effect over the portrait photo to match the length of the previous clips. Then, please tap on the portrait photo in the timeline again and adjust its appearance, like reducing the image size to fit the second visualizer effect size.
 
 ![reduce size of image](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After fitting the image within the visualizer, click on the Mask tab in the same editor window. Choose the circular shape preset and scroll down to find the adjustment parameters like position, scaling, horizontal/vertical lining, etc. Keep making the changes per your needs, like fitting the image to the same size as the circular visualizer.
 
@@ -125,6 +104,13 @@ Next, you should click on the Title in the timeline you added for the Title edit
 In the next window that opens, tap on the Customize tab and add the song name in the title area. Make other font-related changes as you see fit, like the font size, font style, indentation, color, etc. Tap on the add text icon in this window to get another text field in which you can add the artist's name. Make sure to reduce the size of it to lower than that of the main song title text.
 
 ![tap on the add text icon](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Following that, you can tap on the shape icon to add a shape to the project by adding the name of the streaming service provider, like Apple Music or Spotify. Choose the Rectangle option, for example, and move it to the side of the screen. Click on the shape editing option and adjust the border size of it to three.
 
@@ -146,6 +132,13 @@ You should follow the sequence mentioned accurately to make the right effects at
 
 ![relevant software installer will download](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You must click on the installed APK file and double-click the Agree button for the process to continue. After you carry out the instructions that appear, the software will begin installing into your device. Wait for the software to install completely, and then the main homepage will open automatically on your screen.
 
 ![the homepage will open automatically](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-2.jpg)
@@ -153,13 +146,6 @@ You must click on the installed APK file and double-click the Agree button for t
 Make sure that the software is in the 11.3.0 or higher version. Because the feature for audio visualization will not work on any of the older software versions. So, if you have the Filmora9 software, upgrade it to the Wondershare Filmora 11.
 
 ![upgrade to filmora 11](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add the music file
 
@@ -223,13 +209,6 @@ Next, you should click on the Title in the timeline you added for the Title edit
 
 ![tap on the advanced button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In the next window that opens, tap on the Customize tab and add the song name in the title area. Make other font-related changes as you see fit, like the font size, font style, indentation, color, etc. Tap on the add text icon in this window to get another text field in which you can add the artist's name. Make sure to reduce the size of it to lower than that of the main song title text.
 
 ![tap on the add text icon](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-12.jpg)
@@ -243,19 +222,6 @@ If you want to create a rounded-off edge look to the rectangle shape, tap on the
 After making the changes, you will return to the main editor timeline. Press the play button under the preview window to see how the final project looks, and tap on the Export button to download it offline. Make changes to the exporting file after clicking on the Local tab and choosing the file format you will download it as. Then, press Export again.
 
 ![press the play button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-audio-visualizer-in-filmora-easy-13.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -306,6 +272,13 @@ It is a viral film by Christopher Nolan, which was a great success. He explained
 
 The reverse effect is unique, so special attention should be paid while filming a video. This section will cover some of the crucial prerequisites to film a video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steady Camera
 
 It would be best to have your camera placed on a steady surface or mounted on a tripod stand to lock the focus. We will split the area and perform different tasks to make it look smooth. The audience will not get the idea that you completed the tasks separately. And it helps in the editing process as well.
@@ -315,6 +288,13 @@ It would be best to have your camera placed on a steady surface or mounted on a 
 ### A Spacious Area
 
 You will need a spacious area in which you will perform different tasks. Make sure your camera stands still while shooting all the frames of video. In an ample space, it becomes easier to do movements freely. It also helps prevent glitches in the final product.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Splitting of Area into Portions
 
@@ -422,19 +402,6 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 
 ![drag the shots to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-6.png)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Add videos of each action on the layers above by drag and drop.
 
 ##### Step3 Adding Image Mask to the Clips
@@ -445,6 +412,13 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 * Now drag and drop this effect to the footage shot at corners of the area.
 
 ![add image mask effect to the clips](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4 Adjustment of the Image Mask of each Footage
 
@@ -481,18 +455,18 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 
 ![export the video](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step8 Final Video
 
 Now have a look at the final project. How smooth and perfect it looks. That's it!
 
 ![final video example](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-12.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -561,6 +535,19 @@ Step1 Tap the video you want to modify the pace of in the timeline, and it turns
 Step2 From the editing toolbar, choose Speed. Utilize the slider beneath the timeline to change the speed.
 
 ![choose speed in the editing toolbar](https://images.wondershare.com/filmora/article-images/2023/01/choose-speed-in-editing-toolbar.png)
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Alternative to Splice Video Editor For Changing Speed Of Videos
 
@@ -678,6 +665,13 @@ The Speed Ramping tab will let you customize the speed line. Also, it provides y
 The best thing about this feature is Filmora allows you to maintain the original audio pitch. Thus, it would not sound strange after speed-ramping the media.
 
 ![choose the speed ramping panel](https://images.wondershare.com/filmora/guide/speed-ramping-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here's how you can use the customization mode on the Speed Ramping panel.
 
@@ -879,19 +873,18 @@ Back
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-simplifying-android-screen-recordings-a-user-friendly-method/"><u>[New] In 2024, Simplifying Android Screen Recordings A User-Friendly Method</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-streaming-success-seekers-deciphering-the-platform-winner-vimeo-vs-youtubeplusdailymotion/"><u>[Updated] 2024 Approved Streaming Success Seekers Deciphering The Platform Winner - Vimeo vs YouTube+Dailymotion?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unveiling-smooth-audioshifting-tricks-in-adobe-premiere/"><u>[Updated] 2024 Approved Unveiling Smooth Audioshifting Tricks in Adobe Premiere</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-make-eye-zoom-transition-effect-with-filmora/"><u>2024 Approved Make Eye Zoom Transition Effect with Filmora</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-13-mini-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 13 mini</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-looking-for-cool-ideas-to-use-green-screen-and-how-setting-up-your-green-screen-keep-reading-since-we-have-the-answer-for-you/"><u>In 2024, Are You Looking for Cool Ideas to Use Green Screen and How Setting up Your Green Screen? Keep Reading Since We Have the Answer for You</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-font-effect/"><u>In 2024, How to Add Font Effect</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-motion-text-effects-for-your-video/"><u>New How to Create Motion Text Effects for Your Video?</u></a></li>
-<li><a href="https://howto.techidaily.com/poco-c50-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C50 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-computers-speed-fix-high-cpu-usage-due-to-shell-infrastructures/"><u>Reviving Your Computer’s Speed – Fix High CPU Usage Due to Shell Infrastructures!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unlocking-the-power-of-pixel-mastery-over-aspect-ratios-and-dimensions-on-facebook/"><u>Unlocking the Power of Pixel Mastery over Aspect Ratios & Dimensions on Facebook</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-color-finale-for-2024/"><u>What Is Color Finale for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-essential-steps-to-design-impressive-facebook-slideshows/"><u>[New] Essential Steps to Design Impressive Facebook Slideshows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-pathway-to-pro-youtube-earnings-on-every-device/"><u>[New] The Pathway to Pro Youtube Earnings on Every Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-broadcasting-without-rts-video-tweeting-simplified-for-2024/"><u>[Updated] Broadcasting Without RTs Video Tweeting Simplified for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-guide-to-crafting-impressive-instagram-loops-for-2024/"><u>[Updated] Step-by-Step Guide to Crafting Impressive Instagram Loops for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos./"><u>2024 Approved Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-3d-camera-tracking-effects-in-after-effects/"><u>2024 Approved How to Use 3D Camera Tracking Effects in After Effects</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-effortless-srt-to-txt-conversion-in-under-minutes/"><u>In 2024, Effortless SRT to TXT Conversion in Under Minutes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-free-facebook-linker-top-8-options-available-online/"><u>In 2024, Free Facebook Linker Top 8 Options Available Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-comment-on-youtube-live-chat/"><u>In 2024, How to Comment on YouTube Live Chat</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-full-guide-to-funcall-voice-changer-and-its-alternatives-for-2024/"><u>Updated Full Guide to Funcall Voice Changer and Its Alternatives for 2024</u></a></li>
 </ul></div>
 

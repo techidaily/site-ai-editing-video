@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make Random Letter Reveal Intro?
-date: 2024-10-27T21:21:11.822Z
-updated: 2024-10-31T18:33:06.506Z
+date: 2024-11-03T21:35:26.794Z
+updated: 2024-11-07T01:01:30.977Z
 tags: 
   - ai
   - animation videos
@@ -55,13 +55,6 @@ Then, take hold of the playhead on the timeline at the 3rd frame mark. Then, tap
 
 ![split the clip into two portions](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Copy the clipped section multiple times
 
 Then, double-click on the amount still available on the timeline to open the title editor section again. Make changes to the title you added here, only keeping the first letter.
@@ -115,13 +108,6 @@ Tap on the Snapshot you saved earlier sitting on the media library and drag it o
 Click on the Opacity option in the Video editing section and change it to 20%. Press the OK button after that.
 
 ![click on the opacity option](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Drop the Clip into the Timeline
 
@@ -161,11 +147,31 @@ Finally, unhide all the clips and move the playhead to the 8-second mark. Click 
 
 ![adjust opacity to 0](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-13.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 14\. Preview and Export
 
 After everything, tap on the Render Preview icon. Make sure to move the second clip on Track 2 as the starting point of the video by moving it to the beginning position. Now, press the Play button under the Preview player.
 
 ![press the play button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -176,13 +182,6 @@ Finally, you are ready to use the same tactics as explained to optimize the qual
 From the Downloads section of your browser, double-click on it and press the Install button when it appears. Give the necessary permissions that it prompts.
 
 ![click on the download button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then, the software will start the installation instantly, likely taking a few seconds to complete.
 
@@ -195,13 +194,6 @@ Double-click on the title on the timeline, which will open the text editing wind
 Following that, click on the text size option and change it to 15\. Scroll down the menu to the Text Spacing section. Change the value to 20 and tap on the OK button afterward.
 
 ![change the value here to 20](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Split the title
 
@@ -220,6 +212,13 @@ Click on this clipped section on the timeline and copy it. Next, keep copying th
 Following that, zoom in on the timeline for a better view of these clipped parts. Choose the last clip that you copied and drag it to expand its time duration to the 6:15 mark.
 
 ![zoom in on the timeline](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change the character of each clip
 
@@ -249,6 +248,13 @@ Now that you know how to edit the first and second letters in sequence, repeat t
 
 ![select all of these clips and press delete](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Add all clips back to Filmora
 
 Now it's time to add all of the clips to Filmora and merge them into one cohesive intro title.
@@ -264,6 +270,13 @@ Tap on the Snapshot you saved earlier sitting on the media library and drag it o
 Click on the Opacity option in the Video editing section and change it to 20%. Press the OK button after that.
 
 ![click on the opacity option](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Drop the Clip into the Timeline
 
@@ -284,13 +297,6 @@ Following this, click on the second letter clip and drag and drop it onto Track 
 Tap on this clip and move your playhead to the end position. Then, right-click on it and choose the Paste Effects option. Double-click on this clip on the timeline and change the position axis value until the letter aligns with its original position per the snapshot. Again, look at the Preview to ensure you align them correctly.
 
 ![look at the preview to align clips correctly](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Repeat this with all the other letters, making sure to change the starting position for each consecutive one-two frame forward.
 
@@ -520,13 +526,6 @@ Time-Lapse movies are great for a variety of projects; you can use them as estab
 
 With that said, let's start!
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 1\. Create a new composition
 
 Calculating your composition length to accommodate the frame rate and number of images is the first step in generating a time-lapse video.
@@ -618,6 +617,19 @@ If you are going with large projects, you need to consider the following require
 ### 1\. Availability of electricity
 
 You need rig lights and a large lighting setup to make your video more glow and give them aesthetic vibes. For this, make sure you choose a location where light is readily available.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Separate room
 
@@ -736,6 +748,13 @@ Filming with people is not always bulky and flopping, but if you have a cooperat
 
 A cross-platform for making videos anywhere for all creators! ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Why your video editing isn't good enough? How about some creative inspo?
 
 * 100 Million+ Users
@@ -752,13 +771,6 @@ A cross-platform for making videos anywhere for all creators! ![filmora-02](http
  \* Secure Download
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternate Ways of Location Scouting
 
@@ -798,6 +810,19 @@ The weather is also a major factor when shooting a video, which you must check b
 
 If you have a big project and more scenes to shoot, it's better to make a whole plan about each and everything. You have to make a schedule of using even a single light at a specific time and space. The following are the main considerations you should take care of!
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Pre-Rig Day
 
 You need to come to the setup before the filming day to check the main things like electricity, measure exact spaces, check the lightning setup, loaded everything such as the bus, crew, and gears.
@@ -809,13 +834,6 @@ You need to come to the setup before the filming day to check the main things li
 A call sheet is a daily shot list given to the cast and crew to follow the timelines, and it contains the phone number of everyone, their location, and the time to arrive on set. It also includes the nearest hospital, sunset, and sun-rising timing.
 
 ![call sheet of tokyo song](https://images.wondershare.com/filmora/article-images/2023/04/call-sheet-of-tokyo-song.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 It consists of one to two pages according to shoot days and has a plan of everything that happens after the Pre-Rig day.
 
@@ -861,22 +879,17 @@ Filming with people is not always bulky and flopping, but if you have a cooperat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-achieving-flawless-gameplay-optimizing-your-switch-pro-experience-on-steam/"><u>[New] In 2024, Achieving Flawless Gameplay Optimizing Your Switch Pro Experience on Steam</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-fb-video-content-with-1-5-downloaders/"><u>[New] Unlocking FB Video Content with #1-5 Downloaders</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-direct-tweet-transfers-to-facebook-feed/"><u>[Updated] In 2024, Direct Tweet Transfers to Facebook Feed</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-7-tips-to-create-teaching-videos/"><u>2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premier-auditory-options-for-iphones/"><u>2024 Approved Premier Auditory Options for iPhones</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-learning-managing-incremental-sound-gain/"><u>Essential Learning Managing Incremental Sound Gain</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-official-hp-laserjet-pro-mfp-series-m12-7fn-printer-drivers-for-your-computer/"><u>Get the Official HP Laserjet Pro MFP Series M12 7FN Printer Drivers for Your Computer</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-risograph-effect-in-photoshop-a-beginners-guide-for-2024/"><u>New Create Risograph Effect In Photoshop A Beginners Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-add-miniature-effect-to-videos/"><u>New Easy Steps to Add Miniature Effect to Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ownload-free-youtube-file-acquisition-for-2024/"><u>PureDownload Free YouTube File Acquisition for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/splitting-audio-from-video-in-sony-vegas-step-by-step-for-2024/"><u>Splitting Audio From Video in Sony Vegas Step by Step for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-high-definition-adventures-winning-with-windows-and-scummvm/"><u>The Ultimate Guide to High Definition Adventures: Winning with Windows & ScummVM</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-your-own-lol-montage-video/"><u>Updated How to Create Your Own LOL Montage Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-hdri-everything-you-need-to-know-about-hdri-for-2024/"><u>What Is HDRI? Everything You Need to Know About HDRI for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-optimal-video-chat-on-windows-1-8/"><u>[Updated] 2024 Approved Optimal Video Chat on Windows #1-8</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-voice-to-text-an-all-inclusive-guide-to-googles-document-feature-for-2024/"><u>[Updated] Voice to Text An All-Inclusive Guide to Google's Document Feature for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-issues-with-your-steelseries-x70-mouse-pen-not-responding-detailed-tutorial-inside/"><u>Diagnosing and Repairing Issues with Your SteelSeries X70 Mouse Pen Not Responding – Detailed Tutorial Inside</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-free-pc-hd-video-player-enjoy-ultra-hd-and-full-hd-playback-at-720p-and-1080p/"><u>Download Free PC HD Video Player - Enjoy Ultra HD & Full HD Playback at 720P and 1080P</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-green-screen-in-obs/"><u>How to Add Green Screen in OBS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/master-your-screen-time-using-facetime-on-android-for-2024/"><u>Master Your Screen Time Using FaceTime on Android for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-edit-facebook-video-ads-for-e-commerce-business/"><u>New In 2024, How to Edit Facebook Video Ads for E-Commerce Business</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/portrait-perfection-free-official-passport-image-generator-download/"><u>Portrait Perfection Free, Official Passport Image Generator Download</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-home-offices-new-best-friend-unveiling-the-features-of-the-fujitsu-scansnap-ix1e/"><u>The Home Office's New Best Friend? Unveiling the Features of the Fujitsu ScanSnap iX1e</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>Updated A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-make-vintage-film-effect-1950s/"><u>Updated In 2024, How to Make Vintage Film Effect 1950S</u></a></li>
 </ul></div>
 

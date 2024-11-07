@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Use 3D Camera Tracking Effects in After Effects
-date: 2024-10-24T21:26:45.478Z
-updated: 2024-11-01T00:23:34.182Z
+date: 2024-11-05T19:41:13.488Z
+updated: 2024-11-06T17:53:54.195Z
 tags: 
   - ai
   - animation videos
@@ -30,16 +30,10 @@ Camera Tracking is a relatively simple process, but it can be time-consuming. Ho
 For example, you have taken a video clip of a zoo and want to add an object to it while making sure it gives a realistic look. This is where the **Camera Tracking** feature can help you make a smooth transition and add the element as if it was there.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. Why Use Camera Tracking?
@@ -120,13 +114,6 @@ Click **"Track Camera"** to add the 3D Camera Tracker effect to your selected la
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** The dots that appear on your video clips cannot be rendered out, as they are strictly referential.
 
 ![the referential dots on the video footage](https://images.wondershare.com/filmora/article-images/2022/08/the-referential-dots-on-the-video-footage.png)
@@ -138,6 +125,13 @@ You have to select the tracking points and a plane to which it must be tracked. 
 Now, you have to find a **tracking point** that lays the red **"target"** parallel to your selected plane. Next, select the triangle that lines up best for your surface. Move the **arrow** away to disable the picker and stop the red **"target."**
 
 ![establishing the tracking points and plane](https://images.wondershare.com/filmora/article-images/2022/08/establishing-the-tracking-points-and-plane.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3Add The Text To Your Video Clip
 
@@ -158,6 +152,13 @@ Click the **"Transform"** option to use the transform options and use the layer 
 **Note:** You can select your layer and press the S, P, R, or T keys to adjust the scale, position, rotation, and opacity, respectively.
 
 Your text will now be added to your video footage. The method is similar to adding solid or null to your clips. However, the exact steps might differ a little.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Video - Learn 3D Camera Tracking In After Effects
 
@@ -183,13 +184,6 @@ Now, you have to find a **tracking point** that lays the red **"target"** parall
 
 ![establishing the tracking points and plane](https://images.wondershare.com/filmora/article-images/2022/08/establishing-the-tracking-points-and-plane.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3Add The Text To Your Video Clip
 
 Once you define the plane, it's time to add text to your video clip. To do this, right-click on the **triangle** you have set previously, and a window will appear, allowing you to create new layers.
@@ -197,13 +191,6 @@ Once you define the plane, it's time to add text to your video clip. To do this,
 Click **"Create Text"** to place the text on your tracked video clip. A new text layer will be added using the tracking data.
 
 ![adding text to the video footage in the after effects](https://images.wondershare.com/filmora/article-images/2022/08/adding-text-to-the-video-footage-in-the-after-effects.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4Align Text On Tracked Footage
 
@@ -282,16 +269,16 @@ Step4Below the font, you can select the font style such as regular, bold, italic
 
 ![select font style ae](https://images.wondershare.com/filmora/article-images/2022/08/select-font-style-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5The next section deals with Stroke option as well as fill the text option. You can fill the background of the text with any desired color.
 
 ![stroke option after effects](https://images.wondershare.com/filmora/article-images/2022/08/stroke-option-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Add Animated Text to Video with Animation Presets
 
@@ -317,15 +304,22 @@ Step1Install Wondershare Filmora on your computer and launch the application. Cl
 
 ![install wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2Go to File> Import Media> Import Media Files to import your video file. You can also drop the video file directly into Project Media folder.
 
 ![import media files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3Drag and drop the video file from Project Media folder into the Timeline. If you have multiple video clips, you need to arrange them sequentially on the Timeline.
@@ -333,6 +327,13 @@ Step3Drag and drop the video file from Project Media folder into the Timeline. I
 Step4To add text to your video, go to Titles located at the top bar. Check the left panel where you can see different categories of text effects. Select any desired text effect and drop into the Timeline. Make sure that the text layer is above the video layer on Timeline. You can shift the text layer on Timeline to place it where you want it to appear. You can also stretch the duration of the text effect as per your requirements.
 
 ![drag title timeline filmora](https://images.wondershare.com/filmora/article-images/2022/08/drag-title-timeline-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5You can edit the text effect by double clicking on the text layer on Timeline. Under Preset tab, you can change the text, font type and size, text color and much more. For further customization, you can click on Advanced button. At last, click on OK button to save the edits done.
 
@@ -378,13 +379,6 @@ The DaVinci resolve is the complete package to solve your different issues. It i
 
 **Step 4:** Now it is easy to select the video and click on it. Select the audio and video clips separately. Simply edit, delete or move your audio whenever you want it to.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## An easier way to separate the audio from the video
 
 However, the DaVinci Resolve is the software of advanced level and the best choice for professionals. But its pricing that is $299, is quite disturbing for most of the users. So, they are always searching for a suitable approach and reasonable as well. And that is the first and foremost [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . You can split the audio and listen to your favourite track on any media player.
@@ -467,6 +461,13 @@ To extract the audio from the video clip in Wondershare Filmora, go through the 
 
 ![separating the audio from the video](https://images.wondershare.com/filmora/article-images/2022/01/separate-audio-from-video-davinci-4.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** This step separates the audio from the video in a single click. You need to right-click on the video from which you have to split the audio and select “Detach Audio”. Instantly, an audio file will appear on the screen on the audio track. Yes, you have received the original audio final from the source file.
 
 Successfully the audio is separate from the video. Wondershare Filmora also offers to replace the audio file you want to add to the video. It can provide a few instructions, some narrations or personal, funny tunes for sharing with family and friends.
@@ -490,13 +491,6 @@ In Wondershare Filmora, there are templates for the spilt screens as well. It is
 ![separating the audio from the video](https://images.wondershare.com/filmora/article-images/2022/01/separate-audio-from-video-davinci-3.png)
 
 **Step 4:** Now it is easy to select the video and click on it. Select the audio and video clips separately. Simply edit, delete or move your audio whenever you want it to.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## An easier way to separate the audio from the video
 
@@ -700,22 +694,16 @@ video project.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-seek-a-guide-to-add-motion-in-blender-this-article-explains-the-blender-motion-blur-effect-in-detail-and-helps-you-master-it/"><u>2024 Approved Do You Seek a Guide to Add Motion in Blender? This Article Explains the Blender Motion Blur Effect in Detail and Helps You Master It</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-in-this-article-you-will-learn-easy-ways-to-edit-videos-using-a-mouse-in-wondershare-filmora-you-can-do-video-editing-without-a-keyboard-after/"><u>2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/diving-into-movavis-premium-video-tools-edition/"><u>Diving Into Movavi's Premium Video Tools Edition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/finest-zero-price-virtual-console-options-for-2024/"><u>Finest Zero Price Virtual Console Options for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/future-proof-your-workflow-office-2016-and-201-the-last-update-for-microsofts-backend-services-read-more-on-zdnet/"><u>Future-Proof Your Workflow: Office 2016 and 201 The Last Update for Microsoft's Backend Services - Read More on ZDNet</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-can-filmora-create-an-audio-visualizer-project-for-a-song-all-steps-from-launching-the-app-to-editing-the-text-are-detailed-here-for-2024/"><u>How Can Filmora Create an Audio Visualizer Project for a Song? All Steps, From Launching the App to Editing the Text, Are Detailed Here for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-vivo-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Vivo .</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-coin-magic-with-filmora/"><u>In 2024, How to Make Coin Magic With Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-video-fade-to-black-in-movie-maker/"><u>In 2024, How to Make Video Fade to Black in Movie Maker</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-g22-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia G22 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-share-youtube-video-on-zoom-in-2024/"><u>New How to Share YouTube Video on Zoom, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-mp3-cutter-download-for-computer-and-mobile/"><u>New In 2024, MP3 Cutter Download for Computer and Mobile</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-sanctuaries-of-steams-visual-data/"><u>The Sanctuaries of Steam's Visual Data</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-10-economical-pc-monitoring-and-capture-tools-for-2024/"><u>Top 10 Economical PC Monitoring and Capture Tools for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-realme-gt-5-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme GT 5 Pro FRP Bypass</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-detailed-guide-instastickers-your-pathway-to-musical-posting-for-2024/"><u>[New] Detailed Guide InstaStickers – Your Pathway to Musical Posting for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-blender-green-screen/"><u>2024 Approved How to Use Blender Green Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-non-ecobee-non-amazon-smart-thermostat-in-our-latest-zdnet-review/"><u>Discover the Leading Non-Ecobee, Non-Amazon Smart Thermostat in Our Latest ZDNet Review!</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-dealing-with-detection-failures-of-power-sources/"><u>Effortless Fixes: Dealing with Detection Failures of Power Sources</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-fade-in-text-in-adobe-premiere-pro-for-2024/"><u>How to Fade in Text in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-11-pro-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 11 Pro Max without Password?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-online-changers/"><u>In 2024, Recommended Video Background Online Changers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-steps-to-add-subtitles-in-canva/"><u>In 2024, Steps to Add Subtitles in Canva</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-creating-motivational-videos-with-ai-comprehensive-guide-2024/"><u>New Creating Motivational Videos with AI Comprehensive Guide 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Realme GT Neo 5? | Dr.fone</u></a></li>
 </ul></div>
 

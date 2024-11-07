@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Change Background Color in After Effects
-date: 2024-10-25T17:41:20.175Z
-updated: 2024-10-31T21:22:51.594Z
+date: 2024-11-06T00:16:34.532Z
+updated: 2024-11-07T01:15:39.396Z
 tags: 
   - ai
   - animation videos
@@ -55,23 +55,9 @@ Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/fi
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Import your video under Project Media folder and drag and drop into Timeline.
 
 ![import green screen video filmora](https://images.wondershare.com/filmora/article-images/2022/07/import-green-screen-video-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Double-click on the video clip and go to Video tab and turn on Chroma Key option. Select the solid color present in the background of the video and click on Ok button.
 
@@ -93,13 +79,6 @@ Import your video clip with a solid background color and place it on Timeline. G
 
 The steps for After Effects how to change background color solid involve removing the background color and adding a layer of solid color to replace the transparency of the video. Go to Layer> New> Solid. Under Solid Settings window, go to Color and select the desired color from Color option and click on OK button. The new color will get reflected in the background of the video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. How do you add a white background in After Effects?
 
 Go to Layer> New> Solid and add a white color solid first. However, this white color layer will not be visible unless you turn the background of your video transparent. Go to Effects & Presets and search for Luma Key and drop Luma Key on your video. Set Key type as Brighter and the threshold of the Lema key as per suitability on your video to see the white background appear.
@@ -113,13 +92,6 @@ Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/fi
 Step2 Import your video under Project Media folder and drag and drop into Timeline.
 
 ![import green screen video filmora](https://images.wondershare.com/filmora/article-images/2022/07/import-green-screen-video-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Double-click on the video clip and go to Video tab and turn on Chroma Key option. Select the solid color present in the background of the video and click on Ok button.
 
@@ -162,6 +134,13 @@ Go to Layer> New> Solid and add a white color solid first. However, this white c
 Neon colors in videos are constantly attracting and compelling the scenes. So how it looks if dancing videos have this feature? For sure, it'll be dreamier and more classy.
 
 After moving toward, the following steps of processing neon effects, you will find different effects to make your video filmier. Wondershare Filmora provides all types of products on one platform. Then try it out and enjoy the rest. Scroll more to learn about the neon effect before editing your video!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Neon Dance Effects in Wondershare Filmora
 
@@ -212,6 +191,13 @@ After adding the same video, now convert BG into a black screen. For this, follo
 
 ![changing the blending mode to difference](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * As soon as you click on the Difference option, you will notice a change in the main play window; it will all turn to a **black screen**.
 
 ##### Step4 Add the Pixelated Edges effect
@@ -240,13 +226,6 @@ You may not like the default color with the Pixelated edges effect. But no worri
 * Click on the **color** and select whatever suits you the best.
 
 ![change the color of the outline](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step6 Create Multiple Outlines
 
@@ -419,6 +398,13 @@ It would help if you created multiple outlines to achieve the Neon Dance effect.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** You don't want all the outlines to play simultaneously. Otherwise, the outlines will not appear to be separate.
 
 * To do so, stack the videos on each other on different tracks.
@@ -434,6 +420,13 @@ To efficiently blend the outlines with the green screen, you can change the blen
 * From there, select the "**Lighten**" option.
 
 ![change the blending mode to lighten](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step8 Add the Glow effect
 
@@ -488,6 +481,13 @@ So to help you tone your skills, we've written a comprehensive guide on how to a
 
 GIMP is frequently used as a Photoshop alternative. The software boasts a wide range of features, including support for layers, masks, color management, and third-party plugins.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Features
 
 Here are some key features of the GIMP software:
@@ -516,6 +516,13 @@ Step2 In the next step, click **“File”** on the GIMP dashboard, and select *
 Step3 Next, click the **“Filters”** option from the top toolbar, select **“Blur,”** and choose **“Motion Blur”** from the drop-down menu. A dialogue box will now open where you can preview the effect and adjust the settings, including Blur Type, Blur Center, and Blur Parameters.
 
 ![adding motion blur effect to photo using gimp](https://images.wondershare.com/filmora/article-images/2023/02/adding-motion-blur-effect-to-photo-using-gimp.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Once you are satisfied with your changes, click **“OK”** to apply the effect to the image, and make some other edits if needed. Finally, click **“File”** from the top toolbar, choose **“Export As,”** click **“File Type”** to select the format, and select the **“Export”** option to save your file.
 
@@ -547,13 +554,6 @@ Step2 Now, head to the **“Effects”** tab from the taskbar. Use the search op
 
 ![adding motion blur effect using filmora](https://images.wondershare.com/filmora/article-images/2023/02/adding-motion-blur-effect-using-filmora.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Please note that motion blur is now a dynamic effect on the image. That means you can add multiple photos and make them into a slideshow with a blur effect transition. Or, press the **“Play”**  icon to preview your photo and pause the clip where you think motion blur works best.
 
 Step4 Click the effect in the timeline to open its settings. Now, play your clip to preview and adjust the parameters as you want to smooth down the motion effect.
@@ -561,19 +561,6 @@ Step4 Click the effect in the timeline to open its settings. Now, play your clip
 Step5 Once satisfied with the outcome, click the "Export" option, go to the **"Local"** tab, select a file format to save the images, and click **"Export"** again to save your project.
 
 ![exporting file from filmora](https://images.wondershare.com/filmora/article-images/2023/02/exporting-file-from-filmora.png)
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Filmora offers many export options, such as your device, YouTube, Vimeo, and DVD, with just a few clicks.
 
@@ -629,6 +616,13 @@ Hopefully, you found this article helpful in resolving your queries, and you can
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Convert MP4 to 60 FPS GIF: A Step-by-Step Guide
 
 GIFs have become a popular way to share short and engaging videos online. They are widely used on social media platforms and messaging apps, making it easy to share moments, reactions, and emotions with friends and family. But not all GIFs are created equal. Some GIFs can look choppy and low-quality, detracting from the viewing experience.
@@ -656,6 +650,13 @@ Converting MP4s to GIFs is a great way to improve the overall quality of your GI
 While it's true that many people search for 60 FPS GIFs, it's important to understand that there is no such thing as a true 60 FPS GIF.
 
 ![60 fps gif](https://images.wondershare.com/filmora/article-images/60-fps-gif.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 GIFs are an image format designed to display simple animations. [GIF files store delay time between frames](https://en.wikipedia.org/wiki/GIF) which is defined as multiples of 1/100th of a second. Value 1 would give you 100 FPS; value 2 would already have half of 100 FPS, that is, 50 FPS; value 3 would give you 33.3 FPS GIF, etc. So there are 20 FPS GIFs, 33.3 FPS GIFs, 50 FPS GIFs, and 100 FPS GIFs.
 
@@ -769,13 +770,6 @@ Step3 **Export** the video
 
 ![filmora export video](https://images.wondershare.com/filmora/article-images/filmora-export-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 In the export window, **select** "**GIF**" and **set** the frame rate of the GIF.
 
 ![filmora export video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
@@ -844,20 +838,16 @@ There are various tools available, both online and desktop-based, that can conve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-unparalleled-video-intros-made-easy-with-online-tools/"><u>[New] Unparalleled Video Intros Made Easy with Online Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-secrets-for-instagram-chat-success/"><u>[Updated] Unveiling Secrets for Instagram Chat Success</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-consider-a-lut-to-be-a-color-preset-that-a-filmmaker-can-use-to-start-working-on-a-project-quickly-sony-engineers-have-developed-luts-to-help-/"><u>2024 Approved Consider a LUT to Be a Color Preset that a Filmmaker Can Use to Start Working on a Project Quickly. Sony Engineers Have Developed LUTs to Help Filmmakers Perform Specific Tasks. All of These Are Available for Free</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-mastery-in-managing-online-discussions-on-youtube/"><u>2024 Approved Mastery in Managing Online Discussions on YouTube</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-5-websites-and-software-to-convert-powerpoint-to-mp4/"><u>2024 Approved Top 5 Websites and Software to Convert Powerpoint to Mp4</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-random-letter-reveal-intro/"><u>In 2024, How to Make Random Letter Reveal Intro?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-view-instagram-stories-anonymously-on-pc-android-and-iphone-free/"><u>In 2024, How to View Instagram Stories Anonymously on PC, Android and iPhone [Free]</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-the-art-of-igtv-production-phone-and-dslr-techniques/"><u>In 2024, Mastering the Art of IGTV Production Phone and DSLR Techniques</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713950874876-looking-for-the-simple-steps-to-add-transition-effects-in-your-video-we-will-illustrate-how-to-add-transition-in-filmora-and-mention-tips-and-tricks-for-vid/"><u>Looking for the Simple Steps to Add Transition Effects in Your Video? We Will Illustrate How to Add Transition in Filmora and Mention Tips and Tricks for Video Transition Effects for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-get-green-screen-effects-on-your-video-without-green-screen-setup-in-your-background-learn-how-to-get-virtual-green-screen-background-and/"><u>New Do You Want to Get Green Screen Effects on Your Video without Green Screen Setup in Your Background? Learn How to Get Virtual Green Screen Background and Shoot Videos Like a Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-xs-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone XS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unlocking-youtube-secrets-to-effective-screen-recording-for-2024/"><u>Unlocking YouTube Secrets to Effective Screen Recording for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-color-correction-basics-s-log-footage/"><u>Updated In 2024, Color Correction Basics (S-LOG Footage)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-vintage-film-effect-1980s-how-to-create/"><u>Updated Vintage Film Effect 1980S - How to Create</u></a></li>
-<li><a href="https://win-community.techidaily.com/veilige-verschilwensten-en-map-bestand-telepos-over-een-lichaam-van-netwerken-synchroniseren/"><u>Veilige Verschilwensten en Map-Bestand Telepos over Een Lichaam Van Netwerken Synchroniseren</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-10-expert-suggestions-to-make-your-yt-shorts-stand-out/"><u>[Updated] 2024 Approved 10 Expert Suggestions to Make Your YT Shorts Stand Out</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-digital-filmmaking-implementing-callout-lines-in-edits/"><u>[Updated] 2024 Approved Digital Filmmaking Implementing Callout Lines in Edits</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-cont/"><u>2024 Approved Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/interactive-communication-enhancing-your-youtube-presence-for-2024/"><u>Interactive Communication Enhancing Your YouTube Presence for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>New 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-lenovo-ideapad-t430-driver-downloads-for-windows-11-8-and-7-users/"><u>Quick & Easy Lenovo Ideapad T430 Driver Downloads for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ultra-hd-gaming-displays-for-computers-featuring-144hz-refresh-rates-and-curve-technology/"><u>Top-Rated Ultra HD Gaming Displays for Computers - Featuring 144Hz Refresh Rates & Curve Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-the-ideal-outdoor-projector-professional-ratings-and-insights-zdnet/"><u>Ultimate Guide to Choosing the Ideal Outdoor Projector - Professional Ratings & Insights | ZDNet</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
 </ul></div>
 

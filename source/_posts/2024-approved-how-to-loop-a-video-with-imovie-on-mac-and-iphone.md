@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Loop a Video with iMovie on Mac and iPhone
-date: 2024-10-26T22:28:48.805Z
-updated: 2024-10-31T21:00:43.929Z
+date: 2024-11-02T22:51:38.485Z
+updated: 2024-11-07T01:52:25.666Z
 tags: 
   - ai
   - animation videos
@@ -63,27 +63,20 @@ Step3 Bring in the required video under Movie Library by dragging the file from 
 
 ![import media into imovie mac](https://images.wondershare.com/filmora/article-images/2022/11/import-media-into-imovie-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Drag and drop the video on your timeline. When you want to loop the video, drag and drop the video clip again on the timeline. Make sure there is no gap between the first clip and the second clip on the timeline. You can drag and drop the video clip multiple times on the timeline to increase its duration.
 
 ![drag video clip timeline imovie](https://images.wondershare.com/filmora/article-images/2022/11/drag-video-clip-timeline-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 Once you are done, go to File> Share> File option. Choose the destination to save the edited video.
 
 ![share video files imovie mac](https://images.wondershare.com/filmora/article-images/2022/11/share-video-files-imovie-mac.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. iMovie Alternative to Loop Videos on Mac
 
@@ -102,6 +95,13 @@ Step1 Download and install Wondershare Filmora. Launch Filmora and click on New 
 Step2 Drag and drop the video file from Finder on Mac to the Project Media folder on Filmora. Thereafter, drop the video file into the timeline.
 
 ![drag and drop video file to project media](https://images.wondershare.com/filmora/guide/split-video-mac-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Drag and drop the video clip into the timeline again. Make sure that there is no gap between the clips. Besides, make sure that they are on the same channel for looping. You can drag and drop the video into the timeline multiple times.
 
@@ -214,13 +214,6 @@ Now, open the layer and right-click on the mask name to select "Track Mask." Thi
 
 ![set method for tracking](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3
 
 Tap the "Analyze Forward" icon and let the tracker analyze the frames in the clip. Once the process has finished, you can restart your clip and set "Mask Mode" from the timeline to "Subtract." This will remove the selected object from the clip.
@@ -232,6 +225,13 @@ Tap the "Analyze Forward" icon and let the tracker analyze the frames in the cli
 To fill in the details, go to the "Window" menu from the top and select "Content Aware Fill." Once you see the panel on the screen, set the "Alpha Extension" slider to a number of your choice and click on "Generate Fill Layer."
 
 ![use content fill properties](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Make Masking Easy? Try Wondershare Filmora
 
@@ -263,13 +263,6 @@ Filmora offers a comprehensive toolset to help users make the most of their medi
 
 ![ai vocal remover filmora](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Using AI Smart Masking in Filmora – A Step-by-Step Guide
 
 Filmora offers an AI-powered masking feature for users. This allows automatic recognition and selection of objects in videos. You can create seamless transitions, color-correct elements, remove background, and more. The tool can easily detect and separate objects, so you don't have to put in manual effort. Here is the step-by-step guide for AI smart masking using Filmora:
@@ -279,6 +272,13 @@ Filmora offers an AI-powered masking feature for users. This allows automatic re
 Install and launch Wondershare Filmora on your device. From the homepage, tap “New Project” and go to the “File” tab from the top. Tap “Import Media” in the dropdown menu and insert your video clips into the timeline.
 
 ![add video to timeline](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 2: Enable AI Mask
 
@@ -303,13 +303,6 @@ Adobe After Effects is an industry-standard tool for video editing and manipulat
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: How to Utilize Track Mattes in Adobe After Effects?
 
@@ -361,13 +354,6 @@ Import the footage you wish to edit in After Effects. Select the clip you wish t
 
 ![use pen tool to mark boundary](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 2
 
 Now, open the layer and right-click on the mask name to select "Track Mask." This will open the mask tracker in the tracker panel at the right. Open the dropdown menu next to the "Method" option. Here, you can find a range of options for tracking methods. Choose the one according to your requirements. If the object isn't moving much, you can choose a simple option such as "Position."
@@ -385,6 +371,13 @@ Tap the "Analyze Forward" icon and let the tracker analyze the frames in the cli
 To fill in the details, go to the "Window" menu from the top and select "Content Aware Fill." Once you see the panel on the screen, set the "Alpha Extension" slider to a number of your choice and click on "Generate Fill Layer."
 
 ![use content fill properties](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Make Masking Easy? Try Wondershare Filmora
 
@@ -473,13 +466,6 @@ OBS, or Open Broadcaster Software, is a free and open-source tool that allows yo
 * Intuitive audio mixer.
 * Easy-to-use and simple configuration options.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps
 
 Here's an easy and quick guide on how to use OBS Studio to stream and record videos simultaneously:
@@ -547,13 +533,6 @@ Using a screen recorder is a great way to record your live stream because it let
 * A variety of video editing features
 * An easy-to-use interface
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps
 
 Here's how to use Filmora for recording while streaming:
@@ -602,6 +581,13 @@ This article will guide you about the **iMovie slow motion** effect and explain 
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: An Introduction to Slow Motion Videos: A Comprehensive Review
 
 Slow-mo videos are recorded at a frame rate higher than 24 frames per second (fps). After that, they are replayed at a slower pace. This method produces an effect that can bring out special moments. Slow-motion recordings are frequently employed in sports, action, and wildlife cinematography.
@@ -629,6 +615,13 @@ Launch iMovie in your system and click “New Project.” Go to the “Movies”
 Select the video from the timeline and click the speed icon that looks like a clock. From “Speed,” select the “Slow” option and choose the percentage of slow-motion effect you want to apply in your video. To set a customized slow-mo percentage, click “Speed” again and choose “Custom.” After that, manually add the percentage of how slow you want your video to be.
 
 ![change speed in imovie](https://images.wondershare.com/filmora/article-images/2023/imovie-slow-motion-video-making-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: A Great Alternative to Making Slow Motion Videos: Wondershare Filmora
 
@@ -721,6 +714,13 @@ Launch iMovie in your system and click “New Project.” Go to the “Movies”
 Select the video from the timeline and click the speed icon that looks like a clock. From “Speed,” select the “Slow” option and choose the percentage of slow-motion effect you want to apply in your video. To set a customized slow-mo percentage, click “Speed” again and choose “Custom.” After that, manually add the percentage of how slow you want your video to be.
 
 ![change speed in imovie](https://images.wondershare.com/filmora/article-images/2023/imovie-slow-motion-video-making-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: A Great Alternative to Making Slow Motion Videos: Wondershare Filmora
 
@@ -798,24 +798,18 @@ In short, the slow-motion effect is one of the most popular video effects used i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-a-simple-guide-changing-your-voice-in-online-battles-pubg/"><u>[New] 2024 Approved A Simple Guide Changing Your Voice in Online Battles (PUBG)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-jaunt-vr-a-gateway-to-virtual-worlds/"><u>[New] Jaunt VR A Gateway to Virtual Worlds</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-secrets-to-proficient-gaming-recordings/"><u>[Updated] 2024 Approved Secrets to Proficient Gaming Recordings</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/copyrighted-chords-navigating-music-uploads-to-insta/"><u>Copyrighted Chords Navigating Music Uploads to Insta</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-latest-firmware-hp-laserjet-p1007-printer-software-upgrade/"><u>Download Latest Firmware: HP LaserJet P1007 Printer Software Upgrade</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/full-spectrum-data-salvage-system-next-level-technical-assistance-for-complete-data-recovery/"><u>Full-Spectrum Data Salvage System: Next-Level Technical Assistance for Complete Data Recovery</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-the-booming-low-to-no-code-industry-is-reshaping-it-professions-zdnet-analysis/"><u>How the Booming Low to No-Code Industry Is Reshaping IT Professions - ZDNet Analysis</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-reestablish-link-with-your-canon-printer/"><u>How to Reestablish Link With Your Canon Printer</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastery-in-missed-tips-on-bypassing-edgenuity-video-instructions-efficiently/"><u>Mastery in Missed Tips on Bypassing Edgenuity Video Instructions Efficiently</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-artists-choice-leading-drawing-tablets-in-2e24/"><u>Top-Rated Artist's Choice: Leading Drawing Tablets in 2E24</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-overlay-videos-in-premiere-pro/"><u>Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/vmix-vs-wirecast-which-is-the-best-professional-live-streaming-software-in-2024/"><u>VMix VS Wirecast Which Is the Best Professional Live Streaming Software, In 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-greatest-of-all-time-reddits-favorite-threads/"><u>[Updated] Greatest of All Time Reddit's Favorite Threads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-the-conversion-of-vids-to-mp3-on-insta/"><u>[Updated] In 2024, Mastering the Conversion of Vids to MP3 on Insta</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-ogvmpeg/"><u>「お使いやすく、高速で - オンラインFREE OGV/MPEGファイル変換」</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-easiest-fix-included-top-5-ways-to-convert-hdr-to-sdr-videos/"><u>2024 Approved Easiest Fix Included! Top 5 Ways to Convert HDR to SDR Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-can-filmora-create-an-audio-visualizer-project-for-a-song-all-steps-from-launching-the-app-to-editing-the-text-are-detailed-here-for-2024/"><u>How Can Filmora Create an Audio Visualizer Project for a Song? All Steps, From Launching the App to Editing the Text, Are Detailed Here for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-oppo-a2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Oppo A2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ideal-pairings-prime-mac-software-for-video-snatching-for-2024/"><u>Ideal Pairings Prime Mac Software for Video Snatching for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-after-effe/"><u>In 2024, Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-mp3-cutter-download-for-computer-and-mobile/"><u>New In 2024, MP3 Cutter Download for Computer and Mobile</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713951460868-this-article-will-help-you-make-cinematic-shots-with-simple-diy-hacks-using-stuff-from-your-nearest-dollar-store-you-can-edit-your-video-to-get-pro-results-/"><u>This Article Will Help You Make Cinematic Shots with Simple DIY Hacks Using Stuff From Your Nearest Dollar Store. You Can Edit Your Video to Get Pro Results by Wondershare Filmora for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Rules of Thirds
-date: 2024-10-25T17:57:57.748Z
-updated: 2024-10-31T16:25:13.340Z
+date: 2024-10-31T00:51:16.287Z
+updated: 2024-11-06T18:05:55.372Z
 tags: 
   - ai
   - animation videos
@@ -30,6 +30,13 @@ To gain a better understanding of this here is a visual example of the gridlines
 ![rule of thirds gridline](https://images.wondershare.com/filmora/article-images/2022/11/rule-of-thirds-gridline.jpg)
 
 This may seem simple but is often overlooked due to time restraints and eagerness to get that video out there. By following these guidelines your overall composition will gain interesting and pleasing results that can help with viewer engagement. This is only one piece of the puzzle but as any photography professional or artist will tell you, It's the small things that add up.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to use the rule of thirds
 
@@ -94,10 +101,16 @@ As you can see you are able to align the shot and change the aspect ratio to ali
 ![rule of thirds final video](https://images.wondershare.com/filmora/article-images/2022/11/rule-of-thirds-final-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -121,6 +134,14 @@ To conclude, the rule of thirds is very important within visual media and is tou
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keyframes Interval: Everything You Need To Know | Filmora
 
@@ -244,13 +265,6 @@ Before you can publish your recorded video to your viewers, you need to polish t
 
 Instead of showing static texts, you should create animated texts and place them in the video wherever appropriate. You do not need to download a video editor on your computer or smartphone to add animated text to your video. You can make text animation online using an online text animation maker. We will illustrate the steps to create animated text with three different online editors.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. Use [Biteable Animated Text](https://biteable.com/animated/text/)
 
 Biteable is a popular online platform where you can create amazing animated text video using Biteable text video maker. You can add animated text to your videos as well as photos. The user interface of Biteable is extremely easy for all users. You have to first create an account for free to get started. There are various templates available to create your animated text video from scratch. Here are the steps to use Biteable online text animation maker to create a video based on animated texts.
@@ -274,13 +288,6 @@ Step4Under Titles, select any template and it will be added to the Timeline. Sim
 Step5Double-click on each template to edit the text in them and select the text animations as per your preference. Play the video and if you are satisfied, click on Publish button to save the video.
 
 ![edit title template biteable](https://images.wondershare.com/filmora/article-images/2022/08/edit-title-template-biteable.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Use [Motionden Video Maker](https://motionden.com/video-maker/text-animation)
 
@@ -327,10 +334,10 @@ Step5Double-click on the text on Viewer window and customize the text as per you
 ![customize text in flexclip](https://images.wondershare.com/filmora/article-images/2022/08/customize-text-in-flexclip.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -393,13 +400,6 @@ Step3 Once the Change Clip Speed dialog box opens, modify the speed from 100% to
 
 ![once the change clip](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Click on the Change button when you are happy with the result.
 
 ### Method 2\. Speed Ramping Option
@@ -417,6 +417,13 @@ Step2 Move the play head where you want to change the speed. Click the arrow nex
 Step3 Click on the arrow next to 100% to change the speed between two-speed points. Go to the Change Speed option and select from the preset. Based on your preset speed selection, the video's speed within the speed points will change.
 
 ![arrow next to 100](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part III. Pros and Cons
 
@@ -437,6 +444,13 @@ Every video editor has its advantages as well as drawbacks. So if you think abou
 * There are reports of sudden crashes with too many video speed changes.
 
 The cons are too grave to ignore. The learning curve is also steep too. Many look for an easier alternative to DaVinci Resolve speed ramp transition.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part IV. A Simpler Alternative to DaVinci Resolve to Change Video Speed
 
@@ -466,16 +480,16 @@ Step2 Drag the video file from your computer to Filmora's timeline. Choose video
 
 ![top of the timeline](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 From the menu, go to the Fast or the Slow option and select a speed preset. Finally, you can export the file to save it to your computer.
 
 ![export the file](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2\. Alter Uniform Speed
 
@@ -492,13 +506,6 @@ Step3 Adjust the speed slider to change the video speed as you need.
 ![change the video speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-11.jpg)
 
 Step4 After setting the speed, click on the Ok button. Then you can export the video in any file format.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3\. Use Speed Ramping
 
@@ -563,6 +570,13 @@ Step2 Drag the video file from your computer to Filmora's timeline. Choose video
 
 ![top of the timeline](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 From the menu, go to the Fast or the Slow option and select a speed preset. Finally, you can export the file to save it to your computer.
 
 ![export the file](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-9.jpg)
@@ -580,13 +594,6 @@ Step2 Choose the Uniform Speed option, which will open the Uniform Speed tab.
 Step3 Adjust the speed slider to change the video speed as you need.
 
 ![change the video speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 After setting the speed, click on the Ok button. Then you can export the video in any file format.
 
@@ -639,16 +646,21 @@ We have answered how you can use the speed ramp DaVinci Resolve 17 to speed up y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-learn-the-art-of-saving-and-logging-periscope-content/"><u>[Updated] In 2024, Learn the Art of Saving & Logging Periscope Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-prime-free-improvement-suite-pc-and-phone-edition/"><u>[Updated] Prime FREE Improvement Suite PC & Phone Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-reflect-and-record-capture-your-window-world/"><u>2024 Approved Reflect & Record Capture Your Window World</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/detecting-fake-chatgpt-scams-actions-for-safe-online-interaction/"><u>Detecting Fake ChatGPT Scams: Actions for Safe Online Interaction</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone X | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-100-working-methods-to-learn-how-to-rotate-tiktok-video-for-2024/"><u>New 100 Working Methods to Learn How to Rotate TikTok Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-motion-blur-in-davinci-resolve-in-2024/"><u>New How To Add Motion Blur In Davinci Resolve, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review/"><u>New VSDC Free Video Editor Review</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-youtube-experience-manage-video-comments-for-2024/"><u>Streamline Your YouTube Experience Manage Video Comments for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-clone-yourself-in-videos-with-filmora/"><u>Updated In 2024, Clone Yourself in Videos with Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-youtube-seo-guide-for-beginners-who-want-more-views/"><u>[New] 2024 Approved YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-tablets-exclusively-designed-for-amateur-and-professional-photographers-for-2024/"><u>[New] Top Tablets Exclusively Designed for Amateur and Professional Photographers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-discover-sj7s-boundary-pushing-4k-action-cam-technology-detailed-reviews/"><u>[Updated] 2024 Approved Discover SJ7’s Boundary-Pushing 4K Action Cam Technology - Detailed Reviews</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-captivate-viewers-create-success-a-strategy-for-gamers-channels/"><u>[Updated] In 2024, Captivate Viewers, Create Success A Strategy for Gamers' Channels</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-insightful-comparisons-top-android-applications-for-youtube-download/"><u>2024 Approved Insightful Comparisons Top Android Applications for YouTube Download</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-to-use-montage-with-these-movies/"><u>2024 Approved Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/expeditious-methods-for-swiftly-neutralizing-audio-interference-and-noise/"><u>Expeditious Methods for Swiftly Neutralizing Audio Interference and Noise</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-quiz-videos-detailed-guide-for-2024/"><u>How To Create Quiz Videos Detailed Guide for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-oppo-reno-10-pro-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Oppo Reno 10 Pro 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-transformative-strategies-for-broadcast-excellence-wirecast-on-youtube/"><u>In 2024, Transformative Strategies for Broadcast Excellence WireCast on YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>New In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-text-reveal-animation-easy-masking-filmora/"><u>New TEXT REVEAL Animation | Easy Masking Filmora</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/simple-solutions-for-capturing-playthroughs/"><u>Simple Solutions for Capturing Playthroughs</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/step-by-step-to-split-a-clip-in-vlc-for-2024/"><u>Step by Step to Split a Clip in VLC for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-in-camera-transitions-tricks-to-make-videos-like-a-pro-for-2024/"><u>Updated 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024</u></a></li>
 </ul></div>
 

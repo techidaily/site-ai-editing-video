@@ -1,7 +1,7 @@
 ---
 title: New How To Add Motion Blur In Davinci Resolve, In 2024
-date: 2024-10-28T06:12:18.863Z
-updated: 2024-11-01T04:56:53.777Z
+date: 2024-11-05T16:52:04.665Z
+updated: 2024-11-06T22:07:21.620Z
 tags: 
   - ai
   - animation videos
@@ -34,6 +34,13 @@ DaVinci Resolve can professionally add a motion blur effect to your videos to sm
 ### 1\. On the Fusion Page
 
 DaVinci has separate pages, like the Fusion page, for different uses. If you want to learn how to add a motion blur effect on the fusion page, check the following instructions carefully.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is the Fusion Page in DaVinci?
 
@@ -87,13 +94,6 @@ After launching Filmora, hit the “Create New Project” button to open a new i
 
 ![create a new filmora project](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-davinci-resolve-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2 Choose the Motion Blur Effect
 
 Now go to the "Effects" tab and select the "Video Effects" category from the left panel. Now you will have to type "Blur" in the search bar to get all the blur effects of Filmora. Select your option and apply the effect to the timeline.
@@ -105,13 +105,6 @@ Now go to the "Effects" tab and select the "Video Effects" category from the lef
 You can also add a transition known as “Dissolve” by searching for it in the “Transitions” tab to smoothen your video. You can see the final results in the preview window.
 
 ![add the dissolve transition](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-davinci-resolve-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -142,6 +135,13 @@ Now go to the "Effects" tab and select the "Video Effects" category from the lef
 You can also add a transition known as “Dissolve” by searching for it in the “Transitions” tab to smoothen your video. You can see the final results in the preview window.
 
 ![add the dissolve transition](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-davinci-resolve-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -195,6 +195,13 @@ Open the "Photos" application from your home screen and click "Albums." From the
 
 ![access slow mo album](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2
 
 Choose a video from this album and go to the “Edit” option at the top right corner.
@@ -202,16 +209,10 @@ Choose a video from this album and go to the “Edit” option at the top right 
 ![start editing video](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step 3
@@ -259,6 +260,13 @@ This video editor is specifically designed for those looking to modify video spe
 
 ![slow mo and fast motion](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Key Features
 
 * The tool offers cutting options, and the timeline editing makes it more precise.
@@ -270,19 +278,6 @@ This video editor is specifically designed for those looking to modify video spe
 Whether it's about changing speed or doing other types of speed edits, this app fits the best. It resolves your **how to play videos in slow motion on iPhone** problems. It allows you to change the video playback speed via a simple process. Just upload your video and drag the speed slider backward to create a slow-mo.
 
 ![video speech changer editor](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-9.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -361,13 +356,6 @@ The first method will record your overall video in slow motion. However, you can
 Open the "Photos" application from your home screen and click "Albums." From the featured slider, select the "Slow-mo" option.
 
 ![access slow mo album](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 2
 
@@ -576,13 +564,6 @@ Right-click the original downloaded PNG file in the Develop module. Go to "Devel
 
 ![paste settings in original png](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step6
 
 Now export the edited PNG by right-clicking on the PNG and selecting "Export." In the Export popup menu, ensure you have the same settings as in the screenshot.
@@ -658,6 +639,13 @@ In Preferences, choose the desired size of the 3D LUT as .CUBE format. You can c
 
 ![create luts with lut generator app](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Create Online LUTs Using Online LUT Creator?
 
 There are two methods to create a LUT online and offline. Previously you've learned to generate LUTs using offline tools. However, you can also create LUTs online without installing any tool. This portion will teach you how to create online LUTs in this step-by-step guide.
@@ -673,13 +661,6 @@ Import your photo into Lightroom by dragging and dropping it. You can also impor
 Edit your photo inside the “Develop” module in Lightroom with your desired preference and style. Only apply changes affecting the colors, not adjustments like noise reduction, vignette, or grain.
 
 ![open develop module and make changes ](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3
 
@@ -767,6 +748,13 @@ After importing your videos, you can start adding video filter effects. Filmora 
 
 With a few easy and quick taps on your mobile device, you can transform your video filters for iPhone to create visually stunning content.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part** **2 Apply Video Filters on Desktop**
 
 To apply video filters on your desktop, you can follow these steps using the software Filmora
@@ -775,16 +763,16 @@ To apply video filters on your desktop, you can follow these steps using the sof
 
 [Create AI Filter](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Step 1: Download Filmora**
 
 Start by downloading and installing the Filmora software onto your desktop. This software provides a range of video editing tools, including video filters.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 2: Import your videos**
 
@@ -862,19 +850,16 @@ In the modern digital era, Filmora will be the best video filter editor, thanks 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-eliminating-frame-discrepancies-in-obs-recordings/"><u>[New] 2024 Approved Eliminating Frame Discrepancies in OBS Recordings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-efficiently-engaging-with-numerous-youtube-lectures-for-2024/"><u>[New] Efficiently Engaging with Numerous YouTube Lectures for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-honorable-warriors-reimagined-best-matching-gaming-titles/"><u>[Updated] 2024 Approved Honorable Warriors, Reimagined Best Matching Gaming Titles</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-brighten-your-night-photos-on-iphone-quickly/"><u>2024 Approved Brighten Your Night Photos on Iphone Quickly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-the-future-of-ridesharing-tesla-robotaxi-pricing-and-release-details-unveiled/"><u>All You Need to Know About the Future of Ridesharing: Tesla Robotaxi Pricing & Release Details Unveiled!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/detailed-tutorial-correcting-the-not-found-problem-with-d3dx928dll/"><u>Detailed Tutorial: Correcting the 'Not Found' Problem with d3dx9_28.dll</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-green-screen-in-obs/"><u>How to Add Green Screen in OBS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-stop-chatgpt-from-saving-your-conversations/"><u>How to Stop ChatGPT From Saving Your Conversations</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-ad/"><u>New 2024 Approved Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-rec-room-mic-problems-for-pc-users-comprehensive-2024-edition/"><u>Solving Rec Room Mic Problems for PC Users - Comprehensive 2024 Edition</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>Updated A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-custom-filters-in-vn-app-2024-quick-guide/"><u>Updated How to Add Custom Filters in VN App 2024 Quick Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-smart-shoppers-guide-to-cloud-services-cost-for-2024/"><u>[New] The Smart Shopper's Guide to Cloud Services Cost for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mastering-youtube-video-replays-your-comprehensive-tutorial-for-2024/"><u>[Updated] Mastering YouTube Video Replays Your Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-optimal-obs-configurations-on-budget-computers-for-2024/"><u>[Updated] Optimal OBS Configurations on Budget Computers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-efficient-obs-adjustments-on-cost-effective-computers/"><u>In 2024, Efficient OBS Adjustments on Cost-Effective Computers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies/"><u>Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-top-10-sony-lut-for-different-purposes/"><u>New 2024 Approved Top 10 Sony LUT for Different Purposes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/new-era-of-sm-bus-management-on-windows-11/"><u>New Era of Sm Bus Management on Windows 11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/shotcut-review-is-it-the-best-free-video-editor-for-2024/"><u>Shotcut Review – Is It The Best Free Video Editor for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-energy-kits-for-hero5-official-and-alternative-products/"><u>Ultimate Energy Kits for Hero5 - Official & Alternative Products</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>Updated In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
 </ul></div>
 

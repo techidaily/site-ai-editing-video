@@ -1,7 +1,7 @@
 ---
 title: New Steps To Fade Audio In Premier Pro
-date: 2024-10-28T20:21:00.581Z
-updated: 2024-10-31T22:44:50.679Z
+date: 2024-11-03T19:27:31.321Z
+updated: 2024-11-06T18:38:43.740Z
 tags: 
   - ai
   - animation videos
@@ -31,24 +31,18 @@ Step2Once it is open, select the audio clip in the timeline and then click on �
 
 ![apply audio transition](https://images.wondershare.com/filmora/article-images/2022/08/apply-audio-transition.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can also use the keyboard shortcut Shift + Command + D (macOS) or Shift+ Ctrl + D (PC). This will add the “Constant Power Cross Fade” effect at the beginning and the end of the clip.
 
 Step3You can then just change the duration of the effect by simply dragging the end of the transition.
 
 ![add transitions premiere](https://images.wondershare.com/filmora/article-images/2022/08/add-transitions-premiere.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fade Audio using Clip Keyframes
 
@@ -59,6 +53,13 @@ Step1Adobe Premier Pro has two volume keyframes; Track and Clip. Make the audio 
 Step2You can then press down on the Command Key (macOS) or the Control Key (PC) and drag the volume line down to add a fade-in or fade-out effect.
 
 ![drag volume line premiere](https://images.wondershare.com/filmora/article-images/2022/08/drag-volume-line-premiere.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Adobe Premiere Alternative Way to Fade Audio
 
@@ -102,13 +103,6 @@ Then check the volume in Premiere to see if the audio meter is moving as you pla
 
 If your volume is fine but you still can't hear the audio, you may need to adjust several settings. Go to Edit > Preferences (on PC) or Preferences menu under the main Premiere Pro CC menu (macOS) and select “Audio Hardware” in the options that appear. You can then change the “Default Output” device to something else.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. How Do You do Audio Transitions in Premiere Pro
 
 Adding audio transitions in Premiere Pro is very easy; just open the audio that you want to edit and then Right-click (PC) or Control- Click (macOS) on either the “Constant Gain” or “Constant Power” effect from the Effects panel. Then choose “Set Selected as Default Transition” from the options in the menu.
@@ -140,10 +134,10 @@ To add a duration for the audio transitions, go to Edit > Preferences > Timeline
 If you're skilled at playing Fortnite, you'll probably want to share your gameplay clips as montages with other players. The popularity of Fortnite montage videos is rapidly growing because millions of people play the game. Tons of people also like watching their peers play this online video game in the form of gaming montages. We'll explain how to make a montage Fortnite that will get views when you upload it on social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is Fortnite?
@@ -189,10 +183,10 @@ To start using this software, follow the steps below:
 ![Record Fortnite video clip](https://images.wondershare.com/filmora/article-images/2022/05/fortnite-montage-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Record Fortnite video clip
@@ -212,6 +206,19 @@ Enable option to record
 1. If you'll be using a microphone, click on the speaker symbol and enable audio boost and noise cancellation.
 
 ![Record Fortnite video clip with ApowerRec - Audio Setting](https://images.wondershare.com/filmora/article-images/2022/05/fortnite-montage-5.png)
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Audio Setting
 
@@ -354,13 +361,6 @@ Go to the Effects tab, and select the Overlay option, where you can choose the o
 
 ![Edit Fortnite Video with Filmora - Add Effects](https://images.wondershare.com/filmora/article-images/2022/05/fortnite-montage-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Add Effects
 
 ##### Step3Add Filters
@@ -421,13 +421,6 @@ It would be best to have your camera placed on a steady surface or mounted on a 
 
 You will need a spacious area in which you will perform different tasks. Make sure your camera stands still while shooting all the frames of video. In an ample space, it becomes easier to do movements freely. It also helps prevent glitches in the final product.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Splitting of Area into Portions
 
 Now you have to split your area into portions. Each task is in its part of the frame, and actions in one frame should not pass over into another. You will do one activity per portion. It makes the editing process a lot easier. Finally, we get all three videos to merge and make it look like a single video.
@@ -458,6 +451,13 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 * Drag the shots to the timeline and drop it. If Filmora asks for a matching resolution on the timeline, please click "Match to Media." It will adjust your media resolution according to the timeline.
 
 ![drag the shots to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Add videos of each action on the layers above by drag and drop.
 
@@ -527,6 +527,13 @@ Applying video reverse effects to your shots here is a wise guide. Please follow
 * After opening the software, import the recording files by clicking "Import Media."
 
 ![download the filmora](https://images.wondershare.com/filmora/article-images/2023/01/video-reverse-effect-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step2 Drag the Shots to the Timeline
 
@@ -597,19 +604,6 @@ If this article has helped you, please mention your experience in the comment bo
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Latest 100+ Best TikTok Captions to Improve Your Next Post
 
@@ -858,13 +852,6 @@ Captions aren't just about information but about flair, wit, and personality. As
 
 Captions are more than just add-ons. They're a part of the content's DNA, influencing virality and engagement. The above lists are just a teaser. With so much potential, the right caption can be the difference between a few views and a few million. Stay tuned as we explore more on this topic!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Automatically Generate TikTok Captions using Filmora's AI Copywriting Feature
 
 In the ever-evolving world of content creation, tech tools can be a creator's best friend. With the overwhelming demand for frequent and catchy content, wouldn't it be a game-changer if an AI could whip up the perfect TikTok caption for you? Enter Filmora’s AI Copywriting feature!
@@ -872,6 +859,13 @@ In the ever-evolving world of content creation, tech tools can be a creator's be
 [Create AI Captions](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Create AI Captions](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Download Filmora and Find the AI Copywriting Feature
 
@@ -908,18 +902,16 @@ Whether you're brainstorming creatively or seeking assistance from innovative to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ake-your-youtube-clips-to-the-next-level-ultimate-editing-tips-for-2024/"><u>[New] Take Your YouTube Clips to the Next Level Ultimate Editing Tips for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-future-of-storage-top-picks-and-prices-in-clouds/"><u>[Updated] Future of Storage Top Picks and Prices in Clouds</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-from-sound-to-web-crafting-a-standout-podcast-rss-feed/"><u>[Updated] In 2024, From Sound to Web Crafting a Standout Podcast RSS Feed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-mend-your-gpu-excludes-screen-connections/"><u>Easy Mend: Your GPU Excludes Screen Connections</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-record-video-streams-with-ffmpeg-on-windows-and-mac/"><u>How to Record Video Streams With FFmpeg on Windows and Mac?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>In 2024, Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-comment-on-youtube-live-chat/"><u>New In 2024, How to Comment on YouTube Live Chat</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-the-secret-to-fixing-error-code-0x80070002-in-windows-update-expert-advice/"><u>Unlock the Secret to Fixing Error Code 0X80070002 in Windows Update - Expert Advice</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlocking-your-sub4sub-potential-the-critical-pre-entry-guide-for-2024/"><u>Unlocking Your Sub4sub Potential The Critical Pre-Entry Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-create-motion-effect-with-path-blur-in-photoshop-for-2024/"><u>Updated Create Motion Effect with Path Blur In Photoshop for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-8-best-sites-to-get-glitch-transition-for-premiere-pro/"><u>Updated In 2024, 8 Best Sites to Get Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-create-the-night-to-day-effect-videos/"><u>Updated In 2024, Create the Night-to-Day Effect Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-best-approaches-to-capture-and-share-compelling-customer-experiences/"><u>[Updated] In 2024, Best Approaches to Capture and Share Compelling Customer Experiences</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-large-display-medium-network-selection-tips/"><u>[Updated] Large Display Medium Network Selection Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mac-and-pcs-top-10-supercharged-srt-systems-unveiled/"><u>[Updated] Mac & PC's Top 10 Supercharged SRT Systems Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-toms-gear-guide/"><u>Exploring Technology with Tom's Gear Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/is-windows-movie-maker-still-available-in-2024/"><u>Is Windows Movie Maker Still Available, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-are-you-in-search-for-a-step-by-step-guide-to-how-to-add-effects-in-tiktok-here-it-is-to-add-some-flavor-to-your-tiktok-videos-use-these-how-to-add-effe/"><u>New Are You in Search for a Step-by-Step Guide to How to Add Effects in TikTok? Here It Is. To Add some Flavor to Your TikTok Videos. Use These How to Add Effect to TikTok Recommendations</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-ram-capacity-restrictions/"><u>Overcoming Windows' RAM Capacity Restrictions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-laptop-not-charging-on-windows-7-and-10/"><u>Resolved: How to Fix Laptop Not Charging on Windows 7 & 10</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-overlay-videos-in-premiere-pro/"><u>Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve?</u></a></li>
 </ul></div>
 

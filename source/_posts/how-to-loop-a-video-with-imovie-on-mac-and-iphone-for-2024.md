@@ -1,7 +1,7 @@
 ---
 title: How to Loop a Video with iMovie on Mac and iPhone for 2024
-date: 2024-10-26T07:09:59.350Z
-updated: 2024-10-31T19:24:10.213Z
+date: 2024-10-31T01:02:33.873Z
+updated: 2024-11-06T18:04:11.020Z
 tags: 
   - ai
   - animation videos
@@ -105,6 +105,13 @@ Step1 Download and install Wondershare Filmora. Launch Filmora and click on New 
 
 ![download and install wondershare filmora](https://images.wondershare.com/filmora/guide/startup-window-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Drag and drop the video file from Finder on Mac to the Project Media folder on Filmora. Thereafter, drop the video file into the timeline.
 
 ![drag and drop video file to project media](https://images.wondershare.com/filmora/guide/split-video-mac-02.jpg)
@@ -152,6 +159,13 @@ The Apple website's official store offers iMovie. The objective whenever iMovie 
 When iMovie is running, choose the Projects tab to bring up the Projects browser. Next, select Create New and Movie. If you're a regular user, you may also access an active project as shown below:
 
 ![start new project imovie](https://images.wondershare.com/filmora/article-images/2022/07/start-new-project-imovie.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step2Add in your media
 
@@ -258,6 +272,13 @@ Importing images, audio, and video for your movie is straightforward using iMovi
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How To Add Text Effects in Videos Using Filmora**
 
@@ -408,6 +429,19 @@ You can also use the Font Meme to create a **radial blur image** by uploading th
 
 * No advanced image editing features
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4.[IMGonline.com.ua](https://www.imgonline.com.ua/eng/blur-radial.php)
 
 IMGonline is another free online tool that offers image resizing, converting, compression, EXIF editor, effects, and other tools.
@@ -498,18 +532,18 @@ Step1 In the first step, go to the Filmora website, download the file, and insta
 
 ![creating new project in filmora](https://images.wondershare.com/filmora/article-images/2023/02/creating-new-project-in-filmora.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 In the second step, go to the **“Effects”** tab, choose the **Tilt-shift Circle** for the radial blur effect, and add it to the timeline.
 
 ![adding radial blur effect in filmora](https://images.wondershare.com/filmora/article-images/2023/02/adding-radial-blur-effect-in-filmora.png)
 
 Step3 Finally, configure the size, X-axis, Y-axis, and intensity of the effect by double-clicking it in the timeline. You're all set! Export your file by clicking on the “Export” button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -529,22 +563,15 @@ Here are some common uses of the **Radial motion blur** effect:
 * Simulate camera movement
 * Create an interesting background
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best 6 Free Online Radial Blur Image Tools
 
 If you want to create a radial blur effect on your photos but don’t have the required resources like storage space, budget, or the right software, we recommend you try using the following tools:
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1.[Pine Tools](https://pinetools.com/tilt-shift-effect)
@@ -597,13 +624,6 @@ To create the **radial motion blur** effect on your images using the Mass-images
 
 * No advanced image editing features
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Font Meme
 
 Font Meme is an online resource for fonts and typography. Still, it offers other image editing features, such as 3D Rotation, Bevel Effect, Glow Effect, Invert Colors, Blend Images, and Add Background, to help you create memes instantly.  
@@ -634,13 +654,6 @@ IMGonline is another free online tool that offers image resizing, converting, co
 IMGonline can also help you create beautiful **radial blur images** in the nick of time. It's a great and easy platform to add an extra effect to your photos. Simply upload your picture, choose the amount of blur you want, click **“OK,”** and download the results.
 
 ![imageonline.com.ua for radial blur photo](https://images.wondershare.com/filmora/article-images/2023/02/imageonline_com_ua-for-radial-blur-photo.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key Features:**
 
@@ -707,6 +720,13 @@ Besides that, this tool offers several other advanced image editing features, in
  Cons
 
 * The user interface is less intuitive
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tips – How To Add Radial Blur Effect To Images In Filmora
 
@@ -824,13 +844,6 @@ To overcome this, use remote control camera software. This can be compensated by
 
 ![shoot sunset timelapse video](https://images.wondershare.com/filmora/article-images/2022/11/shoot-sunset-timelapse-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Star movement**
 
 At night, if the sky is clear and you are in an area dark enough, the stars in the sky can provide a beautiful time-lapse as the stars move in relation to the observer due to earths rotations.
@@ -859,13 +872,6 @@ Step3 Click import action cam video to import your file
 
 ![import moving car video into filmora](https://images.wondershare.com/filmora/article-images/2022/11/import-moving-car-video-into-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 click on the speed icon add marker button. Then drag the marker all the way over the target video.
 
 ![drag marker car video](https://images.wondershare.com/filmora/article-images/2022/11/drag-marker-car-video.jpg)
@@ -890,6 +896,13 @@ Step3 Click import action cam video to import your file
 
 ![import moving car video into filmora](https://images.wondershare.com/filmora/article-images/2022/11/import-moving-car-video-into-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 click on the speed icon add marker button. Then drag the marker all the way over the target video.
 
 ![drag marker car video](https://images.wondershare.com/filmora/article-images/2022/11/drag-marker-car-video.jpg)
@@ -901,13 +914,6 @@ Step5 Next drag the slider under the speed tool to speed up the video according 
 Step6 Lastly when done, export and save the final video.
 
 ![export car move timelapse video](https://images.wondershare.com/filmora/article-images/2022/11/export-car-move-timelapse-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -929,16 +935,21 @@ Hope this article can give you an idea on how to make a good time-lapse video. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-uninterrupted-virtual-engagement-top-5-high-quality-recorders/"><u>[New] 2024 Approved Uninterrupted Virtual Engagement - Top 5 High-Quality Recorders</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-beyond-the-skyline-with-yuneecs-typhoon-q500-for-2024/"><u>[New] Beyond the Skyline with Yuneec's Typhoon Q500 for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-efficiently-broadcasting-your-videos-as-shorts-via-computers-and-mobile-for-2024/"><u>[Updated] Efficiently Broadcasting Your Videos as Shorts via Computers & Mobile for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easy-guide-to-zoom-video-in-vlc/"><u>Easy Guide to Zoom Video in VLC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/impressive-image-sequence-on-instagram/"><u>Impressive Image Sequence on Instagram</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-modern-360-camera-purchases-2enas/"><u>In 2024, Mastering the Art of Modern 360 Camera Purchases (2Enas)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-culinary-cinematography-essential-food-film-techniques-for-2024/"><u>Mastering Culinary Cinematography Essential Food Film Techniques for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-chroma-key-written-text-effects-in-filmora/"><u>New Create Chroma Key Written Text Effects in Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-scouting-for-best-free-srt-translation-tools/"><u>The Ultimate Guide to Scouting for Best Free SRT Translation Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-advanced-camera-control-for-iphone-users/"><u>[New] 2024 Approved Advanced Camera Control for iPhone Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unleash-creativity-a-compreayer-to-slow-motion-photography-and-videos-for-instagram-success/"><u>[New] 2024 Approved Unleash Creativity A Compreayer to Slow-Motion Photography and Videos for Instagram Success</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-picks-essential-tools-to-play-ps1-games-on-your-computer/"><u>[New] In 2024, Top Picks - Essential Tools to Play PS1 Games on Your Computer</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-boundless-gallery-of-forgotten-artists-for-2024/"><u>[New] The Boundless Gallery of Forgotten Artists for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-voice-customization-made-simple-with-these-top-apps/"><u>[Updated] 2024 Approved Voice Customization Made Simple with These Top Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boost-visibility-with-customized-channel-names-for-2024/"><u>[Updated] Boost Visibility with Customized Channel Names for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-seek-a-guide-to-add-motion-in-blender-this-article-explains-the-blender-motion-blur-effect-in-detail-and-helps-you-master-it/"><u>2024 Approved Do You Seek a Guide to Add Motion in Blender? This Article Explains the Blender Motion Blur Effect in Detail and Helps You Master It</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-in-this-article-you-will-learn-easy-ways-to-edit-videos-using-a-mouse-in-wondershare-filmora-you-can-do-video-editing-without-a-keyboard-after/"><u>2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/camstudio-reimagined-the-complete-screen-recorder-review-for-2024/"><u>CamStudio Reimagined The Complete Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-successfully-deploy-and-configure-auto-gpt-in-your-ubuntu-environment/"><u>How to Successfully Deploy and Configure Auto-GPT in Your Ubuntu Environment</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-coin-magic-with-filmora/"><u>In 2024, How to Make Coin Magic With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-video-fade-to-black-in-movie-maker/"><u>In 2024, How to Make Video Fade to Black in Movie Maker</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-apps-for-refining-dji-aerial-footage/"><u>In 2024, Prime Apps for Refining DJi Aerial Footage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-share-youtube-video-on-zoom-in-2024/"><u>New How to Share YouTube Video on Zoom, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-a-video-on-vimeo/"><u>Updated 2024 Approved How to Loop a Video on Vimeo?</u></a></li>
 </ul></div>
 

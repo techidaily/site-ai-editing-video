@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Comment on YouTube Live Chat
-date: 2024-10-30T21:34:42.809Z
-updated: 2024-11-01T05:00:29.193Z
+date: 2024-11-05T17:00:03.556Z
+updated: 2024-11-07T00:13:33.059Z
 tags: 
   - ai
   - animation videos
@@ -158,13 +158,6 @@ It's done. Let's add our channel text now.
 
 ![adding the channel text](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Now double-click this layer and add the text you want. You can also change the color of the text, scale it down and place it where ever you want.
 
 ![editing the channel text](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-12.png)
@@ -211,16 +204,16 @@ First, we'll make it so that all these graphics come in from below the view.
 
 ![selecting type writer style for text](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-20.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Here, you can adjust the text with the color layers.
 
 ![adjusting the speed of the text](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-21.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * After adjusting both the channel name and subscribe button texts, your animation will appear like this.
 
@@ -272,6 +265,13 @@ The process of animating out your graphics is like how we animated in our video.
 Finally, our graphic is completed. "Export" it from the software to your computer.
 
 ![completed subscribe channel graphics](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-30.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Whenever you want to use this graphic on your video, you have to import it first and enable the "Green Screen" option. It will remove the green background color. Then you can upload your video and place this graphic on it to add to the video. And that's all.
 
@@ -417,6 +417,13 @@ The final product up till now will be like this.
 
 ![successfully animated the mouse cursor icon](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-25.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 We are nearing our end, guys. Now we just need to make the graphics animate out of our view, and our work will be done. So let's dive right into it.
 
 ##### Step5 Animate the graphics out
@@ -437,6 +444,13 @@ The process of animating out your graphics is like how we animated in our video.
 * The only thing that remains is to fix the text layers. For this, double-click on the channel text layer and go to the "Advanced" settings, just like before.
 
 ![click on the advanced option](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-28.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * From here, fix the text speed and end with your other graphic elements. After it's done, we will do the same for the "Subscribe" button text.
 
@@ -526,13 +540,6 @@ Step 2: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degre
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-9.png)
@@ -563,13 +570,6 @@ Step 1: Import the video you want to rotate into Filmora.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Click on the "Edit" button in the toolbar.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-12.png)
@@ -591,13 +591,6 @@ Second, if you want to rotate a video and flip it, follow the steps below:
 Click on the flip option that you want to use, either upside down or sideways, vertically or horizontally.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-16.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Click on ‘Ok’ to apply the rotation and the flip.
 
@@ -653,6 +646,13 @@ Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## An Easy Way to Rotate Videos Using Filmora
 
 To conclude, there are a number of ways to rotate videos on different devices. In this article, we have shown you how to rotate videos using Obs. Meanwhile, we have another suggestion which is using [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate videos. Filmora is a Wondershare product that helps you to rotate videos without quality loss. With its easy-to-use interface, you can rotate videos with just a few clicks. If you are interested in it, please feel free to check the guide below:
@@ -691,13 +691,6 @@ Step 5: Click on the ‘Ok’ to rotate it.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Second, if you want to rotate a video and flip it, follow the steps below:
 
 Click on the flip option that you want to use, either upside down or sideways, vertically or horizontally.
@@ -722,13 +715,6 @@ Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 How to rotate using the advance controls in obs?
 
 Second, to use the filters in obs, follow the steps below:
@@ -736,6 +722,13 @@ Second, to use the filters in obs, follow the steps below:
 Step 1: Open obs and click on the Edit tab > Transform > Edit transform. You can also click Ctrl + E.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Go to the Rotation section.
 
@@ -862,6 +855,13 @@ Step 3: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degre
 Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## An Easy Way to Rotate Videos Using Filmora
 
@@ -937,6 +937,19 @@ To gain a better understanding of this here is a visual example of the gridlines
 
 This may seem simple but is often overlooked due to time restraints and eagerness to get that video out there. By following these guidelines your overall composition will gain interesting and pleasing results that can help with viewer engagement. This is only one piece of the puzzle but as any photography professional or artist will tell you, It's the small things that add up.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to use the rule of thirds
 
 To show how to use the rule of thirds I will be showing an image with and without the use of the guidelines. In doing this you will be able to see how impactful this system is and how it can help with your own creations within [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -978,19 +991,6 @@ If you consider this with every video you make then in time this will become as 
 The rule is very useful when you're aiming to grab the attention towards a certain element but that being said, when you have a symmetrical scene you can get away with not using the rule as your eyes can make sense of symmetry very well.
 
 Even when working with a symmetrical scene you can incorporate the rule within for elements such as people or key figures but in this situation it is down to the creator to figure what they feel is best in any given shot.
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use Rule of Thirds in Filmora
 
@@ -1038,24 +1038,22 @@ To conclude, the rule of thirds is very important within visual media and is tou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-no-displayed-video-fixing-camera-issue-with-sony-a6400-for-2024/"><u>[Updated] No Displayed Video Fixing Camera Issue with Sony A6400 for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>2024 Approved How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-master-android-flip-digital-content-sequence/"><u>2024 Approved Master Android Flip Digital Content Sequence</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-year-ahead-exploring-instagrams-innovative-filters/"><u>2024 Approved The Year Ahead Exploring Instagram's Innovative Filters</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/a-gradual-journey-into-automation-with-abbyy-essential-guidance-for-successful-integration/"><u>A Gradual Journey Into Automation with ABBYY: Essential Guidance for Successful Integration</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-hot-40-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Hot 40 Pro Fingerprint Lock</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-transform-your-wmv-videos-into-mp3-format-no-cost-solution/"><u>How to Transform Your WMV Videos Into MP3 Format - No Cost Solution!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-7-plus-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone 7 Plus</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tigating-the-economics-of-t-series-on-youtube/"><u>Investigating the Economics of T-Series on YouTube</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-elevate-your-designs-with-feather-shapes-in-after-effects/"><u>New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-apply-video-filters/"><u>New In 2024, How to Apply Video Filters</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video/"><u>New Ultimate Guide on How to Plan and Storyboard a Music Video</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-windows-11s-elan-pad-hurdles-for-smooth-use/"><u>Overcoming Windows 11'S Elan Pad Hurdles for Smooth Use</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-solving-your-d3dx-library-file-woes/"><u>Troubleshooting and Solving Your D3DX Library File Woes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-achieve-gopro-slow-motion-with-quality/"><u>Updated 2024 Approved How to Achieve GoPro Slow Motion With Quality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-vintage-film-effect-1950s/"><u>Updated 2024 Approved How to Create Vintage Film Effect 1950S</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-conceptualizing-and-realizing-a-podcast-rss-strategy/"><u>[New] 2024 Approved Conceptualizing and Realizing a Podcast RSS Strategy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-essential-facetune-walkthrough-for-stunning-photos-for-2024/"><u>[New] The Essential Facetune Walkthrough for Stunning Photos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-an-easy-to-use-youtube-subscription-tagline-for-2024/"><u>[Updated] Crafting an Easy-to-Use YouTube Subscription Tagline for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-event-videography-is-popular-in-weddings-graduation-family-reunion-and-other-great-moments-here-im-going-to-share-some-of-the-tips-to-make-a-b/"><u>2024 Approved Event Videography Is Popular in Weddings, Graduation, Family Reunion and Other Great Moments. Here Im Going to Share some of the Tips to Make a Better Event Videography</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://facebook.techidaily.com/guides-to-limit-facebook-reel-engagement/"><u>Guides to Limit Facebook Reel Engagement</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/how-to-overcome-inactive-airdrop-on-multiple-apple-devices-for-2024/"><u>How to Overcome Inactive AirDrop on Multiple Apple Devices for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/lively-film-reader-assessment/"><u>Lively Film Reader Assessment</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximizing-gaming-speed-in-ring-of-elysium-a-step-by-step-guide/"><u>Maximizing Gaming Speed in Ring of Elysium: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-rotate-videos-in-lightworks-for-2024/"><u>New Steps to Rotate Videos in Lightworks for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-nokia-130-music-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Nokia 130 Music to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-step-by-step-to-crop-videos-using-lightworks/"><u>Updated 2024 Approved Step by Step to Crop Videos Using Lightworks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-cloud-storage-service-for-videos-for-2024/"><u>Updated Best Cloud Storage Service for Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-effects-on-tiktok/"><u>Updated In 2024, How to Add Effects on TikTok</u></a></li>
 </ul></div>
 

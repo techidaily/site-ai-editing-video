@@ -1,7 +1,7 @@
 ---
 title: New Motion Blur Photo With GIMP Step-By-Step Guide for 2024
-date: 2024-10-27T00:54:04.558Z
-updated: 2024-11-01T06:01:03.293Z
+date: 2024-11-05T22:27:05.754Z
+updated: 2024-11-06T17:08:04.516Z
 tags: 
   - ai
   - animation videos
@@ -37,19 +37,6 @@ Here are some key features of the GIMP software:
 * Released under a license called GNU General Public License v3 and later, which makes it free to use and distribute
 * Add overlays and crop or resize an image
 * Wide range of file formats that it can read and write, making it a versatile tool for working with images
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part II. How To Add The Motion Blur Effect To Your Photos in GIMP?
 
@@ -132,10 +119,10 @@ Step1 Download the Filmora software on your PC, launch it, and click **“Create
 ![importing file to filmora to add motion blur](https://images.wondershare.com/filmora/article-images/2023/02/importing-file-to-filmora-to-add-motion-blur.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2 Now, head to the **“Effects”** tab from the taskbar. Use the search option to find the **Blur** effect. Afterward, drag & drop it in the timeline and adjust it on your selected clip.
@@ -209,13 +196,6 @@ Step3 Adjust the position and size of the mask to reveal only the tattoo part. T
 
 ![add more blur to the edge of the mask](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 With the mask finalized,unhide the first video track with the arm video clip. Next, adjust the position and size of the tattoo and make it fit the arm clip.
 
 ![adjust the position](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-8.jpg)
@@ -224,16 +204,16 @@ Step5 Go to do colour correction on the tattoo image so that it matches better w
 
 ![go to do colour correction](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step6 Afterwards, open the "White Balance"menu and adjust the temperature. Indeed, you can also adjust the contrast and saturation if needed. Once done, click "OK." The tattoo should look like it blends into the arm video.
 
 ![open the white balance menu](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Make the tattoo disappear
 
@@ -248,13 +228,6 @@ Step2 Next, find the "Evaporate 1" from the "Transitions" window. Drag and drop 
 Step3 Adjust the length if needed. Finally, Let's playback and see how it looks!
 
 ![adjust the length](https://images.wondershare.com/filmora/article-images/2022/12/tattoo-effect-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -316,6 +289,19 @@ Annotations and Interactivity – Camtasia lets you create videos where the view
 
 Audio and Cursor Effects – Camtasia has a wide range of audio effects that you apply to your audio recordings or import audio files. Besides, there are options for background noise removal, adjusting gain and pitch, compression, and emphasize. Similarly, you can highlight your cursor movement, spotlight the area as well as magnify when required.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. How to Edit Videos with Camtasia?
 
 Camtasia is essentially a video editor where you can all types of videos as per your requirements. Camtasia has a robust timeline where you can import different types of video and audio files and arrange them sequentially. You can have multiple layers on top of another such as texts, shapes, photos, voiceover, and other media files as required. Camtasia has a powerful canvas where you can preview your edited video as well as resize and rotate the edited video. Here are the steps to edit videos with Camtasia.
@@ -335,13 +321,6 @@ Step 3: From Media Bin, drag and drop the media files to the timeline. Keep the 
 Step 4: Go to Annotation to add shapes, texts, arrows, and callouts. Go to Transitions and drag and drop transitions of your choice in between video clips on the timeline as you think perfect.
 
 ![camtasia transitions](https://images.wondershare.com/filmora/article-images/camtasia-transitions.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Go to Audio Effects to enhance the audio of the video. Moreover, you can check and apply animations, behaviors(text effects), cursor effects, visual effects as well as interactivity as you think relevant.
 
@@ -374,13 +353,6 @@ Step 3: Drag and place the video files one by one on the timeline as per your re
 Step 4: Go to Transitions located at the top bar and drag and drop any transition in between video clips and photos wherever required. You can also insert Titles, Effects, and Elements from the top bar.
 
 ![filmora edit videos](https://images.wondershare.com/filmora/guide/filmora-split-video-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Go to Audio located at the top bar, and drag and drop audio effects on the audio files on the timeline. You can also check the Stock Media and use them in your video as required.
 
@@ -596,6 +568,19 @@ Expand the timeline to see the ramping line. Now click on the ramping line by us
 
 ![add a new keyframe](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3
 
 Move the timeline cursor to the right side and add another keyframe there. Now, double-click on the first keyframe and drag it to the right side just a bit. After that, drag the speed ramping line downwards to create a ramp. To change the length of keyframes more precisely, go to “Effects Control” from the top and manage its length.
@@ -635,6 +620,13 @@ Later, drag that file to the timeline and right-click on it to get a list. Selec
 Otherwise, check the “Ripple Edit” and “Maintain Pitch” option for good. Now, extend the “AI Interpolation” menu and choose “Optical Flow.” It will let AI automatically adjust the video speed in slow motion with high quality.
 
 ![select ai frame and custom settings](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Method 2: Using Speed Ramping
 
@@ -700,6 +692,13 @@ Import your video into the timeline and right-click on the icon you see with the
 
 ![access speed in time time ramping](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2
 
 Expand the timeline to see the ramping line. Now click on the ramping line by using the “Ctrl + click” command. You can also add keyframes by going to the toolkit on the left side of the screen and selecting the “Add Keyframe” button. Another option is the time remapping speed settings from the top and activating the keyframe.
@@ -711,6 +710,13 @@ Expand the timeline to see the ramping line. Now click on the ramping line by us
 Move the timeline cursor to the right side and add another keyframe there. Now, double-click on the first keyframe and drag it to the right side just a bit. After that, drag the speed ramping line downwards to create a ramp. To change the length of keyframes more precisely, go to “Effects Control” from the top and manage its length.
 
 ![adjust speed using keyframe](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Quick Alternative: Wondershare Filmora and Slow-Motion Clips
 
@@ -762,13 +768,6 @@ In the Speed Ramping Section, you will get 6 templates. Pick one or hit the “C
 
 ![apply changes and render preview](https://images.wondershare.com/filmora/article-images/2023/making-slow-motion-videos-premiere-pro-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Matchless Features of Wondershare Filmora
 
 Wondershare Filmora offers a creative editing experience. It has a number of important features, some of which are discussed below:
@@ -778,6 +777,13 @@ Wondershare Filmora offers a creative editing experience. It has a number of imp
 * [**AI Text-Based Editing**](https://tools.techidaily.com/wondershare/filmora/download/)**:** You can edit your video content with the AI Text-Based Editing tool. This feature can transcribe your spoken words into editable text. Afterward, you can edit the text based on your preferences, and the changes in the video will be added. Moreover, Filmora allows you to save the generated text to reuse it in articles and blogs later.
 
 * [**AI Copywriting**](https://tools.techidaily.com/wondershare/filmora/download/)**:** If you are stuck creating a unique script, get help from AI copywriting in Filmora. It gives several video ideas to generate YouTube video titles and descriptions. This creative personal assistant will bring content aligning with your video goals. The generated script can be used to make videos from Filmora’s text-to-video feature.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -801,16 +807,19 @@ Regular videos do not always generate the same level of response from viewers. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-breathe-new-life-into-your-frozen-tiktok-app/"><u>[Updated] 2024 Approved Breathe New Life Into Your Frozen TikTok App</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-the-art-of-vlogging-your-ultimate-journey-begins-here/"><u>[Updated] Mastering The Art of Vlogging Your Ultimate Journey Begins Here</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-to-correct-acrocefexeexe-error-and-enhance-stability/"><u>Expert Tips to Correct acrocefexe.exe Error and Enhance Stability</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-common-issues-with-steam-remote-play-for-a-seamless-gaming-experience/"><u>Fixing Common Issues with Steam Remote Play for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/score-big-savings-on-gadgets-during-amazons-2024-prime-day-extravaganza/"><u>Score Big Savings on Gadgets During Amazon's 2024 Prime Day Extravaganza</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-fix-for-missing-or-inaccessible-msstdfmtdll-file-errors/"><u>Step-by-Step Fix for Missing or Inaccessible Msstdfmt.dll File Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-complete-solution-guide-ensuring-seamless-game-finale-deployment/"><u>The Complete Solution Guide: Ensuring Seamless Game Finale Deployment</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-list-top-2024-recommendations-for-quality-17-inch-laptops/"><u>The Ultimate List: Top 2024 Recommendations for Quality 17-Inch Laptops</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-16-and-pro-protection-gear-comprehensive-reviews-by-tech-specialists/"><u>Top-Rated iPhone 16 & Pro Protection Gear : Comprehensive Reviews by Tech Specialists</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/troubleshooting-guide-for-common-minecraft-world-connection-errors/"><u>Troubleshooting Guide for Common Minecraft World Connection Errors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-audiovisual-standards-for-success-on-youtube-top-format-choices-for-2024/"><u>[Updated] Audiovisual Standards for Success on YouTube – Top Format Choices for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-sony-fdr-x1000v-action-camera-complete-review/"><u>[Updated] Sony FDR-X1000V Action Camera Complete Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-premium-3d-playback-with-superior-blu-ray-systems/"><u>2024 Approved Premium 3D Playback with Superior Blu-Ray Systems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategic-use-of-jump-cuts-for-non-linear-storytelling/"><u>2024 Approved Strategic Use of Jump Cuts for Non-Linear Storytelling</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-set-up-twitch-green-screen/"><u>How to Set Up Twitch Green Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-12-pro-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 12 Pro to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-kdenlive-is-a-free-open-source-video-editing-software-application-kdenlive-is-a-powerful-video-editor-that-can-be-used-to-create-professional-qualit/"><u>In 2024, Kdenlive Is a Free, Open-Source Video Editing Software Application. Kdenlive Is a Powerful Video Editor that Can Be Used to Create Professional-Quality Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-your-own-lol-montage-video-for-2024/"><u>New How to Create Your Own LOL Montage Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-3-best-effects-to-appear-on-camera-made-with-filmora/"><u>New In 2024, 3 Best Effects to Appear on Camera Made with Filmora</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-driver-downloads-for-hp-officejet-pro-8715-compatible-with-windows-operating-systems-windows-11-10-and-8/"><u>Official Driver Downloads for HP OfficeJet Pro 8715 – Compatible with Windows Operating Systems [Windows 11, 10, and 8]</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/planetary-language-prestige-top-fifteen-countdown/"><u>Planetary Language Prestige – Top Fifteen Countdown</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/for-clearing-blank-youtube-playback-for-2024/"><u>Tips for Clearing Blank YouTube Playback for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-3-best-motion-blur-plugins-for-adobe-after-effects/"><u>Updated 2024 Approved 3 Best Motion Blur Plugins for Adobe After Effects</u></a></li>
 </ul></div>
 

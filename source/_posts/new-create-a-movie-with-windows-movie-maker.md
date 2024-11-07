@@ -1,7 +1,7 @@
 ---
 title: New Create a Movie with Windows Movie Maker
-date: 2024-10-31T04:35:07.620Z
-updated: 2024-10-31T19:34:28.869Z
+date: 2024-10-30T16:38:02.228Z
+updated: 2024-11-06T20:30:25.056Z
 tags: 
   - ai
   - animation videos
@@ -124,13 +124,6 @@ Step2 Once your video is imported, you can see it in the "Project Library". You 
 
 ![drag and drop video into timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Now that your video is in the timeline, you can start editing it. To do this, simply click on the item in the timeline you want to edit and then make your changes in the "Video Inspector" panel on the screen's right-hand side.
 
 ![click on item in timeline](https://images.wondershare.com/filmora/guide/filmora-split-video-option.jpg)
@@ -246,10 +239,10 @@ Search for Wondershare Filmora in the Google Play Store. The app is available fo
 ![filmora android](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Step 2: Import Your Video into Filmora**
@@ -306,6 +299,13 @@ Once you open the Filmora app, tap the + button and import the video you want to
 
 ![import files](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Step 3: Slow Down the Video**
 
 Once you have imported the video, slow it down to your desired speed. You have two ways to achieve this with Filmora for iPhone:
@@ -316,25 +316,11 @@ Tap on the video clip, and at the bottom of the screen, select the speed slider.
 
 ![uniform speed](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Method 2[**Use the Speed Ramping Feature**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 The speed ramping feature will gradually change the speed of your video. When done right, speed ramps in a video add a cinematic feel and look. Tap on the video clip. Then tap on the Speed Ramping feature at the bottom of the screen. Use the graph that appears to set the speed ramp for your video. You may choose the presets already available or customize the speed based on your own desired setting. Tap Done when you are satisfied and save the video.
 
 ![speed ramping](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 2.** **How to Make Slow Motion Videos on [Android with Filmora](https://play.google.com/store/apps/details): 2 Ways**
 
@@ -376,6 +362,13 @@ To use this feature on Filmora for Android, tap on the video clip and select the
 
 ![use speed ramping feature](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 Creating slow-motion videos is a vital skill in video editing. It improves visual storytelling and keeps your audience more engaging by focusing on the most important aspects of your videos. Wondering how to edit slo mo video on iPhone and Android devices, Wondershare Filmora offers an intuitive feature to do this. The user-friendly tool is effective in slowing down videos on both iPhone and Android phones. Download the app App Store for iPhone and Play Store for Android to enhance your slow-motion videos and unleash the creativity of mobile phone video editing.
@@ -414,13 +407,6 @@ Drag the Audio into the Timeline. Then, Drag your Video clip to Track 1 on the T
 
 ![drag clips to timeline](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4
 
 Double-click on the Video clip, go to the **Speed** tab, and change the **Speed** value to “**0.50”.** Click on **OK.**
@@ -433,13 +419,6 @@ Next, place the Playhead one frame before the first spike (beat) on the Audio cl
 
 ![split video](https://images.wondershare.com/filmora/article-images/2023/01/split.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 6
 
 Move the Playhead three frames forward → **Split** the video → click on the clip from the right → go to **Speed** → change it back to “**0.50”.** Do this same process as in **Steps 5 and 6** to every Audio spike (beat) you see on the audio clip.
@@ -449,6 +428,13 @@ Step 7
 That’s it! Render the video and you can watch the final preview. Congratulations on creating a TikTok velocity dance effect in Filmora.
 
 ![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Summary
 
@@ -497,10 +483,16 @@ Next, place the Playhead one frame before the first spike (beat) on the Audio cl
 ![split video](https://images.wondershare.com/filmora/article-images/2023/01/split.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 6
@@ -512,6 +504,13 @@ Step 7
 That’s it! Render the video and you can watch the final preview. Congratulations on creating a TikTok velocity dance effect in Filmora.
 
 ![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Summary
 
@@ -647,6 +646,13 @@ Have you ever wondered, what if somehow your keyboard just broken or disappeared
 
 This article will guide you how to use **stock videos** and **stock audio** to create a music video. The catch, you say? We will be doing that only with a use of a mouse.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Things To Know Before Editing
 
 Let us be honest, most shortcuts are not available without the keyboard. To counter that, our approach will need to be more general. **General** here means you need to know all the necessary controls and panels.
@@ -769,13 +775,6 @@ If you have time, you can also add a few of the effects in the Wondershare Filmo
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** you can do so as many times as you want for the remaining video clips in the timeline.
 
 It seems our 15 minutes are running out! Play the music video from the beginning and review the edits you made. Then, finalize your edits and Voila. You have successfully created a music video using a mouse on Wondershare Filmora.
@@ -821,6 +820,13 @@ It seems our 15 minutes are running out! Play the music video from the beginning
 
 So in a rare scenario when you don't have a keyboard, you can just use your mouse to browse the Wondershare Filmora and put those creative ideas to work.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 With just a mouse, you have created a music video! How easy is that? Try different music, audio, and video, and then enjoy the rest! Creativity has no limits if you know how to make the most of it by using the tools at your hand. Tell out more about your creative ideas! We love to hear from your side!
@@ -845,15 +851,18 @@ With just a mouse, you have created a music video! How easy is that? Try differe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-8-gold-text-wonders-in-the-vast-world-of-3d-sites/"><u>[Updated] 2024 Approved Top 8 Gold-Text Wonders in the Vast World of 3D Sites</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-leading-links-to-googles-advertising-networks-on-videos/"><u>[Updated] Leading Links to Google's Advertising Networks on Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-10-best-sony-lut-for-different-purposes/"><u>2024 Approved 10 Best Sony LUT for Different Purposes</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/iuwlleeuupluswuiewumuwmluakgoihkzog44ot44oh44kq44kr44oh44op5yaf6js15oml44g244km6koc5q2j5qmf6io944go44k944ov44oi44km44kn44kiig/"><u>動画安定化技術: ビデオカメラ内蔵手ぶれ補正機能とソフトウェア</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-in-canva/"><u>New 2024 Approved How to Add Subtitles in Canva?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-use-rule-of-thirds-in-video/"><u>New In 2024, How to Use Rule of Thirds in Video</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/securement-keeping-cameras-still-on-arms-only-for-2024/"><u>Shot Securement Keeping Cameras Still on Arms Only for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-secret-tips-and-tricks-to-use-in-filmora-for-2024/"><u>Updated Secret Tips & Tricks to Use in Filmora for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pro-camera-drones-10-elevating-film-and-photography-for-2024/"><u>[New] Pro Camera Drones #10 Elevating Film & Photography for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quick-swivel-techniques-vlcs-video-flipping-mastery/"><u>[New] Quick-Swivel Techniques VLC's Video Flipping Mastery</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-a-content-schedule-the-path-to-gaining-traction-on-youtube/"><u>Crafting a Content Schedule The Path to Gaining Traction on YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/cut-down-input-lag-in-cyberpunk-2077-tips-and-tricks-to-enhance-your-gaming-experience/"><u>Cut Down Input Lag in Cyberpunk 2077: Tips & Tricks to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-reddit-not-working-errors-across-different-platforms-including-iphone-android-and-pcs-windows-1011/"><u>How to Fix Reddit Not Working Errors Across Different Platforms Including iPhone, Android, and PCs (Windows 10/11)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-accelerated-photography-browser-for-11-os-users/"><u>In 2024, Accelerated Photography Browser for 11 OS Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-thankful-compilation-professional-and-personalized-otus/"><u>In 2024, Thankful Compilation Professional & Personalized OTUs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-best-audio-editors-to-remove-background-noise-from-audio-windows/"><u>New 2024 Approved Best Audio Editors to Remove Background Noise From Audio Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/review-expose-on-netgears-advanced-x6-wifi-mesh-enhancer-a-deep-dive-into-its-innovative-traits/"><u>Review Exposé on Netgear's Advanced X6 Wifi Mesh Enhancer – A Deep Dive Into Its Innovative Traits</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/solutions-for-fixing-misinstalled-ryzen-master-driver-on-your-pc/"><u>Solutions for Fixing Misinstalled Ryzen Master Driver on Your PC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/troubleshoot-your-apex-legends-engine-glitches-with-these-easy-steps/"><u>Troubleshoot Your Apex Legends Engine Glitches with These Easy Steps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-robust-audio-experience-in-bose-wires/"><u>Unveiling the Robust Audio Experience in Bose Wires</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-ultimate-imovie-soundtrack-tips-to-create-immersive-audio-landscapes/"><u>Updated In 2024, The Ultimate iMovie Soundtrack Tips to Create Immersive Audio Landscapes</u></a></li>
 </ul></div>
 

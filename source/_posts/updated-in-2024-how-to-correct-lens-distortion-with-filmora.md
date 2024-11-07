@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Correct Lens Distortion With Filmora
-date: 2024-10-27T21:00:56.290Z
-updated: 2024-10-31T20:21:03.749Z
+date: 2024-10-31T23:01:41.631Z
+updated: 2024-11-06T23:43:12.333Z
 tags: 
   - ai
   - animation videos
@@ -31,6 +31,19 @@ Lens distortion happens with all lenses. It is because of several things, such a
 
 Most geometric lens distortions happen when the focal distance is short (barrel distortion), long (pincushion distortion), or when a fish-eye lens is used to take a picture from a low angle (keystone distortion).
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to correct a distorted lens?
 
 A lot of times, with lower-end wide-angle lenses, especially action cams like GoPro, you get pretty gnarly distortion when you're filming. As we know, the Earth is round, but it shouldn't look like this when you take a picture. Indeed, it's very distorted, it has the horizon line bending all over the place, and basically, all of the lines in the video have some level of curvature.
@@ -58,6 +71,13 @@ You can see a bit of curvature, but it looks much more natural, and all of the l
 Step4 Lastly, if you play the video back, you will see the video look much better than before.
 
 ![play the video back](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-4.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to avoid distorted lens while shooting?
 
@@ -164,6 +184,13 @@ Step6 Tap on Share icon at the bottom and then tap on Save Video option to save 
 
 ![save video imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/save-video-imovie-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to add filters on Mac iMovie
 
 If you are someone who regularly makes videos for social media account or video streaming channel, you are more likely to record your video using a video camera and transfer the recorded video to you Mac for editing purposes. iMovie comes pre-installed on Mac, and therefore, once you have transferred the video, you can get started with editing and adding filters immediately. Here are the steps on how to add filters to iMovie on your Mac.
@@ -181,6 +208,13 @@ Step3 Click on the video clip on the Timeline and click on Crop Filter and Audio
 Step4 Click on Clip Filter option and you will see different filters in a window to the left. Place the mouse pointer over the filters, and you will see the filter in the Viewer.
 
 ![apply filters imovie mac](https://images.wondershare.com/filmora/article-images/2022/07/apply-filters-imovie-mac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 Once you are satisfied with a filter, click on that filter to apply it to the video clip.
 
@@ -218,6 +252,13 @@ Step2 Drag and drop video clips under Project Media folder. Thereafter, drag and
 
 ![drag and drop video clip](https://images.wondershare.com/filmora/guide/create-new-project-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Go to Effects from the top panel and click on Filters from the left panel. You will see all the different categories of filters.
 
 ![click on filters](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
@@ -236,6 +277,13 @@ If you are an iPhone user or a Mac user, you can add filters to your video using
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Change Video Speed with FFmpeg
 
 Have you ever wanted to speed up or slow down a video? Maybe it was too long, or you wanted to draw out an exciting part of the video without having to watch the boring parts.
@@ -245,19 +293,6 @@ In this article, we will be showing you how to use FFmpeg to speed up and slow d
 Finally, we will explain how to automate these commands so that you can run them on all your videos with ease.
 
 ![how to automate these commands](https://images.wondershare.com/filmora/article-images/2023/01/change-video-speed-ffmeg-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. What is FFmpeg?
 
@@ -277,13 +312,6 @@ You could think of it as the Swiss army knife for video manipulation tasks. The 
 
 The most important thing to know before getting started with this is how to use FFmpeg's -i and -v flags for input and output, respectively. To apply effects like slow motion playback or fast motion playback, use these flags in tandem with one another when specifying which file should be edited.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Benefits and Disadvantages of FFmpeg
 
 FFmpeg has many benefits over other video editing software because it is free and open source, meaning that you have access to the code so that you can modify it if needed. Thus, it's a better option when compared to other video editing software such as Avidemux, QuickTime Pro 7, and Adobe Premiere Elements 12\. Some of these benefits include:
@@ -300,13 +328,6 @@ Another possible disadvantage is the time required for downloading the various r
 ## Part 2\. How to Speed Up a Video in FFmpeg?
 
 FFmpeg can be used to speed up videos. It's not the only option, but it's one of the most common ways to make your videos faster. If you want your video to be faster, then FFmpeg is the right tool for the job. Some speed-up features include: FFmpeg speed up video and audio, ffmpeg speed up video mp4, ffmpeg change video speed, and so on.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The Ultimate Step-by-Step Guide to speed up a video in FFmpeg
 
@@ -327,13 +348,6 @@ Step4 According to the documentation, fast motion requires: -filter:v setpts=0.5
 Step5 Click Enter.
 
 ![click enter](https://images.wondershare.com/filmora/article-images/2023/01/change-video-speed-ffmeg-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step6 The result would be a sped-up version of your video.
 
@@ -525,13 +539,6 @@ _ffmpeg -f concat -safe 0 -i join\_video.txt -c copy output\_demuxer.mp4_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note: _\-safe 0_** is added to accept any file name.
 
 **_\-c copy_** will copy all the streams.
@@ -549,6 +556,13 @@ Step1 **Run** the FFmpeg command:
 _ffmpeg -i "concat:input1.ts|input2.ts" -c copy output\_protocol.ts_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** The concat protocol allows you to "stream copy" the files by adding the option **_\-c copy_**.
 
@@ -585,13 +599,6 @@ Step3 Tell FFmpeg to concatenate three files (n=3).
 _concat=n=3:v=1:a=1 \[vv\] \[aa\]" \\_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** The **v=1:a=1** implies one stream for the audio and one stream for the video.
 
@@ -645,23 +652,9 @@ Step1 **Open** Filmora and **click** "**New** **Project**."
 
 ![filmora new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 **Go to** "**File**" > "**Import Media**" > "**Import Media Files**" to **add** your video files to the media library.
 
 ![filmora import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 **Drag** and **drop** the files you want to merge from the media library to the timeline, and then you'll get the merged video seamlessly.
 
@@ -795,6 +788,13 @@ Step2 **Go to** "**File**" > "**Import Media**" > "**Import Media Files**" to **
 
 ![filmora import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 **Drag** and **drop** the files you want to merge from the media library to the timeline, and then you'll get the merged video seamlessly.
 
 ![filmora add media](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
@@ -827,18 +827,19 @@ FFmpeg is a powerful tool that allows you to concatenate videos in various ways.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-achieving-the-pinnacle-of-color-accuracy-in-11-crucial-edits/"><u>[New] Achieving the Pinnacle of Color Accuracy in 11 Crucial Edits</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-subtitled-content-download-without-paying/"><u>[Updated] 2024 Approved Free YouTube Subtitled Content Download Without Paying</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-low-cost-high-impact-spherical-videography-devices/"><u>2024 Approved Low Cost, High Impact Spherical Videography Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-precision-recording-tips-for-gamers-and-videographers/"><u>2024 Approved Precision Recording Tips for Gamers and Videographers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-add-green-screen-eff/"><u>Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-of-epson-wf-2750-printer-software-and-installation-instructions/"><u>Easy Download of Epson WF-2750 Printer Software & Installation Instructions</u></a></li>
-<li><a href="https://techidaily.com/guide-activating-windows-latest-test-features-with-vivetool/"><u>Guide: Activating Windows' Latest Test Features with ViVeTool</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-transitions-in-adobe-premiere-pro/"><u>New How to Add Transitions in Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-in-canva-editor/"><u>New How to Loop a Video in Canva Editor</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/this-article-aims-to-show-you-how-to-improve-your-lighting-in-the-sun/"><u>This Article Aims to Show You How to Improve Your Lighting in the Sun</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-8-best-sites-to-get-glitch-transition-for-premiere-pro/"><u>Updated In 2024, 8 Best Sites to Get Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/zoom-mastery-on-snapchat-capturing-striking-images-and-videos/"><u>Zoom Mastery on Snapchat Capturing Striking Images & Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/bitraser-pro-comprehensive-tutorial-on-secure-data-destruction-via-video/"><u>BitRaser Pro: Comprehensive Tutorial on Secure Data Destruction via Video</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/customize-twitter-video-snapshot/"><u>Customize Twitter Video Snapshot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-ai-chatbot-technology-insights-into-its-popular-surge/"><u>Exploring AI Chatbot Technology: Insights Into Its Popular Surge</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-in-windows-1110-by-drivereasy-guide/"><u>How to install hardware device drivers manually in Windows 11/10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-nokia-c300-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Nokia C300 Device SIM</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-12-pro-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme 12 Pro 5G</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/is-windows-movie-maker-still-available-in-2024/"><u>Is Windows Movie Maker Still Available, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-are-you-in-search-for-a-step-by-step-guide-to-how-to-add-effects-in-tiktok-here-it-is-to-add-some-flavor-to-your-tiktok-videos-use-these-how-to-add-effe/"><u>New Are You in Search for a Step-by-Step Guide to How to Add Effects in TikTok? Here It Is. To Add some Flavor to Your TikTok Videos. Use These How to Add Effect to TikTok Recommendations</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-optimization-update-sharper-graphics-and-enhanced-clarity-fix/"><u>Outriders Optimization Update: Sharper Graphics and Enhanced Clarity Fix</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-a-lut-that-you-can-use-for-your-high-definition-content-you-can-use-rec-709-lut-premiere-pro-for-your-hd-digital-media-to-give-the-perfe/"><u>Updated Do You Want a LUT that You Can Use for Your High-Definition Content? You Can Use Rec 709 LUT Premiere Pro for Your HD Digital Media to Give the Perfect Result</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-ninja-jump-effect-with-filmora/"><u>Updated How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winapi-deficit-microsoft-runtime-layer-1/"><u>WinAPI Deficit: Microsoft Runtime Layer 1</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/alafdl-5-trk-lizala-krs-mstnskh-mn-windows-11-alklam-oalaamlyat/"><u>الأفضل 5 طرق لإزالة قرص مستنسخ من Windows 11: الكلام والعمليات</u></a></li>
 </ul></div>
 

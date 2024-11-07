@@ -1,7 +1,7 @@
 ---
 title: New Applying the Effect of Camera Shake in Video Creation
-date: 2024-09-26T18:14:40.054Z
-updated: 2024-10-03T06:57:39.037Z
+date: 2024-10-31T00:22:22.916Z
+updated: 2024-11-06T22:56:05.037Z
 tags: 
   - ai
   - animation videos
@@ -85,13 +85,6 @@ In the “Effects” section on the bottom-left of the screen, look for the “T
 
 ![pick up transform effect](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 2
 
 Continue to the effects settings that open on the top-left section of the Premiere Pro screen. Change the "Scale" and set the "Position" keyframes on the left and right side of the video frames. Do this for the frames throughout the video in Premiere Pro.
@@ -103,6 +96,13 @@ Continue to the effects settings that open on the top-left section of the Premie
 For adding motion blur in your **camera shake effect** video, uncheck the "Use Composition's Shutter Angle" and set it to "360" degrees. This completes the camera shake, which can be easily exported to the computer.
 
 ![set shutter angle](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: A Step-by-Step Understanding of How To Create a Camera Shake Effect with Filmora
 
@@ -125,13 +125,6 @@ To [make the camera shake video](https://www.youtube.com/watch?v=a1MdfXL2ulA) wi
 To add a camera shake effect, go to the "Effects" tab and click "Search Bar." Next, search for an appropriate camera shake effect and hit the "Download" icon on the effect of your choice. Once the effect is downloaded, drag it on the video in the timeline and customize it as needed.
 
 ![add and adjust effect](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3Export Camera Shake Video
 
@@ -215,18 +208,18 @@ To add a camera shake effect, go to the "Effects" tab and click "Search Bar." Ne
 
 ![add and adjust effect](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3Export Camera Shake Video
 
 Finally, go to "Export" and manage "Format," "Preset," "Frame Rate," and other parameters of the video. Next, hit the "Export" button to save the video on your computer.
 
 ![execute camera shake effect on video](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -246,13 +239,6 @@ Moreover, Filmora can add exquisite level camera shake effects in videos, and yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Discover the Process of Slowing Down Time-Lapse Videos on Your iPhone
 
@@ -416,6 +402,13 @@ Next, we want to add a freeze frame to the section where the eye opens fully. To
 
 ![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
 
 ##### Step 3 Add a masking effect to the eye
@@ -484,13 +477,6 @@ With that done, move the playhead to the start of the freeze frame video and dou
 
 ![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
 
 ## Summary
@@ -506,10 +492,16 @@ First, you need to create a close-up eye video. Although you can do that with yo
 ![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create an Eye-zoom Transition
@@ -547,6 +539,13 @@ With that done, move the playhead to the start of the freeze frame video and dou
 ![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
 
 After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -567,6 +566,13 @@ Luckily, there's an easy way to create Facebook video ads that look great withou
 In this article, we'll show you how to use Filmora to create eCommerce video ads that will help boost your sales.
 
 ![facebook ecommerce video ads](https://images.wondershare.com/filmora/article-images/2022/09/facebook-ecommerce-video-ads.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Video Ads Are Effective for E-commerce Business
 
@@ -613,10 +619,10 @@ It is important to use the correct project aspect ratio when creating a Facebook
 ![select aspect ratio fb video ads](https://images.wondershare.com/filmora/article-images/2022/09/select-aspect-ratio-fb-video-ads.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step5Import your media files into Filmora
@@ -721,6 +727,13 @@ Now that you have all of your content imported into Filmora, you can start editi
 
 ![set bg color fb video](https://images.wondershare.com/filmora/article-images/2022/09/set-bg-color-fb-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step7Add Catchy headline and text
 
 This will help to grab the viewer's attention and explain what your video is about. To do this, go to the "Titler" tab and select the "Titles" option. Then, click on the "Text" tab and type in your headline. You can also add some text to the video by going to the "Text" tab and clicking on the "Add Text" option.
@@ -750,13 +763,6 @@ You can also add some transitions between the video clips by going to the "Trans
 Adding music to your video will help to set the mood and make your video more engaging. To do this, go to the "Audio" section the select your desired background music for your video. You can also download "no copyright background music" on Youtube.
 
 ![add music facebook video ads](https://images.wondershare.com/filmora/article-images/2022/09/add-music-facebook-video-ads.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Drag and drop the audio file into place on the timeline. You can also use the "Fade In" and "Fade Out" options to make the music flow better with the video.
 
@@ -800,17 +806,24 @@ Now that you know how to create a Facebook video ad, it's time to start creating
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-captivating-video-content-tips-for-pinterest-boards/"><u>[New] 2024 Approved Captivating Video Content Tips for Pinterest Boards</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unlock-the-secrets-to-creating-instagram-hits-with-engaging-unboxing-videos/"><u>[New] 2024 Approved Unlock the Secrets to Creating Instagram Hits with Engaging Unboxing Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mold-memorable-memes-via-giphy/"><u>[Updated] Mold Memorable Memes via Giphy</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-easiest-fix-included-top-5-ways-to-convert-hdr-to-sdr-videos/"><u>2024 Approved Easiest Fix Included! Top 5 Ways to Convert HDR to SDR Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-swift-introduction-the-art-of-green-screening/"><u>2024 Approved Swift Introduction The Art of Green Screening</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-after-effe/"><u>In 2024, Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/lyric-warriors-against-ai-and-pasture-pals-llm-showdown/"><u>Lyric Warriors Against AI and Pasture Pals: LLM Showdown</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954212516-new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video-for-2024/"><u>New Ultimate Guide on How To Plan and Storyboard a Music Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-virtual-green-screen-to-shoot-video-for-2024/"><u>Updated How To Use Virtual Green Screen to Shoot Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-clone-yourself-in-videos-with-filmora/"><u>Updated In 2024, Clone Yourself in Videos with Filmora</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/xiaomi-mix-fold-3-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Xiaomi Mix Fold 3 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-hd-encoding-devices-for-live-events/"><u>[New] Ultimate HD Encoding Devices for Live Events</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-create-slow-motion-videos-using-final-cut-pro-with-ease/"><u>2024 Approved Create Slow Motion Videos Using Final Cut Pro with Ease</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-overlay-video-in-premiere-pro/"><u>2024 Approved How to Overlay Video in Premiere Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-media-conversion-with-actionable-steps-from-xml/"><u>2024 Approved Mastering Media Conversion with Actionable Steps From XML</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-superb-phone-video-and-photo-capturing-with-best-apps-list/"><u>2024 Approved Superb Phone Video & Photo Capturing with Best Apps List</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decode-the-security-of-your-home-network-finding-wi-fi-passwords-on-windows-11/"><u>Decode the Security of Your Home Network: Finding Wi-Fi Passwords on Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/epic-gamers-guide-fortnite-season-return-new-adventures-and-challenges/"><u>Epic Gamer's Guide: Fortnite Season Return - New Adventures and Challenges</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gutachtenfreundliche-antworten-zum-kauf-von-winx-alles-uber-die-dvd-video-software/"><u>Gutachtenfreundliche Antworten Zum Kauf Von WinX: Alles Über Die DVD-Video Software</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-6-plus-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 6 Plus to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies/"><u>Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-creating-testimonial-videos-for-health-and-wellness-business-industry-for-2024/"><u>New Creating Testimonial Videos For Health And Wellness Business Industry for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/shotcut-review-is-it-the-best-free-video-editor-for-2024/"><u>Shotcut Review – Is It The Best Free Video Editor for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ified-steps-for-youtube-shorts-thumbnails-setup-for-2024/"><u>Simplified Steps for YouTube Shorts Thumbnails Setup for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/stream-to-record-essential-know-how-for-tv-capture/"><u>Stream to Record Essential Know-How for TV Capture</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-achieving-gopro-slow-motion-with-quality-an-in-depth-overview/"><u>Updated 2024 Approved Achieving GoPro Slow Motion with Quality An In-Depth Overview</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-remove-audio-from-video-without-watermark/"><u>Updated How to Remove Audio From Video Without Watermark?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/you-can-easily-film-rotating-video-illusions-from-your-smartphone-and-edit-them-on-wondershare-filmora-in-just-a-few-clicks-for-2024/"><u>You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks for 2024</u></a></li>
 </ul></div>
 

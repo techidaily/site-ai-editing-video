@@ -1,7 +1,7 @@
 ---
 title: Updated Shoot Video with Virtual Green Screen
-date: 2024-10-27T17:52:38.631Z
-updated: 2024-11-01T05:12:58.224Z
+date: 2024-11-05T20:16:59.424Z
+updated: 2024-11-07T00:01:46.785Z
 tags: 
   - ai
   - animation videos
@@ -95,25 +95,11 @@ Please note that your recorded green screen video is above the replacement video
 
 ![replacement](https://images.wondershare.com/filmora/article-images/replacement.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Double-click on the recorded video and you will see a panel on the upper-left side. From that panel, turn on Chroma Key option. We have already stated that green screen effect is technically referred to as Chroma Key.
 
 Now you will the superimposed version of the replacement video effect on the green screen background of your recorded video.
 
 ![background](https://images.wondershare.com/filmora/article-images/background.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
 
@@ -249,6 +235,19 @@ After getting our sequence to perform some kind of slow, understated animation s
 
 ![add to render queue after effects](https://images.wondershare.com/filmora/article-images/2022/11/add-to-render-queue-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 No matter how you make your time lapse videos, After Effects has a ton of features you can use to modify and enhance the way they look. Now that you are familiar with the fundamentals, you can play with the Frame Rates and Composition options. Check out this helpful manual for more information on Time Stretching and Remapping in After Effects.
@@ -277,13 +276,6 @@ The first and essential step in creating a music video is planning. This is wher
 
 ![graphical text of initial ideas](https://images.wondershare.com/filmora/article-images/2023/04/graphical-text-of-initial-ideas.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step1Research and gather information
 
 You can begin by researching and gathering information from other music videos. This will help you to know what has been done before and what is currently popular. You can also figure out how you can do it differently.
@@ -310,6 +302,13 @@ While creating ideas for the music video, it's also important to consider the st
 
 ![types of music video style](https://images.wondershare.com/filmora/article-images/2023/04/types-of-music-video-style.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.Performance-style music video
 
 If you want to showcase energy and charisma in your music video, go for a performance-style music video. This video style focuses on you and your band performing live in front of an audience. You can shoot a video in a single take with minimal cuts or feature different angles and shots. The key is to capture the raw energy and emotion of the performance.
@@ -324,14 +323,14 @@ Once you have an idea of what you want your music video to be about, you can put
 
 ![treatment of the plan](https://images.wondershare.com/filmora/article-images/2023/04/treatment-of-the-plan.jpg)
 
-If the artist approves the direction of the video, it's time to move on to storyboarding!
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If the artist approves the direction of the video, it's time to move on to storyboarding!
 
 ## Storyboard your music video
 
@@ -381,18 +380,18 @@ You can right-click on the picture's timeline and select **Crop to fit** to adju
 
 ![selecting crop to fit](https://images.wondershare.com/filmora/article-images/2023/04/selecting-crop-to-fit.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step6Add effects
 
 You can also simulate transitions and effects in the clips. Let's suppose you want to show a zoom-in shot. Then you would click on the picture frame and the keyframe option just above the timeline. Now keyframe the position and scale of the clip according to you.
 
 ![adding keyframe to the pictures](https://images.wondershare.com/filmora/article-images/2023/04/adding-keyframe-to-the-pictures.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once you feel like your clips sync with the song, you are ready to start planning for the production of your music video.
 
@@ -442,13 +441,6 @@ You can right-click on the picture's timeline and select **Crop to fit** to adju
 
 ![selecting crop to fit](https://images.wondershare.com/filmora/article-images/2023/04/selecting-crop-to-fit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step6Add effects
 
 You can also simulate transitions and effects in the clips. Let's suppose you want to show a zoom-in shot. Then you would click on the picture frame and the keyframe option just above the timeline. Now keyframe the position and scale of the clip according to you.
@@ -467,6 +459,19 @@ We hope this blog has given you a better understanding of how planning and story
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Quick and Simple Way to Mirror Video in Premiere Pro
 
 Video editing is a crucial part of filmmaking, and it can make or break the outcome of a project. Adobe Premiere Pro is a widely used video editing software that provides a vast range of tools for professional video editing. One of the features that Premiere Pro offers is the ability to mirror video clips, which can add an interesting visual element to your footage.
@@ -474,6 +479,19 @@ Video editing is a crucial part of filmmaking, and it can make or break the outc
 In this article, we will look at how to mirror a video clip in Premiere Pro in a few simple steps. Whether you're a seasoned video editor or just starting, this guide will help you achieve the desired effect in your videos. From basic mirroring to advanced techniques, we will cover everything you need to know to create a symmetrical and visually appealing look in your projects.
 
 ![mirror videos in adobe premiere pro](https://images.wondershare.com/filmora/article-images/adobe-premiere-pro-mirror-video.JPG)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is To "Mirror" a Video?
 
@@ -502,13 +520,6 @@ Step3 **Pick** the "**Horizontal** **Flip**" or "**Vertical** **Flip**" from the
 Step4 **Drag** the desired flip onto the selected clip, which will immediately reverse the image displayed on the Program Monitor.
 
 ![adobe premiere pro apply effect](https://images.wondershare.com/filmora/article-images/adobe-premiere-pro-apply-effect.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How To Create Mirror Video Effect in Premiere Pro
 
@@ -558,6 +569,13 @@ Step2 You can **rotate** the clip by clicking either the "**Clockwise**" or "**C
 
 ![filmora rotate clockwise or counterclockwise](https://images.wondershare.com/filmora/article-images/filmora-rotate-clockwise-or-counterclockwise.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 If you want to specify the rotation angle, you can either **enter** a value in the box under the Rotate tab or **manipulate** the dot in the circle to achieve the desired angle.
 
 ![filmora edit rotation angle](https://images.wondershare.com/filmora/article-images/filmora-edit-rotation-angle.jpg)
@@ -576,13 +594,6 @@ Step2 **Click** the "**Filters**" icon and **choose** the "**Distortion**" categ
 
 ![filmora distortion effects](https://images.wondershare.com/filmora/article-images/filmora-distortion-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 **Locate** the "**Mirror**" effect, **drag and drop** it to the filter track, and **adjust** its duration to match the video clip
 
 ![filmora add mirror effect](https://images.wondershare.com/filmora/article-images/filmora-add-mirror-effect.jpg)
@@ -598,6 +609,13 @@ Mirroring a video can add an interesting and unique visual effect to your videos
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![filmora flip tool](https://images.wondershare.com/filmora/article-images/filmora-flip-tool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Filmora also offers a variety of creative video effects and templates, making it easy to add a unique touch to your projects. In addition, its built-in audio editing tools allow you to create professional-sounding soundtracks for your videos. Filmora's easy-to-use keyframe animation feature gives you precise control over the animation of your elements, allowing you to add movement and bring your videos to life.
 
@@ -665,22 +683,20 @@ Mirroring a video can add an interesting and unique visual effect to your videos
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-discovering-the-leading-speech-to-text-apps-for-ipads-3/"><u>[New] In 2024, Discovering the Leading Speech-to-Text Apps for iPads #3</u></a></li>
-<li><a href="https://common-error.techidaily.com/play-game-induced-system-resets/"><u>[PLAY] Game-Induced System Resets</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-channel-upgrade-the-beginners-roadmap-to-video-mastery/"><u>[Updated] 2024 Approved Channel Upgrade The Beginner's Roadmap to Video Mastery</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-gif-building-an-understanding/"><u>2024 Approved How To Slow Down GIF Building an Understanding</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-the-dynamics-of-youtubes-creator-payments/"><u>2024 Approved The Dynamics of YouTube's Creator Payments</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-try-these-10-music-video-templates-to-make-your-work-easy/"><u>2024 Approved Try These 10 Music Video Templates To Make Your Work Easy</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-and-applying-themes-directly-from-ms-store/"><u>Configuring and Applying Themes Directly From MS Store</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-auditory-landscapes-in-your-videos-for-2024/"><u>Crafting Auditory Landscapes in Your Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easily-sync-audio-with-video-with-filmora/"><u>Easily Sync Audio With Video With Filmora</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-download-and-update-of-dells-built-in-speakers-drivers/"><u>Effortless Download and Update of Dell's Built-In Speakers Drivers</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-6-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-ideas-for-time-lapse-video/"><u>New Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-5-free-online-video-filter-editors/"><u>New Top 5 Free Online Video Filter Editors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-guide-overcoming-2017-macbook-pro-upgrade-challenges-expert-fixes-and-tips/"><u>Troubleshooting Guide: Overcoming 2017 MacBook Pro Upgrade Challenges - Expert Fixes & Tips</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-blur-photo-with-gimp-step-by-step-guide/"><u>Updated Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-installation-guide-for-movie-maker-6-version-6/"><u>[New] 2024 Approved Installation Guide for Movie Maker 6 Version 6</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-photo-editing-achieving-focus-with-distortions/"><u>[New] Photo Editing Achieving Focus with Distortions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-scorching-speedways-ranking-the-top-5-virtual-race-titles/"><u>2024 Approved Scorching Speedways Ranking the Top 5 Virtual Race Titles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-5-best-monitors-to-complement-your-ps5-xbox-series-x/"><u>2024 Approved The 5 Best Monitors to Complement Your PS5, Xbox Series X</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/a-guide-to-adding-audio-in-wondershare-filmora/"><u>A Guide to Adding Audio in Wondershare Filmora</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/guida-completa-per-risolvere-i-problemi-cronologici-di-file-in-windows-11/"><u>Guida Completa per Risolvere I Problemi Cronologici Di File in Windows 11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-7-tips-to-create-teaching-videos/"><u>New 2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-top-10-sony-lut-for-different-purposes/"><u>New 2024 Approved Top 10 Sony LUT for Different Purposes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-download-and-use-windows-movie-maker-10/"><u>New How to Download and Use Windows Movie Maker 10</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-working-out-all-important-details-of-slowing-down-video-in-after-effects/"><u>New Working Out All Important Details of Slowing Down Video in After Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-faded-screen-settings-in-uefi/"><u>Restoring Faded Screen Settings in UEFI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-pick-in-affordable-laptops-how-the-299-hp-stream-outshines-budget-competitors-insights-by-zdnet-experts/"><u>Top Pick in Affordable Laptops: How the $299 HP Stream Outshines Budget Competitors – Insights by ZDNET Experts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-before-and-after-editing-trick-filmora/"><u>Updated In 2024, Before & After Editing Trick - Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-renderforest-is-a-great-online-editing-platform-to-use-for-many-video-creators-if-you-want-to-make-an-intro-video-for-your-channel-or-daily-vlogs-yo/"><u>Updated Renderforest Is a Great Online Editing Platform to Use for Many Video Creators. If You Want to Make an Intro Video for Your Channel or Daily Vlogs, You Can Follow This Article to Know More Details</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-stability-issues-how-to-prevent-frequent-pc-crashes/"><u>Warzone 2.0 Stability Issues - How to Prevent Frequent PC Crashes</u></a></li>
 </ul></div>
 

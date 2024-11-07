@@ -1,7 +1,7 @@
 ---
 title: In 2024, Detailed Guide to Rotate Videos in Blender
-date: 2024-10-30T18:59:50.688Z
-updated: 2024-11-01T03:18:11.154Z
+date: 2024-11-05T19:33:28.233Z
+updated: 2024-11-06T22:25:06.478Z
 tags: 
   - ai
   - animation videos
@@ -91,12 +91,102 @@ Step 1: Import the video clip you want to rotate to your project.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
 
+Step 2: In the timeline, place the playhead at the beginning of the clip.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
+
+Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
+
+Step 4: Move the playhead to the end of the clip and drag the rotation handle again to rotate it further.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
+
+To rotate a video clip using the Transform Tool...
+
+Select the "Edit" tool from the toolbar.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
+
+Go to the “Transform” selection, then select the rotate option.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Adjust the rotation angle using the tool.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
+
+Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
+
+Step 2: Then, click on the "Strip" menu and select "Transform."
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
+
+Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
+
+Step 4: Click on Enter to save the rotation of the video.
+
+The second way to rotate a video in Blender is by using the Transform Properties window. To do this...
+
+Step 1: Open the video that you want to rotate in Blender.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
+
+Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
+
+ Figure 5
+
+Step 3: Go to the ‘Transform’ option in the properties window and adjust based on the rotational angle that you want.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
+
+Step 4: Click on ‘Enter’ to apply it to the video.
+
+In this tutorial, we have shown you two different ways to rotate a video in Blender. The first way is by using the Transform Properties window, and the second way is by using the 3D Viewport.
+
+Which method you use is up to you. However, we recommend using the 3D Viewport method, as it is more accurate.
+
+Rotating a video in Blender can be used for other purposes than just rotating it.
+
+Here are some other things that you can do with a rotated video:
+
+\- Scale the video up or down
+
+\- Flip the video horizontally or vertically
+
+\- Change the position of the video in the 3D Viewport
+
+## How to rotate videos in Filmora
+
+Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate a video without any watermark. Filmora is a video editing software that lets you rotate videos easily. It is simple to use, and has many powerful features that let you edit your videos like a pro. It also has a built-in video converter that lets you convert your videos to different formats, so they can be played on any device. You can also export your videos in 4K resolution, so they look great no matter what device you are watching them on.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
+
+### Step-by-step on how to rotate videos in Filmora
+
+To rotate a video clip using keyframes...
+
+Step 1: Import the video clip you want to rotate to your project.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
 
 Step 2: In the timeline, place the playhead at the beginning of the clip.
 
@@ -119,24 +209,18 @@ Select the "Edit" tool from the toolbar.
 Go to the “Transform” selection, then select the rotate option.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
-
-Adjust the rotation angle using the tool.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+Adjust the rotation angle using the tool.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
+
 Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
 
 Step 2: Then, click on the "Strip" menu and select "Transform."
@@ -178,6 +262,13 @@ Here are some other things that you can do with a rotated video:
 \- Flip the video horizontally or vertically
 
 \- Change the position of the video in the 3D Viewport
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to rotate videos in Filmora
 
@@ -233,9 +324,23 @@ Step 2: Then, click on the "Strip" menu and select "Transform."
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Click on Enter to save the rotation of the video.
 
@@ -283,95 +388,12 @@ For macOS 10.14 or later
 
 There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
 
-### Step-by-step on how to rotate videos in Filmora
-
-To rotate a video clip using keyframes...
-
-Step 1: Import the video clip you want to rotate to your project.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
-
-Step 2: In the timeline, place the playhead at the beginning of the clip.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
-
-Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
-
-Step 4: Move the playhead to the end of the clip and drag the rotation handle again to rotate it further.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
-
-To rotate a video clip using the Transform Tool...
-
-Select the "Edit" tool from the toolbar.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
-
-Go to the “Transform” selection, then select the rotate option.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
-
-Adjust the rotation angle using the tool.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
-
-Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
-
-Step 2: Then, click on the "Strip" menu and select "Transform."
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
-
-Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
-
-Step 4: Click on Enter to save the rotation of the video.
-
-The second way to rotate a video in Blender is by using the Transform Properties window. To do this...
-
-Step 1: Open the video that you want to rotate in Blender.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
-
-Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
-
- Figure 5
-
-Step 3: Go to the ‘Transform’ option in the properties window and adjust based on the rotational angle that you want.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
-
-Step 4: Click on ‘Enter’ to apply it to the video.
-
-In this tutorial, we have shown you two different ways to rotate a video in Blender. The first way is by using the Transform Properties window, and the second way is by using the 3D Viewport.
-
-Which method you use is up to you. However, we recommend using the 3D Viewport method, as it is more accurate.
-
-Rotating a video in Blender can be used for other purposes than just rotating it.
-
-Here are some other things that you can do with a rotated video:
-
-\- Scale the video up or down
-
-\- Flip the video horizontally or vertically
-
-\- Change the position of the video in the 3D Viewport
-
-## How to rotate videos in Filmora
-
-Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate a video without any watermark. Filmora is a video editing software that lets you rotate videos easily. It is simple to use, and has many powerful features that let you edit your videos like a pro. It also has a built-in video converter that lets you convert your videos to different formats, so they can be played on any device. You can also export your videos in 4K resolution, so they look great no matter what device you are watching them on.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step-by-step on how to rotate videos in Filmora
 
@@ -562,13 +584,6 @@ Now, take a snapshot of the text. Then, double-click on the default title again 
 
 ![take snapshot in filmora](https://images.wondershare.com/filmora/article-images/2023/01/snapshot.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You should have two snapshots in **My Media** now. One of them should say “FILMORA” and one with the letter “I”.
 
 ![media center in filmora](https://images.wondershare.com/filmora/article-images/2023/01/my-media.png)
@@ -578,19 +593,6 @@ Step 5
 Drag the “FILMORA” snapshot to track 2 and the “I” snapshot to track 3\. Then, click on the “Zoom” button and set this to 50%.
 
 ![zoom option in filmora](https://images.wondershare.com/filmora/article-images/2023/01/zoom.png)
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 6
 
@@ -603,6 +605,126 @@ Step 7
 Copy the “I” snapshot track from the timeline. Then, paste it on Track 4\. Next, double-click on this one and change the X-axis position to whichever letter you want. In this case, it’s the letter “M”. As for the Y-Axis, you can change it any way that suits you.
 
 ![text animations in filmora](https://images.wondershare.com/filmora/article-images/2023/01/track-4.png)
+
+Step 8
+
+Copy this process as often and with as many letters as you want. Then, when you’re done, export the title animation to your computer.
+
+![export project in filmora](https://images.wondershare.com/filmora/article-images/2023/01/export.png)
+
+Step 9
+
+Open a new project in Filmora and import the title animation we just created.
+
+Step 10
+
+Drag the custom title animation to Track 2 and drag any video background you have on Track 1.
+
+![insert video background filmora](https://images.wondershare.com/filmora/article-images/2023/01/background.png)
+
+Step 11
+
+Double-click on the title track, go to the Video tab, and select “**Lighten**” from the **Blending Mode** tab.
+
+![blending mode lighten in filmora](https://images.wondershare.com/filmora/article-images/2023/01/lighten.png)
+
+Step 12
+
+Shift the title clip from Track 2 to Track 3\. Then, go to the **Effects** tab and drag the **Dark Film** effect to Track 1 on the timeline.
+
+![dark film effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/dark-film.png)
+
+Step 13
+
+Search for the “Blur” effect in the Effects tab. Then, drag “**Square Blur**” to Track 2 in the timeline.
+
+![blur effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
+
+Step 14
+
+Select the “**Cinema**” effect from the Effects tab and drag it to Track 4\. Double-click on it and change the border height to **0.10**.
+
+![cinematic bar filmora](https://images.wondershare.com/filmora/article-images/2023/01/cinema.png)
+
+Step 15
+
+Now, all left is to render the clip and review the final result.
+
+![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Summary
+
+**What you've learned:**
+
+* Create a professional-level animated text in Filmora in 15 simple steps
+* How to add a video background and cinematic effects to your animated title
+* Adjust the settings of clips in the Filmora timeline
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+Download and install the [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/). Just click the link, hit “**Download**”, and it will start automatically. Then, open a New Project.
+
+Step 2
+
+Click on the “**Titles**” tab and drag a Default Title to Track 2 on your Timeline.
+
+![drag title in timeline filmora](https://images.wondershare.com/filmora/article-images/2023/01/title.png)
+
+Step 3
+
+Double-click on it and change the font to anything you like. Then, enter the text in the box in front of you. While you’re here, you can also edit the text spacing and other features.
+
+![edit title in filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
+
+Step 4
+
+Now, take a snapshot of the text. Then, double-click on the default title again and change the text to a single letter I. Once again, take a snapshot of this text and then delete the default title from the timeline.
+
+![take snapshot in filmora](https://images.wondershare.com/filmora/article-images/2023/01/snapshot.png)
+
+You should have two snapshots in **My Media** now. One of them should say “FILMORA” and one with the letter “I”.
+
+![media center in filmora](https://images.wondershare.com/filmora/article-images/2023/01/my-media.png)
+
+Step 5
+
+Drag the “FILMORA” snapshot to track 2 and the “I” snapshot to track 3\. Then, click on the “Zoom” button and set this to 50%.
+
+![zoom option in filmora](https://images.wondershare.com/filmora/article-images/2023/01/zoom.png)
+
+Step 6
+
+Double-click on the “I” snapshot from the timeline. Then, input these settings when the window pops up. After that, drag the Playhead 1 second and 15 frames further down the timeline. Then, double-click on the “I” snapshot again, and change the Y-axis value to 0.
+
+![animate text in filmora](https://images.wondershare.com/filmora/article-images/2023/01/text-animation.png)
+
+Step 7
+
+Copy the “I” snapshot track from the timeline. Then, paste it on Track 4\. Next, double-click on this one and change the X-axis position to whichever letter you want. In this case, it’s the letter “M”. As for the Y-Axis, you can change it any way that suits you.
+
+![text animations in filmora](https://images.wondershare.com/filmora/article-images/2023/01/track-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 8
 
@@ -682,13 +804,6 @@ Double-click on it and change the font to anything you like. Then, enter the tex
 
 ![edit title in filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4
 
 Now, take a snapshot of the text. Then, double-click on the default title again and change the text to a single letter I. Once again, take a snapshot of this text and then delete the default title from the timeline.
@@ -710,133 +825,6 @@ Step 6
 Double-click on the “I” snapshot from the timeline. Then, input these settings when the window pops up. After that, drag the Playhead 1 second and 15 frames further down the timeline. Then, double-click on the “I” snapshot again, and change the Y-axis value to 0.
 
 ![animate text in filmora](https://images.wondershare.com/filmora/article-images/2023/01/text-animation.png)
-
-Step 7
-
-Copy the “I” snapshot track from the timeline. Then, paste it on Track 4\. Next, double-click on this one and change the X-axis position to whichever letter you want. In this case, it’s the letter “M”. As for the Y-Axis, you can change it any way that suits you.
-
-![text animations in filmora](https://images.wondershare.com/filmora/article-images/2023/01/track-4.png)
-
-Step 8
-
-Copy this process as often and with as many letters as you want. Then, when you’re done, export the title animation to your computer.
-
-![export project in filmora](https://images.wondershare.com/filmora/article-images/2023/01/export.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 9
-
-Open a new project in Filmora and import the title animation we just created.
-
-Step 10
-
-Drag the custom title animation to Track 2 and drag any video background you have on Track 1.
-
-![insert video background filmora](https://images.wondershare.com/filmora/article-images/2023/01/background.png)
-
-Step 11
-
-Double-click on the title track, go to the Video tab, and select “**Lighten**” from the **Blending Mode** tab.
-
-![blending mode lighten in filmora](https://images.wondershare.com/filmora/article-images/2023/01/lighten.png)
-
-Step 12
-
-Shift the title clip from Track 2 to Track 3\. Then, go to the **Effects** tab and drag the **Dark Film** effect to Track 1 on the timeline.
-
-![dark film effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/dark-film.png)
-
-Step 13
-
-Search for the “Blur” effect in the Effects tab. Then, drag “**Square Blur**” to Track 2 in the timeline.
-
-![blur effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
-
-Step 14
-
-Select the “**Cinema**” effect from the Effects tab and drag it to Track 4\. Double-click on it and change the border height to **0.10**.
-
-![cinematic bar filmora](https://images.wondershare.com/filmora/article-images/2023/01/cinema.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 15
-
-Now, all left is to render the clip and review the final result.
-
-![render video in filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
-
-Summary
-
-**What you've learned:**
-
-* Create a professional-level animated text in Filmora in 15 simple steps
-* How to add a video background and cinematic effects to your animated title
-* Adjust the settings of clips in the Filmora timeline
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-Download and install the [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/). Just click the link, hit “**Download**”, and it will start automatically. Then, open a New Project.
-
-Step 2
-
-Click on the “**Titles**” tab and drag a Default Title to Track 2 on your Timeline.
-
-![drag title in timeline filmora](https://images.wondershare.com/filmora/article-images/2023/01/title.png)
-
-Step 3
-
-Double-click on it and change the font to anything you like. Then, enter the text in the box in front of you. While you’re here, you can also edit the text spacing and other features.
-
-![edit title in filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
-
-Step 4
-
-Now, take a snapshot of the text. Then, double-click on the default title again and change the text to a single letter I. Once again, take a snapshot of this text and then delete the default title from the timeline.
-
-![take snapshot in filmora](https://images.wondershare.com/filmora/article-images/2023/01/snapshot.png)
-
-You should have two snapshots in **My Media** now. One of them should say “FILMORA” and one with the letter “I”.
-
-![media center in filmora](https://images.wondershare.com/filmora/article-images/2023/01/my-media.png)
-
-Step 5
-
-Drag the “FILMORA” snapshot to track 2 and the “I” snapshot to track 3\. Then, click on the “Zoom” button and set this to 50%.
-
-![zoom option in filmora](https://images.wondershare.com/filmora/article-images/2023/01/zoom.png)
-
-Step 6
-
-Double-click on the “I” snapshot from the timeline. Then, input these settings when the window pops up. After that, drag the Playhead 1 second and 15 frames further down the timeline. Then, double-click on the “I” snapshot again, and change the Y-axis value to 0.
-
-![animate text in filmora](https://images.wondershare.com/filmora/article-images/2023/01/text-animation.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 7
 
@@ -1038,22 +1026,24 @@ By adding subtitles to your video, you can enhance your targeted audience and ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-15-best-sites-to-find-and-download-royalty-free-music-for-youtube/"><u>[New] 2024 Approved 15 Best Sites to Find & Download Royalty-Free Music for YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-from-compression-to-clarity-the-zip-srt-conversion-for-2024/"><u>[New] From Compression to Clarity The ZIP-SRT Conversion for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-game-changer-review-dji-mavic-air-takes-on-spark/"><u>2024 Approved Game Changer Review DJI Mavic Air Takes on Spark</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-blender-green-screen/"><u>2024 Approved How to Use Blender Green Screen</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-15-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 15 Pro? Heres the Best Fixes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/game-changing-strategies-for-effective-video-capture-for-2024/"><u>Game-Changing Strategies for Effective Video Capture for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-fade-in-text-in-adobe-premiere-pro-for-2024/"><u>How to Fade in Text in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-strobe-light-text-effect-in-2024/"><u>How to Make Strobe Light Text Effect, In 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-11-pro-max-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 11 Pro Max with 3 Methods</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-online-changers/"><u>In 2024, Recommended Video Background Online Changers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-steps-to-add-subtitles-in-canva/"><u>In 2024, Steps to Add Subtitles in Canva</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-your-internet-the-culprit-or-is-it-actually-blizzards-battlenet-down/"><u>Is Your Internet The Culprit? Or Is It Actually Blizzard's Battle.net Down?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-use-virtual-green-screen-to-shoot-video/"><u>New 2024 Approved How To Use Virtual Green Screen to Shoot Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-creating-motivational-videos-with-ai-comprehensive-guide-2024/"><u>New Creating Motivational Videos with AI Comprehensive Guide 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-unsubscribing-from-tv-services-via-ios-device/"><u>Step-by-Step Instructions: Unsubscribing From TV Services via iOS Device</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vsco-slow-motion/"><u>VSCO Slow Motion</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-boost-your-channels-traffic-and-value-with-innovative-hashtags/"><u>[New] Boost Your Channels' Traffic & Value with Innovative Hashtags</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-capturing-the-illusion-iphone-tricks-for-reflection-photography/"><u>[New] Capturing the Illusion IPhone Tricks for Reflection Photography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-lifes-challenges-with-these-15-engaging-activities-while-listening-to-podcasts/"><u>2024 Approved Navigate Life's Challenges with These 15 Engaging Activities While Listening to Podcasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-motorola-moto-g23-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Motorola Moto G23?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-to-mimic-professional-filming-gears-for-2024/"><u>How to to Mimic Professional Filming Gears for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/illuminating-iphones-in-the-dark-photography-tips/"><u>Illuminating iPhones in the Dark Photography Tips</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-know-how-to-create-a-lol-montage-video-had-you-ever-tried-that-video-type-before-connect-with-this-article-to-study-the-tips-and-tricks-assoc/"><u>In 2024, Do You Know How to Create a Lol Montage Video? Had You Ever Tried that Video Type Before? Connect with This Article to Study the Tips and Tricks Associated with the Making of Montage Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-from-idea-to-screenshot-a-mac-guide-to-ootd-tiktoks/"><u>In 2024, From Idea to Screenshot A Mac Guide to OOTD TikToks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-by-ste/"><u>In 2024, Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-complexities-of-toms-computer-gadgets-and-modules/"><u>Navigating the Complexities of Tom's Computer Gadgets and Modules</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-adding-audio-in-wondershare-filmora/"><u>New 2024 Approved Guide Adding Audio in Wondershare Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-working-through-the-details-of-imovie-slow-motion-video-making-100-effective/"><u>New 2024 Approved Working Through the Details of iMovie Slow Motion Video Making 100 Effective</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-create-a-movie-with-windows-movie-maker/"><u>New Create a Movie with Windows Movie Maker</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-the-popular-video-text-effects-to-your-video-in-2024/"><u>New How to Add the Popular Video Text Effects to Your Video, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-if-you-want-to-know-what-to-prepare-and-how-to-make-the-wedding-video-perfect-for-videographers-check-out-this-menu-here/"><u>New If You Want to Know What to Prepare and How to Make the Wedding Video Perfect for Videographers, Check Out This Menu Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-issues-with-discords-push-to-talk-system-a-comprehensive-guide/"><u>Overcoming Issues with Discord's Push-To-Talk System: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-next-level-for-google-bard-advancements-brought-by-palm-2-innovations/"><u>The Next Level for Google Bard: Advancements Brought by PaLM 2 Innovations</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-gui/"><u>Updated How To Quickly Create A Screen Print Effect In Photoshop Detailed Gui</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-best-video-metadata-editors-for-mac-users-easy-and-effective/"><u>Updated In 2024, The Best Video Metadata Editors for Mac Users (Easy and Effective)</u></a></li>
 </ul></div>
 

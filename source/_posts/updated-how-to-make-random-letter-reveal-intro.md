@@ -1,7 +1,7 @@
 ---
 title: Updated How to Make Random Letter Reveal Intro?
-date: 2024-10-25T02:13:07.640Z
-updated: 2024-11-01T00:37:32.685Z
+date: 2024-10-31T23:09:19.225Z
+updated: 2024-11-06T20:04:32.658Z
 tags: 
   - ai
   - animation videos
@@ -87,19 +87,6 @@ For this, tap on the last clip on the timeline and double-click on it. Change th
 
 ![tap on the text field](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-6.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Like with the first clip, continue doing this step for all of the next clips, except for the final clip. Then, export it in the same manner as the first clip.
 
 Now that you know how to edit the first and second letters in sequence, repeat this process for all of the letters of your title to create a full clip for all of the intro title letters. When you are done, please select these clips and press the Delete button to remove them from the timeline.
@@ -114,6 +101,13 @@ For this, click on My Media and go to Project Media. Right-click on the library 
 
 ![press the open button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Drag the Snapshot to Timeline
 
 Tap on the Snapshot you saved earlier sitting on the media library and drag it onto the Track 1 of the editing timeline. Double-click on it to open the video editing window.
@@ -121,13 +115,6 @@ Tap on the Snapshot you saved earlier sitting on the media library and drag it o
 Click on the Opacity option in the Video editing section and change it to 20%. Press the OK button after that.
 
 ![click on the opacity option](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Drop the Clip into the Timeline
 
@@ -140,13 +127,6 @@ Next, double-click on the first letter clip on the Track 2 section to open its e
 Then, right-click on the first letter clip in the timeline and choose the Copy Effects option from the next drop-down menu. Move the playhead to the ending position on the timeline and change the value on the relevant axis of Position until it matches its letter position on the original title.
 
 See the preview playing on the side for a better reference while adjusting the position.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Drop the next clips
 
@@ -166,13 +146,6 @@ Choose the saved snapshot in the library window and drag-and-drop it behind Trac
 
 ![choose copy effects](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then, hide the Track 2 clip, unhide the Track 3 and Track 4 clip, and take a snapshot of that. As you did with Track 1's screenshot, take this snapshot and place it beside Track 3 clip. Right-click on it and tap on "Paste Effects". Repeat this one by one for all the clips after unhiding them for their particular step.
 
 ## 13\. Finishing touches to Opacity
@@ -180,6 +153,13 @@ Then, hide the Track 2 clip, unhide the Track 3 and Track 4 clip, and take a sna
 Finally, unhide all the clips and move the playhead to the 8-second mark. Click on the Scissor icon to Split them all at this position and remove the excess. Then, place the playhead at the beginning of Track 3 and double-click on it. Tap the Animation tab this time and adjust the Opacity to 0\. Then, move the playhead ten frames forward and increase the Opacity to 100\. Repeat this for all of the steps.
 
 ![adjust opacity to 0](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-random-letter-reveal-intro-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 14\. Preview and Export
 
@@ -332,6 +312,13 @@ Finally, you are ready to use the same tactics as explained to optimize the qual
      data-ad-slot="1223367746"></ins>
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Adjust the TikTok Videos Length to Make Them Captivating
 
 While shouting a TikTok video, sometimes uninvited people jump in the clip from nowhere. It is time taking and a wastage of energy to capture the video again from the start. **Can you adjust the TikTok clip length?** For sure, it is possible to change the video's length and trim out unnecessary parts. But the question is **how to adjust the length of clips on TikTok.**
@@ -341,23 +328,10 @@ You can use TikTok's built-in function to change the length of a video clip or u
 ![tiktok featured image](https://images.wondershare.com/filmora/article-images/2023/02/adjust-tiktok-clip-length-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1\. How to Adjust the Length of Uploaded Clips on TikTok
@@ -376,13 +350,6 @@ In this part of the article, you will learn **how to adjust the length of clips 
 
 ![drag the tiktok editor sliders](https://images.wondershare.com/filmora/article-images/2023/02/adjust-tiktok-clip-length-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: How to Adjust the Length When Recording
 
 Do you want to adjust the length of the TikTok video before recording it? It is possible to do that task by following the simple steps present underneath:
@@ -398,6 +365,13 @@ Do you want to adjust the length of the TikTok video before recording it? It is 
 **Step 3:** Afterwards, press the "Tick" icon and then the "Next" button. Now, you can use the hashtag and mention option to add a description to your video. Finally, press the "Post" icon to share the TikTok video with followers.
 
 ![hit the next button](https://images.wondershare.com/filmora/article-images/2023/02/adjust-tiktok-clip-length-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Using The Third-party Tool to Adjust the Length Before Uploading to TikTok
 
@@ -567,9 +541,23 @@ Step1 Download and install Wondershare Filmora on your computer. Click on New Pr
 
 ![download wondershare filmora](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Drop the video clip onto timeline. If you do not have any background video, you can select background from Stock Media> pexels/Pixabay> Video and drop animated background onto the timeline.
 
 ![drag motion background timeline filmora](https://images.wondershare.com/filmora/article-images/2022/09/drag-motion-background-timeline-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Go to Titles and search for “animation” and you will get all the motion text effect and animation templates. Select any one of them and drop onto the timeline above the background layer.
 
@@ -578,13 +566,6 @@ Step3 Go to Titles and search for “animation” and you will get all the motio
 Step4 Double-click on the text layer to type in your desired text. Reposition the text layer on the timeline and on the video from Viewer.
 
 ![customize animation type text filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-animation-type-text-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Use Premiere Pro to Make Motion Text
 
@@ -680,6 +661,13 @@ This is another important area that must not be neglected. This is another area 
 
 This is another important thing to consider while making the video for product ads. Each social media platform has its unique aspect ratio. Aspect ratio talks about the ratio of the length and width of a video. Therefore before creating any video for any platform, first look for the aspect ratio of the platform. Facebook has its aspect ratio as also Instagram, TikTok, Facebook story and reels. This will make your video fit into the platform and make the video come out professionally and grandly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Product Ads Software/Applications
 
 Aside from knowing all that has been discussed, it is important to look out for the best software for the job. There is a lot of software that will be of help in creating product ads videos, go for the ones that you can understand and can help you create product ads video. Software like:
@@ -741,20 +729,24 @@ Product ads video is the order of the day and it is very important as a business
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-top-talents-exceptional-instagram-hlv-artisans/"><u>[New] 2024 Approved Top Talents Exceptional Instagram HLV Artisans</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-beginners-blueprint-to-youtube-streaming-games-for-2024/"><u>[New] Beginner's Blueprint to YouTube Streaming Games for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-ensuring-compliance-in-zoom-meetings-a-recording-guide/"><u>[New] Ensuring Compliance in Zoom Meetings A Recording Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-ultimate-ios-tutorial-downloading-episodes-effortlessly-for-2024/"><u>[New] Ultimate iOS Tutorial Downloading Episodes Effortlessly for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-premier-music-broadcasts-online-for-2024/"><u>[Updated] Premier Music Broadcasts Online for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-evaluating-top-6-choices-4k-youtube-to-mp3-software/"><u>2024 Approved Evaluating Top 6 Choices 4K Youtube-to-MP3 Software</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-videos-with-imovie/"><u>2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-understanding-the-basics-of-audio-crossfading/"><u>2024 Approved Understanding the Basics of Audio Crossfading</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-censor-effects-with-filmora/"><u>In 2024, How to Make Censor Effects with Filmora</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-googleer-future-plans-what-to-expect-in-their-next-big-launch/"><u>Inside Scoop on Google'er Future Plans: What to Expect in Their Next Big Launch</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-3-ways-to-create-motion-text-effects-for-your-video/"><u>New 2024 Approved 3 Ways to Create Motion Text Effects for Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-loop-videos-with-imovie/"><u>New 2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-best-laptops-for-video-editing/"><u>The Best Laptops For Video Editing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-custom-subtitles-to-netflix/"><u>Updated In 2024, How to Add Custom Subtitles to Netflix</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-behind-the-scenes-how-much-creators-earn-from-youtube-shorts/"><u>[New] 2024 Approved Behind the Scenes How Much Creators Earn From YouTube Shorts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-smooth-insertion-of-videos-into-your-custom-youtube-shelves/"><u>[New] In 2024, Smooth Insertion of Videos Into Your Custom YouTube Shelves</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-innovations-best-vr-tech-for-drones/"><u>[New] Top Innovations Best VR Tech for Drones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-data-retrieval-tool-restore-lost-data-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-data/"><u>Asus Data Retrieval tool – restore lost data from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/elevate-your-gameplay-with-the-12-unmatched-tycoon-experiences-for-2024/"><u>Elevate Your Gameplay with the #12 Unmatched Tycoon Experiences for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/embarking-on-a-new-adventure-a-step-by-nstep-guide-to-kickstarting-success/"><u>Embarking on a New Adventure: A Step-by-nStep Guide to Kickstarting Success</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-s17-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo S17 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-6s-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 6s Lock Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-use-a-stabilization-tool-in-filmora-for-2024/"><u>How to Use a Stabilization Tool in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-different-too/"><u>In 2024, Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-video-in-canva/"><u>In 2024, How to Loop Video in Canva</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-convert-mp4-videos-to-60-fps-gifs-with-this-easy-to-follow-tutorial-get-smooth-and-crisp-motion-in-your-gifs-in-just-a-few-simple-steps/"><u>In 2024, Learn How to Convert MP4 Videos to 60 FPS GIFs with This Easy-to-Follow Tutorial. Get Smooth and Crisp Motion in Your GIFs in Just a Few Simple Steps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/masterminds-of-making-magic-top-6-in-nft-innovation/"><u>Masterminds of Making Magic Top 6 in NFT Innovation</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-motion-blur-on-capcut-iphone-and-android/"><u>New 2024 Approved How To Add Motion Blur On CapCut? (IPhone & Android)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713953297744-new-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-cont/"><u>New A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>New How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-video-by-mouse-in-filmora-for-2024/"><u>New How To Make a Video by Mouse in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-this-article-let-me-share-with-you-how-to-start-a-vlog-ideas-and-any-tips-for-you-to-start-your-own-vlogging-channel/"><u>New In This Article Let Me Share with You How to Start a Vlog? Ideas and Any Tips for You to Start Your Own Vlogging Channel</u></a></li>
 </ul></div>
 

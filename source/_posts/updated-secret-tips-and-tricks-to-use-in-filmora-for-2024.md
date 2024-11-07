@@ -1,7 +1,7 @@
 ---
 title: Updated Secret Tips & Tricks to Use in Filmora for 2024
-date: 2024-10-26T17:14:26.126Z
-updated: 2024-11-01T05:55:31.962Z
+date: 2024-11-05T23:52:30.089Z
+updated: 2024-11-06T18:42:04.632Z
 tags: 
   - ai
   - animation videos
@@ -79,13 +79,6 @@ Now, whenever you encounter a resolution of a higher video than the one you sele
 
 Another hack you can use to save space on your hard drive is Deleting the Render cache. But before we do that, let us understand what Render cache is!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What is Render Cache?
 
 Rendering can be a giant leap to give you a smooth performance experience. However, when you import your videos into the timeline, you can always render to have an uninterrupted playback experience.
@@ -228,6 +221,13 @@ Step4 Select **Group**, and that's done.
 
 Your whole group will be selected whenever you select a video clip or an audio clip.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 9\. Pan and Zoom Shortcut
 
 Editing shortcuts are excellent. They allow you to save up a lot of time. Some people prefer to use a mouse only to edit their videos, but professionals always use a keyboard.
@@ -251,13 +251,6 @@ Step4 And on the bottom **right corner** of the window, you can see the pan and 
 Step5 Please select any of them you want and then click on **OK**.
 
 ![wonderhshare filmora pan and zoom shortcuts](https://images.wondershare.com/filmora/article-images/2023/01/secret-tips-in-wondershare-filmora-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 10\. New Feature Request
 
@@ -287,16 +280,16 @@ There are a lot of features that Wondershare Filmora provides. But now, with the
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Customize Proxy Files
 
 Before understanding the custom proxy settings, let us know what proxy files are.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Proxy Files
 
@@ -362,6 +355,13 @@ Step6 Click on **OK** to save your changes.
 
 Now, whenever you close your project, your render cache will be deleted and would have given you extra space on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4\. Remove Split Button on Playhead
 
 In some instances, when you are moving the playhead on the timelines, it can distract you from doing your editing. Or even more, you can mistakenly click on the Split button to split the clips you don't want them to.
@@ -383,13 +383,6 @@ Step5 In the editing tab, scroll down till your see the **Split button**.
 Step6 Check the box. Then, click **OK** to save your changes.
 
 Doing so would have removed the Split button from your playhead. So now you can edit your videos without any distractions.
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5\. Copy and Paste Effects
 
@@ -486,10 +479,10 @@ Step4 Select **Group**, and that's done.
 Your whole group will be selected whenever you select a video clip or an audio clip.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 9\. Pan and Zoom Shortcut
@@ -516,13 +509,6 @@ Step5 Please select any of them you want and then click on **OK**.
 
 ![wonderhshare filmora pan and zoom shortcuts](https://images.wondershare.com/filmora/article-images/2023/01/secret-tips-in-wondershare-filmora-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 10\. New Feature Request
 
 One of the significant features of Wondershare Filmora that sets it among the best is its capability to listen to the users. When you have been using Wondershare Filmora for a long time, there will come a time when you wish for a feature. You can also do so in a few simple steps. Just follow the steps mentioned:
@@ -542,13 +528,6 @@ Step5 You can **vote** for a feature you want in the next update.
 Step6 Or you can also create a request for another **particular feature**.
 
 ![wonderhshare filmora voting and selecting the page](https://images.wondershare.com/filmora/article-images/2023/01/secret-tips-in-wondershare-filmora-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summing Up
 
@@ -620,6 +599,13 @@ Go to the "Modes" column and open the dropdown menu next to "Layer List." Here, 
 You will see two toggle switches once you select your layer. You can use these switches and the available options to set the transparency for the Track Matte. You can add **alpha matte in After Effects** or other types from here.
 
 ![use switches to add track matte](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Performing Mask Tracking With Adobe After Effects: Reviewing the Steps
 
@@ -701,6 +687,13 @@ After you apply the masking option, you can adjust other mask settings. Filmora 
 
 ![set masking and export](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
@@ -727,6 +720,13 @@ Adobe After Effects is an industry-standard tool for video editing and manipulat
 In Adobe After Effects, a track matte is a layer that defines the transparency of another layer. It acts as a stencil, determining which parts of the underlying layer are visible and which are transparent. Track mattes are used for creating various effects such as text animations, transitions, and seamlessly composing multiple layers. After Effects offers four Track Matte options:
 
 ![alpha track matte](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * **Alpha Matte:** **Alpha matte in After Effects** allows white areas in the matte layer to become visible while black areas become transparent. Effectively, this helps the underlying layer to show through.
 * **Alpha Inverted Matte:** In an alpha inverted matte, black areas in the matte layer are visible, and white areas are transparent. It reverses the transparency values to create unique effects.
@@ -873,13 +873,6 @@ Step5Play a video and you will see a Picture in Picture window in the top-left c
 
 Step6Wherever you place the rectangular box in PiP window, that part will be zoomed and shown outside the PiP window. You can increase or decrease the level of magnification from the vertical slider present below PiP window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Zoom Video Using VLC Video Menu
 
 Apart from Interactive Zoom, there is also an inbuilt Zoom option available under Video Menu. While Interactive Zoom is for detailed zooming, Zoom through Video menu on VLC is for instant zooming. Moreover, Zoom through Video menu is effective only when you view the video on VLC Player. If you are watching the video on full screen, the zooming effect will not be easily noticeable. Here are the steps on how to zoom in VLC player using VLC Video menu.
@@ -909,6 +902,13 @@ Step3Click on Magnifier App. Once it opens, place the mouse pointer on the video
 Step4Press Windows and “+” keys to zoom in while press Windows and “-“ keys to zoom out.
 
 ![zoom in vlc](https://images.wondershare.com/filmora/article-images/2022/07/adjust-magnifier-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: VLC Alternative to Zoom in Videos
 
@@ -970,16 +970,20 @@ There are several scenarios when you need to zoom into a video to focus on the d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-2023s-leading-cameras-for-samsung-gear-360-successors/"><u>[New] 2023'S Leading Cameras for Samsung Gear 360 Successors</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-olympic-ice-rush-speed-skaters-best-from-games/"><u>[New] 2024 Approved Olympic Ice Rush Speed Skaters' Best From Games</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-ultimate-mobile-experience-apple-android-and-youtube/"><u>[Updated] In 2024, The Ultimate Mobile Experience Apple, Android and YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-windows-10-seamless-media-importation-techniques/"><u>[Updated] Unlocking Windows 10 Seamless Media Importation Techniques</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/heroic-measures-against-a-corrupted-disk-in-steam-games-a-simple-fix-guide/"><u>Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-next-move-must-you-upgrade-to-rtx-now/"><u>Nvidia's Next Move: Must You Upgrade to RTX Now?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolved-troubleshooting-guide-overcoming-world-of-warcraft-wont-start-on-pc/"><u>Resolved: Troubleshooting Guide - Overcoming 'World of Warcraft Won't Start' On PC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-content-game-perfectly-tailored-youtube-shorts-thumbnails-for-2024/"><u>[New] Elevate Your Content Game Perfectly Tailored YouTube Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-eye-shadow-and-lips-tutorials/"><u>[Updated] Eye Shadow & Lips Tutorials</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-the-troubled-performance-of-dells-new-2024-xps-14-an-in-depth-review-you-must-read/"><u>Experience the Troubled Performance of Dell's New 2024 XPS 14: An In-Depth Review You Must Read</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-realme-c55-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-enable-the-motion-blur-effect-while-playing-dying-light-2-read-this-article-to-find-out-how-to-use-dying-light-2-motion-blur-for-a-gr/"><u>In 2024, Do You Want to Enable the Motion Blur Effect While Playing Dying Light 2? Read This Article to Find Out How to Use Dying Light 2 Motion Blur for a Great Gaming Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-top-11-brainy-battles-general-knowledge-channels-revealed/"><u>In 2024, Top 11 Brainy Battles General Knowledge Channels Revealed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-id/"><u>New 2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-export-video-in-filmora/"><u>New In 2024, How To Export Video in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-the-power-of-online-cricket-broadcasts-for-2024/"><u>Unleashing the Power of Online Cricket Broadcasts for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-profitability-on-youtube-shorts-essentials-and-future-earning-prospects-for-2024/"><u>Unlocking Profitability on Youtube Shorts Essentials and Future Earning Prospects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated A Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-introduction-to-luts-their-overview-and-benefits/"><u>Updated Introduction to LUTs Their Overview and Benefits</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-shoot-video-with-virtual-green-screen/"><u>Updated Shoot Video with Virtual Green Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-infinix-hot-40-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Hot 40 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

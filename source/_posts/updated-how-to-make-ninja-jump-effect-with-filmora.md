@@ -1,7 +1,7 @@
 ---
 title: Updated How To Make Ninja Jump Effect with Filmora
-date: 2024-10-28T00:13:26.039Z
-updated: 2024-11-01T00:40:28.736Z
+date: 2024-10-31T21:36:48.561Z
+updated: 2024-11-06T18:50:55.016Z
 tags: 
   - ai
   - animation videos
@@ -217,18 +217,18 @@ Once the video is successfully added to Filmora, click the **Effect** tab on the
 
 ![click the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Double-click the Crop effect, then change the Left and Right values to make the video look like it was shot in the 50s. You can set the values as 10.
 
 ##### Step 3 Add a Warm Film color effect
 
 ![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
 
@@ -237,6 +237,13 @@ Up to here, you'll realize that your video doesn't still look like a 1950s film 
 ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -350,6 +357,13 @@ Have you ever seen videos on social media apps or movies and seen a video in tex
 
 ![the example of text intro](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-video-in-text-intro-0.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now, are you planning to create an effect such as that on your own video project? Worry not; you do not have to hire video editing experts at enormous costs or opt for a video editing course, to name a few. With [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you can create the effect at more than half the cost and effort. Let's learn how that works.
 
 ## 1\. Accessing the software
@@ -388,20 +402,27 @@ Scroll downward among the text editing parameters until you see the Text Spacing
 
 After adjusting the size and dimension of the title you added, click on the Snapshot icon to take a screenshot of the Track 2 title clip that has been changed. Then, select both of the clips on Tracks 1 and 2 and remove them from the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Insert the background video
 
 Next, go to the My Media tab again and choose the Project Media option. Right-click on the library section and tap on the Import button. This will open you to the device storage of your computer. From there, please search for the video clip you want to insert into your project as the main video background and import it into Filmora.
 
 ![search for the video clip](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-video-in-text-intro-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then, when that is available in your media library section, hold it and drag and drop the clip onto the timeline in the Track 1 section.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Add the Black and White Effect
 
@@ -447,6 +468,13 @@ You must extend the video duration to 20 seconds in the lowermost editing window
 
 ![extend the video to 20 seconds](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-video-in-text-intro-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 11\. Drop the Exported Video Version Next
 
 Following this, you must import the video you exported into the timeline. For this, you have to click on the My Media section and go to Project Media. Then, right-click on the library section here and tap on Import. Choose the file and import it from the location where you saved it.
@@ -462,20 +490,6 @@ Then, double-click on the video, and under the video tab, choose the Chroma Key 
 Once you are done, click on the Render Preview icon to watch how your edited video stands out. If you are unsatisfied with the outcomes, you can easily roll it back and make the changes. Export the file after you see the preview and are fully satisfied with the effect.
 
 ![click on render preview](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-video-in-text-intro-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -494,13 +508,6 @@ Click on the "Create New Project" button on the homepage, and that will launch t
 On the main editor window of Filmora, you have to go to the My Media section. From the drop-down list, click on the folder full of Sample Colors. Next, click on the black sample color option and drag it down to the editing timeline. Finally, drop it in the place of the Track 1 section on the timeline.
 
 ![drop it in track 1](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-video-in-text-intro-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Put the Title tile into the video
 
@@ -551,13 +558,6 @@ Now, double-tap on the Snapshot clip and choose the Video tab. Activate the Chro
 You must now click on the Crop option from the function bar. On the top, you will get the option for Pan and Zoom. Click on it and shorten the visible bright window by dragging it towards the center. Move this cropped rectangle to an all-white position. This will determine the end point of the text to be shown at the starting position of the video.
 
 Move the playhead ahead in the timestamp and again click on the Chroma Key button from the function bar. When it opens, click on the Chroma key option in the editor and change the edge thickness value to a -7 number.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Export the Clip
 
@@ -610,6 +610,19 @@ However, you can choose from different LUT styles if you are a vlogger or a trav
 * [Best LUTs for Vlog to Use in 2024 Editing](#part2)
 * [How Has Wondershare Filmora Changed the Dynamics of LUTs in Video Editing?](#part3)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How Can LUTs Help in Vlogging?
 
 If you want to make your vlogs look more professional, try using LUTs. These tables can help you correct the color of your footage easily and quickly while you're on the go. You can use LUTs for vlogs to fix issues like your clips' white balance and exposure. Furthermore, many other uses of LUTs for vlogging are discussed below.
@@ -652,13 +665,6 @@ If you're looking for a LUT to use in your travel vlogs, consider the Travel Vid
 
 ![travel video luts](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. [BRIGHT INSTA LUTS](https://iuliia.store/product/bright-insta-luts/best-luts-for-vlog-4)
 
 Bright Insta LUTs is the suitable LUT vlog pack for you if you're a makeup or fashion vlogger. This LUT pack gives your makeup or fashion vlogs a bright and vibrant look. With 20 different LUTs, for instance, you can experiment with various color palettes and find the perfect look for your videos. These LUTs can help you achieve a bright, vibrant, and exposed feel for better fashion and makeup vlogs.
@@ -676,6 +682,13 @@ Kurt Von Studios Retro Film LUTs is a great tool for outdoor vloggers who want t
 Give your indoor vlogs and podcasts more feel by using Limit Color. This vlog LUT adds an artistic touch to your footage by limiting the color and light in your videos. It creates darker shadows and underexposed colors by focusing on the subject. Similarly, it helps to create a dramatic look that adds emotion to your vlogs and podcasts.
 
 ![limit color luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How Has Wondershare Filmora Changed the Dynamics of LUTs in Video Editing?
 
@@ -760,13 +773,6 @@ Bright Insta LUTs is the suitable LUT vlog pack for you if you're a makeup or fa
 Kurt Von Studios Retro Film LUTs is a great tool for outdoor vloggers who want to add a vintage feel to their videos. It creates a cinematic look with earthy tones and rusty textures that give your content an authentic vintage feel. With this LUT, you can achieve a retro-style feel, adding character to your vlogs and making them more visually appealing.
 
 ![kurt von studios film luts](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. [Limit Color](https://fixthephoto.com/best-luts/download-5)
 
@@ -820,14 +826,20 @@ To sum up, LUTs are not an option but more of becoming a necessity, especially f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>[New] From Concept to Screen Channel YT for Pioneering Filmmaking Techniques</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-chapter-how-to-add-chapters-to-vimeo-video-for-2024/"><u>[New] Vimeo Chapter How to Add Chapters to Vimeo Video for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-exploring-ajeys-youtube-revenue-for-2024/"><u>[Updated] Exploring Ajey's YouTube Revenue for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-oppo-reno-10-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Oppo Reno 10 5G</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/stepwise-guide-to-ipad-time-lapse-mastery-for-2024/"><u>Stepwise Guide to iPad Time-Lapse Mastery for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigate-video-trimming-with-ease-on-windows-11-photos/"><u>[New] Navigate Video Trimming with Ease on Windows 11 Photos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-navigating-the-world-of-gopro-and-time-lapse-shooting-for-2024/"><u>[New] Navigating the World of GoPro and Time-Lapse Shooting for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/app-apocalypse-today-fb-whatsapp-ig-failures/"><u>App Apocalypse Today: FB, WhatsApp, IG Failures</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-watch-series-6-review-a-modest-upgrade-but-still-the-best/"><u>Apple Watch Series 6 Review: A Modest Upgrade, But Still the Best</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-steadicams-for-dslr/"><u>Best Steadicams for DSLR</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-inventory-optimal-auto-surveillance-cams/"><u>Elite Inventory Optimal Auto Surveillance Cams</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/explore-advanced-techniques-making-a-difference-with-your-captivating-slow-motion-videos-and-photos-for-instagram-for-2024/"><u>Explore Advanced Techniques Making a Difference with Your Captivating Slow-Motion Videos & Photos for Instagram for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/increasing-visibility-of-jobs-with-facebook-posts/"><u>Increasing Visibility of Jobs with Facebook Posts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-linkedin-course-picks-to-advance-your-expertise/"><u>Leading LinkedIn Course Picks to Advance Your Expertise</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-ad/"><u>New 2024 Approved Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-dollar-store-diy-hacks-to-use-for-filmmaking/"><u>New Dollar-Store DIY Hacks to Use for Filmmaking</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-feather-shapes-in-after-effects-and-add-a-professional-touch-to-your-designs-this-comprehensive-guide-covers-everything-from-the-basics-to-/"><u>New Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-custom-filters-in-vn-app-2024-quick-guide/"><u>Updated How to Add Custom Filters in VN App 2024 Quick Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-speed-ramping-to-create-an-intense-action-footage-for-2024/"><u>Updated How To Use Speed Ramping to Create an Intense Action Footage for 2024</u></a></li>
 </ul></div>
 
