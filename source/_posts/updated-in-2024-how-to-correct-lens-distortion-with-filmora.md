@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Correct Lens Distortion With Filmora
-date: 2024-10-31T23:01:41.631Z
-updated: 2024-11-06T23:43:12.333Z
+date: 2024-11-10T23:34:58.780Z
+updated: 2024-11-17T07:52:19.651Z
 tags: 
   - ai
   - animation videos
@@ -31,19 +31,6 @@ Lens distortion happens with all lenses. It is because of several things, such a
 
 Most geometric lens distortions happen when the focal distance is short (barrel distortion), long (pincushion distortion), or when a fish-eye lens is used to take a picture from a low angle (keystone distortion).
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to correct a distorted lens?
 
 A lot of times, with lower-end wide-angle lenses, especially action cams like GoPro, you get pretty gnarly distortion when you're filming. As we know, the Earth is round, but it shouldn't look like this when you take a picture. Indeed, it's very distorted, it has the horizon line bending all over the place, and basically, all of the lines in the video have some level of curvature.
@@ -53,6 +40,13 @@ Hence, follow all the steps below to know how to fix it:
 Step1 Import your video to [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
 ![import your video to filmora](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
@@ -71,13 +65,6 @@ You can see a bit of curvature, but it looks much more natural, and all of the l
 Step4 Lastly, if you play the video back, you will see the video look much better than before.
 
 ![play the video back](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-4.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to avoid distorted lens while shooting?
 
@@ -104,6 +91,13 @@ for this. A 50mm lens is great for portraits, street photography, and many other
 Step2 Click on the clip and head over to the lens correction. Choose the "Camera model" based on what you used, but in this tutorial, the video was taken with a GoPro Hero 7\. However, you can choose some other camera model options there.
 
 ![click on the clip](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 To adjust the distortion, you can slide the bar to the left or the right. If you slide the bar to the right (maximum level), there will be no adjustment. However, if you slide the bar to the left, you can see it pulling those lines as high up as possible.
 
@@ -184,13 +178,6 @@ Step6 Tap on Share icon at the bottom and then tap on Save Video option to save 
 
 ![save video imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/save-video-imovie-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. How to add filters on Mac iMovie
 
 If you are someone who regularly makes videos for social media account or video streaming channel, you are more likely to record your video using a video camera and transfer the recorded video to you Mac for editing purposes. iMovie comes pre-installed on Mac, and therefore, once you have transferred the video, you can get started with editing and adding filters immediately. Here are the steps on how to add filters to iMovie on your Mac.
@@ -208,13 +195,6 @@ Step3 Click on the video clip on the Timeline and click on Crop Filter and Audio
 Step4 Click on Clip Filter option and you will see different filters in a window to the left. Place the mouse pointer over the filters, and you will see the filter in the Viewer.
 
 ![apply filters imovie mac](https://images.wondershare.com/filmora/article-images/2022/07/apply-filters-imovie-mac.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 Once you are satisfied with a filter, click on that filter to apply it to the video clip.
 
@@ -252,13 +232,6 @@ Step2 Drag and drop video clips under Project Media folder. Thereafter, drag and
 
 ![drag and drop video clip](https://images.wondershare.com/filmora/guide/create-new-project-02.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Go to Effects from the top panel and click on Filters from the left panel. You will see all the different categories of filters.
 
 ![click on filters](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
@@ -276,13 +249,6 @@ If you are an iPhone user or a Mac user, you can add filters to your video using
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Change Video Speed with FFmpeg
 
@@ -345,6 +311,13 @@ Step4 According to the documentation, fast motion requires: -filter:v setpts=0.5
 
 ![fast motion requires](https://images.wondershare.com/filmora/article-images/2023/01/change-video-speed-ffmeg-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Click Enter.
 
 ![click enter](https://images.wondershare.com/filmora/article-images/2023/01/change-video-speed-ffmeg-4.png)
@@ -391,6 +364,13 @@ Pick your preferred video. Go to the menu and select "Download." After hitting t
 After the movie has loaded, you have two options: double-clicking the clip or selecting the speed option provided below the screen.
 
 ![double clicking the clip](https://images.wondershare.com/filmora/article-images/2022/05/change-video-speed-3.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 A window appears when we double-click the chosen video. We shall navigate to the "SPEED" section beneath this window. Additional "Uniform Speed" and "Speed Ramping" panels may be found on this speed panel. We shall operate within the uniform speed panel to alter the video's tempo consistently. A slider is provided for us to adjust the movie's pacing.
 
@@ -557,13 +537,6 @@ _ffmpeg -i "concat:input1.ts|input2.ts" -c copy output\_protocol.ts_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** The concat protocol allows you to "stream copy" the files by adding the option **_\-c copy_**.
 
 Step2 **Input** the file name of the video using this code:
@@ -656,9 +629,29 @@ Step2 **Go to** "**File**" > "**Import Media**" > "**Import Media Files**" to **
 
 ![filmora import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 **Drag** and **drop** the files you want to merge from the media library to the timeline, and then you'll get the merged video seamlessly.
 
 ![filmora add media](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 **Edit** your video.
 
@@ -677,6 +670,13 @@ Step2 **Run** the FFmpeg command:
 _ffmpeg -f concat -safe 0 -i join\_video.txt -c copy output\_demuxer.mp4_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note: _\-safe 0_** is added to accept any file name.
 
@@ -766,6 +766,13 @@ Step4 **Use** the **\-map** option to map the output streams to the final video 
 
 _\-map '\[v\]' -map '\[a1\]' -map '\[a2\]' output.mkv_
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## \[Bonus\] Join Videos Together With Filmora
 
 While FFmpeg offers a wide range of options for joining videos together, it can have a steep learning curve for some users. An alternative method for joining videos is using Filmora. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a user-friendly video editing software that allows you to easily join multiple videos. It's a great option for users new to video editing or needing experience with command-line tools like FFmpeg.
@@ -787,13 +794,6 @@ Step1 **Open** Filmora and **click** "**New** **Project**."
 Step2 **Go to** "**File**" > "**Import Media**" > "**Import Media Files**" to **add** your video files to the media library.
 
 ![filmora import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 **Drag** and **drop** the files you want to merge from the media library to the timeline, and then you'll get the merged video seamlessly.
 
@@ -827,19 +827,14 @@ FFmpeg is a powerful tool that allows you to concatenate videos in various ways.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-editing-video.techidaily.com/bitraser-pro-comprehensive-tutorial-on-secure-data-destruction-via-video/"><u>BitRaser Pro: Comprehensive Tutorial on Secure Data Destruction via Video</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/customize-twitter-video-snapshot/"><u>Customize Twitter Video Snapshot</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-ai-chatbot-technology-insights-into-its-popular-surge/"><u>Exploring AI Chatbot Technology: Insights Into Its Popular Surge</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-in-windows-1110-by-drivereasy-guide/"><u>How to install hardware device drivers manually in Windows 11/10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-nokia-c300-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Nokia C300 Device SIM</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-12-pro-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme 12 Pro 5G</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/is-windows-movie-maker-still-available-in-2024/"><u>Is Windows Movie Maker Still Available, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-are-you-in-search-for-a-step-by-step-guide-to-how-to-add-effects-in-tiktok-here-it-is-to-add-some-flavor-to-your-tiktok-videos-use-these-how-to-add-effe/"><u>New Are You in Search for a Step-by-Step Guide to How to Add Effects in TikTok? Here It Is. To Add some Flavor to Your TikTok Videos. Use These How to Add Effect to TikTok Recommendations</u></a></li>
-<li><a href="https://win-able.techidaily.com/outriders-optimization-update-sharper-graphics-and-enhanced-clarity-fix/"><u>Outriders Optimization Update: Sharper Graphics and Enhanced Clarity Fix</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-a-lut-that-you-can-use-for-your-high-definition-content-you-can-use-rec-709-lut-premiere-pro-for-your-hd-digital-media-to-give-the-perfe/"><u>Updated Do You Want a LUT that You Can Use for Your High-Definition Content? You Can Use Rec 709 LUT Premiere Pro for Your HD Digital Media to Give the Perfect Result</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-ninja-jump-effect-with-filmora/"><u>Updated How To Make Ninja Jump Effect with Filmora</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winapi-deficit-microsoft-runtime-layer-1/"><u>WinAPI Deficit: Microsoft Runtime Layer 1</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/alafdl-5-trk-lizala-krs-mstnskh-mn-windows-11-alklam-oalaamlyat/"><u>الأفضل 5 طرق لإزالة قرص مستنسخ من Windows 11: الكلام والعمليات</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-sifting-through-the-elements-of-instagram-stories/"><u>[Updated] 2024 Approved Sifting Through the Elements of Instagram Stories</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/dll-error-wins-kernel32-solved/"><u>DLL Error: Win's Kernel32 Solved</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-audio-systems/"><u>Expert Tips on Repairing Malfunctioning Computer Audio Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/explore-with-akasos-ek7000-high-quality-economical-adventure-tool/"><u>Explore with AKASO's EK7000: High-Quality, Economical Adventure Tool</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/fix-your-cod-modern-warfare-voice-chat-a-comprehensive-solution/"><u>Fix Your CoD: Modern Warfare Voice Chat - A Comprehensive Solution</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guarantee-flawless-automatic-syncing-of-your-macs-photos/"><u>Guarantee Flawless Automatic Syncing of Your Mac's Photos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-12-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 12 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/unpacking-the-mini-powerhouse-in-depth-analysis-of-the-3rd-gen-amazon-echo-dots-alexa-capabilities/"><u>Unpacking the Mini-Powerhouse: In-Depth Analysis of the 3Rd Gen Amazon Echo Dot's Alexa Capabilities</u></a></li>
 </ul></div>
 

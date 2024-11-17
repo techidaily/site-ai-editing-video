@@ -1,7 +1,7 @@
 ---
 title: New How To Make a Timelapse in After Effects for 2024
-date: 2024-11-02T16:47:21.077Z
-updated: 2024-11-07T00:05:51.111Z
+date: 2024-11-14T01:29:45.499Z
+updated: 2024-11-16T16:34:13.471Z
 tags: 
   - ai
   - animation videos
@@ -71,6 +71,13 @@ After Effects CC must be opened, a new project must be created, the Import File 
 
 Once you have clicked on the first image in the sequence. The time-lapse video that you uploaded appears in the project library. After performing a right-click on the filename, select "New Comp from Selection" from the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 6\. Exporting your video
 
 After getting our sequence to perform some kind of slow, understated animation so that it appears as though the camera is moving dramatically, we will need to export a video file. Go to File > Export > Add to Render Queue, then open the Render Queue dialog box by going to Window > Render Queue. From there, you can choose the Output Module and change the settings in the options dialog box. Finally, choose the Output To option and select the location on your computer where you would like to save the video clip that we are currently rendering and exporting.
@@ -108,19 +115,6 @@ So, if you want to know **how to export iMovie,** we will give you a step-by-ste
 ## Part 1\. How to Export iMovie Video from iPhone?
 
 Once you design the shape of your story, it is time you make the world know about your creativity. Since iMovie has loads of exciting tools and features, you can create videos with a professional touch. With the help of your iPhone, you can easily export iMovie videos in various ways. Following are the ways **how to export iMovie:**
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Send video via email or text message
 
@@ -286,13 +280,6 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 
 ![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
 ## Summary
@@ -353,6 +340,13 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 
 ![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
 ## Summary
@@ -376,13 +370,6 @@ With the two videos imported on Filmora, move the playhead to the point where th
 Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
 
 ![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
 
@@ -408,6 +395,13 @@ Everyone is fascinated by a video portraying creativity and effort in each frame
 
 Wondershare Filmora offers you a simple yet great experience of Keyframing. It has been the editors' favorite feature for years. Under its Grow and Win Program, Filmora presents the Keyframe creativity contest. It is the ultimate solution for bringing captivity and precision to your shots.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. What is the Keyframe Feature?
 
 A keyframe, also spelled "key frame," defines any smooth transition's beginning and conclusion. In the case of animation or film, or video, that something may be a drawing or a specific frame of a shot.
@@ -432,6 +426,20 @@ Keyframing is famous for creating blended visuals through experimentation with t
 
 ![varying transparency clips](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-2.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Custom Picture-in-Picture Paths
 
 We use the picture-in-picture effect in many editing formats, from tutorial videos to gaming streams and vlogs. Keyframing allows editors to execute the movement of the PIP as they wish. For instance, this video call was shot from a video.
@@ -444,6 +452,13 @@ The picture will move across the screen between the 30-second and 1-minute marks
 
 Let us share the procedure for making a video using the keyframe feature.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. A Video Clip or Photos
 
 For experimenting and creating with the keyframe feature, first, you would need high-quality video clips or images.
@@ -453,13 +468,6 @@ The high-resolution requirement is a prerequisite for the complete experience of
 ### 2\. Motion Elements
 
 Keyframing allows for a vast area of creativity with motion elements that you can download online. The keyframe feature adds charm to these elements by playing with their orientation and scale.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. An Advanced Editing Software
 
@@ -550,13 +558,6 @@ Keyframing can add motion to your project's objects, clips, or images. To perfor
 
 ![changing scale and rotation of clip at the second keyframe](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Enter **OK** and play your clip to see the fantastic effect.
 
 ![final result of added motion](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-14.gif)
@@ -584,10 +585,10 @@ For an illustrated guide to keyframing opacity, keep on reading the following in
 ![keyframing opacity final result](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-18.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -677,13 +678,6 @@ Keyframing can add motion to your project's objects, clips, or images. To perfor
 
 ![changing scale and rotation of clip at the second keyframe](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Enter **OK** and play your clip to see the fantastic effect.
 
 ![final result of added motion](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-14.gif)
@@ -707,10 +701,10 @@ For an illustrated guide to keyframing opacity, keep on reading the following in
 ![decreasing the opacity at the second keyframe](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-17.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * That's it; you have a theatrical variation of the clip's visible opacity throughout the timeline.
@@ -737,20 +731,22 @@ On the whole, keyframing is all about creativity at your fingertips. When detail
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-elevated-engagement-awards-on-video-realms/"><u>[New] Elevated Engagement Awards on Video Realms</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-perfect-your-videos-first-impression-20-best-fonts/"><u>[New] Perfect Your Video's First Impression 20 Best Fonts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-untold-story-of-instagram-story-consumers-for-2024/"><u>[New] The Untold Story of Instagram Story Consumers for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-straightforward-screen-capture-program/"><u>[Updated] Straightforward Screen Capture Program</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-complete-users-manual-on-durecorder/"><u>[New] In 2024, The Complete User’s Manual on DuRecorder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-10-best-date-counting-clocks-androidios/"><u>[New] The Ultimate List 10 Best Date-Counting Clocks Android/iOS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-navigating-the-nuances-of-simplified-live-streaming/"><u>[Updated] Navigating the Nuances of Simplified Live Streaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-zoom-recording-101-a-practical-approach-for-2024/"><u>[Updated] Zoom Recording 101 A Practical Approach for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-intro-with-legend-intro-maker/"><u>2024 Approved How to Create Intro with Legend Intro Maker</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way/"><u>2024 Approved How to Slow Down a Video on iPhone and Android The Easy Way</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-make-modern-tiktok-velocity-dance-videos-in-filmora-just-like-the-ones-you-see-on-tiktok-and-instagram-reels/"><u>2024 Approved Learn How to Make Modern TikTok Velocity Dance Videos in Filmora Just Like the Ones You See on TikTok and Instagram Reels</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-missing-self-critique-clues/"><u>ChatGPT: Missing Self-Critique Clues</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/create-slide-masking-effect-intro/"><u>Create Slide Masking Effect Intro</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/enhanced-user-experience-with-ai-based-cookiebot-technology/"><u>Enhanced User Experience with AI-Based Cookiebot Technology</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/navigating-the-perils-of-geek-squad-frauds-a-comprehensive-guide-for-email-security/"><u>Navigating the Perils of Geek Squad Frauds: A Comprehensive Guide for Email Security</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-guide-overcoming-windows-network-error-code-0x800704cf/"><u>Solved Guide: Overcoming Windows Network Error Code 0X800704CF</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-noise-reduction-techniques-in-adobe-premiere-pro/"><u>Step-by-Step Guide: Noise Reduction Techniques in Adobe Premiere Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-nokia-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Nokia</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/googles-platform-unveiled-the-ultimate-guide-to-podcast-postings/"><u>Google's Platform Unveiled The Ultimate Guide to Podcast Postings</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-download-and-use-windows-movie-maker-10-for-2024/"><u>How to Download and Use Windows Movie Maker 10 for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/humor-and-ai-is-chatgpt-up-to-the-task-of-making-us-laugh-out-loud/"><u>Humor and AI: Is ChatGPT Up to the Task of Making Us Laugh Out Loud?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implications-of-removing-windows-11-taskbar-chat-on-your-usage-experience/"><u>Implications of Removing Window's 11 Taskbar Chat on Your Usage Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolutionary-impact-of-ai-on-creative-outputs/"><u>The Evolutionary Impact of AI on Creative Outputs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-xiaomi-13t-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Xiaomi 13T Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-20-best-video-background-templates/"><u>Updated 20 Best Video Background Templates</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-best-cloud-storage-service-for-videos-for-2024/"><u>Updated Best Cloud Storage Service for Videos for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-best-ideas-for-time-lapse-video/"><u>Updated Best Ideas for Time Lapse Video</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>Updated Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-record-super-slow-motion-videos-on-your-huaweisamsungiphone/"><u>Updated How to Record Super Slow Motion Videos on Your Huawei/Samsung/iPhone?</u></a></li>

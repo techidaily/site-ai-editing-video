@@ -1,7 +1,7 @@
 ---
 title: Updated How To Make a Video by Mouse in Filmora, In 2024
-date: 2024-11-05T23:00:24.359Z
-updated: 2024-11-06T17:33:20.120Z
+date: 2024-11-16T03:08:38.106Z
+updated: 2024-11-17T07:05:01.974Z
 tags: 
   - ai
   - animation videos
@@ -114,13 +114,6 @@ When you have your audio in the timeline, your next step is adding the video. Af
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** now, remember you have multiple videos to match the audio length as we create a music video. The more, the more optimistic. Now, remember you have multiple videos to match the audio length as we create a music video. The more, the more optimistic.
 
 Download the remaining videos that you would wish to be added to the music and follow the steps mentioned above to add the clips where you desire.
@@ -193,13 +186,6 @@ It seems our 15 minutes are running out! Play the music video from the beginning
 
 So in a rare scenario when you don't have a keyboard, you can just use your mouse to browse the Wondershare Filmora and put those creative ideas to work.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 With just a mouse, you have created a music video! How easy is that? Try different music, audio, and video, and then enjoy the rest! Creativity has no limits if you know how to make the most of it by using the tools at your hand. Tell out more about your creative ideas! We love to hear from your side!
@@ -251,16 +237,16 @@ Step4 Select any category and any desired text style and drop it on Timeline. Pl
 
 ![select any category](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Double-click on Text layer present on Timeline and customize the text label and other parameters as per your requirements.
 
 ![double click on text layer](https://images.wondershare.com/filmora/guide/text-presets-win-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step6 Finally, play the video and click on Export button to save the video on your hard drive.
 
@@ -321,6 +307,13 @@ Step4 Select the text and below the navigation panel, you will find all the tool
 ![text navigation panel online](https://images.wondershare.com/filmora/article-images/2022/07/text-navigation-panel-online.jpg)
 
 Step5 Once done and you are satisfied, click on Save button.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -418,13 +411,6 @@ Adding text overlay to video is a basic operation in video editing. We have illu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Detailed Tutorial to Rotate Videos in Cyberlink PowerDirector
 
 Video Editing is a craft that is highly dependent on various characteristics of your video. But the way one presents it or goes about filming clips also has a profound effect on the end product. And as you may know, not every aspect of a video production activity always goes without hiccups. But editing can come in clutch as it can easily solve minor problems like skewed footage that was shot at the wrong angle or is upside down (an issue that can happen while using mobile phones).
@@ -457,179 +443,27 @@ For this guide, we used the pre-existing stock footage in Cyberlink PowerDirecto
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-2.jpeg)
 
-**Step 3:** Now, click on the video file on the Timeline; this will activate the video in the Preview Window. And it will provide you with access to the rotation circle, allowing you to change the orientation of the source file.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
-
-**EXTRA**
-
-Rotation added in the PiP Designer will function as a keyframe-based rotation action. Right-click on the video in the preview window, choose Edit and then Modify to access this menu.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-4.jpeg)
-
-Following this, you can click on the Motion Tab, go into Rotation Settings, and modify the angle with greater precision. In the Preview Window, you will now be able to see the rotating video.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-5.jpeg)
-
-## **An Easier Way to Crop Video with Wondershare Filmora**
-
-Though Cyberlink PowerDirector 365 is a powerful video editing tool, we felt its menus were not as simple to navigate. Accessing the rotate function while available in the forefront, the use of PiP Designer didn't feel intuitive.
-
-In Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) , rotating footage only happens via the Edit Option, and this straightforward approach felt simple. As for those who want to use Keyframes, the integration of this feature right above the Timeline is an appreciated convenience.
-
-This emphasis on quick accessibility is present with almost every function in Filmora, and we believe this to be a significant advantage. The use of modern and unique iconography also increases familiarity, an aspect that will always be welcoming to new and budding creators.
-
-_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
-
-To help you learn how to use the rotate function and show you an example of the easy accessibility in Filmora, here is how you can use the feature to get the output you desire.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-Once you have a new project open in Filmora, follow the steps listed below.
-
-**Step 1:** Import a Media File to edit into your Video Project.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-6.jpeg)
-
-**Step 2:** Drag the video clip onto the Timeline and then select it with a mouse click to activate further interactions.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
-
-**Step 3:** Choose the Edit Option (marked in Red).
-
-This will bring up the Edit Window in the left-top corner of your screen.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
-
-**Step 4:** Click on the Transform Menu and use the Rotation Slider to edit the orientation.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-9.jpeg)
-
-Having read this stretch of the guide, we believe you may have noticed how Filmora is more user-friendly and accessible due to its menu layout.
-
-**BONUS**
-
-Click on the Keyframe Button (marked in Green) to access the Keyframe Menu that allows you to set points between which a decided amount of rotation can happen.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-10.jpeg)
-
-## The Bottom Line
-
-This marks the end of our guide on how to rotate video in PowerDirector 365 and Wondershare Filmora X. Now, while both software are high-capable tools, we feel the keyframe-based working on rotation in Filmora is a lot more intuitive and easy to use. The ability to only have number-based rotation within the edit menu is also a positive, as rotating with a swivel like in PowerDirector isn't always the most accurate.
-
-And lastly, the modern iconography-based design of Wondershare Filmora is a factor to keep in mind, as this increases usability manifolds.
-
-**Note:** Full Mode in Cyberlink PowerDirector 365 will provide users access to a full-featured video editing tool similar in function to Wondershare Filmora. The other option available is Ad Designer.
-
-**Step 2:** Now, import media onto the Timeline from the Media Library.
-
-For this guide, we used the pre-existing stock footage in Cyberlink PowerDirector.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-2.jpeg)
-
-**Step 3:** Now, click on the video file on the Timeline; this will activate the video in the Preview Window. And it will provide you with access to the rotation circle, allowing you to change the orientation of the source file.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
-
-**EXTRA**
-
-Rotation added in the PiP Designer will function as a keyframe-based rotation action. Right-click on the video in the preview window, choose Edit and then Modify to access this menu.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-4.jpeg)
-
-Following this, you can click on the Motion Tab, go into Rotation Settings, and modify the angle with greater precision. In the Preview Window, you will now be able to see the rotating video.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-5.jpeg)
-
-## **An Easier Way to Crop Video with Wondershare Filmora**
-
-Though Cyberlink PowerDirector 365 is a powerful video editing tool, we felt its menus were not as simple to navigate. Accessing the rotate function while available in the forefront, the use of PiP Designer didn't feel intuitive.
-
-In Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) , rotating footage only happens via the Edit Option, and this straightforward approach felt simple. As for those who want to use Keyframes, the integration of this feature right above the Timeline is an appreciated convenience.
-
-This emphasis on quick accessibility is present with almost every function in Filmora, and we believe this to be a significant advantage. The use of modern and unique iconography also increases familiarity, an aspect that will always be welcoming to new and budding creators.
-
-_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
-
-To help you learn how to use the rotate function and show you an example of the easy accessibility in Filmora, here is how you can use the feature to get the output you desire.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-Once you have a new project open in Filmora, follow the steps listed below.
-
-**Step 1:** Import a Media File to edit into your Video Project.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-6.jpeg)
-
-**Step 2:** Drag the video clip onto the Timeline and then select it with a mouse click to activate further interactions.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
-
-**Step 3:** Choose the Edit Option (marked in Red).
-
-This will bring up the Edit Window in the left-top corner of your screen.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
-
-**Step 4:** Click on the Transform Menu and use the Rotation Slider to edit the orientation.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-9.jpeg)
-
-Having read this stretch of the guide, we believe you may have noticed how Filmora is more user-friendly and accessible due to its menu layout.
-
-**BONUS**
-
-Click on the Keyframe Button (marked in Green) to access the Keyframe Menu that allows you to set points between which a decided amount of rotation can happen.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-10.jpeg)
-
-## The Bottom Line
-
-This marks the end of our guide on how to rotate video in PowerDirector 365 and Wondershare Filmora X. Now, while both software are high-capable tools, we feel the keyframe-based working on rotation in Filmora is a lot more intuitive and easy to use. The ability to only have number-based rotation within the edit menu is also a positive, as rotating with a swivel like in PowerDirector isn't always the most accurate.
-
-And lastly, the modern iconography-based design of Wondershare Filmora is a factor to keep in mind, as this increases usability manifolds.
-
-**Note:** Full Mode in Cyberlink PowerDirector 365 will provide users access to a full-featured video editing tool similar in function to Wondershare Filmora. The other option available is Ad Designer.
-
-**Step 2:** Now, import media onto the Timeline from the Media Library.
-
-For this guide, we used the pre-existing stock footage in Cyberlink PowerDirector.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-2.jpeg)
-
-**Step 3:** Now, click on the video file on the Timeline; this will activate the video in the Preview Window. And it will provide you with access to the rotation circle, allowing you to change the orientation of the source file.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
-
-**EXTRA**
-
-Rotation added in the PiP Designer will function as a keyframe-based rotation action. Right-click on the video in the preview window, choose Edit and then Modify to access this menu.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-4.jpeg)
-
-Following this, you can click on the Motion Tab, go into Rotation Settings, and modify the angle with greater precision. In the Preview Window, you will now be able to see the rotating video.
-
-![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-5.jpeg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+**Step 3:** Now, click on the video file on the Timeline; this will activate the video in the Preview Window. And it will provide you with access to the rotation circle, allowing you to change the orientation of the source file.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
+
+**EXTRA**
+
+Rotation added in the PiP Designer will function as a keyframe-based rotation action. Right-click on the video in the preview window, choose Edit and then Modify to access this menu.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-4.jpeg)
+
+Following this, you can click on the Motion Tab, go into Rotation Settings, and modify the angle with greater precision. In the Preview Window, you will now be able to see the rotating video.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-5.jpeg)
+
 ## **An Easier Way to Crop Video with Wondershare Filmora**
 
 Though Cyberlink PowerDirector 365 is a powerful video editing tool, we felt its menus were not as simple to navigate. Accessing the rotate function while available in the forefront, the use of PiP Designer didn't feel intuitive.
@@ -753,6 +587,172 @@ Having read this stretch of the guide, we believe you may have noticed how Filmo
 Click on the Keyframe Button (marked in Green) to access the Keyframe Menu that allows you to set points between which a decided amount of rotation can happen.
 
 ![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-10.jpeg)
+
+## The Bottom Line
+
+This marks the end of our guide on how to rotate video in PowerDirector 365 and Wondershare Filmora X. Now, while both software are high-capable tools, we feel the keyframe-based working on rotation in Filmora is a lot more intuitive and easy to use. The ability to only have number-based rotation within the edit menu is also a positive, as rotating with a swivel like in PowerDirector isn't always the most accurate.
+
+And lastly, the modern iconography-based design of Wondershare Filmora is a factor to keep in mind, as this increases usability manifolds.
+
+**Note:** Full Mode in Cyberlink PowerDirector 365 will provide users access to a full-featured video editing tool similar in function to Wondershare Filmora. The other option available is Ad Designer.
+
+**Step 2:** Now, import media onto the Timeline from the Media Library.
+
+For this guide, we used the pre-existing stock footage in Cyberlink PowerDirector.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-2.jpeg)
+
+**Step 3:** Now, click on the video file on the Timeline; this will activate the video in the Preview Window. And it will provide you with access to the rotation circle, allowing you to change the orientation of the source file.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
+
+**EXTRA**
+
+Rotation added in the PiP Designer will function as a keyframe-based rotation action. Right-click on the video in the preview window, choose Edit and then Modify to access this menu.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-4.jpeg)
+
+Following this, you can click on the Motion Tab, go into Rotation Settings, and modify the angle with greater precision. In the Preview Window, you will now be able to see the rotating video.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-5.jpeg)
+
+## **An Easier Way to Crop Video with Wondershare Filmora**
+
+Though Cyberlink PowerDirector 365 is a powerful video editing tool, we felt its menus were not as simple to navigate. Accessing the rotate function while available in the forefront, the use of PiP Designer didn't feel intuitive.
+
+In Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) , rotating footage only happens via the Edit Option, and this straightforward approach felt simple. As for those who want to use Keyframes, the integration of this feature right above the Timeline is an appreciated convenience.
+
+This emphasis on quick accessibility is present with almost every function in Filmora, and we believe this to be a significant advantage. The use of modern and unique iconography also increases familiarity, an aspect that will always be welcoming to new and budding creators.
+
+_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
+
+To help you learn how to use the rotate function and show you an example of the easy accessibility in Filmora, here is how you can use the feature to get the output you desire.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Once you have a new project open in Filmora, follow the steps listed below.
+
+**Step 1:** Import a Media File to edit into your Video Project.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-6.jpeg)
+
+**Step 2:** Drag the video clip onto the Timeline and then select it with a mouse click to activate further interactions.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
+
+**Step 3:** Choose the Edit Option (marked in Red).
+
+This will bring up the Edit Window in the left-top corner of your screen.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
+
+**Step 4:** Click on the Transform Menu and use the Rotation Slider to edit the orientation.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-9.jpeg)
+
+Having read this stretch of the guide, we believe you may have noticed how Filmora is more user-friendly and accessible due to its menu layout.
+
+**BONUS**
+
+Click on the Keyframe Button (marked in Green) to access the Keyframe Menu that allows you to set points between which a decided amount of rotation can happen.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-10.jpeg)
+
+## The Bottom Line
+
+This marks the end of our guide on how to rotate video in PowerDirector 365 and Wondershare Filmora X. Now, while both software are high-capable tools, we feel the keyframe-based working on rotation in Filmora is a lot more intuitive and easy to use. The ability to only have number-based rotation within the edit menu is also a positive, as rotating with a swivel like in PowerDirector isn't always the most accurate.
+
+And lastly, the modern iconography-based design of Wondershare Filmora is a factor to keep in mind, as this increases usability manifolds.
+
+**Note:** Full Mode in Cyberlink PowerDirector 365 will provide users access to a full-featured video editing tool similar in function to Wondershare Filmora. The other option available is Ad Designer.
+
+**Step 2:** Now, import media onto the Timeline from the Media Library.
+
+For this guide, we used the pre-existing stock footage in Cyberlink PowerDirector.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-2.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**Step 3:** Now, click on the video file on the Timeline; this will activate the video in the Preview Window. And it will provide you with access to the rotation circle, allowing you to change the orientation of the source file.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-3.jpeg)
+
+**EXTRA**
+
+Rotation added in the PiP Designer will function as a keyframe-based rotation action. Right-click on the video in the preview window, choose Edit and then Modify to access this menu.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-4.jpeg)
+
+Following this, you can click on the Motion Tab, go into Rotation Settings, and modify the angle with greater precision. In the Preview Window, you will now be able to see the rotating video.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-5.jpeg)
+
+## **An Easier Way to Crop Video with Wondershare Filmora**
+
+Though Cyberlink PowerDirector 365 is a powerful video editing tool, we felt its menus were not as simple to navigate. Accessing the rotate function while available in the forefront, the use of PiP Designer didn't feel intuitive.
+
+In Wondershare [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) , rotating footage only happens via the Edit Option, and this straightforward approach felt simple. As for those who want to use Keyframes, the integration of this feature right above the Timeline is an appreciated convenience.
+
+This emphasis on quick accessibility is present with almost every function in Filmora, and we believe this to be a significant advantage. The use of modern and unique iconography also increases familiarity, an aspect that will always be welcoming to new and budding creators.
+
+_If you do not already have Wondershare Filmora, you can download the software by visiting the official website._
+
+To help you learn how to use the rotate function and show you an example of the easy accessibility in Filmora, here is how you can use the feature to get the output you desire.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Once you have a new project open in Filmora, follow the steps listed below.
+
+**Step 1:** Import a Media File to edit into your Video Project.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-6.jpeg)
+
+**Step 2:** Drag the video clip onto the Timeline and then select it with a mouse click to activate further interactions.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
+
+**Step 3:** Choose the Edit Option (marked in Red).
+
+This will bring up the Edit Window in the left-top corner of your screen.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-8.jpeg)
+
+**Step 4:** Click on the Transform Menu and use the Rotation Slider to edit the orientation.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-9.jpeg)
+
+Having read this stretch of the guide, we believe you may have noticed how Filmora is more user-friendly and accessible due to its menu layout.
+
+**BONUS**
+
+Click on the Keyframe Button (marked in Green) to access the Keyframe Menu that allows you to set points between which a decided amount of rotation can happen.
+
+![rotate-videos-powerdirector](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-10.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -774,6 +774,13 @@ So, what's the difference between a vintage film shot in the 1920s and 1950s? It
 
 ![1950 vintage scene](https://images.wondershare.com/filmora/article-images/2023/01/1950-vintage-scene.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shooting a video to teleport yourself to the 1950s doesn't need to be complicated. You simply need to look the part in the video. For example, you can wear velvet-collar jackets, stovepipe trousers, carefully combed back hair, and other trendy styles in the 50s. It's even better if you can find those vintage chairs in your grandparent's collection.
 
 How to create a 1950s vintage film:
@@ -787,10 +794,10 @@ How to create a 1950s vintage film:
 ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
@@ -814,6 +821,13 @@ Up to here, you'll realize that your video doesn't still look like a 1950s film 
 ##### Step 4 Apply more graininess to the film
 
 ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
@@ -849,13 +863,6 @@ Up to here, you'll realize that your video doesn't still look like a 1950s film 
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Summary
 
 And that's all there is today! With these steps, you can create an engaging 1950s film without breaking a sweat on Filmora. Remember to visit our other vintage tutorials to learn how to create a film recorded in the 20s, 80s, and 90s. Happy editing, everyone!
@@ -863,13 +870,6 @@ And that's all there is today! With these steps, you can create an engaging 1950
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
 
@@ -947,22 +947,20 @@ And that's all there is today! With these steps, you can create an engaging 1950
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unveiling-the-secrets-to-thriving-with-youtube-adsense/"><u>[Updated] 2024 Approved Unveiling the Secrets to Thriving With YouTube AdSense</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-best-in-class-real-time-broadcast-systems/"><u>[Updated] In 2024, Best-in-Class Real-Time Broadcast Systems</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-engaging-audiences-with-jujutsu-kaisen-tiktok-content/"><u>[New] In 2024, Engaging Audiences with Jujutsu Kaisen TikTok Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-complete-slomo-recording-app-analysis-consumers-for-2024/"><u>[Updated] Complete SloMo Recording App Analysis Consumers for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-event-videography-is-popular-in-weddings-graduation-family-reunion-and-other-great-moments-here-im-going-to-share-some-of-the-tips-to-make-a-b/"><u>2024 Approved Event Videography Is Popular in Weddings, Graduation, Family Reunion and Other Great Moments. Here Im Going to Share some of the Tips to Make a Better Event Videography</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-quick-guide-to-mobile-devices-becoming-virtual-reality-hubs/"><u>2024 Approved The Quick Guide to Mobile Devices Becoming Virtual Reality Hubs</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/pc4/"><u>不意を突くデータ失われに対して、ノートPCで成功する4方法</u></a></li>
-<li><a href="https://article-helps.techidaily.com/free-football-filming-and-editing-essentials/"><u>Free-Football Filming & Editing Essentials</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Nokia 130 Music | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-stability-essentials-for-online-videography/"><u>In 2024, Stability Essentials for Online Videography</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/mkvwindows-103/"><u>MKVビデオがWindows 10で再生できない時の最適解決法ベスト3</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-steps-to-rotate-videos-in-lightworks-for-2024/"><u>New Steps to Rotate Videos in Lightworks for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
-<li><a href="https://fox-that.techidaily.com/retaining-iphones-pictures-on-apples-server-post-deletion-top-8-tips/"><u>Retaining iPhones Pictures on Apple's Server Post-Deletion: Top 8 Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/t7-kits-introduction-a-new-era-for-canon-photography/"><u>T7 Kit's Introduction: A New Era for Canon Photography</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-choosing-a-high-performance-compact-gaming-pc/"><u>Ultimate Guide: Choosing a High-Performance Compact Gaming PC</u></a></li>
+<li><a href="https://fox-search.techidaily.com/soluciones-practicas-y-faciles-de-implementar-para-solucionar-problemas-al-intentar-acceder-a-una-carpeta-ost-en-outlook/"><u>Soluciones Prácticas Y Fáciles De Implementar Para Solucionar Problemas Al Intentar Acceder a Una Carpeta OST en Outlook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-recovering-from-a-radeon-wattman-system-failure/"><u>Troubleshooting Guide: Recovering From a Radeon Wattman System Failure</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-step-by-step-to-crop-videos-using-lightworks/"><u>Updated 2024 Approved Step by Step to Crop Videos Using Lightworks</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-random-letter-reveal-intro/"><u>Updated How to Make Random Letter Reveal Intro?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-cloud-storage-service-for-videos-for-2024/"><u>Updated Best Cloud Storage Service for Videos for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-effects-on-tiktok/"><u>Updated In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Infinix Hot 30 5G | Dr.fone</u></a></li>
 </ul></div>
 

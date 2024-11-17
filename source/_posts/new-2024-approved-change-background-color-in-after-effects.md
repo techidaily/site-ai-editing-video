@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Change Background Color in After Effects
-date: 2024-11-06T00:16:34.532Z
-updated: 2024-11-07T01:15:39.396Z
+date: 2024-11-09T18:39:06.490Z
+updated: 2024-11-16T19:59:53.726Z
 tags: 
   - ai
   - animation videos
@@ -105,6 +105,13 @@ Step5 Finally, play the video and click on Export button to save the video.
 
 ## Part 3\. FAQs about Video Background Colors
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. How do I remove background color in After Effects?
 
 Import your video clip with a solid background color and place it on Timeline. Go to Effect menu> Keying> Keylight option. In Effects window and under Keylight, you will see Screen Colour option. Click on the eyedropper icon and select the background color you want to remove.
@@ -129,18 +136,19 @@ Go to Layer> New> Solid and add a white color solid first. However, this white c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add Neon Effects to Your Dance Videos with the Help of Wondershare Filmora After Reading This Article. It Will Give a More Thrilling and Exciting Appearance
 
 Neon colors in videos are constantly attracting and compelling the scenes. So how it looks if dancing videos have this feature? For sure, it'll be dreamier and more classy.
 
 After moving toward, the following steps of processing neon effects, you will find different effects to make your video filmier. Wondershare Filmora provides all types of products on one platform. Then try it out and enjoy the rest. Scroll more to learn about the neon effect before editing your video!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Neon Dance Effects in Wondershare Filmora
 
@@ -191,13 +199,6 @@ After adding the same video, now convert BG into a black screen. For this, follo
 
 ![changing the blending mode to difference](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * As soon as you click on the Difference option, you will notice a change in the main play window; it will all turn to a **black screen**.
 
 ##### Step4 Add the Pixelated Edges effect
@@ -307,6 +308,13 @@ Wondershare Filmora offers a variety of editing features that you can use to cre
 
 ![neon effects in filmora](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Steps to Make a Neon Dance Effect With Filmora
 
 The public is tired now of seeing old video graphics in dancing videos. It's time to add neon colors to give a fascinating look. Follow the step-by-step guide mentioned below, and let's get going!
@@ -398,13 +406,6 @@ It would help if you created multiple outlines to achieve the Neon Dance effect.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** You don't want all the outlines to play simultaneously. Otherwise, the outlines will not appear to be separate.
 
 * To do so, stack the videos on each other on different tracks.
@@ -421,13 +422,6 @@ To efficiently blend the outlines with the green screen, you can change the blen
 
 ![change the blending mode to lighten](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step8 Add the Glow effect
 
 To make the outlines glow like Neon lights, we will need to add another effect from the effects library.
@@ -436,6 +430,13 @@ To make the outlines glow like Neon lights, we will need to add another effect f
 * Click and **drag** the glow effect to each of the exported videos.
 
 ![add the glow effect](https://images.wondershare.com/filmora/article-images/2023/01/neon-dance-effect-11.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can make it more fun by going one step further!
 
@@ -481,13 +482,6 @@ So to help you tone your skills, we've written a comprehensive guide on how to a
 
 GIMP is frequently used as a Photoshop alternative. The software boasts a wide range of features, including support for layers, masks, color management, and third-party plugins.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Features
 
 Here are some key features of the GIMP software:
@@ -513,16 +507,16 @@ Step2 In the next step, click **“File”** on the GIMP dashboard, and select *
 
 ![importing photo to gimp to add motion blur effect](https://images.wondershare.com/filmora/article-images/2023/02/importing-photo-to-gimp-to-add-motion-blur-effect.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Next, click the **“Filters”** option from the top toolbar, select **“Blur,”** and choose **“Motion Blur”** from the drop-down menu. A dialogue box will now open where you can preview the effect and adjust the settings, including Blur Type, Blur Center, and Blur Parameters.
 
 ![adding motion blur effect to photo using gimp](https://images.wondershare.com/filmora/article-images/2023/02/adding-motion-blur-effect-to-photo-using-gimp.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 Once you are satisfied with your changes, click **“OK”** to apply the effect to the image, and make some other edits if needed. Finally, click **“File”** from the top toolbar, choose **“Export As,”** click **“File Type”** to select the format, and select the **“Export”** option to save your file.
 
@@ -616,13 +610,6 @@ Hopefully, you found this article helpful in resolving your queries, and you can
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Convert MP4 to 60 FPS GIF: A Step-by-Step Guide
 
 GIFs have become a popular way to share short and engaging videos online. They are widely used on social media platforms and messaging apps, making it easy to share moments, reactions, and emotions with friends and family. But not all GIFs are created equal. Some GIFs can look choppy and low-quality, detracting from the viewing experience.
@@ -651,13 +638,6 @@ While it's true that many people search for 60 FPS GIFs, it's important to under
 
 ![60 fps gif](https://images.wondershare.com/filmora/article-images/60-fps-gif.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 GIFs are an image format designed to display simple animations. [GIF files store delay time between frames](https://en.wikipedia.org/wiki/GIF) which is defined as multiples of 1/100th of a second. Value 1 would give you 100 FPS; value 2 would already have half of 100 FPS, that is, 50 FPS; value 3 would give you 33.3 FPS GIF, etc. So there are 20 FPS GIFs, 33.3 FPS GIFs, 50 FPS GIFs, and 100 FPS GIFs.
 
 In addition, many websites or programs (including Google Chrome) ignore value 1 (100 FPS GIFs) and default to a much slower animation speed when viewing GIF files. Therefore, 100 FPS GIFs are technically possible but are rarely used. Value 2 (50 FPS) is the most you can get.
@@ -681,6 +661,19 @@ Converting videos to GIFs is a simple process that can be done using various too
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Not only does it allow you to easily convert your videos to GIFs, but it also allows you to customize the frame rate and other settings to get the perfect results. With its user-friendly interface and powerful features, Filmora makes it simple for anyone to create high-quality GIFs that are perfect for sharing on social media or other platforms.
 
@@ -744,6 +737,19 @@ GIF files store delay time between frames in whole hundredths of a second. They 
 
 The maximum fps for a GIF is 100 FPS, but browsers or consumer screens do not support it. The browser-engine image decoders will automatically reduce the framerate to 10 fps, playing it ten times slower. If a GIF appears slow, the browser has reset the speed to 10 fps. Some software and devices may support higher frame rates.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 GIF is a popular format for short animations and videos. The frame rate of a GIF determines its playback speed, which is usually set at 10, 20, 12.5, 25, and 50 per second. However, the highest possible frame rate that can be represented in the GIF format is 100 FPS, but most browsers and consumer screens cannot display it accurately.
@@ -753,6 +759,13 @@ There are various tools available, both online and desktop-based, that can conve
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![wondershare filmora](https://images.wondershare.com/filmora/article-images/filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Not only does it allow you to easily convert your videos to GIFs, but it also allows you to customize the frame rate and other settings to get the perfect results. With its user-friendly interface and powerful features, Filmora makes it simple for anyone to create high-quality GIFs that are perfect for sharing on social media or other platforms.
 
@@ -838,16 +851,20 @@ There are various tools available, both online and desktop-based, that can conve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-10-expert-suggestions-to-make-your-yt-shorts-stand-out/"><u>[Updated] 2024 Approved 10 Expert Suggestions to Make Your YT Shorts Stand Out</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-digital-filmmaking-implementing-callout-lines-in-edits/"><u>[Updated] 2024 Approved Digital Filmmaking Implementing Callout Lines in Edits</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-cont/"><u>2024 Approved Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/interactive-communication-enhancing-your-youtube-presence-for-2024/"><u>Interactive Communication Enhancing Your YouTube Presence for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>New 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-lenovo-ideapad-t430-driver-downloads-for-windows-11-8-and-7-users/"><u>Quick & Easy Lenovo Ideapad T430 Driver Downloads for Windows 11, 8 & 7 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-ultra-hd-gaming-displays-for-computers-featuring-144hz-refresh-rates-and-curve-technology/"><u>Top-Rated Ultra HD Gaming Displays for Computers - Featuring 144Hz Refresh Rates & Curve Technology</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-the-ideal-outdoor-projector-professional-ratings-and-insights-zdnet/"><u>Ultimate Guide to Choosing the Ideal Outdoor Projector - Professional Ratings & Insights | ZDNet</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-12-ultimate-insta-image-enhancers/"><u>[New] 12 Ultimate Insta Image Enhancers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-t5-action-camera-the-complete-ultimate-video-experience/"><u>[New] In 2024, T5 Action Camera The Complete, Ultimate Video Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-nanofilm-whiz/"><u>[New] NanoFilm Whiz</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-snort-spree-top-10-viral-laughs-online/"><u>[New] Snort Spree Top 10 Viral Laughs Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-to-use-montage-with-these-movies/"><u>2024 Approved Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-turning-beauty-blogging-into-cash/"><u>2024 Approved Turning Beauty Blogging Into Cash</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-quiz-videos-detailed-guide-for-2024/"><u>How To Create Quiz Videos Detailed Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-most-reliable-free-srt-translation-services/"><u>In 2024, Exploring the Most Reliable Free SRT Translation Services</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-moto-g24-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G24 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-s18-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo S18 Screen | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-urban-landscapes-the-gotrapress-review-of-a-swift-and-compact-electric-scooter/"><u>Navigating Urban Landscapes: The Gotrapress Review of a Swift and Compact Electric Scooter</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>New In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-text-reveal-animation-easy-masking-filmora/"><u>New TEXT REVEAL Animation | Easy Masking Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-in-camera-transitions-tricks-to-make-videos-like-a-pro-for-2024/"><u>Updated 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024</u></a></li>
 </ul></div>
 

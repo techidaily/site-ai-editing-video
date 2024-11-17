@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How To Use Speed Ramping to Create an Intense Action Footage
-date: 2024-10-30T16:47:48.583Z
-updated: 2024-11-06T17:06:34.300Z
+date: 2024-11-11T01:32:49.999Z
+updated: 2024-11-17T08:03:08.044Z
 tags: 
   - ai
   - animation videos
@@ -84,13 +84,6 @@ You can choose different speed templates in the setting window. Or, on the left 
 The lower keyframe is when the video is slowest, and the peak is when the video is fastest. The middle parts between the keyframes are when it speeds up or slows down to reach the specific speed you set on each keyframe.
 
 ![adjusting key-frames wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-6.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Grab the keyframes and move them up to increase the speed or down to slow down the rate. You can also add more keyframes by moving the playhead to the spot where you want to change speed and clicking the plus button.
 
@@ -260,6 +253,13 @@ Double-click on the freeze frame clip to adjust the Shape Mask on the preview sc
 
 ![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 4 Add the transition video
 
 Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
@@ -283,10 +283,17 @@ First, you need to create a close-up eye video. Although you can do that with yo
 ![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create an Eye-zoom Transition
@@ -297,18 +304,18 @@ After recording a close-up eye video, add it on Wondershare Filmora and duplicat
 
 ![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2 Add a freeze frame to the video
 
 Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
 
 ![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
 
@@ -330,6 +337,13 @@ With that done, move the playhead to the start of the freeze frame video and dou
 
 ![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
 
 ## Summary
@@ -351,6 +365,13 @@ First, you need to create a close-up eye video. Although you can do that with yo
 After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
 
 ![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 2 Add a freeze frame to the video
 
@@ -452,19 +473,6 @@ Step 1: On your device, launch the web browser. Open the official website of Vim
 
 ![play video vimeo watch](https://images.wondershare.com/filmora/article-images/play-video-vimeo-watch.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Now, you need to change the URL of the video you are playing. Here are the changes to make in the address bar.
 
 * Remove everything at the beginning of "vimeo.com". Add ".player" at the beginning of the URL.
@@ -498,10 +506,10 @@ Step 4: From the expanded section, go to Special Stuff section. Turn on "Loop th
 Step 5: Thereafter, copy the code and paste it into your website to play the video in a loop.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 3\. How to Loop a Vimeo Video on Mobile
@@ -533,13 +541,6 @@ Thereafter, you can import the downloaded video into Filmora. Then you can exten
 Step 1: Download and install Wondershare Filmora. Download the desired Vimeo video on your computer. Launch Filmora and click on New Project.
 
 ![filmora startup window](https://images.wondershare.com/filmora/guide/startup-window-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2: Drag and drop the downloaded video file into the Project Media folder on Filmora. Thereafter, bring the video file from Project Media folder into the timeline.
 
@@ -645,13 +646,6 @@ For macOS 10.14 or later
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Right-click on the video clip from which you want to extract the audio. Select the option of “Detach Audio” from the menu. Instantly, an audio file is visible on the screen, and it is the original one from the source.
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
@@ -690,13 +684,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Features
 
 * Simple interface and all the tools are easily available
@@ -718,6 +705,13 @@ For macOS 10.14 or later
 **Step 4:** After separating the audio from the video, it is simple to delete the track, whether it is audio or video that is not in use or want to use. Click on the “Export” option for saving your required audio tracks, or you can even select the “iPod” for playing the audio. You can also save the audio file separately as the new file on your hard drive. After exporting the audio tracks, load the project file again that has the frames for the video and later export the video file.
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas5.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Whenever you think about the compatibility of editing software with different operating systems, Wondershare Filmora comes to mind as the first choice. All the new features of Wondershare Filmora in its latest version have received positive feedback and reviews. Definitely, it is the actual replacement of the previously used editors such as video editor in Windows or iMovie in Mac.
 
@@ -841,20 +835,20 @@ Just little guidance and assistance can help you use the Wondershare Filmora as 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-transformative-techniques-looping-videos-that-engage-instagram-users/"><u>[Updated] In 2024, Transformative Techniques Looping Videos That Engage Instagram Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-stepwise-approach-to-update-meet-username-laptopmobile-for-2024/"><u>[Updated] Stepwise Approach to Update Meet Username (Laptop/Mobile) for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-need-to-learn-about-halftone-effects-learn-how-to-quickly-create-a-halftone-effect-in-adobe-photoshop-with-simple-easy-to-follow-instructions./"><u>2024 Approved Need to Learn About Halftone Effects? Learn How to Quickly Create a Halftone Effect in Adobe Photoshop with Simple, Easy-to-Follow Instructions</u></a></li>
-<li><a href="https://win-web.techidaily.com/backup-e-restauro-de-dados-no-windows-11-guia-completo/"><u>Backup E Restauro De Dados No Windows 11: Guia Completo</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-guide-transferring-videos-to-ios-devices-like-the-iphone-ipad-and-ipod/"><u>Easy Guide: Transferring Videos to iOS Devices Like the iPhone, iPad & iPod</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-secrets-of-duckduckgo-how-safe-is-it-really-for-internet-searching/"><u>Exploring the Secrets of DuckDuckGo - How Safe Is It Really for Internet Searching?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-lenovo-bluetooth-hitches-in-win11/"><u>Fixing Lenovo Bluetooth Hitches in Win11</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-do-velocity-edits-on-pc-for-2024/"><u>How to Do Velocity Edits on PC for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-crafting-captivating-captions-elevate-your-pages-popularity-for-2024/"><u>[New] Crafting Captivating Captions Elevate Your Page's Popularity for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-which-livestreaming-tool-wins-obs-or-bandicam-in-2024/"><u>[New] Which Livestreaming Tool Wins OBS or Bandicam, In 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-video-content-defeating-10-vlogging-hurdles/"><u>[Updated] Mastering Video Content Defeating 10 Vlogging Hurdles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-social-media-savvy-how-to-download-status-vids-on-fb/"><u>[Updated] Social Media Savvy How to Download Status Vids on FB</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-out-what-keyframe-interval-is-why-it-is-important-and-to-change-its-value-on-obs-studio-with-simple-and-easy-to-follow-instructions/"><u>2024 Approved Find Out What Keyframe Interval Is, Why It Is Important, and to Change Its Value on OBS Studio with Simple and Easy-to-Follow Instructions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-pinnacle-of-pc-clicker-fun-top-12-must-try-games/"><u>2024 Approved Pinnacle of PC Clicker Fun Top 12 Must-Try Games</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-24-on-windows-device-missing-solutions-for-windows-7810-users/"><u>Error 24 on Windows (Device Missing) – Solutions for Windows 7/8/10 Users</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-6-ways-to-mimic-professional-filming-gears/"><u>New 6 Ways to Mimic Professional Filming Gears</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-3-in-camera-transitions-tricks-to-make-videos-for-2024/"><u>New 3 In-Camera Transitions Tricks To Make Videos for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-discover-the-process-of-slowing-down-time-lapse-videos-on-your-iphone/"><u>New Discover the Process of Slowing Down Time-Lapse Videos on Your iPhone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-guide-to-synchronizing-your-audio-and-videos-properly-in-2024/"><u>New Guide to Synchronizing Your Audio And Videos Properly, In 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/s-ultimate-guide-to-online-stop-motion-creation-top-picks/"><u>S Ultimate Guide to Online Stop Motion Creation Top Picks</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-harmonize-your-hearings-top-software-to-extract-clean-soundscapes-from-original-recordings-for-2024/"><u>New Harmonize Your Hearings Top Software to Extract Clean Soundscapes From Original Recordings for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-creating-the-perfect-vhs-effect-look-in-premiere-pro/"><u>Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-motion-blur-on-capcut-iphone-and-android-for-2024/"><u>Updated How To Add Motion Blur On CapCut? (IPhone & Android) for 2024</u></a></li>
 </ul></div>
 

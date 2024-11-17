@@ -1,7 +1,7 @@
 ---
 title: New Steps to Rotate Videos in Lightworks for 2024
-date: 2024-11-02T01:25:42.100Z
-updated: 2024-11-06T22:33:12.393Z
+date: 2024-11-15T23:28:43.897Z
+updated: 2024-11-16T17:56:08.899Z
 tags: 
   - ai
   - animation videos
@@ -107,6 +107,13 @@ Step 3: Click on the "VFX" tab and go to the “3D DVE" section.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Choose the Z axis and rotate the video to the desired degree. You can also modify the orientation of the video by entering a value in the box provided in front of the Z-axis.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-4.png)
@@ -211,13 +218,6 @@ Step 2: Click the video clip you want to rotate.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Click on the "Edit" tool above the timeline and go to the "Transform" section. Then, select the “Rotate” option.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-8.png)
@@ -256,6 +256,13 @@ Step 5: Click on the Enter in the keyboard button.
 
 Your video will now be rotated by the selected number of degrees.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Rotate Videos in Filmora
 
 On the other hand, Lightworks has an alternative video editing tool which is [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . If you are looking for a lightweight video editor with an easy-to-use interface, then Filmora is the best option for you. It offers powerful features such as motion graphics, text editing, and audio editing, while still being very easy to use.
@@ -293,13 +300,6 @@ Step 3: Click on the "Edit" tool above the timeline and go to the "Transform" se
 Step 4: Select the desired rotation option.
 
 ![rotate-video-lightworks](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-lightworks-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Click on the "Ok" button.
 
@@ -366,6 +366,13 @@ Step3Click on the “Titles” tab at the top to open the text and title presets
 
 ![click on titles](https://images.wondershare.com/filmora/article-images/2022/08/adding-text-to-video-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4If you like the preset that you have selected, place the cursor on the position in the timeline where you would like to add the text and then drag and drop the title track above the video in the timeline.
 
 ![add text](https://images.wondershare.com/filmora/article-images/2022/08/adding-text-to-video-6.jpg)
@@ -411,6 +418,13 @@ Here's how you can use PowerDirector to add text to your video;
 Step1Install PowerDirector on your device. Open it and tap “New Project” at the top. Select an aspect ratio depending on the video project you are working on and enter a project name.
 
 ![new project powerdirector](https://images.wondershare.com/filmora/article-images/2022/08/new-project-powerdirector.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2Select the video that you would like to edit from the folders that show up on the screen. The video will be added to the main timeline of the project.
 
@@ -466,6 +480,13 @@ And if you want a professional way, just imagine the clapper board. You must hav
 
 ![a clapper board used to start a film scene](https://images.wondershare.com/filmora/article-images/2023/04/film-start-clapper-board.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Every time you cut your shot, remember to clap on camera again the next time you roll. It's best to clap before you say "Action" or speak so that it's easy to find and sync when editing. But if you forget, you can also clap at the end of the shot before you cut. That is called a **Tail Slate**!!!
 
 After you've recorded your video like this, the next step is pretty simple. The video editor we recommend is no other than the world's leading tool in the market, Wondershare Filmora. Let's move forward and see how to sync audio with video using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -510,13 +531,6 @@ When a new project is created, you'll see an "Import Media" section on it. Click
 
 ![import your media files](https://images.wondershare.com/filmora/article-images/2023/04/import-media-section-in-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3Prepare your files
 
 Now, it's time to prepare our files for synchronization. First, drag the video file down to the timeline from the "Import Media" section. After that, drag the audio file in the same way below the video on the panel.
@@ -551,13 +565,6 @@ Once the audio file has been separated, you can move forward and delete it. To d
 
 So here we go. Our video file has been synced with the high-quality audio file. You can now hit the Export button to get this edited file. But wait a minute. Didn't we say we'll show you a method to automatically sync audio with video? Let's start this method now.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps To Automatically Sync Audio With Video Using Filmora
 
 Did you find the above method troubling? Well, be assured because [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) can also automatically sync your audio file with video in a single click. Here are the steps to achieve this feat.
@@ -590,13 +597,6 @@ Filmora will start synchronizing your files, and you'll see the "Synchronization
 
 ![syncing in process](https://images.wondershare.com/filmora/article-images/2023/04/syncing-in-process.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5Finish your editing
 
 You can finish your editing when the separate audio file perfectly aligns with the video file. Delete the audio from the in-camera video file and hit the "Export" button.
@@ -612,13 +612,6 @@ Well, auto synchronization is no doubt easier than manual syncing. But that does
 ### How can we sync audio & video for free?
 
 Syncing audio and video files for free is not a difficult task. Download the Filmora right now, and after installation, you can freely sync any Audio file with its corresponding video file by using the manual method described above.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -656,6 +649,13 @@ The next step is to import all the files. Launch the Filmora and click on the "N
 
 ![click on the new project](https://images.wondershare.com/filmora/article-images/2023/04/create-a-new-project-on-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When a new project is created, you'll see an "Import Media" section on it. Click on this section to browse your audio and video files from the computer. Or you can also drag and drop these files here to import them.
 
 ![import your media files](https://images.wondershare.com/filmora/article-images/2023/04/import-media-section-in-filmora.jpg)
@@ -690,13 +690,6 @@ Once the audio file has been separated, you can move forward and delete it. To d
 
 ![delete the detached audio](https://images.wondershare.com/filmora/article-images/2023/04/delete-the-detached-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step6Enjoy your video with the new audio track
 
 So here we go. Our video file has been synced with the high-quality audio file. You can now hit the Export button to get this edited file. But wait a minute. Didn't we say we'll show you a method to automatically sync audio with video? Let's start this method now.
@@ -718,6 +711,13 @@ This method's starting process is the same as the previous one. You'll need to d
 Once you've got everything ready, select both your audio and files from the timeline.
 
 ![select both audio and video files](https://images.wondershare.com/filmora/article-images/2023/04/select-both-audio-and-video-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3Click on the auto synchronization icon
 
@@ -873,13 +873,6 @@ Select the Titles tab and drag the Default Title to the Timeline.
 
 ![add new title filmora](https://images.wondershare.com/filmora/article-images/2023/01/title.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4
 
 Double-click on the Default Title inside the Timeline and go to **Advanced.** Here, you can change the text, pick a new font, change its size, and so on. Make sure you change the Color Type to **Gradient Fill.** Choose a color of your own liking. When you’re done customizing it, click on **OK.**
@@ -971,6 +964,13 @@ Step 5
 Right-click on the Default Title clip and select **Copy.** Then, right-click anywhere on the Timeline and select **Paste.** After this, drag the copy of that clip on the Track above it.
 
 ![copy clip in filmora](https://images.wondershare.com/filmora/article-images/2023/01/copy.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 6
 
@@ -1114,18 +1114,20 @@ Summary
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-simplified-methods-capturing-powerpoint-talks-for-2024/"><u>[New] Simplified Methods Capturing PowerPoint Talks for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-streamlining-post-production-with-after-effects-and-luts/"><u>[Updated] In 2024, Streamlining Post Production with After Effects and LUTs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-swift-shadowing-in-1-minute/"><u>[Updated] Swift Shadowing in 1 Minute</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-hyperlapse-vs-timelapse-videos/"><u>2024 Approved Hyperlapse VS Timelapse Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-changing-switches-sleek-or-solid/"><u>Game-Changing SWITCHES: Sleek or Solid?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harness-the-power-of-ai-for-seamless-web-app-creation-with-chatgpt/"><u>Harness the Power of AI for Seamless Web App Creation with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-brainstorm-ideas-with-a-mindmap-and-chatgpt/"><u>How to Brainstorm Ideas With a Mindmap and ChatGPT</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713953297744-new-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-cont/"><u>New A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-tiktok-loop-video/"><u>New How to Make a TikTok Loop Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-adobe-lightroom-color-grading-tutorial/"><u>New In 2024, Adobe Lightroom Color Grading Tutorial</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/take-your-editing-to-the-next-level-top-40-fcpx-keyboard-shortcuts-and-tricks/"><u>Take Your Editing to the Next Level Top 40 FCPX Keyboard Shortcuts and Tricks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/mall-screen-big-impact-effortless-businesspersonal-youtube-channel-setup/"><u>The Small Screen, Big Impact Effortless Business/Personal YouTube Channel Setup</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-if-you-are-a-marketer-who-want-to-create-facebook-ads-to-boost-your-business-you-are-coming-to-the-right-place-well-share-you-some-useful-tips-to-st/"><u>Updated If You Are a Marketer Who Want to Create Facebook Ads to Boost Your Business, You Are Coming to the Right Place. Well Share You some Useful Tips to Start Your First FB Ads Campaign</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-transform-sluggish-to-speedy-on-android-vids/"><u>[New] Transform Sluggish to Speedy on Android Vids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-audacitys-toolkit-for-exceptional-sound-recording/"><u>[Updated] In 2024, Audacity's Toolkit for Exceptional Sound Recording</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unmatched-action-footage-top-7-best-camcorders/"><u>[Updated] In 2024, Unmatched Action Footage Top 7 Best Camcorders</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-15-best-travel-vloggers-that-you-should-follow/"><u>2024 Approved 15 Best Travel Vloggers That You Should Follow</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-capture-gameplay-prowess-on-android-screens/"><u>2024 Approved Capture Gameplay Prowess on Android Screens</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamless-edits-start-on-all-your-tech/"><u>In 2024, Seamless Edits Start on All Your Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-openais-dominion-over-gpt-dwindling/"><u>Is OpenAI's Dominion Over GPT Dwindling?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/is-the-lg-k92-worth-your-money-just-based-on-its-5g-technology-our-review-explains/"><u>Is the LG K92 Worth Your Money Just Based on Its 5G Technology? Our Review Explains!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-effective-ways-to-add-text-behind-objects/"><u>New 2024 Approved 2 Effective Ways to Add Text Behind Objects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved How to Remove Background From a Video in Premier Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimal-gear-for-enhanced-live-video-quality-for-2024/"><u>Optimal Gear for Enhanced Live Video Quality for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-asus-rog-phone-8-pro-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Asus ROG Phone 8 Pro.</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
 </ul></div>
 

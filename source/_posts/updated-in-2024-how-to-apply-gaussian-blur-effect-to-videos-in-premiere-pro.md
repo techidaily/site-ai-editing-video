@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?
-date: 2024-11-02T19:55:45.604Z
-updated: 2024-11-06T23:05:43.068Z
+date: 2024-11-14T06:19:06.121Z
+updated: 2024-11-17T06:26:21.063Z
 tags: 
   - ai
   - animation videos
@@ -99,13 +99,6 @@ Double-click on the added effect to open its settings. Now you can change the �
 
 ![adjust square blur properties](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Being a professional, you should know the significance of various blur effects. This article has emphasized the **Gaussian blur** effect that can help you to remove noise from the videos. By reading this article, you can learn how to apply a Gaussian blur effect using Adobe Premiere Pro software. Moreover, we have also discussed Filmora as a better alternative to **Adobe Premiere Pro** for adding a Gaussian blur effect in the videos.
@@ -135,13 +128,6 @@ Following this, drag and drop the imported video on the timeline of Filmora. Aft
 Double-click on the added effect to open its settings. Now you can change the “Opacity” and “Size” according to your preference. Once done, choose the “Export” button to save the video in the desired file format.
 
 ![adjust square blur properties](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -201,6 +187,13 @@ Scarface (1983)
 Martin Scorsese's Goodfellas is a gangster film set in 1950s New York City, one of the best. In it, Irish-Italian Henry Hill (Ray Liotta) is portrayed as he rises through the ranks of the crime branch of his Brooklyn neighborhood. As we watch this Montage, we see Henry and his gang members viciously murdering anyone who stands in their path. This edit is beautifully complemented by Eric Clapton's "Layla." voice-over.
 
 Goodfellas (1990)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Trainspotting (1996)
 
@@ -367,18 +360,18 @@ Cyberpunk Color Grades is a pack of modern cyberpunk-style LUTs. It is a fantast
 
 ![cyberpunk color grades ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. [Pro Retouching Essentials Pack by Prince Meyson](https://godownloads.net/prince-meyson-all-skin-luts-actions-retouching-free-download/)
 
 Prince Meyson offers this skin tone enhancer LUT pack. It has a neutral, balanced color grading that can make your videos look more polished and professional. This LUT is ideal for interviews, documentaries, or corporate videos. Moreover, this pack is perfect for portraits and close-up shots. It can enhance the natural colors of your footage and make it look more refined.
 
 ![pro retouching essentials pack ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Apply LUTs on Final Cut Pro
 
@@ -417,6 +410,19 @@ Click the plugin button once you've imported your video clip and choose RT Adjus
 An icon will appear once you've selected RT Adjustment Layer. Drag and drop this icon on top of your video clip.
 
 ![drop adjustment layer to timeline ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-10.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3
 
@@ -466,6 +472,13 @@ In conclusion, Final Cut Pro is a powerful tool for video editing. This tool all
 
 You are at the right place if you're having trouble finding the best LUTs for FCPX. This section will provide you with one of the best LUTs you can choose for your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.[Free Cinematic LUTs Pack for Video Editing](https://filtergrade.com/free-cinematic-luts-video-editing/)
 
 This free LUT pack is a perfect choice to give your videos a cinematic look. It features a soft blue color grading with high contrast that can make your footage look like it was shot on film. This LUT is especially effective for outdoor scenes and action shots. Moreover, its color grading enhances the drama and feel of your video footage.
@@ -496,13 +509,6 @@ Prince Meyson offers this skin tone enhancer LUT pack. It has a neutral, balance
 
 ![pro retouching essentials pack ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Apply LUTs on Final Cut Pro
 
 Now that you've discovered there are many Final Cut Pro LUTs free to download. The most important thing is to learn how to use these free LUTs on your video using FCPX. Here are some methods to learn to apply LUTs using Final Cut Pro in simple steps.
@@ -514,13 +520,6 @@ Now that you've discovered there are many Final Cut Pro LUTs free to download. T
 Open Final Cut Pro and import your video. Once the video is imported, click on the clip you want to apply the LUT.
 
 ![import video to final cut pro ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step2
 
@@ -596,6 +595,13 @@ In conclusion, Final Cut Pro is a powerful tool for video editing. This tool all
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to DIY VHS Overlay in After Effects?
 
 The 90s generation is familiar with Video Home System video. Today, Moviemakers use VHS static overlay to give their videos an antique and vintage look.
@@ -612,16 +618,16 @@ Step 1: To create a VHS look on your video, drop any video of your choice into t
 
 ![changing composition settings on after effects](https://images.wondershare.com/filmora/article-images/2022/changing-composition-settings-on-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Right-click on your video and select New Comp from Selection. Drag your video to a new composition and then go to Lumetri Color < Basic Correction. Add some contrast. You can set it to 50 or any other number of your choice. Then bring the white level down to -55.
 
 ![getting lumetri color effect to get vhs look](https://images.wondershare.com/filmora/article-images/2022/using-lumetri-color-effect-to-get-vhs-look.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then open the Creative tab. Increase the faded film to 40\. Set sharpening to -70\. Bring vibrance to -30.
 
@@ -681,149 +687,149 @@ When finished, click export and choose the format and target folder to save the 
 
 ![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
 
+The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
+
+By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
+
+### Conclusion
+
+Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Do you want to add retro videos on Filmora? It is simple!
+
+To create a VHS overlay video, you should first download the Filmora app for free if you haven't! Let's learn how the effect can transform your video. You will have to choose various effects and values to get the final VHS overlay video. These effects can be added to any lyric video, intro, outro, and many others.
+
+Let's look at the steps:
+
+Open your draft in Filmora software and select sample colors from the Media tab on the top left.
+
+![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
+
+You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
+
+In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
+
+You can also add effects like Strong Glitch, Chromatic Aberration, Glitch Distortion, Distort, etc., to enhance the vintage look of the video.
+
+When finished, click export and choose the format and target folder to save the processed file with the added effects.
+
+![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
+
+The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
+
+By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
+
+### Conclusion
+
+Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Do you want to add retro videos on Filmora? It is simple!
+
+To create a VHS overlay video, you should first download the Filmora app for free if you haven't! Let's learn how the effect can transform your video. You will have to choose various effects and values to get the final VHS overlay video. These effects can be added to any lyric video, intro, outro, and many others.
+
+Let's look at the steps:
+
+Open your draft in Filmora software and select sample colors from the Media tab on the top left.
+
+![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
+
+You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
+
+In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
+
+You can also add effects like Strong Glitch, Chromatic Aberration, Glitch Distortion, Distort, etc., to enhance the vintage look of the video.
+
+When finished, click export and choose the format and target folder to save the processed file with the added effects.
+
+![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
+
+The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
+
+By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
+
+### Conclusion
+
+Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Do you want to add retro videos on Filmora? It is simple!
+
+To create a VHS overlay video, you should first download the Filmora app for free if you haven't! Let's learn how the effect can transform your video. You will have to choose various effects and values to get the final VHS overlay video. These effects can be added to any lyric video, intro, outro, and many others.
+
+Let's look at the steps:
+
+Open your draft in Filmora software and select sample colors from the Media tab on the top left.
+
+![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
+
+You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
+
+In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
+
+You can also add effects like Strong Glitch, Chromatic Aberration, Glitch Distortion, Distort, etc., to enhance the vintage look of the video.
+
+When finished, click export and choose the format and target folder to save the processed file with the added effects.
+
+![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
 
 By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
 
-### Conclusion
-
-Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Do you want to add retro videos on Filmora? It is simple!
-
-To create a VHS overlay video, you should first download the Filmora app for free if you haven't! Let's learn how the effect can transform your video. You will have to choose various effects and values to get the final VHS overlay video. These effects can be added to any lyric video, intro, outro, and many others.
-
-Let's look at the steps:
-
-Open your draft in Filmora software and select sample colors from the Media tab on the top left.
-
-![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
-
-You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
-
-In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
-
-You can also add effects like Strong Glitch, Chromatic Aberration, Glitch Distortion, Distort, etc., to enhance the vintage look of the video.
-
-When finished, click export and choose the format and target folder to save the processed file with the added effects.
-
-![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
-
-The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
-
-By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
-
-### Conclusion
-
-Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Do you want to add retro videos on Filmora? It is simple!
-
-To create a VHS overlay video, you should first download the Filmora app for free if you haven't! Let's learn how the effect can transform your video. You will have to choose various effects and values to get the final VHS overlay video. These effects can be added to any lyric video, intro, outro, and many others.
-
-Let's look at the steps:
-
-Open your draft in Filmora software and select sample colors from the Media tab on the top left.
-
-![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
-
-You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
-
-In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
-
-You can also add effects like Strong Glitch, Chromatic Aberration, Glitch Distortion, Distort, etc., to enhance the vintage look of the video.
-
-When finished, click export and choose the format and target folder to save the processed file with the added effects.
-
-![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
-
-The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
-
-By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### Conclusion
-
-Video editing is now easy and fun. The trend of VCR overlay is now back as VHR overlay. With Wondershare Filmora, you can easily create classic videos with 90's effects. Take your video editing to the next big level with Filmora Video Editor. We can help you make the best use of this tool to create glitch effect videos and add a VHS tape overlay.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Do you want to add retro videos on Filmora? It is simple!
-
-To create a VHS overlay video, you should first download the Filmora app for free if you haven't! Let's learn how the effect can transform your video. You will have to choose various effects and values to get the final VHS overlay video. These effects can be added to any lyric video, intro, outro, and many others.
-
-Let's look at the steps:
-
-Open your draft in Filmora software and select sample colors from the Media tab on the top left.
-
-![sample colors for video on filmora](https://images.wondershare.com/filmora/article-images/2022/sample-colors-for-video-on-filmora.jpg)
-
-You can drag and drop the photo on a track on the timeline. Then adjust the trim handles to change the duration to match the section of the video to be transformed.
-
-In sequence, add these three overlays by dragging them from the Effects panel at the top to their own individual tracks on the timeline: VHS Distortion Bad (alpha = 25), VHS Distortion (alpha = 35), and VHS Rewind (alpha = 10).
-
-You can also add effects like Strong Glitch, Chromatic Aberration, Glitch Distortion, Distort, etc., to enhance the vintage look of the video.
-
-When finished, click export and choose the format and target folder to save the processed file with the added effects.
-
-![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
-
-The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
-
-By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
 
 ### Conclusion
 
@@ -855,17 +861,19 @@ Detailed tutorials provided by the official channel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-essence-extractor-capturing-and-saving-the-soul-of-twitter-gifs/"><u>[Updated] 2024 Approved Essence Extractor Capturing & Saving the Soul of Twitter GIFs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-opening-and-managing-srt-files-seamlessly/"><u>2024 Approved Opening and Managing SRT Files Seamlessly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-v30t-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme V30T FRP</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-oppo-reno-10-pro-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Oppo Reno 10 Pro 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-know-there-are-websites-to-download-free-glitch-transition-effects-for-premiere-pro-you-can-easily-download-them-and-make-awesome-videos-for-2024/"><u>Do You Know There Are Websites to Download Free Glitch Transition Effects for Premiere Pro? You Can Easily Download Them and Make Awesome Videos for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-on-iphone-11-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 12 mini</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-top-free-template-libraries-for-aspiring-ae-artists/"><u>In 2024, Top FREE Template Libraries for Aspiring AE Artists</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-vintage-film-effect-1980s-how-to-create/"><u>In 2024, Vintage Film Effect 1980S - How to Create</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-way-to-add-transitions-to-videos-for-2024/"><u>New Easy Way to Add Transitions to Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>New In 2024, HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-art-of-crafting-impressive-hdr-images-using-lightroom-for-2024/"><u>The Art of Crafting Impressive HDR Images Using Lightroom for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fine-tune-your-digital-discussions-zooming-upwards/"><u>[New] Fine-Tune Your Digital Discussions Zooming Upwards</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 12 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/bitraser-pro-comprehensive-tutorial-on-secure-data-destruction-via-video/"><u>BitRaser Pro: Comprehensive Tutorial on Secure Data Destruction via Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descubre-el-secreto-del-redimensionador-para-imagenes-eficaz-que-cambia-tamano-a-todas-tus-fotos-juntos/"><u>Descubre El Secreto Del Redimensionador Para Imágenes Eficaz Que Cambia Tamaño a Todas Tus Fotos Juntos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1722998189915-effortless-solutions-to-your-apex-legends-startup-woes/"><u>Effortless Solutions to Your Apex Legends Startup Woes!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ting-your-channel-youtube-backlink-basics-for-2024/"><u>Elevating Your Channel YouTube Backlink Basics for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-how-to-elevate-your-characters-audio-presence-in-free-fire-naturally/"><u>In 2024, How to Elevate Your Character's Audio Presence in Free Fire, Naturally</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-10-mobile-relaxation-renders-idle-games/"><u>In 2024, Top 10 Mobile Relaxation Renders (Idle Games)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/is-windows-movie-maker-still-available-in-2024/"><u>Is Windows Movie Maker Still Available, In 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-11-typing-troubles-addressing-zerox-code-0x80049dd3/"><u>Navigating Through Windows 11 Typing Troubles: Addressing Zerox (Code: 0X80049DD3)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-discovering-the-best-places-for-impactful-drum-sounds-for-2024/"><u>New Discovering the Best Places for Impactful Drum Sounds for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-a-lut-that-you-can-use-for-your-high-definition-content-you-can-use-rec-709-lut-premiere-pro-for-your-hd-digital-media-to-give-the-perfe/"><u>Updated Do You Want a LUT that You Can Use for Your High-Definition Content? You Can Use Rec 709 LUT Premiere Pro for Your HD Digital Media to Give the Perfect Result</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-ninja-jump-effect-with-filmora/"><u>Updated How To Make Ninja Jump Effect with Filmora</u></a></li>
 </ul></div>
 

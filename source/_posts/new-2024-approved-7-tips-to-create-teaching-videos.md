@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved 7 Tips to Create Teaching Videos
-date: 2024-11-01T17:10:21.673Z
-updated: 2024-11-06T21:39:53.529Z
+date: 2024-11-15T04:33:38.024Z
+updated: 2024-11-17T04:29:00.269Z
 tags: 
   - ai
   - animation videos
@@ -43,13 +43,6 @@ Things you need to remember before you proceed to the next step:
 Once you know your audience and have the topic you need, it's time to **write a script**. Think about your plan for presenting your video in your classes.
 
 ![write video script](https://images.wondershare.com/filmora/article-images/2022/08/write-video-script.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Here are a few more writing script tips to help you in your classes:
 
@@ -147,13 +140,6 @@ Step1 Open the CapCut app and tap on the “New Project” option. By doing so, 
 
 ![create a new capcut project](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 After uploading, select the clip and scroll in the right direction. From there, select the “Motion Blur” option and choose “Blur” strength and “Blend” value. You can also select the "Direction" and "Times" values from the options. Once done, tap on the “Tick” option to add a motion blur effect to your video successfully.
 
 ![customize motion blur settings](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-4.jpg)
@@ -161,6 +147,19 @@ Step2 After uploading, select the clip and scroll in the right direction. From t
 ## Part 3: The Best Alternative to CapCut to Add Motion Blur On Mobile
 
 If you want alternatives to CapCut for creating a motion blur effect flawlessly, this part of the article can help you. You can find the best 3 apps in this section that are capable of generating a motion blur effect easily.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Videoleap
 
@@ -445,13 +444,6 @@ Move the keyframe up to increase the speed. You can adjust it according to your 
 
 ![adjust keyframe](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-9.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Once you are satisfied, adjust the clip length on the timeline and make sure that both clips finish at the same time.
 
 ![adjust the clip length](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-10.jpg)
@@ -469,6 +461,13 @@ Step2 Drag and drop the effect onto the timeline where the first cut is set. Adj
 Then, drag and drop the effect again in the transition between the first and the second clip. Adjust it to the appropriate length, then it will give a more dramatic effect.
 
 Step3 You can playback and see how it looks on the preview screen.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -509,6 +508,13 @@ LUTs, also known as look-up tables, are unique video editing tools. They use mat
 
 By using LUTs, you can add special effects to your videos. This includes different effects, including dreamy, moody, or surreal. The videos will look more professional and enchanting with attractive looks. So you don’t need to pursue video editing in a deep way.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. HDR Display
 
 With LUTs, users can add a dynamic touch of HDR display to the videos. After all, they can convert SDR footage to HDR footage using special filter presets. This allows for different color contrasts within the video.
@@ -537,6 +543,13 @@ Add a cinematic touch to your videos with this Filmic Tone LUTs free download pa
 
 ![ richard lackey free filmic pro luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-filmic-pro-luts-for-video-editing-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. [Free LUT Filmic](https://www.freepresets.com/product/free-lut-filmic/)
 
 Make your photo or video more special with this Free LUT Filmic pack. Meanwhile, there are special effects for transforming color schemas within visual content. So, if you have film or photography, the provided LUT filters are amazing. This way, you can spark creativity like a professional editor. The video content will become more appealing.
@@ -561,6 +574,13 @@ Upgrade your preset library with this amazing Filmic Tone LUTs pack. While featu
 
 ![filmic tone luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-filmic-pro-luts-for-video-editing-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. [7. Filmic LUTs Vol.2](https://www.etsy.com/listing/1248235354/filmic-luts-vol2-final-cut-luts-adobe?ga%5Forder=most%5Frelevant&ga%5Fsearch%5Ftype=all&ga%5Fview%5Ftype=gallery&ga%5Fsearch%5Fquery=filmic+pro+luts&ref=sr%5Fgallery-1-4&organic%5Fsearch%5Fclick=1)
 
 Working with LUTs has never been this easy. So when you use Filmic LUTs Vol.2, you will get 10 creative LUT preset filters. Integrate these LUTs into your visual content to upscale their quality. Meanwhile, the LUTs can be used on different editing platforms. In most instances, you will get upscaling results within seconds. There is also an option to adjust intensity, contrast, and more.
@@ -580,10 +600,10 @@ Moody Filmic retouches are always special and exciting. When adding them to visu
 ![Moody Filmic Cityscape LR Presets ](https://images.wondershare.com/filmora/article-images/2023/06/best-filmic-pro-luts-for-video-editing-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 10\. [Movie Cinematic Film LUTs](https://www.etsy.com/listing/1427618154/60-movie-cinematic-film-luts-pack-for?ga%5Forder=most%5Frelevant&ga%5Fsearch%5Ftype=all&ga%5Fview%5Ftype=gallery&ga%5Fsearch%5Fquery=filmic+luts&ref=sr%5Fgallery-1-2&pro=1&organic%5Fsearch%5Fclick=1)
@@ -607,13 +627,6 @@ Wondershare Filmora is an industrial-standard video editing software. Meanwhile,
 [Apply LUT on Videos](https://tools.techidaily.com/wondershare/filmora/download/) [Apply LUT on Videos](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -655,13 +668,6 @@ Enhancing color schemas is easier and more convenient using LUTs. These editing 
 
 Different cameras produce videos with diverse quality, which is unsatisfying. Through LUTs, you can match the color of your footage with a consistent appearance. The color schemes and tone contrasts are optimized in a collective way.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Best Filmic Pro LUTs To Use
 
 Using LUTs in video editing can save a lot of time. For video editors, LUTs can be revolutionizing because of less effort with amazing output. In general, using Filmic Pro LUTs is in great demand. Let’s discover some of them:
@@ -672,18 +678,18 @@ Bring Filmic looks to your videos using this Filmic Pro LUTs download pack. Ther
 
 ![filmic lut support](https://images.wondershare.com/filmora/article-images/2023/06/best-filmic-pro-luts-for-video-editing-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. [Richard Lackey FREE Filmic Pro LOGv2 LUT for FilmConvert](https://www.richardlackey.com/shop/lut/richard-lackey-free-filmic-pro-logv2-lut/)
 
 Add a cinematic touch to your videos with this Filmic Tone LUTs free download pack. This special LUTs pack lets you add attractive film interaction to your video. The provided color schemes are exceptional because they offer unique color presentations. Meanwhile, the LUT equips solutions to correct imbalances and noise.
 
 ![ richard lackey free filmic pro luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-filmic-pro-luts-for-video-editing-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. [Free LUT Filmic](https://www.freepresets.com/product/free-lut-filmic/)
 
@@ -708,13 +714,6 @@ Enhancing video quality is now easier with this color-grading Filmic Pro pack. T
 Upgrade your preset library with this amazing Filmic Tone LUTs pack. While featuring 10 preset filters, this LUTs pack provides an aesthetic dark, moody tone. LUTs are easily applied to your videos with the right color upscaling. You will also receive a VLOG - Rec709 LUT and Sony SLOG2/3 - Rec709 LUT. The supported file format is .cube.
 
 ![filmic tone luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-filmic-pro-luts-for-video-editing-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. [7. Filmic LUTs Vol.2](https://www.etsy.com/listing/1248235354/filmic-luts-vol2-final-cut-luts-adobe?ga%5Forder=most%5Frelevant&ga%5Fsearch%5Ftype=all&ga%5Fview%5Ftype=gallery&ga%5Fsearch%5Fquery=filmic+pro+luts&ref=sr%5Fgallery-1-4&organic%5Fsearch%5Fclick=1)
 
@@ -760,6 +759,13 @@ Wondershare Filmora is an industrial-standard video editing software. Meanwhile,
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Conclusion
 
 LUTs are pre-defined color gradients that work in an instant way. Meanwhile, they make video editing simpler and smarter. This article illustrated 10 top Filmic Pro LUTs free download. By using these LUTs, you can upscale your important videos with improved color schemas. In addition, you discovered a vital editing tool, Wondershare Filmora. Within this software, you can upscale videos with multiple functionalities.
@@ -780,17 +786,22 @@ LUTs are pre-defined color gradients that work in an instant way. Meanwhile, the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-7-best-budget-mirrorless-4k-cameras-under-1000/"><u>[New] 7 Best Budget Mirrorless 4K Cameras Under $1000</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-choosing-the-right-tool-for-your-youtube-to-avi-desire/"><u>[New] In 2024, Choosing the Right Tool for Your YouTube-to-AVI Desire</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-tidy-up-your-pictures-top-10-online-unblur-tools/"><u>[New] Tidy Up Your Pictures Top 10 Online Unblur Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-asus-rog-phone-7-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Asus ROG Phone 7 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-12-mini-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 12 mini Without Passcode Easily</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/navigating-facebook-live-a-comprehensive-tutorial/"><u>Navigating Facebook Live A Comprehensive Tutorial</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-green-screen-video-in-after-effects/"><u>New How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-film-a-slow-motion-video-for-2024/"><u>New How To Film a Slow Motion Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-animated-titles-and-text-in-the-filmora-video-editor-this-is-a-simple-step-by-step-tutorial-for-any-skill-level/"><u>New Learn How to Create Animated Titles and Text in the Filmora Video Editor. This Is a Simple Step-by-Step Tutorial for Any Skill Level</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-list-of-best-vhs-video-effect-makers/"><u>New Top List of Best VHS Video Effect Makers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-font-effects-to-videos/"><u>Updated 2024 Approved How to Add Font Effects to Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/video-mastery-challenge-vlc-meets-the-test-against-mx/"><u>Video Mastery Challenge VLC Meets the Test Against MX</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-chromium-connection-pixel-phone-rhythms/"><u>[New] In 2024, The Chromium Connection Pixel Phone Rhythms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-revamp-your-chat-audio-experience-with-a-personalized-whatsapp-ringtone-for-2024/"><u>[New] Revamp Your Chat Audio Experience with a Personalized WhatsApp Ringtone for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-toggle-pip-for-streaming-youtube-videos-more-conveniently-with-iphone/"><u>[New] Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-battle-royale-in-vr-choosing-between-oculus-htc-vive-and-ps-vr/"><u>2024 Approved Battle Royale in VR Choosing Between Oculus, HTC Vive & PS VR</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-kinetic-typography-text-effect-easyandfast/"><u>2024 Approved Kinetic Typography Text Effect 【EASY&FAST】</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-image-jpgpng-to-gif-converters/"><u>Best Image (JPG/PNG) to GIF Converters</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-do-velocity-edits-on-pc-for-2024/"><u>How to Do Velocity Edits on PC for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-use-montage-with-these-movies/"><u>In 2024, Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4-a-aiff-trasformare-i-formati-di-file-audio-gratuitamente-con-mediahuman-converter/"><u>MP4 a AIFF: Trasformare I Formati Di File Audio Gratuitamente Con MediaHuman Converter</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2-methods-to-cut-video-in-vlc-on-windows/"><u>New 2 Methods to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-6-ways-to-mimic-professional-filming-gears/"><u>New 6 Ways to Mimic Professional Filming Gears</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/pushing-videography-to-new-heights-with-the-1j5-camera-for-2024/"><u>Pushing Videography to New Heights with the 1J5 Camera for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-itel-s23-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Itel S23 FRP Bypass</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-meta-quest-3s-future-with-advanced-ai-beats-the-vision-pro-learn-activation-steps-tech-insights/"><u>Unlocking Meta Quest 3'S Future with Advanced AI: Beats the Vision Pro, Learn Activation Steps! | Tech Insights</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-videos-with-imovie/"><u>Updated 2024 Approved How to Loop Videos with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-lumafusion-offers-various-look-up-table-presets-or-luts-such-as-filmic-delog-and-filmic-deflat-and-several-stylistic-luts-for-use-with-neutral-use-v/"><u>Updated LumaFusion Offers Various Look Up Table Presets, or LUTs, Such as FiLMiC deLog and FiLMiC DeFlat, and Several Stylistic LUTs for Use with Neutral Use Video. You Can Also Manually Add the LUTs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024
-date: 2024-11-01T23:03:53.669Z
-updated: 2024-11-06T19:47:37.991Z
+date: 2024-11-12T21:32:55.218Z
+updated: 2024-11-16T20:28:22.920Z
 tags: 
   - ai
   - animation videos
@@ -43,23 +43,9 @@ Step2 From the Effects section, you will have to search for the "Adjustment Clip
 
 ![add the adjustment clip](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Now extend the adjustment clip according to the layers. Once done, you can apply effects and transitions to the adjustment clip to add modifications.
 
 ![adjust the adjustment clip](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Three Ways to Use Adjustment Layers in DaVinci Resolve
 
@@ -100,13 +86,6 @@ Step3 Afterward, scroll to the bottom and change the Border Type to "Reflect." N
 Step4 You can also select different composite modes. You can also duplicate the adjustment clip and alter the composite mode of the second clip. Once done, decrease the opacity of the second clip. Now copy and place the adjustment clips on your timeline according to your desire.
 
 ![use different composite modes](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tips: Use Adjustment Layers in the Best Alternative to DaVinci Resolve
 
@@ -215,6 +194,13 @@ The editor will open automatically next. You have to tap on the Create New Proje
 
 Then, drag the title from this section and drop it into the editing timeline. Double-click on the title in the timeline to open the title editing window. Insert the text you want to add as the title in the text field and adjust the size, font, and other font modifications here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Edit the title and click snapshots
 
 Then, you should drag the title clip you added to the timeline to an upper section and click on the Media tab following that. Then, choose the Sample Color option from the listed menu and tap on the Black color choice. After doing so, drag it down to the timeline onto the track under the Default Title clip you added and moved up.
@@ -226,6 +212,13 @@ Consequently, click on the Snapshot icon at the right side of the toolbar just a
 Then you should double-click on the original Default Title you added and start editing your title text once more. This time, add the term you want to appear under your original title here. Adjust the font for it as something other than the original one. For example, if you put Motor Oil 1937 M54 as the first title font, set the second as Montserrat SemBold. Make more adjustments, if necessary, to the font. Then, retake a snapshot of it.
 
 ![change the second title text](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Insert the snapshots
 
@@ -245,11 +238,25 @@ Choose all files and click on Open to add them to the Filmora software. Now star
 
 ![open all of the files](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Drag the files into the timeline
 
 The background video is the first file you will drag and drop to the timeline. For the best effect, choose a flashing light background video. Next, drag the first title you edited into Track 2, right above the first one. Make sure to adjust the length of the clip to match the background video length. Repeat the same for the second snapshot, adding it above the first snapshot in the timeline.
 
 ![drag and drop the background video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Edit the snapshots via Chroma Key and Composting
 
@@ -289,13 +296,6 @@ Now, play the preview again.
 
 ![drag and drop particles video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Adjust the second title, again
 
 Remember how you clicked on the hide button for the second snapshot for title 2? Now, you have to click on the unhide icon beside it.
@@ -305,13 +305,6 @@ Move the play head to the 3-second mark from the beginning. If you need clarific
 Here, tap on the Split icon and remove the clip's first half. Then, double-click on the second half and go to Animation. Press the Add button to insert a keyframe here and change the scale and position of the title at this point. Move it to the placement you want, right above the lens flare. Also, drag the slider for the Opacity parameter to zero at this point.
 
 ![drag the slider for opacity](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Subsequently, move the play head to the point when the lens flare effect stop, which is around 2 seconds more. At this point, you have to add another keyframe and change the Opacity to 100.
 
@@ -353,6 +346,13 @@ Then you should double-click on the original Default Title you added and start e
 
 ![change the second title text](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Insert the snapshots
 
 Remove the two title clips you added to the timeline. You have to work with the Snapshots you took now.
@@ -390,10 +390,10 @@ Press OK.
 ![tap on the compositing option](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add the sound effect
@@ -435,6 +435,19 @@ Here, tap on the Split icon and remove the clip's first half. Then, double-click
 Subsequently, move the play head to the point when the lens flare effect stop, which is around 2 seconds more. At this point, you have to add another keyframe and change the Opacity to 100.
 
 Play the preview of the whole thing to see how the effect looks in completion.
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -504,14 +517,14 @@ Step4From Viewer interface, double click on the text part of the video to custom
 
 ![edit title text imovie](https://images.wondershare.com/filmora/article-images/2022/08/edit-title-text-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5Play the video and once you are satisfied, go to File> Share> File and save the edited video on your storage device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. How to Add Font Effects Online
 
@@ -532,13 +545,6 @@ Step3Double-click on the font effect on the Viewer and customize all the paramet
 Step4Once you are satisfied, click on Export button in the top-right corner.
 
 ![export video flexclip online](https://images.wondershare.com/filmora/article-images/2022/08/export-video-flexclip-online.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -568,18 +574,24 @@ Adding font effects on video is a common practice especially when you have intro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-7-best-sbt-to-srtr-conversion-software-for-desktop-use/"><u>[New] 7 Best SBT to SRTR Conversion Software for Desktop Use</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-proven-methods-for-boosting-video-watchers/"><u>[Updated] 2024 Approved Proven Methods for Boosting Video Watchers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-understanding-satire-building-parodies-online/"><u>[Updated] 2024 Approved Understanding Satire Building Parodies Online</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-bites-of-wisdom-youtube-tvs-unique-selling-points/"><u>[Updated] In 2024, Bites of Wisdom YouTube TV's Unique Selling Points</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-out-what-keyframe-interval-is-why-it-is-important-and-to-change-its-value-on-obs-studio-with-simple-and-easy-to-follow-instructions/"><u>2024 Approved Find Out What Keyframe Interval Is, Why It Is Important, and to Change Its Value on OBS Studio with Simple and Easy-to-Follow Instructions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Huawei Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-3-in-camera-transitions-tricks-to-make-videos-for-2024/"><u>New 3 In-Camera Transitions Tricks To Make Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-discover-the-process-of-slowing-down-time-lapse-videos-on-your-iphone/"><u>New Discover the Process of Slowing Down Time-Lapse Videos on Your iPhone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-synchronizing-your-audio-and-videos-properly-in-2024/"><u>New Guide to Synchronizing Your Audio And Videos Properly, In 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/streamlining-your-workflow-with-macs-finest-snipers-for-2024/"><u>Streamlining Your Workflow with Mac's Finest Snipers for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/superior-smartphone-editors-elevating-your-gopro-shots/"><u>Superior Smartphone Editors Elevating Your GoPro Shots</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-creating-the-perfect-vhs-effect-look-in-premiere-pro/"><u>Updated 2024 Approved Guide To Creating The Perfect VHS Effect Look in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-seek-a-guide-to-add-motion-in-blender-this-article-explains-the-blender-motion-blur-effect-in-detail-and-helps-you-master-it/"><u>2024 Approved Do You Seek a Guide to Add Motion in Blender? This Article Explains the Blender Motion Blur Effect in Detail and Helps You Master It</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-in-this-article-you-will-learn-easy-ways-to-edit-videos-using-a-mouse-in-wondershare-filmora-you-can-do-video-editing-without-a-keyboard-after/"><u>2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-art-of-customizing-windows-photos-app-intertwining-visuals-and-audio/"><u>2024 Approved The Art of Customizing Windows Photos App Intertwining Visuals & Audio</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cast-distribution-license-for-screen-viewing-for-2024/"><u>Cast Distribution License for Screen Viewing for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-tecno-pova-6-pro-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Tecno Pova 6 Pro 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-video-fade-to-black-in-movie-maker/"><u>In 2024, How to Make Video Fade to Black in Movie Maker</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-innovative-zoom-methods-for-chromebook-efficiency/"><u>In 2024, Innovative Zoom Methods for Chromebook Efficiency</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-redmi-k70-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi Redmi K70 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-x100-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo X100 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713950874876-looking-for-the-simple-steps-to-add-transition-effects-in-your-video-we-will-illustrate-how-to-add-transition-in-filmora-and-mention-tips-and-tricks-for-vid/"><u>Looking for the Simple Steps to Add Transition Effects in Your Video? We Will Illustrate How to Add Transition in Filmora and Mention Tips and Tricks for Video Transition Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-share-youtube-video-on-zoom-in-2024/"><u>New How to Share YouTube Video on Zoom, In 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-launchdll-file-missing-issues-on-your-pc/"><u>Resolving 'Launch.DLL' File Missing Issues on Your PC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/send-local-videos-to-chromecast-easy-setup-for-windows-mac-android-and-ios-for-2024/"><u>Send Local Videos to Chromecast Easy Setup for Windows, Mac, Android, and iOS for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-water-resistant-cellphone-protectors/"><u>Top Rated Water-Resistant Cellphone Protectors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-a-video-on-vimeo/"><u>Updated 2024 Approved How to Loop a Video on Vimeo?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-way-to-color-grading-and-color-correction-in-filmora-for-2024/"><u>Updated Best Way To Color Grading & Color Correction in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-frame-rate-for-4k-video/"><u>Updated In 2024, Best Frame Rate for 4K Video</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Create Intro with Legend Intro Maker
-date: 2024-11-04T19:54:46.116Z
-updated: 2024-11-06T22:46:13.431Z
+date: 2024-11-12T17:09:09.662Z
+updated: 2024-11-17T02:45:59.225Z
 tags: 
   - ai
   - animation videos
@@ -75,13 +75,6 @@ Step6 Finally, check the preview and tap on the Export button. Select the video 
 
 ![select video resolution legend intro](https://images.wondershare.com/filmora/article-images/2022/11/select-video-resolution-legend-intro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Legend Intro Maker PC Alternative
 
 If you want to create intro videos on your PC, you need a Legend Intro Maker PC alternative. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as the best alternative to mobile Legends Intro Maker. Filmora is a popular premium video editor. Filmora comes with a wide range of intro video templates. There are loads of text effects and animations present.
@@ -103,6 +96,19 @@ Step2 Click on the Titles option from the top bar. Go to the Openers option from
 Step3 Double-click on the intro video layer. Edit the default text and type in your titles. From the left panel, select any text style as per your preference.
 
 ![edit the default text](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 You can go to the Animation tab and select any animation from the left panel. Double-click on the selected animation to apply. Thereafter, you can move around the texts on the Program window to place them properly. Finally, click on Ok button.
 
@@ -207,6 +213,13 @@ Step2 Tap on the video clip and tap on “T” icon located at the bottom.
 
 ![click text imove iphone](https://images.wondershare.com/filmora/article-images/2022/07/click-text-imove-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 You need to choose the text style as per your preference from the bottom.
 
 ![choose text style imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/choose-text-style-imovie-iphone.jpg)
@@ -277,18 +290,24 @@ Step2 Drag and drop the video file from Media folder to Timeline. Select Titles 
 
 ![drag media timeline imovie](https://images.wondershare.com/filmora/article-images/2022/07/drag-media-timeline-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Edit the text from Preview Screen instantly. You can also change font, size, and other text elements.
 
 ![edit text video imovie](https://images.wondershare.com/filmora/article-images/2022/07/edit-text-video-imovie.jpg)
 
 Step4 If you are satisfied with the text overlay, go to File> Share> File to export the video file.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Add Text Overlay to Video on iPhone
 
@@ -307,6 +326,13 @@ Step3 You need to choose the text style as per your preference from the bottom.
 Step4 Tap on the Viewer to place the default text and tap on Edit option to change the text as per your requirements.
 
 ![edit text imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/edit-text-imovie-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 You can also reposition the text as well as adjust the size, font, as well as color. When you are satisfied, tap on Done.
 
@@ -482,13 +508,6 @@ After that, click on the **Video Effects** and under that select **Crop.** Doing
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You need to enter specific pixels on the **left**, **right, top** and **bottom**. This will depend on your preferences. If it is your first time and you don’t know the exact pixels then just input what you think would be enough.
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-5.png)
@@ -496,19 +515,6 @@ You need to enter specific pixels on the **left**, **right, top** and **bottom**
 After entering your preferred pixels, you can preview it. If you would like to adjust then just simply repeat entering the specific pixels.
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-6.png)
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You decided to save the cropped video. Find the **Tools** menu and select **Preferences**.
 
@@ -570,6 +576,13 @@ Select the video clip that you want to crop. Then, click the **Crop** tool and c
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-16.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can also right click the video clip .Under the **Video** tab you can select the **Crop and Zoom** or **Crop to Fit** then adjust to your preferred ratio.
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-17.png)
@@ -593,19 +606,6 @@ Then click the **Media and** select **Open File** to choose the video that you w
 Click the **Tools** on the menu and select the **Effects and Filters.**
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-3.png)
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After that, click on the **Video Effects** and under that select **Crop.** Doing this, will open the cropping editor.
 
@@ -631,13 +631,6 @@ In the **Media** menu select the **Convert/Save**. You can drag and drop the cro
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can select your file format and codecs by clicking **Convert/Save.**
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-10.png)
@@ -661,6 +654,13 @@ Although there are disadvantages to using this as your cropping tool. Like for e
 While one of its strong suits is the affordability of the software. It is completely free and has no additional charges that may surprise you in the future. Finally, your output won’t have watermarks that could destroy the aesthetics of your video.
 
 What are your experiences with using it as a cropping tool? What would you recommend to improve it? It is up to you the user if you want to continue using this as your partner in removing the excess in your videos.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Cropping a Video using Wondershare Filmora
 
@@ -738,6 +738,13 @@ You can select your file format and codecs by clicking **Convert/Save.**
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Find the **Edit Selected Profile** and click the **Video Codec.** Then under the **Filters** tab, select the **Video cropping filter.** Finally, click **Save.**
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-11.png)
@@ -774,16 +781,16 @@ Wondershare Filmora is a useful editor that can help you produce the content tha
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Prepare your videos that you need to crop. You can drag and drop your video or click the **Import.**
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-15.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Select the video clip that you want to crop. Then, click the **Crop** tool and choose if you want the **Crop** or **Pan & Zoom.**
 
@@ -884,19 +891,6 @@ Prepare your videos that you need to crop. You can drag and drop your video or c
 Select the video clip that you want to crop. Then, click the **Crop** tool and choose if you want the **Crop** or **Pan & Zoom.**
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-16.png)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can also right click the video clip .Under the **Video** tab you can select the **Crop and Zoom** or **Crop to Fit** then adjust to your preferred ratio.
 
@@ -930,18 +924,17 @@ You could share with us the tips and tricks you know on cropping videos using th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-unleashing-potential-top-10-ai-tools-for-podcast-titles/"><u>[New] Unleashing Potential Top 10 AI Tools for Podcast Titles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-freshest-beats-newly-trending-music-for-youtube-short-videos/"><u>[Updated] 2024 Approved Freshest Beats Newly Trending Music for YouTube Short Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/ceasing-your-routine-steam-commitments/"><u>Ceasing Your Routine Steam Commitments</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/cut-down-input-lag-in-cyberpunk-2077-tips-and-tricks-to-enhance-your-gaming-experience/"><u>Cut Down Input Lag in Cyberpunk 2077: Tips & Tricks to Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-poco-c51-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Poco C51.</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-instagram-filters-applying-them-to-old-memories/"><u>In 2024, Mastering Instagram Filters Applying Them to Old Memories</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/review-expose-on-netgears-advanced-x6-wifi-mesh-enhancer-a-deep-dive-into-its-innovative-traits/"><u>Review Exposé on Netgear's Advanced X6 Wifi Mesh Enhancer – A Deep Dive Into Its Innovative Traits</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solutions-for-fixing-misinstalled-ryzen-master-driver-on-your-pc/"><u>Solutions for Fixing Misinstalled Ryzen Master Driver on Your PC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-list-top-2024-recommendations-for-quality-17-inch-laptops/"><u>The Ultimate List: Top 2024 Recommendations for Quality 17-Inch Laptops</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-resource-for-your-tech-enthusiasm-toms-insider-knowledge/"><u>The Ultimate Resource for Your Tech Enthusiasm - Tom's Insider Knowledge</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/troubleshoot-your-apex-legends-engine-glitches-with-these-easy-steps/"><u>Troubleshoot Your Apex Legends Engine Glitches with These Easy Steps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-mystery-whats-behind-bingchatartoken-fraud-a-user-friendly-guide-for-safe-cryptocurrency-investments/"><u>Unveiling the Mystery: What's Behind BingChatarToken Fraud? A User-Friendly Guide for Safe Cryptocurrency Investments</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-deadly-dominance-the-quintessential-zombie-gameplay/"><u>[Updated] Deadly Dominance The Quintessential Zombie Gameplay</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-insiders-guide-to-instagram-photo-integrity/"><u>[Updated] The Insider’s Guide to Instagram Photo Integrity</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-the-stranger-things-upside-down-effect-video-for-2024/"><u>Create the Stranger Things Upside Down Effect Video for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-prevent-and-fix-repeated-palworld-crashing-issues-on-computers/"><u>Expert Tips to Prevent and Fix Repeated Palworld Crashing Issues on Computers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-freeze-frame-sequence-in-video/"><u>In 2024, How to Create A Freeze Frame Sequence in Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-zoom-video-in-vlc-media-player/"><u>In 2024, How to Zoom Video in VLC Media Player</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-mastering-marks-top-iosandroid-tiktok-watermark-tools/"><u>In 2024, Mastering Marks Top iOS/Android TikTok Watermark Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-using-luts-perfectly-in-final-cut-pro-for-2024/"><u>New Guide To Using Luts Perfectly in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-if-you-want-to-know-what-to-prepare-and-how-to-make-the-wedding-video-perfect-for-videographers-check-out-this-menu-here/"><u>New If You Want to Know What to Prepare and How to Make the Wedding Video Perfect for Videographers, Check Out This Menu Here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808211368-quick-guide-to-finding-and-downloading-your-hp-devices-windows-10-drivers/"><u>Quick Guide to Finding and Downloading Your HP Device's Windows 10 Drivers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-and-reviews-by-toms-hardware/"><u>Tom's Tech Insights: In-Depth Guides and Reviews by Tom's Hardware</u></a></li>
 </ul></div>
 

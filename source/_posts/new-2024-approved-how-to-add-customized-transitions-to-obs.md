@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Add Customized Transitions to OBS
-date: 2024-11-04T00:04:46.179Z
-updated: 2024-11-06T23:39:55.611Z
+date: 2024-11-14T00:44:07.164Z
+updated: 2024-11-16T20:01:25.682Z
 tags: 
   - ai
   - animation videos
@@ -47,13 +47,6 @@ Step5 For Transition Point Type, select Time(milliseconds) option. In the Transi
 
 ![select transition point field](https://images.wondershare.com/filmora/article-images/2022/07/select-transition-point-field.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step6 If your video animation has audio, go to Audio Monitoring and select Monitor and Output option from the dropdown. For Audio Fade Style, you can select Crossfade option for better output.
 
 ![audio monitor output obs](https://images.wondershare.com/filmora/article-images/2022/07/audio-monitor-output-obs.jpg)
@@ -96,6 +89,13 @@ Step5 Play the video and click on Export button to save the video.
 
 ## Part 4: Related FAQs about OBS Transitions
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How do I add a transition overlay in OBS?
 
 You need to go to Scene Transition tab and select any transition overlay effect that is available. Thereafter, you can change the settings and parameters to customize the transition effect as per your requirements. Apart from the built-in transitions, you can download and add plugins for more transitions.
@@ -103,13 +103,6 @@ You need to go to Scene Transition tab and select any transition overlay effect 
 ### Can you have different scene transitions in OBS?
 
 Yes, you can have different scene transitions in OBS Studio. You can add them directly from Scene Transition tab one by one as per your requirements. You can add them in between scenes so that the transition effects play when you switch between scenes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How do I download transitions in OBS?
 
@@ -228,6 +221,13 @@ Step3 From Current Time Indicator, slide the keyframes to adjust the animation. 
 
 ![adjust desired text animation after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-desired-text-animation-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4\. Best Motion Effects Ideas to Try
 
 There are several text motions effects available that make your text look stunning and grab the attention of the viewers instantly. If you are confused which text motion effects you should try out, there are some of the best text motion effects you can try out on After Effects and Filmora.
@@ -256,6 +256,13 @@ Step2 Drop the video clip onto timeline. If you do not have any background video
 
 ![drag motion background timeline filmora](https://images.wondershare.com/filmora/article-images/2022/09/drag-motion-background-timeline-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Go to Titles and search for “animation” and you will get all the motion text effect and animation templates. Select any one of them and drop onto the timeline above the background layer.
 
 ![select animation title text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-animation-title-text-filmora.jpg)
@@ -263,13 +270,6 @@ Step3 Go to Titles and search for “animation” and you will get all the motio
 Step4 Double-click on the text layer to type in your desired text. Reposition the text layer on the timeline and on the video from Viewer.
 
 ![customize animation type text filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-animation-type-text-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Use Premiere Pro to Make Motion Text
 
@@ -282,13 +282,6 @@ Step1 Go to Graphics> Essential Graphics and select a motion text effect templat
 Step2 Double-click on the text to edit the words and type in your text. Go to Essential Graphics panel to customize the text effect parameters as per your requirements.
 
 ![customize text premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/customize-text-premiere-pro.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 If you want to edit the animation, select the text layer and go to Effects Control panel. Open up Keyframe box by dragging it to the right. Adjust the keyframe as per your animation requirements.
 
@@ -325,6 +318,13 @@ Random Spike Tumble – This is another motion effect on After Effects where the
 Comic and Life Effect – You get this motion effect on Filmora where the large texts are shown and they have a comical typography. The words keep on zooming in and out to add to the comical factor.
 
 Corporate Title Effect – This comes as a pack on After Effects whereby you get amazing text motion effects that you mostly see in professional videos. Starting from oblique stripe and emerge effect to slide in and out with modern touches and objects, you get stunning text motion to enhance your video content.?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -435,6 +435,19 @@ Absolutely, users can enjoy filter functions for free.
 
 ![filter online2](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors2.png)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 KAPWING has swiftly carved its niche in the world of online video editing, offering a unique blend of simplicity and versatility. Beyond just a video editor, KAPWING is a creative toolkit that empowers users to bring their video visions to life with ease.
 
 **Is the product free?**
@@ -539,19 +552,6 @@ The video filter function is available in the free tier.
 
 ![filter online5](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors5.webp)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Flexclip positions itself as a holistic online video editor designed with both beginners and advanced users in mind.
 
 Whether you're crafting a short promotional clip, a personal vlog, or an extensive documentary, Flexclip provides the tools and templates to make the process seamless.
@@ -603,6 +603,13 @@ When it comes to alternative video filter editors, Filmora undoubtedly stands ou
 1. **Regular Updates** **:** Filmora continuously updates its software, adding new filters and features. This means users can always stay ahead of the curve and incorporate the latest trends into their videos.
 1. **Pricing and Value** **:** While Filmora isn't free, the value it offers makes the investment worthwhile. The tool offers various pricing plans designed for both individuals and businesses. Given the quality and diversity of its video filters, many content creators view it as a justifiable expense.
 1. **Community and Tutorials** **:** Filmora boasts a vibrant community of users. Their official website and channels regularly release tutorials, guiding users on the various functionalities, ensuring you make the most out of the software.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Summary
 
@@ -690,13 +697,6 @@ Step4 Double-click on the clip and visit the effects menu at the top of the scre
 
 ![opening effects menu](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 Click on the ‘first color’ and select the eye dropper tool. This will allow us to select the red flower in the preview window. You can also click different parts of the image to get the color that we want.
 
 ![select the first color and eye dropper tool](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-14.jpg)
@@ -705,9 +705,23 @@ Step6 Next, try selecting a second color to isolate within our shot. In this exa
 
 ![clicking on the second color](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step7 Pick the eyedropper tool and click it on the green part of the clip. Then adjust the range slider as needed.
 
 ![adjusting range slider](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Alright, let’s watch back the video to see how both colors are now isolated.
 
@@ -736,13 +750,6 @@ Step4 Next, double-click on the clip and check out the effects menu at the top o
 Step5 Open the preset drop-down menu. There will be a lot of presets with different colors. Select the preset you want to use. In this scenario, let us select Just Blue.
 
 ![select the preset](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step6 If you see a blue tint at a place or object which you want to be white and black, click on the first color.
 
@@ -773,13 +780,6 @@ Step2 Go to effects at the top, and find Newblue effects, and click on the Newbl
 Step3 Find the selective color effect and drag it to the clip.
 
 ![selective color](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 Double-click on the clip and visit the effects menu at the top of the screen.
 
@@ -821,22 +821,16 @@ Follow all the steps in the correct order. This is how you can use NewBlue effec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-low-cost-android-calls-compared-ranking/"><u>[New] 2024 Approved Best Low-Cost Android Calls Compared Ranking</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-elite-groups-revolutionizing-virtual-reality/"><u>[New] 2024 Approved Elite Groups Revolutionizing Virtual Reality</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-empower-yourself-top-10-inspirational-movie-selections/"><u>[Updated] Empower Yourself Top 10 Inspirational Movie Selections</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-value-of-rokus-latest-budget-friendly-smart-gadgets-with-just-one-complaint-tech-analysis/"><u>Exploring the Value of Roku's Latest Budget-Friendly Smart Gadgets with Just One Complaint | Tech Analysis</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/global-audiences-local-stories-crafting-engaging-instagramcaptions-for-2024/"><u>Global Audiences, Local Stories - Crafting Engaging #InstagramCaptions for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-poco-lock-screen-password-by-drfone-android/"><u>How to Reset your Poco Lock Screen Password</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-track-and-blur-faces-in-premiere-pro/"><u>How To Track and Blur Faces in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-7-tips-to-create-teaching-videos/"><u>New 2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-download-and-use-windows-movie-maker-10/"><u>New How to Download and Use Windows Movie Maker 10</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-working-out-all-important-details-of-slowing-down-video-in-after-effects/"><u>New Working Out All Important Details of Slowing Down Video in After Effects</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steps-for-turning-off-speaking-directions-on-a-samsung-smart-tv/"><u>Steps for Turning Off Speaking Directions on a Samsung Smart TV</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-controlling-windows-key-status/"><u>Understanding and Controlling Windows Key Status</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-the-stranger-things-upside-down-effect/"><u>Updated 2024 Approved How to Create the Stranger Things Upside Down Effect</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-6-websites-to-free-download-motivational-video-footage/"><u>Updated In 2024, 6 Websites to Free Download Motivational Video Footage</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-blur-background-in-adobe-premiere-pro-detailed-guide/"><u>Updated In 2024, How To Blur Background in Adobe Premiere Pro Detailed Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-what-are-the-stages-of-film-production/"><u>Updated What Are The Stages Of Film Production</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/3gp/"><u>오픈 소스에서 공급성 없이 3GP 파일을 원형으로 바꾸기: 모바니아</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-optimizing-youtube-thumbnails-for-better-clickthrough-rates/"><u>[New] Optimizing YouTube Thumbnails for Better Clickthrough Rates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-taking-your-photo-skills-to-new-heights-creating-timelapse-footage-with-gopro-studio/"><u>[New] Taking Your Photo Skills to New Heights Creating Timelapse Footage with GoPro Studio</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-color-grading-in-final-cut-pro/"><u>2024 Approved How to Color Grading in Final Cut Pro</u></a></li>
+<li><a href="https://win-web3.techidaily.com/behebe-windows-11-startprobleme-durch-festplatten-optimierung-die-besten-5-methoden/"><u>Behebe Windows 11 Startprobleme Durch Festplatten-Optimierung - Die Besten 5 Methoden</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-tecno-spark-10c-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Tecno Spark 10C Face Lock?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-fps-for-youtube-videos/"><u>In 2024, Overview of FPS for YouTube Videos</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-easily-create-a-free-eye-catching-intro-videos-with-invideo/"><u>New How to Easily Create a Free Eye-Catching Intro Videos with Invideo</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-change-speed-of-video-in-final-cut-pro/"><u>New In 2024, How To Change Speed of Video in Final Cut Pro?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/supercharge-videos-with-dynamic-titles/"><u>Supercharge Videos with Dynamic Titles</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-looking-for-the-best-vhs-video-effect-makers-get-to-know-the-top-list-for-2024/"><u>Updated Looking For the Best VHS Video Effect Makers? Get To Know the Top List for 2024</u></a></li>
 </ul></div>
 

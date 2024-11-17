@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Add Text Animation to A Video Online
-date: 2024-10-31T18:46:24.149Z
-updated: 2024-11-06T21:39:22.384Z
+date: 2024-11-15T03:51:23.036Z
+updated: 2024-11-16T17:06:31.434Z
 tags: 
   - ai
   - animation videos
@@ -82,13 +82,6 @@ After that, you can add the text by tapping on the "Text" option on the left men
 
 Save the video with the text you placed by tapping on "Export." The video gets saved in an MP4 file.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Use Animaker text maker
 
 (<https://www.animaker.com/text-animation-maker>)
@@ -155,6 +148,13 @@ Now, you are aware of how to add text animation to video online and the three be
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Clone Yourself in Videos with Filmora
 
@@ -233,10 +233,10 @@ Step1 Open the **Effects** window and search for "up down 1."
 ![open the effects window](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2 Drag and drop the effect onto the timeline where the first cut is set. Adjust the effect length to match the action.
@@ -296,6 +296,13 @@ Step4 Once you are satisfied, adjust the clip length on the timeline and make su
 Step1 Open the **Effects** window and search for "up down 1."
 
 ![open the effects window](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Drag and drop the effect onto the timeline where the first cut is set. Adjust the effect length to match the action.
 
@@ -410,13 +417,6 @@ Step1 Click the **Filter** tab.
 
 ![click filter movavi slideshow maker](https://images.wondershare.com/filmora/article-images/2022/11/click-filter-movavi-slideshow-maker.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Choose your desired Filter effects depending on your preferred category.
 
 ![apply filter movavi slideshow maker](https://images.wondershare.com/filmora/article-images/2022/11/apply-filter-movavi-slideshow-maker.jpg)
@@ -460,28 +460,15 @@ Step3 You can see the preview of a Transition effect by clicking it before apply
 ![preview filter effect movavi slideshow maker](https://images.wondershare.com/filmora/article-images/2022/11/preview-filter-effect-movavi-slideshow-maker.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4 If you finally chose a Transition effect, drag it between each imported video.
 
 ![choose to add transition movavi slideshow](https://images.wondershare.com/filmora/article-images/2022/11/choose-to-add-transition-movavi-slideshow.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 Now you will see this kind of symbol, which means you have already put a Transition effect between the imported videos.
 
@@ -509,6 +496,13 @@ Step2 Choose your desired Titling motion effect depending on your preferred cate
 
 ![select title motion movavi slideshow](https://images.wondershare.com/filmora/article-images/2022/11/select-title-motion-movavi-slideshow.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 To apply the Title Motion effect, drag the effect onto the title track, just above the video track.
 
 ![drag title motion track movavi slideshow](https://images.wondershare.com/filmora/article-images/2022/11/drag-title-motion-track-movavi-slideshow.jpg)
@@ -516,13 +510,6 @@ Step3 To apply the Title Motion effect, drag the effect onto the title track, ju
 Step4 You can place your Title Motion effect on your desired time where you want it to appear.
 
 ![customize title position movavi slideshow](https://images.wondershare.com/filmora/article-images/2022/11/customize-title-position-movavi-slideshow.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 To edit your Title texts, you can double-click the applied title on the title track or right-click on it and click the “edit” option. You can also edit the text by double-clicking the title portion on the current video editing.
 
@@ -572,16 +559,16 @@ Step3 To apply the Title Motion effect, drag the effect onto the title track, ju
 
 ![drag title motion track movavi slideshow](https://images.wondershare.com/filmora/article-images/2022/11/drag-title-motion-track-movavi-slideshow.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 You can place your Title Motion effect on your desired time where you want it to appear.
 
 ![customize title position movavi slideshow](https://images.wondershare.com/filmora/article-images/2022/11/customize-title-position-movavi-slideshow.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 To edit your Title texts, you can double-click the applied title on the title track or right-click on it and click the “edit” option. You can also edit the text by double-clicking the title portion on the current video editing.
 
@@ -804,16 +791,16 @@ Step2 Drag the video file from your computer to Filmora's timeline. Choose video
 
 ![top of the timeline](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 From the menu, go to the Fast or the Slow option and select a speed preset. Finally, you can export the file to save it to your computer.
 
 ![export the file](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2\. Alter Uniform Speed
 
@@ -840,6 +827,13 @@ Step1 Place the video file onto the timeline and go to the Speed icon.
 Step2 Select the Speed Ramping option. This will open the Speed Ramping tab.
 
 ![select the speed ramping option](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 You can select any preset or select the Customize option. When you select the Customize option, you can edit the graph accordingly.
 
@@ -880,21 +874,24 @@ We have answered how you can use the speed ramp DaVinci Resolve 17 to speed up y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-complete-audio-solution-for-incomplete-youtube-and-fb-sounds/"><u>[New] 2024 Approved Complete Audio Solution for Incomplete YouTube and FB Sounds</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elite-picks-a-list-mac-video-capture-tools/"><u>[New] In 2024, Elite Picks A-List Mac Video Capture Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-integration-hacks-adding-vimeo-content-to-powerpoint-decks/"><u>[New] In 2024, Integration Hacks Adding Vimeo Content to PowerPoint Decks</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-perfectly-prepared-videos-a-guide-to-instagram-fitness/"><u>[Updated] Perfectly Prepared Videos A Guide to Instagram Fitness</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-easy-steps-to-create-intro-video-with-after-effects/"><u>2024 Approved Easy Steps to Create Intro Video with After Effects</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-depth-of-editing-with-gopro-studios-capabilities-for-2024/"><u>Exploring the Depth of Editing with GoPro Studio's Capabilities for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guidelines-to-cure-printer-blank-screens/"><u>Guidelines to Cure Printer Blank Screens</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/langchain-llm-101-the-essential-beginners-handbook-to-language-modeling/"><u>LangChain LLM 101: The Essential Beginner’s Handbook to Language Modeling</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-ideas-for-time-lapse-video/"><u>New 2024 Approved Ideas for Time-Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-add-transition-effects-in-premiere-pro/"><u>New Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-youtube-intro-for-2024/"><u>New How To Create A YouTube Intro for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-save-as-mp4-file-on-windows-movie-maker/"><u>New How to Save As MP4 File on Windows Movie Maker?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-on-using-filmora-green-screen/"><u>New In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-mirror-a-video-clip-in-premiere-pro/"><u>Updated 2024 Approved How To Mirror a Video Clip in Premiere Pro</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos-for-2024/"><u>[Updated] Craft the Perfect Stream A Comprehensive Guide to YouTube’s Full-Rotation Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-elevate-your-fb-video-game-11-winning-strategies/"><u>[Updated] Elevate Your FB Video Game 11 Winning Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-pc-audio-with-simple-techniques/"><u>[Updated] Streamline Your PC Audio with Simple Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-expert-iphone-macro-photography-tips-and-tricks/"><u>2024 Approved Expert iPhone Macro Photography Tips and Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-performing-chatgpt-prompts-compiled-for-you-on-github/"><u>Best Performing ChatGPT Prompts Compiled for You on GitHub</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-y100i-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo Y100i FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-ways-to-remove-motion-blur-in-photoshop-for-2024/"><u>Easy Ways to Remove Motion Blur In Photoshop for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-methods-to-resolve-scanning-issues-step-by-step-guide/"><u>Effective Methods to Resolve Scanning Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-remove-background-from-a-video-in-premier-pro-for-2024/"><u>How to Remove Background From a Video in Premier Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-set-up-twitch-green-screen/"><u>How to Set Up Twitch Green Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-create-a-motion-blur-effect-in-your-videos-read-this-well-described-guide-to-learn-how-to-add-motion-blur-on-capcut-on-iphone-and-and/"><u>In 2024, Do You Want to Create a Motion Blur Effect in Your Videos? Read This Well-Described Guide to Learn How to Add Motion Blur on CapCut on iPhone and Android Devices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>In 2024, How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-personalized-/"><u>In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-your-daily-dose-of-delightful-and-distressing-memes-from-ig/"><u>In 2024, Your Daily Dose of Delightful & Distressing Memes From IG</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-access-usb-to-serial-rs232-cable-configuration-software/"><u>Instant Access: USB to Serial (RS232) Cable Configuration Software</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-3-best-effects-to-appear-on-camera-made-with-filmora/"><u>New In 2024, 3 Best Effects to Appear on Camera Made with Filmora</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streaming-success-seekers-deciphering-the-platform-winner-vimeo-vs-youtubeplusdailymotion-for-2024/"><u>Streaming Success Seekers Deciphering The Platform Winner - Vimeo vs YouTube+Dailymotion for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-3-best-motion-blur-plugins-for-adobe-after-effects/"><u>Updated 2024 Approved 3 Best Motion Blur Plugins for Adobe After Effects</u></a></li>
 </ul></div>
 

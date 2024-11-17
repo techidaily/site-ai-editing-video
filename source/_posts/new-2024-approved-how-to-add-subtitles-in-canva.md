@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Add Subtitles in Canva?
-date: 2024-10-31T16:20:17.575Z
-updated: 2024-11-06T21:34:23.990Z
+date: 2024-11-12T16:01:29.773Z
+updated: 2024-11-17T01:08:15.974Z
 tags: 
   - ai
   - animation videos
@@ -39,10 +39,10 @@ Furthermore, using Canva, you can also add exciting animations and transitions t
 * **Collaboration Features:** Canva’s collaboration features make it easy for teams to work together on a design project. Users can share designs with team members and assign roles and permissions, allowing for seamless collaboration and feedback.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Advantages of Using Canva
@@ -86,6 +86,13 @@ Canva provides a very basic user interface to create subtitles. If you want to e
 
 Filmora also offers great styles and font options to customize the subtitles. You can easily check the results from the preview window of this efficient video editor. Hence, Filmora acts as a complete and well-trusted platform to generate subtitles in different ways.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Instructions to Create Subtitles Using Filmora
 
 Are you tired of writing subtitles manually in Canva? Read the precise instructions guided below to create the subtitles automatically in more than 16 languages:
@@ -101,6 +108,13 @@ Download and launch Filmora on your desktop to initiate the process. On its main
 Once done with uploading the file, drag the video file to the timeline. Click on the “Speech-to-Text” icon displayed on the timeline and hit the “OK” button after selecting the required language and file. After some seconds, subtitles would be automatically added to the timeline.
 
 ![customize speech to text options](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3 Add Modifications to Subtitles
 
@@ -144,13 +158,6 @@ Canva provides a very basic user interface to create subtitles. If you want to e
 
 Filmora also offers great styles and font options to customize the subtitles. You can easily check the results from the preview window of this efficient video editor. Hence, Filmora acts as a complete and well-trusted platform to generate subtitles in different ways.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Instructions to Create Subtitles Using Filmora
 
 Are you tired of writing subtitles manually in Canva? Read the precise instructions guided below to create the subtitles automatically in more than 16 languages:
@@ -178,13 +185,6 @@ On your timeline, double-click on the auto-generated subtitles to open the edit 
 Once you are done with all the subtitle edits, click on the “Export” button. Filmora provides you with various export resolution options and file formats that you can choose. Moreover, you can also share the video file to your desired social media platform, such as YouTube, Vimeo, or TikTok.
 
 ![export or share the filmora video](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -215,6 +215,19 @@ Making everything you add to a motion graphic or animation project appear like i
 4. [Apply filters](#part3-4)
 5. [Export](#part3-5)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. What is Motion Blur Effects
 
 Let's start with a little introduction before learning how to apply motion blur. The visual result of an item moving while being photographed in conjunction with the shutter speed of the camera is called motion blur. When we swiftly move our heads from side to side, this effect also naturally occurs with our eyes, but we aren't aware of it since our brains "edit" it for us. It may be startling and awkward to watch when items are moving on the screen, particularly rapid motion, without any kind of blurring effect.
@@ -255,13 +268,6 @@ Step4 Customize "Shutter Angle" and "Motion Blur Samples." Always be careful to 
 
 Step5 Finally, hit the OK button and afterwards, export the project with the Motion Blur embedded inside the main video. Adobe AE also gives you flexibility to export to the desired format with the preset project settings.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Other Video Editor to Add Effects to Videos
 
 Due to its cost and adaptability, Adobe After Effects is quite expensive; especially for the beginners. So, we’ve a handy option, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) by Wondershare, that is a fantastic option since most high-end video editors are, to put it mildly, expensive. It may seem natural to just add motion blur to everything before rendering while working on a conventional 2D project in After Effects, but there are occasions when having no motion blur at all is preferable. When used properly, After Effects' slow-motion features are extensive and reliable.
@@ -288,9 +294,29 @@ Download films from the effect store or import them from your device and add the
 
 ![edit effect](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apply filters
 
 Overlays and video filters are effects used to enhance the appeal of the video. Open the effects tab and select your desired filter to apply overlays and filters. To apply it, drag and drop it into the timeline's video. Additionally, filters may be adjusted to change the time scale and transparency.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Export
 
@@ -310,13 +336,6 @@ Motion blur was introduced into animation to aid in the blending of frames and r
 
 These days, we have cameras with fast shutter speeds, which allows us to almost completely remove motion blur. Without motion blurring, each frame of your animation is like a flawless still image, making the action seem a little disorienting. Each picture captures the exact moment in time, despite the fluid motion. However, the absence of motion blur is what viewers do notice. Because of this, visual effects creators often use artificial motion blur in their effects to replicate what the viewer would experience if the element were really there in the picture.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. How to Add Motion Blur in After Effects
 
 In videos, slow-motion may be used in a variety of ways, such as to convey the emotional context of a story or make beautiful slideshow backdrops. It doesn't matter why you want to make a slow-motion sequence; After Effects' slow-motion effect will work well. Click the Motion Blur layer switch to turn Motion Blur on or off. Make sure you can render out Motion Blur by turning on the Enable Motion Blur composition option at the top of the Timeline panel.
@@ -334,13 +353,6 @@ Step1 Download and install Adobe After Effects if it isn't already on your PC. S
 Step2 You have a variety of settings in Adobe After Effects on the right side. Then, choose "Effects & Presets." A search bar will appear as a result. Enter "CC Force Motion Blur" in the search field if you wish to add motion blur to the video. You may apply this effect to whatever layer you choose since your movie is made up of layers.
 
 ![preview effects and presets after effects](https://images.wondershare.com/filmora/article-images/2022/07/preview-effects-and-presets-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Next, drag the "CC Force Motion Blur" to the layers that represent your imported video at the bottom left of the screen. On the left side of the screen, under "CC Force Motion Blur," you will find settings for motion blur. Here, you may change the motion blur to suit your needs. You may type in the values and watch the video as appropriate. There are several choices available for you to modify.
 
@@ -385,6 +397,13 @@ Download films from the effect store or import them from your device and add the
 ### Apply filters
 
 Overlays and video filters are effects used to enhance the appeal of the video. Open the effects tab and select your desired filter to apply overlays and filters. To apply it, drag and drop it into the timeline's video. Additionally, filters may be adjusted to change the time scale and transparency.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Export
 
@@ -411,13 +430,6 @@ There are very many programs in the market that can technically be used to add t
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) by Wondershare is one of the best video editors in the market. Its user interface is so easy to use that adding text to the video is a simple 3-step process. Aside from adding text to the video, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) also allows you to edit other aspects of the video including adding transitions, overlays, and animations to any section of the video.
 
 ![filmora](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key Features:**
 
@@ -456,18 +468,18 @@ Movavi video editor is another great video editor that you can use to add and ed
 * The user interface is very easy to use, allowing you to add even blocks of text very quickly
 * You also have additional options to edit the video including splitting and merging the video or adjusting the brightness, saturation, and color.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iMovie
 
 This is a built-in video editor that you will find on macOS and iOS devices. Even though it is free, iMovie has a lot of features that come in handy when you want to add and edit text on a video. The fact that it can be used on iOS devices is an added advantage when you want to edit videos on the go.
 
 ![imovie](https://images.wondershare.com/filmora/article-images/imovie-1-interface.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key Features:**
 
@@ -629,19 +641,17 @@ Color Finale includes several high-end color suite capabilities. Color Finale in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-insights-setting-up-time-limited-sessions-with-obs/"><u>[New] Ultimate Insights Setting Up Time-Limited Sessions with OBS</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-aural-adventures-discovering-the-top-15-instructional-music-videos-for-2024/"><u>[Updated] Aural Adventures Discovering the Top 15 Instructional Music Videos for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-masterful-podcast-descriptions-strategies-and-case-studies/"><u>[Updated] In 2024, Masterful Podcast Descriptions Strategies and Case Studies</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-not-just-carjacking-fun-the-best-non-gta-games/"><u>[Updated] In 2024, Not Just Carjacking Fun The Best Non-GTA Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-10-remarkable-e-learning-platforms-excluding-udemy/"><u>[Updated] Top 10 Remarkable E-Learning Platforms Excluding Udemy</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/direct-technique-swap-film-direction-in-media-player-for-2024/"><u>Direct Technique Swap Film Direction in Media Player for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-logitech-webcam-up-and-running-on-pc-with-these-free-drivers/"><u>Get Your Logitech Webcam Up and Running on PC with These Free Drivers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-bokeh-effect-for-2024/"><u>How to Make a Bokeh Effect for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-guide-for-2024/"><u>How To Quickly Create A Screen Print Effect In Photoshop Detailed Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-the-ultimate-guide-to-make-a-text-collage/"><u>In 2024, The Ultimate Guide to Make a Text Collage</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-vintage-film-effect-1980s-how-to-create/"><u>In 2024, Vintage Film Effect 1980S - How to Create</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-recommended-free-language-learning-tools-in-2/"><u>Top 5 Recommended Free Language Learning Tools in 2</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-easy-way-to-create-a-diy-green-screen-video-effect/"><u>Updated Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
-<li><a href="https://win-dash.techidaily.com/updated-zexmo-bluetooth-adapter-support-for-windows-users-win11-win7-and-win8/"><u>Updated Zexmo Bluetooth Adapter Support for Windows Users (Win11, Win7, and Win8)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bridging-virtuality-business-applications-in-vr/"><u>[New] Bridging Virtuality Business Applications in VR</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unleash-creativity-youtube-videos-on-instagram-snapshits/"><u>[New] In 2024, Unleash Creativity YouTube Videos on Instagram Snapshits</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-tackling-the-mystery-of-missing-shorts-video-images/"><u>[Updated] 2024 Approved Tackling the Mystery of Missing Shorts Video Images</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-top-10-proven-methods-to-amplify-your-tiktok-impact/"><u>[Updated] In 2024, Top 10 Proven Methods to Amplify Your TikTok Impact</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-edges-in-mobile-photography-best-phones-for-clear-videos/"><u>[Updated] Leading Edges in Mobile Photography Best Phones for Clear Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/full-spectrum-data-salvage-system-next-level-technical-assistance-for-complete-data-recovery/"><u>Full-Spectrum Data Salvage System: Next-Level Technical Assistance for Complete Data Recovery</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-motorola-g54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Motorola G54 5G?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-poco-x6-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Poco X6 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-guide-swift-recovery-of-your-iphone-using-icloud-without-a-time-consuming-process/"><u>Quick Guide: Swift Recovery of Your iPhone Using iCloud Without a Time-Consuming Process</u></a></li>
 </ul></div>
 

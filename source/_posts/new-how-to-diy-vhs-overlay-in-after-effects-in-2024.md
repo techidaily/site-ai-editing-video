@@ -1,7 +1,7 @@
 ---
 title: New How to DIY VHS Overlay in After Effects, In 2024
-date: 2024-11-05T18:22:06.135Z
-updated: 2024-11-06T17:08:01.914Z
+date: 2024-11-14T01:04:47.667Z
+updated: 2024-11-16T22:19:01.949Z
 tags: 
   - ai
   - animation videos
@@ -56,13 +56,6 @@ Step 6: To add a font to your video, simply search VHS font on Google. Look for 
 Step 7: Go to Layer < New < Solid and choose any color. We chose white. Now, under Effects & Presets, search for a number. Drag it to the white solid. Choose the font VCR OSD Mono. You can change the number to time or date. You can also add time manually. Select the text tool, go to the source text, hold alt, and click on the stopwatch. Write "timeToCurrentFormat() and time will be displayed on the video. Let us say we want to see the date on the video instead of time. So, change the time to date. Drag the date to the bottom right of the video to give it the look of an old VHS tape.
 
 If you are a beginner and want a simple VHS effect, you can follow these easy steps and create the VHS video that will transport you back to the 90s.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## BONUS TIP: How to Add VHS Overlays and Glitch Effects to Make Retro Videos in Filmora Video Editor?
 
@@ -281,13 +274,6 @@ The filtering option of Storyblocks is to die for. Style or software can filter 
 
 ![storyblocks premiere pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. [MotionElements](https://www.motionelements.com/free/premiere-pro-templates)
 
 The third royalty-free marketplace making a brand name for itself is MotionElements. The website offers more than 3 million assets for its users in different industry sectors. You can access Premiere Pro templates free download with other stock videos and audio files.
@@ -311,6 +297,13 @@ While we are on the subject of template Adobe Premiere free, how can we forget a
 The search filter has different options to make the search easier, for instance, application, categories, transitions, and whatnot. If you type free in the search bar, you will find Premiere Pro video templates so that downloading them wouldn’t cost a penny.
 
 ![adobe stock website interface](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. [Mixkit](https://mixkit.co/free-premiere-pro-templates/)
 
@@ -352,6 +345,19 @@ The templates can be effortlessly previewed and launched before accessing them. 
 
 ![mosterone pro templates](https://images.wondershare.com/filmora/article-images/2021/websites-for-premiere-pro-video-templates-10.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 We are surrounded by videos 24/7\. It is true for most creative professionals in the industry who are expected to edit the video to make it more captivating and attractive. One needs to have access to free Premiere Pro templates to obtain a sense of originality as we save money and time on making videos from scratch.
@@ -373,13 +379,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -434,20 +433,13 @@ Up to here, you'll realize that your video doesn't still look like a 1950s film 
 ![apply more graininess to the film](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Please don't stop there; we want to make the footage slightly grainy. In other words, you need to make the footage have a lot of grain and low light. To do that, tap the **Overlay** menu under the Effects tab, then click **Old Film**. After that, choose the **Random Dust, Dirty Film,** and **Subtle Grain** effects and add them to the tracks above your video clip. Remember to use as much grain as possible to give your footage that vintage look of the 1950s.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -462,13 +454,6 @@ First, fire up Filmora and load the video you want to send back to the 1950s. Th
 ##### Step 2 Apply a cropping effect to the video
 
 ![apply a cropping effect to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once the video is successfully added to Filmora, click the **Effect** tab on the top menu bar and choose the **Crop** effect under the **Utility** folder. Make sure you add the Crop effect two or three tracks above the original video track.
 
@@ -527,6 +512,13 @@ And that's all there is today! With these steps, you can create an engaging 1950
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![add your video on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 First, fire up Filmora and load the video you want to send back to the 1950s. Then, drag your footage onto the editing timeline.
 
@@ -570,6 +562,19 @@ With kickass thumbnails, the eyes of users searching for Call of Duty: Warzone v
 
 ![how to create cod warzone thumbnail](https://images.wondershare.com/filmora/article-images/create-cod-warzone-thumbnail.gif)
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How To Make an Impressive Warzone Thumbnail for Free
 
 We have clarified how important a Warzone thumbnail that pop is. But how to make one? That's what this article is for. Here, you will learn how to create impressive Warzone thumbnails for free. That's right - FOR FREE.
@@ -601,6 +606,13 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![creating new project on wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Click "File" button. In the drop-down menu, select "Project Settings."
 
 ![select project settings](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
@@ -653,6 +665,13 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 **Note:** The free version of Wondershare Filmora will add a watermark to saved videos. But it will not add a watermark to a snapshot. Indeed, it is a free Warzone thumbnail creator.
 
 If you want to know more tricks about creating a nice Warzone thumbnail, please check the video below:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips for a Superb Call of Duty: Warzone Thumbnail
 
@@ -753,13 +772,6 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![adding stickers to the warzone image](https://images.wondershare.com/filmora/article-images/add-stickers-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Add Text overlays to the video. To do so, click "Titles." Select the text style and drag it into the timeline. Double-click it to edit the written text.
 
 ##### Step5 Find a Desired Frame and Take a Screenshot
@@ -786,13 +798,6 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 1. Use the screenshot as your video thumbnail.
 
 ![warzone video thumbnail made with filmora](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-result.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -846,6 +851,13 @@ The thumbnail shows a clear-as-crystal screenshot of a team of 4 players on the 
 
 The thumbnail for this video (made by [GTX 1050 Ti](https://www.youtube.com/watch?v=fU9zMSBcius)), with 5.2 million views, is just an in-game screenshot. At the top-right is a large logo of GEFORCE RTX 3080 and at the bottom left is an Intel logo. Like the previous one, it attracts viewers by stating the visual appeal of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. NEW RECORD! 64 KILL GAME in CoD WARZONE! (Best Classes / Loadouts)
 
 ![warzone thumbnail by vikkstar123](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-5.JPG)
@@ -876,24 +888,20 @@ Your best option is Wondershare Filmora. Why? Because it is a thumbnail maker an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-overcoming-obs-fullscreen-issues/"><u>[Updated] 2024 Approved Overcoming OBS Fullscreen Issues</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-crafting-engaging-haul-vids-a-step-by-step-guide/"><u>2024 Approved Crafting Engaging Haul Vids A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/big-sur-readiness-system-and-hardware-guide/"><u>Big Sur Readiness System & Hardware Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-path-to-youtube-gaming-popularity/"><u>[New] 2024 Approved The Path to YouTube Gaming Popularity</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ow-to-safely-increase-your-youtube-fanbase-to-one-million/"><u>[New] How to Safely Increase Your YouTube Fanbase To One Million</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-filmora-features-every-videographer-adores/"><u>[Updated] 2024 Approved Essential Filmora Features Every Videographer Adores</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-through-boundaries-with-hdr-in-editing/"><u>2024 Approved Breaking Through Boundaries with HDR in Editing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-epic-offer-dive-into-high-definition-game-sounds-for-just-150-less-discover-the-ultimate-speaker-system-honored-by-zdnet-gaming-reviewers/"><u>Amazon's Epic Offer: Dive Into High-Definition Game Sounds for Just $150 Less! Discover the Ultimate Speaker System, Honored by ZDNET Gaming Reviewers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1724766577504-digiarty-18/"><u>Digiarty: 祝開業18週年スペシャルコレクション</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/expert-tips-to-correct-acrocefexeexe-error-and-enhance-stability/"><u>Expert Tips to Correct acrocefexe.exe Error and Enhance Stability</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/exploring-flexus-200-a-revolutionary-audio-experience/"><u>Exploring Flexus 200: A Revolutionary Audio Experience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fixing-performance-lags-and-stutter-in-modern-warfare-2-on-windows-systems/"><u>Fixing Performance Lags & Stutter in Modern Warfare 2 on Windows Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-terminate-your-twitch-account-a-step-by-step-guide/"><u>How To Terminate Your Twitch Account: A Step-By-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-xiaomi-13t-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Xiaomi 13T?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-huawei-p60-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Huawei P60? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722995270622-pubg-no-volume-heres-how-you-can-get-game-audio-back/"><u>PUBG No Volume? Here's How You Can Get Game Audio Back!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solution-to-stuttering-glitch-in-mass-effect-legendary-anthology-released/"><u>Solution to Stuttering Glitch in Mass Effect Legendary Anthology Released</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/success-story-escaping-the-sea-of-thieves-loading-screen-glitch/"><u>Success Story: Escaping the Sea of Thieves Loading Screen Glitch</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-guide-to-the-best-of-the-best-linksys-wrt3200acm-and-its-open-source-superiority/"><u>The Ultimate Guide to the Best of the Best: Linksys WRT3200ACM and Its Open-Source Superiority</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-premier-smoke-free-fire-pit-models-expert-reviews-and-buyers-guide/"><u>Top 5 Premier Smoke-Free Fire Pit Models : Expert Reviews & Buyer's Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/fixing-common-issues-with-steam-remote-play-for-a-seamless-gaming-experience/"><u>Fixing Common Issues with Steam Remote Play for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-5-screen-capture-utilities-for-windows-users/"><u>In 2024, Top 5 Screen Capture Utilities for Windows Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/score-big-savings-on-gadgets-during-amazons-2024-prime-day-extravaganza/"><u>Score Big Savings on Gadgets During Amazon's 2024 Prime Day Extravaganza</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/solutions-for-fixing-misinstalled-ryzen-master-driver-on-your-pc/"><u>Solutions for Fixing Misinstalled Ryzen Master Driver on Your PC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-list-top-2024-recommendations-for-quality-17-inch-laptops/"><u>The Ultimate List: Top 2024 Recommendations for Quality 17-Inch Laptops</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/troubleshooting-guide-for-common-minecraft-world-connection-errors/"><u>Troubleshooting Guide for Common Minecraft World Connection Errors</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/unlock-more-fun-on-your-nes-classic-with-essential-game-installation-techniques/"><u>Unlock More Fun on Your NES Classic with Essential Game Installation Techniques</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vyncs-link-analysis-unrivaled-monitoring-capabilities-overshadowed-by-puzzling-pricing-structures/"><u>Vyncs Link Analysis: Unrivaled Monitoring Capabilities Overshadowed by Puzzling Pricing Structures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-power-achieving-new-records-with-a-258-ghz-overclock-on-the-nvidia-geforce-rtx/"><u>Unleashing Power: Achieving New Records with a 2.58 GHz Overclock on the NVIDIA GeForce RTX 지오</u></a></li>
 </ul></div>
 
