@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Creative Ways to Add Green Screen Effects In Photoshop
-date: 2024-11-12T20:50:40.308Z
-updated: 2024-11-16T19:59:42.440Z
+date: 2024-11-25T20:17:35.607Z
+updated: 2024-11-26T20:05:52.068Z
 tags: 
   - ai
   - animation videos
@@ -84,16 +84,7 @@ On the Timeline, your recorded video should be below the replacement photo or vi
 ![timeline](https://images.wondershare.com/filmora/article-images/timeline.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 5: Double-click on your video, and you will come across a panel on the upper-left side. From that panel, you have to turn on Chroma Key option. This will enable the green screen effect due to which you will see the replacement photo or video superimposed on your recorded video in the green screen background.
@@ -103,10 +94,7 @@ Step 5: Double-click on your video, and you will come across a panel on the uppe
 Step 6: Finally, adjust the parameters available to fine-tune the overall green screen effect. Lastly, click on Ok button.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -203,13 +191,6 @@ If you are looking to add green screen effects to your photo, you can opt for Ch
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## This Article Talks About if the Windows Movie Maker Available  and if Yes, Then How You Can Download It and so On. It Further Comprises an Alternative to the Same to Create Videos
 
@@ -360,6 +341,10 @@ Windows movie maker introduced to the world through the package of windows essen
 
 Soon, we were asking ourselves, like, **is** **windows movie maker available for windows** **10**? If not, then how to download it? To sum it up, hopefully, after reading the above article, you have gained the knowledge and learned how to download the windows movie maker and other alternatives available on the market.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. Related FAQs of Windows Movie Maker
 
 ### 1\. Why is the Windows movie maker no longer available?
@@ -398,6 +383,10 @@ In addition, there are many more in the world of LUTs, such as **BRAW LUTs**. BR
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Part 1: How to Apply BRAW LUTs on Premiere Pro?
@@ -416,11 +405,19 @@ Lead into the “Source” section and look for the “Effect Controls” tab. I
 
 ![define braw luts settings](https://images.wondershare.com/filmora/article-images/2023/define-braw-luts-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Apply the LUT to Your Video Clips**
 
 To apply the LUT to all your video clips, right-click on the "Blackmagic RAW" tab. Click on the "Copy" option from the menu that appears. Now, select all your clips in the "Project" panel by holding the SHIFT key while clicking on each clip. Right-click on the selected clips and choose the "Paste" option to apply the LUT. Your Blackmagic LUT will now be applied to all the selected video files. After completing your edits save your file.
 
 ![apply luts to all videos](https://images.wondershare.com/filmora/article-images/2023/apply-luts-to-all-videos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Empower your videos with a new mood using different LUTs.** Filmora now offers 100+ top-quality 3D LUTs cover a broad range of scenarios. Transform your videos with Filmora's powerful 3D LUTs.
 
@@ -442,6 +439,10 @@ The Blackmagic BaseLUTs for BRAW – Gen 5 & Gen 4 Film powerful pack consists o
 
 ![blackmagic baseluts for braw](https://images.wondershare.com/filmora/article-images/2023/blackmagic-baseluts-for-braw.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. [Cinematic BRAW BMPCC LUTs Gen5](https://filtergrade.com/product/cinematic-braw-blackmagic-luts/)
 
 Cinematic BRAW BMPCC LUTs Gen5 is a powerful set of seven different cinematic LUTs. With this pack of BRAW LUTs, you can take your video to the next level. It makes your videos feel larger than life with this LUT pack. Additionally, this pack brings cinematic flair and vibrant colors to create an epic visual experience. Besides this, each LUT comes with its unique color grading.
@@ -453,13 +454,6 @@ Cinematic BRAW BMPCC LUTs Gen5 is a powerful set of seven different cinematic LU
 Blackmagic BRAW Vivid LUTs is a great pack to make your videos and images look professional. These LUTs work by exposing your images, revealing hidden details and textures. Furthermore, it increases saturation to make your videos pop. Besides this, it also highlights the red and green channels to make your media look more natural and prominent.
 
 ![blackmagic braw vivid luts](https://images.wondershare.com/filmora/article-images/2023/blackmagic-braw-vivid-luts.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. [S20-F87 BRAW FILM](https://www.etsy.com/listing/861618422/lut-for-bmpcc-4k-film-braw-s20-f87?ga%5Forder=most%5Frelevant&ga%5Fsearch%5Ftype=all&ga%5Fview%5Ftype=gallery&ga%5Fsearch%5Fquery=braw+luts&ref=sr%5Fgallery-1-2&organic%5Fsearch%5Fclick=1)
 
@@ -488,13 +482,6 @@ JM-15+ Premium BMPCC BRAW LUTs are the key to unlocking a cinematic feel in your
 [Add LUTs on Video](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -628,6 +615,10 @@ Hence, adjustment layers in any video editor like DaVinci Resolve provide a non-
 
 ![davinci resolve the adjustment clip](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Add an Adjustment Layer (clip) in DaVinci Resolve?
 
 Are you keen to know **how to add an adjustment layer in DaVinci Resolve**? By reading this section, you can find easy instructions to apply the adjustment layer (clip) in DaVinci Resolve without hassle.
@@ -640,23 +631,9 @@ Step2 From the Effects section, you will have to search for the "Adjustment Clip
 
 ![add the adjustment clip](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Now extend the adjustment clip according to the layers. Once done, you can apply effects and transitions to the adjustment clip to add modifications.
 
 ![adjust the adjustment clip](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Three Ways to Use Adjustment Layers in DaVinci Resolve
 
@@ -698,6 +675,10 @@ Step4 You can also select different composite modes. You can also duplicate the 
 
 ![use different composite modes](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tips: Use Adjustment Layers in the Best Alternative to DaVinci Resolve
 
 If you are not satisfied with the results of the **DaVinci Resolve adjustment layer**, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). This professional software can prove to be the best alternative to DaVinci Resolve due to its numerous key features. You can find this tool on every major platform, such as iOS, Android, Windows, and Mac. This tool has a clean and friendly user interface so that you can enjoy editing and modifying your videos.
@@ -713,13 +694,6 @@ You can also use adjustment layers to edit with great ease on this compatible vi
 Once done with launching Filmora, hit the “New Project” button and upload the desired video. Drag and drop the added video to the timeline to proceed further.
 
 ![create your new video project](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step2 Add the Adjustment Layer
 
@@ -760,6 +734,10 @@ Go to the "Media" tab and locate the option "Adjustment Layer." Once done, drag 
 From the opened settings, you can alter the blending mode according to your choice. You can also change opacity and position for more adjustments. Also, you can apply various presets to add a cinematic look. Moreover, you can apply different borders across your video clip for a more enhanced look.
 
 ![customize the adjustment layer](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-davinci-resolve-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -783,24 +761,15 @@ Moreover, we have also highlighted a better option than DaVinci Resolve, known a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-guide-to-instagram-video-backup-with-computer-or-laptop-for-2024/"><u>[New] Guide to Instagram Video Backup with Computer or Laptop for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-ultimate-list-best-no-cost-lut-downloads/"><u>[Updated] In 2024, Ultimate List Best No-Cost LUT Downloads</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-recording-your-screen-and-videos-on-android/"><u>2024 Approved Recording Your Screen & Videos on Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionizing-healthcare-marketing-via-social-networks/"><u>2024 Approved Revolutionizing Healthcare Marketing via Social Networks</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-green-screens-are-a-fun-way-for-creators-to-bring-their-personality-to-their-stream-allowing-them-to-dynamically-alter-their-stream-background-and-m/"><u>In 2024, Green Screens Are a Fun Way for Creators to Bring Their Personality to Their Stream, Allowing Them to Dynamically Alter Their Stream Background and Make Their Content Appear Even More Engaging and Polished</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-motion-tracking-in-video-editing/"><u>In 2024, How to Use Motion Tracking in Video Editing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-tutorial-how-to-add-motion-blur-in-blender/"><u>In 2024, Tutorial How To Add Motion Blur in Blender?</u></a></li>
-<li><a href="https://win-docs.techidaily.com/losungen-und-tipps-wie-schaltet-man-den-energiesparmodus-auf-dem-iphone-aus/"><u>Lösungen Und Tipps: Wie Schaltet Man Den Energiesparmodus Auf Dem iPhone Aus?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-future-with-generative-ai-the-birth-of-innovative-software-leadership-roles-zdnet/"><u>Navigating the Future with Generative AI: The Birth of Innovative Software Leadership Roles | ZDNet</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-elevate-your-designs-with-feather-shapes-in-after-effects/"><u>New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-apply-video-filters-mobile-and-desktop-for-2024/"><u>New How to Apply Video Filters Mobile and Desktop for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/steps-to-add-subtitles-in-canva/"><u>Steps to Add Subtitles in Canva</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailored-strategies-for-free-clock-usage-optimization-for-2024/"><u>Tailored Strategies for FREE Clock Usage Optimization for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-keys-on-your-windows-keyboard-easy-fixes-and-tips/"><u>Troubleshooting Unresponsive Keys on Your Windows Keyboard – Easy Fixes & Tips</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/ultimate-tutorial-mastering-twitter-video-responses-for-2024/"><u>Ultimate Tutorial Mastering Twitter Video Responses for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-achieve-gopro-slow-motion-with-quality/"><u>Updated 2024 Approved How to Achieve GoPro Slow Motion With Quality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-vintage-film-effect-1950s/"><u>Updated 2024 Approved How to Create Vintage Film Effect 1950S</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-disrupt-the-norm-top-glitch-art-video-editing-apps-for-ios-and-android-creators-for-2024/"><u>Updated Disrupt the Norm Top Glitch Art Video Editing Apps for iOS and Android Creators for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-11-tools-to-create-radial-blur-photo-mobile-and-desktop/"><u>Updated In 2024, 11 Tools To Create Radial Blur Photo Mobile And Desktop</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-balance-tint-editor-pro/"><u>[Updated] 2024 Approved Balance Tint Editor Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-camera-quest-gopro-hero5-b-vs-session-edition/"><u>2024 Approved Camera Quest – GoPro Hero5 B vs Session Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-youthful-youtuber-writers-handbook-creating-channels-clutching-cash/"><u>2024 Approved Youthful Youtuber’ Writers’ Handbook Creating Channels, Clutching Cash</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-practical-tips-to-improve-your-lighting-in-the-sun-for-2024/"><u>New Best Practical Tips to Improve Your Lighting in the Sun for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-everything-that-you-need-to-know-about-video-montages-ideas-techniques-and-software/"><u>New Everything That You Need to Know About Video Montages- Ideas, Techniques, and Software</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-split-clips-in-vlc-for-2024/"><u>New Step by Step to Split Clips in VLC for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-frame-rate-drops-and-hiccups-in-modern-warfare-2-pc-gaming/"><u>Resolved: Fixes for Frame Rate Drops & Hiccups in Modern Warfare 2 - PC Gaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-fix-mouse-on-windows-11/"><u>Screen Fix: Mouse on Windows 11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-loop-videos-with-filmora-for-2024/"><u>Updated How to Create Loop Videos with Filmora for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/8-windows/"><u>이상한 조각 마우스로 영역 캡처 : 8개의 무료 Windows 화면 캡쳐 프로그램을 선보여주세요!</u></a></li>
 </ul></div>
 

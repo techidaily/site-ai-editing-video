@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Adobe Lightroom Color Grading Tutorial
-date: 2024-11-13T01:50:46.925Z
-updated: 2024-11-16T16:49:02.918Z
+date: 2024-11-25T19:54:39.117Z
+updated: 2024-11-26T18:54:29.969Z
 tags: 
   - ai
   - animation videos
@@ -115,6 +115,10 @@ You can also split the number of video and audio clips at the exact timings in D
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **An easier way to split the video clips**
 
 Without any doubt, DaVinci resolve is an advanced level software for video editing at the professional level. Moreover, the pricing of DaVinci resolve is $299, and it shows that it is quite expensive for many people. Due to this, you need an economical solution that is [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) .
@@ -160,10 +164,7 @@ Keep hanging the mouse on the corner of the video until and unless the trimming 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-6.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step: 4**
@@ -192,6 +193,10 @@ Although various editing software is available, Wondershare Filmora has to be on
 **Step 2:** Import and place the media file on the timeline from the library. This is the clip you want to split. Select the blade tool from where you want to split the clip. Use the _timeline_ from the menu and go to _Split Clip_. Shortcut keys are also available that are Ctrl+\\ or Cmd+\\ or Cmd+B. Now the split clip is easily visible to you. You can use this clip wherever you want to use it.
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Part 2- Splitting of more than one clip on various tracks:**
 
@@ -322,6 +327,10 @@ Keep hanging the mouse on the corner of the video until and unless the trimming 
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-5.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step: 3**
 
  You don’t want the video parts in the centre of the video clips. First, split the video and delete it. For splitting the video, click on the icon of the scissor.
@@ -333,6 +342,10 @@ Keep hanging the mouse on the corner of the video until and unless the trimming 
 For deleting the part of the undesired part of the video, click on the dustbin icon. If there is any deletion by mistake, there is no need to worry about it. Click on the undo icon to make the video appear on the timeline again.
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-7.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Part 2 - Splitting and trimming the clips in Wondershare Filmora:**
 
@@ -364,20 +377,6 @@ You can also split the number of video and audio clips at the exact timings in D
 **Step 2:** Just keep pressing **Command or Control + \\** keys, or click on **timeline> Split Clip.** The selected clips of audio and video get split together now. No more slitting of the clips individually. This option is more appropriate for you when creating and managing different parts of massive projects.
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **An easier way to split the video clips**
 
@@ -434,13 +433,6 @@ For deleting the part of the undesired part of the video, click on the dustbin i
 Apart from the above steps for trimming and splitting the videos in Wondershare Filmora, the position of the video has to be in the place head of the frame that you are willing to trim. Right-click on the clip and select the option of “Trim Start to Playhead or Trim End to Playhead “ for deleting the content of the video ahead or back of it.
 
 ![split a clip in davinci resolve](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-davinci-resolve-8.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In the latest version of the Wondershare Filmora, you can even trim the video without adding it to the timeline. A similar video can easily split multiple times and load only the required one. Go through the following steps to split the clips in a faster way:
 
@@ -458,6 +450,10 @@ Although various editing software is available, Wondershare Filmora has to be on
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Animated Text Generator
 
@@ -487,6 +483,10 @@ The user interface is extremely intuitive and hence, it is equally suitable for 
 Adobe has a wide range of video editors and it is the most reliable brand among professional video editors. Adobe Express is a premium text animation online tool where you can add animated text to your photos instantly and export them as MP4 file. Therefore, the online tool is extremely useful for social media enthusiasts. However, the platform does not support adding animated text to video.
 
 ![adobe express](https://images.wondershare.com/filmora/article-images/adobe-express.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Adobe Express is labelled as the branding tool where you can create trendy images with templates and choose from different animated text presets. You can access the online tool from all devices from your web browser. Most importantly, it is a completely free animated text generator from Adobe and you can add animated text to your images within a few minutes.
 
@@ -548,13 +548,6 @@ Loading.io is a dedicated animated text generator GIF online platform. There are
 
 ![loading io text](https://images.wondershare.com/filmora/article-images/2022/08/loading-io-text.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. [FlexClip Animated Text Generator](https://www.flexclip.com/features/text-animation.html)
 
 FlexClip is a renowned online video editor and it features a free animated text generator. You can create engaging and attractive animated text video conveniently. There are different categories of customizable text animation templates available to get started. In fact, there are different text styles available with animations that you can apply to your video and customize them instantly.
@@ -569,13 +562,6 @@ There is a wide array of stock photos and videos along with music that you can u
 
 ![flexclip aniamted text maker](https://images.wondershare.com/filmora/article-images/2022/08/flexclip-aniamted-text-maker.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. [RenderForest Animated Text Generator](https://www.renderforest.com/animated-text-generator)
 
 RenderForest is a stylish animated text generator that is highly useful for creating brand videos. There are different templates and packs available to pick from to get started. The templates are extremely trendy and eye-catching and there is a high chance that your video will get extremely high traction. You can create engaging promo for social media platforms. You can customize the templates and change font styles as well as add music to enhance the video content. Here are the key features of RenderForest Animated Text Generator.
@@ -588,13 +574,6 @@ RenderForest is a stylish animated text generator that is highly useful for crea
 * Download HD videos in different file format
 
 ![renderforest animated text maker](https://images.wondershare.com/filmora/article-images/2022/08/renderforest-animated-text-maker.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. [TextStudio](https://www.textstudio.co/)
 
@@ -652,6 +631,10 @@ Getting animated text for your video is no more a job of experts. You can genera
 Selective color is an effect that lets you desaturate all the colors in a photo or video while preserving one or more colors of your choice. It is done by isolating a specific color of your choice in the frame while all other colors turn into black and white, just like this.
 
 ![color isolation](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 By using this effect, we can draw viewers' attention to a specific point in the clip. If you want your video do the same, Filmora can be a good helper. Alright, we’ll be creating selective color effects in two examples. Let’s get started.
 
@@ -727,16 +710,13 @@ Step6 Next, try selecting a second color to isolate within our shot. In this exa
 
 ![clicking on the second color](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step7 Pick the eyedropper tool and click it on the green part of the clip. Then adjust the range slider as needed.
 
 ![adjusting range slider](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Alright, let’s watch back the video to see how both colors are now isolated.
 
@@ -765,6 +745,10 @@ Step4 Next, double-click on the clip and check out the effects menu at the top o
 Step5 Open the preset drop-down menu. There will be a lot of presets with different colors. Select the preset you want to use. In this scenario, let us select Just Blue.
 
 ![select the preset](https://images.wondershare.com/filmora/article-images/2022/12/add-selective-color-effect-to-videos-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step6 If you see a blue tint at a place or object which you want to be white and black, click on the first color.
 
@@ -834,18 +818,18 @@ Follow all the steps in the correct order. This is how you can use NewBlue effec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-insta-exiting-a-step-by-step-guide-for-2024/"><u>[New] Mastering Insta Exiting A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhance-stories-interaction-with-custom-queries-design/"><u>2024 Approved Enhance Stories Interaction with Custom Queries Design</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-tips-for-pc-based-console-game-recording-for-2024/"><u>[New] Essential Tips for PC-Based Console Game Recording for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-kitchen-combatants-30-pugnacious-food-show-titles/"><u>[Updated] 2024 Approved Kitchen Combatants 30 Pugnacious Food Show Titles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-effective-ads-a-cost-free-guide-to-youtube-videos-for-2024/"><u>[Updated] Crafting Effective Ads A Cost-Free Guide to YouTube Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-alter-default-store-place-for-mac-images/"><u>2024 Approved Alter Default Store Place for Mac Images</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-precisely-how-to-disconnect-from-your-outdated-linkedin-account/"><u>2024 Approved Precisely How To Disconnect From Your Outdated LinkedIn Account</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/best-ways-to-blur-zoom-background-for-free-for-2024/"><u>Best Ways to Blur Zoom Background for Free for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-official-epson-perfection-v500-drivers/"><u>Download and Install Official Epson Perfection v500 Drivers</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-essential-dog-bark-samples-for-audio-projects/"><u>New 2024 Approved Essential Dog Bark Samples for Audio Projects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>New In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-export-video-in-filmora/"><u>New In 2024, How To Export Video in Filmora</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-a-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated A Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-introduction-to-luts-their-overview-and-benefits/"><u>Updated Introduction to LUTs Their Overview and Benefits</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726030133957-iphoneandroid/"><u>ビデオ音声の着信曲変更 - iPhoneとAndroid両方に対応</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-zte-nubia-flip-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your ZTE Nubia Flip 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-remove-background-from-a-video-in-premier-pro-for-2024/"><u>How to Remove Background From a Video in Premier Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-create-a-motion-blur-effect-in-your-videos-read-this-well-described-guide-to-learn-how-to-add-motion-blur-on-capcut-on-iphone-and-and/"><u>In 2024, Do You Want to Create a Motion Blur Effect in Your Videos? Read This Well-Described Guide to Learn How to Add Motion Blur on CapCut on iPhone and Android Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-lava-yuva-3-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Lava Yuva 3 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-personalized-/"><u>In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-tecno-phantom-v-flip-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Tecno Phantom V Flip Location | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-users-facebook-assesses-news-feed-engagement/"><u>Understanding Users: Facebook Assesses News Feed Engagement</u></a></li>
 </ul></div>
 

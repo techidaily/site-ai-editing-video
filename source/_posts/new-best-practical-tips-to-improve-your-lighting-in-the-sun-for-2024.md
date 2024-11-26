@@ -1,7 +1,7 @@
 ---
 title: New Best Practical Tips to Improve Your Lighting in the Sun for 2024
-date: 2024-11-15T21:32:26.261Z
-updated: 2024-11-17T06:17:18.726Z
+date: 2024-11-22T19:55:07.333Z
+updated: 2024-11-26T16:12:11.146Z
 tags: 
   - ai
   - animation videos
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 Shooting outdoors is a challenge in most situations. We have to deal with the sun being overexposed or the background is too dark.
 
 In this article, we'll show you how to light with the sun the easiest way. These simple and effective tips can help you block the harsh sun and make it to your advantage!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1) Preparation
 
@@ -75,6 +79,10 @@ Now, take a look at the comparison with all the lighting conditions we create:
 1. Backlight VS Backlight & Bounce
 
 ![backlight vs backlight bounce](https://images.wondershare.com/filmora/article-images/2022/12/comparison-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -140,15 +148,16 @@ Consequently, click on the Snapshot icon at the right side of the toolbar just a
 ![add second color image](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then you should double-click on the original Default Title you added and start editing your title text once more. This time, add the term you want to appear under your original title here. Adjust the font for it as something other than the original one. For example, if you put Motor Oil 1937 M54 as the first title font, set the second as Montserrat SemBold. Make more adjustments, if necessary, to the font. Then, retake a snapshot of it.
 
 ![change the second title text](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Insert the snapshots
 
@@ -159,13 +168,6 @@ It is possible that you will not see the Snapshots saved in your media folder. I
 In the folder, double-click on the Snapshot folder. Choose both of the Snapshots you saved right now from here and tap on Open to import them into Filmora.
 
 ![choose and import both snapshots](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Import additional music and background visuals
 
@@ -205,21 +207,7 @@ Add the keyframe here and change the value of the Scale parameter to 400 or some
 
 ![click on rotate](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Move your playhead on this snapshot clip in the timeline by at least 1 second. Then, add another keyframe in this location by tapping the Add button. Here, reset the Scale and Rotate parameters and press the OK button to end.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add the lens flare and particle video
 
@@ -232,6 +220,10 @@ Then, double-click on this Particles video clip on the timeline and go to the Co
 Now, play the preview again.
 
 ![drag and drop particles video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Adjust the second title, again
 
@@ -279,29 +271,9 @@ Consequently, click on the Snapshot icon at the right side of the toolbar just a
 
 ![add second color image](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then you should double-click on the original Default Title you added and start editing your title text once more. This time, add the term you want to appear under your original title here. Adjust the font for it as something other than the original one. For example, if you put Motor Oil 1937 M54 as the first title font, set the second as Montserrat SemBold. Make more adjustments, if necessary, to the font. Then, retake a snapshot of it.
 
 ![change the second title text](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-strobe-light-text-effect-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Insert the snapshots
 
@@ -342,6 +314,10 @@ Press OK.
 ## Add the sound effect
 
 Again, you must hide the second snapshot in the timeline with the same step as before. Then, drag the sound effect to the audio track timeline next. Tap on the Play button under the Preview to see how the effect looks with the sound. Cut out the extra second of the sound effect clip to align it with the ending section of all of the other clips.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add the initial keyframes
 
@@ -411,6 +387,10 @@ The DaVinci resolve is the complete package to solve your different issues. It i
 
 ![separating the audio from the video](https://images.wondershare.com/filmora/article-images/2022/01/separate-audio-from-video-davinci-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Now it is easy to select the video and click on it. Select the audio and video clips separately. Simply edit, delete or move your audio whenever you want it to.
 
 ## An easier way to separate the audio from the video
@@ -495,13 +475,6 @@ To extract the audio from the video clip in Wondershare Filmora, go through the 
 
 ![separating the audio from the video](https://images.wondershare.com/filmora/article-images/2022/01/separate-audio-from-video-davinci-4.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** This step separates the audio from the video in a single click. You need to right-click on the video from which you have to split the audio and select “Detach Audio”. Instantly, an audio file will appear on the screen on the audio track. Yes, you have received the original audio final from the source file.
 
 Successfully the audio is separate from the video. Wondershare Filmora also offers to replace the audio file you want to add to the video. It can provide a few instructions, some narrations or personal, funny tunes for sharing with family and friends.
@@ -524,14 +497,11 @@ In Wondershare Filmora, there are templates for the spilt screens as well. It is
 
 ![separating the audio from the video](https://images.wondershare.com/filmora/article-images/2022/01/separate-audio-from-video-davinci-3.png)
 
-**Step 4:** Now it is easy to select the video and click on it. Select the audio and video clips separately. Simply edit, delete or move your audio whenever you want it to.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 4:** Now it is easy to select the video and click on it. Select the audio and video clips separately. Simply edit, delete or move your audio whenever you want it to.
 
 ## An easier way to separate the audio from the video
 
@@ -569,6 +539,10 @@ Successfully the audio is separate from the video. Wondershare Filmora also offe
 **Step 3:** After step2, it is simple to delete the audio clips or video that isn’t needed anymore and add your own choice. Click on “Export” to save the audio file into the new MP3 file and select “iPod” presenting to play. Even, you can save it as your project file on your system. After the completion of exporting the audio track, load the project file again with the video frame and export it as the new file of your video.
 
 ![separating the audio from the video](https://images.wondershare.com/filmora/article-images/2022/01/separate-audio-from-video-davinci-5.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Wondershare Filmora is the most user-friendly editing software for all. Whether you want to make complex or straightforward videos, all is done in just a few steps. The best part of this software is that all the features are easily accessible to all types of users. It is very simple to start and show your creative skills and share easily if you are unfamiliar with video editing.
 
@@ -751,6 +725,10 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -767,17 +745,22 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-capture-the-best-moments-select-6-top-ranked-short-video-download-tools/"><u>2024 Approved Capture the Best Moments Select 6 Top-Ranked Short Video Download Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-how-to-cultivate-your-own-metaverse-humor-garden/"><u>2024 Approved How to Cultivate Your Own Metaverse Humor Garden</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-to-use-montage-with-these-movies/"><u>2024 Approved Learn to Use Montage with These Movies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-settings-for-continuous-save-support-in-nvidia-control-center/"><u>Adjusting Settings for Continuous Save Support in NVidia Control Center</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-15-pro-activation-lock-using-official-methods-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 15 Pro activation lock using official methods</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-quiz-videos-detailed-guide-for-2024/"><u>How To Create Quiz Videos Detailed Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-picks-must-watch-family-films-on-amazon-prime-video-this-july-2024/"><u>Top Picks: Must-Watch Family Films on Amazon Prime Video This July 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-itel-p55t-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Itel P55T FRP Bypass</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-3-in-camera-transitions-tricks-to-make-videos-like-a-pro-for-2024/"><u>Updated 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-benefits-of-live-streaming-on-youtube/"><u>Updated Benefits of Live Streaming on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rofessional-level-youtube-content-via-adobe-premiere/"><u>[New] Professional-Level YouTube Content via Adobe Premiere</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-a-strong-visual-narrative-in-youtube-videos/"><u>[Updated] In 2024, Building a Strong Visual Narrative in YouTube Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-showcase-your-brand-with-our-50-free-youtube-banners/"><u>[Updated] In 2024, Showcase Your Brand with Our 50 Free YouTube Banners!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-8-apps-accelerating-slow-motion-footage/"><u>[Updated] Top 8 Apps Accelerating Slow Motion Footage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-blender-green-screen/"><u>2024 Approved How to Use Blender Green Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-know-how-you-can-trim-or-merge-using-wondershare-filmora-trimming-and-merging-using-this-tool-is-an-easy-task-learn-how-for-2024/"><u>Do You Know How You Can Trim or Merge Using Wondershare Filmora? Trimming and Merging Using This Tool Is an Easy Task; Learn How for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-make-your-background-disappear-and-replace-with-an-attractive-background-here-is-how-to-add-a-green-screen-to-zoom-app-and-add-any-virtual-ba/"><u>Do You Want to Make Your Background Disappear and Replace with an Attractive Background? Here Is How to Add a Green Screen to Zoom App and Add Any Virtual Background of Your Choice</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-steps-to-loop-youtube-videos-on-iphone/"><u>Easy Steps to Loop YouTube Videos on iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hefty-helpers-airborne-lifting-titans-unveiled/"><u>Hefty Helpers Airborne Lifting Titans Unveiled</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-11-pro-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 11 Pro Passcode Easily Video Inside</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-fade-in-text-in-adobe-premiere-pro-for-2024/"><u>How to Fade in Text in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminating-images-in-lightroom-a-step-by-step-hdr-guide-for-2024/"><u>Illuminating Images in Lightroom A Step-by-Step HDR Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-save-or-record-periscope-videos-complete-guide/"><u>In 2024, How to Save or Record Periscope Videos Complete Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-realme-c33-2023-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Realme C33 2023 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-easy-steps-to-export-video-in-filmora/"><u>New 2024 Approved Easy Steps to Export Video in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-ways-to-make-time-lapse-video-on-macbook/"><u>Updated 3 Ways to Make Time-Lapse Video on MacBook</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora-for-2024/"><u>Updated How to Correct Lens Distortion With Filmora for 2024</u></a></li>
 </ul></div>
 

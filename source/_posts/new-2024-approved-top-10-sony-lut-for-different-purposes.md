@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Top 10 Sony LUT for Different Purposes
-date: 2024-11-12T05:56:32.157Z
-updated: 2024-11-16T20:13:09.791Z
+date: 2024-11-21T19:49:56.738Z
+updated: 2024-11-26T18:33:20.282Z
 tags: 
   - ai
   - animation videos
@@ -37,40 +37,23 @@ Because LUTs are predefined colors used to establish a specific look on a pictur
 
 However, there's a good probability that it won't look the same in all of the images. This is where you'll adjust the colors to make them more evenly match the film. It's nothing significant most of the time, just some little saturation adjustments, etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Work on a budget
 
 Time spent in a color-grade suite may be highly costly, and it can lead your films to go over budget in order to achieve a specific aesthetic. LUTs, on the other hand, are available for free online or for a fee for more complex versions. Even if you buy your LUTs, you could save thousands of dollars based on the size of your film. LUTs can also assist you in meeting tight deadlines, and setting targets too optimistically is something I'm sure we've all done at some point.
 
 Whether it's a client or a personal project, things can often get pushed to the last minute, so having something in your arsenal that can save you time is always a good bonus. There are, however, projects where you need to appear competent without investing a lot of time on them due to budget limits; this is where a lookup table comes in handy because you can modify the complete style of your movie in a matter of seconds by pressing a few buttons. Even complicated editing can be completed quickly, giving you more time to work on other tasks that will earn you more money.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. It provides an artistic approach
 
 LUTs are beneficial because they allow videos shot with cameras that shoot very dark, discolored images to have more vivid tones and contrast. This is excellent for grabbing viewers' attention and making videos more intriguing and engaging. LUTs add an artistic element to videos and can help you develop a visual artistic identity for your videos if you use the same colors. Another advantage of LUTs is that they enhance the color quality of videos shot on smartphones with particular color schemes. Although this varies significantly from brand to brand, you can use LUTs to make a Smartphone video more vibrant and appealing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Top 10 Sony LUT for Different Purposes
 
 The highlights in your videos will seem smooth with this set of Free Sony LUTs, while the shadows will add intensity and depth without sacrificing any details. It's easy to use Sony LUTs in.CUBE and.LOOK versions, and they help you get the cinematic appearance you want.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. SLog2 & SLog3 to Enhanced Rec709 LUTs
 
@@ -79,6 +62,10 @@ The Sony Natural Enhanced LUT pack was created to address Sony's color science-r
 ![Sony Lut - SLog2 & SLog3 to Enhanced Rec709 LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-1.jpg)
 
 SLog2 & SLog3 to Enhanced Rec709 LUTs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Filmic Tone Creative LUTs
 
@@ -110,6 +97,10 @@ There are 24 Sony Cine-4 Film LUTs and 24 Rec 709 LUTs in this LUTs set. They ca
 
 ![Sony Lut - Sony Cine-4 Film and Standard LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sony Cine-4 Film and Standard LUTs
 
 ### 6\. Sony Urban Dark LUT
@@ -119,6 +110,10 @@ The Urban Dark LUT pack aims to provide users with some dark, fascinating tones 
 ![Sony Lut - Sony Urban Dark LUT](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-6.jpg)
 
 Sony Urban Dark LUT
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. LUT Sony Vegas "Adventure"
 
@@ -134,6 +129,10 @@ This Sony LUT adds a creamy feel to the video, making it more appealing while al
 
 ![Sony Lut - Sony LUT Dessert](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sony LUT "Dessert"
 
 ### 9\. Sony LUTs for the premiere
@@ -143,6 +142,10 @@ If you want to make your video clip look professional without the color grading 
 ![Sony Lut - Sony LUTs for the premiere](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-9.jpg)
 
 Sony LUTs for the premiere
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10\. Sony Base LUT pack
 
@@ -167,19 +170,6 @@ LUTs should be present in every videographer's toolbox since they may save time 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -269,13 +259,6 @@ Subtitles are a very good way to learn new languages, sometimes consciously, oth
 
 If you want to improve your reading speed, subtitles equally help you do that.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Subtitle Tips and Tricks
 
 Subtitle software applications let you add captions to videos, edit them, translate them to languages of your choice, etc. Let us look at a few of them below:
@@ -293,13 +276,6 @@ Other software applications are equally very useful in subtitling.
 When creating subtitles, ensure they are automated so as not to make it difficult to read when certain colors are displayed on the screen. Timing is very important. Make sure the subtitle is properly synchronized with the actual sound being produced.
 
 Use a user-friendly font style. Each font style is unique for each viewing and it speaks volumes of what the video has to say or the message it wants to pass. So, it is expedient to learn more about font style, font color, font size etc. for a better-subtitled video.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -389,13 +365,6 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Summary
 
 Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
@@ -409,6 +378,10 @@ First, run Wondershare Filmora and add the video with the hoop dancer on the fir
 ##### Step2 Add an animation keyframe
 
 ![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
 
@@ -470,6 +443,10 @@ Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. Yo
 
 Do you wish you could control when it's nighttime to daytime? It would make getting ready in the morning much faster! This tutorial will show you how to use the keyframe and mask feature in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to make a remarkable night-to-day transition.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How-to Guide
 
 **_1) Preparation_**
@@ -505,6 +482,10 @@ Step2 Place the nighttime video clip on the first video track of the timeline an
 
 ![place the daytime clip on the top](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Find the spot where you want to create a transition between the day and nighttime. Then, you can delete the unwanted part.
 
 ![create a transition](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-4.jpg)
@@ -536,16 +517,7 @@ Now, if you play back, you can see the nighttime becomes daytime through the mas
 ![nighttime becomes daytime through the mask](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-9.gif)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the movement in the two clips is a bit off, you can fix it by adding more keyframes on the mask.
@@ -592,14 +564,21 @@ That is how to do this night-to-day transition night-to-day time shift effect in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-proven-techniques-for-perfecting-video-aspect-ratios/"><u>[New] Proven Techniques for Perfecting Video Aspect Ratios</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-pushing-boundaries-of-editing-how-to-erase-image-borders-on-canva/"><u>[New] Pushing Boundaries of Editing How to Erase Image Borders on Canva</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unlocking-the-potential-of-music-in-instagrams-visual-world/"><u>[New] Unlocking the Potential of Music in Instagram's Visual World</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-a-comprehensive-tutorial-for-customizing-video-covers-on-social-media/"><u>2024 Approved A Comprehensive Tutorial for Customizing Video Covers on Social Media</u></a></li>
-<li><a href="https://fox-links.techidaily.com/essential-iphones-dive-into-these-top-5-podcast-tools-for-2024/"><u>Essential iPhones Dive Into These Top 5 Podcast Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-canva-collages/"><u>How to Make Canva Collages</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-ideas-on-using-filmora-green-screen/"><u>In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-fade-audio-in-premier-pro/"><u>New Steps To Fade Audio In Premier Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Updated Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-collabs-that-attract-and-retain-viewers-for-2024/"><u>[New] Crafting Collabs that Attract and Retain Viewers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-fundamentals-of-designing-high-converting-snap-ads/"><u>[New] Fundamentals of Designing High-Converting Snap Ads</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-discovering-latest-fb-watches-a-step-by-step-guide/"><u>[Updated] 2024 Approved Discovering Latest FB Watches A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos./"><u>2024 Approved Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210531616-9781788179195-21-days-to-decode-your-dreams/"><u>21 Days to Decode Your Dreams | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-zte-nubia-z60-ultra-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from ZTE Nubia Z60 Ultra.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stabilize-linkages-in-granblue-fantasy-and-avoid-crashes-on-windowsmac/"><u>How to Stabilize Linkages in Granblue Fantasy and Avoid Crashes on Windows/Mac</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-comment-on-youtube-live-chat/"><u>In 2024, How to Comment on YouTube Live Chat</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-6-plus-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 6 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-top-3d-video-makers-for-all-budgets-for-2024/"><u>New Unleash Your Creativity Top 3D Video Makers for All Budgets for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-full-guide-to-funcall-voice-changer-and-its-alternatives-for-2024/"><u>Updated Full Guide to Funcall Voice Changer and Its Alternatives for 2024</u></a></li>
 </ul></div>
 

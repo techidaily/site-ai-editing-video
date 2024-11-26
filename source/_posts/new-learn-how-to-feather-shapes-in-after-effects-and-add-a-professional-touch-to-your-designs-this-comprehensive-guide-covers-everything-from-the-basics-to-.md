@@ -1,7 +1,7 @@
 ---
 title: New Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike
-date: 2024-11-13T16:46:14.416Z
-updated: 2024-11-16T16:46:38.157Z
+date: 2024-11-19T16:55:01.366Z
+updated: 2024-11-26T16:06:28.720Z
 tags: 
   - ai
   - animation videos
@@ -81,31 +81,11 @@ Step4 Go to "**Pen Tool**" > "**Mask Feather Tool**" and **click** anywhere on t
 
 ![after effects mask feather tool](https://images.wondershare.com/filmora/article-images/after-effects-mask-feather.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 Drag the mask point feathering around the focus.
 
 ![after effects adjusting the mask feathering points](https://images.wondershare.com/filmora/article-images/after-effects-adjust-points.JPG)
 
 This tutorial came from [Crish Design](https://www.youtube.com/watch?v=Lx7KTqgish8&t=38s). For more tutorials about After Effects tips and techniques, you can refer to the **Crish Design** YouTube channel.
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Need an Alternative? Try Wondershare Filmora
 
@@ -133,6 +113,10 @@ Step1 Open Wondershare Filmora and **create** a new project. **Import** the vide
 
 ![filmora add media](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Double-click the video in the Player Window. In the editing window, **click "Video**"> "**Mask**" and add a shape mask.
 
 ![filmora adding a shape mask](https://images.wondershare.com/filmora/guide/add-mask-to-video.png)
@@ -152,6 +136,10 @@ To use Variable Mask Feather in Filmora, follow these steps:
 Step1 Select the "**Draw Mask**" option under the Mask tab, and **use** the pen tool to draw whatever shape you like in the video.
 
 ![filmora draw mask](https://images.wondershare.com/filmora/guide/draw-mask-to-video.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Adjust the "**Blur Strength**" value.
 
@@ -187,16 +175,13 @@ Step2 Double-click the video in the Player Window. In the editing window, **clic
 
 ![filmora adding a shape mask](https://images.wondershare.com/filmora/guide/add-mask-to-video.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Scroll down to find the "**Blur Strength**" option, and **adjust** the blur value.
 
 ![filmora adjusting the blur strength value](https://images.wondershare.com/filmora/guide/add-keyframe-to-mask.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Use Variable Mask Feather in Wondershare Filmora?
 
@@ -265,6 +250,10 @@ Apple offers a pre-developed feature to create slomos using a simple method. In 
 
 ![select the slo mo mode](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step-by-Step Guide to Creating a Slow Motion in Android
 
 The Android has also introduced a slo-mo feature to record content in slow motion. It helps creators in crafting transitions or aesthetic videos. We have given a detailed procedure for recording a slow-motion video in Android:
@@ -280,13 +269,6 @@ Locate and launch the "Camera" application on your Android. In the bottom bar, y
 In the appearing menu, locate and select the “Slow motion” option. After setting these preferences, hit the recorder button and record the video. The video will record normally, but when you preview it later, you'll have a slomo.
 
 ![select the slow motion mode](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Slow Motion Video Making and Wondershare Filmora: Make Videos Like Slow Mo Guys
 
@@ -319,6 +301,10 @@ This is the AI feature that increases the video frame rate for a smooth, slow-mo
 Once all is set and done, navigate towards the timeline panel to select this video again. With the help of your cursor, access the "File" tab at the top toolbar. Select the "Render Preview" option from the expanding menu. After rendering is complete, use the preview screen to observe the slo-mo and export it.
 
 ![access and start render preview](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using Speed Ramping to Create a Slow-Motion Video in Filmora
 
@@ -342,13 +328,6 @@ After configuring your settings, return to the timeline panel and reselect the v
 
 ![start render preview](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article introduced readers to The **Slow Mo Guys** and their work. If you haven’t heard about them before, you are now familiar with them. You can head over to YouTube to find their channel and see their work. After guiding users on creating slo-mos on Android and iPhone, we introduced Filmora.
@@ -358,13 +337,6 @@ It's a proficient way of creating slo-mo with AI assistance and custom settings.
 [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: The Slow Mo Guys: A Real-Life Sensation in Creating Slow Motion Videos
 
@@ -378,13 +350,6 @@ In this era, if you are looking for a start to create slomos, **Slow Motion Guys
 
 The most used and dear gadget to all of us in this era is our smartphones. It has also become a requirement to stay connected, and so we often shoot on them. To retain the video quality, we try to edit it through built-in features. This section highlights creating slow-motion videos using iPhone or Android. Learn to create professional slo-mos like **Gave Slow Mo Guys** here:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step-by-Step Guide to Create a Slow Motion in iPhone
 
 Apple offers a pre-developed feature to create slomos using a simple method. In this section, we will discuss how to shoot a video in slow motion using an iPhone. Follow the lead and create results like **The Slow Mo Guys camera**:
@@ -392,6 +357,10 @@ Apple offers a pre-developed feature to create slomos using a simple method. In 
 **Instruction:** Once you launch the "Camera" application, open the recorder and select "SLO-MO." Now, redirect to your camera and hit the recorder button to start recording a solo.
 
 ![select the slo mo mode](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guide to Creating a Slow Motion in Android
 
@@ -456,6 +425,10 @@ After importing and bringing media to the timeline, select it and reach the sett
 Navigate to the bottom of this panel and expand the AI Frame Interpolation menu. Choose the “Optical Flow” option to achieve your desired outcome.
 
 ![start the optical flow option](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3Activate Render Preview for Confirmed Results
 
@@ -540,13 +513,6 @@ VEGAS editing software has three tiers that are each designed to fit your specif
 
 **Note:** MAGIX Vegas Pro also offers a 30-day free trial that is only limited to basic features.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Functions Review
 
 We'll now **review** some of the most important features of **MAGIX** **Vegas Pro 20** and see how they can be used to improve your video editing workflow.
@@ -622,6 +588,10 @@ We'll now **review** some of the most important features of **MAGIX** **Vegas Pr
 
 ![color grading feature](https://images.wondershare.com/filmora/article-images/2022/11/color-grading-feature.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Track Effects**: The Vegas Pro 20 offers **adjustment tracks** that help apply effects to the entire track. You can also alter the intensity of these effects and use keyframes from the timeline.
 
 ![adjustment tracks](https://images.wondershare.com/filmora/article-images/2022/11/adjustment-tracks.jpg)
@@ -666,6 +636,10 @@ Both Sony Vegas and [Adobe Premiere](https://www.adobe.com/products/premiere.htm
 Here is our complete guide to the two software programs to help you decide which is best for your needs: [Sony Vegas VS Adobe Premiere. Which One is Better](https://tools.techidaily.com/wondershare/filmora/download/)?
 
 ![adobe premiere video editor](https://images.wondershare.com/filmora/article-images/2022/11/adobe-premiere-video-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -722,6 +696,10 @@ Step5 For Transition Point Type, select Time(milliseconds) option. In the Transi
 Step6 If your video animation has audio, go to Audio Monitoring and select Monitor and Output option from the dropdown. For Audio Fade Style, you can select Crossfade option for better output.
 
 ![audio monitor output obs](https://images.wondershare.com/filmora/article-images/2022/07/audio-monitor-output-obs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step7 Scroll down and click on Preview Transition button to check if the stinger transition is taking place as expected. You can adjust the transition point and other parameters to get it perfect.
 
@@ -823,22 +801,21 @@ Go to the OBS Forums from where you get to download transitions for OBS Studio. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-color-concealment-in-premiere/"><u>[New] Quick Color Concealment in Premiere</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-pros-guide-to-xbox-players-on-facebook-live-for-2024/"><u>[New] The Pro's Guide to Xbox Players on Facebook Live for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-playcapture-x-the-cost-free-videography-for-games/"><u>2024 Approved PlayCapture X The Cost-Free Videography for Games</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-time-travelers-guide-to-top-student-friendly-youtube-history/"><u>[New] 2024 Approved Time Travelers' Guide to Top Student-Friendly YouTube History</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-methods-for-capturing-system-sounds-on-pcs/"><u>[Updated] 2024 Approved Advanced Methods for Capturing System Sounds on PCs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-crafting-character-adventures-windows-movie-maker-for-animators-for-2024/"><u>[Updated] Crafting Character Adventures Windows Movie Maker for Animators for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-dynamic-viewership-statistics-platforms/"><u>[Updated] Dynamic Viewership Statistics Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unusual-video-orientation-what-causes-sideway-images-on-instagram/"><u>2024 Approved Unusual Video Orientation What Causes Sideway Images on Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Honor 100 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-be-bold-on-igtv-the-10-cutting-edge-video-concepts-for-your-brand/"><u>In 2024, Be Bold on IGTV The 10 Cutting-Edge Video Concepts for Your Brand</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-zero-30-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Zero 30 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-put-a-filter-on-a-video-in-imovie/"><u>In 2024, How to Put a Filter on a Video in iMovie</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-wondering-if-you-can-make-diy-green-screen-video-for-streaming-learn-the-easy-steps-to-setup-diy-green-screen-shoot-the-video-and-edit-it-out-to-add/"><u>In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects</u></a></li>
-<li><a href="https://review-topics.techidaily.com/infinix-hot-40i-messages-recovery-recover-deleted-messages-from-infinix-hot-40i-by-fonelab-android-recover-messages/"><u>Infinix Hot 40i Messages Recovery - Recover Deleted Messages from Infinix Hot 40i</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-apply-video-filters/"><u>New In 2024, How to Apply Video Filters</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video/"><u>New Ultimate Guide on How to Plan and Storyboard a Music Video</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-upgrading-your-samsung-phones-usb-connectivity-software/"><u>The Ultimate Guide to Upgrading Your Samsung Phone's USB Connectivity Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-msvcr80dll-error-messages-solutions-for-your-computer-woes/"><u>Troubleshooting MSVCR80.dll Error Messages - Solutions for Your Computer Woes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects-for-2024/"><u>New How To Make a Timelapse in After Effects for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-guide-to-computer-components/"><u>Tom's Tech Insights: Expert Guide to Computer Components</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-something-about-skin-care-vlog-ideas/"><u>Updated Something About Skin Care Vlog Ideas</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-s18-pro-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo S18 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-g2-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo G2 Phone Network-Ready</u></a></li>
 </ul></div>
 

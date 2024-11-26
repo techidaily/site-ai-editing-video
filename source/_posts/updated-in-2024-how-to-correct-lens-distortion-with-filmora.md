@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Correct Lens Distortion With Filmora
-date: 2024-11-10T23:34:58.780Z
-updated: 2024-11-17T07:52:19.651Z
+date: 2024-11-20T18:45:47.070Z
+updated: 2024-11-26T18:34:43.820Z
 tags: 
   - ai
   - animation videos
@@ -41,13 +41,6 @@ Step1 Import your video to [Filmora](https://tools.techidaily.com/wondershare/fi
 
 ![import your video to filmora](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
@@ -61,6 +54,10 @@ Step3 To adjust the distortion, you can slide the bar to the left or the right. 
 You can see a bit of curvature, but it looks much more natural, and all of the lines in the video look so much better.
 
 ![adjust the distortion](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-3.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Lastly, if you play the video back, you will see the video look much better than before.
 
@@ -92,13 +89,6 @@ Step2 Click on the clip and head over to the lens correction. Choose the "Camera
 
 ![click on the clip](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 To adjust the distortion, you can slide the bar to the left or the right. If you slide the bar to the right (maximum level), there will be no adjustment. However, if you slide the bar to the left, you can see it pulling those lines as high up as possible.
 
 You can see a bit of curvature, but it looks much more natural, and all of the lines in the video look so much better.
@@ -108,6 +98,10 @@ You can see a bit of curvature, but it looks much more natural, and all of the l
 Step4 Lastly, if you play the video back, you will see the video look much better than before.
 
 ![play the video back](https://images.wondershare.com/filmora/article-images/2022/12/correct-lense-distortion-4.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to avoid distorted lens while shooting?
 
@@ -186,6 +180,10 @@ Step1 Launch iMovie from Applications folder. Click on Create New option to star
 
 ![create new projects imovie mac](https://images.wondershare.com/filmora/article-images/2022/07/create-new-projects-imovie-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Drag and drop the target video from Photos app to Desktop. Thereafter, drag and drop the video file from Desktop to the Timeline of iMovie project.
 
 Step3 Click on the video clip on the Timeline and click on Crop Filter and Audio Effects icon above the Viewer.
@@ -232,6 +230,10 @@ Step2 Drag and drop video clips under Project Media folder. Thereafter, drag and
 
 ![drag and drop video clip](https://images.wondershare.com/filmora/guide/create-new-project-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Go to Effects from the top panel and click on Filters from the left panel. You will see all the different categories of filters.
 
 ![click on filters](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
@@ -259,6 +261,10 @@ In this article, we will be showing you how to use FFmpeg to speed up and slow d
 Finally, we will explain how to automate these commands so that you can run them on all your videos with ease.
 
 ![how to automate these commands](https://images.wondershare.com/filmora/article-images/2023/01/change-video-speed-ffmeg-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. What is FFmpeg?
 
@@ -295,6 +301,10 @@ Another possible disadvantage is the time required for downloading the various r
 
 FFmpeg can be used to speed up videos. It's not the only option, but it's one of the most common ways to make your videos faster. If you want your video to be faster, then FFmpeg is the right tool for the job. Some speed-up features include: FFmpeg speed up video and audio, ffmpeg speed up video mp4, ffmpeg change video speed, and so on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Ultimate Step-by-Step Guide to speed up a video in FFmpeg
 
 The presentation timestamp (PTS) of each video frame can be modified to alter the pace of a video stream.
@@ -310,13 +320,6 @@ Step3 This is accomplished with the command -filter:v "setpts=."
 Step4 According to the documentation, fast motion requires: -filter:v setpts=0.5\*PTS.
 
 ![fast motion requires](https://images.wondershare.com/filmora/article-images/2023/01/change-video-speed-ffmeg-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 Click Enter.
 
@@ -364,13 +367,6 @@ Pick your preferred video. Go to the menu and select "Download." After hitting t
 After the movie has loaded, you have two options: double-clicking the clip or selecting the speed option provided below the screen.
 
 ![double clicking the clip](https://images.wondershare.com/filmora/article-images/2022/05/change-video-speed-3.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 A window appears when we double-click the chosen video. We shall navigate to the "SPEED" section beneath this window. Additional "Uniform Speed" and "Speed Ramping" panels may be found on this speed panel. We shall operate within the uniform speed panel to alter the video's tempo consistently. A slider is provided for us to adjust the movie's pacing.
 
@@ -549,6 +545,10 @@ _ffmpeg -i "concat:input1.mp4|input2.mp4" -c copy output\_protocol.mp4_
 
 Although this method is limited in terms of supported video formats, it's very easy to use if you merge videos in the supported formats. It's a single command in the terminal without needing a text file. Additionally, using the -c copy option makes it efficient as it doesn’t require re-encoding, saving time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Concatenate MP4 Video Files of Different Codecs & Resolutions Using FFmpeg
 
 If the videos you want to concatenate have different codecs or resolutions, you can still use FFmpeg to join them together. However, this method requires re-encoding the videos, which can take longer and may result in a loss of quality. This section will cover the steps to concatenate videos with different codecs or resolutions using FFmpeg.
@@ -595,6 +595,10 @@ _\[0:0\] \[0:1\] \[0:2\] \[1:0\] \[1:1\] \[1:2\] \[2:0\] \[2:1\] \[2:2\]_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note: Single video stream** (\[0:0\], \[1:0\], \[2:0\])
 
 **Dual audio streams** (\[0:1\]\[0:2\], \[1:1\]\[1:2\], \[2:1\]\[2:2\])
@@ -629,29 +633,9 @@ Step2 **Go to** "**File**" > "**Import Media**" > "**Import Media Files**" to **
 
 ![filmora import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 **Drag** and **drop** the files you want to merge from the media library to the timeline, and then you'll get the merged video seamlessly.
 
 ![filmora add media](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 **Edit** your video.
 
@@ -670,13 +654,6 @@ Step2 **Run** the FFmpeg command:
 _ffmpeg -f concat -safe 0 -i join\_video.txt -c copy output\_demuxer.mp4_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note: _\-safe 0_** is added to accept any file name.
 
@@ -754,6 +731,10 @@ _\[0:0\] \[0:1\] \[0:2\] \[1:0\] \[1:1\] \[1:2\] \[2:0\] \[2:1\] \[2:2\]_
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note: Single video stream** (\[0:0\], \[1:0\], \[2:0\])
 
 **Dual audio streams** (\[0:1\]\[0:2\], \[1:1\]\[1:2\], \[2:1\]\[2:2\])
@@ -765,13 +746,6 @@ _concat=n=3:v=1:a=2 \[v\] \[a1\] \[a2\]_
 Step4 **Use** the **\-map** option to map the output streams to the final video container:
 
 _\-map '\[v\]' -map '\[a1\]' -map '\[a2\]' output.mkv_
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## \[Bonus\] Join Videos Together With Filmora
 
@@ -807,6 +781,10 @@ Step5 After editing, **click** the "**Export**" tab to **save** your videos.
 
 ![filmora export video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 FFmpeg is a powerful tool that allows you to concatenate videos in various ways. Whether you're working with videos of the same codecs and resolutions or videos with multiple audio streams, FFmpeg can handle it. However, for users new to video editing or needing experience with command-line tools, using Filmora can be a more user-friendly option. It offers a simple drag-and-drop interface and a variety of features and effects to enhance the overall look of your video.
@@ -827,14 +805,22 @@ FFmpeg is a powerful tool that allows you to concatenate videos in various ways.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-sifting-through-the-elements-of-instagram-stories/"><u>[Updated] 2024 Approved Sifting Through the Elements of Instagram Stories</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi K70? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/dll-error-wins-kernel32-solved/"><u>DLL Error: Win's Kernel32 Solved</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-audio-systems/"><u>Expert Tips on Repairing Malfunctioning Computer Audio Systems</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/explore-with-akasos-ek7000-high-quality-economical-adventure-tool/"><u>Explore with AKASO's EK7000: High-Quality, Economical Adventure Tool</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fix-your-cod-modern-warfare-voice-chat-a-comprehensive-solution/"><u>Fix Your CoD: Modern Warfare Voice Chat - A Comprehensive Solution</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guarantee-flawless-automatic-syncing-of-your-macs-photos/"><u>Guarantee Flawless Automatic Syncing of Your Mac's Photos</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-12-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 12 Unavailable Issue With Ease</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/unpacking-the-mini-powerhouse-in-depth-analysis-of-the-3rd-gen-amazon-echo-dots-alexa-capabilities/"><u>Unpacking the Mini-Powerhouse: In-Depth Analysis of the 3Rd Gen Amazon Echo Dot's Alexa Capabilities</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-optimal-action-capture-software-insights/"><u>[New] 2024 Approved Optimal Action Capture Software Insights</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/deciphering-youtubes-cc-policy-for-video-makers-for-2024/"><u>Deciphering YouTube's CC Policy for Video Makers for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/elevate-your-drone-experience-with-these-essentials-for-2024/"><u>Elevate Your Drone Experience with These Essentials for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-origins-the-company-behind-chatgpts-innovation/"><u>Exploring the Origins: The Company Behind ChatGPT's Innovation</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/full-spectrum-data-salvage-system-next-level-technical-assistance-for-complete-data-recovery/"><u>Full-Spectrum Data Salvage System: Next-Level Technical Assistance for Complete Data Recovery</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-13-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 13 When You Forget the Passcode?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-understanding-and-utilizing-igtv-for-enhanced-engagement/"><u>In 2024, Understanding and Utilizing IGTV for Enhanced Engagement</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/laugh-ledger-the-ultimate-list-of-hilarious-tweet-threads-for-2024/"><u>Laugh Ledger The Ultimate List of Hilarious Tweet Threads for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-overlay-videos-in-premiere-pro/"><u>Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-poco-x5-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Poco X5</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Convert Images Into Video - Kapwing Tutorial
-date: 2024-11-14T07:57:25.048Z
-updated: 2024-11-16T17:16:08.726Z
+date: 2024-11-25T18:37:37.611Z
+updated: 2024-11-26T16:05:11.194Z
 tags: 
   - ai
   - animation videos
@@ -43,6 +43,10 @@ Select the image and find the duration dropdown in the right edit menu. Use the 
 
 Just click **Export** and your final video will be created. The output file is MP4\. Kapwing is completely free and requires no downloads. Enjoy the new video you created with your image or images.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. Other 3 ways to convert image to video online
 
 Even though an online image-to-video maker is not as powerful as photo and video editing software products like [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you can still use this online image-to-video maker to create videos effortlessly. However, to save time, you should prepare all the material you want to use in your video in advance so that you can upload it to the platform of your choice and have your video ready in minutes. Let's take a look at the image-to-video maker that you can use to create captivating social media videos.
@@ -81,13 +85,6 @@ After importing the files into the program, drag the video clip to the video edi
 
 ![add a photo to video](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After that, edit your photo as you choose. Place the image anywhere you want, then drag its edge to change the size of the playing windows. The picture-in-picture track can also be customized using a variety of customizable settings provided by Filmora. To access the picture, color, and motion panel, double-click the additional image on the track. Here, you can select from more than 30 motion effects to animate the added photo, alter its saturation and hue, perform some color correction, or alter its transformation.
 
 ![edit photos](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-7.jpg)
@@ -97,6 +94,10 @@ Then click the "**Effects**" button for more mask and effect options. Go to the 
 ##### Step3Save the new video file
 
 ![save the new video file](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After adding a photo to a video and making basic adjustments, you can export it in various ways by pressing the "**Export**" button. You can save it in different formats in the Format tab. If you want to play the video creation on iPod, iPhone, or iPad, click "**Device**" and select the device from the list. You can also upload your video directly to YouTube or burn it to DVDs for playback on your TV using a DVD player. You can also share the video directly on social networks.
 
@@ -125,21 +126,26 @@ After importing the files into the program, drag the video clip to the video edi
 ![add a photo to video](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After that, edit your photo as you choose. Place the image anywhere you want, then drag its edge to change the size of the playing windows. The picture-in-picture track can also be customized using a variety of customizable settings provided by Filmora. To access the picture, color, and motion panel, double-click the additional image on the track. Here, you can select from more than 30 motion effects to animate the added photo, alter its saturation and hue, perform some color correction, or alter its transformation.
 
 ![edit photos](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then click the "**Effects**" button for more mask and effect options. Go to the Utility option under Filters and then drag the image mask onto the photo on the timeline. Double click on the photo and then you can change the shape, height, width, and blending of the image mask. On the mask tab, you can shape the photo with a single click. You can also invert the mask to create a new shape. Choose one of the effects according to your wish to make your video more unique.
 
 ##### Step3Save the new video file
 
 ![save the new video file](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After adding a photo to a video and making basic adjustments, you can export it in various ways by pressing the "**Export**" button. You can save it in different formats in the Format tab. If you want to play the video creation on iPod, iPhone, or iPad, click "**Device**" and select the device from the list. You can also upload your video directly to YouTube or burn it to DVDs for playback on your TV using a DVD player. You can also share the video directly on social networks.
 
@@ -172,13 +178,6 @@ Doing a first impression review is important specially for companies, because th
 
 Using this video content to market will benefits the company and products, this is because people engage more with videos than with words or static photo.In this article I will share to you the information about first impression review video and tips on how to make an effective first impression product review.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## First Impression Review Video
 
 First impression review is more likely product reviews or live review, products reviews are the videos where you are explaining, products features, pros and cons are describe while first time to see the products. It include also a little of unboxing reviews, because when doing a first impression review, it show how you accept the product looks or what can you say about the product even if it's the first time you see it.
@@ -209,13 +208,6 @@ Its seems that it is same as you make a first impression video and It would be b
 Unboxing video make people feel that way and the people behind the camera have knack for building excitement.
 
 ![shoot unboxing video first impression](https://images.wondershare.com/filmora/article-images/2022/11/shoot-unboxing-video-first-impression.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Detailed explanation**
 
@@ -323,6 +315,10 @@ For instance, it has a huge selection of animations that you can apply to the te
 
 ![kapwing title maker](https://images.wondershare.com/filmora/article-images/kapwing-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Biteable Animated Text Maker
 
 Link: <https://biteable.com/animated/text/>
@@ -371,6 +367,10 @@ But like other Adobe programs, Adobe Animate is not very easy to use and the beg
 
 ![adobe animate](https://images.wondershare.com/filmora/article-images/adobe-animate.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Express Animate
 
 Rating: 4.5/5
@@ -381,13 +381,6 @@ With a simple user interface, Express Animate allows users to create 2D animatio
 
 ![express animate](https://images.wondershare.com/filmora/article-images/2022/08/express-animate.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Movavi Video Editor
 
 Rating: 4.5/5
@@ -397,13 +390,6 @@ Movavi Video Editor is another complete suite of editing tools that can also com
 When it comes to animation, Movavi has a lot of effects and transitions as well as pre-made title templates to choose from. Once you have selected the title, you can easily customize the font and color to fit into your project.
 
 ![movavi video editor](https://images.wondershare.com/filmora/article-images/movavi-video-editor-plus.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Windows Movie Maker
 
@@ -501,7 +487,15 @@ Why is it necessary to discuss the Teal & Orange LUT separately since they are n
 
 The following sections discuss downloading and using these LUTs in your videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. M31 LUT (Teal & Orange LUT) free download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Orange and Teal Lightroom Presets by SparkleStock (Lite)
 
@@ -520,13 +514,6 @@ The download link of the LUT is [here](https://shareae.com/luts/20795-orange-and
 This pack also has nearly six various M31 Orange and Teal LUT. Kevin Aryal Tutorial, a source of many effects and LUTs, offers this pack.
 
 The download link of the LUT is [here](http://www.mediafire.com/file/wnrlxv5naz5nhxr/orange+and+teal+-+kevin+aryal+tutorial.rar).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. DaVinci Resolve 18
 
@@ -548,16 +535,13 @@ In addition to M31 LUTs, Filmora offers more than 100 LUT packages to pick from 
 
 ![use luts](https://images.wondershare.com/filmora/article-images/2022/08/m31-lut-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Or you can just click on the **“Tools > Color > Color correction”**. You may improve the picture quality by adjusting the color details, contrast, light, and shadows here.
 
 ![tools](https://images.wondershare.com/filmora/article-images/2022/08/m31-lut-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![color correction](https://images.wondershare.com/filmora/article-images/2022/08/m31-lut-5.jpg)
 
@@ -591,19 +575,18 @@ Therefore, to help those who want to add amazing LUTs like M31 (teal and orange)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-making-waves-in-the-social-media-world-via-fb/"><u>[New] 2024 Approved Making Waves in the Social Media World via FB</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-try-these-10-music-video-templates-to-make-your-work-easy/"><u>2024 Approved Try These 10 Music Video Templates To Make Your Work Easy</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comparacao-detalhada-entre-mp3-e-mp4-qual-e-a-melhor-opcao-para-seu-audio/"><u>Comparação Detalhada Entre MP3 E MP4: Qual É a Melhor Opção Para Seu Audio?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-photoshop-free-editing-tools-top-6-picks/"><u>Discover the Best Photoshop-Free Editing Tools: Top 6 Picks</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easily-sync-audio-with-video-with-filmora/"><u>Easily Sync Audio With Video With Filmora</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-innovative-ways-to-document-your-virtual-sessions-mac-and-pc-edition/"><u>In 2024, Innovative Ways to Document Your Virtual Sessions - Mac & PC Edition</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/limited-offer-unlock-full-features-of-movavi-video-converter-get-your-bona-fide-key-for-free/"><u>Limited Offer: Unlock Full Features of Movavi Video Converter – Get Your Bona Fide Key for Free!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-ideas-for-time-lapse-video/"><u>New Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-5-free-online-video-filter-editors/"><u>New Top 5 Free Online Video Filter Editors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/protecting-imessage-and-mail-on-icloud-the-role-of-dual-authentication/"><u>Protecting iMessage and Mail on iCloud: The Role of Dual-Authentication</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-s-top-online-cartoon-video-editors-for-newbies/"><u>Updated In 2024, S Top Online Cartoon Video Editors for Newbies</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-integrating-slug-lines-into-your-writing-process/"><u>[New] In 2024, Integrating Slug Lines Into Your Writing Process</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-path-to-virtual-visualization-excellence-a-zoom-video-filters-tutorial-for-2024/"><u>[New] The Path to Virtual Visualization Excellence A Zoom Video Filters Tutorial for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-11-pro-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 11 Pro In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-use-a-stabilization-tool-in-filmora-for-2024/"><u>How to Use a Stabilization Tool in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-different-too/"><u>In 2024, Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-video-in-canva/"><u>In 2024, How to Loop Video in Canva</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-convert-mp4-videos-to-60-fps-gifs-with-this-easy-to-follow-tutorial-get-smooth-and-crisp-motion-in-your-gifs-in-just-a-few-simple-steps/"><u>In 2024, Learn How to Convert MP4 Videos to 60 FPS GIFs with This Easy-to-Follow Tutorial. Get Smooth and Crisp Motion in Your GIFs in Just a Few Simple Steps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagrams-hottest-25-minds-in-the-digital-age/"><u>Instagram's Hottest 25 Minds in the Digital Age</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/masterful-story-structures-with-ais-assistive-chatgpt/"><u>Masterful Story Structures with AI's Assistive ChatGPT</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-motion-blur-on-capcut-iphone-and-android/"><u>New 2024 Approved How To Add Motion Blur On CapCut? (IPhone & Android)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-video-by-mouse-in-filmora-for-2024/"><u>New How To Make a Video by Mouse in Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solving-the-h265-video-playback-issue-in-chrome-no-more-black-screens/"><u>Solving the H.265 Video Playback Issue in Chrome - No More Black Screens</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-0x800705b4-issue-during-a-windows-10-update/"><u>Troubleshooting Guide: Fixing the 0X800705b4 Issue During a Windows 10 Update</u></a></li>
 </ul></div>
 

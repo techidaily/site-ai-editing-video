@@ -1,7 +1,7 @@
 ---
 title: New How to Add Miniature Effect in Video with Filmora for 2024
-date: 2024-11-11T17:24:52.789Z
-updated: 2024-11-17T05:34:31.956Z
+date: 2024-11-25T21:17:36.939Z
+updated: 2024-11-26T17:37:23.682Z
 tags: 
   - ai
   - animation videos
@@ -45,6 +45,10 @@ You are excited to add a miniature effect, and enjoy the rest! Without any furth
 * It's packed with new features and effects plugins that make editing more filmy and fun!
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** filmora has a unique **"stock media"** option that enables us to use all these elements and more to boost our videos!
 
@@ -142,6 +146,10 @@ For example, when we add a mask in the below time-lapse video, follow the above 
 
 ![blur the object near to camera and focus on the distant object](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-11.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Make a building or any object **Blurry** near the camera because it is not present within the depth of field.
 * While the **object is far** from the camera, it is focused because it is in the depth of the field.
 * Then adjust the mask, as per your choice.
@@ -273,6 +281,10 @@ For example, when we add a mask in the below time-lapse video, follow the above 
 
 ![blur the object near to camera and focus on the distant object](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-11.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Make a building or any object **Blurry** near the camera because it is not present within the depth of field.
 * While the **object is far** from the camera, it is focused because it is in the depth of the field.
 * Then adjust the mask, as per your choice.
@@ -287,13 +299,6 @@ Want to change the shape of the mask? Then follow the below steps:
 * Select the **Rectangular** mask from the list and apply it.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** make sure you are masking the same extent and excluding the object you want to be out of focus.
 
@@ -310,6 +315,10 @@ Now, it's time to mask the whole object, which is far, but we want to make it in
 You are excited now to see the final look of your miniature effect! Finally, it's in front of you! Just modify it more if you want to make it more precise.
 
 ![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
 
@@ -355,19 +364,6 @@ The video is a combination of tens of thousands of frames or images that are fla
 This is how video that has been sped up for slow motion may still preserve its quality. But you can't just choose a frame rate based on taste. Frame rates vary depending on the different types of emotions. 60 fps will do if the video is a slo-mo of a person's emotion. However, if your shot contains a lot of movement and you want to show it, such as when automobiles collide or explode, you may require a higher frame rate, such as 120 fps.
 
 ![understand frame rates](https://images.wondershare.com/filmora/article-images/2022/11/understand-frame-rates.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Post processing
 
@@ -511,16 +507,13 @@ Step5 Finally, play the video and click on Export button to save the video.
 
 Import your video clip with a solid background color and place it on Timeline. Go to Effect menu> Keying> Keylight option. In Effects window and under Keylight, you will see Screen Colour option. Click on the eyedropper icon and select the background color you want to remove.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. How do I change a solid background in After Effects?
 
 The steps for After Effects how to change background color solid involve removing the background color and adding a layer of solid color to replace the transparency of the video. Go to Layer> New> Solid. Under Solid Settings window, go to Color and select the desired color from Color option and click on OK button. The new color will get reflected in the background of the video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. How do you add a white background in After Effects?
 
@@ -637,13 +630,6 @@ Right-click on the video clip to get the option of "Cutting and Splitting" in th
 
 At this moment, you can export the video that you have edited. Save it on your PC directly with some format. It is easy to transfer the videos to the smartphone or even uploading on the web.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Part2 - Splitting of the clip from markers while exporting the video file:**
 
 A splitting tool is also available in VSDC when you want to use different video parts after applying the effects. After adding the video file from the "Export project" tab, and then click on the "Set markers". Click "Apply Changes" when all the markers are ready for splitting the clips. Option for exporting the video is present so you can save it in the format of your choice. It is simple to save the video's parts that are created from the markers.
@@ -661,10 +647,7 @@ When the window pops up, click on the "Apply changes" button, and the video auto
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-6.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## An easier way to split the video
@@ -678,13 +661,6 @@ For Win 7 or later (64-bit)
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Features
 
@@ -702,6 +678,10 @@ Wondershare Filmora is always helpful in splitting, trimming and different optio
 **Step 2\.** It is essential to select the clip in the timeline and move the play head on the right side. Click on the "Split" scissor icon visible on the toolbar. It helps in separating the videos into different parts.
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-7.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3\.** Save the video clip according to the format of your own choice. Simply click on "Export" and select the format from the tab "Format". It is leftwards of the window. There is a whole list of the formats.
 
@@ -733,29 +713,19 @@ A splitting tool is also available in VSDC when you want to use different video 
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-4.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Part3 - Splitting of one clip into more than one scene and applying the effect on them:**
 
 For applying different effects on various parts of your video, split it. In this method, add the video file in the timeline and right-click. From the drop-down menu, select "Properties", and then a window appears. Keep scrolling downward, click on the button of light-green colour "Cutting and Splitting" button.
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-5.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the window pops up, click on the "Apply changes" button, and the video automatically gets split. Every part of the video is present on the timeline after one another.
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-6.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## An easier way to split the video
 
@@ -786,6 +756,10 @@ Wondershare Filmora is always helpful in splitting, trimming and different optio
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-7.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3\.** Save the video clip according to the format of your own choice. Simply click on "Export" and select the format from the tab "Format". It is leftwards of the window. There is a whole list of the formats.
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-8.jpeg)
@@ -799,6 +773,10 @@ Wondershare Filmora has undoubtedly received many positive reviews compared to o
 The video file you select is in the centre position. Even you can preview first and keep moving the play head and handle in such a way that you select the part that is not in need. When you are prepared, hit the button of "Cut out fragment" in the menu of "Tools" in the tab of "Editor".
 
 ![split video in vsdc](https://images.wondershare.com/filmora/article-images/2022/01/split-video-in-vsdc-2.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:**
 
@@ -879,20 +857,16 @@ Wondershare Filmora has undoubtedly received many positive reviews compared to o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-quicken-video-playback-on-instagram-apps/"><u>[New] 2024 Approved Quicken Video Playback on Instagram Apps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-capturing-motion-in-4k-with-nikon-d500/"><u>[New] In 2024, Capturing Motion in 4K with Nikon D500</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-fix-blurry-facebook-videos-on-iphoneandroidchrome/"><u>[New] In 2024, How to Fix Blurry Facebook Videos on iPhone/Android/Chrome?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elite-videographers-choice-ideal-grabber-software/"><u>[Updated] 2024 Approved Elite Videographer's Choice Ideal Grabber Software</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-video-backgrounds-teammeeting-blurring-guide/"><u>[Updated] In 2024, Mastering Video Backgrounds TeamMeeting Blurring Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easy-guide-to-zoom-video-in-vlc/"><u>Easy Guide to Zoom Video in VLC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-nubia-red-magic-8s-pro-frp-by-drfone-android/"><u>How Can We Bypass Nubia Red Magic 8S Pro FRP?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-bokeh-effect-for-2024/"><u>How to Make a Bokeh Effect for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-6-unparalleled-mac-apps-for-video-grabbing/"><u>In 2024, 6 Unparalleled Mac Apps for Video Grabbing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-chroma-key-written-text-effects-in-filmora/"><u>New Create Chroma Key Written Text Effects in Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/professional-grau-gmbh-hardware-and-software-fixes-for-seamless-video-recovery/"><u>Professional Grau GmbH Hardware & Software Fixes for Seamless Video Recovery</u></a></li>
-<li><a href="https://app-tips.techidaily.com/superduperdb-your-gateway-to-accessing-top-artificial-intelligence-applications-insights-from-zdnet/"><u>SuperDuperDB: Your Gateway to Accessing Top Artificial Intelligence Applications - Insights From ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-s17e-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo S17e Location | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-examination-of-lg-27ud68-display-tech/"><u>[New] A Comprehensive Examination of LG 27UD68 Display Tech</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unlocking-tiktok-the-ultimate-guide-to-joining-lives/"><u>[Updated] Unlocking TikTok The Ultimate Guide to Joining Lives</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to-create-/"><u>2024 Approved Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-guide-to-bringing-vividness-to-your-videos-sdr-hdr-conversion-for-2024/"><u>A Comprehensive Guide to Bringing Vividness to Your Videos SDR-HDR Conversion for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-have-the-habit-to-create-subtitle-for-your-video-you-can-always-add-open-and-close-subtitles-to-your-video-to-make-it-perfect-follow-this-article-to-/"><u>Do You Have the Habit to Create Subtitle for Your Video? You Can Always Add Open and Close Subtitles to Your Video to Make It Perfect. Follow This Article to Learn More About It</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-recommends-android-owners-switch-off-2g-network-support/"><u>Google Recommends Android Owners Switch Off 2G Network Support</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-2-methods-to-cut-video-in-vlc-on-windows/"><u>In 2024, 2 Methods to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-funny-carousel-image-builder/"><u>In 2024, Funny Carousel Image Builder</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/perfecting-the-bokeh-aesthetic-for-social-media-posts/"><u>Perfecting the Bokeh Aesthetic for Social Media Posts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-the-stranger-things-upside-down-effect/"><u>Updated 2024 Approved How to Create the Stranger Things Upside Down Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-6-websites-to-free-download-motivational-video-footage/"><u>Updated In 2024, 6 Websites to Free Download Motivational Video Footage</u></a></li>
 </ul></div>
 

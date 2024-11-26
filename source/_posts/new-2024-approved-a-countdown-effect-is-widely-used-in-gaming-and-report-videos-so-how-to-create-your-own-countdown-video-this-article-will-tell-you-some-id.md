@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing
-date: 2024-11-10T05:12:56.992Z
-updated: 2024-11-17T06:50:51.924Z
+date: 2024-11-24T17:20:54.338Z
+updated: 2024-11-26T16:17:04.192Z
 tags: 
   - ai
   - animation videos
@@ -168,6 +168,10 @@ Step3 Add the green screenshot onto the third video track.
 
 ![add the green screenshot onto the third video track](https://images.wondershare.com/filmora/article-images/2022/12/appearance_11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Double-click on it, activate the setting window and then key out the background using the chroma key feature.
 
 ![activate the setting window ](https://images.wondershare.com/filmora/article-images/2022/12/appearance_12.jpg)
@@ -232,13 +236,6 @@ Step 1: To do this, open the video that you want to rotate in Blender.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Then, click on the "Strip" menu and select "Transform."
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
@@ -246,13 +243,6 @@ Step 2: Then, click on the "Strip" menu and select "Transform."
 Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Click on Enter to save the rotation of the video.
 
@@ -270,6 +260,10 @@ Step 3: Go to the ‘Transform’ option in the properties window and adjust bas
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Click on ‘Enter’ to apply it to the video.
 
 In this tutorial, we have shown you two different ways to rotate a video in Blender. The first way is by using the Transform Properties window, and the second way is by using the 3D Viewport.
@@ -285,19 +279,6 @@ Here are some other things that you can do with a rotated video:
 \- Flip the video horizontally or vertically
 
 \- Change the position of the video in the 3D Viewport
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to rotate videos in Filmora
 
@@ -329,13 +310,6 @@ Step 3: With the playhead still at the beginning of the clip, drag the rotation 
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Move the playhead to the end of the clip and drag the rotation handle again to rotate it further.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
@@ -364,13 +338,6 @@ Step 3: In the Transform Properties window, you will see a list of different too
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Click on Enter to save the rotation of the video.
 
 The second way to rotate a video in Blender is by using the Transform Properties window. To do this...
@@ -378,6 +345,10 @@ The second way to rotate a video in Blender is by using the Transform Properties
 Step 1: Open the video that you want to rotate in Blender.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
 
@@ -540,19 +511,6 @@ Go to the “Transform” selection, then select the rotate option.
 Adjust the rotation angle using the tool.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
 
@@ -756,13 +714,6 @@ Step 3: Select the Format tab and keep the video in its original format as a res
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: The shrunk file should be exported.
 
 ## Conclusion
@@ -849,7 +800,15 @@ Step 3: Select the Format tab and keep the video in its original format as a res
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: The shrunk file should be exported.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -863,14 +822,11 @@ Step 3: Choose a profile for the video you wish to convert.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-3.png)
 
-Step 4: Select the Start button to start VLC video compression.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step 4: Select the Start button to start VLC video compression.
 
 ### Resizing by cutting unnecessary video segment
 
@@ -889,6 +845,10 @@ Step 3: Play the video you want to crop and then click the Record button on the 
 Step 4: In Windows 7, 8, and XP, the film will automatically save in Library > Videos, and in My Documents > My Videos in Windows 7.
 
 VLC Media Player is unquestionably one of the greatest video players available for free. Nonetheless, it isn't the finest video reduction because it just reduces the size of videos by using certain simple parameters rather than complex ones. As a result, we offer Fimora, an all-in-one video toolbox that can convert, compress, download, record, edit, burn, and more, as a better video compressor. You can change the video resolution, bit rate, encoder, format, and other settings to compress video and audio files in a variety of formats. Follow the simple steps below to get this VLC compressor replacement on your Windows/Mac for free.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## An easier way to resize videos using Filmora
 
@@ -934,9 +894,17 @@ Step 1: To import a video file, either drag and drop it onto the screen or use t
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Open the video shrinker's output window by clicking the "Export" button.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Select the Format tab and keep the video in its original format as a result. Then, in the "Settings" panel, click the triangle button below to downsize the video by choosing a lower video resolution, frame rate, or bit rate. When it comes to video formats, you can choose among FLV, MP4, and other similar formats, which normally result in smaller files.
 
@@ -1005,6 +973,10 @@ Resizing videos in Filmora is a quick and easy process. To resize videos, first 
 Step 1: To import a video file, either drag and drop the file on the screen or click on "Import Files" in the toolbar.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Once you've imported your video, select the video clips that you want to resize by clicking on them; then, resizing them is as simple as dragging their borders!
 
@@ -1050,22 +1022,20 @@ So you’ve got this beautiful video you want to post on your social media page 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-innovative-ideas-for-snapad-success-in-business/"><u>[New] 2024 Approved Innovative Ideas for SnapAd Success in Business</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-10-free-youtube-playlist-downloaders-onlinepcandroidios2/"><u>[Updated] 2024 Approved 10 FREE YouTube Playlist Downloaders [Online/PC/Android/iOS]2</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-firefoxs-multitasking-toolkit-the-pip-mode/"><u>[Updated] Firefox's Multitasking Toolkit The PIP Mode</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-audioanalyzer-reaction-to-recordings/"><u>[Updated] In 2024, AudioAnalyzer Reaction to Recordings</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-gt-5-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme GT 5 Pro FRP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-set-sights-on-success-essential-background-music-for-gym-goers/"><u>[Updated] Set Sights on Success Essential Background Music for Gym-Goers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-capturing-games-like-a-pro-app-rundown/"><u>2024 Approved Capturing Games Like a Pro – App Rundown</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-imageintensifymax7-boosting-pixels-magnificently/"><u>2024 Approved ImageIntensifyMax7 Boosting Pixels Magnificently</u></a></li>
+<li><a href="https://facebook.techidaily.com/anticipated-decision-from-social-media-regulators-on-trump-ban-case/"><u>Anticipated Decision From Social Media Regulators on Trump Ban Case</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/boost-your-spirit-creating-motivational-status-videos/"><u>Boost Your Spirit Creating Motivational Status Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-asus-rog-zephyrus-g16-cut-costs-on-top-tier-tech-with-ultra-performance-cpu-and-gpu-plus-a-flat-screen-display-at-240hz-oled-quality-avail-for28/"><u>Don't Miss Out: Asus ROG Zephyrus G16 - Cut Costs on Top-Tier Tech with Ultra Performance CPU & GPU, Plus a Flat Screen Display at 240Hz OLED Quality – Avail for $250 Less Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enjoy-play-unveiling-the-coolest-chatgpt-games-today/"><u>Enjoy Play: Unveiling the Coolest ChatGPT Games Today</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-mov-to-ogg-converter-quick-and-easy-transcoding/"><u>Free Online MOV-to-Ogg Converter - Quick & Easy Transcoding</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-fantastic-glitch-effects-with-filmora-read-this-guide-to-find-out-how-to-apply-glitch-effects-on-your-videos-and-make-custom-glitch-effects/"><u>How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-technology-from-toms-hardware-hub/"><u>Expert Insights on Technology From Tom's Hardware Hub</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-c300-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-2022-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE (2022) Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-export-video-in-filmora-for-2024/"><u>New Easy Steps to Export Video in Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-make-a-tattoo-disappear-like-a-magic-for-2024/"><u>New Make A Tattoo Disappear Like A Magic for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/on-demand-video-preservation-for-2024/"><u>On-Demand Video Preservation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unifying-your-digital-storytelling-via-merged-youtube-media-for-2024/"><u>Unifying Your Digital Storytelling via Merged YouTube Media for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-asus-rog-swift-oled-pg32ucdp-reviewed-for-unmatched-gaming-clarity/"><u>Unlocking the Potential: Asus ROG Swift OLED PG32UCDP Reviewed for Unmatched Gaming Clarity</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-create-glitch-text-effect/"><u>Updated Create Glitch Text Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-find-out-what-ray-tracing-is-in-after-effects-how-it-works-and-learn-about-ray-traced-3d-settings-with-simple-instructions/"><u>Updated Find Out What Ray Tracing Is in After Effects, How It Works, and Learn About Ray-Traced 3D Settings with Simple Instructions</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>Updated HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora/"><u>Updated How to Correct Lens Distortion With Filmora</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-learning-how-to-create-luts-with-luts-generator/"><u>Updated Learning How to Create LUTs with LUTs Generator</u></a></li>
 </ul></div>
 

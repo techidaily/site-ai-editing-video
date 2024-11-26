@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Learning How to Create LUTs with LUTs Generator
-date: 2024-11-15T05:17:22.627Z
-updated: 2024-11-17T06:41:01.292Z
+date: 2024-11-25T21:09:50.842Z
+updated: 2024-11-26T16:08:28.801Z
 tags: 
   - ai
   - animation videos
@@ -65,6 +65,10 @@ Import your photo into Lightroom by dragging and dropping it. You can also impor
 
 ![import media to lightroom ](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2
 
 Edit your photo inside the “Develop” module in Lightroom with your desired preference and style. Only apply changes affecting the colors, not adjustments like noise reduction, vignette, or grain.
@@ -77,24 +81,25 @@ Download the original PNG from <www.onlinelutcreator.com/lutcreator>. Import it 
 
 ![ download identity png ](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4
 
 Right-click on your edited photo in the Develop module. Click "Develop Settings," and select "Copy Settings." After that, a new window will pop up; make sure you have the same things checked as in the screenshot.
 
 ![ open develop module and copy settings](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step5
 
 Right-click the original downloaded PNG file in the Develop module. Go to "Develop Settings," and choose "Paste Settings." This will paste the settings from your edited photo onto the original PNG.
 
 ![paste settings in original png](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step6
 
@@ -138,13 +143,6 @@ In conclusion, LUTs are essential in modern video and photo editing. They allow 
 
 * [Part 3: How to Create Online LUTs Using Online LUT Creator?](#part3)
 * [Bonus Part: Wondershare Filmora – The Perfect Tool to Use Your LUTs](#part4)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: An Overview of LUT Generator - The Best Platform for Creating LUTs
 
@@ -283,6 +281,10 @@ So how do you do that in Premiere Pro?
 
 ![check video frame rate in premiere pro](https://images.wondershare.com/filmora/article-images/check-frame-rate-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reasons for Changing Frame Rate
 
 Suppose you have an action-packed video. It would not look great at 30 fps - it will look too choppy. That will give your audience a rotten viewing experience. By increasing the frames, you can make the motion more fluid and smoother.
@@ -325,6 +327,10 @@ Here are the steps you should follow if you want to change the frame rate of an 
 
 ![effects tab in adobe premiere pro](https://images.wondershare.com/filmora/article-images/change-frame-rate-clip-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Select "Video Effects" > "Time" > "Posterize Time."
 
 ![posterize time video effect option](https://images.wondershare.com/filmora/article-images/change-frame-rate-clip-3.JPG)
@@ -357,13 +363,6 @@ Follow these steps to change your video to 120 fps:
 2. Check the "Timebase" section. It should say "119.88 frames/second," 120 fps when rounded off.
 
 ![checking if the fps is 120](https://images.wondershare.com/filmora/article-images/change-frame-rate-120-fps-4.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Edit the video as needed and render it. The output should stay at 120 fps.
 
@@ -518,13 +517,6 @@ Are you a vlogger looking for a LUT that can help enhance the colors and brightn
 
 ![artist found luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. [B&W](https://fixthephoto.com/vlog-lut/download-4)
 
 B&W is the best LUT for vlog that can be a great addition to your vlogging toolkit. This LUT allows you to transform your videos into black and white. It gives your vlogs and videos a more serious and dramatic look. You can add a touch of nostalgia and a vintage feel to your videos, giving them an artistic feel. With B&W, you can create a timeless and classic look for your vlogs, making them more memorable and impactful.
@@ -537,18 +529,15 @@ If you're looking for a LUT to use in your travel vlogs, consider the Travel Vid
 
 ![travel video luts](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. [BRIGHT INSTA LUTS](https://iuliia.store/product/bright-insta-luts/best-luts-for-vlog-4)
 
 Bright Insta LUTs is the suitable LUT vlog pack for you if you're a makeup or fashion vlogger. This LUT pack gives your makeup or fashion vlogs a bright and vibrant look. With 20 different LUTs, for instance, you can experiment with various color palettes and find the perfect look for your videos. These LUTs can help you achieve a bright, vibrant, and exposed feel for better fashion and makeup vlogs.
 
 ![bright insta luts](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. [Kurt Von Studios Retro Film LUTs](https://filtergrade.com/product/kurt-von-studios-retro-film-luts/)
 
@@ -569,6 +558,10 @@ Wondershare Filmora is an excellent video editing software option if you're a vl
 Apart from LUTs, you can also make color adjustments and corrections to your vlogs. Moreover, you can adjust brightness, contrast, saturation, and hue to create a perfect vlog. If you're a travel vlogger, you can make certain adjustments to give your vlogs an earthy and warm feel. You can also use different in-built filters and effects to create the perfect ambiance for your travel vlogs.
 
 ![ wondershare filmora luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -633,13 +626,6 @@ B&W is the best LUT for vlog that can be a great addition to your vlogging toolk
 If you're looking for a LUT to use in your travel vlogs, consider the Travel Video LUTs by Matteo Martignago. In this LUT pack, you'll find five different LUTs, each with its unique look and feel. Moreover, this pack has warm and cold LUTs, giving you multiple options. The warm LUTs give your videos a cozy feel, while the cold LUTs can create a sense of adventure and excitement.
 
 ![travel video luts](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. [BRIGHT INSTA LUTS](https://iuliia.store/product/bright-insta-luts/best-luts-for-vlog-4)
 
@@ -737,13 +723,6 @@ Understand your target audience you need to know who you’ll be speaking to thr
 
 ![plan your video 02](https://images.wondershare.com/filmora/article-images/2022/07/plan-your-video-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Write a script
 
 Making a script in your video is one way guide for you not to rattle or messed up everything, for me DIY vlog is different from product reviews or unboxing vlog. You can either write a word-by-word script for the video or just the general topics you aim to cover in the video. Either way, the point is to have a reference note so you don’t accidentally forget to cover an essential topic when you begin filming the video. DIY vlogs need to plan and make scripting because this is a more on tutorial video and you don’t like to missed one instruction on your video that is why making a script is a must unless you already doing it over and over again. You don’t have to be perfect and you don’t have to memorize any script. You just have to be relatable and authentic, yet professional.
@@ -802,6 +781,10 @@ A DIY video should be purely educational. Your audience will forgive your poor p
 
 ![informative content](https://images.wondershare.com/filmora/article-images/2022/07/informative-content.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Plan your video
 
 Ask yourself first of what you are trying to accomplish by producing the video. Remember that video is a tool and that it can hurt your channel if you don’t take it seriously and come properly prepared. Get organized and take down note if you have to.
@@ -810,14 +793,11 @@ Understand your target audience you need to know who you’ll be speaking to thr
 
 ![plan your video 01](https://images.wondershare.com/filmora/article-images/2022/07/plan-your-video-01.jpg)
 
-![plan your video 02](https://images.wondershare.com/filmora/article-images/2022/07/plan-your-video-02.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![plan your video 02](https://images.wondershare.com/filmora/article-images/2022/07/plan-your-video-02.jpg)
 
 ### Write a script
 
@@ -847,6 +827,10 @@ Add in your logo and branding to the video, it will make your video seem profess
 
 ![add transitions vlog video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-transitions-vlog-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Verdict
 
 Some studies say that making DIY project help reduce stress and improve your mood, that’s why a lot of people are watching DIY vlogs or video. DIY projects require you to use your hands, you’ll be able to learn new techniques and methods to put something together. This could also help you with future projects and you can even teach others how to use those skills as well.
@@ -871,22 +855,18 @@ Now that you know what kind of DIY videos you want to create, be ready and be pr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-the-social-landsayer-how-to-spark-fb-engagement-for-2024/"><u>[Updated] Navigating the Social Landsayer How to Spark FB Engagement for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-perfectly-pinned-prompts-top-android-and-iphones-instagram-covers/"><u>[Updated] Perfectly Pinned Prompts Top Android & iPhones' Instagram Covers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-unleash-creativity-crafting-tiktok-choreographies-on-macos/"><u>[Updated] Unleash Creativity Crafting TikTok Choreographies on MacOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-gear-to-include-in-your-summer-essential-travel-set/"><u>Discover the Best Gear to Include in Your Summer Essential Travel Set</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-how-to-stop-final-fantasy-xiv-from-crashing-on-your-computer/"><u>Fixing the Issue: How to Stop Final Fantasy XIV From Crashing on Your Computer</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-audio-plug-ins-for-video-editors/"><u>In 2024, Best Audio Plug-Ins For Video Editors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-x100-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo X100</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-a05s-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy A05s Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/learn-how-to-use-3d-camera-tracking-in-adobe-after-effects-and-take-your-skills-to-the-next-level-for-2024/"><u>Learn How to Use 3D Camera Tracking in Adobe After Effects and Take Your Skills to the Next Level for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-100-working-methods-to-learn-how-to-rotate-tiktok-video-for-2024/"><u>New 100 Working Methods to Learn How to Rotate TikTok Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-motion-blur-in-davinci-resolve-in-2024/"><u>New How To Add Motion Blur In Davinci Resolve, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review/"><u>New VSDC Free Video Editor Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unboxing-pureaudiofinder-a-look-into-the-latest-release/"><u>Unboxing PureAudioFinder A Look Into the Latest Release</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-lava-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Lava</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-virtual-green-screen-to-shoot-video-for-2024/"><u>Updated How To Use Virtual Green Screen to Shoot Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-clone-yourself-in-videos-with-filmora/"><u>Updated In 2024, Clone Yourself in Videos with Filmora</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-elevate-zoom-outputs-top-3-transformer-tactics/"><u>[New] In 2024, Elevate Zoom Outputs Top 3 Transformer Tactics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ice-skates-and-epochs-a-look-at-beijings-olympic-saga-2022/"><u>[New] In 2024, Ice Skates & Epochs A Look at Beijing's Olympic Saga, 2022</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-facing-the-reality-of-content-monetization/"><u>[Updated] Facing the Reality of Content Monetization</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-how-to-meet-aspect-ratio-requirements-on-twitter/"><u>[Updated] In 2024, How to Meet Aspect Ratio Requirements on Twitter</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-in-this-article-you-will-learn-easy-ways-to-edit-videos-using-a-mouse-in-wondershare-filmora-you-can-do-video-editing-without-a-keyboard-after/"><u>2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-defining-your-digital-dna-a-guide-to-youtubing-personal-branding/"><u>In 2024, Defining Your Digital DNA A Guide to YouTubing Personal Branding</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715860672083-in-2024-discover-the-best-mac-gif-recorders-now/"><u>In 2024, Discover the Best Mac GIF Recorders Now!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-coin-magic-with-filmora/"><u>In 2024, How to Make Coin Magic With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-video-fade-to-black-in-movie-maker/"><u>In 2024, How to Make Video Fade to Black in Movie Maker</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-share-youtube-video-on-zoom-in-2024/"><u>New How to Share YouTube Video on Zoom, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-mp3-cutter-download-for-computer-and-mobile/"><u>New In 2024, MP3 Cutter Download for Computer and Mobile</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-cyber-monday-computers-bargains-exclusive-october-2024-guide/"><u>Top-Rated Cyber Monday Computers Bargains: Exclusive October 2024 Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?
-date: 2024-11-14T06:19:06.121Z
-updated: 2024-11-17T06:26:21.063Z
+date: 2024-11-23T18:47:45.565Z
+updated: 2024-11-26T16:28:28.197Z
 tags: 
   - ai
   - animation videos
@@ -117,6 +117,10 @@ Begin by launching Filmora enhanced video editor on your PC or MacBook. Now clic
 
 ![create a new filmora project](https://images.wondershare.com/filmora/article-images/2023/02/apply-gaussian-blur-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Search for Square Blur
 
 Following this, drag and drop the imported video on the timeline of Filmora. Afterward, head to the “Effects” tab and search for "Square Blur." From the results, select Square Blur and apply it to your video clip in the timeline.
@@ -188,13 +192,6 @@ Martin Scorsese's Goodfellas is a gangster film set in 1950s New York City, one 
 
 Goodfellas (1990)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Trainspotting (1996)
 
 Ewan McGregor stars in Danny Boyle's black comedy, which tells the tale of drug addict Mark Renton (Danny Boyle). Mark tries to get clean and get back on his feet. Despite this, drug enticements and friend influence are major deterrents. Through this introductory Montage, we are introduced to the protagonist's lifestyle. In addition, the film explores the themes of drug abuse, addiction, and nihilism.
@@ -251,6 +248,10 @@ If you're thinking about using Montage, check out movies and trailers in the Act
 
 Rocky (1976)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Scarface (1983)
 
 A fictional Cuban Tony (Al Pacino) becomes a gangster in Brian De Palma's 1983 film Scarface against the backdrop of the cocaine boom of the 1980s. He is portrayed as a criminal rising to the echelons of the underworld and slowly falling. In this montage sequence, Tony becomes the biggest drug lord in Miami and controls nearly all the cocaine that comes through the city.
@@ -286,6 +287,10 @@ Requiem for a Dream (2000)
 Songs have played an integral role in bringing the story of the film to life in the hands of some of India's most thoughtful filmmakers. Among them is Ashutosh Gowariker. Montage techniques are used to create the title song sequence of his film Swades. The fictional Indian village of Charanpur, where the protagonist Mohan Bhargava (Shahrukh Khan) has lived, is a source of great trauma for the protagonist. As he ends up returning to India, the song signifies his development psychologically.
 
 Swades (2004)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Whiplash (2014)
 
@@ -366,13 +371,6 @@ Prince Meyson offers this skin tone enhancer LUT pack. It has a neutral, balance
 
 ![pro retouching essentials pack ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Apply LUTs on Final Cut Pro
 
 Now that you've discovered there are many Final Cut Pro LUTs free to download. The most important thing is to learn how to use these free LUTs on your video using FCPX. Here are some methods to learn to apply LUTs using Final Cut Pro in simple steps.
@@ -397,6 +395,10 @@ Select the “Custom LUT” option in the inspector window and choose your desir
 
 ![apply lut to layer ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Method 2 Using Adjustment Layer
 
 ##### Step1
@@ -410,19 +412,6 @@ Click the plugin button once you've imported your video clip and choose RT Adjus
 An icon will appear once you've selected RT Adjustment Layer. Drag and drop this icon on top of your video clip.
 
 ![drop adjustment layer to timeline ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-10.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3
 
@@ -472,13 +461,6 @@ In conclusion, Final Cut Pro is a powerful tool for video editing. This tool all
 
 You are at the right place if you're having trouble finding the best LUTs for FCPX. This section will provide you with one of the best LUTs you can choose for your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1.[Free Cinematic LUTs Pack for Video Editing](https://filtergrade.com/free-cinematic-luts-video-editing/)
 
 This free LUT pack is a perfect choice to give your videos a cinematic look. It features a soft blue color grading with high contrast that can make your footage look like it was shot on film. This LUT is especially effective for outdoor scenes and action shots. Moreover, its color grading enhances the drama and feel of your video footage.
@@ -490,6 +472,10 @@ This free LUT pack is a perfect choice to give your videos a cinematic look. It 
 10 Free Vintage Color Presets for Final Cut Pro is a great pack if you're looking for a vintage or retro feel. It has a warm, yellowish color grading that can give your videos a nostalgic look. This pack is ideal for footage shot in the 70s, 80s, or 90s. It highlights the muddiness and brown shades in your video to add a touch of authenticity to it.
 
 ![free vintage color presets ](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. [Perfect Green Video LUT](https://presetsstore.com/lut/perfect-green-video-lut)
 
@@ -581,6 +567,10 @@ Furthermore, Wondershare Filmora offers options for color adjustments and enhanc
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
@@ -595,18 +585,15 @@ In conclusion, Final Cut Pro is a powerful tool for video editing. This tool all
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to DIY VHS Overlay in After Effects?
 
 The 90s generation is familiar with Video Home System video. Today, Moviemakers use VHS static overlay to give their videos an antique and vintage look.
 
 The VHS glitch overlay has become increasingly popular as it changes the video's theme, tone, and whole look. Let's see how we can add DIY VHS overlay in after effects-
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1：Step by Step DIY VHS Overlay in After Effects?
 
@@ -623,10 +610,7 @@ Step 2: Right-click on your video and select New Comp from Selection. Drag your 
 ![getting lumetri color effect to get vhs look](https://images.wondershare.com/filmora/article-images/2022/using-lumetri-color-effect-to-get-vhs-look.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then open the Creative tab. Increase the faded film to 40\. Set sharpening to -70\. Bring vibrance to -30.
@@ -652,6 +636,10 @@ Step 6: To add a font to your video, simply search VHS font on Google. Look for 
 Step 7: Go to Layer < New < Solid and choose any color. We chose white. Now, under Effects & Presets, search for a number. Drag it to the white solid. Choose the font VCR OSD Mono. You can change the number to time or date. You can also add time manually. Select the text tool, go to the source text, hold alt, and click on the stopwatch. Write "timeToCurrentFormat() and time will be displayed on the video. Let us say we want to see the date on the video instead of time. So, change the time to date. Drag the date to the bottom right of the video to give it the look of an old VHS tape.
 
 If you are a beginner and want a simple VHS effect, you can follow these easy steps and create the VHS video that will transport you back to the 90s.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## BONUS TIP: How to Add VHS Overlays and Glitch Effects to Make Retro Videos in Filmora Video Editor?
 
@@ -814,22 +802,12 @@ When finished, click export and choose the format and target folder to save the 
 ![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
 
 By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -861,19 +839,18 @@ Detailed tutorials provided by the official channel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-fine-tune-your-digital-discussions-zooming-upwards/"><u>[New] Fine-Tune Your Digital Discussions Zooming Upwards</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/apple-iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 12 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/bitraser-pro-comprehensive-tutorial-on-secure-data-destruction-via-video/"><u>BitRaser Pro: Comprehensive Tutorial on Secure Data Destruction via Video</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/descubre-el-secreto-del-redimensionador-para-imagenes-eficaz-que-cambia-tamano-a-todas-tus-fotos-juntos/"><u>Descubre El Secreto Del Redimensionador Para Imágenes Eficaz Que Cambia Tamaño a Todas Tus Fotos Juntos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722998189915-effortless-solutions-to-your-apex-legends-startup-woes/"><u>Effortless Solutions to Your Apex Legends Startup Woes!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ting-your-channel-youtube-backlink-basics-for-2024/"><u>Elevating Your Channel YouTube Backlink Basics for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-how-to-elevate-your-characters-audio-presence-in-free-fire-naturally/"><u>In 2024, How to Elevate Your Character's Audio Presence in Free Fire, Naturally</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-10-mobile-relaxation-renders-idle-games/"><u>In 2024, Top 10 Mobile Relaxation Renders (Idle Games)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/is-windows-movie-maker-still-available-in-2024/"><u>Is Windows Movie Maker Still Available, In 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-windows-11-typing-troubles-addressing-zerox-code-0x80049dd3/"><u>Navigating Through Windows 11 Typing Troubles: Addressing Zerox (Code: 0X80049DD3)</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-discovering-the-best-places-for-impactful-drum-sounds-for-2024/"><u>New Discovering the Best Places for Impactful Drum Sounds for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-a-lut-that-you-can-use-for-your-high-definition-content-you-can-use-rec-709-lut-premiere-pro-for-your-hd-digital-media-to-give-the-perfe/"><u>Updated Do You Want a LUT that You Can Use for Your High-Definition Content? You Can Use Rec 709 LUT Premiere Pro for Your HD Digital Media to Give the Perfect Result</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-ninja-jump-effect-with-filmora/"><u>Updated How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-from-zero-to-hero-on-instagram-6-strategies-that-lead-to-verified-status/"><u>2024 Approved From Zero to Hero on Instagram 6 Strategies That Lead to Verified Status</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/full-spectrum-data-salvage-system-next-level-technical-assistance-for-complete-data-recovery/"><u>Full-Spectrum Data Salvage System: Next-Level Technical Assistance for Complete Data Recovery</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v29-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V29 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/live-your-best-life-the-ultimate-list-of-video-conferencing-gadgets-for-2024/"><u>Live Your Best Life The Ultimate List of Video Conferencing Gadgets for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-create-chroma-key-written-text-effects-in-filmora/"><u>New Create Chroma Key Written Text Effects in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-exceptional-free-web-based-calendar-applications/"><u>Top 4 Exceptional Free Web-Based Calendar Applications</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-launching-origin-game-client-on-latest-windows-versions/"><u>Troubleshooting Steps for Launching Origin Game Client on Latest Windows Versions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-facetune-a-comprehensive-2024-user-manual/"><u>Ultimate Facetune A Comprehensive 2024 User Manual</u></a></li>
 </ul></div>
 

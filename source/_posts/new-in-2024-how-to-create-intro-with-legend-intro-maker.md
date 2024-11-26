@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Create Intro with Legend Intro Maker
-date: 2024-11-12T17:09:09.662Z
-updated: 2024-11-17T02:45:59.225Z
+date: 2024-11-24T20:48:25.310Z
+updated: 2024-11-26T18:30:24.326Z
 tags: 
   - ai
   - animation videos
@@ -75,6 +75,10 @@ Step6 Finally, check the preview and tap on the Export button. Select the video 
 
 ![select video resolution legend intro](https://images.wondershare.com/filmora/article-images/2022/11/select-video-resolution-legend-intro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. Legend Intro Maker PC Alternative
 
 If you want to create intro videos on your PC, you need a Legend Intro Maker PC alternative. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as the best alternative to mobile Legends Intro Maker. Filmora is a popular premium video editor. Filmora comes with a wide range of intro video templates. There are loads of text effects and animations present.
@@ -97,19 +101,6 @@ Step3 Double-click on the intro video layer. Edit the default text and type in y
 
 ![edit the default text](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 You can go to the Animation tab and select any animation from the left panel. Double-click on the selected animation to apply. Thereafter, you can move around the texts on the Program window to place them properly. Finally, click on Ok button.
 
 ## Conclusion
@@ -122,6 +113,10 @@ Step1 Download and install Wondershare Filmora on your computer. Launch Filmora 
 
 ![download and install wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Click on the Titles option from the top bar. Go to the Openers option from the left panel. Select any intro video template as per your preference. Drag and drop it onto the timeline.
 
 ![click on the titles option](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
@@ -129,6 +124,10 @@ Step2 Click on the Titles option from the top bar. Go to the Openers option from
 Step3 Double-click on the intro video layer. Edit the default text and type in your titles. From the left panel, select any text style as per your preference.
 
 ![edit the default text](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 You can go to the Animation tab and select any animation from the left panel. Double-click on the selected animation to apply. Thereafter, you can move around the texts on the Program window to place them properly. Finally, click on Ok button.
 
@@ -201,6 +200,10 @@ Step3 Edit the text from Preview Screen instantly. You can also change font, siz
 
 ![edit text video imovie](https://images.wondershare.com/filmora/article-images/2022/07/edit-text-video-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 If you are satisfied with the text overlay, go to File> Share> File to export the video file.
 
 ## Part 3\. Add Text Overlay to Video on iPhone
@@ -212,13 +215,6 @@ Step1 Open iMovie app and tap on Plus icon to import your video clip to iMovie.
 Step2 Tap on the video clip and tap on “T” icon located at the bottom.
 
 ![click text imove iphone](https://images.wondershare.com/filmora/article-images/2022/07/click-text-imove-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 You need to choose the text style as per your preference from the bottom.
 
@@ -290,19 +286,6 @@ Step2 Drag and drop the video file from Media folder to Timeline. Select Titles 
 
 ![drag media timeline imovie](https://images.wondershare.com/filmora/article-images/2022/07/drag-media-timeline-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Edit the text from Preview Screen instantly. You can also change font, size, and other text elements.
 
 ![edit text video imovie](https://images.wondershare.com/filmora/article-images/2022/07/edit-text-video-imovie.jpg)
@@ -326,13 +309,6 @@ Step3 You need to choose the text style as per your preference from the bottom.
 Step4 Tap on the Viewer to place the default text and tap on Edit option to change the text as per your requirements.
 
 ![edit text imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/edit-text-imovie-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 You can also reposition the text as well as adjust the size, font, as well as color. When you are satisfied, tap on Done.
 
@@ -576,13 +552,6 @@ Select the video clip that you want to crop. Then, click the **Crop** tool and c
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-16.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can also right click the video clip .Under the **Video** tab you can select the **Crop and Zoom** or **Crop to Fit** then adjust to your preferred ratio.
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-17.png)
@@ -627,6 +596,10 @@ Find the **Show settings** and click **All.** In the **search bar** type **Cropp
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In the **Media** menu select the **Convert/Save**. You can drag and drop the cropped video to the **File** box.
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-9.png)
@@ -639,6 +612,10 @@ Find the **Edit Selected Profile** and click the **Video Codec.** Then under the
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In the **Destination file** select where you want it to be saved.
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-12.png)
@@ -647,6 +624,10 @@ Then click **Start.**
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Congratulations on getting here! You finally cropped your video using the VLC media player.
 
 Although there are disadvantages to using this as your cropping tool. Like for example you want the real-time preview of what you’ve changed in your video. This would be a turn off for some that want their outputs to be shown to them immediately. Aside from this, there is a chance that you will forget one step to make and thus, the whole process would need to start over from scratch. Lastly, is the freedom to batch crop multiple videos. This is especially important for those that need to have many clips in one video. A user might lose the continuity of the story within his video.
@@ -654,13 +635,6 @@ Although there are disadvantages to using this as your cropping tool. Like for e
 While one of its strong suits is the affordability of the software. It is completely free and has no additional charges that may surprise you in the future. Finally, your output won’t have watermarks that could destroy the aesthetics of your video.
 
 What are your experiences with using it as a cropping tool? What would you recommend to improve it? It is up to you the user if you want to continue using this as your partner in removing the excess in your videos.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Cropping a Video using Wondershare Filmora
 
@@ -739,15 +713,16 @@ You can select your file format and codecs by clicking **Convert/Save.**
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Find the **Edit Selected Profile** and click the **Video Codec.** Then under the **Filters** tab, select the **Video cropping filter.** Finally, click **Save.**
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In the **Destination file** select where you want it to be saved.
 
@@ -780,13 +755,6 @@ For macOS 10.14 or later
 Wondershare Filmora is a useful editor that can help you produce the content that you want. It is packed with beneficial tools that you can learn to apply. If it is already installed on your computer then proceed to opening it.
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-14.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Prepare your videos that you need to crop. You can drag and drop your video or click the **Import.**
 
@@ -855,6 +823,10 @@ Find the **Edit Selected Profile** and click the **Video Codec.** Then under the
 In the **Destination file** select where you want it to be saved.
 
 ![crop-vidoe-in-vlc](https://images.wondershare.com/filmora/article-images/2022/02/crop-vidoe-in-vlc-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then click **Start.**
 
@@ -924,17 +896,18 @@ You could share with us the tips and tricks you know on cropping videos using th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-deadly-dominance-the-quintessential-zombie-gameplay/"><u>[Updated] Deadly Dominance The Quintessential Zombie Gameplay</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-insiders-guide-to-instagram-photo-integrity/"><u>[Updated] The Insider’s Guide to Instagram Photo Integrity</u></a></li>
-<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/create-the-stranger-things-upside-down-effect-video-for-2024/"><u>Create the Stranger Things Upside Down Effect Video for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-prevent-and-fix-repeated-palworld-crashing-issues-on-computers/"><u>Expert Tips to Prevent and Fix Repeated Palworld Crashing Issues on Computers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-freeze-frame-sequence-in-video/"><u>In 2024, How to Create A Freeze Frame Sequence in Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-zoom-video-in-vlc-media-player/"><u>In 2024, How to Zoom Video in VLC Media Player</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-mastering-marks-top-iosandroid-tiktok-watermark-tools/"><u>In 2024, Mastering Marks Top iOS/Android TikTok Watermark Tools</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-using-luts-perfectly-in-final-cut-pro-for-2024/"><u>New Guide To Using Luts Perfectly in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-if-you-want-to-know-what-to-prepare-and-how-to-make-the-wedding-video-perfect-for-videographers-check-out-this-menu-here/"><u>New If You Want to Know What to Prepare and How to Make the Wedding Video Perfect for Videographers, Check Out This Menu Here</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808211368-quick-guide-to-finding-and-downloading-your-hp-devices-windows-10-drivers/"><u>Quick Guide to Finding and Downloading Your HP Device's Windows 10 Drivers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-and-reviews-by-toms-hardware/"><u>Tom's Tech Insights: In-Depth Guides and Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-youtube-comeback-kid-jake-pauls-story/"><u>[New] The YouTube Comeback Kid Jake Paul’s Story</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-your-ultimate-guide-to-storing-and-saving-live-tv-broadcasts/"><u>[New] Your Ultimate Guide to Storing and Saving Live TV Broadcasts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-mp4-video-editing-made-easy-a-beginners-guide-for-mac-and-windows/"><u>2024 Approved MP4 Video Editing Made Easy A Beginners Guide for Mac and Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/decoding-the-history-of-ai-how-old-is-this-revolutionary-tech/"><u>Decoding the History of AI: How Old Is This Revolutionary Tech?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fifa-footage-analysis-trendy-video-patterns-for-2024/"><u>FIFA Footage Analysis Trendy Video Patterns for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-6-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 6 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-definition-showdown-projection-systems-versus-tv-in-4k-world/"><u>In 2024, High-Definition Showdown Projection Systems versus TV in 4K World</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-professional-screen-grabber-for-win11/"><u>In 2024, Professional Screen Grabber for Win11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/local-vs-global-is-a-local-large-language-model-right-for-your-needs/"><u>Local vs Global: Is a Local Large Language Model Right for Your Needs?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-add-text-animation-to-a-video-online/"><u>New 2024 Approved Add Text Animation to A Video Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-the-night-to-day-effect-video/"><u>New In 2024, How to Create the Night-to-Day Effect Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/resolved-troubleshooting-guide-overcoming-world-of-warcraft-wont-start-on-pc/"><u>Resolved: Troubleshooting Guide - Overcoming 'World of Warcraft Won't Start' On PC</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-honor-magic5-ultimate-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Honor Magic5 Ultimate</u></a></li>
 </ul></div>
 

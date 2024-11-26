@@ -1,7 +1,7 @@
 ---
 title: Updated How To Add Fade In Windows Video Editor for 2024
-date: 2024-11-13T04:34:05.391Z
-updated: 2024-11-16T23:47:01.323Z
+date: 2024-11-20T18:08:01.011Z
+updated: 2024-11-26T17:22:15.289Z
 tags: 
   - ai
   - animation videos
@@ -157,6 +157,10 @@ In the windows video editor, there is a panel for basic video editing tools. But
 
 As stated earlier, there is no option for fading in windows video editor, hence, even the text cannot be faded in or out. There is a panel for basic video editing tools in the Windows video editor. However, there is no ability for a video or text to fade in and out. There is no "transition" option in the built-in Windows programme. Microsoft considers these transitions to be unnecessary, so it simply switches from one video clip to the next without making any other effects.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. How do I fade out music in Windows video editor?
 
 There is no direct command for making the music or sound fade out but you can do it manually, that is, in the video where ever you want the music or sound to fade out is that you can trim that clip out and then divide into two more clips. You can take the first of the two clips and lower its sound and in the next clip, you can mute the clip, note: the clips must be kept small, otherwise it will sound quite weird. If the respective lengths of the clips are kept quite small, only then will the fade feel natural. Due to unavailability of a direct command, fading the music out can be a very taxing job.
@@ -191,6 +195,10 @@ In a nutshell, 4K is the highest resolution you can watch your movies and videos
 Keep reading this article to learn more about frame rates and which is suitable for a 4K video.
 
 ![4k video frame rate](https://images.wondershare.com/filmora/article-images/4k-video-frame-rate.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do Frame Rates Affect Video Viewing?
 
@@ -289,13 +297,6 @@ Step2 In the dialogue box, select "Frame Rate" and choose the frame rate you thi
 
 ![export video frame rate](https://images.wondershare.com/filmora/guide/video-and-audio-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Click "OK" and edit the videos as you like.
 
 ## Conclusion
@@ -338,6 +339,10 @@ Discord is the most popular platform for communication among gaming communities 
 
 There could also be a scenario where you have excessive zoom in effect, and you need to zoom out for better readability. Similarly, if you have pressed the wrong shortcuts accidentally and the screen on Discord has zoomed in, you have to zoom out to bring the screen to its original state. We will illustrate how to zoom out in Discord as well for computer, smartphone, and online users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Zoom Discord on Computer
 
 Since Discord is mostly popular among gamers, Discord desktop app is the most widely used. If you want to zoom in on Discord desktop app, you should know that the zoom option is not readily available under any menu, and there is no keyboard shortcut you can press to zoom in and zoom out instantly. Instead, here are the steps on how to zoom in on Discord.
@@ -379,6 +384,10 @@ Discord is available for Android and iOS users. For any app, the zoom feature is
 Step1On your smartphone, open Discord app. Tap on your Profile icon located at the bottom-right corner.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/open-discord-on-smartphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2You must be on User Settings page where you need to find and tap on Appearance present under App Settings.
 
@@ -445,10 +454,7 @@ Step3Scroll down and come to Chat Font Scaling and move the slider to the right 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-appearance-zoom.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 There is Reset option at the bottom to cancel out the changes made as far as zoom effect goes.
@@ -526,13 +532,6 @@ Ray Tracking uses the process of denoising. The algorithm starts with the camera
 
 Ray Tracing uses machine learning to fill in the gaps to form a realistic image. The brighter the scene, the higher the graphics quality; the higher the quality, the more expensive it is. This is why Ray Tracing didn't become popular in the video game industry until recently.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4\. Ray Tracing In Adobe After Effects
 
 After the introduction of Ray Tracing, we will combine it with a popular video editor - Adobe After Effects to see how it works. Adobe After Effects is a useful and powerful tool for creating visual effects and animated graphics. Adobe introduced Ray Tracing or **Ray-Traced 3D** feature in After Effect to help graphic designers create photorealistic 3D images and render light and shadow. This feature was added in 2012 with the release of After Effects CS 6.
@@ -540,10 +539,7 @@ After the introduction of Ray Tracing, we will combine it with a popular video e
 ![ray tracing in adobe after effects](https://images.wondershare.com/filmora/article-images/2022/07/ray-tracing-in-adobe-after-effects.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 However, the Ray Tracing feature was later removed from After Effects in 2020 due to multiple reasons:
@@ -551,6 +547,10 @@ However, the Ray Tracing feature was later removed from After Effects in 2020 du
 * The Ray Tracing tool always faced bugs and glitches.
 * This feature did not work correctly if you were not using Adobe Media Encoder.
 * NVIDIA would change the standards from time to time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Functions
 
@@ -583,19 +583,6 @@ A layer becomes a 3D layer when the 3D checkbox is checked in the timeline and h
 The former deals with the layer's depth and edges shape, while the latter deals with the interaction of layers with depth and includes shadow, reflection, refraction, and transparency option.
 
 ![layer properties timeline in after effects](https://images.wondershare.com/filmora/article-images/2022/07/layer-properties-timeline-in-after-effects.png)
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When To Use It
 
@@ -632,13 +619,6 @@ Hopefully, your queries have been resolved, and you now fully understand the Ray
 2. [When To Use It](#part5-2)  
 3. [Ray Traced 3D After Effects Plugin Download](#part5-3)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. What Is Ray Tracing?
 
 Ray Tracing is a powerful rendering technique that can create incredibly realistic lighting and shadows. By tracing the path of light, algorithms can simulate the way that light interacts with virtual objects in a computer-generated world.
@@ -661,6 +641,10 @@ First conceptualized in 1969, Ray Tracing is a common technique used to create c
 
 Despite the challenges, Ray Tracing is becoming increasingly popular due to computer hardware and software advances. And as technology continues to improve, we can expect to see even more realistic images in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Advantages
 
 Here're some advantages of Ray Tracing:
@@ -678,13 +662,6 @@ Ray Tracking uses the process of denoising. The algorithm starts with the camera
 
 Ray Tracing uses machine learning to fill in the gaps to form a realistic image. The brighter the scene, the higher the graphics quality; the higher the quality, the more expensive it is. This is why Ray Tracing didn't become popular in the video game industry until recently.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4\. Ray Tracing In Adobe After Effects
 
 After the introduction of Ray Tracing, we will combine it with a popular video editor - Adobe After Effects to see how it works. Adobe After Effects is a useful and powerful tool for creating visual effects and animated graphics. Adobe introduced Ray Tracing or **Ray-Traced 3D** feature in After Effect to help graphic designers create photorealistic 3D images and render light and shadow. This feature was added in 2012 with the release of After Effects CS 6.
@@ -696,6 +673,10 @@ However, the Ray Tracing feature was later removed from After Effects in 2020 du
 * The Ray Tracing tool always faced bugs and glitches.
 * This feature did not work correctly if you were not using Adobe Media Encoder.
 * NVIDIA would change the standards from time to time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Functions
 
@@ -730,10 +711,7 @@ The former deals with the layer's depth and edges shape, while the latter deals 
 ![layer properties timeline in after effects](https://images.wondershare.com/filmora/article-images/2022/07/layer-properties-timeline-in-after-effects.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When To Use It
@@ -779,24 +757,22 @@ Hopefully, your queries have been resolved, and you now fully understand the Ray
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-boost-your-podcast-visibility-with-seo-tactics-for-2024/"><u>[New] Boost Your Podcast Visibility with SEO Tactics for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-effortless-capture-iphones-dual-task-technique/"><u>[Updated] 2024 Approved Effortless Capture IPhone's Dual-Task Technique</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-master-the-art-of-video-presentations-with-these-themes/"><u>[New] 2024 Approved Master the Art of Video Presentations with These Themes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-setting-the-scene-ideal-video-aspect-ratios-and-widths-for-youtube/"><u>[New] 2024 Approved Setting the Scene Ideal Video Aspect Ratios & Widths for YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-tips-and-tricks-for-professional-logitech-webcam-recordings-for-2024/"><u>[New] Tips & Tricks for Professional Logitech Webcam Recordings for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-igtv-a-video-uploading-handbook/"><u>[Updated] Navigating IGTV A Video Uploading Handbook</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-embrace-creativity-in-your-media-by-replacing-backgrounds-learn-to-replace-the-sky-in-lightroom-through-the-steps-and-details-discussed-in-thi/"><u>2024 Approved Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-integrating-video-content-from-youtube-into-websites-a-comprehensive-guide/"><u>2024 Approved Integrating Video Content From YouTube Into Websites - A Comprehensive Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/explore-top-5-non-samsung-360-cameras-today/"><u>Explore Top 5 Non-Samsung 360 Cameras Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/constructing-a-futuristic-smart-home-top-5-essentials-chosen-from-the-start-insights-from-zdnet/"><u>Constructing a Futuristic Smart Home: Top 5 Essentials Chosen From the Start - Insights From ZDNet</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/here-we-are-going-to-show-you-the-best-effects-to-appear-on-camera-made-with-filmora-for-2024/"><u>Here We Are Going to Show You the Best Effects to Appear on Camera Made with Filmora for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-correct-lens-distortion-with-filmora/"><u>How to Correct Lens Distortion With Filmora</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-make-vintage-film-effect-1950s-for-2024/"><u>How to Make Vintage Film Effect 1950S for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Asus ROG Phone 7 Ultimate?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-deep-dive-prodigious-polarrs-editing-capabilities/"><u>In 2024, A Deep Dive Prodigious Polarr's Editing Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-safely-switch-protonvpns-login-credentials-and-identify-authentic-chatgpt-windows-software/"><u>How to Safely Switch ProtonVPN's Login Credentials & Identify Authentic ChatGPT Windows Software</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-eye-zoom-transition-effect-with-filmora-for-2024/"><u>New How to Make Eye Zoom Transition Effect with Filmora for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-images-into-video-kapwing-tutorial/"><u>New In 2024, How to Convert Images Into Video - Kapwing Tutorial</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-online-learning-campaign-comprehensive-insights-streamed-live-for-2024/"><u>New Online Learning Campaign Comprehensive Insights Streamed Live for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-something-about-skin-care-vlog-ideas/"><u>New Something About Skin Care Vlog Ideas</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/reality-beyond-exploring-vrs-contemporary-state-and-implications/"><u>Reality Beyond Exploring VR's Contemporary State and Implications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-screen-guard-the-ultimate-selection-reviews-by-zdnet/"><u>Top-Rated Apple Watch Screen Guard: The Ultimate Selection – Reviews by ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-startup-errors-in-star-wars-the-old-republic-swtor/"><u>Resolving Startup Errors in Star Wars: The Old Republic (SWTOR)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/step-inside-music-agptek-a01-tiny-tech-review/"><u>Step Inside Music: AGPTEK A01 Tiny Tech Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-integrating-codegpt-into-your-visual-studio-code/"><u>Step-by-Step Guide: Integrating CodeGPT Into Your Visual Studio Code</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-audio-waveform-generator/"><u>Updated In 2024, Best Audio Waveform Generator</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
 </ul></div>
 
