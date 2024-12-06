@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Convert Images Into Video - Kapwing Tutorial
-date: 2024-11-25T18:37:37.611Z
-updated: 2024-11-26T16:05:11.194Z
+date: 2024-11-30T20:55:40.636Z
+updated: 2024-12-06T05:27:43.419Z
 tags: 
   - ai
   - animation videos
@@ -23,6 +23,10 @@ Kapwing is a collaborative video editing solution designed to help users create 
 
 Kapwing allows users to create videos from scratch with Kapwing's extensive library of pre-made templates, stock content, and assets. Users can add layers of images, videos, and audio to create the desired video. Because Kapwing is a cloud-based solution, all projects and work are automatically saved to the cloud. However, Kapwing only allows the first 3 projects to be free, after that the image or video will be automatically watermarked, and you need to purchase kapwing premium access for the best image or video quality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. How to convert image to video with Kapwing?
 
 ![convert image to video](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-1.jpg)
@@ -43,10 +47,6 @@ Select the image and find the duration dropdown in the right edit menu. Use the 
 
 Just click **Export** and your final video will be created. The output file is MP4\. Kapwing is completely free and requires no downloads. Enjoy the new video you created with your image or images.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Other 3 ways to convert image to video online
 
 Even though an online image-to-video maker is not as powerful as photo and video editing software products like [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you can still use this online image-to-video maker to create videos effortlessly. However, to save time, you should prepare all the material you want to use in your video in advance so that you can upload it to the platform of your choice and have your video ready in minutes. Let's take a look at the image-to-video maker that you can use to create captivating social media videos.
@@ -58,6 +58,10 @@ Even though an online image-to-video maker is not as powerful as photo and video
 This website offers a lot of different tools that you can use to create videos from your photos, crop videos, or add 3D transitions between frames. Keep in mind that the maximum number of photos you can use in one video is limited to thirty. Once you get to the home page of this platform, just upload your photos and arrange them in any way you want.
 
 You can also add text, music, or your company logo to the video, then follow the on-screen instructions to complete the process. You can preview the video after the platform has generated it and decide whether you want to download it or start over if you didn't like the result.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Mp3Care
 
@@ -77,6 +81,10 @@ First, download and install [Filmora](https://tools.techidaily.com/wondershare/f
 
 ![import files to filmora](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Launch Filmora Video Editor and click "**New Project**" to get started. Click "**Import**" and then "**Import media files**" or click "**Import media files here**" to find your video and photos on your computer. Double-click the files and they will be imported into the program. You can also directly drag and drop photo and video files into the video editing program. Then you need to set up the project such as aspect ratio and resolution.
 
 ##### Step2Add a photo to the video and apply some effects
@@ -84,6 +92,10 @@ Launch Filmora Video Editor and click "**New Project**" to get started. Click "*
 After importing the files into the program, drag the video clip to the video editor timeline at the bottom of the screen. Then drag the photo to the track above the video. Click the "**Play**" icon to preview the video. Move the photo on the track to the point where you want to view it and drag the end to shorten or increase the duration of the photo.
 
 ![add a photo to video](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After that, edit your photo as you choose. Place the image anywhere you want, then drag its edge to change the size of the playing windows. The picture-in-picture track can also be customized using a variety of customizable settings provided by Filmora. To access the picture, color, and motion panel, double-click the additional image on the track. Here, you can select from more than 30 motion effects to animate the added photo, alter its saturation and hue, perform some color correction, or alter its transformation.
 
@@ -94,10 +106,6 @@ Then click the "**Effects**" button for more mask and effect options. Go to the 
 ##### Step3Save the new video file
 
 ![save the new video file](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After adding a photo to a video and making basic adjustments, you can export it in various ways by pressing the "**Export**" button. You can save it in different formats in the Format tab. If you want to play the video creation on iPod, iPhone, or iPad, click "**Device**" and select the device from the list. You can also upload your video directly to YouTube or burn it to DVDs for playback on your TV using a DVD player. You can also share the video directly on social networks.
 
@@ -117,6 +125,10 @@ First, download and install [Filmora](https://tools.techidaily.com/wondershare/f
 
 ![import files to filmora](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Launch Filmora Video Editor and click "**New Project**" to get started. Click "**Import**" and then "**Import media files**" or click "**Import media files here**" to find your video and photos on your computer. Double-click the files and they will be imported into the program. You can also directly drag and drop photo and video files into the video editing program. Then you need to set up the project such as aspect ratio and resolution.
 
 ##### Step2Add a photo to the video and apply some effects
@@ -125,27 +137,15 @@ After importing the files into the program, drag the video clip to the video edi
 
 ![add a photo to video](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After that, edit your photo as you choose. Place the image anywhere you want, then drag its edge to change the size of the playing windows. The picture-in-picture track can also be customized using a variety of customizable settings provided by Filmora. To access the picture, color, and motion panel, double-click the additional image on the track. Here, you can select from more than 30 motion effects to animate the added photo, alter its saturation and hue, perform some color correction, or alter its transformation.
 
 ![edit photos](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Then click the "**Effects**" button for more mask and effect options. Go to the Utility option under Filters and then drag the image mask onto the photo on the timeline. Double click on the photo and then you can change the shape, height, width, and blending of the image mask. On the mask tab, you can shape the photo with a single click. You can also invert the mask to create a new shape. Choose one of the effects according to your wish to make your video more unique.
 
 ##### Step3Save the new video file
 
 ![save the new video file](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After adding a photo to a video and making basic adjustments, you can export it in various ways by pressing the "**Export**" button. You can save it in different formats in the Format tab. If you want to play the video creation on iPod, iPhone, or iPad, click "**Device**" and select the device from the list. You can also upload your video directly to YouTube or burn it to DVDs for playback on your TV using a DVD player. You can also share the video directly on social networks.
 
@@ -303,6 +303,10 @@ It has a wealth of resources that you can use to create the title including more
 
 ![animatron studio app](https://images.wondershare.com/filmora/article-images/2022/08/animatron-studio-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Kapwing Title Maker
 
 Link: <https://www.kapwing.com/animated-text-video-maker>
@@ -316,7 +320,7 @@ For instance, it has a huge selection of animations that you can apply to the te
 ![kapwing title maker](https://images.wondershare.com/filmora/article-images/kapwing-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Biteable Animated Text Maker
@@ -367,10 +371,6 @@ But like other Adobe programs, Adobe Animate is not very easy to use and the beg
 
 ![adobe animate](https://images.wondershare.com/filmora/article-images/adobe-animate.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Express Animate
 
 Rating: 4.5/5
@@ -405,6 +405,10 @@ It comes with numerous effects, transitions, and templates to choose from when a
 
 If you are editing your videos on your mobile device, the following are the top animated title-making apps to choose from;
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tomo
 
 Rating: 4.5/5
@@ -424,6 +428,10 @@ Link:<https://apps.apple.com/us/app/adobe-spark-post-design-maker/id1051937863>
 Available for both Android and iOS devices, Adobe Spark is a video editing tool that has numerous tools to add and edit texts on videos. You can use the professionally designed templates that you have access to when using Adobe Spark to create stunning animation titles. And since it easily integrates with other apps on the device, sharing the videos is very easy.
 
 ![adobe spark app](https://images.wondershare.com/filmora/article-images/2022/08/adobe-spark-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quik
 
@@ -487,14 +495,10 @@ Why is it necessary to discuss the Teal & Orange LUT separately since they are n
 
 The following sections discuss downloading and using these LUTs in your videos.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. M31 LUT (Teal & Orange LUT) free download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Orange and Teal Lightroom Presets by SparkleStock (Lite)
@@ -539,10 +543,6 @@ In addition to M31 LUTs, Filmora offers more than 100 LUT packages to pick from 
 
 ![tools](https://images.wondershare.com/filmora/article-images/2022/08/m31-lut-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![color correction](https://images.wondershare.com/filmora/article-images/2022/08/m31-lut-5.jpg)
 
 1. If you want to use other preset LUTs, click on the drop-down menu and select the **Load LUT** option. Then, choose the downloaded LUT and click OK button.
@@ -575,18 +575,20 @@ Therefore, to help those who want to add amazing LUTs like M31 (teal and orange)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-integrating-slug-lines-into-your-writing-process/"><u>[New] In 2024, Integrating Slug Lines Into Your Writing Process</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-path-to-virtual-visualization-excellence-a-zoom-video-filters-tutorial-for-2024/"><u>[New] The Path to Virtual Visualization Excellence A Zoom Video Filters Tutorial for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-11-pro-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 11 Pro In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-tips-to-tame-vr-induced-motion-sickness/"><u>[Updated] 2024 Approved Tips to Tame VR-Induced Motion Sickness</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-dualview-photography-analysis/"><u>[Updated] DualView Photography Analysis</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-perfecting-yt-thumbnails-with-aspect-ratios/"><u>2024 Approved Perfecting YT Thumbnails with Aspect Ratios</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-the-power-of-luts-color-grading-made-easy-in-pro/"><u>Exploring the Power of LUTs Color Grading Made Easy in Pro</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-use-a-stabilization-tool-in-filmora-for-2024/"><u>How to Use a Stabilization Tool in Filmora for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-different-too/"><u>In 2024, Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-video-in-canva/"><u>In 2024, How to Loop Video in Canva</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 13 Pro?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-convert-mp4-videos-to-60-fps-gifs-with-this-easy-to-follow-tutorial-get-smooth-and-crisp-motion-in-your-gifs-in-just-a-few-simple-steps/"><u>In 2024, Learn How to Convert MP4 Videos to 60 FPS GIFs with This Easy-to-Follow Tutorial. Get Smooth and Crisp Motion in Your GIFs in Just a Few Simple Steps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagrams-hottest-25-minds-in-the-digital-age/"><u>Instagram's Hottest 25 Minds in the Digital Age</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/masterful-story-structures-with-ais-assistive-chatgpt/"><u>Masterful Story Structures with AI's Assistive ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-of-win1011s-error-0x800704b3/"><u>Navigating the Maze of Win10/11's Error 0X800704B3</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-motion-blur-on-capcut-iphone-and-android/"><u>New 2024 Approved How To Add Motion Blur On CapCut? (IPhone & Android)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>New How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-video-by-mouse-in-filmora-for-2024/"><u>New How To Make a Video by Mouse in Filmora for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/solving-the-h265-video-playback-issue-in-chrome-no-more-black-screens/"><u>Solving the H.265 Video Playback Issue in Chrome - No More Black Screens</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-0x800705b4-issue-during-a-windows-10-update/"><u>Troubleshooting Guide: Fixing the 0X800705b4 Issue During a Windows 10 Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pause-in-apple-watch-series-9-and-ultra-series-2-online-purchases-impact-on-previous-generation-servicing/"><u>Pause in Apple Watch Series 9 & Ultra Series 2 Online Purchases: Impact on Previous Generation Servicing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pushing-the-limits-with-text-warping-effects-for-2024/"><u>Pushing the Limits with Text Warping Effects for 2024</u></a></li>
 </ul></div>
 

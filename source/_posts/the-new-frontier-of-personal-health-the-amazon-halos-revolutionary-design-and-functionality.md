@@ -1,7 +1,7 @@
 ---
 title: "The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality"
-date: 2024-11-19T19:04:16.140Z
-updated: 2024-11-26T20:03:33.154Z
+date: 2024-11-29T20:53:24.603Z
+updated: 2024-12-06T11:14:32.598Z
 categories:
   - BestProducts
 description: "This Article Describes The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/GshnCnk_G-hNSwDTRjGVB28Nl-o=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/AfRhNgqeOD7JfcVqpjzm5LwPSB4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
 
 [View On Amazon $185](https://www.amazon.com/dp/B07T89YZWD?tag=lifewire-onsite-prod-20&ascsubtag=4846125%7Cn35b11b2c61b54fa1a2d951691d1a61ed04%7CB07T89YZWD) [View On Walmart $379](https://www.walmart.com/ip/NETGEAR-Nighthawk-AX6000-Dual-Band-WiFi-Wireless-6-Mesh-Range-Extender-EAX80-100NAS/122370265) [View On Best Buy $197](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnetgear-nighthawk-ax6000-ax8-dual-band-wi-fi-6-range-extender-black%2F6359409.p%3FskuId%3D6359409)
@@ -70,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 
  If you don’t already have one of those new Wi-Fi 6 routers, should you spend extra for the Netgear Nighthawk AX8 to futureproof your setup? Here’s what I think after testing the device for several days across everyday web usage, media streaming, playing online games, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Pretty awkward**
 
  The Netgear’s Nighthawk AX8 Wi-Fi 6 Mesh Extender is not only the largest and heaviest Wi-Fi extender I’ve tested at 10 inches tall and nearly two pounds, but it’s also one of the oddest-looking. It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward. Also, the little plastic feet don’t do a great job of supporting the weight, making it a bit wobbly on a flat surface.
@@ -77,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
  With very large sides, the front is really just a small panel with light-up LED indicators showing connectivity details and which Ethernet ports are in use. There’s also a small WPS button beneath the LED panel for easy connectivity with a router. On the wider back panel are the four wired[Ethernet ports](https://www.lifewire.com/what-is-an-ethernet-port-817546) for plugging in devices such as game consoles and computers, as well as a USB 3.0 port, DC power port, and the power button itself.
 
  It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup Process: Avoid the app**
 
@@ -89,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
  Over and over, the setup process wouldn’t complete… and then it finally did. I ran into similar issues with the other Netgear extenders, in which setup processes didn’t work as expected on the first or second time, but this was a much longer and more arduous ordeal. Finally, however, I got the Nighthawk AX8 up and running. From there, you’ll need to find a new location for the extender—roughly halfway between the router and your Wi-Fi dead zone is ideal, but play around with positioning if you’re not getting the results you seek.
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/xru8JLL_UOk3sXBYpbrOyAl-ihc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_02-b120eab8816746338c53e4eb1cfc62d6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -112,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
  As a Wi-Fi mesh extender, the Netgear Nighthawk AX8 will automatically replicate the SSID of your router’s existing Wi-Fi networks and seamlessly keep you connected whenever you’re in range of either. That’s true even with non-Netgear routers and those without Wi-Fi 6 support, and it’s a huge benefit over some cheaper extenders that don’t keep the same network info intact across devices.
@@ -120,19 +128,11 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 
  If you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi mesh system instead.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: More than most**
 
  The Netgear Nighthawk AX8 Wi-Fi 6 Mesh Extender is listed at $250, although it’s being sold for $220 at multiple retailers as of this writing. That’s definitely on the higher end for an extender.
 
  Should you really spend that much on an extender? If you don’t already have a new Wi-Fi 6 router, then probably not. You might see higher peaks of speed as I did, but rather than trying to mix and match old and new tech, you’re probably better off investing in a new Wi-Fi mesh system that can cover the entire house. Netgear’s Orbi is a favorite, as is Google’s similar Nest Wi-Fi system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Netgear Nighthawk AX8 vs. Netgear Nighthawk X6S (EX8000)**
 
@@ -145,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
  If you’ve already bought a Wi-Fi 6 router and need a little help extending your signal into further corners of your home and/or property, then the Nighthawk AX 8 (EAX 80) is the extender you’ll want. But if you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi[mesh system](https://www.lifewire.com/what-is-a-mesh-network-4842178) instead. Spending more than $200 on an extender doesn’t make much sense unless you’re adding it to a top-of-the-line system—and don’t mind the significant investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -174,21 +174,20 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-hdr-review-luminances-creation-capability/"><u>[New] 2024 Approved HDR Review Luminance's Creation Capability</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nline-platforms-embedding-video-playlists-from-youtube-for-2024/"><u>[New] Online Platforms Embedding Video Playlists From YouTube for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-stream-your-podcast-with-one-move-only/"><u>[Updated] Stream Your Podcast with One Move Only</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-motion-blur-photo-with-gimp-step-by-step-guide/"><u>2024 Approved Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-steps-to-create-makeup-videos/"><u>2024 Approved Steps to Create Makeup Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-add-green-screen-eff/"><u>Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/essential-guide-to-enhancing-youtube-content-post-upload/"><u>Essential Guide to Enhancing YouTube Content Post-Upload</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-11-pro-max-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 11 Pro Max</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-4-solutions-to-add-white-border-to-video-on-mobile-and-desktop/"><u>New 2024 Approved 4 Solutions to Add White Border to Video on Mobile and Desktop</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-transitions-in-adobe-premiere-pro/"><u>New How to Add Transitions in Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-in-canva-editor/"><u>New How to Loop a Video in Canva Editor</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/this-article-aims-to-show-you-how-to-improve-your-lighting-in-the-sun/"><u>This Article Aims to Show You How to Improve Your Lighting in the Sun</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-xbox-connectivity-problems-is-it-a-service-disruption/"><u>Understanding Xbox Connectivity Problems – Is It a Service Disruption?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unresponsive-fingerprint-reader-on-win-os/"><u>Unresponsive Fingerprint Reader on Win OS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-revolutionary-entry-tool-for-all-devices-this-year/"><u>[New] Revolutionary Entry Tool for All Devices This Year</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unique-conversation-starters-for-streaming/"><u>[Updated] Unique Conversation Starters for Streaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-ultimate-action-hunting-cameras-ranked/"><u>10 Ultimate Action Hunting Cameras Ranked</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-15-best-travel-vloggers-that-you-should-follow/"><u>2024 Approved 15 Best Travel Vloggers That You Should Follow</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/from-zero-to-hero-youtubes-masterclass-in-channels/"><u>From Zero to Hero YouTube's Masterclass in Channels</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-iphone-photography-rotate-tilt-and-flip-effortlessly-for-2024/"><u>Master iPhone Photography Rotate, Tilt & Flip Effortlessly for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-effective-ways-to-add-text-behind-objects/"><u>New 2024 Approved 2 Effective Ways to Add Text Behind Objects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-perform-mask-tracking-discovering-the-best-methods/"><u>New 2024 Approved How to Perform Mask Tracking Discovering the Best Methods</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved How to Remove Background From a Video in Premier Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-eliminating-reverberation-in-sound-tracks-three-effective-methods-for-2024/"><u>Updated Eliminating Reverberation in Sound Tracks Three Effective Methods for 2024</u></a></li>
 </ul></div>
 

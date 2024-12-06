@@ -1,7 +1,7 @@
 ---
 title: New Create Glitch Text Effect for 2024
-date: 2024-11-23T21:24:24.235Z
-updated: 2024-11-26T17:28:10.693Z
+date: 2024-11-30T12:13:24.661Z
+updated: 2024-12-05T16:11:21.476Z
 tags: 
   - ai
   - animation videos
@@ -101,6 +101,10 @@ Step5 Go to Properties Windows and click on Presets to select different types of
 
 ![adjust intensity of effects vsdc](https://images.wondershare.com/filmora/article-images/2022/07/adjust-intensity-of-effects-vsdc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. Related FAQs about Glitch Text
 
 ### 1\. How do you animate glitch text?
@@ -161,13 +165,13 @@ Step5 Turn on Master Amplitude and add multiple keyframes as different points in
 
 ![add keyframes premiere](https://images.wondershare.com/filmora/article-images/2022/07/add-keyframes-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step6 Go to the first keyframe and turn on Random Seed effect. Go to the last keyframe and turn on Random Seed effect and change the value to 75\. Play the video to check the entire video with glitch text effect.
 
 ![check video glitch effects pr](https://images.wondershare.com/filmora/article-images/2022/07/check-video-glitch-effects-pr.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. Use VSDC Video Editor to Create Glitch Text
 
@@ -192,14 +196,6 @@ Step4 A window will appear where you can set the starting point, duration, and d
 Step5 Go to Properties Windows and click on Presets to select different types of glitch text effects. You can also adjust the intensity of the text effects and other parameters as you feel.
 
 ![adjust intensity of effects vsdc](https://images.wondershare.com/filmora/article-images/2022/07/adjust-intensity-of-effects-vsdc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. Related FAQs about Glitch Text
 
@@ -261,10 +257,6 @@ You can select a virtual background before beginning a meeting or during an ongo
 * Click background to select a previously downloaded backdrop.
 * Click Add to add your own image as a background.
 * Click on Join Now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### During a video conference
 
@@ -409,6 +401,10 @@ During a video conference
 
 ## Extra Tips
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Add Green Screen to Meeting Video
 
 ### Prior to a video call
@@ -476,10 +472,6 @@ During a video conference
 ## Extra Tips
 
 ### How to Add Green Screen to Meeting Video
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Prior to a video call
 
@@ -564,10 +556,6 @@ In this comprehensive guide, we'll explore the basics of Ray Tracing and everyth
 2. [When To Use It](#part5-2)  
 3. [Ray Traced 3D After Effects Plugin Download](#part5-3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. What Is Ray Tracing?
 
 Ray Tracing is a powerful rendering technique that can create incredibly realistic lighting and shadows. By tracing the path of light, algorithms can simulate the way that light interacts with virtual objects in a computer-generated world.
@@ -596,10 +584,6 @@ Here're some advantages of Ray Tracing:
 
 1. **Realistic Rendering:** Ray Tracing can create more realistic images than those created with traditional rendering techniques. This is because it calculates the light path more accurately, resulting in more realistic shadows, refraction, and reflections.
 2. **Anti-aliasing And Depth Of Field:** Ray Tracing can help you quickly get the anti-aliasing and depth of field effects.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Disadvantages
 
@@ -639,6 +623,10 @@ Though as mentioned above, the Ray Tracing feature was removed in 2020, its adva
 
 The release of the **Ray-Traced 3D** setting in After Effects CS6 made it easier than ever to create stunning 3D images and animations. Let’s focus on how to use it in After Effects appropriately.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Set It
 
 Adobe After Effects has a three-dimensional space animation setting, but this doesn't include Ray Tracing. You need to change the default settings if you want to use it in your animation. To do so:
@@ -654,10 +642,6 @@ A layer becomes a 3D layer when the 3D checkbox is checked in the timeline and h
 The former deals with the layer's depth and edges shape, while the latter deals with the interaction of layers with depth and includes shadow, reflection, refraction, and transparency option.
 
 ![layer properties timeline in after effects](https://images.wondershare.com/filmora/article-images/2022/07/layer-properties-timeline-in-after-effects.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When To Use It
 
@@ -708,10 +692,6 @@ In simple words, Ray Tracing is a computer graphics technique for generating rea
 
 In this part, we will explain what Ray Tracing is from the following sides and for your better understanding.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### History
 
 Albrecht Dürer first gave the idea of Ray Tracing in the 16th century through his invention, the Dürer's door. However, it was not until 1968 that Arthur Appel used a computer for the first time to create a shaded picture through Ray Tracing.
@@ -760,6 +740,10 @@ Though as mentioned above, the Ray Tracing feature was removed in 2020, its adva
 ### How Does It Work
 
 3D Ray Tracing in After Effects works by giving your text and paths more depth. Extruded layers have a z-axis depth, making them three-dimensional. This extra dimension is viewable from all angles, even when the layer is rotated. In contrast, non-extruded layers have zero depth on the z-axis. So, they will disappear if you try to rotate them 90 degrees on the x or y-axis.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5\. Ray-Traced 3D Settings In Adobe After Effects
 
@@ -834,15 +818,27 @@ Cutting on action is a technique the editors use to cut in the middle of an acti
 
 ![set the phone on a tripod](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Start Filming
 
 Step1 Firstly, you must show the coin and the bottom of the glass.
 
 ![show the coin and the bottom of the glass](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 After that, you need to hold the coin with the fingers part of one hand and tap down on the coin. Make sure it looks like the coin is going through straight to the glass.
 
 ![hold the coin with the fingers](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 You need someone else to drop the other coin from the top. Meanwhile, you are pretending to tap a coin on the glass. You don't need to worry about someone else hand in the frame. Since you can remove it easily with the masking feature in Filmora.
 
@@ -871,7 +867,7 @@ Step4 Now you need to delete the middle part and play it back. Indeed, cutting o
 ![delete the middle part](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5 Next, you must remove your friend's hand in the frame with the Filmora masking feature. Afterwards. drag and drop the clean plate video onto the second track of the timeline.
@@ -881,6 +877,10 @@ Step5 Next, you must remove your friend's hand in the frame with the Filmora mas
 Step6 Next, double-click the clip to open the setting video. Find the Mask Section and select the single line.
 
 ![](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step7 Here you can see the mask is applied.First, adjust the angle and position of the mask to only show the top part of the frame. Then you have to change the Blur Strength to add more blur to the edge of the mask.
 
@@ -918,17 +918,21 @@ That's how to make a coin move through a glass-like MAGIC with the cutting on ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-smooth-sailing-with-kinemaster-in-film-edits/"><u>[New] 2024 Approved Smooth Sailing with Kinemaster in Film Edits</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-from-pages-to-production-creating-a-movie-blueprint/"><u>[New] In 2024, From Pages to Production Creating a Movie Blueprint</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-gif-building-an-understanding/"><u>2024 Approved How To Slow Down GIF Building an Understanding</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-mp3-compilation-top-youtube-transformers/"><u>2024 Approved Ultimate MP3 Compilation Top YouTube Transformers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androids-photo-editor-showdown-can-pickup-claim-victory-for-2024/"><u>Android's Photo Editor Showdown Can PickUp Claim Victory for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-xiaomi-redmi-note-12-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi Redmi Note 12 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-5-free-online-video-filter-editors/"><u>New Top 5 Free Online Video Filter Editors</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-finest-bluetooth-mice/"><u>Ultimate Guide to the Finest Bluetooth Mice</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-blur-photo-with-gimp-step-by-step-guide/"><u>Updated Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-deep-dive-into-the-core-functionalities-of-zdsoft/"><u>[New] In 2024, Deep Dive Into the Core Functionalities of ZDSoft</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-frosty-footage-comprehensive-analysis-and-tutorial-for-ice-cream-cam/"><u>[New] In 2024, Frosty Footage Comprehensive Analysis & Tutorial for Ice Cream Cam</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ignite-your-startups-growth-with-these-top-social-media-tips/"><u>[Updated] 2024 Approved Ignite Your Startup's Growth with These Top Social Media Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-shorts-thumbnail-woes-a-quick-guide-to-solutions/"><u>[Updated] YouTube Shorts Thumbnail Woes A Quick Guide to Solutions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-15-best-travel-vloggers-that-you-should-follow/"><u>2024 Approved 15 Best Travel Vloggers That You Should Follow</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/a-comprehensive-list-of-mac-methods-to-record-minecraft-play/"><u>A Comprehensive List of Mac Methods to Record Minecraft Play</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-realme-c67-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Realme C67 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-disable-live-recording-in-quicktime-player-for-2024/"><u>How to Disable Live Recording in QuickTime Player for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nubia-red-magic-8s-proplus-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nubia Red Magic 8S Pro+ Unlock Without Password</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-effective-ways-to-add-text-behind-objects/"><u>New 2024 Approved 2 Effective Ways to Add Text Behind Objects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-options/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Options</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved How to Remove Background From a Video in Premier Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-blur-faces-in-your-videos-read-this-article-to-find-out-the-easiest-way-to-blur-the-faces-in-videos-using-adobe-premiere-pro/"><u>New Do You Want to Blur Faces in Your Videos? Read This Article to Find Out the Easiest Way to Blur the Faces in Videos Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-young-filmmakers-guide-to-selecting-video-gear/"><u>The Young Filmmaker's Guide to Selecting Video Gear</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-creating-video-testimonials/"><u>Updated Creating Video Testimonials</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-the-best-frame-rate-for-4k-videos-in-2024/"><u>What Is the Best Frame Rate for 4K Videos, In 2024</u></a></li>
 </ul></div>
 

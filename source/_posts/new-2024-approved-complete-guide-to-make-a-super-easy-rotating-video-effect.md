@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Complete Guide to Make a Super Easy Rotating Video Effect
-date: 2024-11-23T18:13:44.451Z
-updated: 2024-11-26T17:00:07.469Z
+date: 2024-11-29T02:38:35.597Z
+updated: 2024-12-06T04:33:48.278Z
 tags: 
   - ai
   - animation videos
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 Controlling camera direction to the subject's hands and filming is trending nowadays. Create this effect by using easy film hacks, as shown in this article.
 
 Many users make rotating illusion videos for TikTok or any branding video. The foremost items to record are explained in this article with detailed instructions. The best editing tool is also clarified below for instant results. So keep reading to get a hand with filming and editing a professional rotating transition video!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. What is a Rotating Video Illusion/Effect
 
@@ -204,10 +200,6 @@ Follow the below-mentioned steps to record the first footage for the video:
 
 After filming the first footage for the video, it's time to record the second footage to transition between the two.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Filming of the Second Footage
 
 To create a second shot, you have to remember that the costume and location of the filming are different from the first footage. Follow the below steps to record it:
@@ -298,11 +290,11 @@ You can playback the video by clicking on the Play button. Perform this a few mo
 
 ![playback the video](https://images.wondershare.com/filmora/article-images/2023/01/rotating-video-effect-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can also view it in full screen by selecting the last option on the tab. If there is no problem, you can export it locally or directly share it on TikTok or anywhere you want to gain views and attract an audience. You can also use it as a magic trick to inspire other people or as a transition for videos!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -354,10 +346,6 @@ Step 5Once the title is in the sequence, you will be able to make changes to it 
 For the purpose of this tutorial, we chose to use the basic title, but Adobe Premiere Rush allows you to choose from a wide range of titles and styling effects to suit your project's requirements. You also have the choice to add numerous graphics and effects to the title.
 
 You can also very easily duplicate the formatted text as many times as you need to. Just right-click on the formatted text and select “duplicate” to create a copy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternative Way to Add Text Effects to a Video
 
@@ -485,6 +473,10 @@ Filmora offers more than 200+ text effects that apply to various types of videos
 
 ![see effect in the preview window](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you like what you see, place your Playhead icon where you want the add the text and title in the timeline, and then drag and drop the track above the video.
 
 ##### Step 5Select the Duration of the Text
@@ -502,6 +494,10 @@ You also have the option to customize your text in various ways including changi
 To edit the text, double-click on the “Title” frame in the timeline, and in the window that appears, make as many changes as you want. There are more than 20 text effects to choose from. Just select one and then double-click on any style to apply it to the text.
 
 ![double click on the title](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also use the “Animation” icon if you want to change the animation of the text overlay.
 
@@ -541,6 +537,10 @@ One of the greatest advantages of choosing Adobe Rush over other video editors i
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Overview of Best LUTs for Vlog
 
 Color grading and color correction are essential tools in post-production videos and photos. Many tools can be used for this purpose, such as LUTs. LUTs, or Look Up Tables, are among the most popular color grading and correction tools. It can help to apply a specific color grade or look at your videos and photos.
@@ -549,6 +549,10 @@ However, you can choose from different LUT styles if you are a vlogger or a trav
 
 * [Best LUTs for Vlog to Use in 2024 Editing](#part2)
 * [How Has Wondershare Filmora Changed the Dynamics of LUTs in Video Editing?](#part3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How Can LUTs Help in Vlogging?
 
@@ -586,6 +590,10 @@ B&W is the best LUT for vlog that can be a great addition to your vlogging toolk
 
 ![ b&w luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. [Travel Video LUTs by Matteo Martignago](https://filtergrade.com/product/travel-video-luts-by-matteo-martignago/)
 
 If you're looking for a LUT to use in your travel vlogs, consider the Travel Video LUTs by Matteo Martignago. In this LUT pack, you'll find five different LUTs, each with its unique look and feel. Moreover, this pack has warm and cold LUTs, giving you multiple options. The warm LUTs give your videos a cozy feel, while the cold LUTs can create a sense of adventure and excitement.
@@ -593,7 +601,7 @@ If you're looking for a LUT to use in your travel vlogs, consider the Travel Vid
 ![travel video luts](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. [BRIGHT INSTA LUTS](https://iuliia.store/product/bright-insta-luts/best-luts-for-vlog-4)
@@ -601,10 +609,6 @@ If you're looking for a LUT to use in your travel vlogs, consider the Travel Vid
 Bright Insta LUTs is the suitable LUT vlog pack for you if you're a makeup or fashion vlogger. This LUT pack gives your makeup or fashion vlogs a bright and vibrant look. With 20 different LUTs, for instance, you can experiment with various color palettes and find the perfect look for your videos. These LUTs can help you achieve a bright, vibrant, and exposed feel for better fashion and makeup vlogs.
 
 ![bright insta luts](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. [Kurt Von Studios Retro Film LUTs](https://filtergrade.com/product/kurt-von-studios-retro-film-luts/)
 
@@ -668,10 +672,6 @@ If you're short on time, LUTs can help you vlog more efficiently. They save time
 
 Sometimes, capturing footage under mixed lighting conditions can be challenging. LUTs can help you to correct this and create a cohesive look for your vlog. You can even use LUTs on mobile editing apps to quickly edit your vlogs to publish them on the go.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Best LUTs for Vlog to Use in 2024 Editing
 
 Besides benefits and uses, the real part is to choose the best LUTs for vlogging. With so many LUTs vlog options, choosing a good one takes time and effort. Here are some of the best LUTs that you can use for vlogs.
@@ -681,10 +681,6 @@ Besides benefits and uses, the real part is to choose the best LUTs for vlogging
 Are you a vlogger looking for a LUT that can help enhance the colors and brightness of your videos? The Artist Found LUTs Collection is a great option. This LUT is perfect for giving your vlogs a professional look that will capture the attention of your viewers. Furthermore, you can make your videos brighter and more vibrant with this LUTs pack.
 
 ![artist found luts ](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. [B&W](https://fixthephoto.com/vlog-lut/download-4)
 
@@ -698,6 +694,10 @@ If you're looking for a LUT to use in your travel vlogs, consider the Travel Vid
 
 ![travel video luts](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. [BRIGHT INSTA LUTS](https://iuliia.store/product/bright-insta-luts/best-luts-for-vlog-4)
 
 Bright Insta LUTs is the suitable LUT vlog pack for you if you're a makeup or fashion vlogger. This LUT pack gives your makeup or fashion vlogs a bright and vibrant look. With 20 different LUTs, for instance, you can experiment with various color palettes and find the perfect look for your videos. These LUTs can help you achieve a bright, vibrant, and exposed feel for better fashion and makeup vlogs.
@@ -709,6 +709,10 @@ Bright Insta LUTs is the suitable LUT vlog pack for you if you're a makeup or fa
 Kurt Von Studios Retro Film LUTs is a great tool for outdoor vloggers who want to add a vintage feel to their videos. It creates a cinematic look with earthy tones and rusty textures that give your content an authentic vintage feel. With this LUT, you can achieve a retro-style feel, adding character to your vlogs and making them more visually appealing.
 
 ![kurt von studios film luts](https://images.wondershare.com/filmora/article-images/2023/06/best-luts-for-vlog-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. [Limit Color](https://fixthephoto.com/best-luts/download-5)
 
@@ -736,13 +740,13 @@ Apart from LUTs, you can also make color adjustments and corrections to your vlo
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Conclusion
 
@@ -753,10 +757,6 @@ To sum up, LUTs are not an option but more of becoming a necessity, especially f
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Make a Video with My Phone
 
@@ -836,17 +836,18 @@ You probably weren't aware of this, but your smartphone is actually a very capab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-collective-wisdom-on-easeus-products-for-2024/"><u>[New] Collective Wisdom on EaseUS Products for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-classic-questline-versus-the-dynamic-strategy-for-2024/"><u>[New] The Classic Questline versus the Dynamic Strategy for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-tap-out-of-tiktok-clutter-editing-guide-for-massive-drafts/"><u>[Updated] 2024 Approved Tap Out of TikTok Clutter Editing Guide for Massive Drafts</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-blender-green-screen/"><u>2024 Approved How to Use Blender Green Screen</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/harnessing-power-a-complete-ez-grabber-manual-for-2024/"><u>Harnessing Power A Complete EZ Grabber Manual for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-strobe-light-text-effect-in-2024/"><u>How to Make Strobe Light Text Effect, In 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ice-cream-capture-gadget-detailed-examination-for-2024/"><u>Ice Cream Capture Gadget Detailed Examination for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-online-changers/"><u>In 2024, Recommended Video Background Online Changers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-steps-to-add-subtitles-in-canva/"><u>In 2024, Steps to Add Subtitles in Canva</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-creating-motivational-videos-with-ai-comprehensive-guide-2024/"><u>New Creating Motivational Videos with AI Comprehensive Guide 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-transform-your-footage-the-ultimate-1080p-video-editor-for-2024/"><u>New Transform Your Footage The Ultimate 1080P Video Editor for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/stepwise-guide-to-sever-ties-in-fb-group/"><u>Stepwise Guide to Sever Ties in FB Group</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-instagrams-rising-stars-discover-the-magic-behind-their-growth-in-9-steps/"><u>[Updated] In 2024, Instagram's Rising Stars Discover the Magic Behind Their Growth in 9 Steps</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-xr-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone XR to Android | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-mp3-capture-skype-calls-no-cost/"><u>In 2024, Mastering MP3 Capture Skype Calls, No Cost</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-short-lived-vid-impression/"><u>In 2024, Short-Lived Vid Impression</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-filter-and-music-integration-in-windows-10-photos-for-2024/"><u>Mastering the Art of Filter & Music Integration in Windows 10 Photos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-use-virtual-green-screen-to-shoot-video/"><u>New 2024 Approved How To Use Virtual Green Screen to Shoot Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-in-camera-transitions-tricks-to-make-videos-like-a-pro-for-2024/"><u>Updated 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-benefits-of-live-streaming-on-youtube/"><u>Updated Benefits of Live Streaming on YouTube</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-s-most-popular-video-resume-builders-templates-and-tools-inside-for-2024/"><u>Updated S Most Popular Video Resume Builders Templates and Tools Inside for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vsco-slow-motion/"><u>VSCO Slow Motion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/f4v-mp4-wi-fi-movavi/"><u>오독으로 쉬운 F4V 이미지를 MP4로 전환하는 단거리 Wi-Fi용 가장 좋은 방법 – Movavi</u></a></li>
 </ul></div>
 

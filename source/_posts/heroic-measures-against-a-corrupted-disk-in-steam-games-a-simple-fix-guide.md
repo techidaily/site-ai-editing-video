@@ -1,7 +1,7 @@
 ---
 title: "Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide"
-date: 2024-11-24T20:29:45.030Z
-updated: 2024-11-26T16:57:57.167Z
+date: 2024-12-01T11:26:48.947Z
+updated: 2024-12-05T23:14:21.744Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
@@ -86,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -108,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
@@ -119,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -140,15 +144,7 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -161,6 +157,10 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -188,22 +188,16 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-designing-direct-access-to-your-channels-subscribe-page/"><u>[New] In 2024, Designing Direct Access to Your Channel's Subscribe Page</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-breakthrough-strategies-for-effective-fb-health-promotion/"><u>2024 Approved Breakthrough Strategies for Effective FB Health Promotion</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-kinetic-typography-text-effect-easyandfast/"><u>2024 Approved Kinetic Typography Text Effect 【EASY&FAST】</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-need-to-learn-about-halftone-effects-learn-how-to-quickly-create-a-halftone-effect-in-adobe-photoshop-with-simple-easy-to-follow-instructions./"><u>2024 Approved Need to Learn About Halftone Effects? Learn How to Quickly Create a Halftone Effect in Adobe Photoshop with Simple, Easy-to-Follow Instructions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/4-handy-house-painting-apps/"><u>4 Handy House Painting Apps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/8-most-reliable-screen-snappers/"><u>8 Most Reliable Screen Snappers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-do-velocity-edits-on-pc-for-2024/"><u>How to Do Velocity Edits on PC for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-s17-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo S17 Phones? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-huawei-nova-y71-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Huawei Nova Y71 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-use-montage-with-these-movies/"><u>In 2024, Learn to Use Montage with These Movies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-detection-of-ai-writing-with-gptzero-explained/"><u>Mastering the Detection of AI Writing with GPTZero Explained</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2-methods-to-cut-video-in-vlc-on-windows/"><u>New 2 Methods to Cut Video in VLC on Windows</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-6-ways-to-mimic-professional-filming-gears/"><u>New 6 Ways to Mimic Professional Filming Gears</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-discover-the-process-of-slowing-down-time-lapse-videos-on-your-iphone/"><u>New Discover the Process of Slowing Down Time-Lapse Videos on Your iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seize-the-deal-unmissable-black-friday-612-win10/"><u>Seize the Deal: Unmissable Black Friday - $6.12 Win10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-steps-regain-access-to-your-yahoo-account-without-hassle/"><u>Simple Steps: Regain Access to Your Yahoo Account Without Hassle</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-lumafusion-offers-various-look-up-table-presets-or-luts-such-as-filmic-delog-and-filmic-deflat-and-several-stylistic-luts-for-use-with-neutral-use-v/"><u>Updated LumaFusion Offers Various Look Up Table Presets, or LUTs, Such as FiLMiC deLog and FiLMiC DeFlat, and Several Stylistic LUTs for Use with Neutral Use Video. You Can Also Manually Add the LUTs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-zoom-breakout-rooms-for-newcomers-explored-for-2024/"><u>[Updated] Zoom Breakout Rooms for Newcomers Explored for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-11-tips-to-make-product-ad-videos/"><u>2024 Approved 11 Tips to Make Product Ad Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elite-selection-of-portable-powerful-minis-for-serious-gamers/"><u>Elite Selection of Portable, Powerful Minis for Serious Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723001881798-freezing-glitch-in-cyberpunk-2nk7-fixed-play-without-issues/"><u>Freezing Glitch in Cyberpunk 2Nk7 Fixed - Play Without Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-15-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 15 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-way-to-add-transitions-to-videos/"><u>In 2024, Easy Way to Add Transitions to Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-create-glitch-text-effect-for-2024/"><u>New Create Glitch Text Effect for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-time-lapse-to-normal-video/"><u>New In 2024, How to Convert Time-Lapse to Normal Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/perfect-your-intro-practical-tips-and-example-scripts/"><u>Perfect Your Intro Practical Tips & Example Scripts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/uncover-the-past-your-complete-guide-to-digitizing-and-preserving-old-photographs-for-2024/"><u>Uncover the Past Your Complete Guide to Digitizing & Preserving Old Photographs for 2024</u></a></li>
 </ul></div>
 

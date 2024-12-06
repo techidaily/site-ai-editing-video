@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Easy Steps to Export Video in Filmora
-date: 2024-11-21T20:30:37.029Z
-updated: 2024-11-26T19:55:27.491Z
+date: 2024-12-05T08:55:48.025Z
+updated: 2024-12-05T23:00:01.237Z
 tags: 
   - ai
   - animation videos
@@ -22,6 +22,10 @@ After you edit your video with Filmora you may wonder how to export your video i
 To open the export box, press "CTRL+E" on your keyboard. After that, you'll see many export options you can do.
 
 ![open the export box](https://images.wondershare.com/filmora/article-images/2022/12/export-video-in-filmora-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Export Video Platform**
 
@@ -114,6 +118,10 @@ If you are a fan of fiction movies, then you must have noticed that some of thei
 
 Whether it be shooting a movie or a commercial, these transitions have the power to make our content irresistible. Once you are familiar with the purpose of these after-effects, it’s time to show you how you can edit your videos using these effects.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. How to edit your videos using before/after effects?
 
 If you're new to editing and don't know much about video graphics, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) video editor is the finest platform for you. It is not only easier to use but also more entertaining than other online video editors. Filmora is a free video editor that is accessible for both Windows and macOS.
@@ -155,6 +163,10 @@ Step2 Then, drag and drop the color-corrected video clip on the second video tra
 Step3 Place the play head where we want the transformation to begin. Then trim the second clip.
 
 ![place the play](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Go to the Transitions window and select "Erase slide." Drag the transition to the start of the second video clip. Then, double-click the transition on the timeline to open the settings box.
 
@@ -212,6 +224,10 @@ The split-screen technique first appeared in the film "The Queen of Spades," whi
 
 ![split screen effect](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Since then, the split screen has been used as the simplest technique to demonstrate the before/after comparison. This effect is also ideal for emphasizing the changes in only one section of the video.
 
 Because the split screen effect does not display the whole frame of the video clips, you may eliminate the top and bottom bars of the video clips using this effect.
@@ -229,6 +245,10 @@ Step3 You'll see the split-screen template in the preview box when you double-cl
 Step4 Drag the two video clips you wish to compare to the template's left and right sides.
 
 ![drag the two video clips](https://images.wondershare.com/filmora/article-images/2022/12/editing-trick-14.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 If necessary, you may also adjust the location of the videos in the preview clip.
 
@@ -259,6 +279,10 @@ By the end of this article, you must understand how to employ the wipe effect, t
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Crop a Video in Windows Media Player
 
@@ -320,10 +344,6 @@ Here in Filmora, it is not just trimming but this tool can help you to adjust th
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-5.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-6.png)
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-7.png)
@@ -357,7 +377,7 @@ Step 5: Find and press the "In" button to trim the chosen component; The "Out" b
 Note that SolveigMM WMP Trimmer Plugin supports to edit videos including cutting or trimming, however, it doesn’t offer an option to crop video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## An alternative way to crop video on Windows by Wondershare Filmora
@@ -394,10 +414,6 @@ Here in Filmora, it is not just trimming but this tool can help you to adjust th
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5\. After cropping, if you are satisfied with your edit you can now save your project by clicking the save project icon.
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-9.png)
@@ -440,10 +456,6 @@ Here in Filmora, it is not just trimming but this tool can help you to adjust th
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Find the import media. Click it and choose your preferred video fromyour files that you want to edit. Wait a second until the video is finished importing.
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-4.png)
@@ -452,15 +464,7 @@ Here in Filmora, it is not just trimming but this tool can help you to adjust th
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-5.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![crop-video-wmp](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-wmp-7.png)
 
@@ -546,10 +550,6 @@ However, you also need to be careful in doing some edits. Before you save your p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Put a Filter on a Video in iMovie
 
 There are times when you record a video and find out that the light and color in the video have been up to the mark. The light could be too bright or too dark while there could be some color overlays in certain portion as well as the entire frame of the video. Thanks to the video editing apps, you can correct any lighting and coloration issues with different filters available to apply to your video.
@@ -566,6 +566,10 @@ Step1 Open iMovie app on your iPhone. Tap on Create Project option and tap on Mo
 
 ![new project imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/new-project-imovie-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Select the video from your iPhone that you want to edit and add filters. After your selection, tap on Create Movie option located at the bottom.
 
 ![create movie in imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/create-movie-in-imovie-iphone.jpg)
@@ -573,6 +577,10 @@ Step2 Select the video from your iPhone that you want to edit and add filters. A
 Step3 Your selected video will now be available on the Timeline where you can edit your video. Tap on Filters icon located at the bottom-right corner.
 
 ![filter timeline iphone imovie](https://images.wondershare.com/filmora/article-images/2022/07/filter-timeline-iphone-imovie.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 You will see all the different filters available on iMovie app. You can also find a slider above each selected filter. You can adjust the filter to increase or decrease the filter intensity.
 
@@ -600,6 +608,10 @@ Step3 Click on the video clip on the Timeline and click on Crop Filter and Audio
 
 ![crop filter imovie mac](https://images.wondershare.com/filmora/article-images/2022/07/crop-filter-imovie-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Click on Clip Filter option and you will see different filters in a window to the left. Place the mouse pointer over the filters, and you will see the filter in the Viewer.
 
 ![apply filters imovie mac](https://images.wondershare.com/filmora/article-images/2022/07/apply-filters-imovie-mac.jpg)
@@ -624,17 +636,9 @@ Step3 Go to Effects from the top panel and click on Filters from the left panel.
 
 ![click on filters](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Select any filter and drag and drop it on Timeline. You can stretch the duration of the filter as per your requirements.
 
 You can also check Overlay> Utility option from the left panel to add face filters to your video in the same manner. If you want to save the modified video, click on Export button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -656,10 +660,6 @@ Step4 Select any filter and drag and drop it on Timeline. You can stretch the du
 
 You can also check Overlay> Utility option from the left panel to add face filters to your video in the same manner. If you want to save the modified video, click on Export button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If you are an iPhone user or a Mac user, you can add filters to your video using iMovie app. You have to install iMovie app on your iPhone, but iMovie comes pre-installed on Mac. But there are limited filters available on iMovie and there is a lack of face filters which are trending in today’s viral videos. That is why we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) where there is a wide range of filters available to apply to your video conveniently as per your requirements.
@@ -680,14 +680,17 @@ If you are an iPhone user or a Mac user, you can add filters to your video using
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-exclusive-ig-edits-for-apple-and-android-users/"><u>[Updated] Exclusive IG Edits for Apple & Android Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-harnessing-the-power-of-mov-recording-in-windows-10/"><u>[Updated] In 2024, Harnessing the Power of MOV Recording in Windows 10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-understanding-the-price-tag-on-youtube-promo/"><u>[Updated] In 2024, Understanding the Price Tag on Youtube Promo</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensively-understanding-and-mastering-win10s-zoom-use/"><u>2024 Approved Comprehensively Understanding and Mastering Win10's Zoom Use</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-windows-movie-maker-save-mp4-file/"><u>2024 Approved How Windows Movie Maker Save MP4 File</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/blender-green-screen-effects-for-2024/"><u>Blender Green Screen Effects for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-tutorial-video-with-filmora/"><u>New How to Make Tutorial Video with Filmora</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-potential-of-leveraging-chatgpt-for-improving-text-accuracy-an-examination/"><u>The Potential of Leveraging ChatGPT for Improving Text Accuracy: An Examination</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-monetizing-your-passion-from-youtube-gamer-to-entrepreneur/"><u>[New] In 2024, Monetizing Your Passion From YouTube Gamer to Entrepreneur</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-navigating-snapchats-call-feature-in-three-steps/"><u>[New] In 2024, Navigating Snapchat's Call Feature in Three Steps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2023s-premier-movie-options-beyond-the-top-selections-for-2024/"><u>[Updated] 2023'S Premier Movie Options Beyond The Top Selections for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-growth-odyssey-of-ajey-nagar-on-youtube/"><u>[Updated] In 2024, The Growth Odyssey of Ajey Nagar on YouTube</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/44cm5asx44gp44gx44gf44ov44o844oj5pah5pu444gu5zue5b6p5rov77ya5lia5rwb44gu44og44kv44ol44od44kv44gn5pyq5p2l5rc45yqr5lplusd6k2377yb44cn/"><u>「失くしたワード文書の回復法：一流のテクニックで未来永劫保護！」</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-the-anticipated-google-pixel-smartwatch-price-release-date-specs-unveiled/"><u>All You Need to Know About the Anticipated Google Pixel Smartwatch - Price, Release Date, Specs Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-groks-purpose-through-musks-explanation-and-pricing-details/"><u>Discovering Grok's Purpose Through Musk's Explanation & Pricing Details</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-green-screens-are-a-fun-way-for-creators-to-bring-their-personality-to-their-stream-allowing-them-to-dynamically-alter-their-stream-background-and-m/"><u>In 2024, Green Screens Are a Fun Way for Creators to Bring Their Personality to Their Stream, Allowing Them to Dynamically Alter Their Stream Background and Make Their Content Appear Even More Engaging and Polished</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-tutorial-how-to-add-motion-blur-in-blender/"><u>In 2024, Tutorial How To Add Motion Blur in Blender?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/lumafusion-one-of-the-best-video-editors-for-ios/"><u>LumaFusion – One of the Best Video Editors for iOS</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-miniature-effect-in-video-with-filmora-for-2024/"><u>New How to Add Miniature Effect in Video with Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/steps-to-add-subtitles-in-canva/"><u>Steps to Add Subtitles in Canva</u></a></li>
 </ul></div>
 

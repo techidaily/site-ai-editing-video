@@ -1,7 +1,7 @@
 ---
 title: New In 2024, 6 Tips for Your First Facebook Ads
-date: 2024-11-20T18:31:05.845Z
-updated: 2024-11-26T20:52:59.502Z
+date: 2024-12-03T08:47:32.204Z
+updated: 2024-12-05T16:15:30.661Z
 tags: 
   - ai
   - animation videos
@@ -29,10 +29,6 @@ There are 11 Facebook Ads campaign objectives to choose from, and you should cho
 
 ![create new fb campaign](https://images.wondershare.com/filmora/article-images/2022/08/create-new-fb-campaign.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Awareness:
 
 * Brand awareness - Show your advertisements to individuals who are most likely to recall them.
@@ -54,6 +50,10 @@ Conversion:
 * Store traffic - This allows you to use your Facebook page as a marketing platform. If you want to run store traffic ads on Facebook, include your shop information there.
 
 Whatever the case, make sure you have a clear goal from start to finish to understand what exactly it is you are trying to accomplish for any given campaign.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part2\. Know your target audience
 
@@ -91,15 +91,15 @@ You should start by picking a relevant image that shows off your product in the 
 
 If you don't have good images available yet, don't worry! You can always hire a professional photographer who knows what kind of shots work best for advertising purposes but even if this isn't something that suits every business, there are still plenty of free resources out there too like Unsplash which offers high-quality stock photography under Creative Commons licenses under various conditions such as attribution when used commercially, so make sure whatever method you choose fits within these guidelines!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part4\. Practice Your copywriting skills
 
 You can have the best-developed ad in the world, but if it doesn't have strong copywriting, your ads won't work as well. It's important to know what you're getting into before spending time and money on Facebook ads.
 
 ![practice copywriting skills fb ads](https://images.wondershare.com/filmora/article-images/2022/08/practice-copywriting-skills-fb-ads.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The following are just some of the ways you can improve your copywriting skills:
 
@@ -137,6 +137,10 @@ If you have a large target audience, it might be worth increasing your ad budget
 It's also important to consider how often you want your ad to be shown. If you want your ad to be seen by as many people as possible, it's best to have it shown more than once. However, if you only want your ad to be shown to a select group of people, it's best to have it shown less often.
 
 Both of these factors will help you to determine your Facebook ad spend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -223,25 +227,25 @@ Step1 First, record the empty plate with just a background. Let the talent jump 
 
 ![record the empty plate](https://images.wondershare.com/filmora/article-images/2022/12/appearance_9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Now import the clip into Filmora again. Follow the steps from the second example so we have the subject appearing on the screen like this.
 
 ![import the clip into filmora again](https://images.wondershare.com/filmora/article-images/2022/12/appearance_10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Add the green screenshot onto the third video track.
 
 ![add the green screenshot onto the third video track](https://images.wondershare.com/filmora/article-images/2022/12/appearance_11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Double-click on it, activate the setting window and then key out the background using the chroma key feature.
 
 ![activate the setting window ](https://images.wondershare.com/filmora/article-images/2022/12/appearance_12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 Move the clip until it covers only the first frame of the appearing clip. Now keyframe the following subject from the outer frame to the final position.
 
@@ -344,10 +348,6 @@ Step7 Double-click the paper picture on the timeline to open the settings window
 
 ![opening compositing menu](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-07.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In the preview window, we can see that the freeze frame has the paper texture now!
 
 ![freeze frame has a paper texture](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-08.png)
@@ -393,10 +393,6 @@ Step15 You can use the keyboard shortcut **Shift + X** to cancel the selected ra
 Step16 Now you can add several Filmora transitions to finish the effect. Go to the **Transitions window** and find Evaporate 2.
 
 ![select the transition effect](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-017.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step17 Drag and drop it onto the cut between **clip 1** and **freeze frame 1** and the cut between **clip 2** and **freeze frame 2**. You can also adjust the length of the transition.
 
@@ -479,6 +475,10 @@ Step11 Now let's make the second part of the transition effect. You should drag 
 
 ![adding clip 2 to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-013.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step12 Drag and drop the paper photo onto the second video track of the timeline and make sure it starts at the beginning of the freeze frame on the first video track. And again, change the blending mode to Multiply as well.
 
 ![adding paper photo](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-014.png)
@@ -508,10 +508,6 @@ Step18 Then, find **Torned Paper Transition 4** in the **Transitions window**. D
 Finally, it's done. Let's play the video and see how the paper effect and transitions enhanced the video.
 
 ![the outcome](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-020.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -577,6 +573,10 @@ Here you will see almost more than **20 videos.** So, instead of using the actua
 
 ![add stock video in the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-4.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Who will get Stock Media?**
 
 Want to get stock media? You can only have access to the stock media library if you already buy the license of Wondershare Filmora.
@@ -589,10 +589,6 @@ Want to get stock media? You can only have access to the stock media library if 
 As we are working on miniature effects, what do we need first? First, we ensure that we have a **Blur** effect on the video.
 
 ![search for the blur effect on effect panel in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-5.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To add a blur effect from the panel, follow the below-mentioned steps:
 
@@ -613,10 +609,6 @@ After selecting and downloading the blur effect, it's time to add it to the vide
 * Then, make sure to release the effect on the video to give it a lens blur appearance.
 
 ![add effect on the video in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-6.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step5 Add the effect multiple times
 
@@ -647,6 +639,10 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 * Set the mask on video according to your style and choice.
 
 ![add mask to the video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-9.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -690,6 +686,10 @@ Now, it's time to mask the whole object, which is far, but we want to make it in
 You are excited now to see the final look of your miniature effect! Finally, it's in front of you! Just modify it more if you want to make it more precise.
 
 ![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
 
@@ -759,10 +759,6 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 
 ![add blur effect in video multiple times](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-7.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step6 Drop the same video clip
 
 * Add the same video clip 2nd time on the timeline.
@@ -802,6 +798,10 @@ For example, when we add a mask in the below time-lapse video, follow the above 
 Want to change the shape of the mask? Then follow the below steps:
 
 ![changing the mask of video on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-12.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Double-click on the video present in 2nd video track.
 * **Settings** will activate on the top left side.
@@ -848,18 +848,24 @@ Have you tried to add a miniature effect before? If yes, then share your experie
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-film-makers-guide-to-selecting-between-hero-and-cube-videos/"><u>[New] Film Maker's Guide to Selecting Between Hero and Cube Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-journey-through-podcast-land-iphoneipad-edition/"><u>[Updated] 2024 Approved Journey Through Podcast Land IPhone/iPad Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-essential-steps-for-organizing-youtube-content/"><u>2024 Approved Essential Steps for Organizing YouTube Content</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-make-eye-zoom-transition-effect-with-filmora/"><u>2024 Approved Make Eye Zoom Transition Effect with Filmora</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-5-timelapse-recording-software/"><u>2024 Approved Top 5 Timelapse Recording Software</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-shanties-to-speech-a-buccaneers-path/"><u>From Shanties to Speech: A Buccaneer’s Path</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-7-plus-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 7 Plus without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/track-to-short-video-treasure-troves-free-access-for-2024/"><u>Fast Track to Short Video Treasure Troves (Free Access) for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-looking-for-cool-ideas-to-use-green-screen-and-how-setting-up-your-green-screen-keep-reading-since-we-have-the-answer-for-you/"><u>In 2024, Are You Looking for Cool Ideas to Use Green Screen and How Setting up Your Green Screen? Keep Reading Since We Have the Answer for You</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-a-green-screen-to-zoom/"><u>In 2024, How to Add a Green Screen to Zoom</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-expression-in-after-effects/"><u>In 2024, How to Add Expression in After Effects</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-font-effect/"><u>In 2024, How to Add Font Effect</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713950879141-looking-for-the-steps-to-add-transitions-effects-in-premiere-pro-here-are-the-steps-to-add-and-edit-transitions-in-premiere-pro-and-an-alternative-way-to-vi/"><u>Looking for the Steps to Add Transitions Effects in Premiere Pro? Here Are the Steps to Add and Edit Transitions in Premiere Pro and an Alternative Way to Video Transitions for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-file-management-how-to-securely-force-delete-items-on-windows-10-and-11-with-revo-uninstaller-steps/"><u>Mastering File Management: How to Securely Force Delete Items on Windows 10 & 11 with Revo Uninstaller Steps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-merge-audio-and-video-in-vlc-media-player/"><u>In 2024, How to Merge Audio and Video in VLC Media Player</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-spotlight-solutions-the-top-17-vlog-gear-lists/"><u>In 2024, Spotlight Solutions The Top 17 Vlog Gear Lists</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-change-background-color-in-after-effects/"><u>New Change Background Color in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-motion-text-effects-for-your-video/"><u>New How to Create Motion Text Effects for Your Video?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-make-a-tattoo-disappear-like-a-magic/"><u>New In 2024, Make A Tattoo Disappear Like A Magic</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revolutionize-video-production-150plus-complimentary-pp-samples-for-2024/"><u>Revolutionize Video Production 150+ Complimentary PP Samples for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211450266-9781955413282-the-art-of-your-energy-ii/"><u>The Art of Your Energy II | Free Book</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-color-finale-for-2024/"><u>What Is Color Finale for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477377574-one-airpod-not-working-heres-how-you-can-fix-it/"><u>One AirPod Not Working? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pixel-to-passion-unlocking-new-forms-of-entertainment-with-vr/"><u>Pixel to Passion Unlocking New Forms of Entertainment with VR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-audio-addition-in-creative-cloud-suite-for-2024/"><u>Streamlining Audio Addition in Creative Cloud Suite for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ergodyne-topo-review-an-essential-guide-to-choosing-an-effective-standing-desk-pad/"><u>The Ergodyne Topo Review: An Essential Guide to Choosing an Effective Standing Desk Pad</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/user-friendly-singing-machine-sml385btbk-top-rated-multicolor-karaoke-device-for-instant-entertainment/"><u>User-Friendly Singing Machine SML385BTBK - Top Rated, Multicolor Karaoke Device for Instant Entertainment</u></a></li>
 </ul></div>
 

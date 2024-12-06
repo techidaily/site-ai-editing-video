@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects
-date: 2024-11-19T19:31:57.060Z
-updated: 2024-11-26T18:37:49.335Z
+date: 2024-11-30T23:02:05.170Z
+updated: 2024-12-06T00:23:34.101Z
 tags: 
   - ai
   - animation videos
@@ -20,10 +20,6 @@ Feathering shapes in After Effects can greatly enhance your designs' overall loo
 This guide will cover everything you need about feathering shapes in After Effects. From the basics to advanced techniques, you'll learn how to add a professional touch to your designs and take your skills to the next level.
 
 Whether you're creating a logo, animation, or visual effect, the ability to feather shapes will help you achieve the desired look and feel for your project. So, let's dive in and explore the world of feathering in After Effects!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Mask Edge Feather in After Effects?
 
@@ -47,10 +43,6 @@ Step1 Add a mask to create a feathered edge.
 
 ![after effects shape layer mask](https://images.wondershare.com/filmora/article-images/after-effects-shape-mask.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Edit the feather parameter under the mask in the composition panel.
 
 ![after effects feather parameter editing](https://images.wondershare.com/filmora/article-images/after-effects-feather.jpg)
@@ -64,6 +56,10 @@ Step1 Go to the "**Effects and Preset**" tab and search for the "**Fast Box Blur
 Step2 Increase the "**Blur Radius**" to see the edges feather.
 
 ![after effects editing the blur radius](https://images.wondershare.com/filmora/article-images/after-effects-blur-radius.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Use Variable Mask Feather in After Effects?
 
@@ -80,6 +76,10 @@ Step1 Use the pen tool to create corner points.
 Step2 Create the Mask Feather points.
 
 ![after effects creating mask feather points](https://images.wondershare.com/filmora/article-images/after-effects-mask-points.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Adjust the Feather Parameter.
 
@@ -175,13 +175,13 @@ Step2 Double-click the video in the Player Window. In the editing window, **clic
 
 ![filmora adding a shape mask](https://images.wondershare.com/filmora/guide/add-mask-to-video.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Scroll down to find the "**Blur Strength**" option, and **adjust** the blur value.
 
 ![filmora adjusting the blur strength value](https://images.wondershare.com/filmora/guide/add-keyframe-to-mask.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How To Use Variable Mask Feather in Wondershare Filmora?
 
@@ -240,6 +240,10 @@ Step3 Within the menu bar, find the “view” tab and open it.
 
 ![find and open view tab in quicktime](https://images.wondershare.com/filmora/article-images/2023/02/turn-on-subtitles-in-quicktime-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Now, you need to find the subtitles option.
 
 ![find and access subtitles option in quicktime](https://images.wondershare.com/filmora/article-images/2023/02/turn-on-subtitles-in-quicktime-3.png)
@@ -274,6 +278,10 @@ Step7 Paste the subtitles that you have copied earlier and click the “Save” 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** _While adding the subtitles, make sure the video is set at its very beginning. This will help to ensure that the subtitles are synchronized properly with the video._
 
 ## Method 3: Watch Subtitles in QuickTime Player with iPad Screen Extension
@@ -306,10 +314,6 @@ Step5 You can change the display settings for the iPad from **Apple Menu > Syste
 
 ![change display settings for connected screens](https://images.wondershare.com/filmora/article-images/2023/02/watch-subtitles-in-quicktime-with-an-ipad-screen-extension-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 You can now use your iPad to display the subtitles of a video.
 
 ## Bonus Tips: How to Edit and Add Subtitles to Videos Easily
@@ -349,10 +353,6 @@ Step9 You can add text, modify text style, and add animations.
 Step10 Click the “Ok” button to save the subtitles.
 
 Step11 You can repeat the same process for adding subtitles to different sections of the video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -400,10 +400,6 @@ As you already know, the subtitles available for a video may have errors and/or 
 
 Filmora is an advanced and feature-rich video editing software developed by Wondershare. It is an exceptionally popular choice among creators for editing and giving a professional touch to raw videos. The software comes loaded with several features to help you style your videos and make them more engaging. With Filmora, you get access to features like green screen, split screen, motion tracking, and HDR support. You can also add subtitles to videos through SRT files or add custom subtitles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### A Step-by-Step Guide for Adding Subtitles to a Video Using Filmora
 
 Following are the key steps to add custom subtitles to videos with Wondershare Filmora:
@@ -425,6 +421,10 @@ Step7 Now, click the “Titles” option present at the top of the Filmora inter
 Step8 Choose a subtitle template and add it to the video timeline.
 
 ![add subtitles to a video in the filmora app](https://images.wondershare.com/filmora/article-images/2023/02/add-subtitles-to-a-video-using-filmora-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step9 You can add text, modify text style, and add animations.
 
@@ -454,19 +454,11 @@ After you have imported your material into the After Effects project, you should
 
 ![import green screen video footage ae](https://images.wondershare.com/filmora/article-images/2022/11/import-green-screen-video-footage-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Remove the green color
 
 After Effects users can get rid of a green screen by going to the "Animation Presets" window, searching for the "Keylight" preset, dragging, and dropping it over the clip, and then shifting their focus to the "Effects Controls" window. Make sure the Screen Colour is set to the color of your screen's background (which, in this case, is green). You may do this with the color selector.
 
 ![remove green color from video in ae](https://images.wondershare.com/filmora/article-images/2022/11/remove-green-color-from-video-in-ae.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Clean up the shot
 
@@ -477,10 +469,6 @@ Because everything that is not transparent is turned white by Combined Matte, an
 ![clean up green screen shot ae](https://images.wondershare.com/filmora/article-images/2022/11/clean-up-green-screen-shot-ae.jpg)
 
 You can go to the "Screen Matte" area if you feel like the frame still needs more tweaking after you've applied the previous ones. You can accomplish that with the assistance of Clip Black and Clip White. Feel free to turn the Clip Black dial all the way to the right and turn the Clip White dial to the left. You can also adjust the other settings, if necessary, but based on my observations, everything should be working properly at this point.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -534,10 +522,6 @@ Applying LUT doesn't take time, and it instantly improves color grading. This wa
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Add LUTs in Premiere Pro?
 
 LUTs are great video editing tools with extended color grading and schemas. Premiere Pro is a commonly consumed video editing tool with extensive features. Being a new user, you might not be aware of the functionality of LUTs in the platform. To add LUTs to Premiere Pro, you need to follow simple steps:
@@ -578,6 +562,10 @@ LUTs are great utility when it comes to video editing environments. Apart from P
 There are approximately [100+ LUTs](https://tools.techidaily.com/wondershare/filmora/download/) presets in the current version of Filmora. Users can use them to enlighten the colors of videos. Meanwhile, in the new version, there would be additional 100 LUTs. So, in total, you will be getting 200+ LUTs in the new updates provided by Wondershare Filmora. Each LUT is unique in its kind and style.
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-cinematic-luts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Filmora
 
@@ -614,9 +602,17 @@ LUTs are great video editing tools with extended color grading and schemas. Prem
 
 ![open color workspace](https://images.wondershare.com/filmora/article-images/2023/open-color-workspace.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** From the project window on the bottom left, press the "New Item" tab and choose "Adjustment Layer." Adjust video settings from the available panel, including the "Width," "Height," "Timebase," and "Pixel Aspect Ratio," and click "OK."
 
 ![add adjustment layer](https://images.wondershare.com/filmora/article-images/2023/add-adjustment-layer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Drag and drop the created adjustment layer from the project window into the timeline and set the length adjacent to the video. Select the adjustment layer, and press "Lumetri Color" from the top in the right-hand panel. From the "Basic Correction" category, set "Input LUT" and proceed to click the "Browse" option from the drop-down menu. Navigate your LUT from the folder and click "Open" to apply desired LUT to the video.
 
@@ -664,6 +660,10 @@ Videos are close to all of us, as they store our important visual data. This is 
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <ins class="adsbygoogle"
@@ -682,18 +682,18 @@ Videos are close to all of us, as they store our important visual data. This is 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-leading-8-open-source-video-chat-solutions-for-businesses/"><u>[New] 2024 Approved Leading 8 Open Source Video Chat Solutions for Businesses</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-picturesegment-appraisal/"><u>[New] 2024 Approved PictureSegment Appraisal</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95758874-9781501156373-conversations-with-mary/"><u>Conversations with Mary | Free Book</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-green-screens-are-a-fun-way-for-creators-to-bring-their-personality-to-their-stream-allowing-them-to-dynamically-alter-their-stream-background-and-m/"><u>In 2024, Green Screens Are a Fun Way for Creators to Bring Their Personality to Their Stream, Allowing Them to Dynamically Alter Their Stream Background and Make Their Content Appear Even More Engaging and Polished</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-snappy-film-maker/"><u>In 2024, Snappy Film Maker</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v29e-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V29e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-motion-tracking-in-video-editing/"><u>In 2024, How to Use Motion Tracking in Video Editing</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-tutorial-how-to-add-motion-blur-in-blender/"><u>In 2024, Tutorial How To Add Motion Blur in Blender?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/lumafusion-one-of-the-best-video-editors-for-ios/"><u>LumaFusion – One of the Best Video Editors for iOS</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-miniature-effect-in-video-with-filmora-for-2024/"><u>New How to Add Miniature Effect in Video with Filmora for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-turtle-beach-headset-microphone-malfunction-step-by-step-solutions/"><u>Solving the Turtle Beach Headset Microphone Malfunction: Step by Step Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-wit-within-walls-a-guide-to-crafting-metaverse-jokes/"><u>In 2024, Unleashing Wit Within Walls – A Guide to Crafting Metaverse Jokes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-dvd-production-modern-techniques-for-mac-users/"><u>Innovative DVD Production Modern Techniques for Mac Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-apply-video-filters-mobile-and-desktop-for-2024/"><u>New How to Apply Video Filters Mobile and Desktop for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/pioneering-methods-to-develop-a-memorable-youtube-introduction/"><u>Pioneering Methods to Develop a Memorable YouTube Introduction</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-shutting-down-vpn-services-on-different-tech-devices-insights-by-zdnet/"><u>Step-by-Step Instructions for Shutting Down VPN Services on Different Tech Devices | Insights by ZDNet</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/steps-to-add-subtitles-in-canva/"><u>Steps to Add Subtitles in Canva</u></a></li>
+<li><a href="https://win-web.techidaily.com/unseen-kingston-ssds-understanding-and-resolving-non-detection-problems-in-windows/"><u>Unseen Kingston SSDs? Understanding and Resolving Non-Detection Problems in Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-achieve-gopro-slow-motion-with-quality/"><u>Updated 2024 Approved How to Achieve GoPro Slow Motion With Quality</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-top-5-best-mp4-video-editors-totally-free/"><u>Updated 2024 Approved Top 5 Best MP4 Video Editors Totally Free</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-11-tools-to-create-radial-blur-photo-mobile-and-desktop/"><u>Updated In 2024, 11 Tools To Create Radial Blur Photo Mobile And Desktop</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-remove-tiktok-logos-with-ease-best-online-watermark-removers/"><u>Updated In 2024, Remove TikTok Logos with Ease Best Online Watermark Removers</u></a></li>
 </ul></div>
 

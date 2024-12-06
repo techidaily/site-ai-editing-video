@@ -1,7 +1,7 @@
 ---
 title: New How to Apply Video Filters Mobile and Desktop for 2024
-date: 2024-11-20T21:01:12.862Z
-updated: 2024-11-26T20:13:24.790Z
+date: 2024-11-28T23:03:13.026Z
+updated: 2024-12-05T21:02:25.128Z
 tags: 
   - ai
   - animation videos
@@ -22,7 +22,7 @@ In the digital age, video editing has become an increasingly popular way for peo
 Applying video filters on mobile devices is a simple process that can significantly enhance the overall look of your videos.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Step1: Download Filmora in the app store**
@@ -46,10 +46,6 @@ To apply video filters on your desktop, you can follow these steps using the sof
 [Create AI Filter](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Create AI Filter](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Step 1: Download Filmora**
 
@@ -161,10 +157,6 @@ Step2You can zoom in or out on Mac by placing two fingers on the touchpad and mo
 
 Step3Another option is to simply zoom in and out by double-tapping the touchpad with two fingers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Way 3: Use Scroll Gesture
 
 If you'd like to use your mouse, you may utilize the screen zoom option, which enlarges everything on your screen rather than just the app window you're now viewing. This would need holding down one of the designated modifier keys while scrolling in order to zoom in on a Mac. Just like on an iPhone or iPad, you can zoom in and out by pinching and un-pinching. The smart zoom motion, on the other hand, is executed by double-tapping with two fingers. This immediately zooms into or immediately zooms out of a web page or pdf.
@@ -193,6 +185,10 @@ Step2Additional customization options are available in the Options menu, includi
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/customize-text-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 5: Enable Touch Bar
 
 This substitute is only accessible on Macs equipped with Touch Bars. A handy feature is the Touch Bar. The Touch Bar is a feature on every current MacBook Pro model, including the 13-inch and 16-inch versions. On the Touch Bar, there is a mix of App Controls and a Control Strip. To use with your compatible MacBook Pro, the Touch Bar has additional features. Although it is helpful right out of the box, some customization may be required for your advantage. Fortunately, Apple makes modifications rather straightforward. You may change your default by following the instructions below.
@@ -206,14 +202,6 @@ Step2Click the Apple symbol in the upper left corner of your screen and choose "
 Step3Select "Keyboard" > "Keyboard" and then select "Touch Bar shows" under the Touch Bar settings. Then choose an option from the menu, which also includes the larger Control Strip and app buttons.
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/enable-touch-bar-on-mac.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -283,6 +271,10 @@ Step2Additional customization options are available in the Options menu, includi
 
 This substitute is only accessible on Macs equipped with Touch Bars. A handy feature is the Touch Bar. The Touch Bar is a feature on every current MacBook Pro model, including the 13-inch and 16-inch versions. On the Touch Bar, there is a mix of App Controls and a Control Strip. To use with your compatible MacBook Pro, the Touch Bar has additional features. Although it is helpful right out of the box, some customization may be required for your advantage. Fortunately, Apple makes modifications rather straightforward. You may change your default by following the instructions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Enable Touch Bar on MacBook
 
 Step1The Touch Bar at the bottom of your display will grow and become easier to view if you choose the "Enable Touch Bar zoom" option. Now all you have to do is touch and hold the Touch Bar to test it out.
@@ -347,10 +339,6 @@ Afterward, you should click on the playhead and move it a little ahead by a few 
 
 ![tap the lock track icon](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-4.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Unlock the layers
 
 Repeat this step for a few more layers, like dragging the snapshot image to the timeline > moving the playhead by some frames > Snapshot > Lock Track. Then, after you are done with the number of stages possible with your video clip, unlock all of the locked track layers sequentially from top to bottom.
@@ -370,7 +358,7 @@ After completing all the editing steps, you should select the Export button at t
 ![press the export button](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-6.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After that, however, import the edited file to Filmora from your device again.
@@ -390,6 +378,10 @@ After this, right-click on the top of the remaining video clip on your timeline.
 After that, right-click on the second copied clip and choose the Speed option > Click on Reverse. After that, play the Preview to see how the effect appears in your video. Finally, export the video from Filmora.
 
 ![play the preview](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-8.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -407,6 +399,10 @@ Next, your main step is to add the video you will edit into the Filmora software
 
 ![insert the video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-2.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Still, it would help if you tapped the play button on the screen to see a Preview of the video clip to check its stability and quality. Also, ensure that your main subject is darker than the backdrop in the video clip.
 
 ## Adjust the playhead location
@@ -422,6 +418,10 @@ After the previously mentioned step, you should drag the snapshot you just captu
 Afterward, you should click on the playhead and move it a little ahead by a few frames. Again, tap the "Lock Track" icon beside the image file to keep it in place. Following that, take another snapshot of the image via the Snapshot icon.
 
 ![tap the lock track icon](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-4.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Unlock the layers
 
@@ -451,10 +451,6 @@ Then, drag the playhead on the clip to the frame at which the third freeze frame
 
 ![drag the playhead and split](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-7.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create the freeze frame to reverse the speed effect
 
 After this, right-click on the top of the remaining video clip on your timeline. From the drop-down menu that appears, tap on the Copy option. Then, paste the second half beside the first half on the same layer.
@@ -462,10 +458,6 @@ After this, right-click on the top of the remaining video clip on your timeline.
 After that, right-click on the second copied clip and choose the Speed option > Click on Reverse. After that, play the Preview to see how the effect appears in your video. Finally, export the video from Filmora.
 
 ![play the preview](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-freeze-frame-squence-effect-8.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -488,6 +480,10 @@ If you also want to experiment with this video aspect, then you're at the right 
 [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: A Complete Overview of Adobe After Effects
 
@@ -599,7 +595,7 @@ Filmora offers multiple mask options to infuse effects and filters to specific p
 Thumbnails increase video views by evoking the audience's interest in seeing a video. In Filmora, you can employ the AI Thumbnail creator to auto-create thumbnails. It analyzes the best frame out of your video and chooses it as a thumbnail. You can further apply many templates to this thumbnail according to context.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -694,6 +690,10 @@ After importing media and bringing it to the timeline panel, select it. Then, na
 Continue to select a specific preset for speed ramping. As you select one, locate and expand the “AI Frame Interpolation” section. From the appearing option, select the “Optical Flow” option.
 
 ![set preset and change frame interpolation](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3Render Preview for Results
 
@@ -743,22 +743,17 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-engagement-interpreting-youtube-video-data-for-2024/"><u>[New] Boosting Engagement Interpreting YouTube Video Data for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensive-slomo-app-evaluation-future-prospects/"><u>[New] Comprehensive SloMo App Evaluation - Future Prospects</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-detailed-guide-instastickers-your-pathway-to-musical-posting/"><u>[Updated] Detailed Guide InstaStickers – Your Pathway to Musical Posting</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-profile-pictorialism-designing-your-exaggerated-visage/"><u>2024 Approved Profile Pictorialism Designing Your Exaggerated Visage</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easy-guide-to-zoom-video-in-vlc/"><u>Easy Guide to Zoom Video in VLC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-bokeh-effect-for-2024/"><u>How to Make a Bokeh Effect for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-the-ultimate-guide-to-make-a-text-collage/"><u>In 2024, The Ultimate Guide to Make a Text Collage</u></a></li>
-<li><a href="https://fox-info.techidaily.com/mastering-audio-best-practices-for-ipodcasting-interviews-on-ios-devices/"><u>Mastering Audio Best Practices for iPodcasting Interviews on iOS Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-uncovering-methods-for-preserving-social-media-moments-status-videos/"><u>[New] 2024 Approved Uncovering Methods for Preserving Social Media Moments - Status Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-select-8-dynamic-backgrounds-for-your-mbp/"><u>2024 Approved Select 8 Dynamic Backgrounds for Your MBP</u></a></li>
+<li><a href="https://win-lab.techidaily.com/complete-guide-to-defeating-trojans-the-5-most-powerful-removal-solutions-of-2er-years/"><u>Complete Guide to Defeating Trojans: The 5 Most Powerful Removal Solutions of 2Er Years</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-sony-xperia-5-v-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Sony Xperia 5 V</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/full-spectrum-data-salvage-system-next-level-technical-assistance-for-complete-data-recovery/"><u>Full-Spectrum Data Salvage System: Next-Level Technical Assistance for Complete Data Recovery</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-av1-decoded-for-starters/"><u>In 2024, AV1 Decoded for Starters</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-facebook-live-vs-youtube-live-vs-twitter-periscope/"><u>In 2024, Facebook Live Vs YouTube Live Vs Twitter Periscope</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-create-chroma-key-written-text-effects-in-filmora/"><u>New Create Chroma Key Written Text Effects in Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/professional-grau-gmbh-hardware-and-software-fixes-for-seamless-video-recovery/"><u>Professional Grau GmbH Hardware & Software Fixes for Seamless Video Recovery</u></a></li>
-<li><a href="https://fox-where.techidaily.com/proven-strategies-to-fix-iphone-14-pro-data-transfer-problems/"><u>Proven Strategies to Fix iPhone 14 Pro Data Transfer Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719276426207-saving-the-day-with-win1011s-recycle-bin-corruption-fixed/"><u>Saving the Day with Win10/11's Recycle Bin Corruption Fixed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-complete-guide-to-essential-uav-upgrades-and-parts-for-2024/"><u>The Complete Guide to Essential UAV Upgrades & Parts for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210100745-9781646542819-unbreakable/"><u>Unbreakable | Free Book</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-easy-way-to-create-a-diy-green-screen-video-effect/"><u>Updated Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
 </ul></div>
 

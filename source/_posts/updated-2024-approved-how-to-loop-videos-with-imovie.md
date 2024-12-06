@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Loop Videos with iMovie
-date: 2024-11-19T18:51:58.368Z
-updated: 2024-11-26T16:43:52.888Z
+date: 2024-12-05T07:40:48.529Z
+updated: 2024-12-05T16:38:40.679Z
 tags: 
   - ai
   - animation videos
@@ -36,10 +36,6 @@ Step3 Tap on New Project “+” icon and select the Movie option to get started
 Step4 You should tap on the Video option and select the video that you want to put into a loop. After selecting a video, tap on Create Movie option.
 
 ![tap create movie imovie](https://images.wondershare.com/filmora/article-images/2022/11/tap-create-movie-imovie.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 Tap on the video on the timeline to select the video and tap on the Duplicate option. You will see that the duration of the video has doubled. You can tap on Duplicate as many times as you want to increase the video duration.
 
@@ -117,10 +113,6 @@ Step3 Drag and drop the video clip into the timeline again. Make sure that there
 
 ![drag and drop video clip into timeline again](https://images.wondershare.com/filmora/guide/cut-video-mac-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 You can zoom out the timeline for better viewing. Play the video to check its output on Viewer. Finally, click on the Export button and save the video in the desired file format on your Mac.
 
 ## The Bottom Line
@@ -175,7 +167,7 @@ You can select a virtual background before beginning a meeting or during an ongo
 * Click on Join Now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### During a video conference
@@ -199,7 +191,7 @@ You can select a virtual background before beginning a meeting or during an ongo
 * Click on Join Now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Filmora
@@ -243,6 +235,10 @@ Record voice-over:
 Choose "Record a voiceover" under the Record menu. It would be better to connect a microphone to your Mac for a better result. Hit the Record button, and it leaves you 3 seconds to get ready.
 
 All the recorded media files will be saved into Media Library automatically and you can drag them to the Timeline for editing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -464,10 +460,6 @@ Hollywood films and series use this software to streamline the show. Overall, it
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Finding the Best Resolution for DaVinci Resolve Slow Playback Issue
 
 As Highlighted, DaVinci Resolve is a good video editor for all kinds of use cases. Although it's a powerful tool, it still shows some errors like choppy and slow playback. Modern problems require modern solutions. Thus, read the given fixes to make **DaVinci Resolve faster playback.** All the methods are easy and helpful for a smooth playback experience on Windows and macOS.
@@ -484,10 +476,6 @@ As Highlighted, DaVinci Resolve is a good video editor for all kinds of use case
 In DaVinci Resolve, full timeline proxy resolution is set by default. To enjoy a smooth playback while editing, you should reduce the playback resolution. Open your project in DaVinci Resolve and press the "Playback" menu from the top. Then, select "Timeline Proxy Resolution" and pick one either "Half" or "Quarter" options. It will reduce the playback resolution and speed up the playback.
 
 ![lower playback resolution slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Change Timeline Resolution
 
@@ -510,10 +498,6 @@ Every change you make gets saved with the Live Save option in DaVinci Resolve. I
 Look for the “User Preference” menu and click on the top left side button of DaVinci Resolve. Go to the “Preferences” under the user tab. From the “Project Save and load,” check the “Disable Live Save” option. Now, you should remember to manually save your projects after editing.
 
 ![disable live save feature slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 5: Use Proxy Media Files
 
@@ -607,6 +591,10 @@ It’s another solution to fix the **DaVinci resolve slow playback**. Render cac
 
 ![enable render cache slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 4: Disable the Live Save Feature
 
 Every change you make gets saved with the Live Save option in DaVinci Resolve. If your remote drive is linked, this feature can drag the playback speed down. You can disable it for a **DaVinci resolve faster playback**.
@@ -620,6 +608,10 @@ Look for the “User Preference” menu and click on the top left side button of
 Another solution is to use proxy media during the project editing. Proxy files are small copy files transcoded from a larger, original video file. Get the proxy file to increase the playback and go to your "Media Pool" in DaVinci Resolve. Right-click on the intended file and choose "Generate Proxy Media" from the list.
 
 ![use proxy files slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 6: Disable Color Grades
 
@@ -635,6 +627,10 @@ After resolving the **DaVinci Resolve slow playback**, let's continue further ed
 * **Shutter Speed:** Minimize the motion blur in footage and use a faster shutter speed. It is important when you are shooting fast-moving objects. Adjusting the shutter speed can enhance the look of slow-motion videos.
 * **Resolution:** A good slow motion is only possible when it is captured in high-quality resolution. Better image quality allows more detail in such footage. Moreover, you can optimize the camera settings for the desired resolution.
 * **Editing and Timing:** Thoughtfully chosen clips, timings, and editing can set the stage. Thus, maintain a cohesive flow and pay more attention to the video pacing. Edit all segments in a way that fits seamlessly to contribute a good slow-motion video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Making Slow Playback Issues Go Away with Perfect Alternative: Wondershare Filmora
 
@@ -655,6 +651,10 @@ Users can use its [AI Copilot Editing](https://tools.techidaily.com/wondershare/
 Launch Filmora’s latest version in your system. Open it and choose the “New Project” option from its main interface. After getting into the editing screen, press the “Ctrl + I” keys to bring the media to Filmora. Drag and drop the file in the timeline section to start editing.
 
 ![add video to filmora](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 2Explore the Speed Option and Use Optical Flow Feature
 
@@ -692,10 +692,6 @@ In this particular article, we will discuss **how to get motion blur in the Valo
 
 ![what is valorant game](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-valorant-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 With the help of this agent armed, you can easily strategize the gameplay to increase the chances of winning. There are different options for agents, such as Yoru, Skye, Raze, Breach, etc. This game also involves various maps that act like playgrounds. On these playgrounds, you can flaunt your gaming skills, creativity, and intellectual thinking.
 
 It's a 5 v.s. 5 multiplayer game in which one team is the attacker, and the other is the defender. The main aim of the attacking team is to plant a bomb called "Spike" against the other team. At the same time, the defenders strategize against the attackers to avoid and defuse the planted bomb. Valorant is a PC-based game and has some specific requirements. For your convenience, we have jotted down the essential requirements below:
@@ -728,6 +724,10 @@ In Valorant, you cannot add motion blur directly. Thus, to create **motion blur 
 Step1 Before recording your gameplay, open your recorder and head to its settings. From there, go to the “Output” section and change the video format to MP4\. Once done, make sure to select “NIVIDIA” as your encoder. Moreover, choose “CQP” as your rate control and set 20 as the value of the CQ level.
 
 ![set the output settings](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-valorant-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 On the same window, select your preset as “Max Performance” and profile as "High." Now go to the "Video" tab and select the value of base resolution and output resolution as “1920x1080”. Choose the numerator as 300 and the denominator as 1\. Make sure that the minimum value of the numerator should not less than 180.
 
@@ -783,7 +783,7 @@ After you have applied the blur effect, go to “Transitions” and search for t
 ![export the edited video](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-valorant-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -793,6 +793,10 @@ This article has shed light on **how to get a motion blur in Valorant** by modif
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 Filmora provides different presets that you can use to create your video from scratch. You can also search for different types of effects and transitions on Filmora that can change the outlook of your video. Furthermore, you can also auto-reframe your video clips on Filmora to resize them automatically with great precision. Here are some of the key features of Filmora that can help you to perform professional video editing:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Filmora
 
@@ -816,10 +820,6 @@ Once you have launched the main interface of Filmora, hit the “New Project” 
 Now drag and drop the uploaded video on the timeline of this tool. Once done, move the play head to the place where you want to add the motion blur effect. Now click on the “Scissors” icon to split the Valorant gameplay video.
 
 ![split the added clip](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-valorant-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step3 Search for the Blur Effect
 
@@ -853,16 +853,24 @@ This article has shed light on **how to get a motion blur in Valorant** by modif
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-innovative-use-of-plugins-for-skype-call-capture-in-obs/"><u>[New] Innovative Use of Plugins for Skype Call Capture in OBS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-complete-guide-to-crafting-perfect-instagram-stories/"><u>[Updated] In 2024, The Complete Guide to Crafting Perfect Instagram Stories</u></a></li>
-<li><a href="https://article-posts.techidaily.com/high-fidelity-on-the-big-screen-the-4k-monitor-tale-of-lgs-31mu97-b/"><u>High Fidelity on the Big Screen The 4K Monitor Tale of LG's 31MU97-B</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-overflow-to-organization-editing-giant-tiktok-files-with-precision/"><u>[New] From Overflow to Organization Editing Giant TikTok Files with Precision</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-checklist-streamlining-and-maximizing-screencast-quality-with-mobizen/"><u>[New] Ultimate Checklist Streamlining and Maximizing Screencast Quality with Mobizen</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1-top-newest-and-premium-free-song-videos-of-2024-download-now/"><u>1. Top Newest & Premium-Free Song Videos of 2024: Download Now!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-nef-format-transformation-using-movavis-free-web-service/"><u>Effortless NEF Format Transformation Using Movavi's Free Web Service</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/if-you-want-to-make-an-intro-video-then-adobe-after-effects-will-be-a-great-choice-this-article-will-show-the-steps-to-create-an-intro-video-with-after-effe/"><u>If You Want to Make an Intro Video, Then Adobe After Effects Will Be a Great Choice. This Article Will Show the Steps to Create an Intro Video with After Effects by Your Own</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-most-recent-geforce-rtx-2070-graphics-drivers-on-windows-pcs/"><u>Install the Most Recent Geforce RTX 2070 Graphics Drivers on Windows PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-asus-rog-phone-7-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Asus ROG Phone 7 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-capturing-perfection-an-overview-of-the-5-best-cams/"><u>In 2024, Capturing Perfection An Overview of the 5 Best Cams</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c12-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C12 Pro Device</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-vintage-film-effect-1950s/"><u>New How to Create Vintage Film Effect 1950S</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-the-premiere-pro-video-templates-help-make-original-content-of-broadcast-quality-the-article-introduces-10-free-premiere-pro-templates-that-are-sure-to-/"><u>New The Premiere Pro Video Templates Help Make Original Content of Broadcast Quality. The Article Introduces 10 Free Premiere Pro Templates that Are Sure to Make Your Life Easy</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transforming-mundane-interviews-into-memorable-experienrances/"><u>Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://games-able.techidaily.com/terminal-play-navigating-old-school-gaming-worlds/"><u>Terminal Play: Navigating Old-School Gaming Worlds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-excitement-dive-into-the-details-of-samsungs-new-smartphone-line-up/"><u>Unveiling Excitement: Dive Into the Details of Samsung's New Smartphone Line-Up</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>Updated Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/visionary-artists-top-5-innovative-photographers-plus-videographers-w-music/"><u>Visionary Artists Top 5 Innovative Photographers + Videographers W/ Music</u></a></li>
 </ul></div>
 

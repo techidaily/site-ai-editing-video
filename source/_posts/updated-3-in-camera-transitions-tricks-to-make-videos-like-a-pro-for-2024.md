@@ -1,7 +1,7 @@
 ---
 title: Updated 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024
-date: 2024-11-21T18:27:42.612Z
-updated: 2024-11-26T19:07:13.359Z
+date: 2024-12-03T16:07:27.671Z
+updated: 2024-12-06T09:21:30.290Z
 tags: 
   - ai
   - animation videos
@@ -61,6 +61,10 @@ One important thing is to match the color and brightness of the object or subjec
 
 ![fill the frame](https://images.wondershare.com/filmora/article-images/2023/04/fill-the-frame.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Match Cut
 
 In a video, a match cut transitions from one shot to another. During this, the composition of the two shots is matched by action, subject, and subject matter. The goal is to make a visual match between two situations that don't have a direct link. Here are the steps to creating a match-cut transition in your videos.
@@ -75,10 +79,6 @@ In a video, a match cut transitions from one shot to another. During this, the c
 This way, you can smoothly transition from one place or scene to another. There is a video attached below for a better understanding of the steps.
 
 ![match cut](https://images.wondershare.com/filmora/article-images/2023/04/match-cut.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -111,10 +111,6 @@ This way, you can smoothly transition from one place or scene to another. There 
 
 ![match cut](https://images.wondershare.com/filmora/article-images/2023/04/match-cut.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final Words
 
 You can use these techniques to create sublime in-camera transitions. Make sure to follow all the steps in the correct order. These transitions will make your videos look more creative and artistic. Plan your ideas, add these transitions to your videos, and create cool videos at home to post on social media.
@@ -137,10 +133,6 @@ If you find this article informative, remember to share it with your friends. Wh
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Want to Add Freeze Frame Effect to Your Video on Your Device? Here Are the Steps to Add Freeze Frame on PC, Mac, Smartphone as Well as Online From Any Device
 
@@ -190,6 +182,10 @@ Step1Open web browser on your device and visit “kapwing.com/tools/freeze-frame
 
 ![kapwing freeze frame online](https://images.wondershare.com/filmora/article-images/2022/08/kapwing-freeze-frame-online.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2Drop your video file into Timeline and click on the video clip. Move the Playhead to the point where you want to add freeze frame effect.
 
 ![add freeze frame kapwing](https://images.wondershare.com/filmora/article-images/2022/08/add-freeze-frame-kapwing.jpg)
@@ -202,6 +198,10 @@ Step4Play the video and you can have multiple freeze frame effects in the video 
 
 This is undoubtedly the easiest way to add freeze frame effects for beginners.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. How to Add Freeze Frame Video Effects on Mobile
 
 If you are using an Android smartphone or iPhone, you can apply freeze frame effect directly on your mobile instantly. In today's world, people capture videos through their smartphones thanks to high-quality phone camera. You can use CapCut video editor app on both Android and iOS devices to add freeze frame effects. Here are the steps you need to follow.
@@ -209,6 +209,10 @@ If you are using an Android smartphone or iPhone, you can apply freeze frame eff
 Step1Install CapCut app on your phone. Launch the app and tap on New Project.
 
 ![add new project capcut](https://images.wondershare.com/filmora/article-images/2022/08/add-new-project-capcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2Go to Albums and select the video to which you want to add the frame freeze effect.
 
@@ -240,13 +244,13 @@ Adding freeze frame to your videos before and during impactful moments can enhan
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Make Coin Magic With Filmora
 
 Do you want to become a magician in your videos? Now, everyone can look like a magician with the magic of editing. This article will show you how to do a cool coin trick in [Filmora 11](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is the filmmaking technique "Cutting on action"
 
@@ -263,6 +267,10 @@ Cutting on action is a technique the editors use to cut in the middle of an acti
 1. Set the phone on a tripod. Because utilizing a tripod can significantly improve the recording's stability.
 
 ![set the phone on a tripod](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Start Filming
 
@@ -296,10 +304,6 @@ Step3 Then move the playhead to the right and find the spot where your friend dr
 
 ![move the playhead to the right](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Now you need to delete the middle part and play it back. Indeed, cutting on action is the key to creating the illusion that the action is continued without editing.
 
 ![delete the middle part](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-11.jpg)
@@ -320,6 +324,10 @@ Step8 With the mask finalized, unhide the first video track and adjust the lengt
 
 ![adjust the length of the clip](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Summary
 
 That's how to make a coin move through a glass-like MAGIC with the cutting on action editing technique. You can pay close attention to the steps above and follow each step for perfect results.
@@ -335,10 +343,6 @@ That's how to make a coin move through a glass-like MAGIC with the cutting on ac
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do You Want to Know How to Import or Adjust Clips in Wondershare Filmora? Don't Worry because Importing or Adjusting Video Clips in This Tool Is Pretty Easy
 
@@ -359,10 +363,6 @@ You can make **YouTube video clips** or clips for other platforms by integrating
 ### 1\. Establish a Clear Narrative
 
 You can determine the purpose and message of your video. It doesn't matter whether it's a story, tutorial, promotional content, or documentary. However, having a clear narrative or message will guide your clip selection and arrangement.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Plan the Storyboard or Structure
 
@@ -459,6 +459,10 @@ You can use shortcut keys by launching the tool and pressing "Ctrl + I." A new w
 To import a media folder, go to the Media Import section and click the "Import" drop-down menu. Then, select "Import a Media Folder" and choose the media you want to import.
 
 ![add a media folder](https://images.wondershare.com/filmora/article-images/2023/import-and-adjust-video-clips-in-filmora-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 7Import from a Device
 
@@ -520,15 +524,7 @@ Video editing might not be as easy as you think. It is a skill that requires tim
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can make **YouTube video clips** or clips for other platforms by integrating video clips. If you want to know how combining clips can help you, this portion will help you. In this part, you will learn a few tips on making a perfect video by integrating videos.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Establish a Clear Narrative
 
@@ -588,10 +584,6 @@ However, this tool has a lot to offer, including its new AI-powered features and
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Learning Different Ways of Importing Video Clips in Filmora
 
 If you're searching for ways to import videos in Wondershare Filmora, you're in luck. This portion is going to discuss different ways to import long and **short video clips** in the tool.
@@ -615,6 +607,10 @@ In the new window, select "Click here to import media" and choose the files you 
 Alternatively, drag and drop your media files into the Media Import section. In this way, you can choose your media using dragging and dropping.
 
 ![drag and drop to import](https://images.wondershare.com/filmora/article-images/2023/import-and-adjust-video-clips-in-filmora-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 4Import Your Media Files from Drop-Down Menu
 
@@ -645,6 +641,10 @@ Wondershare Filmora also allows you to import media directly from an external ca
 You can also import media files from your cloud storage. In the "Import" drop-down menu, find "Import from other Apps" and select it. Further, select the storage app from where you want to import your media files. Once your storage account is linked to your computer, you can easily import media files from there as well.
 
 ![add from cloud apps](https://images.wondershare.com/filmora/article-images/2023/import-and-adjust-video-clips-in-filmora-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Adjustment Layers: A New Thing in Filmora?
 
@@ -706,24 +706,21 @@ Video editing might not be as easy as you think. It is a skill that requires tim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-chef-challenges-top-10-improvisational-cooking-videos-for-2024/"><u>[New] Chef Challenges Top 10 Improvisational Cooking Videos for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-covert-snapcapture-stealthy-tactics-for-unseen-picture-recording-for-2024/"><u>[New] Covert SnapCapture Stealthy Tactics for Unseen Picture Recording for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-budget-conscious-shooters-7-best-4k-cameras/"><u>[New] In 2024, Budget-Conscious Shooters' 7 Best 4K Cameras</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-budget-friendly-pc-screen-capture-software/"><u>[Updated] 2024 Approved Budget-Friendly PC Screen Capture Software</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-event-videography-is-popular-in-weddings-graduation-family-reunion-and-other-great-moments-here-im-going-to-share-some-of-the-tips-to-make-a-b/"><u>2024 Approved Event Videography Is Popular in Weddings, Graduation, Family Reunion and Other Great Moments. Here Im Going to Share some of the Tips to Make a Better Event Videography</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-fictitious-device-spec-errors-in-windows-11-pro/"><u>Fixing Fictitious Device Spec Errors in Windows 11 Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-crafting-compelling-visual-narratives-with-illustrators-motion-blur/"><u>In 2024, Crafting Compelling Visual Narratives with Illustrator's Motion Blur</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-thorough-evaluation-of-frozen-snack-playback-devices/"><u>In 2024, Thorough Evaluation of Frozen Snack Playback Devices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-vlc-video-record-a-critique/"><u>In 2024, VLC Video Record A Critique</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-atandt-international-data-usage-policies/"><u>Navigating Through AT&T International Data Usage Policies</u></a></li>
+<li><a href="https://media-tips.techidaily.com/despite-its-age-apple-tvplus-remains-deficient-in-key-capabilities-compared-to-competitors/"><u>Despite Its Age, Apple TV+ Remains Deficient in Key Capabilities Compared to Competitors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-web-video-converter-swiftly-transform-swf-into-mpeg-files-with-movavi/"><u>Free Web Video Converter: Swiftly Transform SWF Into MPEG Files with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-facil-de-pesar-a-pasos-como-desenfocar-videos-en-linea/"><u>Guía Fácil De Pesar a Pasos: Cómo Desenfocar Videos en Línea</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/image-incident-camera-data-recovery/"><u>Image Incident: Camera Data Recovery</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-7-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone 7 online without jailbreak</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-viral-tiktok-sounds-into-personalized-calls/"><u>In 2024, Transforming Viral TikTok Sounds Into Personalized Calls</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-steps-to-rotate-videos-in-lightworks-for-2024/"><u>New Steps to Rotate Videos in Lightworks for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
-<li><a href="https://fox-info.techidaily.com/snapseed-simplified-photo-editing-made-accessible-for-2024/"><u>Snapseed Simplified Photo Editing Made Accessible for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-true-value-of-purchasing-nft-art-beyond-simply-downloading-the-work/"><u>The True Value of Purchasing NFT Art - Beyond Simply Downloading the Work</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-20-best-video-background-templates/"><u>Updated 20 Best Video Background Templates</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-step-by-step-to-crop-videos-using-lightworks/"><u>Updated 2024 Approved Step by Step to Crop Videos Using Lightworks</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-best-cloud-storage-service-for-videos-for-2024/"><u>Updated Best Cloud Storage Service for Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-random-letter-reveal-intro/"><u>Updated How to Make Random Letter Reveal Intro?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-record-super-slow-motion-videos-on-your-huaweisamsungiphone/"><u>Updated How to Record Super Slow Motion Videos on Your Huawei/Samsung/iPhone?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-effects-on-tiktok/"><u>Updated In 2024, How to Add Effects on TikTok</u></a></li>
 </ul></div>
 

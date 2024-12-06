@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Easy Steps to Create Intro Video with After Effects
-date: 2024-11-21T18:42:44.300Z
-updated: 2024-11-26T17:48:17.903Z
+date: 2024-12-04T06:21:14.778Z
+updated: 2024-12-06T09:29:00.562Z
 tags: 
   - ai
   - animation videos
@@ -46,10 +46,6 @@ videos. You can experiment with a variety of transition layers in After Effects 
 You can modify the transition after applying it to the layer. For instance, you may decide to apply the second
 
 key transition at a later period in the timeline and configure the first key transition to occur immediately at the start of the timeline. Setting the completion value is crucial since it will influence how long the word will remain displayed in the video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Add the second transition layer
 
@@ -118,13 +114,13 @@ Before we dive into **how to play a video in slow motion on iPhone**, let's see 
 
 These are the standard values and help achieve accurate and precise slow-motion effects. In this article, the discussion leans toward the making and playing slow-mo. Users will learn how to play videos in slow motion on iPhone. It will introduce tools to create a slow-mo effect and a guide to achieve it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1:Adding Slow Motion to Video on iPhone (Before & After)
 
 Now that you have an insight into the significance of slow-motion videos, let's move forward. This section involves a guide on **how to play a video in slow motion on iPhone.** Here is a guide to adding slow motion in your video before and after recording:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Making a Slow Motion Before Recording
 
@@ -142,6 +138,10 @@ Go back and open the “Settings” and select the “Camera” section. In came
 
 ![change camera settings](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Making a Slow Motion After Recording
 
 The first method will record your overall video in slow motion. However, you can use the other method to add a slow-mo effect to a specific part. Follow the given instructions to learn how to operate it:
@@ -153,7 +153,7 @@ Open the "Photos" application from your home screen and click "Albums." From the
 ![access slow mo album](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 2
@@ -167,6 +167,10 @@ Choose a video from this album and go to the “Edit” option at the top right 
 Navigate towards the bottom and access the timeline. Choose the specific area for adding the effect and drag the sliders on the vertical lines below. Once satisfied with the slow-motion effect, click the "Done" button.
 
 ![slow down with slider](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Some Prominent Third-party Apps Available to Play Video in Slow-Motion
 
@@ -213,6 +217,10 @@ This video editor is specifically designed for those looking to modify video spe
 * You can use this application's built-in features to enhance the visual outlook of video.
 * The application shows support for multiple languages, including Spanish, French, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. [Video Speed Changer – Editor](https://apps.apple.com/us/app/video-speed-changer-editor/id1453701169)
 
 Whether it's about changing speed or doing other types of speed edits, this app fits the best. It resolves your **how to play videos in slow motion on iPhone** problems. It allows you to change the video playback speed via a simple process. Just upload your video and drag the speed slider backward to create a slow-mo.
@@ -256,10 +264,6 @@ Once you finish the speed settings, there is a tip to enhance the slow-mo effect
 Once you have activated the optical flow, render it to see the results. For this, navigate towards the timeline toolbar and select the "Render Preview" option. It looks like a player with a doted circle around it. Preview the results, readjust if needed, and select the "Export" option to save the video.
 
 ![do rendering and save video](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-16.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Filmora
 
@@ -364,10 +368,6 @@ Whether it's about changing speed or doing other types of speed edits, this app 
 
 ![video speech changer editor](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Key Features
 
 * The tool offers to import or record media through its built-in recorder option.
@@ -463,6 +463,10 @@ The further steps on how to edit text premiere pro using Type Tool are noted bel
 
 ![change text color premiere](https://images.wondershare.com/filmora/article-images/2022/07/change-text-color-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Text can be bolded, italicized, or underlined here. Text can also be aligned to the left, right, or center of the text frame and the entire window.
 * If you want to create a Title Graphic, Go to the Essential Graphic Workspace. First open the Window, followed by Workspaces, followed by Graphics from the main menu. Now, if you wish to add animation to your text, you can use the Effect controls Panel where you can apply motion to the texts.
 
@@ -495,7 +499,7 @@ Like Premiere Pro, there is another best video editing app called ["Filmora"](ht
 ![use filmora to edit text](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here we have listed below some features so that you will have no reason to get [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -572,10 +576,6 @@ In the first step, open our camera app to select the Time-lapse from the slider.
 
 ![record footage on imovie iphone](https://images.wondershare.com/filmora/article-images/2022/11/record-footage-on-imovie-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2 Launch iMovie on iPhone
 
 Open the iMovie app on your iPhone, swipe up right then select a camera and click the "Projects" tab on top and start to "Create Project" to load the video clip whatever you want to make an iMovie lapse.
@@ -612,10 +612,6 @@ Decide the clip you wish to modify the speed of. On the preview window's upper r
 
 ![select timelapse on imovie mac](https://images.wondershare.com/filmora/article-images/2022/11/select-timelapse-on-imovie-mac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Apply Editing
 
 The time-lapse options in iMovie allow you to add video effects, trim, edit, and combine video clips, although doing so may degrade the quality of the final product. If you are using iMovie 9, creating a time-lapse film is a little challenging. To change the "Speed" option in the preview windows, double-click on the video clip in the timeline.
@@ -646,6 +642,10 @@ Visit the official website to get the most recent version of Filmora on your PC 
 
 ![install and launch filmora](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Add video to the Timeline
 
 Please make sure the software has been launched and is in "Full Features Mode" before beginning. Use the "Import" option to add the desired movie or photographs to the media library. Drag it to the Timeline after that.
@@ -670,15 +670,15 @@ Right after the editing, render by hitting the icon in the timeline, and then yo
 
 ![render and export timelapse video filmora](https://images.wondershare.com/filmora/article-images/2022/11/render-and-export-timelapse-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Related FAQs of Timelapse Video
 
 ### 1\. How Do You Speed-up videos on iMovie?
 
 The speed of the video can be changed until you get a perfect iMovie time-lapse. The speed of your time-lapse video is to use the slider to change. Drag the slider right to make it faster, or left to make it slow down. Select and click the "Done" button to save and you can share the iMovie time-lapse with the others.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How Do You Create a time-lapse video?
 
@@ -728,6 +728,10 @@ Right after the editing, render by hitting the icon in the timeline, and then yo
 
 ## Part 4: Related FAQs of Timelapse Video
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. How Do You Speed-up videos on iMovie?
 
 The speed of the video can be changed until you get a perfect iMovie time-lapse. The speed of your time-lapse video is to use the slider to change. Drag the slider right to make it faster, or left to make it slow down. Select and click the "Done" button to save and you can share the iMovie time-lapse with the others.
@@ -735,10 +739,6 @@ The speed of the video can be changed until you get a perfect iMovie time-lapse.
 ### 2\. How Do You Create a time-lapse video?
 
 Select then tap the video in the timeline and then click the icon button on the bottom-left of the corner until you find the time-lapse option. and then select it and press the record button. When you made a video and it's done, just click on the record button again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. How Long Can a Time-Lapse video on iPhone be?
 
@@ -764,17 +764,16 @@ The iMovie time-lapse will consume very little time to create your videos and mo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-jumpstart-your-recording-with-this-obs-mac-setup-guide-for-2024/"><u>[New] Jumpstart Your Recording with This OBS Mac Setup Guide for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-infusing-sound-into-your-photography-for-2024/"><u>[Updated] Infusing Sound Into Your Photography for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-unveiling-the-steps-for-instant-video-playback-from-youtube-to-facebook-pages/"><u>2024 Approved Unveiling the Steps for Instant Video Playback From Youtube to Facebook Pages</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-controller-issues-fast-and-simple-solutions/"><u>Fix Your Controller Issues: Fast and Simple Solutions!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-flickerframe-fanfare-feedback/"><u>In 2024, FlickerFrame Fanfare Feedback</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-package-revelation-amplifying-initial-impressions/"><u>In 2024, The Art of Package Revelation Amplifying Initial Impressions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-samsung-galaxy-a24-unlock-without-password-by-drfone-android/"><u>5 Solutions For Samsung Galaxy A24 Unlock Without Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-itel-p55plus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Itel P55+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-harness-the-power-of-ai-with-microsoft-365s-new-copilot-tools-zdnet-insights/"><u>How To Harness The Power Of AI With Microsoft 365'S New Copilot Tools | ZDNET Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-mix-fold-3-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi Mix Fold 3 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-dollar-store-diy-hacks-to-use-for-filmmaking/"><u>New Dollar-Store DIY Hacks to Use for Filmmaking</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-what-is-the-best-fps-for-youtube-videos/"><u>New In 2024, What Is the Best FPS for YouTube Videos?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-feather-shapes-in-after-effects-and-add-a-professional-touch-to-your-designs-this-comprehensive-guide-covers-everything-from-the-basics-to-/"><u>New Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-s24-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy S24 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/restore-sounds-in-roblox-games-for-windows-11-and-10-common-fixes-exposed/"><u>Restore Sounds in Roblox Games for Windows 11 and 10 - Common Fixes Exposed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-palette-primer-essential-steps-to-refine-your-photos-colors/"><u>The Palette Primer Essential Steps to Refine Your Photos' Colors</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-to-add-subtitles-to-your-videos-efficiently-this-article-will-introduce-an-online-subtitle-editor-that-will-help-you-to-create-subtitles/"><u>Updated Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-speed-ramping-to-create-an-intense-action-footage-for-2024/"><u>Updated How To Use Speed Ramping to Create an Intense Action Footage for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-text-animation-intro-tutorial-in-filmora/"><u>Updated Text Animation Intro Tutorial in Filmora</u></a></li>
 </ul></div>
 

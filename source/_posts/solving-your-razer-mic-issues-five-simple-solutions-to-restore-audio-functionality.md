@@ -1,7 +1,7 @@
 ---
 title: "Solving Your Razer Mic Issues: Five Simple Solutions to Restore Audio Functionality"
-date: 2024-11-19T16:09:51.499Z
-updated: 2024-11-26T19:06:53.373Z
+date: 2024-11-28T23:32:58.154Z
+updated: 2024-12-05T20:12:35.635Z
 tags:
   - win11
   - win10
@@ -51,16 +51,12 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d55d7e26c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
@@ -74,6 +70,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##
   
@@ -93,13 +93,13 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6a682959.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you set the Host to Windows WASAPI, you’ll see the values of Device field under Playback and the Device under Recording change automatically.
 
@@ -125,6 +125,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under Playthrough, if you see**Software Playthrough of input** is checked, uncheck it. Then click the**OK** button. If not, skip this solution then try other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
@@ -147,15 +151,15 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d83603b51.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you can record sound successfully.
 
@@ -176,10 +180,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d97536340.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Check to see if you can record successfully.  
   
@@ -203,18 +203,18 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-how-to-effortlessly-fade-audio-with-garageband/"><u>[Updated] In 2024, How to Effortlessly Fade Audio with Garageband</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-tips-for-successful-live-streams-on-instagram/"><u>[Updated] In 2024, Tips for Successful Live Streams on Instagram</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-gif-building-an-understanding/"><u>2024 Approved How To Slow Down GIF Building an Understanding</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/ameliorez-vos-voyages-avec-la-maitrise-de-lautomatisation-innovante/"><u>Améliorez Vos Voyages Avec La Maîtrise De L'Automatisation Innovante</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-retrospective-on-the-goofy-movie-a-comprehensive-review/"><u>In 2024, Retrospective on 'The Goofy Movie' A Comprehensive Review</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-options/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Options</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-blur-faces-in-your-videos-read-this-article-to-find-out-the-easiest-way-to-blur-the-faces-in-videos-using-adobe-premiere-pro/"><u>New Do You Want to Blur Faces in Your Videos? Read This Article to Find Out the Easiest Way to Blur the Faces in Videos Using Adobe Premiere Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-eliminate-echo-problems-on-your-discord-app-for-windows/"><u>Step-by-Step Tutorial: Eliminate Echo Problems on Your Discord App for Windows</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-10-techniques-for-transforming-videos-into-animated-gifs-efficiently/"><u>Top 10 Techniques for Transforming Videos Into Animated GIFs Efficiently</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-blur-photo-with-gimp-step-by-step-guide/"><u>Updated Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027232178-hd/"><u>クオリティアップ! 標準画質からHD画質への完全なフェイスライブラリー</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unlocking-the-potential-of-windows-10-for-aspiring-filmmakers/"><u>[New] 2024 Approved Unlocking the Potential of Windows 10 for Aspiring Filmmakers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-masterclass-in-making-engaging-video-lessons-your-step-by-step-guide-for-youtube/"><u>[Updated] Masterclass in Making Engaging Video Lessons Your Step-by-Step Guide for YouTube</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/doggy-drama-review-heartwarming-family-watch/"><u>Doggy Drama Review: Heartwarming Family Watch</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-green-screen-in-obs/"><u>How to Add Green Screen in OBS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-ad/"><u>New 2024 Approved Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-techniques-to-keep-your-mov-files-organized-on-windows/"><u>Top Techniques to Keep Your .mov Files Organized on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-tools-for-effortless-conversion-from-webm-to-mp4/"><u>Top-Rated Tools for Effortless Conversion From WebM to MP4</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-mechanics-of-electric-vehicle-battery-exchange-systems/"><u>Understanding the Mechanics of Electric Vehicle Battery Exchange Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>Updated A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-custom-filters-in-vn-app-2024-quick-guide/"><u>Updated How to Add Custom Filters in VN App 2024 Quick Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix Your CoD: Modern Warfare Voice Chat - A Comprehensive Solution"
-date: 2024-11-23T16:05:15.602Z
-updated: 2024-11-26T21:15:10.385Z
+date: 2024-12-03T21:08:57.313Z
+updated: 2024-12-06T08:10:18.226Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
 ## Modern Warfare Voice Communication Issues - Solved
 
 Many players are reporting that they can hear others clearly but the voice chat is not working in Call of Duty: Modern Warfare. If you’re experiencing the same problem, don’t worry. We’ve put together every possible fix for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -37,14 +41,14 @@ Many players are reporting that they can hear others clearly but the voice chat 
 3. If your**Voice Chat Recording Mode** is set to**Open Mic** , set Set **Open Mic Recording Threshold** to the lowest setting/minimum (we recommend 0.00). Setting this level too high may prevent your voice from being heard by other players.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-low.png)
 4. But if you set it to**Push to Talk** , please be sure you’re aware of exactly what button you’d need to press to activate your microphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Apply the settings. Go back to your game and test the sound issues.
@@ -61,10 +65,6 @@ Many players are reporting that they can hear others clearly but the voice chat 
 
 3. Once complete, launch Modern Warfare again to see if voice chat is working now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Check sound settings
 
  Many players find their headset mic is not set to the default input device, thus causing the voice chat not to work on Modern Warfare. Therefore, you need to make sure your headset mic is set to default. Here’s how:
@@ -79,8 +79,16 @@ Many players are reporting that they can hear others clearly but the voice chat 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/audio-properties.jpg)
 4. On the **Levels** tab, drag the sliders of the **Microphone** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/headphone-levels.jpg)
 5. Click **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Play Modern Warfare and test if others can hear you this time.
 
@@ -97,7 +105,7 @@ Many players are reporting that they can hear others clearly but the voice chat 
 **Note:** You can update your device driver via Device Manager, but Windows won’t deliver the latest driver.[Learn Why…](https://tools.techidaily.com/drivereasy/download/) So to make sure you can update your audio card driver to the latest version, you should get it from the manufacturer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically update your audio driver (recommended)
@@ -113,15 +121,7 @@ Here’s how to update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the FREE version), and then manually install it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll have the full support and a 30-day money back guarantee).
 4. Restart your computer for the changes to take effect.
@@ -162,24 +162,15 @@ Here’s how to update your drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-magixs-legacy-in-vectors-finding-future-software/"><u>[New] Magix's Legacy in Vectors Finding Future Software</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-design-your-closure-the-best-free-youtube-tutorials/"><u>[Updated] In 2024, Design Your Closure The Best Free YouTube Tutorials</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pinnacle-20-anime-songs-to-start-with/"><u>[Updated] Pinnacle 20 Anime Songs to Start With</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-15-best-travel-vloggers-that-you-should-follow/"><u>2024 Approved 15 Best Travel Vloggers That You Should Follow</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-correct-printer-driver-for-hp-laserjet-pro-m402n-in-a-windows-environment/"><u>How to Get the Correct Printer Driver for HP LaserJet Pro M402n in a Windows Environment</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-lava-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Lava .</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-honor-magic-6-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Honor Magic 6 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-effective-ways-to-add-text-behind-objects/"><u>New 2024 Approved 2 Effective Ways to Add Text Behind Objects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved How to Remove Background From a Video in Premier Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-mobile-device-security-and-media-conversion-apps-compatible-with-iosandroid/"><u>Ultimate Mobile Device Security & Media Conversion Apps Compatible with iOS/Android</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-creating-video-testimonials/"><u>Updated Creating Video Testimonials</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-the-best-frame-rate-for-4k-videos-in-2024/"><u>What Is the Best Frame Rate for 4K Videos, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-vector-journey-start-categories-tools-and-initial-steps/"><u>[Updated] 2024 Approved Vector Journey Start Categories, Tools, & Initial Steps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mastering-windows-10-zoom-integration-essentials-for-2024/"><u>[Updated] Mastering Windows 10 Zoom Integration Essentials for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-troubleshoot-the-window-setup-stalling-problem/"><u>How To Successfully Troubleshoot the Window Setup Stalling Problem?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-video-in-canva/"><u>In 2024, How to Loop Video in Canva</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-melody-adding-audio-to-your-canva-videos/"><u>In 2024, Mastering the Melody Adding Audio to Your Canva Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-professional-tools-to-elevate-your-video-openings/"><u>In 2024, Professional Tools to Elevate Your Video Openings</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-motion-blur-on-capcut-iphone-and-android/"><u>New 2024 Approved How To Add Motion Blur On CapCut? (IPhone & Android)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-edit-facebook-video-ads-for-e-commerce-business/"><u>New In 2024, How to Edit Facebook Video Ads for E-Commerce Business</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-make-vintage-film-effect-1950s/"><u>Updated In 2024, How to Make Vintage Film Effect 1950S</u></a></li>
 </ul></div>
 

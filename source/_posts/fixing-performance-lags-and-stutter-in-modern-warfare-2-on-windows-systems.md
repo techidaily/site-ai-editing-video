@@ -1,7 +1,7 @@
 ---
 title: Fixing Performance Lags & Stutter in Modern Warfare 2 on Windows Systems
-date: 2024-11-23T20:16:29.750Z
-updated: 2024-11-26T16:08:48.222Z
+date: 2024-11-30T00:14:14.070Z
+updated: 2024-12-06T12:06:43.886Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
  Released in early 2020, Warzone is still one of the hottest FPS in 2021\. But the game is never problem-free, and many players are still reporting that**the game isn’t using GPU** . If you’re on the same boat, don’t worry. Here’re some working fixes that can help you get everything back on track.
 
  Before troubleshooting, you should**try different hardware monitors** to see if it’s just a false alarm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
  If the latest GPU driver doesn’t give you luck, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Install all Windows updates
@@ -66,24 +70,16 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -91,6 +87,10 @@ Here’s how you can check for updates manually:
 Once done, restart your PC and see if Warzone is using your GPU.
 
  If updating your system doesn’t help, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change settings in your graphics control panel
 
@@ -100,19 +100,11 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, click**Manage 3D settings** . Click**CUDA – GPUs** and select your graphics card. Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
 4. Now start your game and check if it’s running properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this trick doesn’t work for you, simply move on to the next one.
 
@@ -124,8 +116,16 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![how to disable hardware accelerated GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2020/10/display-settngs.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (By default it’s_%USERPROFILE%\\Documents\\Call of Duty Modern Warfare_ )  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-warzone-browse.jpg)
@@ -133,10 +133,6 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-1.jpg)
 5. In the pop-up window, select**High performance** and click**OK** to apply the settings.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-2.jpg)
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
@@ -151,6 +147,10 @@ Once done, restart your PC and see if Warzone is using your GPU.
 2. Navigate to the**GRAPHICS** tab. Under the**Display** section, set**Display Mode** to**Windowed** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-windowed.jpg)
 3. Now check if the game runs as expected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -171,16 +171,15 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/outubes-premier-guide-to-top-notch-gear/"><u>[New] YouTube’s Premier Guide to Top-Notch Gear</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/solved-warzone-20-keeps-crashing-on-pc/"><u>[SOLVED] Warzone 2.0 Keeps Crashing on PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-rated-zero-price-after-effects-samples/"><u>[Updated] Top-Rated, Zero-Price After Effects Samples</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-clearing-up-disrupted-visual-playback-online/"><u>2024 Approved Clearing Up Disrupted Visual Playback Online</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-efficiency-in-action-best-10-ways-to-youtube-conversion/"><u>2024 Approved Efficiency in Action Best 10 Ways to YouTube Conversion</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-id/"><u>New 2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/review-of-the-nzxt-lift-2-smm-the-high-speed-gamers-ultimate-choice/"><u>Review of the NZXT Lift 2 SMM: The High-Speed Gamer's Ultimate Choice</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1715860707449-the-compre-written-documentation-and-examples-for-recording-sims-4-games-in-a-way-that-is-clear-concise-and-easy-to-understand-with-each-new-title-conveying/"><u>The Compre Written Documentation and Examples for Recording Sims 4 Games in a Way that Is Clear, Concise, and Easy to Understand, with Each New Title Conveying Similar Meanings While Adhering to the Maximum Character Limit of 156 Characters. For 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-shoot-video-with-virtual-green-screen/"><u>Updated Shoot Video with Virtual Green Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-text-animation-intro-tutorial-in-filmora/"><u>Updated Text Animation Intro Tutorial in Filmora</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mac-enhancement-synchronized-screen-plus-audio-tracking/"><u>[New] 2024 Approved Mac Enhancement Synchronized Screen + Audio Tracking</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-finding-your-audio-foothold-podcasts-or-youtube-to-lean-on-for-2024/"><u>[New] Finding Your Audio Foothold Podcasts or YouTube to Lean On for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-jokeframe-creations-punpicture-studio/"><u>[New] JokeFrame Creations PunPicture Studio</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-masterclass-in-free-videochats-and-collaborative-screensharing-for-2024/"><u>[Updated] Masterclass in FREE Videochats & Collaborative Screensharing for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-track-mattes-the-ultimate-guide-for-after-effects/"><u>2024 Approved Track Mattes The Ultimate Guide For After Effects</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-spark-go-2023-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Tecno Spark Go (2023) to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-your-own-lol-montage-video-for-2024/"><u>New How to Create Your Own LOL Montage Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-legend-intro-maker-create-intro-video-with-ease/"><u>New In 2024, Legend Intro Maker – Create Intro Video with Ease</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-content-creati/"><u>New Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-choosing-chatgpt-can-be-your-smartest-move-for-health-tips/"><u>Why Choosing ChatGPT Can Be Your Smartest Move for Health Tips</u></a></li>
 </ul></div>
 

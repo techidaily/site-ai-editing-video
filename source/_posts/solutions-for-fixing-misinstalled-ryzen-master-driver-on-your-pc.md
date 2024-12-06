@@ -1,7 +1,7 @@
 ---
 title: Solutions for Fixing Misinstalled Ryzen Master Driver on Your PC
-date: 2024-11-23T16:15:45.925Z
-updated: 2024-11-26T19:48:10.989Z
+date: 2024-11-30T00:00:55.969Z
+updated: 2024-12-06T12:08:02.794Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 5. **[Modify graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -65,24 +61,16 @@ There are mainly two methods for you to update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
 
@@ -99,7 +87,7 @@ There are mainly two methods for you to update the graphics driver:
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
@@ -118,6 +106,10 @@ There are mainly two methods for you to update the graphics driver:
 * Set **World Car Level of Detail** to Low
 
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -159,6 +151,10 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
@@ -173,11 +169,15 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
@@ -206,24 +206,17 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-maximizing-fun-finding-hot-images-at-pexelscom/"><u>[New] Maximizing Fun Finding Hot Images at Pexels.com</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-accessing-your-curated-music-lists-on-youtube-for-2024/"><u>[Updated] Accessing Your Curated Music Lists on Youtube for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-prime-venues-for-vr-entertainment-for-2024/"><u>[Updated] Prime Venues for VR Entertainment for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-ready-set-resize-transformative-techniques-for-macs-instagram-content-for-2024/"><u>[Updated] Ready, Set, Resize Transformative Techniques for Mac's Instagram Content for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-easiest-fix-included-top-5-ways-to-convert-hdr-to-sdr-videos/"><u>2024 Approved Easiest Fix Included! Top 5 Ways to Convert HDR to SDR Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ning-a-blogging-journey-profit-from-your-passion/"><u>Beginning a Blogging Journey Profit From Your Passion</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/expert-guidance-on-the-latest-gadgets-with-toms-hardware-experts/"><u>Expert Guidance on the Latest Gadgets with Tom's Hardware Experts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/gain-mastery-over-popular-language-korean-and-squid-game/"><u>Gain Mastery Over Popular Language: Korean & Squid Game</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-can-filmora-create-an-audio-visualizer-project-for-a-song-all-steps-from-launching-the-app-to-editing-the-text-are-detailed-here-for-2024/"><u>How Can Filmora Create an Audio Visualizer Project for a Song? All Steps, From Launching the App to Editing the Text, Are Detailed Here for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-coin-magic-with-filmora/"><u>In 2024, How to Make Coin Magic With Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-video-fade-to-black-in-movie-maker/"><u>In 2024, How to Make Video Fade to Black in Movie Maker</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-after-effe/"><u>In 2024, Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-radiance-and-refine-essential-editing-secrets-revealed/"><u>[New] 2024 Approved Radiance and Refine Essential Editing Secrets Revealed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-practices-choosing-youtubes-most-popular-video-formats/"><u>[Updated] 2024 Approved Best Practices Choosing YouTube's Most Popular Video Formats</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-your-guide-to-studio-lights-and-equipment-17/"><u>[Updated] In 2024, Your Guide to Studio Lights & Equipment (#17)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-seek-a-guide-to-add-motion-in-blender-this-article-explains-the-blender-motion-blur-effect-in-detail-and-helps-you-master-it/"><u>2024 Approved Do You Seek a Guide to Add Motion in Blender? This Article Explains the Blender Motion Blur Effect in Detail and Helps You Master It</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-in-this-article-you-will-learn-easy-ways-to-edit-videos-using-a-mouse-in-wondershare-filmora-you-can-do-video-editing-without-a-keyboard-after/"><u>2024 Approved In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prevent-access-to-the-insider-builds-in-windows-11/"><u>How to Prevent Access to the Insider Builds in Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-expertly-convert-your-content-to-stellar-hd-with-top-tools/"><u>In 2024, Expertly Convert Your Content to Stellar HD with Top Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-narzo-60-pro-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme Narzo 60 Pro 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ators-crafting-engaging-marvel-escapades-for-2024/"><u>Innovators Crafting Engaging Marvel Escapades for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-glitch-effect-with-filmora/"><u>New How to Make Glitch Effect with Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-share-youtube-video-on-zoom-in-2024/"><u>New How to Share YouTube Video on Zoom, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-mp3-cutter-download-for-computer-and-mobile/"><u>New In 2024, MP3 Cutter Download for Computer and Mobile</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-streamline-your-videos-10-top-rated-free-online-video-trimmers/"><u>New Streamline Your Videos 10 Top-Rated Free Online Video Trimmers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-instagram-photography-guide-for-crafting-perfect-covers-for-2024/"><u>The Ultimate Instagram Photography Guide for Crafting Perfect Covers for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713951460868-this-article-will-help-you-make-cinematic-shots-with-simple-diy-hacks-using-stuff-from-your-nearest-dollar-store-you-can-edit-your-video-to-get-pro-results-/"><u>This Article Will Help You Make Cinematic Shots with Simple DIY Hacks Using Stuff From Your Nearest Dollar Store. You Can Edit Your Video to Get Pro Results by Wondershare Filmora for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-your-w11-device-with-google-play/"><u>Setting Up Your W11 Device with Google Play</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-a-video-on-vimeo/"><u>Updated 2024 Approved How to Loop a Video on Vimeo?</u></a></li>
 </ul></div>
 

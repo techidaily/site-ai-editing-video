@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Add Effects on TikTok
-date: 2024-11-21T20:11:06.571Z
-updated: 2024-11-26T20:28:44.369Z
+date: 2024-11-30T05:46:01.676Z
+updated: 2024-12-05T21:26:58.631Z
 tags: 
   - ai
   - animation videos
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
 In TikTok, users may develop and produce visually appealing videos to share with their viewers. The program enables users to apply effects to TikTok videos in order to facilitate this kind of production. TikTok offers a lot of features, making it simple to become lost inside the application. The utilization of TikTok's built-in effects is one of the elements that contributes to their films' engaging nature. To know how to add effects to TikTok videos, you must thus follow the instructions provided in the article below.
 
 To know how to add effect to TikTok is a daunting task if you don’t know the steps. However, it's time to get familiar with the most prevalent and coolest effects of the app if you want to build a sizable following on this platform and produce films that go viral. With this guide you can add effects to your video to make it more visually appealing; this is one of the best possibilities. These effects might include slow motion, stickers, or even special effects like visual effects.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. Using TikTok In-App Effects
 
@@ -62,7 +66,7 @@ Step4 If you like the result, press the screen to start recording your video nor
 ![start recording video tiktok](https://images.wondershare.com/filmora/article-images/2022/07/start-recording-video-tiktok.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. Adding Effects After Recording
@@ -182,6 +186,10 @@ Step4 Extend the frozen frame and cut out the rest of the video.
 
 ![extend the frozen frame](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 We are done with the first track so lock it.
 
 ![lock first track](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-8.png)
@@ -193,10 +201,6 @@ Step6 Import the clip again on the second track. And find the sections of the cl
 Step7 It will create several small sections on the second track.
 
 ![second track sections](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step8 Put the first clip at the start of the timeline and move the playhead to find the frame containing enough room for the second outfit.
 
@@ -225,10 +229,6 @@ Step13 Click on the add button to add a mask keyframe and move the play head for
 Step14 Move the mask to the left to reveal the entire frame, and repeat the same process with all outfits.
 
 ![reveal the frame and repeat with all outfits](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-17.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step15 After finishing all outfits, copy the clip from the first outfit. And paste it on top of all the tracks after the last outfit. And add a mask keyframe to this section too.
 
@@ -272,10 +272,6 @@ Step6 Import the clip again on the second track. And find the sections of the cl
 
 ![import the clip on the second track](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-9.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step7 It will create several small sections on the second track.
 
 ![second track sections](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-10.png)
@@ -291,10 +287,6 @@ Step9 Move the second outfit to that playhead area.
 Step10 Double-click on the clip, go to effects, and choose a single-line mask.
 
 ![choose single line mask](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-13.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step11 Drag the mask to the point where it shows the outfit on its right side.
 
@@ -351,6 +343,10 @@ Additionally, this app offers over 70 LUT presets that you can use. These LUTs c
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Use LUTs on 3DLUT Mobile App for Video Editing?
 
 Color grading and color correction are not only for professional pictures and portraits. You can color-correct your videos as well with your smartphones. This section will give you step-by-step guidance on how to use LUTs using the 3D LUT mobile app for your videos.
@@ -374,7 +370,7 @@ When you have selected the desired LUT, tap on the “Tick” sign in the right 
 ![apply changes and save](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: 6 Best LUTs That Can Be Used on 3DLUT Mobile App
@@ -399,19 +395,11 @@ This pack is the right choice if you want to color-grade your portraits. Skin To
 
 ![skin tones pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. [Zoan Cinematic Pack](https://3dlutcreator.com/userstore.php?packid=9)
 
 Zoan Cinematic Pack is the perfect color-grading preset that gives your videos a professional-looking cinematic look. This pack has eight cinematic-rich presets you can apply to your videos and vlogs. These LUTs give the modern Hollywood-style impression. It adds richness to your videos, and it underexposes bright colors in your videos to create a modern cinematic ambiance.
 
 ![zoan cinematic pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. [Winter Pack](https://3dlutcreator.com/userstore.php?packid=6)
 
@@ -477,6 +465,10 @@ When you have selected the desired LUT, tap on the “Tick” sign in the right 
 
 With the 3DLUT app, you can even access the LUT's library of 3DLUT Creator. You can choose from different LUTs available according to your choice. You can always select the option for 3DLUT mobile app free download on your app’s store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. [Speedy Grade Pack](https://3dlutcreator.com/userstore.php?packid=8)
 
 It is a great LUT pack that you can use for your photos and videos. Speedy Grade Pack is a LUT pack that includes 10 LUTs. This color grading pack has different LUTs, each with a new style and color composition. Moreover, it is a pack that enhances color to make your videos more vibrant and livelier. It creates a more refreshing and colorful atmosphere for your viewers.
@@ -489,6 +481,10 @@ Yet another fantastic LUT pack, especially for outdoor vlogging and videography,
 
 ![gopro luts color grading pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. [Skin Tones Pack](https://3dlutcreator.com/userstore.php?packid=4)
 
 This pack is the right choice if you want to color-grade your portraits. Skin Tones Pack has over 5 LUTs, and each one is used to fine-tune your skin complexation. With this LUT pack, you can add tan and more brightness to your photos and videos. This pack enhances your skin tone by highlighting your skin color composition. It increases brownness and saturation in your media files to give them a more natural look.
@@ -500,10 +496,6 @@ This pack is the right choice if you want to color-grade your portraits. Skin To
 Zoan Cinematic Pack is the perfect color-grading preset that gives your videos a professional-looking cinematic look. This pack has eight cinematic-rich presets you can apply to your videos and vlogs. These LUTs give the modern Hollywood-style impression. It adds richness to your videos, and it underexposes bright colors in your videos to create a modern cinematic ambiance.
 
 ![zoan cinematic pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. [Winter Pack](https://3dlutcreator.com/userstore.php?packid=6)
 
@@ -558,6 +550,10 @@ To create a miniature look, we can use specific effects to fake a shallow depth 
 * The tiny effect is usually used in **drone footage, time lapses**, or **landscape photography**.
 
 Are you all set to add miniature effects to your video and make film-like shots? Then scroll more and get the step-by-step process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Make a Miniature effect?
 
@@ -697,6 +693,10 @@ You are excited now to see the final look of your miniature effect! Finally, it'
 
 ![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -721,10 +721,6 @@ Here you will see almost more than **20 videos.** So, instead of using the actua
 * Then **Drag and Drop** it to the timeline section for further editing.
 
 ![add stock video in the timeline in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-4.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Who will get Stock Media?**
 
@@ -797,6 +793,10 @@ Watch the rotating and adjusting actions as shown below!
 
 ![rotation of mask in wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-10.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For example, when we add a mask in the below time-lapse video, follow the above mask adjustments. Unfortunately, we can't get good results. Therefore, we will apply another way to add a mask by changing shape and position. Follow the instructions for modifications:
 
 ![blur the object near to camera and focus on the distant object](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-11.gif)
@@ -854,19 +854,16 @@ Have you tried to add a miniature effect before? If yes, then share your experie
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-innovative-ways-to-record-youtube-videos-for-2024/"><u>[New] Innovative Ways to Record YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-find-youtube-partners-and-make-collab-videos/"><u>[Updated] How to Find YouTube Partners and Make Collab Videos?</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-tiktok-edits-unleashed-crafting-engaging-video-reactions-with-filmoras-pro-mode/"><u>[Updated] In 2024, TikTok Edits Unleashed Crafting Engaging Video Reactions with Filmora's Pro Mode</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1-official-source-ultimate-dvd-ripper-and-hd-video-transcoder-tool-get-your-free-winx-downloads-now/"><u>1. [Official Source] Ultimate DVD Ripper & HD Video Transcoder Tool: Get Your Free WinX Downloads Now!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-dissecting-the-income-from-a-million-on-youtube/"><u>2024 Approved Dissecting the Income From a Million on YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-countdown-video/"><u>New How to Make a Countdown Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-6-tips-for-your-first-facebook-ads/"><u>New In 2024, 6 Tips for Your First Facebook Ads</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-montage-makes-it-easy-to-create-and-share-videos-this-article-will-explain-what-it-can-do-and-show-you-examples-of-movies-that-use-montage/"><u>New Montage Makes It Easy to Create and Share Videos. This Article Will Explain What It Can Do and Show You Examples of Movies that Use Montage</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-motion-blur-photo-with-gimp-step-by-step-guide-for-2024/"><u>New Motion Blur Photo With GIMP Step-By-Step Guide for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-optimizing-video-size-for-seamless-streaming-on-discord-across-devices/"><u>Ultimate Guide: Optimizing Video Size for Seamless Streaming on Discord Across Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>Updated How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-firefoxs-video-downloader-boost-optimal-extensions-and-plugins-for-facebook-content-for-2024/"><u>[Updated] Firefox's Video Downloader Boost Optimal Extensions & Plugins for Facebook Content for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-enhancing-content-strategy-with-targeted-tagging/"><u>2024 Approved Enhancing Content Strategy with Targeted Tagging</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-a-step-by-step-approach-to-snapchat-commerce/"><u>In 2024, A Step-by-Step Approach to Snapchat Commerce</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-audio-plug-ins-for-video-editors/"><u>In 2024, Best Audio Plug-Ins For Video Editors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-vr-unleashed-in-depth-reviews-of-peripherals/"><u>In 2024, VR Unleashed - In-Depth Reviews of Peripherals</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learn-how-to-use-3d-camera-tracking-in-adobe-after-effects-and-take-your-skills-to-the-next-level-for-2024/"><u>Learn How to Use 3D Camera Tracking in Adobe After Effects and Take Your Skills to the Next Level for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-motion-blur-in-davinci-resolve-in-2024/"><u>New How To Add Motion Blur In Davinci Resolve, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review/"><u>New VSDC Free Video Editor Review</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/propel-your-world-with-freshly-launched-wins11-games-for-2024/"><u>Propel Your World with Freshly-Launched Wins11 Games for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-your-graphics-driver-modern-ddu-approach/"><u>Revamp Your Graphics Driver - Modern DDU Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-game-file-management-on-steam-platform/"><u>Simplify Game File Management on Steam Platform</u></a></li>
 </ul></div>
 

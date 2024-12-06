@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Create Vintage Film Effect 1950S
-date: 2024-11-22T16:26:41.580Z
-updated: 2024-11-26T19:56:40.300Z
+date: 2024-11-29T20:39:33.583Z
+updated: 2024-12-05T16:51:41.757Z
 tags: 
   - ai
   - animation videos
@@ -145,10 +145,6 @@ Double-click the Crop effect, then change the Left and Right values to make the 
 
 ![add a warm film color effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1950s-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Up to here, you'll realize that your video doesn't still look like a 1950s film per se. Double-click your video clip and choose the **3D LUT** option under the **Color** category. Then, open the drop-down menu and choose **Warm Film**. This will make your video look like it was shot using an old camera.
 
 ##### Step 4 Apply more graininess to the film
@@ -199,6 +195,10 @@ First, get the daytime shot. For this tutorial, we will pretend that you are wal
 
 ![get the daytime shot](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-1.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, let's film the nighttime clip. You will walk through the living room and do the same movement again at the same spot. You can dim the light and change the camera's white balance settings to bluer to create a night feeling.
 
 ![film the nighttime clip](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-2.gif)
@@ -226,10 +226,6 @@ For the next step, we will make a masking transition with the Filmora mask featu
 Step1 Double-click the daytime clip on the timeline. In the Filmora setting, find the **Mask section > Circle**. You can see the mask is applied in the preview screen.
 
 ![double-click the daytime clip](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Scroll down the setting and click add a keyframe at the beginning of the clip.
 
@@ -259,13 +255,13 @@ Drag and drop it onto the third video track and start the effect when the mask o
 
 ![adjust the speed of this effect](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The final result will look like this:
 
 ![final result](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-12.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -300,10 +296,6 @@ Step 1 Navigate to the official site of Kapwing and select its "Subtitles" tool.
 Step 2 Click on the "Upload" button given on top to import your video file on this tool. Once done, click on the "Subtitle" option displayed on the left side. On the subtitles window, click on the "Upload SRT/VVT" button to import your subtitle file.
 
 ![upload your subtitle file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3 After uploading the file, your subtitles will sync with your video. To edit your subtitles, navigate to the right panel. From that, you can select text position, background color, opacity, font, and alignment.
 
@@ -369,10 +361,6 @@ From the timeline, locate the feature of "Speech to Text." Now choose the langua
 
 ![specify speech to text settings](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3 Customize Subtitles and Save the Changes
 
 After the conversion, you can double-click the added subtitles to make modifications. After making the adjustments, hit the "OK" button. Now go to the "Export" button and select the video format in which you want to export the video, or you can also share it on social media platforms.
@@ -405,6 +393,14 @@ After the conversion, you can double-click the added subtitles to make modificat
 
 ![confirm the subtitle edits](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-with-kapwing-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 By adding subtitles to your video, you can enhance your targeted audience and can also engage with them. It also helps in making your video content diverse for people across the globe. There are various online subtitle generators like Kapwing that can help you in adding subtitles, as described in this article. However, there are some drawbacks to using the Kapwing subtitle maker that can disrupt your work. If you want to use a proficient subtitle maker, you can use Wondershare Filmora to get the best results.
@@ -433,10 +429,6 @@ Cutting a video is one of the basic but useful functions of QuickTime. It requir
 
 Let’s start…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **1\.** **Cutting/splitting a video**
 
 Cutting a video means splitting some parts of the video to edit and rearrange the clips to make a new video. Mostly, it is used where you want to edit all clips of the video differently. It is also needed as it allows you to focus on your message and delete the portion not required and make the video large. You can remove the extra fat from the video to give clarity, direction, and hope. You can convey your message in a clear and concise way.
@@ -457,10 +449,6 @@ These steps should be followed to cut/split the video in minutes.
 
 ![cut-video-quicktime](https://images.wondershare.com/filmora/article-images/2022/04/cut-video-quicktime-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cutting the video by splitting is used when you have a long video and you can easily edit them by splitting them into two parts.
 
 ### **2\.** **Trimming a video**
@@ -476,6 +464,10 @@ Let’s dive in…
 
 ![cut-video-quicktime](https://images.wondershare.com/filmora/article-images/2022/04/cut-video-quicktime-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * A **yellow trimming bar** will appear over the edges of your video.
 * Remove the unwanted area by moving from the right or left **trim edges** also called **handles**.
 
@@ -489,6 +481,10 @@ Everything inside the **yellow bars** will remain. You can preview your video an
 Trimming is critical because it is the time to convince the viewers to stick around and stay with your video.
 
 For more advanced editing without losing the quality of the video, I recommend you to use **Wonder Share Filmora 11**. It’s an amazing app and very easy to use even for a layman.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **An** **easier way to cut a video with Filmora**
 
@@ -511,10 +507,6 @@ For macOS 10.14 or later
 **The Split is dividing the clips into two parts.**
 
 **The trim is deleting the starting or endpoints of the video.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **1\.** **Cut video using Filmora video cutter**
 
@@ -563,7 +555,7 @@ Here is all about trimming the video from beginning to end but if you want to cu
 Repeat the process and cut the video into many segments to get the desired video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -571,6 +563,10 @@ Repeat the process and cut the video into many segments to get the desired video
 Video editing is a critical part of creating eye-catching movies. Along with this, cutting and trimming a video is the core of the whole process as it makes sure that your audience is hooked with your content or not. Once you have downloaded the **Wonder Share Filmora** app, the art of cutting the video and transforming into a new film is really amazing.
 
 ![cut-video-quicktime](https://images.wondershare.com/filmora/article-images/2022/04/cut-video-quicktime-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * A yellow rectangular bar appears over the edges of your video.
 * You can cut the desired portion and make editing as you like.
@@ -653,6 +649,10 @@ This will automatically detach your unwanted videos based on the change in scene
 
 You can also remove the unwanted videos by clicking the **delete icon**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **2\.** **Manually cut/split videos**
 
 To cut the beginning and the end portion of the video, we can use the trim feature.
@@ -740,6 +740,10 @@ For macOS 10.14 or later
 
 **The trim is deleting the starting or endpoints of the video.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **1\.** **Cut video using Filmora video cutter**
 
 Cutting a video is necessary even if you shot a very good video because it contains some irrelevant and unwanted clips. Removing the unnecessary part of the video will make the video short, concise, and to the point. Moreover, it helps in grabbing the attention of your valuable viewers.
@@ -798,10 +802,6 @@ Video editing is a critical part of creating eye-catching movies. Along with thi
 * Press the **done**
 
 ![cut-video-quicktime](https://images.wondershare.com/filmora/article-images/2022/04/cut-video-quicktime-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Cutting the video by splitting is used when you have a long video and you can easily edit them by splitting them into two parts.
 
@@ -922,22 +922,17 @@ Video editing is a critical part of creating eye-catching movies. Along with thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-stream-capture-software-unraveler/"><u>[New] 2024 Approved Stream Capture Software Unraveler</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-avoidance-tactics-for-edg-vids-in-learning-for-2024/"><u>[Updated] Avoidance Tactics for EDG Vids in Learning for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-amateurs-to-pros-transformative-steps-in-gopro-timelapses/"><u>[Updated] From Amateurs to Pros Transformative Steps in GoPro Timelapses</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-videos-with-imovie/"><u>2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-how-to-react-when-your-face-appears-in-video-calls-accidentally/"><u>In 2024, How To React When Your Face Appears In Video Calls Accidentally</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-s23-fe-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy S23 FE Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-system-enhancements/"><u>Mastering the Art of System Enhancements</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-3-ways-to-create-motion-text-effects-for-your-video/"><u>New 2024 Approved 3 Ways to Create Motion Text Effects for Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-loop-videos-with-imovie/"><u>New 2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-risograph-effect-in-photoshop-a-beginners-guide-for-2024/"><u>New Create Risograph Effect In Photoshop A Beginners Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-add-miniature-effect-to-videos/"><u>New Easy Steps to Add Miniature Effect to Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/splitting-audio-from-video-in-sony-vegas-step-by-step-for-2024/"><u>Splitting Audio From Video in Sony Vegas Step by Step for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-personalized-windows-11-lock-patterns/"><u>Step-by-Step Guide to Personalized Windows 11 Lock Patterns</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-sound-problems-no-device-installed-error-in-windows-1110/"><u>Troubleshooting Sound Problems: No Device Installed Error in Windows 11/10</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-your-own-lol-montage-video/"><u>Updated How to Create Your Own LOL Montage Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-custom-subtitles-to-netflix/"><u>Updated In 2024, How to Add Custom Subtitles to Netflix</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-hilarious-side-of-iphones/"><u>[New] 2024 Approved The Hilarious Side of iPhones</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-visual-impact-a-comprehensive-guide-to-zooms-video-filters-for-2024/"><u>[Updated] Mastering Visual Impact A Comprehensive Guide to Zoom's Video Filters for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/disabling-push-notifications-for-commercial-content-for-2024/"><u>Disabling Push Notifications for Commercial Content for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/if-you-want-to-make-an-intro-video-then-adobe-after-effects-will-be-a-great-choice-this-article-will-show-the-steps-to-create-an-intro-video-with-after-effe/"><u>If You Want to Make an Intro Video, Then Adobe After Effects Will Be a Great Choice. This Article Will Show the Steps to Create an Intro Video with After Effects by Your Own</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-navigating-your-path-as-a-first-time-youtuber-sidestep-these-8-common-mistakes/"><u>In 2024, Navigating Your Path as a First-Time YouTuber Sidestep These 8 Common Mistakes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-vintage-film-effect-1950s/"><u>New How to Create Vintage Film Effect 1950S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-poco-c65-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-fixes-how-to-restore-your-logitech-g433-microphone-functionality/"><u>Troubleshooting Fixes: How To Restore Your Logitech G433 Microphone Functionality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>Updated Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
 </ul></div>
 

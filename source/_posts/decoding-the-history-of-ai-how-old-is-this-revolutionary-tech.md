@@ -1,7 +1,7 @@
 ---
 title: "Decoding the History of AI: How Old Is This Revolutionary Tech?"
-date: 2024-11-25T19:29:33.160Z
-updated: 2024-11-26T17:15:12.458Z
+date: 2024-12-05T01:03:39.044Z
+updated: 2024-12-06T03:22:06.404Z
 tags:
   - chatgpt
   - open-ai
@@ -17,12 +17,16 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
 
  As the field of artificial intelligence continues to evolve at a dizzying pace, a new contender is poised to enter the playing field. TruthGPT, an AI chatbot proposed by tech billionaire Elon Musk, is generating a lot of buzz online.But what is TruthGPT? Why does Elon Musk want to create it? And how will it be different from the AI tools we already have?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is TruthGPT?
 
 ![Man Holding Artificial Intelligence Sticky Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  TruthGPT is a proposed AI model aimed at addressing the ills of existing models that powers the likes of ChatGPT and Bard, with particular emphasis on truth and safety. According to Elon Musk, TruthGPT will be a "maximum truth-seeking" AI that understands the nature of the universe and would be unlikely to destroy humanity because it sees humans as a critical component of the universe.
@@ -39,16 +43,12 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
  Elon Musk, who recently authored an open letter calling for a[moratorium on the development of powerful AI](http://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) models (specifically those more powerful than GPT-4), believes AI is moving too fast. He believes we need to slow down and reevaluate our approach to AI safety before AI "takes control." TruthGPT is a large language model (LLM) that promises to address these two core concerns with today's AI systems.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Would TruthGPT Look Like?
 
 ![artificial brain doing data analytics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
@@ -60,16 +60,12 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 So, is this idea of a maximum truth-seeking AI even practical?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Building TruthGPT Is a Huge Challenge
 
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you[understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) , it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
 
@@ -78,6 +74,10 @@ So, is this idea of a maximum truth-seeking AI even practical?
  Of course, accuracy can also be tackled from the algorithm side. However, irrespective of the algorithm, language ambiguity still represents a big problem for the accuracy of AI models. Even humans often struggle to accurately interpret a sentence or phrase's meaning, leading to misinformation. For AI models, ambiguity can lead to misinterpretations resulting in inaccuracies.
 
  For Musk, TruthGPT appears to be a chance for him to carve an AI model that he sees fit to deliver the truth. How that would come about without introducing his own biases is another question entirely and effectively leads us back to the start of the conversation. How are Musk's opinions on what is biased or not any different from those who trained and directed ChatGPT?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is TruthGPT an Exciting Possibility?
 
@@ -100,19 +100,18 @@ So, is this idea of a maximum truth-seeking AI even practical?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unleash-the-full-potential-of-your-hdr-images-with-lightroom/"><u>[Updated] 2024 Approved Unleash the Full Potential of Your HDR Images with Lightroom</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-a-step-by-step-manual-swiftly-produce-captions-for-facebook-videos-for-2024/"><u>[Updated] A Step-by-Step Manual Swiftly Produce Captions for Facebook Videos for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-examination-androids-photography-solution-lightroom/"><u>2024 Approved In-Depth Examination Android's Photography Solution, Lightroom</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/elevate-ps2-gameplay-on-ios-devices-for-2024/"><u>Elevate PS2 Gameplay on iOS Devices for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-change-aac-files-to-wav-format-with-ease/"><u>Free Online Converter - Change AAC Files to WAV Format with Ease</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-looking-for-cool-ideas-to-use-green-screen-and-how-setting-up-your-green-screen-keep-reading-since-we-have-the-answer-for-you/"><u>In 2024, Are You Looking for Cool Ideas to Use Green Screen and How Setting up Your Green Screen? Keep Reading Since We Have the Answer for You</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-expression-in-after-effects/"><u>In 2024, How to Add Expression in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-merge-audio-and-video-in-vlc-media-player/"><u>In 2024, How to Merge Audio and Video in VLC Media Player</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-pioneer-productions-with-your-mac-for-viral-youtube-videos/"><u>In 2024, Pioneer Productions with Your Mac for Viral Youtube Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-milestones-subscriber-and-interactive-feature-prizes/"><u>Maker Milestones Subscriber & Interactive Feature Prizes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-change-background-color-in-after-effects/"><u>New Change Background Color in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-converting-dvd-content-to-a-usb-flash-drive-for-trouble-free-watching/"><u>Step-by-Step Tutorial: Converting DVD Content to a USB Flash Drive for Trouble-Free Watching</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-future-of-ai-desired-upgrades-for-the-next-version-of-gpt/"><u>Unlocking the Future of AI: Desired Upgrades for the Next Version of GPT</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-engaging-visual-narrative-your-guide-to-making-gifs-from-vimeo/"><u>[New] Engaging Visual Narrative Your Guide to Making GIFs From Vimeo</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ultimate-guide-to-the-leading-9-video-call-and-collaboration-tools-android-ios/"><u>[Updated] 2024 Approved Ultimate Guide to the Leading 9 Video Call & Collaboration Tools (Android, iOS)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-audio-capturing-on-non-rooted-android-devices-for-2024/"><u>Easy Audio Capturing on Non-Rooted Android Devices for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experience-improved-flow-with-the-latest-fixes-to-cyberpunk-2077s-lag-issues/"><u>Experience Improved Flow with the Latest Fixes to Cyberpunk 2077'S Lag Issues</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-change-text-in-premiere-pro/"><u>How To Change Text In Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-a-green-screen-to-zoom/"><u>In 2024, How to Add a Green Screen to Zoom</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-animated-titles-and-text-in-the-filmora-video-editor-this-is-a-simple-step-by-step-tutorial-for-any-skill-level/"><u>New Learn How to Create Animated Titles and Text in the Filmora Video Editor. This Is a Simple Step-by-Step Tutorial for Any Skill Level</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-itel-p40plus-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Itel P40+ for Streaming | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-ranking-flv-video-player-get-the-best-free-version-compatible-with-macos-and-windows-11-81-or-8/"><u>Top Ranking FLV Video Player - Get the Best Free Version Compatible with macOS & Windows 11, 8.1, or 8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-srts-potential-in-subtitle-format-sub-for-2024/"><u>Unveiling SRT's Potential in Subtitle Format (SUB) for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-add-transition-effects-in-premiere-pro/"><u>Updated 2024 Approved Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-way-to-color-grading-and-color-correction-in-filmora/"><u>Updated In 2024, Best Way To Color Grading & Color Correction in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1920s-how-to-make-for-2024/"><u>Vintage Film Effect 1920S - How to Make for 2024</u></a></li>
 </ul></div>
 

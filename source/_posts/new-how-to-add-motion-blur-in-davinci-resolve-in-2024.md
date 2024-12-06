@@ -1,7 +1,7 @@
 ---
 title: New How To Add Motion Blur In Davinci Resolve, In 2024
-date: 2024-11-23T19:44:42.368Z
-updated: 2024-11-26T17:24:04.548Z
+date: 2024-12-01T17:31:29.020Z
+updated: 2024-12-06T02:22:35.370Z
 tags: 
   - ai
   - animation videos
@@ -28,7 +28,7 @@ You can find different tools on different pages of DaVinci. This flexibility and
 ![davinci resolve 18 interface](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-davinci-resolve-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Add Motion Blur to Videos in DaVinci Resolve?
@@ -48,10 +48,6 @@ So, by merging images, effects, and animations together, you can create a vibran
 Step1 Navigate to the DaVinci Resolve tool and upload your video. Now open the fusion page and press "Shift" and "Spacebar." On the search box, type “Motion” and select “Motion Blur” from the results. After selecting it, tap on the “Add” button.
 
 ![search for the motion blur](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-davinci-resolve-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Now, you will be able to see a nod of Motion Blur on the interface. Drag this node to the center of "Media in" and "Media Out." By selecting the motion blur node, you can adjust the settings from the right direction.
 
@@ -100,6 +96,10 @@ After launching Filmora, hit the “Create New Project” button to open a new i
 Now go to the "Effects" tab and select the "Video Effects" category from the left panel. Now you will have to type "Blur" in the search bar to get all the blur effects of Filmora. Select your option and apply the effect to the timeline.
 
 ![search for blur effect](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-davinci-resolve-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3 Add the Dissolve Transition
 
@@ -222,15 +222,15 @@ This is it if you are looking for an application with advanced features and manu
 * The speed manipulation doesn’t result in slow-mo but also offers fast speed options.
 * It has an insightful and easy user interface; you can apply color filters after editing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. [Slo Mo – Speed Up Video Editor](https://apps.apple.com/au/app/slo-mo-speed-up-video-editor/id1205232635)
 
 Finding answers about **how to play videos in slow motion on iPhone**? This is an intuitive application to create slow-mo with a high processing rate. To slow down a video using this application, you can manipulate the video frame to 240 fps. The speed modification is available to apply on specific video parts.
 
 ![slo mo speed up video editor](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -249,10 +249,6 @@ This video editor is specifically designed for those looking to modify video spe
 * The tool offers cutting options, and the timeline editing makes it more precise.
 * You can use this application's built-in features to enhance the visual outlook of video.
 * The application shows support for multiple languages, including Spanish, French, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. [Video Speed Changer – Editor](https://apps.apple.com/us/app/video-speed-changer-editor/id1453701169)
 
@@ -286,10 +282,6 @@ Once you have downloaded this software, access the "New Project" button. Then, u
 
 ![place media to timeline for slomo](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2Activate AI Frame Interpolation Option
 
 Once you finish the speed settings, there is a tip to enhance the slow-mo effect. Find the "AI Frame Interpolation" option in the same section and expand it. Select the "Optical Flow" option at the third to smoothen the video.
@@ -322,10 +314,6 @@ Do you want to blur out a whole person or apply an effect throughout the video? 
 
 Screen recording is important to content creation, especially in tutorial channels. In addition, the reaction or roasting channels and their owners also use this. Filmora offers an extensive screen recording option, including microphone and camera recording. You can manipulate the screen resolution, system settings, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article aimed to increase readers' knowledge to effectively add slow-mo effect. Not only did we answer **how to play videos in slow motion on iPhone**, but we also guided to it. The article discussed some of the leading applications for slowing down video on iPhone. For precise and flawless slow-mo creation, we recommended Wondershare Filmora.
@@ -346,6 +334,10 @@ Open the "Photos" application from your home screen and click "Albums." From the
 
 ![access slow mo album](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2
 
 Choose a video from this album and go to the “Edit” option at the top right corner.
@@ -357,6 +349,10 @@ Choose a video from this album and go to the “Edit” option at the top right 
 Navigate towards the bottom and access the timeline. Choose the specific area for adding the effect and drag the sliders on the vertical lines below. Once satisfied with the slow-motion effect, click the "Done" button.
 
 ![slow down with slider](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Some Prominent Third-party Apps Available to Play Video in Slow-Motion
 
@@ -379,19 +375,11 @@ This is it if you are looking for an application with advanced features and manu
 * The speed manipulation doesn’t result in slow-mo but also offers fast speed options.
 * It has an insightful and easy user interface; you can apply color filters after editing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. [Slo Mo – Speed Up Video Editor](https://apps.apple.com/au/app/slo-mo-speed-up-video-editor/id1205232635)
 
 Finding answers about **how to play videos in slow motion on iPhone**? This is an intuitive application to create slow-mo with a high processing rate. To slow down a video using this application, you can manipulate the video frame to 240 fps. The speed modification is available to apply on specific video parts.
 
 ![slo mo speed up video editor](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -416,6 +404,10 @@ This video editor is specifically designed for those looking to modify video spe
 Whether it's about changing speed or doing other types of speed edits, this app fits the best. It resolves your **how to play videos in slow motion on iPhone** problems. It allows you to change the video playback speed via a simple process. Just upload your video and drag the speed slider backward to create a slow-mo.
 
 ![video speech changer editor](https://images.wondershare.com/filmora/article-images/2023/approaches-to-craft-slow-motion-in-iphone-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -485,6 +477,10 @@ This article aimed to increase readers' knowledge to effectively add slow-mo eff
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT
 
 Lookup Tables can make your videos and pictures look more attractive. LUTs are like filters that give your media files different styles and emotions. There are many presets available on the internet that you can download to use for your media content. Moreover, LUTs help you to quickly change the look and mood of your photos and videos.
@@ -527,6 +523,10 @@ In Preferences, choose the desired size of the 3D LUT as .CUBE format. You can c
 
 ![create luts with lut generator app](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Create Online LUTs Using Online LUT Creator?
 
 There are two methods to create a LUT online and offline. Previously you've learned to generate LUTs using offline tools. However, you can also create LUTs online without installing any tool. This portion will teach you how to create online LUTs in this step-by-step guide.
@@ -548,10 +548,6 @@ Edit your photo inside the “Develop” module in Lightroom with your desired p
 Download the original PNG from <www.onlinelutcreator.com/lutcreator>. Import it into Lightroom as you did in the first step.
 
 ![ download identity png ](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step4
 
@@ -655,6 +651,10 @@ Import your photo into Lightroom by dragging and dropping it. You can also impor
 Edit your photo inside the “Develop” module in Lightroom with your desired preference and style. Only apply changes affecting the colors, not adjustments like noise reduction, vignette, or grain.
 
 ![open develop module and make changes ](https://images.wondershare.com/filmora/article-images/2023/06/create-luts-with-luts-generator-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3
 
@@ -732,6 +732,10 @@ Applying video filters on mobile devices is a simple process that can significan
 
 First, you must download a video editing app with different filters. One popular option is Filmora, which can be found in the app store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step2: Import your videos**
 
 Once you have downloaded the app, you can begin importing your videos. It can typically do this by selecting the "Import" option within the app and choosing the desired videos from your library. You may also record videos directly within the app if desired.
@@ -792,10 +796,6 @@ Start by downloading and installing the Filmora software onto your desktop. This
 
 Open Filmora and import the videos you want to apply filters to. You can do this by clicking the "Import" button and selecting the video files from your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Step 3: Add video filter effects in 2 ways**
 
 Filmora offers two main ways to add video filters to your footage.
@@ -834,17 +834,17 @@ In the modern digital era, Filmora will be the best video filter editor, thanks 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unraveling-the-lifecycle-of-windows-movie-maker-releases/"><u>[New] 2024 Approved Unraveling the Lifecycle of Windows Movie Maker Releases</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-multimedia-in-educational-practice/"><u>[New] Navigating Multimedia in Educational Practice</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-dodging-the-invisible-block-unshade-your-tiktok-presence/"><u>[Updated] 2024 Approved Dodging the Invisible Block Unshade Your TikTok Presence</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlock-potential-innovating-with-effective-instagram-video-loops/"><u>[Updated] In 2024, Unlock Potential Innovating with Effective Instagram Video Loops</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-understanding-youtubes-revenue-model-one-million-viewer-focus/"><u>[Updated] Understanding YouTube's Revenue Model One Million Viewer Focus</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/5-tools-to-create-a-time-lapse-video-online/"><u>5 Tools to Create a Time-Lapse Video Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/discover-a-quick-guide-to-add-personalized-video-filters-in-vn-app-learn-how-to-use-built-in-filters-and-import-external-ones-for-creative-video-editing-for/"><u>Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-have-the-habit-to-create-subtitle-for-your-video-you-can-always-add-open-and-close-subtitles-to-your-video-to-make-it-perfect-follow-this-article-to-/"><u>Do You Have the Habit to Create Subtitle for Your Video? You Can Always Add Open and Close Subtitles to Your Video to Make It Perfect. Follow This Article to Learn More About It</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-the-problem-troubleshooting-plex-avoidance-of-avi-file-playback/"><u>Resolving the Problem: Troubleshooting Plex Avoidance of AVI File Playback</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-oppo-a79-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Oppo A79 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sonys-revolutionary-leap-in-vr-gaming-psvr-2-arrival-info-price-insight-and-hardware-breakdown/"><u>Sony's Revolutionary Leap in VR Gaming - PSVR 2 Arrival Info, Price Insight & Hardware Breakdown</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/want-to-save-your-edited-video-file-in-mp4-format-in-windows-movie-maker-here-are-the-simple-steps-along-with-a-better-alternative/"><u>Want to Save Your Edited Video File in MP4 Format in Windows Movie Maker? Here Are the Simple Steps Along with a Better Alternative</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-comprehensive-guide-to-free-xbox-screen-recorder-use/"><u>[New] 2024 Approved Comprehensive Guide to Free Xbox Screen Recorder Use</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-essential-steps-for-sifting-through-facebook-videos/"><u>[New] Essential Steps for Sifting Through Facebook Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-your-ultimate-source-for-online-video-to-mp3-downloads/"><u>[New] Your Ultimate Source for Online Video to MP3 Downloads</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-updated-query-catalog-to-connect-with-podcast-loyalists-for-2024/"><u>[Updated] Updated Query Catalog to Connect with Podcast Loyalists for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-streamline-your-footage-iphones-shortening-methods/"><u>2024 Approved Streamline Your Footage IPhone's Shortening Methods</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-reno-9a-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-changers/"><u>In 2024, Recommended Video Background Changers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-creating-testimonial-videos-for-health-and-wellness-business-industry-for-2024/"><u>New Creating Testimonial Videos For Health And Wellness Business Industry for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>New How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-media-player-failures-on-windows-11-os/"><u>Resolving Media Player Failures on Windows 11 OS</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-achieving-gopro-slow-motion-with-quality-an-in-depth-overview/"><u>Updated 2024 Approved Achieving GoPro Slow Motion with Quality An In-Depth Overview</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-blender-a-video-editor-for-all-professor/"><u>Updated In 2024, Blender - A Video Editor for All Professor</u></a></li>
 </ul></div>
 
