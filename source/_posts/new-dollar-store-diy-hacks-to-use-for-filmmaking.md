@@ -1,7 +1,7 @@
 ---
 title: New Dollar-Store DIY Hacks to Use for Filmmaking
-date: 2024-11-02T18:38:53.141Z
-updated: 2024-11-06T23:01:26.689Z
+date: 2024-12-06T07:03:16.474Z
+updated: 2024-12-12T12:51:22.562Z
 tags: 
   - ai
   - animation videos
@@ -27,9 +27,17 @@ Let's start with something we can do to enhance your framing. Sometimes we want 
 
 ![fake plants](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can place it in front of your lens. Then focus on the talent behind it, giving a blurry foreground that perfectly frames the talent. Here's how the shot looks with and without foreground elements.
 
 ![framing the subject](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -146,10 +154,7 @@ It will make your voiceover slightly quieter, but it should also get rid of the 
 ![add socks to a mic to make voice quieter](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -171,6 +176,11 @@ See how easy it was! Keep in mind these dollar store hacks in your next video. A
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quickly Turn Any Video Into a Paper Rip Effect
 
@@ -198,6 +208,10 @@ We here take [Wondershare Filmora](https://tools.techidaily.com/wondershare/film
 * Support speech-to-text that allows smooth conversion of voiceover to text.
 * Over 2,000+ audio resources range from music and audio effects, and much more.
 * The shortcut key saves you time while editing videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Stepwise Guide to Make the Paper Rip Effect
 
@@ -237,13 +251,6 @@ Step8 Now you can use the new feature of Filmora to export this small portion of
 
 ![setting the in point](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-09.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** If you have the latest version, Filmora will automatically set the OUT POINT on the timeline.
@@ -260,13 +267,6 @@ Step10 Import the **Freeze Frame 1** to the media folder and replace the **Freez
 
 ![replaced the freeze frame and paper photo](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-012.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step11 Now let's make the second part of the transition effect. You should drag and Drop **Clip 2** onto the timeline and move the playhead to the clip's first frame. Then Add a Freeze Frame; you can also do it by pressing the **Alt+F** keys. Now click and drag the playhead to the end of the freeze frame and make a **Cut**.
 
 ![adding clip 2 to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-013.png)
@@ -278,13 +278,6 @@ Step12 Drag and drop the paper photo onto the second video track of the timeline
 Step13 Select the range you want to export by setting **IN and OUT** points as we did before. Press the **I** key on the keyboard to set the in point, drag the playhead to the out point, and press the **O** key.
 
 ![selecting in and out points](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-015.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step14 This time use the shortcut **Control + E** to open the export window. Again, let's name it **freeze frame 2** and then export it.
 
@@ -307,6 +300,10 @@ Step18 Then, find **Torned Paper Transition 4** in the **Transitions window**. D
 Finally, it's done. Let's play the video and see how the paper effect and transitions enhanced the video.
 
 ![the outcome](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-020.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -349,13 +346,6 @@ Step7 Double-click the paper picture on the timeline to open the settings window
 
 ![opening compositing menu](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-07.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In the preview window, we can see that the freeze frame has the paper texture now!
 
 ![freeze frame has a paper texture](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-08.png)
@@ -405,6 +395,10 @@ Step16 Now you can add several Filmora transitions to finish the effect. Go to t
 Step17 Drag and drop it onto the cut between **clip 1** and **freeze frame 1** and the cut between **clip 2** and **freeze frame 2**. You can also adjust the length of the transition.
 
 ![dropping the transition effect](https://images.wondershare.com/filmora/article-images/2023/01/paper-rip-effect-018.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step18 Then, find **Torned Paper Transition 4** in the **Transitions window**. Drag and drop it to the cut between **freeze frame 1** and **freeze frame 2**. Then choose **Prefix** mode in the transition setting video. Adjust the length if needed.
 
@@ -465,13 +459,6 @@ Next step, you just need to click the “Allow” button and you’re ready to t
 
 ![adjust stream settings youtube](https://images.wondershare.com/filmora/article-images/2022/07/adjust-stream-settings-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * I changed the Title and the Description as an example and the thumbnail as well. You can edit it when you continue to scroll down. You'll choose what kind of category it fits in. If you want, you can also add it to your Playlist and you’ll choose your audience, if it’s suitable for kids or not.
 
 ![create stream details](https://images.wondershare.com/filmora/article-images/2022/07/create-stream-details.jpg)
@@ -488,6 +475,10 @@ Next step, you just need to click the “Allow” button and you’re ready to t
 
 ![create stream visibility](https://images.wondershare.com/filmora/article-images/2022/07/create-stream-visibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * The image below shows how it looks like after you click the “DONE” button. And the only thing that you need is to click the “GO LIVE” button and everyone can participate on your live streaming.
 
 ![go live on youtube](https://images.wondershare.com/filmora/article-images/2022/07/go-live-on-youtube.jpg)
@@ -497,10 +488,7 @@ And here's an actual example of a Live streaming that I’ve already done before
 ![record youtube live stream](https://images.wondershare.com/filmora/article-images/2022/07/record-youtube-live-stream.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 During the live streaming, you can see people interacting with you on live and that’s totally awesome!
@@ -530,6 +518,10 @@ There are times when you record a video and find out that the light and color in
 
 If you are using iPhone or Mac, you can use Apple’s iMovie app easily. Therefore, you should know how to add filters on iMovie to get the desired output. iMovie app is available for both iPhone and iPad users as well as Mac users. You do not need prior experience in video editing to add filter to your videos to enhance and improve them. We will illustrate the steps on how to add filters in iMovie as well as suggest a better iMovie alternative.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. How to add filters on iMovie iPhone
 
 If you have an iPhone, you are more likely to record a video with your iPhone. This is because the camera quality of iPhones is extremely good and there are various modes available for capturing different types of videos like slow-motion and time-lapse. Once you capture a video with your iPhone, you can edit the video and add filters to enhance the video quality using iMovie app available for iPhone.
@@ -551,13 +543,6 @@ Step3 Your selected video will now be available on the Timeline where you can ed
 Step4 You will see all the different filters available on iMovie app. You can also find a slider above each selected filter. You can adjust the filter to increase or decrease the filter intensity.
 
 ![filter options imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/filter-options-imovie-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 Tap on Play icon to check how the filter is looking on your video. Once you are satisfied, tap on Done option located at the top-left corner.
 
@@ -649,18 +634,22 @@ If you are an iPhone user or a Mac user, you can add filters to your video using
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/uick-fix-closed-captioning-and-subtitling-for-youtube-amateurs-for-2024/"><u>[New] Quick-Fix Closed Captioning & Subtitling for YouTube Amateurs for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unleash-your-potential-detailed-guide-for-ps4-recordings-with-obs/"><u>[Updated] 2024 Approved Unleash Your Potential Detailed Guide for PS4 Recordings with OBS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-potential-in-media-production-via-xp/"><u>[Updated] Unleash Potential in Media Production via XP</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/if-you-want-to-make-an-intro-video-then-adobe-after-effects-will-be-a-great-choice-this-article-will-show-the-steps-to-create-an-intro-video-with-after-effe/"><u>If You Want to Make an Intro Video, Then Adobe After Effects Will Be a Great Choice. This Article Will Show the Steps to Create an Intro Video with After Effects by Your Own</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-vintage-film-effect-1950s/"><u>New How to Create Vintage Film Effect 1950S</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/revolutionize-visual-content-leading-montage-tools-for-phones/"><u>Revolutionize Visual Content Leading Montage Tools for Phones</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/smooth-steam-gaming-recordings-guide-for-2024/"><u>Smooth Steam Gaming Recordings Guide for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-trending-amazon-offers-in-september-2024-find-the-hottest-bargains/"><u>Top Trending Amazon Offers in September 2024: Find the Hottest Bargains</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/top-vr-gloves-to-check-out/"><u>Top VR Gloves to Check Out</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>Updated Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fading-sound-tracks-with-logic-pro/"><u>[New] Fading Sound Tracks with Logic Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-prime-selection-your-guide-to-best-tv-streaming-choices/"><u>[New] Prime Selection Your Guide to Best TV Streaming Choices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-essential-tactics-for-viral-fb-video-marketing-for-2024/"><u>[Updated] Essential Tactics for Viral FB Video Marketing for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-motion-blur-photo-with-gimp-step-by-step-guide/"><u>2024 Approved Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-steps-to-create-makeup-videos/"><u>2024 Approved Steps to Create Makeup Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/acquire-efficient-digital-filing-solutions-with-wonderfox/"><u>Acquire Efficient Digital Filing Solutions with WonderFox</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-add-green-screen-eff/"><u>Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-your-virtual-identity-essential-tech-you-need-top-7-for-2024/"><u>Crafting Your Virtual Identity - Essential Tech You Need (Top 7) for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/free-movie-talent-release-declaration-for-2024/"><u>Free Movie Talent Release Declaration for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-gionee-f3-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Gionee F3 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-troubleshooting-techniques-for-unrecognized-ssds-on-windows-11-systems/"><u>Mastering Troubleshooting Techniques for Unrecognized SSDs on Windows 11 Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-transitions-in-adobe-premiere-pro/"><u>New How to Add Transitions in Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-in-canva-editor/"><u>New How to Loop a Video in Canva Editor</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rhythmic-refinement-practice-english-twisters-daily/"><u>Rhythmic Refinement: Practice English Twisters Daily</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/this-article-aims-to-show-you-how-to-improve-your-lighting-in-the-sun/"><u>This Article Aims to Show You How to Improve Your Lighting in the Sun</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-8-best-sites-to-get-glitch-transition-for-premiere-pro/"><u>Updated In 2024, 8 Best Sites to Get Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-create-the-night-to-day-effect-videos/"><u>Updated In 2024, Create the Night-to-Day Effect Videos</u></a></li>
 </ul></div>
 

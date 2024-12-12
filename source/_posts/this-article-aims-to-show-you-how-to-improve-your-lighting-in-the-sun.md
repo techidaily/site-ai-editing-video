@@ -1,7 +1,7 @@
 ---
 title: This Article Aims to Show You How to Improve Your Lighting in the Sun
-date: 2024-09-27T17:59:14.267Z
-updated: 2024-10-03T03:06:43.781Z
+date: 2024-12-06T12:18:00.454Z
+updated: 2024-12-12T00:48:06.796Z
 tags: 
   - ai
   - animation videos
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 Shooting outdoors is a challenge in most situations. We have to deal with the sun being overexposed or the background is too dark.
 
 In this article, we'll show you how to light with the sun the easiest way. These simple and effective tips can help you block the harsh sun and make it to your advantage!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1) Preparation
 
@@ -71,6 +75,10 @@ Now, take a look at the comparison with all the lighting conditions we create:
 1. Flag VS Flag & Light
 
 ![flag vs flag light](https://images.wondershare.com/filmora/article-images/2022/12/comparison-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Backlight VS Backlight & Bounce
 
@@ -193,13 +201,6 @@ Step3Select the video layer and then tap on the layer mask from the left sidebar
 
 ![add text style powerdirector](https://images.wondershare.com/filmora/article-images/2022/08/add-text-style-powerdirector.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4Type in the text that you want to add to the video on the text box and then tap on the “T” icon at the top-right corner of the text box to customize the text.
 
 You can use PowerDirector to change the font, color, and text size or even add effects like Text shadow.
@@ -221,13 +222,6 @@ Step5When you're done editing the video, tap on the “Export” icon at the top
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Looking for the Best Online Video Editors to Add Filter to Your Video? Here Is the List of the Best Video Editors to Add Filter Video Online in Simple Steps
 
@@ -274,13 +268,6 @@ Step3After the video file gets uploaded, you will see Filters on the left side o
 Step4Click on the filters to see how they look on your video instantly. Once you have selected a filter for the video, click on Export button to save the edited video in desired file format.
 
 ![apply filter to video veedio](https://images.wondershare.com/filmora/article-images/2022/08/apply-filter-to-video-veedio.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 3\. Clipchamp Video Filter Editor
 
@@ -330,13 +317,6 @@ Step5Once you have applied a filter and you can satisfy with it, click on Export
 
 ![export filter video flexclip](https://images.wondershare.com/filmora/article-images/2022/08/export-filter-video-flexclip.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 5\. Kapwing Filter Video Editor
 
 Kapwing is a popular online video editor, and you can add video filters to your recorded video for free. Kapwing Filter Video Editor works on all devices, and you can access it from any popular web browser. You can upload recorded video as well as paste URL of an online video stored in Google cloud platform to apply video filters. The preset filters enhance video quality starting from colors and saturation to brightness and contrast. You can also share them on social media platforms directly from Kapwing video editor. Here are the steps how to put filter on video online using Kapwing filter video editor.
@@ -361,6 +341,10 @@ Step5Select the best one and click on Apply Filters button. Finally, click on Ex
 
 ![apply video filters kapwing](https://images.wondershare.com/filmora/article-images/2022/08/apply-video-filters-kapwing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 If you want to apply video filters to your recorded video in order to enhance the video outlook and adjust the color balance, you can use video filter editors online. We have illustrated five different ways on how to add video filters online for free. Each one of them has different sets of video filters. If you are looking for a dedicated video editor desktop application, we recommend Wondershare [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -383,13 +367,6 @@ Kdenlive is a free, open-source video editing software application. Kdenlive is 
 
 Kdenlive's user interface is divided into three main areas: the timeline, the clip monitor, and the effects stack. The timeline is where you add and arrange your clips. The clip monitor shows your video as it will appear in your final project. The effects stack allows you to apply a range of video effects to your clips.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step-by-step on how to rotate videos using Kdenlive
 
 There are two ways to rotate videos using Kdenlive: by using the rotate filter or by changing the project settings. The rotate filter is a video effect that allows you to rotate your video clip around its vertical and horizontal axes. To apply the rotate filter...
@@ -402,131 +379,9 @@ Step 2: Open the Effects tab and expand the Transform, Distort Perspective tab.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-2.png)
 
-Step 3: Drag the Rotate filter onto your clip.
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-3.png)
-
-Step 4: The Rotate filter will open in the Effects Editor.
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-4.png)
-
-Step 5: Use the sliders to rotate your video clip.
-
-Step 6: Click the ‘Save’ Icon to apply the filter.
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-5.png)
-
-The rotate filter is a great way to quickly rotate your video clip. However, it does have some limitations. For example, you can't...
-
-\- use the rotate filter on clips that are already rotated
-
-\- use the rotate filter to create a 360-degree rotation
-
-\- change the rotation orientation of your clip.
-
-If you need to rotate your video clip in a different direction, or if you want to create a 360-degree rotation, you can change the project settings. The rotate filter can be used to rotate your video clip in 90-degree increments. If you need to rotate your video clip by a different amount, you can change the project settings. To change the project settings...
-
-Step 1: Import your video clip to the timeline.
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-6.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-Step 2: Right-click on the clip and select Apply an Effect > Transform from the menu.
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 3: The Properties window will open. Select the Rotate tab.
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-8.png)
-
-Step 4: Use the slider to set the amount of rotation you need.
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-9.png)
-
-Step 5: Click the ‘Save’ Icon to apply the changes.
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-10.png)
-
-The project settings allow you to rotate your video clip in any direction you need.
-
-## How to rotate videos using Filmora?
-
-Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate your video. Filmora is a powerful video editor that can be used to create professional-quality videos. It supports all of the major video formats and has a wide range of features. Filmora is available for Windows and Mac OS X. Filmora's user interface is divided into three main areas: the timeline, the preview window and the effects panel. The timeline is where you add and arrange your clips. The preview window shows your video as it will appear in your final project. The effects panel allows you to apply a range of video effects to your clips.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-### Step-by-step on how to rotate videos using Filmora
-
-Two ways to rotate your videos using Filmora: by using the rotate option when you right click it or changing the project settings. The rotate filter is a video effect that allows you to rotate your video clip around its vertical and horizontal axes.
-
-To apply the rotate filter...
-
-Step 1: Import your video clip into Filmora.
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-11.png)
-
-Step 2: Right-click on the video.
-
-Step 3: Select ‘Rotate 90 CW’ or click Ctrl + Alt + Right to rotate the video 90 degrees clockwise.
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-12.png)
-
-Step 4: Select ‘Rotate 90 CCW’ or click Ctrl + Alt + Left to rotate the video 90 degrees counterclockwise.
-
-Step 5: Repeat the steps until you are satisfied. Note: It can only rotate the video in the degrees of multiples of 90.
-
-Step 6: The video is now rotated.
-
-Filmora's rotate filter is very similar to Kdenlive's. However, there are a few differences. For example...
-
-\- you can use the rotate filter on clips that are already rotated
-
-\- you can change the rotation orientation of your clip.
-
-If you need to rotate your video clip in a different direction, or if you want to create a 360-degree rotation, follow the below steps:
-
-Click on the ‘Edit’ option in the tool above the timeline.
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-13.png)
-
-Select the ‘Transform’ option, then go to ‘Rotate’
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-14.png)
-
-Use the slider to set the amount of rotation you need.
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-15.png)
-
-Click OK to apply the changes.
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-16.png)
-
-The project settings allow you to rotate your video clip in any direction you need.
-
-Both Filmora and Kdenlive offer a rotate filter that allows you to rotate your video clip by a certain amount. However, only Filmora offers the ability to rotate your video clip in any direction you need. Additionally, Filmora offers a wide range of features that can be used to create professional-quality videos. If you need to rotate your video clip in a different direction, or if you want to create a 360-degree rotation, Filmora is the best option.
-
-Step 2: Open the Effects tab and expand the Transform, Distort Perspective tab.
-
-![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-2.png)
 
 Step 3: Drag the Rotate filter onto your clip.
 
@@ -541,13 +396,6 @@ Step 5: Use the sliders to rotate your video clip.
 Step 6: Click the ‘Save’ Icon to apply the filter.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The rotate filter is a great way to quickly rotate your video clip. However, it does have some limitations. For example, you can't...
 
@@ -661,6 +509,10 @@ Step 6: Click the ‘Save’ Icon to apply the filter.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The rotate filter is a great way to quickly rotate your video clip. However, it does have some limitations. For example, you can't...
 
 \- use the rotate filter on clips that are already rotated
@@ -704,6 +556,10 @@ For Win 7 or later (64-bit)
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-step on how to rotate videos using Filmora
 
@@ -750,6 +606,134 @@ Use the slider to set the amount of rotation you need.
 Click OK to apply the changes.
 
 ![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-16.png)
+
+The project settings allow you to rotate your video clip in any direction you need.
+
+Both Filmora and Kdenlive offer a rotate filter that allows you to rotate your video clip by a certain amount. However, only Filmora offers the ability to rotate your video clip in any direction you need. Additionally, Filmora offers a wide range of features that can be used to create professional-quality videos. If you need to rotate your video clip in a different direction, or if you want to create a 360-degree rotation, Filmora is the best option.
+
+Step 2: Open the Effects tab and expand the Transform, Distort Perspective tab.
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-2.png)
+
+Step 3: Drag the Rotate filter onto your clip.
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-3.png)
+
+Step 4: The Rotate filter will open in the Effects Editor.
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-4.png)
+
+Step 5: Use the sliders to rotate your video clip.
+
+Step 6: Click the ‘Save’ Icon to apply the filter.
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-5.png)
+
+The rotate filter is a great way to quickly rotate your video clip. However, it does have some limitations. For example, you can't...
+
+\- use the rotate filter on clips that are already rotated
+
+\- use the rotate filter to create a 360-degree rotation
+
+\- change the rotation orientation of your clip.
+
+If you need to rotate your video clip in a different direction, or if you want to create a 360-degree rotation, you can change the project settings. The rotate filter can be used to rotate your video clip in 90-degree increments. If you need to rotate your video clip by a different amount, you can change the project settings. To change the project settings...
+
+Step 1: Import your video clip to the timeline.
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-6.png)
+
+Step 2: Right-click on the clip and select Apply an Effect > Transform from the menu.
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-7.png)
+
+Step 3: The Properties window will open. Select the Rotate tab.
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-8.png)
+
+Step 4: Use the slider to set the amount of rotation you need.
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-9.png)
+
+Step 5: Click the ‘Save’ Icon to apply the changes.
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-10.png)
+
+The project settings allow you to rotate your video clip in any direction you need.
+
+## How to rotate videos using Filmora?
+
+Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate your video. Filmora is a powerful video editor that can be used to create professional-quality videos. It supports all of the major video formats and has a wide range of features. Filmora is available for Windows and Mac OS X. Filmora's user interface is divided into three main areas: the timeline, the preview window and the effects panel. The timeline is where you add and arrange your clips. The preview window shows your video as it will appear in your final project. The effects panel allows you to apply a range of video effects to your clips.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Step-by-step on how to rotate videos using Filmora
+
+Two ways to rotate your videos using Filmora: by using the rotate option when you right click it or changing the project settings. The rotate filter is a video effect that allows you to rotate your video clip around its vertical and horizontal axes.
+
+To apply the rotate filter...
+
+Step 1: Import your video clip into Filmora.
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-11.png)
+
+Step 2: Right-click on the video.
+
+Step 3: Select ‘Rotate 90 CW’ or click Ctrl + Alt + Right to rotate the video 90 degrees clockwise.
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 4: Select ‘Rotate 90 CCW’ or click Ctrl + Alt + Left to rotate the video 90 degrees counterclockwise.
+
+Step 5: Repeat the steps until you are satisfied. Note: It can only rotate the video in the degrees of multiples of 90.
+
+Step 6: The video is now rotated.
+
+Filmora's rotate filter is very similar to Kdenlive's. However, there are a few differences. For example...
+
+\- you can use the rotate filter on clips that are already rotated
+
+\- you can change the rotation orientation of your clip.
+
+If you need to rotate your video clip in a different direction, or if you want to create a 360-degree rotation, follow the below steps:
+
+Click on the ‘Edit’ option in the tool above the timeline.
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-13.png)
+
+Select the ‘Transform’ option, then go to ‘Rotate’
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-14.png)
+
+Use the slider to set the amount of rotation you need.
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-15.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Click OK to apply the changes.
+
+![rotate-video-kdenlive](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-kdenlive-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The project settings allow you to rotate your video clip in any direction you need.
 
@@ -883,16 +867,20 @@ Both Filmora and Kdenlive offer a rotate filter that allows you to rotate your v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-apple-podcasts-a-quick-download-method/"><u>[New] Apple Podcasts A Quick Download Method</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/o-cost-sound-transformation-ultimate-10-youtube-tools/"><u>[New] No-Cost Sound Transformation Ultimate 10 YouTube Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlined-creativity-the-most-popular-8-mobile-apps-for-edits/"><u>2024 Approved Streamlined Creativity The Most Popular 8 Mobile Apps for Edits</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-overcome-memory-management-blue-screen-in-windows-11/"><u>Effective Solutions to Overcome 'Memory Management' Blue Screen in Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/heartfelt-thanks-otu-selection-at-your-fingertips/"><u>Heartfelt Thanks OTU Selection at Your Fingertips</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On OnePlus 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-to-mimic-professional-filming-gears-for-2024/"><u>How to to Mimic Professional Filming Gears for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-know-how-to-create-a-lol-montage-video-had-you-ever-tried-that-video-type-before-connect-with-this-article-to-study-the-tips-and-tricks-assoc/"><u>In 2024, Do You Know How to Create a Lol Montage Video? Had You Ever Tried that Video Type Before? Connect with This Article to Study the Tips and Tricks Associated with the Making of Montage Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-working-through-the-details-of-imovie-slow-motion-video-making-100-effective/"><u>New 2024 Approved Working Through the Details of iMovie Slow Motion Video Making 100 Effective</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-a-movie-with-windows-movie-maker/"><u>New Create a Movie with Windows Movie Maker</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/optimized-with-the-help-of-cookiebot-enhancing-your-websites-user-experience/"><u>Optimized with the Help of Cookiebot: Enhancing Your Website's User Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-maximize-your-online-presence-with-these-5-streaming-techniques/"><u>[New] 2024 Approved Maximize Your Online Presence with These 5 Streaming Techniques</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discord-dialogue-perfecting-your-replies/"><u>[New] Discord Dialogue Perfecting Your Replies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-series-premium-webcam-grips/"><u>[Updated] Optimal Series Premium Webcam Grips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/harmonyhook-tracker-extracting-sound-and-insights/"><u>HarmonyHook Tracker Extracting Sound & Insights</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-huawei-nova-y91-easily-by-drfone-android/"><u>In 2024, How To Unlock a Huawei Nova Y91 Easily?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-meme-world-for-iphone-enthusiasts/"><u>In 2024, Meme World for iPhone Enthusiasts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-performance-with-new-amd-drivers-windows-11-edition/"><u>Optimal Performance with New AMD Drivers: Windows 11 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tackling-iphone-lens-blur-steps-for-improved-focus-for-2024/"><u>Tackling iPhone Lens Blur Steps for Improved Focus for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-5-best-online-stop-motion-makers-on-2023-freeandpaid/"><u>Updated 2024 Approved 5 Best Online Stop Motion Makers on 2023 Free&Paid</u></a></li>
 </ul></div>
 

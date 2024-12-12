@@ -1,7 +1,7 @@
 ---
 title: Updated How To Use Speed Ramping to Create an Intense Action Footage for 2024
-date: 2024-11-30T23:00:29.113Z
-updated: 2024-12-05T21:05:46.925Z
+date: 2024-12-07T19:13:36.840Z
+updated: 2024-12-11T21:46:56.324Z
 tags: 
   - ai
   - animation videos
@@ -85,10 +85,6 @@ The lower keyframe is when the video is slowest, and the peak is when the video 
 
 ![adjusting key-frames wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-6.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Grab the keyframes and move them up to increase the speed or down to slow down the rate. You can also add more keyframes by moving the playhead to the spot where you want to change speed and clicking the plus button.
 
 After adjusting our keyframes, we can play it back to see if we like the result.
@@ -105,10 +101,6 @@ Since speed ramping can only be used for paid users, we also provide you with an
 
 ![split adjusting the clips](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-8.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Following the above steps, a speed ramping style effect can be created without using the premium feature. Stealthy, isn't it?
 
 ##### Step3 Add some intensity to shots with the BCC glitch effect
@@ -122,10 +114,6 @@ We will use Boris FX BCC glitch to add some intensity to our video. It is a plug
 * We are going to scroll down and select shake with motion blur. This preset will use the exact look we want for our basketball video to make the speed ramping more intense.
 
 ![present a drop-down menu and reduce the effect](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-9.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * You can change the settings around after choosing a preset. For example, let's turn up the glitch intensity to have our glitch a little more extreme. Moving further, we can change the glitch duration to our specific needs.
 
@@ -164,6 +152,10 @@ First, import a video from your media library in the Wondershare Filmora. And dr
 
 ![library in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Apply the speed ramping feature
 
 To apply the speed ramping feature, **right-click** on the clip on the timeline. And click speed in the menu and choose **speed ramping** to open the settings window.
@@ -174,9 +166,17 @@ You can choose different speed templates in the setting window. Or, on the left 
 
 ![speed templates on wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The lower keyframe is when the video is slowest, and the peak is when the video is fastest. The middle parts between the keyframes are when it speeds up or slows down to reach the specific speed you set on each keyframe.
 
 ![adjusting key-frames wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-6.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Grab the keyframes and move them up to increase the speed or down to slow down the rate. You can also add more keyframes by moving the playhead to the spot where you want to change speed and clicking the plus button.
 
@@ -208,6 +208,10 @@ We will use Boris FX BCC glitch to add some intensity to our video. It is a plug
 
 ![present a drop-down menu and reduce the effect](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-9.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You can change the settings around after choosing a preset. For example, let's turn up the glitch intensity to have our glitch a little more extreme. Moving further, we can change the glitch duration to our specific needs.
 
 Now we can watch our video to see our glitch with the motion blur effect. Isn't it crazy to make a cinematic video by yourself? The speed ramping feature and glitch effects can bring any sports video to the next level.
@@ -232,7 +236,7 @@ We have seen video creators on YouTube using green screen effects to beautify th
 The concept of using virtual greenscreen is rather new, but it is getting popular among amateur video creators who do not want to invest in purchasing green screens initially. When you use a virtual background to shoot your video, the actual physical background is replaced completely with a virtual green background. Thereafter, you have to replace this virtual background with anything by using a video editor. In this article, we will illustrate how to use a virtual green screen to shoot video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Free Virtual Green Screen
@@ -293,6 +297,10 @@ Now you will the superimposed version of the replacement video effect on the gre
 
 Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 You can now have virtual background without green screen purchase on your video. All you need is a proper application to replace your physical background with a virtual green screen and record the entire video. We have recommended free Snap Camera app and OBS Studio for this job. Then you need to edit the green screen virtual backgrounds with a video editor for which we have recommended Wondershare Filmora.
@@ -319,6 +327,10 @@ Now you will the superimposed version of the replacement video effect on the gre
 
 Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 You can now have virtual background without green screen purchase on your video. All you need is a proper application to replace your physical background with a virtual green screen and record the entire video. We have recommended free Snap Camera app and OBS Studio for this job. Then you need to edit the green screen virtual backgrounds with a video editor for which we have recommended Wondershare Filmora.
@@ -337,15 +349,15 @@ Please note that your recorded green screen video is above the replacement video
 
 ![replacement](https://images.wondershare.com/filmora/article-images/replacement.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Double-click on the recorded video and you will see a panel on the upper-left side. From that panel, turn on Chroma Key option. We have already stated that green screen effect is technically referred to as Chroma Key.
 
 Now you will the superimposed version of the replacement video effect on the green screen background of your recorded video.
 
 ![background](https://images.wondershare.com/filmora/article-images/background.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
 
@@ -417,10 +429,6 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 
 ![access time stretch feature](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** In the Time Stretch window, increase the default value of "Stretch Factor." Then click "OK," and this will slow down your clip.
 
 ![change stretch factor](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-2.jpg)
@@ -478,10 +486,6 @@ After importing media and bringing it to the timeline panel, select it. Then, na
 
 ![look for speed ramping section](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2Access the AI Frame Interpolation
 
 Continue to select a specific preset for speed ramping. As you select one, locate and expand the “AI Frame Interpolation” section. From the appearing option, select the “Optical Flow” option.
@@ -493,10 +497,6 @@ Continue to select a specific preset for speed ramping. As you select one, locat
 Once you have enabled this option, navigate towards the timeline toolbar. Search and select the "Render Preview" option from the given icons. Play the video to see the results, adjust, and click the "Export" button to download.
 
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
 
@@ -583,6 +583,10 @@ Once you have downloaded Filmora, start it and click the “New Project” tab. 
 
 ![add videos to timeline](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2Access Uniform Speed Option
 
 Once the media is in the timeline, select it and right-click on it. From the options panel, locate and click the "Uniform Speed" option. From
@@ -612,7 +616,7 @@ Continue to select a specific preset for speed ramping. As you select one, locat
 ![set preset and change frame interpolation](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 3Render Preview for Results
@@ -641,10 +645,6 @@ Filmora offers multiple mask options to infuse effects and filters to specific p
 
 Thumbnails increase video views by evoking the audience's interest in seeing a video. In Filmora, you can employ the AI Thumbnail creator to auto-create thumbnails. It analyzes the best frame out of your video and chooses it as a thumbnail. You can further apply many templates to this thumbnail according to context.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article has expanded your knowledge and expertise about two powerful video editors. With **how to slow down video in After Effects**, we introduced you to the software. There is no limitation of features in either software as both bring out the best in videos.
@@ -667,20 +667,16 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-expert-guides-to-mobile-screen-recording/"><u>[New] Expert Guides to Mobile Screen Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-art-of-personalizing-video-covers-for-facebook/"><u>[New] Mastering the Art of Personalizing Video Covers for Facebook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-prime-8-instagram-managers-for-mobile-devices-for-2024/"><u>[Updated] Prime 8 Instagram Managers for Mobile Devices for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-11-tips-to-make-product-ad-videos/"><u>2024 Approved 11 Tips to Make Product Ad Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-image-jpgpng-to-gif-converters/"><u>Best Image (JPG/PNG) to GIF Converters</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/celebrate-new-beginnings-by-saving-big-with-mondly-pros-free-access/"><u>Celebrate New Beginnings by Saving Big with Mondly Pro's Free Access</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-way-to-add-transitions-to-videos/"><u>In 2024, Easy Way to Add Transitions to Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-applying-the-effect-of-camera-shake-in-video-creation/"><u>New Applying the Effect of Camera Shake in Video Creation</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-glitch-text-effect-for-2024/"><u>New Create Glitch Text Effect for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-time-lapse-to-normal-video/"><u>New In 2024, How to Convert Time-Lapse to Normal Video</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/optimized-with-cookiebot-technology-for-smarter-user-experience-and-analytics/"><u>Optimized With Cookiebot Technology for Smarter User Experience and Analytics</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-using-emojis-effectively-on-the-iphone/"><u>Step-by-Step Guide to Using Emojis Effectively on the iPhone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-prime-cloud-storage-contenders-of-the-new-year-for-2024/"><u>The Prime Cloud Storage Contenders of the New Year for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/trouble-with-hitman-n-game-heres-how-to-resolve-the-notorious-pc-black-screen-problem/"><u>Trouble with Hitman N Game? Here's How to Resolve the Notorious PC Black Screen Problem</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-videos-with-imovie/"><u>Updated 2024 Approved How to Loop Videos with iMovie</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-incredible-analysis-and-backup-recommendations-for-2024/"><u>[New] Incredible Analysis & Backup Recommendations for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unveiling-creativity-making-striking-slideshows-for-fb-friends/"><u>[Updated] 2024 Approved Unveiling Creativity Making Striking SlideShows for FB Friends</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-record-screen-with-panopto-screen-recorder/"><u>2024 Approved How To Record Screen With Panopto Screen Recorder</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fallout-eblack-screen-issue-efficient-solutions-and-fixes-to-restore-your-gameplay-smoothly/"><u>Fallout Eblack Screen Issue: Efficient Solutions and Fixes to Restore Your Gameplay Smoothly</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-can-i-control-speed-of-a-video/"><u>How Can I Control Speed of a Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-vacation-slideshow-in-5-minutes/"><u>In 2024, How to Create a Vacation Slideshow in 5 Minutes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>New In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-cubefit-terramat-enhance-fitness-by-simply-standing/"><u>Review of the CubeFit TerraMat: Enhance Fitness by Simply Standing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/step-by-step-to-split-a-clip-in-vlc-for-2024/"><u>Step by Step to Split a Clip in VLC for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-performing-a-full-restart-on-any-ipad-model/"><u>Ultimate Guide: Performing a Full Restart on Any iPad Model</u></a></li>
 </ul></div>
 

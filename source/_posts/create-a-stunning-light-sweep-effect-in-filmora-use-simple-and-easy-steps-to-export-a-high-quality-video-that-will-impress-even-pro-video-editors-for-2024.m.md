@@ -1,7 +1,7 @@
 ---
 title: Create a Stunning Light Sweep Effect in Filmora. Use Simple and Easy Steps to Export a High-Quality Video that Will Impress Even Pro Video Editors for 2024
-date: 2024-11-03T19:42:30.982Z
-updated: 2024-11-06T21:39:05.874Z
+date: 2024-12-06T22:22:46.945Z
+updated: 2024-12-12T04:52:58.746Z
 tags: 
   - ai
   - animation videos
@@ -369,6 +369,10 @@ Creating slo mo videos is a staple in video editing, which helps make videos mor
 
 When you slow motion a video, you make it easier for your viewers to observe details in every minute. This is also an effective way to add emotional weight or a dramatic flair to your videos. Let’s explore how to edit a video slow motion on iPhone with Wondershare Filmora.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 1: Download Wondershare Filmora**
 
 Open the App Store on your phone. Search for Wondershare Filmora, download and launch the app on your phone. Follow the instructions on the screen to create a Filmora account or log in to an existing one to start using the app.
@@ -380,6 +384,10 @@ Open the App Store on your phone. Search for Wondershare Filmora, download and l
 Once you open the Filmora app, tap the + button and import the video you want to edit from your photo library.
 
 ![import files](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 3: Slow Down the Video**
 
@@ -406,6 +414,10 @@ You can opt for speeding up or slowing down the video based on what you specific
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 1: Download and Install Filmora**
 
@@ -445,13 +457,6 @@ Creating slow-motion videos is a vital skill in video editing. It improves visua
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 1\.** **How to Make Slow Motion Videos on [iPhone With Filmora](https://apps.apple.com/us/app/filmora-ai-video-editor-maker/id1019382747): 2 Ways**
 
 Creating slo mo videos is a staple in video editing, which helps make videos more cinematic and engaging. Understanding how to edit iPhone slow motion video will help you to create quality videos on the go. It also gives you more freedom in how you tell your visual story or keeping the attention of your viewers throughout the video.
@@ -467,13 +472,6 @@ When you slow motion a video, you make it easier for your viewers to observe det
 Open the App Store on your phone. Search for Wondershare Filmora, download and launch the app on your phone. Follow the instructions on the screen to create a Filmora account or log in to an existing one to start using the app.
 
 ![filmora iphone](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 2: Import Video to Filmora**
 
@@ -518,19 +516,6 @@ Search for Wondershare Filmora in the Google Play Store. The app is available fo
 Once you start the Filmora app on your Android device, tap the + button and select the video you want to import. This will add the video files in Filmora to start editing its specific components, including speed.
 
 ![import files](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-6.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 3: Adjust the Speed with Filmora**
 
@@ -576,13 +561,6 @@ Camera Tracking is a relatively simple process, but it can be time-consuming. Ho
 
 For example, you have taken a video clip of a zoo and want to add an object to it while making sure it gives a realistic look. This is where the **Camera Tracking** feature can help you make a smooth transition and add the element as if it was there.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Why Use Camera Tracking?
 
 Now that you know what Camera Tracking is, let's have a look at some benefits of using it:
@@ -603,13 +581,6 @@ The Motion Tracking capability is Adobe After Effects' feature that allows you t
 Motion tracking can be used for various effects, like creating realistic text animations or adding special effects to objects in a video.
 
 There are four main types of Motion Tracking in After Effects, each with its own advantages and disadvantages:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Single Point Tracking
 
@@ -655,13 +626,6 @@ Launch **Adobe After Effects**, create a new composition, and import your footag
 
 ![importing the video footage and heading to the tracker option](https://images.wondershare.com/filmora/article-images/2022/08/importing-the-video-footage-and-heading-to-the-tracker-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Here you will see four tracking options:
 
 1. Track Camera
@@ -686,6 +650,10 @@ You have to select the tracking points and a plane to which it must be tracked. 
 Now, you have to find a **tracking point** that lays the red **"target"** parallel to your selected plane. Next, select the triangle that lines up best for your surface. Move the **arrow** away to disable the picker and stop the red **"target."**
 
 ![establishing the tracking points and plane](https://images.wondershare.com/filmora/article-images/2022/08/establishing-the-tracking-points-and-plane.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3Add The Text To Your Video Clip
 
@@ -723,6 +691,10 @@ We hope this guide helps you to add text to your video footage without much effo
 
 ![the referential dots on the video footage](https://images.wondershare.com/filmora/article-images/2022/08/the-referential-dots-on-the-video-footage.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2Establish The Tracking Points
 
 You have to select the tracking points and a plane to which it must be tracked. To do this, hover over the tracking point references in the **After Effect compositions window**. Between the three tracking points, a triangle will form, and a red **"target"** will appear to help you better visualize the plane.
@@ -750,13 +722,6 @@ Click the **"Transform"** option to use the transform options and use the layer 
 **Note:** You can select your layer and press the S, P, R, or T keys to adjust the scale, position, rotation, and opacity, respectively.
 
 Your text will now be added to your video footage. The method is similar to adding solid or null to your clips. However, the exact steps might differ a little.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Video - Learn 3D Camera Tracking In After Effects
 
@@ -790,6 +755,10 @@ The pleasant and eye-catchy location always makes your music video trending or f
 
 ![finding the right location for the music video](https://images.wondershare.com/filmora/article-images/2023/04/finding-the-right-location-for-the-music-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you are going with large projects, you need to consider the following requirements!
 
 ### 1\. Availability of electricity
@@ -801,6 +770,10 @@ You need rig lights and a large lighting setup to make your video more glow and 
 During shooting for big projects, you need room to store all gear and sensitive equipment in one place for many days.
 
 ![separate room to store gears](https://images.wondershare.com/filmora/article-images/2023/04/separate-room-to-store-gears.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Check the size
 
@@ -852,6 +825,10 @@ You can also make scenes of your music video in office space to better describe 
 For better daylight and illustrations in the music video, you can go with the outdoor location, which is free of cost.
 
 ![outdoor location for shooting](https://images.wondershare.com/filmora/article-images/2023/04/outdoor-location-for-shooting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Location 4\. Public Places
 
@@ -944,13 +921,6 @@ You can also make scenes of your music video in office space to better describe 
 
 ![office space for shooting](https://images.wondershare.com/filmora/article-images/2023/04/office-space-for-shooting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Location 3\. Outdoor Locations
 
 For better daylight and illustrations in the music video, you can go with the outdoor location, which is free of cost.
@@ -991,6 +961,10 @@ It consists of one to two pages according to shoot days and has a plan of everyt
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** When you wrap up for day 1, you have another call sheet for day 2, day 3, and so on!
 
 ### 3\. Do Planning
@@ -1008,6 +982,10 @@ While in day 2, there is a filming of every memory. For this, there are setups o
 ### 4\. Take No Stress
 
 You should not blow up and take stress during shoot day because it'll obviously cause chaos in every little scene and give a bad impression to the music video. You just should work hard and get all done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -1033,20 +1011,16 @@ Filming with people is not always bulky and flopping, but if you have a cooperat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-ultimate-alternative-review-to-sharex/"><u>2024 Approved The Ultimate Alternative Review to ShareX</u></a></li>
-<li><a href="https://driver-install.techidaily.com/chipset-driver-update-for-win-10-8-oses/"><u>Chipset Driver Update for WIN 10-8 OSes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-change-text-in-premiere-pro/"><u>How To Change Text In Premiere Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-11x-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme 11X 5G Device</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-green-screen-video-in-after-effects/"><u>New How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-animated-titles-and-text-in-the-filmora-video-editor-this-is-a-simple-step-by-step-tutorial-for-any-skill-level/"><u>New Learn How to Create Animated Titles and Text in the Filmora Video Editor. This Is a Simple Step-by-Step Tutorial for Any Skill Level</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-list-of-best-vhs-video-effect-makers/"><u>New Top List of Best VHS Video Effect Makers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/schritt-fur-schritt-installationsanleitungen-fur-winxdvd-software/"><u>Schritt-Für-Schritt-Installationsanleitungen Für WinXDVD Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-dsounddll-file-missing-issues-a-comprehensive-guide/"><u>Solving dsound.dll File Missing Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-spectrum-of-ai-accessibility-community-to-individual-models/"><u>The Spectrum of AI Accessibility: Community to Individual Models</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upcoming-highlights-from-apples-fall-showcase-new-m4-mac-mini-and-advanced-ipad-models-insights-from-zdnet/"><u>Upcoming Highlights From Apple's Fall Showcase: New M4 Mac Mini & Advanced iPad Models - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-targus-displaylink-software-compatible-with-windows-os-versions/"><u>Update Your Targus DisplayLink Software Compatible with Windows OS Versions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-add-transition-effects-in-premiere-pro/"><u>Updated 2024 Approved Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-way-to-color-grading-and-color-correction-in-filmora/"><u>Updated In 2024, Best Way To Color Grading & Color Correction in Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1920s-how-to-make-for-2024/"><u>Vintage Film Effect 1920S - How to Make for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-minecraft-banner-templates-get-them-here/"><u>[Updated] Minecraft Banner Templates Get Them Here</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/disk-partition-removal-made-easy-on-windows-11-step-by-step-tutorial/"><u>Disk Partition Removal Made Easy on Windows 11 – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-make-your-background-disappear-and-replace-with-an-attractive-background-here-is-how-to-add-a-green-screen-to-zoom-app-and-add-any-virtual-ba/"><u>Do You Want to Make Your Background Disappear and Replace with an Attractive Background? Here Is How to Add a Green Screen to Zoom App and Add Any Virtual Background of Your Choice</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-motorola-moto-g-5g-2023-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Motorola Moto G 5G (2023) Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/unlock-your-pc-ultimate-guide-to-free-system-recovery-via-safe-mode-in-various-windows-versions/"><u>Unlock Your PC: Ultimate Guide to Free System Recovery via Safe Mode in Various Windows Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-pro-tactics-in-mcp-free-old-manager-game/"><u>Unlocking Pro Tactics in MCP: Free Old Manager Game</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-ways-to-make-time-lapse-video-on-macbook/"><u>Updated 3 Ways to Make Time-Lapse Video on MacBook</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora-for-2024/"><u>Updated How to Correct Lens Distortion With Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>Updated Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/usb-c-troubleshooting-how-to-address-the-liquid-detected-prompt-on-your-iphone/"><u>USB-C Troubleshooting: How to Address the 'Liquid Detected' Prompt on Your iPhone</u></a></li>
 </ul></div>
 

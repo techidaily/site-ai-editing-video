@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Best Ideas on Using Green Screen with Filmora
-date: 2024-12-01T09:34:47.934Z
-updated: 2024-12-06T03:23:11.386Z
+date: 2024-12-09T19:05:38.114Z
+updated: 2024-12-12T10:14:01.787Z
 tags: 
   - ai
   - animation videos
@@ -23,10 +23,6 @@ Green screener chroma key is commonly used in film, tv shows, and social media v
 
 ![the magic box](https://images.wondershare.com/filmora/article-images/2023/01/fun-green-screen-1.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2\. Liquid Transformation**
 
 ![liquid transformation](https://images.wondershare.com/filmora/article-images/2023/01/fun-green-screen-2.gif)
@@ -47,10 +43,6 @@ In fact, there are many ways to set up a green screen, but the most cost-efficie
 
 It is because wrinkles will make lighting the green screen a nightmare, and uneven lighting will leave you with shadows and disappointing results. It would help if you also pulled the green screen tight to get a seamless background. The better you do with the setup, the easier it will be the key it out later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Lighting a Green Screen
 
 It doesn't matter how nice your green screen is. You won't get good results if you don't light it properly. When you light a green screen, be aware of these things.
@@ -70,6 +62,10 @@ Once your footage is good, go into [Filmora](https://tools.techidaily.com/wonder
 
 ![go into filmora and import it into your timeline](https://images.wondershare.com/filmora/article-images/2023/01/fun-green-screen-6.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Summary
 
 Aside from a video background, there are many things you can use chrome key effects on. For example, you can make liquid transformation, you can make a magic box, etc. In the meantime, it doesn’t matter how good your green screen, it won’t have a good results if are not light it properly. You can use Filmora to keying out your green screen. It just take a few clicks to be able keying out your green screen by following the tutorial above.
@@ -95,9 +91,17 @@ Aside from a video background, there are many things you can use chrome key effe
      data-ad-slot="1223367746"></ins>
 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make Coin Magic With Filmora
 
 Do you want to become a magician in your videos? Now, everyone can look like a magician with the magic of editing. This article will show you how to do a cool coin trick in [Filmora 11](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is the filmmaking technique "Cutting on action"
 
@@ -106,7 +110,7 @@ Cutting on action is a technique the editors use to cut in the middle of an acti
 ![what is filmmaking technique](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Things You Need to Prepare for The Coin Magic Trick
@@ -118,10 +122,6 @@ Cutting on action is a technique the editors use to cut in the middle of an acti
 1. Set the phone on a tripod. Because utilizing a tripod can significantly improve the recording's stability.
 
 ![set the phone on a tripod](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Start Filming
 
@@ -141,10 +141,6 @@ Step4 It would help if you had a second shot for a clean plate of the background
 
 ![record background for 20 seconds](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Bring the clips into Filmora 11
 
 Step1 If you have not downloaded Filmora, you can visit filmora.wondershare.com to download Filmora's new version.
@@ -155,13 +151,13 @@ Step2 Drag and drop the clip onto the first track of the timeline.Afterward, mov
 
 ![drag and drop the clip onto the first track](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Then move the playhead to the right and find the spot where your friend drops the coin while you tap without the coin in your hand. Make sure it is in the middle of the tapping action, and the position of your hand roughly matches that in the last cut and make a cut.
 
 ![move the playhead to the right](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Now you need to delete the middle part and play it back. Indeed, cutting on action is the key to creating the illusion that the action is continued without editing.
 
@@ -182,10 +178,6 @@ Step7 Here you can see the mask is applied.First, adjust the angle and position 
 Step8 With the mask finalized, unhide the first video track and adjust the length of the clip on the timeline. Finally, playback the video and see how it looks.
 
 ![adjust the length of the clip](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -208,6 +200,10 @@ That's how to make a coin move through a glass-like MAGIC with the cutting on ac
 If you are looking for a free video editor, you should definitely opt for an open-source video editor. They come free of cost without locking any feature and they are compatible with all desktop operating systems. The user interface of Shotcut looks powerful still easy to operate. There are dockable panels and flexible layouts to customize the interface.
 
 Coming to the features, there are plenty of video effects and filters to enhance video content. You can do all the standard video editing works comfortably. There are certain advanced features available such as keyframe, audio mixing and much more. However, can we consider Shotcut video editor the best for editing professional-quality videos? Find out the complete Shotcut reviews.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How to Download and Install Shotcut
 
@@ -291,6 +287,10 @@ Step 4: Once you are satisfied with the editing, click on Export button to save 
 
 ![filmora export your video](https://images.wondershare.com/filmora/article-images/filmora-export-your-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5\. FAQs about Shotcut
 
 ****Is Shotcut totally free?**
@@ -323,10 +323,6 @@ Step 4: Once you are satisfied with the editing, click on Export button to save 
 
 ![filmora export your video](https://images.wondershare.com/filmora/article-images/filmora-export-your-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5\. FAQs about Shotcut
 
 ****Is Shotcut totally free?**
@@ -354,6 +350,10 @@ Step 2: Drag and drop video clips and audio clips on the timeline in proper sequ
 Step 3: Go to Transitions option and add your desired transitions in between clips. You can also opt for Titles for texts, Effects for animations, and Elements for objects.
 
 ![filmora beautiful transition effects](https://images.wondershare.com/filmora/article-images/filmora-beautiful-transition-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Once you are satisfied with the editing, click on Export button to save your video to your hard drive.
 
@@ -417,19 +417,23 @@ Do you know what's more important in a blog post? Yes, you guessed it right, hea
 
 A headline generator may assist you in creating a compelling and efficient title that will make your blog distinguish itself from others by letting you enter a few essential details. Additionally, exploring ideas might be a terrific approach if you're feeling stuck. A title generator is unquestionably something you should consider including in the toolkit if you're signed in marketing and blogging.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 Best Free Title Maker You Must Try and Put to Use
 
 ### 1\. [SEMrush Title Generator](https://www.semrush.com/title-generator/)
 
 ![semrush title generator](https://images.wondershare.com/filmora/article-images/2022/09/semrush-title-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 While writing and publishing something the first thing that grabs a user's attention is the title of the post. It must be catchy and good enough for them to read the whole thing. What SEMrush ideas generator does is that it suggests you some catchy and interesting title ideas when you type in and search the same keyword.
 
 You can opt to choose the best among the suggested ones and grab people's attention and make them read your blog/article. Since it's a free title generator you need not worry about spending money for title ideas and search for as many topics as you need. You may also look for topic ideas by clicking the "get more content ideas" button that is there on the right side at the bottom.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. [Contentrow Title Generator](https://www.contentrow.com/tools/headline-generator)
 
@@ -466,10 +470,6 @@ You must add a keyword, your audience's intended goal, a frequent key point, the
 ### 6\. [Wix Title Generator](https://www.wix.com/tools/title-generator)
 
 ![wix title generator](https://images.wondershare.com/filmora/article-images/2022/09/wix-title-generator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Well, this tool called Wix title generator is no different than others as it comes with a plethora of options. All you got to do is open the website using the above link and enter around 2 main keywords to look for a relevant and catchy title for your blog/article. Put the required keywords and then opt for clicking the button that says, "Get your Title."
 
@@ -517,18 +517,16 @@ Online free **title creator** can create catchy headlines that increase social m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ntegrating-timestamps-youtube-video-link-enhancement-techniques-for-2024/"><u>[New] Integrating Timestamps YouTube Video Link Enhancement Techniques for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-charting-the-evolution-of-windows-movie-maker/"><u>[Updated] 2024 Approved Charting the Evolution of Windows Movie Maker</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-add-subtitles-to-your-videos-efficiently-this-article-will-introduce-an-online-subtitle-editor-that-will-help-you-to-create-sub/"><u>2024 Approved Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-shaping-your-shots-strategies-for-solo-video-content/"><u>2024 Approved Shaping Your Shots Strategies for Solo Video Content</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-moto-g13-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Moto G13 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-a-smooth-cut-transition-effect/"><u>How to Create a Smooth Cut Transition Effect?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-11x-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme 11X 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-diy-vhs-overlay-in-after-effects-in-2024/"><u>New How to DIY VHS Overlay in After Effects, In 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pubg-freezing-woes-on-windows-heres-how-to-get-smooth-playback/"><u>PUBG Freezing Woes on Windows? Here's How to Get Smooth Playback</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/quick-and-reckless-hd-visuals-for-enthusiasts-premium-fast-and-furious-imagery-and-graphics-by-yl-software/"><u>Quick & Reckless HD Visuals for Enthusiasts: Premium Fast And Furious Imagery and Graphics by YL Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-minecrafts-opengl-errors-effectively/"><u>Troubleshooting and Repairing Minecraft's OpenGL Errors Effectively</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-6-websites-to-free-download-motivational-video-footage/"><u>Updated 6 Websites to Free Download Motivational Video Footage</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-easy-steps-to-create-intro-video-with-after-effects/"><u>Updated In 2024, Easy Steps to Create Intro Video with After Effects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-integrate-titles-and-descriptions-into-your-youtube-video/"><u>[Updated] How to Integrate Titles and Descriptions Into Your YouTube Video</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-prompt-crafting-its-role-and-job-market-viability/"><u>AI Prompt Crafting: Its Role & Job Market Viability</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-zero-to-hero-on-twitter-live-for-2024/"><u>From Zero to Hero on Twitter Live for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-honor-70-lite-5g-easily-by-drfone-android/"><u>How To Unlock a Honor 70 Lite 5G Easily?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-metaverse-laughter-creating-your-own-funny-online-jokes/"><u>In 2024, Exploring Metaverse Laughter Creating Your Own Funny Online Jokes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
+<li><a href="https://blog-min.techidaily.com/vergleich-der-bestande-dvd-vs-blu-ray-vs-digitale-filme-besseres-preis-leistungs-verhaltnis-findest-du-hier/"><u>Vergleich Der Bestände: DVD Vs. Blu-Ray Vs. Digitale Filme - Besseres Preis-Leistungs-Verhältnis Findest Du Hier!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme GT 5? | Dr.fone</u></a></li>
 </ul></div>
 

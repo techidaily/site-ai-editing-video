@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article
-date: 2024-11-01T01:03:18.876Z
-updated: 2024-11-06T18:48:46.648Z
+date: 2024-12-10T11:16:08.091Z
+updated: 2024-12-12T09:36:00.843Z
 tags: 
   - ai
   - animation videos
@@ -25,6 +25,10 @@ Lightroom Sky replacement requires certain editing skills to effectively edit th
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Do Creators Look Forward to Changing the Environment Across Their Recorded or Captured Media?
 
 Humans love to show creativity and express themselves from different perspectives. [Creative works](https://tools.techidaily.com/wondershare/filmora/download/) provide entertainment and prove therapeutic in some way. That’s why creators and artists try to change the surroundings of recorded media. Such changes make the captured media virtually stunning and creative. Let’s explore more reasons that push creators towards **sky replacement in Lightroom**:
@@ -43,13 +47,6 @@ As discussed earlier, [**changing the sky**](https://tools.techidaily.com/wonder
 
 ![open image in photoshop](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Now, go to the top toolbar and press the “Edit” option next to “File.” From the drop-down list, access the “Sky Replacement” option. Head to the "Sky Replacement" panel and click the downward icon next to the sky preview. Scroll to pick one sky of your choice and hit the "OK" button.
 
 ![access sky replacement feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-2.jpg)
@@ -61,6 +58,10 @@ As discussed earlier, [**changing the sky**](https://tools.techidaily.com/wonder
 **Step 4:** Bring this picture back to the Lightroom and go to its right-side panel. There, use the Exposure, Contrast, and Highlights sliders below the "Light" downward icon. After enhancing your image, right-click on it and look for the “Export” option to save the file.
 
 ![change image parameters in lightroom](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Make Background Changing Easy with Wondershare Filmora
 
@@ -81,13 +82,6 @@ Instantly remove or change your videos and image backgrounds with Filmora. Reima
 Applying green-screen in effect in video and images will generate professional content. With AI support, you can remove a certain color from overlay images and videos. It can make your chosen colors transparent in the imported media. To fine-tune the media, you can use Tolerance, Edge Thickness, and Feather sliders.
 
 ![chroma key filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 2\. [AI Portrait](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -157,6 +151,10 @@ Drag your main video in the timeline. Then, tap the "Stock Media" icon from the 
 
 ![adding background from stock media](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Draw a Mask to Replace the Background with Stock Media**
 
 Look for the “Mask” option before the “AI tools” option on the right-side panel. Pick the “Draw Mask” icon and try to draw the lines around the main figure. When you finish drawing, the background will be replaced. You can use the “Blur Strength” slider to give a natural look.
@@ -197,16 +195,13 @@ As discussed earlier, [**changing the sky**](https://tools.techidaily.com/wonder
 
 ![try other skies](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Bring this picture back to the Lightroom and go to its right-side panel. There, use the Exposure, Contrast, and Highlights sliders below the "Light" downward icon. After enhancing your image, right-click on it and look for the “Export” option to save the file.
 
 ![change image parameters in lightroom](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Make Background Changing Easy with Wondershare Filmora
 
@@ -217,6 +212,10 @@ Notably, it’s a better solution that accommodates all users from beginner prof
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features Marking Filmora’s Importance
 
@@ -268,6 +267,10 @@ From the media panel, use “Import” and bring your media to the Timeline sect
 
 ![using chroma key feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Continue Editing or Export Media at Desired Location**
 
 When you have finished the editing, move to the "Export" option at the top right. Using the "Export" window, define parameters and export the file wherever you want.
@@ -289,10 +292,7 @@ Head to the right-side panel and access the AI tools option for choosing “AI P
 ![using ai portrait feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Method 3: Change the Background through Masking
@@ -352,13 +352,6 @@ Open Wondershare Filmora on your computer, then load the video you want to edit.
 
 ![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
 
 ![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
@@ -372,119 +365,116 @@ Now click the **3D LUT** option and choose a LUT that works for your film. For t
 Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
 
 ![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
-
-We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
-
-##### Step4 Add a retro filming effect
-
-![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
-
-Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
-
-![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
-
-## Summary
-
-That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-##### Step1 Add the horror video to the timeline
-
-![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
-
-Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
-
-##### Step2 Apply color grading
-
-![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
-
-Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
-
-![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
-
-Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
-
-##### Step3 Add creepiness to the video
-
-![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
-
-Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
-
-![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
-
-We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
-
-##### Step4 Add a retro filming effect
-
-![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
-
-Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
-
-![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
-
-## Summary
-
-That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-##### Step1 Add the horror video to the timeline
-
-![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
-
-Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
-
-##### Step2 Apply color grading
-
-![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
-
-Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
-
-![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
-
-Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
-
-##### Step3 Add creepiness to the video
-
-![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
-
-Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
-
-![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
-
-We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
-
-##### Step4 Add a retro filming effect
-
-![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
-
-Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
-
-![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
-
-## Summary
-
-That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-##### Step1 Add the horror video to the timeline
-
-![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
-
-Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
-
-##### Step2 Apply color grading
-
-![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
+
+##### Step4 Add a retro filming effect
+
+![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
+
+Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
+
+![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
+
+## Summary
+
+That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+##### Step1 Add the horror video to the timeline
+
+![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
+
+Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
+
+##### Step2 Apply color grading
+
+![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
+
+Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
+
+![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
+
+Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
+
+##### Step3 Add creepiness to the video
+
+![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
+
+Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
+
+![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
+
+We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
+
+##### Step4 Add a retro filming effect
+
+![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
+
+Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
+
+![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
+
+## Summary
+
+That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+##### Step1 Add the horror video to the timeline
+
+![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
+
+Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
+
+##### Step2 Apply color grading
+
+![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
+
+Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
+
+![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
+
+Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
+
+##### Step3 Add creepiness to the video
+
+![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
+
+Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
+
+![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
+
+We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
+
+##### Step4 Add a retro filming effect
+
+![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
+
+Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
+
+![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
+
+## Summary
+
+That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+##### Step1 Add the horror video to the timeline
+
+![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
+
+Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
+
+##### Step2 Apply color grading
+
+![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
 
 Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
 
@@ -520,13 +510,6 @@ That's it! With these tips and tricks, you can effortlessly create a retro-style
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Text in Adobe Rush
 
 Adobe Premiere Rush is a tool designed to make it easier to make simple video edits on desktop and mobile devices. But most users who are used to video editing using Adobe Premiere may find Adobe Rush a little complicated. This includes simple tasks like [adding text to your video](https://tools.techidaily.com/wondershare/filmora/download/), which can be difficult unless you know how to do it.
@@ -542,19 +525,6 @@ Step 1Open Adobe Premiere Rush on your computer and then open the video project 
 Step 2With the project open, click on the blue “Plus” icon under the main menu. On mobile devices, the icon would be at the bottom of the main page.
 
 ![click plus icon adobe rush](https://images.wondershare.com/filmora/article-images/2022/08/click-plus-icon-adobe-rush.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3Select “Graphics” from the options that appear
 
@@ -656,6 +626,10 @@ Yes. Adobe Premiere Rush does allow you to add captions and subtitles to any vid
 
 Yes, you can easily move text in Adobe Rush. Add the text to the video as described in the first part of this article and once it is on the timeline, you can simply drag the text clip to any desired area on the timeline to change its location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. How Do I Add a Title in Adobe Rush Mobile?
 
 One of the greatest advantages of choosing Adobe Rush over other video editors is that it can be very easy to use on mobile devices. The steps to add a title using Adobe Rush for mobile are just as simple as the steps to do it on a desktop. Just open Adobe Rush on your mobile device and then open the video you want to edit, tap on the blue “+” icon at the bottom and select “Graphics > More > Basic Default Title” and then tap “Add” to add your title. You also get the same options to edit the text in various ways including the font size, color, and effects.
@@ -707,6 +681,10 @@ The default duration of any text overlay that you add to the project is 5 second
 To change the duration of the text overlay, select the text in the timeline and click on the “Timer” icon.
 
 ![click on the timer](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 6Edit and Customize Your Text
 
@@ -872,17 +850,24 @@ for this. A 50mm lens is great for portraits, street photography, and many other
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-windows-best-video-chat-providers-6-1-rated/"><u>[New] 2024 Approved Windows' Best Video Chat Providers, #6-#1 Rated</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-breakthrough-tactics-for-efficient-home-podcasting/"><u>[New] In 2024, Breakthrough Tactics for Efficient Home Podcasting</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-essential-tips-for-achieving-facebooks-trusted-marker/"><u>[New] In 2024, Essential Tips for Achieving Facebook's Trusted Marker</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-weaving-in-youtubes-video-selection-a-step-by-step-guide/"><u>[Updated] Weaving in YouTube's Video Selection A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-ways-to-blur-zoom-background-for-free-for-2024/"><u>Best Ways to Blur Zoom Background for Free for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-enter-safe-mode-in-windows-10-7-8-81-xp-and-vista/"><u>How to Enter Safe Mode in Windows 10, 7, 8, 8.1, XP & Vista</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-remove-background-from-a-video-in-premier-pro-for-2024/"><u>How to Remove Background From a Video in Premier Pro for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-create-a-motion-blur-effect-in-your-videos-read-this-well-described-guide-to-learn-how-to-add-motion-blur-on-capcut-on-iphone-and-and/"><u>In 2024, Do You Want to Create a Motion Blur Effect in Your Videos? Read This Well-Described Guide to Learn How to Add Motion Blur on CapCut on iPhone and Android Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>In 2024, How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-personalized-/"><u>In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-for-dealing-with-nonfunctional-switch-situations/"><u>Steps for Dealing with Nonfunctional Switch Situations</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-resolving-football-manager-2e21-stability-problems-for-pc-users/"><u>Ultimate Troubleshooting Guide: Resolving Football Manager 2E21 Stability Problems for PC Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-avoid-the-fake-out-maintaining-authenticity-in-likes/"><u>[Updated] Avoid the Fake-Out Maintaining Authenticity in Likes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-can-you-receive-a-monthly-check-from-youtube/"><u>2024 Approved Can You Receive a Monthly Check From YouTube?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to-create-/"><u>2024 Approved Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tech-gems-best-desktops-revealed/"><u>2024 Approved Ultimate Tech Gems - Best Desktops Revealed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/5-tools-to-create-a-time-lapse-video-online/"><u>5 Tools to Create a Time-Lapse Video Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209901727-breeze-through-fixing-windows-update-error-code-0x80070002-simple-solutions-for-smooth-operations/"><u>Breeze Through Fixing Windows Update Error Code 0X80070002: Simple Solutions for Smooth Operations!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/discover-a-quick-guide-to-add-personalized-video-filters-in-vn-app-learn-how-to-use-built-in-filters-and-import-external-ones-for-creative-video-editing-for/"><u>Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-have-the-habit-to-create-subtitle-for-your-video-you-can-always-add-open-and-close-subtitles-to-your-video-to-make-it-perfect-follow-this-article-to-/"><u>Do You Have the Habit to Create Subtitle for Your Video? You Can Always Add Open and Close Subtitles to Your Video to Make It Perfect. Follow This Article to Learn More About It</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-official-windows-driver-for-canon-mf7-grower-printers-now/"><u>Get the Official Windows Driver for Canon MF7 Grower Printers Now</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/how-luts-refine-image-details-and-contrast-in-photos-for-2024/"><u>How LUTs Refine Image Details and Contrast in Photos for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55t-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Itel P55T Phone without Any Data Loss</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-2-methods-to-cut-video-in-vlc-on-windows/"><u>In 2024, 2 Methods to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-video-maestro-convert-casual-clips-into-cinematic-masterpieces/"><u>New Video Maestro Convert Casual Clips Into Cinematic Masterpieces</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/proven-techniques-to-enhance-engagement-and-interaction-for-2024/"><u>Proven Techniques to Enhance Engagement and Interaction for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-the-stranger-things-upside-down-effect/"><u>Updated 2024 Approved How to Create the Stranger Things Upside Down Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-6-websites-to-free-download-motivational-video-footage/"><u>Updated In 2024, 6 Websites to Free Download Motivational Video Footage</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-what-are-the-stages-of-film-production/"><u>Updated What Are The Stages Of Film Production</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-save-your-edited-video-file-in-mp4-format-in-windows-movie-maker-here-are-the-simple-steps-along-with-a-better-alternative/"><u>Want to Save Your Edited Video File in MP4 Format in Windows Movie Maker? Here Are the Simple Steps Along with a Better Alternative</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/x-mix-master-pro-for-computer-users-for-2024/"><u>X-Mix Master Pro for Computer Users for 2024</u></a></li>
 </ul></div>
 

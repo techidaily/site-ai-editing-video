@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings
-date: 2024-11-25T20:51:24.727Z
-updated: 2024-11-26T16:45:02.063Z
+date: 2024-12-08T12:44:59.521Z
+updated: 2024-12-12T07:10:35.270Z
 tags: 
   - ai
   - animation videos
@@ -73,13 +73,13 @@ You've probably heard of Adobe Premiere Pro – it's a top-tier video editing so
 
 It allows users to save specific settings for sequence attributes like frame rate, resolution, and audio settings. Instead of reconfiguring these settings for each new project, a custom sequence preset lets you jump right into editing. Now, how do you create one? Keep reading!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Create a Custom Sequence in Premiere Pro
 
 Creating a custom sequence is like tailoring a shirt to fit you perfectly. Here's a step-by-step guide to help you do just that:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Displays the New Sequence Window
 
@@ -145,7 +145,7 @@ Adobe Premiere Pro's interface is designed to make tasks like these intuitive, s
 If you are wondering what is velocity edit? Well, velocity editing is a term used in music production and MIDI (Musical Instrument Digital Interface) programming. When we talk about the velocity edit app, "velocity" refers to the intensity or force with which a note is played on a MIDI instrument, such as a keyboard. Velocity in a velocity editor is a parameter that gives expression to a MIDI performance to make the music sound more dynamic and realistic.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part1 Best 3 velocity edit softwares**
@@ -265,10 +265,6 @@ Choosing the right velocity edit maker helps you achieve the desired output in v
 * [Part 3: Automatically Generate TikTok Captions using Filmora's AI Copywriting Feature](#part3)
 * [Part 4: Summary](#part4)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Why Videos Posted on TikTok Need a Catchy Title
 
 Every TikTok creator, from amateur to influencer, will tell you that a caption isn't just a few characters beneath your video; it's the cherry on top of your content sundae. Let's break down why:
@@ -281,10 +277,6 @@ Every TikTok creator, from amateur to influencer, will tell you that a caption i
 ## Part 2: Creative Stimulation: A Comprehensive Inventory of Popular Titles on TikTok in 2024
 
 Captions aren't just about information but about flair, wit, and personality. As TikTok evolves, so do the trends in captions. Let's dive into some categories that are making waves this year:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### TikTok Captions for Couples
 
@@ -308,10 +300,6 @@ Captions aren't just about information but about flair, wit, and personality. As
 18. "We're the stars of our own TikTok romance 🌟"
 19. "Our hearts sync better than our choreography on TikTok 💖"
 20. "He's my favorite co-star in this TikTok love story 🌟"
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### TikTok Captions for Friends
 
@@ -420,6 +408,10 @@ Every TikTok creator, from amateur to influencer, will tell you that a caption i
 3. **Boosts Discoverability:** Strategic keywords in captions can make your videos more discoverable, especially as users search for specific content on TikTok.
 4. **It's Your Brand's Voice:** Established TikTokers have a recognizable style. Your captions can become a part of your brand's unique voice, making you distinguishable in a sea of creators.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Creative Stimulation: A Comprehensive Inventory of Popular Titles on TikTok in 2024
 
 Captions aren't just about information but about flair, wit, and personality. As TikTok evolves, so do the trends in captions. Let's dive into some categories that are making waves this year:
@@ -530,10 +522,6 @@ In the ever-evolving world of content creation, tech tools can be a creator's be
 
 Filmora, widely recognized for its video editing prowess, has now integrated an AI-powered copywriting feature. After downloading Filmora, navigate to the **'Tools'** menu. Among the list, you’ll find the **"AI Copywriting"** option. It's user-friendly and intuitive, making it perfect for both beginners and seasoned TikTokers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 2: Enter Your Video Information
 
 Filmora's AI requires a bit of information to generate a caption that resonates with your content and audience:
@@ -588,6 +576,10 @@ Before starting to edit the videos with the liquid water text reveal intro, it i
 
 ![downloading wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2Importing and select the stock video
 
 Once Wondershare Filmora is running on your system, you can start by importing and selecting the stock video. The quick steps for the same are:
@@ -612,6 +604,10 @@ After the successful uploading of the stock video, it is time to add text to the
 
 ![entering the text](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4Selecting the color
 
 After making the text settings according to your liking or as required in the video, the next step is to select the color. It is easy to select it from the range of options available in the "Sample Color" menu of the tool. The quick steps for the same are:
@@ -635,6 +631,10 @@ Now is the time to create the water text effect. It is located in the "Effects" 
 
 ![adding the water effect](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step6Completing the water effect settings
 
 After adding the water effect to the video, you can adjust the settings like "Emboss" and "Steps" for a realistic and creative feel. The quick steps to complete the water effect settings in the video are:
@@ -645,10 +645,6 @@ After adding the water effect to the video, you can adjust the settings like "Em
 4. Press "OK" to apply changes.
 
 ![completing the water effect settings](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step7Enabling the Chroma Key and other settings
 
@@ -691,6 +687,10 @@ Next, you have to add the keyframes and adjust the playheads in the video. In th
 8. Last but not least, reduce all clips' duration to ten seconds for uniformity.
 
 ![adding keyframes and adjusting playheads](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step10Previewing and export the video
 
@@ -727,6 +727,10 @@ Before starting to edit the videos with the liquid water text reveal intro, it i
 
 ![downloading wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2Importing and select the stock video
 
 Once Wondershare Filmora is running on your system, you can start by importing and selecting the stock video. The quick steps for the same are:
@@ -774,10 +778,6 @@ Now is the time to create the water text effect. It is located in the "Effects" 
 
 ![adding the water effect](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step6Completing the water effect settings
 
 After adding the water effect to the video, you can adjust the settings like "Emboss" and "Steps" for a realistic and creative feel. The quick steps to complete the water effect settings in the video are:
@@ -788,6 +788,10 @@ After adding the water effect to the video, you can adjust the settings like "Em
 4. Press "OK" to apply changes.
 
 ![completing the water effect settings](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step7Enabling the Chroma Key and other settings
 
@@ -831,10 +835,6 @@ Next, you have to add the keyframes and adjust the playheads in the video. In th
 
 ![adding keyframes and adjusting playheads](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step10Previewing and export the video
 
 Once done with all the necessary effects and settings, it is time for a quick preview of the created video. The "Render Preview" option in the Wondershare Filmora offers a fast rendering of the made video to help users with a brief overview of the file. It reduces the preview lag, as observed in other tools due to the application of heavy effects and features. After previewing, you can quickly export the video. The quick steps for the same are:
@@ -846,7 +846,7 @@ Once done with all the necessary effects and settings, it is time for a quick pr
 ![previewing and exporting the video](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-liquid-water-text-reveal-intro-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 So, you're done with creating a liquid water text reveal intro in this way. It is easy to save these steps for quick future reference.
@@ -873,17 +873,18 @@ So, download [Wondershare Filmora](https://tools.techidaily.com/wondershare/film
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-advanced-mac-screen-plus-sound-capturer-extraordinaire-for-2024/"><u>[New] Advanced Mac Screen + Sound Capturer Extraordinaire for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-wirecast-for-facebook-live-broadcasts/"><u>[New] In 2024, Mastering Wirecast for Facebook Live Broadcasts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-overcoming-the-challenge-of-vr-sickness/"><u>[New] Overcoming the Challenge of VR Sickness</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-a-malfunctioning-corsair-void-audio-device/"><u>Effective Fixes for a Malfunctioning Corsair Void Audio Device</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/466034-9780307574596-emmanuels-book-iii/"><u>Emmanuel's Book III | Free Book</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-oppo-a59-5g-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Oppo A59 5G has been deleted.</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-complete-playbook-for-instagram-revenue-generation-for-2024/"><u>The Complete Playbook for Instagram Revenue Generation for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y200e-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y200e 5G Location | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-video-contents-that-convert-sales-for-2024/"><u>Updated How to Create Video Contents That Convert Sales for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora-in-2024/"><u>Updated How To Make a Video by Mouse in Filmora, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/want-to-play-a-video-on-loop-on-vimeo-so-that-it-plays-again-and-again-here-are-all-the-different-ways-to-loop-a-video-on-vimeo-in-simple-steps-for-2024/"><u>Want to Play a Video on Loop on Vimeo so that It Plays Again and Again? Here Are All the Different Ways to Loop a Video on Vimeo in Simple Steps for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-discover-every-aspect-of-io-visual-logging-for-2024/"><u>[New] Discover Every Aspect of IO Visual Logging for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-thumbnails-fantasy-elements-added/"><u>[New] Elevate Thumbnails Fantasy Elements Added</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-99plus-million-view-snapshot-amusing-emoji-lore-for-2024/"><u>[Updated] 99+ Million View Snapshot Amusing Emoji Lore for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-oppo-f23-5g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Oppo F23 5G</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-fantastic-glitch-effects-with-filmora-read-this-guide-to-find-out-how-to-apply-glitch-effects-on-your-videos-and-make-custom-glitch-effects/"><u>How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-anticipation-elevating-the-unboxing-experience/"><u>In 2024, The Art of Anticipation Elevating the Unboxing Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-export-video-in-filmora-for-2024/"><u>New Easy Steps to Export Video in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-make-a-tattoo-disappear-like-a-magic-for-2024/"><u>New Make A Tattoo Disappear Like A Magic for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sierra-users-the-ultimate-list-for-video-editing-apps-for-2024/"><u>Sierra Users The Ultimate List for Video Editing Apps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-autonomous-restarts-win11-strategy/"><u>Stop Autonomous Restarts: Win11 Strategy</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-create-glitch-text-effect/"><u>Updated Create Glitch Text Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora/"><u>Updated How to Correct Lens Distortion With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-learning-how-to-create-luts-with-luts-generator/"><u>Updated Learning How to Create LUTs with LUTs Generator</u></a></li>
 </ul></div>
 

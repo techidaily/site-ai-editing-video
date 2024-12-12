@@ -1,7 +1,7 @@
 ---
 title: New How to Save As MP4 File on Windows Movie Maker?
-date: 2024-11-01T19:15:47.904Z
-updated: 2024-11-07T01:39:53.176Z
+date: 2024-12-06T21:32:57.290Z
+updated: 2024-12-11T18:33:44.667Z
 tags: 
   - ai
   - animation videos
@@ -128,6 +128,10 @@ Do you want to roll back the hands of time and shoot a film like you were in WWI
 
 ![1920s video scene](https://images.wondershare.com/filmora/article-images/2023/01/1920s-video-scene.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this tutorial, you don't need a lot of creativity to create a vintage film, as [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) will be doing the heavy lifting. Just shoot an action video like chasing each other around, chatting with friends, running away from something, or doing anything else. Let's learn how to do that below!
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -148,18 +152,15 @@ After successfully adding your video to the timeline, tap the **Effect** tab on 
 
 ![tap the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Next, double-tap the **Crop** effect on the editing timeline to open the effect editing tools. Now change the crop amount to 15 to add a vintage feel to your video. Just enter 15 on the Left and Right boxes.
 
 ##### Step3 Add the Dirty Film and Silent Film effects
 
 ![add the dirty film and silent film effects](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tap the Effect tab, then open the **Overlay** drop-down menu. Then, choose the **Old Film** category before adding a **Dirty Film** effect above the clip. To apply a more vintage feel to your video, add a **Silent Film** effect to the track above the Dirty Film effect.
 
@@ -213,13 +214,6 @@ See, you don't need to break a sweat to add a vintage feel to your funny video. 
 
 ![add a video you want to edit](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Upload your video on Filmora, then move it to the editing timeline by dragging it. This should take a second or two.
 
 ##### Step2 Add a crop effect
@@ -235,6 +229,10 @@ Next, double-tap the **Crop** effect on the editing timeline to open the effect 
 ##### Step3 Add the Dirty Film and Silent Film effects
 
 ![add the dirty film and silent film effects](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tap the Effect tab, then open the **Overlay** drop-down menu. Then, choose the **Old Film** category before adding a **Dirty Film** effect above the clip. To apply a more vintage feel to your video, add a **Silent Film** effect to the track above the Dirty Film effect.
 
@@ -264,11 +262,19 @@ After successfully adding your video to the timeline, tap the **Effect** tab on 
 
 ![tap the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Next, double-tap the **Crop** effect on the editing timeline to open the effect editing tools. Now change the crop amount to 15 to add a vintage feel to your video. Just enter 15 on the Left and Right boxes.
 
 ##### Step3 Add the Dirty Film and Silent Film effects
 
 ![add the dirty film and silent film effects](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tap the Effect tab, then open the **Overlay** drop-down menu. Then, choose the **Old Film** category before adding a **Dirty Film** effect above the clip. To apply a more vintage feel to your video, add a **Silent Film** effect to the track above the Dirty Film effect.
 
@@ -277,13 +283,6 @@ Tap the Effect tab, then open the **Overlay** drop-down menu. Then, choose the *
 ![add a black and white effect to your video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-5.jpg)
 
 Up to this point, your film should now start having a more vintage feel. But to make it look even older, double-click the video clip and tap the **Color** tab. After that, open the **3D LUT** arrow and choose the **B&W Film** option. Now play the video and enjoy.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -401,16 +400,13 @@ First of all, select a story or a theme for your **holiday slideshow**, and then
 
 Use a template for creating a slideshow as the readymade design will already help you get half the task done. Once you have the desired template, you simply need to add the pictures and other elements. There are several sites and tools where you can get travel, vacation, and holiday templates in different styles.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 01Use A Professional Software For Editing And Creating A Software
 
 To create a traveling sideshow that is eye-catchy, interesting, and also can be created in no time, a professional tool works as the best option. These programs have built-in features for image and video editing and in just a few simple clicks, you can create a professional-looking slideshow of your choice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2 Best Software For Creating A Vacation Slideshow In 5 Minutes- Wondershare Filmora
 
@@ -467,6 +463,10 @@ To create a **vacation slideshow** quickly and easily there are several factors 
 There are several useful tips that can help you create a vacation slideshow in just a few minutes. Check them below.
 
 ![Tips For Quick Slideshow Making](https://images.wondershare.com/filmora/article-images/2022/05/how-to-make-a-vacation-slideshow-in-minutes-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 01Choose A Theme And Select Relevant Pictures
 
@@ -530,6 +530,10 @@ To create a **vacation slideshow** quickly and easily there are several factors 
 
 02 [Best Software for Creating a Vacation Slideshow in 5 Minutes- Wondershare Filmora](#Part 2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1 Tips For Creating A Vacation Slideshow In 5 Minutes
 
 There are several useful tips that can help you create a vacation slideshow in just a few minutes. Check them below.
@@ -540,13 +544,6 @@ There are several useful tips that can help you create a vacation slideshow in j
 
 First of all, select a story or a theme for your **holiday slideshow**, and then choose the most relevant images and videos that can be included in the slideshow. With hundreds of images and videos for any particular trip selecting a few is the most cumbersome task and once you have a story in mind, picking up a few images becomes easy.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 01Use Templates
 
 Use a template for creating a slideshow as the readymade design will already help you get half the task done. Once you have the desired template, you simply need to add the pictures and other elements. There are several sites and tools where you can get travel, vacation, and holiday templates in different styles.
@@ -554,6 +551,10 @@ Use a template for creating a slideshow as the readymade design will already hel
 ### 01Use A Professional Software For Editing And Creating A Software
 
 To create a traveling sideshow that is eye-catchy, interesting, and also can be created in no time, a professional tool works as the best option. These programs have built-in features for image and video editing and in just a few simple clicks, you can create a professional-looking slideshow of your choice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2 Best Software For Creating A Vacation Slideshow In 5 Minutes- Wondershare Filmora
 
@@ -609,13 +610,6 @@ Path blur works by adjusting two variables: Speed and Taper. By adjusting the sp
 
 ![what is path blur](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This effect can instantly add new dimensions to your captured photo. For instance, if you have captured a photo of a racing car, you can add a path blur effect to give a sense of speed to it. You can easily find this special effect in Adobe Photoshop. By using the selection tools, you can effectively add a path blur effect to your image in the selected area. To know more about path blur in Photoshop, continue reading this article.
 
 ## Part 2: How to Use Path Blur in Photoshop?
@@ -665,10 +659,7 @@ Step7 Now increase the length of the arrow and press "Ctrl + Click" for Windows 
 ![disable the centered blur option](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus Tips – The Alternative to Photoshop to Create Motion Blur Effect
@@ -733,13 +724,6 @@ Once you have added the motion blur effect, you can check the results from the p
 
 ![access transitions tab](https://images.wondershare.com/filmora/article-images/2022/12/path-blur-in-photoshop-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If you want to display a sense of speed and movement in the picture, you can add a path blur effect. It's one of the types of motion blur effects that many people use in their pictures to add a dynamic element. By reading this article, you have learned how to add **path blur in Photoshop** through simple means. Moreover, you can also explore the tool Filmora to create a motion blur effect in the photos effortlessly.
@@ -760,16 +744,20 @@ If you want to display a sense of speed and movement in the picture, you can add
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-perfecting-zoom-captures-top-equipment-list/"><u>[New] In 2024, Perfecting Zoom Captures Top Equipment List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-recommended-6-online-apps-to-delete-background-perfectly/"><u>[Updated] Expert-Recommended 6 Online Apps to Delete Background Perfectly</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-best-youtube-to-gif-makers-you-should-use-online-and-desktop/"><u>2024 Approved Best YouTube To GIF Makers You Should Use (Online & Desktop)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-a-smooth-cut-transition-effect/"><u>How to Create a Smooth Cut Transition Effect?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/improved-soil-structure-because-fungal-hyphae-produce-substances-that-help-bind-soil-particles-together-which-can-prevent-erosion-and-improve-aeration/"><u>Improved Soil Structure because Fungal Hyphae Produce Substances that Help Bind Soil Particles Together, Which Can Prevent Erosion and Improve Aeration</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/is-your-mobile-device-vulnerable-to-hacks-through-sms-insights-from-malwarefox/"><u>Is Your Mobile Device Vulnerable to Hacks Through SMS? Insights From MalwareFox</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-follow-a-few-simple-steps-and-learn-how-to-create-a-professional-glowing-edge-effect-to-your-videos-in-filmora/"><u>New Follow a Few Simple Steps and Learn How to Create a Professional Glowing Edge Effect to Your Videos in Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-diy-vhs-overlay-in-after-effects-in-2024/"><u>New How to DIY VHS Overlay in After Effects, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-easy-steps-to-create-intro-video-with-after-effects/"><u>Updated In 2024, Easy Steps to Create Intro Video with After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/we-all-know-very-well-that-a-1-second-video-has-several-images-in-a-single-row-even-with-imovie-time-lapse-you-can-create-this-so-without-any-further-ado-le/"><u>We All Know Very Well that a 1-Second-Video Has Several Images in a Single Row. Even with iMovie Time-Lapse, You Can Create This! So, without Any Further Ado, Lets Learn How to Make a Timelapse in iMovie</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-effortless-multi-platform-skype-group-formation-explained/"><u>[Updated] Effortless Multi-Platform Skype Group Formation Explained</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-camera-roll-to-youtube-the-ultimate-uploading-guide/"><u>[Updated] From Camera Roll to YouTube The Ultimate Uploading Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/12-best-free-video-players-and-apps-for-pc-and-mobile-device/"><u>12 Best Free Video Players and Apps for PC and Mobile Device</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-traffic-and-sales-using-advanced-targeting-by-cookiebot-technology/"><u>Boost Traffic and Sales Using Advanced Targeting by Cookiebot Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175674253-comprehensive-analysis-of-the-id-cooling-fx360-pro-top-performance-for-under-70/"><u>Comprehensive Analysis of the ID-Cooling FX360 Pro - Top Performance for Under $70</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/financial-wisdom-through-emojis-unpacking-activisions-cybersecurity-incident-and-job-threats-posed-by-artificial-intelligence-technologies-such-as-chatgpt.m47/"><u>Financial Wisdom Through Emojis: Unpacking Activision's Cybersecurity Incident and Job Threats Posed by Artificial Intelligence Technologies Such as ChatGPT</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-contents-that-convert-sales/"><u>How to Create Video Contents That Convert Sales</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-discover-these-popular-periscope-alternatives-on-smartphones/"><u>In 2024, Discover These Popular Periscope Alternatives on Smartphones</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rules-of-thirds/"><u>In 2024, How to Use Rules of Thirds</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-guide-to-creating-the-best-video-collages/"><u>New 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
 </ul></div>
 

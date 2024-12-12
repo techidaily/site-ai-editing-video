@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Ideas for Time-Lapse Video
-date: 2024-12-01T21:35:12.543Z
-updated: 2024-12-06T09:17:15.719Z
+date: 2024-12-07T07:23:25.130Z
+updated: 2024-12-12T07:01:34.299Z
 tags: 
   - ai
   - animation videos
@@ -28,6 +28,10 @@ Time-lapse is a creative filming and video editing technique that manipulates ho
 Time-lapse can also refer to a camera's shutter speed (How long the camera's shutter remains open to let light in). A similar effect to time-lapse is found in stop-motion videos. The subject doesn't move but seems to be in motion because it's manually or repeatedly moved and then photographed. The images are then strung together to create video-like motion.
 
 ![time lapse car video](https://images.wondershare.com/filmora/article-images/2022/11/time-lapse-car-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Time-lapse Works
 
@@ -126,6 +130,10 @@ Step4 click on the speed icon add marker button. Then drag the marker all the wa
 
 ![drag marker car video](https://images.wondershare.com/filmora/article-images/2022/11/drag-marker-car-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Next drag the slider under the speed tool to speed up the video according to your desire.
 
 ![speed up car moving video](https://images.wondershare.com/filmora/article-images/2022/11/speed-up-car-moving-video.jpg)
@@ -133,6 +141,10 @@ Step5 Next drag the slider under the speed tool to speed up the video according 
 Step6 Lastly when done, export and save the final video.
 
 ![export car move timelapse video](https://images.wondershare.com/filmora/article-images/2022/11/export-car-move-timelapse-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -174,10 +186,6 @@ Hope this article can give you an idea on how to make a good time-lapse video. I
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Make A Do-It-Yourself Video
 
@@ -223,10 +231,6 @@ I take down notes when preparing a video, I used to write the things that I need
 
 ![do it yourself video prepare](https://images.wondershare.com/filmora/article-images/2022/07/do-it-yourself-video-prepare.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 I put myself a little make up on when producing a video, it makes me feel more confident to speak in front of my virtual audiences because I know that I looked presentable in any way.
 
 Now we need to set our do-it-yourself like studio (it can be your room; it can be in the living room or anywhere that you can see that has a good background) or you can use a green backdrop and just make wonders in the post editing.
@@ -239,10 +243,6 @@ After you finished a vlog/video, you need to edit it and that’s the most excit
 
 ![do it yourself video editing](https://images.wondershare.com/filmora/article-images/2022/07/do-it-yourself-video-editing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusions
 
 If you want to open up a YouTube Channel, then do it now. Maybe you’ll feel down because people around you will not support you from the beginning and that’s the cruel part of being a YouTuber. As the saying goes by, “birds of the same feather, flock together”; people with the same passion as you can understand all your endeavors. Don’t always think of the money that you will receive afterwards because that brings pressure and you’ll push yourself to the limit until you’ll feel and say “enough is enough”. Just do your own thing and the rest will follow. And if you think that you have something to offer to someone out there virtually, then don’t think twice. We only live once, make the most out of it.
@@ -252,7 +252,7 @@ And if you’re looking for the best video editor for Personal Computers this ye
 </article
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Things That You Need when You Want to Start Vlogging
@@ -278,7 +278,7 @@ That's right. If you have a video editor installed on your phone, you’re ready
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. Preparations for a Vlog
@@ -323,10 +323,6 @@ This guide will explore how to generate professional slow-motion Instagram video
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How Can Slow Motion Videos Be Used in Social Media Content?
 
 Slow-motion videos can be a great addition to your social media platforms. It will insert a cinematic impression into your content. To learn more details, jump to the below part explaining the use of slow motion videos in social media:
@@ -343,12 +339,20 @@ Slow-motion videos can assist you in providing clear demonstrations. Slow-motion
 
 **Slow-motion Instagram** videos evoke emotions in people. In an action sequence, you can add dramatic effect through slow motion. Furthermore, it can help with the storytelling of your video. This will also help in generating an immersive experience for the audience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Composite Ways To Perform Slow Mo on Instagram
 
 On Instagram, there are different approaches to creating slow-mo videos. Within a few taps, you can reduce the speed of the video on Instagram. This section will highlight the two ways to [generate **slow-motion Instagram reels**](https://tools.techidaily.com/wondershare/filmora/download/).
 
 * [Way 1: Before Recording Reel](#method1)
 * [Way 2: During Editing Video](#method2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 1: Before Recording the Reel
 
@@ -422,10 +426,6 @@ After dropping the video into the timeline, select it with your cursor. Go to th
 
 ![extend ai frame interpolation options](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-on-instagram-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Method 2: Using Uniform Speed
 
 After dragging the video on the timeline, right-click on it. From the pop-up options, select the option called “Uniform Speed”. Once done, follow the instructions given above to conclude the process.
@@ -437,6 +437,10 @@ After dragging the video on the timeline, right-click on it. From the pop-up opt
 Start by selecting the video clip on the timeline. Once done, head to the “Toolbar” given above and click “Tools”. Now, expand “Speed” and then select “Uniform Speed”. Now, you can follow the steps given above to continue with the process.
 
 ![access uniform speed from toolbar](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-on-instagram-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Filmora
 
@@ -511,6 +515,10 @@ Now, you can select and upload the desired video from your phone to Instagram. A
 
 ![reduce speed of the video](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-on-instagram-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Make Video Editing in Slow Mo Easy With Wondershare Filmora
 
 Creating slow-mo reels on Instagram won’t add uniformity to the results. Thus, you should use a third-party tool like [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to produce convincing results. With the latest release of Volume 13, this tool has upgraded itself to a massive scale. It includes many AI features that can transform your editing experience. The AI features can finish tasks with great accuracy within a few minutes.
@@ -562,6 +570,10 @@ After dragging the video on the timeline, right-click on it. From the pop-up opt
 Start by selecting the video clip on the timeline. Once done, head to the “Toolbar” given above and click “Tools”. Now, expand “Speed” and then select “Uniform Speed”. Now, you can follow the steps given above to continue with the process.
 
 ![access uniform speed from toolbar](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-on-instagram-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Filmora
 
@@ -613,10 +625,6 @@ Step1 Launch [**Adobe Photoshop**](https://www.adobe.com/) on your laptop/deskto
 
 ![adding new layer to create risograph effect in photoshop](https://images.wondershare.com/filmora/article-images/2023/01/adding-new-layer-to-create-risograph-effect-in-photoshop.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Next, press **“Ctrl+Shift+E”** to combine your layers and select the **“Edit”** option from the top toolbar. Scroll down and select **“Define Pattern.”** Set the pattern name and click **“OK.”**
 
 ![select edit option](https://images.wondershare.com/filmora/article-images/2023/01/defining-pattern-to-create-risograph-effect-in-photoshop.png)
@@ -665,10 +673,6 @@ Step3 Click **“Filter”** and open **“Filter Gallery.”** Navigate to **�
 
 Finally, your dual-tone effect is created in Photoshop!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How To Blend Images Using Layer Modes
 
 In this part, let’s see how to use the layer modes to add another subject to the canvas and blend it with the previous ones.
@@ -698,10 +702,6 @@ We hope you’ve enjoyed reading this article and that you can now give a distin
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -733,22 +733,20 @@ We hope you’ve enjoyed reading this article and that you can now give a distin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-step-by-step-techniques-for-making-a-standout-slowed-motion-video-on-instas-trendy-reels/"><u>[New] 2024 Approved Step by Step Techniques for Making a Standout Slowed-Motion Video on Insta's Trendy Reels</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-a-green-screen-video-in-after-effects/"><u>2024 Approved How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-canva-collages/"><u>2024 Approved How to Make Canva Collages</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-speed-ramping-to-create-a-footage/"><u>2024 Approved How to Use Speed Ramping to Create a Footage</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-winx-dvd/"><u>2024 WinX DVDコピープログラムフリー配信 - 無限使用権が贈られる無料キーを手に入れる方法</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-drift-into-drone-fun-kid-and-novice-guide/"><u>In 2024, Drift Into Drone Fun Kid and Novice Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-samsungs-picture-editor-features-and-drawbacks/"><u>In 2024, Unveiling Samsung's Picture Editor Features & Drawbacks</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/master-recommendations-elite-ios-sound-artists/"><u>Master Recommendations Elite iOS Sound Artists</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-get-green-screen-effects-on-your-video-without-green-screen-setup-in-your-background-learn-how-to-get-virtual-green-screen-background-and/"><u>New Do You Want to Get Green Screen Effects on Your Video without Green Screen Setup in Your Background? Learn How to Get Virtual Green Screen Background and Shoot Videos Like a Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects/"><u>New How To Make a Timelapse in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-crop-a-video-with-cyberlink-powerdirector/"><u>New Step by Step to Crop a Video with CyberLink PowerDirector</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/record-lows-for-apple-watch-ultra-save-big-this-season-as-spotted-on-zdnet/"><u>Record Lows for Apple Watch Ultra: Save Big This Season as Spotted on ZDNet!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-to-overcome-504-gateway-timeouts-effectively/"><u>Troubleshooting Tips to Overcome 504 Gateway Timeouts Effectively</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-color-correction-basics-s-log-footage/"><u>Updated In 2024, Color Correction Basics (S-LOG Footage)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-vintage-film-effect-1980s-how-to-create/"><u>Updated Vintage Film Effect 1980S - How to Create</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-play-8t-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor Play 8T Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-download-necessary-youtube-to-gif-conversion-made-easy/"><u>[New] No Download Necessary YouTube-to-GIF Conversion Made Easy</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-comprehensive-tips-for-monitoring-subscriber-engagement/"><u>2024 Approved Comprehensive Tips for Monitoring Subscriber Engagement</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-xs-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone XS Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-factors-in-choosing-the-right-projector/"><u>Essential Factors in Choosing the Right Projector</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-video-by-mouse-in-filmora/"><u>How To Make a Video by Mouse in Filmora?</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-preserve-memories-on-facebook-with-downloads/"><u>How to Preserve Memories on Facebook with Downloads</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-how-to-animate-and-make-your-own-effects/"><u>In 2024, How to Animate and Make Your Own Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-practical-tips-to-improve-your-lighting-in-the-sun-for-2024/"><u>New Best Practical Tips to Improve Your Lighting in the Sun for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-filter-to-video-online/"><u>New In 2024, How to Add Filter to Video Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New In 2024, Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-whats-the-best-laptops-for-video-editing-for-2024/"><u>New Whats The Best Laptops For Video Editing for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/tinyframe-videotaker-assessment-with-alternatives-for-2024/"><u>TinyFrame Videotaker Assessment with Alternatives for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-your-best-freefire-videos-with-key-insights-for-2024/"><u>Unlock Your Best FreeFire Videos with Key Insights for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-ideas-on-using-green-screen-with-filmora/"><u>Updated 2024 Approved Best Ideas on Using Green Screen with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-loop-videos-with-filmora-for-2024/"><u>Updated How to Create Loop Videos with Filmora for 2024</u></a></li>
 </ul></div>
 

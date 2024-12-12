@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Track Mattes The Ultimate Guide For After Effects
-date: 2024-11-05T16:29:46.222Z
-updated: 2024-11-06T16:48:39.127Z
+date: 2024-12-07T19:35:26.577Z
+updated: 2024-12-12T01:33:51.449Z
 tags: 
   - ai
   - animation videos
@@ -135,10 +135,7 @@ Here're some key differences between a Mask and a Track Matte:
 2. A mask is applied directly to a layer having an image or a video and transforms with the layers. On the other hand, Track Matte is a stationary mask applied to the composition rather than a layer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. Finding The Track Matte Tool In After Effects
@@ -147,26 +144,12 @@ Track Matte is located by default in the Timeline Window of the After Effects in
 
 ![track matte in the timeline window of the after effects](https://images.wondershare.com/filmora/article-images/2022/07/track-matter-in-the-timeline-window-of-the-after-effects.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you are still unable to find the Track Matte option, press the **F1 key** or do the following steps in sequence:
 
 1. Right-click on the area above your layers and select **"Columns."**
 2. Scroll down and click the **"Modes"** option to enable it.
 
 ![finding the track matte option in after effects](https://images.wondershare.com/filmora/article-images/2022/07/finding-the-track-matte-option-in-after-effects.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. **Track Matte mode, Preserve Underlying Transparency,** and **Blending Modes** will be available now.
 
@@ -214,6 +197,10 @@ On the other hand, a Luma channel is a video track that stores brightness inform
 
 **Video – How to use Track Mattes in Adobe After Effects - Tutorial**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In this article, we've discussed what Track Matte is in After Effects and how it differs from the mask tool. We also explored where to find the Track Matter option and its four options, i.e., Alpha Matte, Alpha Inverted Matte, Luma Matte, and Luma Inverted Matte. In the end, we discussed the difference between the Alpha and Luma channels to provide a clear view of the two.
@@ -252,6 +239,10 @@ With many video filter editors available online, choosing the right one can be d
 * [Part 2: Best Alternatives](#part2)
 * [Part 3: Summary](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Top 5 Free Online Video Filter Editors
 
 ### Veed.io
@@ -275,13 +266,6 @@ One of the commendable aspects of Veed.io is its commitment to transparency. Use
 ### Clideo
 
 ![filter online1](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Clideo is a multifaceted online video editing solution that caters to a broad spectrum of editing needs.
 
@@ -339,6 +323,10 @@ Absolutely, users can enjoy filter functions for free.
 
 **Disadvantages:** Limited advanced editing options in the free version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Kapwing
 
 ![filter online2](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors2.png)
@@ -362,6 +350,10 @@ The video filter function is accessible in the free version.
 When it comes to alternative video filter editors, Filmora undoubtedly stands out. Although it's not exclusively an online tool, Filmora has firmly established its reputation in the digital video editing community, and here's why:
 
 1. **Extensive Library of Video Filters** **:** One of Filmora's shining points is its rich, extensive library of video filters. From adding a touch of nostalgia with sepia tones to creating blockbuster cinematic vibes with dramatic contrasts, Filmora ensures every creative vision can be realized.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Video Filter Editor
 
@@ -427,6 +419,10 @@ Yes, the filter function can be tested without any charges.
 
 ![filter online3](https://images.wondershare.com/filmora/article-images/2023/free-online-video-filter-editors3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Flixier emerges as a dynamic online video editing platform, aiming to bridge the gap between advanced editing tools and user accessibility.
 
 Catering to novice editors and seasoned professionals, it offers tools that effortlessly combine efficiency with creativity.
@@ -442,13 +438,6 @@ The video filter function is available in the free tier.
 **Advantages:** Collaborative editing features quick export times.
 
 **Disadvantages:** Slightly steeper learning curve for beginners.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Flexclip
 
@@ -519,13 +508,6 @@ And for those willing to invest a little, Filmora stands as a robust alternative
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Zoom in on PowerPoint [Easy Ways]
 
@@ -607,6 +589,10 @@ You are giving a presentation at a meeting and have a number of possibilities. Z
 
 Microsoft is always developing new tools to help you create and construct amazing presentations. The PowerPoint Zoom function is one of them. It is not the straightforward zoom capability that has been a part of PowerPoint for a long time. Zoom in PowerPoint is a useful feature that enables you to go right to the information you want and promotes an interactive presentation that is seamless. You just need to be aware of three distinct sorts of Zooms to do it quickly and easily. They are described below:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Use the View tab Zoom command
 
 PowerPoint's Zoom feature is a clever tool for creating and watching presentations. When the text or item you wish to deal with is too tiny for you to view, the Zoom tool might be useful. On the screen, a slide will look bigger as you zoom in, and smaller when you zoom away. Choose the appropriate zoom level in the "Zoom" dialog box by typing a number into the "Percent:" spinner or selecting an option from the "Zoom to" section. Click the "OK" button to apply the chosen magnification level after setting it.
@@ -659,16 +645,13 @@ Step2To zoom in on a slide in PowerPoint, just hold the CTRL key on your keyboar
 
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/mouse-spin-wheel-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3In a similar manner, to zoom out on your presentation, hold down the CTRL key on your computer while dragging the mouse wheel downward as seen below.
 
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/drag-mouse-wheel-downward.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After that, you will be able to get the desired value to Zoom in or out on your PowerPoint presentation.
 
@@ -687,13 +670,6 @@ Are you prepared to use the new PowerPoint zoom feature in Microsoft Office to b
 Did they have dinner on Mars? Photographers are becoming more daring with their creations thanks to the advancement in editing software. For example, after effects green screen keying allows you to alter your image's background during post-production.
 
 ![green screen key](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The following is all you need to know about the green screen key effect and how to apply it using different video editing software. In addition, you will discover why the effect is popular with video editors. Keep reading to find out more.
 
@@ -720,6 +696,10 @@ Using a green screen key is an important skill to learn as a filmmaker. This is 
 For example, using after effects green screen keying incorrectly can result in spill issues. This is when the green light from your screen bounces back to your subject. As such, you lose some subject detail, and the image appears messy.
 
 Furthermore, not all video editing software includes the green screen key tool. Therefore, always check your software details before purchasing a copy. The next section contains step-by-step guides on performing green screen keying on some of the industry's most popular software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part2: How to do Green Screen Keying in After Effects?
 
@@ -799,6 +779,10 @@ The edge thickness tool helps you increase the sharpness of your subject's edges
 
 Once you complete the green screen keying, merging the new background is next. You do this by seamlessly positioning the background to fit your green screen footage. Then, the Filmora Chroma key tool will merge the images or footage and make it appear as one clip.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Export your content
 
 Finally, you can export your content in multiple formats to suit your desired platform. For example, you can export the file in either MP4, WMV, or MOV to share on most social media platforms.
@@ -839,18 +823,19 @@ Yes. It is possible to create a green screen video without a green background. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-overcoming-adversities-in-digital-self-expression/"><u>[New] 2024 Approved Overcoming Adversities in Digital Self-Expression</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-strategy-envelope-market-success-inside-out/"><u>[New] Strategy Envelope Market Success Inside Out</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-novelty-applying-cartoon-lenses-in-snapchat/"><u>[Updated] Navigating Novelty Applying Cartoon Lenses in Snapchat</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-commanders-quest-embarking-on-the-most-spectacous-7-total-wars/"><u>2024 Approved Commanders' Quest Embarking on The Most Spectacous 7 Total Wars</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ai-revolution-how-artificial-intelligence-is-transforming-the-future/"><u>AI Revolution: How Artificial Intelligence Is Transforming the Future</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-huawei-nova-y71-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Huawei Nova Y71 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-latest-software-and-improve-performance-of-canon-pixma-mg-series-printers/"><u>Download the Latest Software and Improve Performance of Canon PIXMA MG Series Printers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/heroic-measures-against-a-corrupted-disk-in-steam-games-a-simple-fix-guide/"><u>Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolved-troubleshooting-guide-overcoming-world-of-warcraft-wont-start-on-pc/"><u>Resolved: Troubleshooting Guide - Overcoming 'World of Warcraft Won't Start' On PC</u></a></li>
-<li><a href="https://techidaily.com/solve-the-puzzle-with-new-york-times-connection-game-july-8th-episode-393-unveiled/"><u>Solve the Puzzle with New York Times - Connection Game, July 8Th Episode #393 Unveiled</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-premium-sound-picks-for-content-creators/"><u>[New] In 2024, Premium Sound Picks for Content Creators</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-pinnacle-of-iphone-photography-finding-ultimate-angles/"><u>[New] The Pinnacle of iPhone Photography Finding Ultimate Angles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-tunefab-screen-recorder-review-for-2024/"><u>[New] Tunefab Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-gif-building-an-understanding/"><u>2024 Approved How To Slow Down GIF Building an Understanding</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/boost-your-computers-speed-by-optimizing-hard-drive-space-expert-tips-from-yl-computing/"><u>Boost Your Computer's Speed by Optimizing Hard Drive Space: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-private-and-smart-chatting-utilize-duckduckgos-ai-tools-and-chatgpt-features-for-secure-communication/"><u>Explore Private and Smart Chatting: Utilize DuckDuckGo’s AI Tools & ChatGPT Features for Secure Communication</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-fostering-relationships-not-just-viewers-a-guide-to-subscriptions/"><u>In 2024, Fostering Relationships, Not Just Viewers A Guide to Subscriptions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-5-free-online-video-filter-editors/"><u>New Top 5 Free Online Video Filter Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/next-gen-sky-dome-cutting-edge-cloud-services-of-2024/"><u>Next-Gen Sky Dome Cutting-Edge Cloud Services of 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-invisible-windows-your-guide-to-regaining-lost-panes-in-windows/"><u>Revitalize Invisible Windows: Your Guide to Regaining Lost Panes in Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-15-webcams-for-quality-youtube-live-streams-for-2024/"><u>Top 15 Webcams for Quality YouTube Live Streams for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-motion-blur-photo-with-gimp-step-by-step-guide/"><u>Updated Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
 </ul></div>
 

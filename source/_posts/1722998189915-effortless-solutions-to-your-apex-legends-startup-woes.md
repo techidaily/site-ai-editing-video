@@ -1,7 +1,7 @@
 ---
 title: Effortless Solutions to Your Apex Legends Startup Woes!
-date: 2024-11-30T09:10:14.464Z
-updated: 2024-12-05T18:29:54.245Z
+date: 2024-12-05T01:09:20.007Z
+updated: 2024-12-12T01:48:12.469Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/4eb72915c915cf8500790273e3fd63ebe88ce7c63
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Install the latest Fortnite patch
@@ -64,11 +64,23 @@ thumbnail: https://thmb.techidaily.com/4eb72915c915cf8500790273e3fd63ebe88ce7c63
 ![modem](https://images.drivereasy.com/wp-content/uploads/2018/10/modem.jpg)  
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
 
 3. Try launching Fortnite again.
 
 See if you can log in or not. if not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Test your Internet connection speed
 
@@ -78,15 +90,7 @@ See if you can log in or not. if not, try the next fix, below.
 2. Click**GO** to start testing your connection speed.  
 ![speedtest](https://images.drivereasy.com/wp-content/uploads/2018/10/speedtest.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reset Winsock data
 
@@ -102,7 +106,7 @@ See if you can log in or not. if not, try the next fix, below.
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Flush your DNS and Renew your IP
@@ -115,10 +119,6 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
 #### To renew your IP
@@ -127,15 +127,15 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /release**  and press **Enter**  on your keyboard.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ipconfig release](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-release.jpg)
 3. Type the command line**ipconfig /renew**  and press **Enter**  on your keyboard.  
 
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
 
@@ -165,15 +165,7 @@ See if you can log in or not. if not, try the next fix, below.
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Avoid wireless interference
 
@@ -192,15 +184,19 @@ See if you can log in or not. if not, try the next fix, below.
 ![inetcpl.cpl](https://images.drivereasy.com/wp-content/uploads/2018/10/inetcpl-cpl.jpg)
 2. Navigate to the **Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…** ). Then click on **LAN settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
@@ -212,15 +208,15 @@ See if you can log in or not. if not, try the next fix, below.
 ![Win + R to open control panel](https://images.drivereasy.com/wp-content/uploads/2018/10/control.jpg)
 2. **View** the Control Panel **by Category** . Click **View network status and tasks** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
 
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
@@ -242,6 +238,10 @@ See if you can log in or not. If not, try the next fix.
 1. On your keyboard, press**Ctrl** , **Shift** and **Esc** at the same time to open the **Task Manager** .
 2. **Right-click** the bandwidth hogging applications and then select **End task** .  
 ![Task Manager](https://images.drivereasy.com/wp-content/uploads/2018/10/Task-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch Fortnite to see if you can log in or not.
 
@@ -266,17 +266,19 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-smooth-transition-optimal-8-sub-to-srt-modules/"><u>[New] In 2024, Smooth Transition Optimal 8 Sub to SRT Modules</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-solo-shots-showmanship-elevate-your-youtube-persona/"><u>[Updated] Solo Shots Showmanship Elevate Your YouTube Persona</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/digital-dreamscape-mapping-vrs-progress/"><u>Digital Dreamscape Mapping VR's Progress</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-video-editing-with-device-filters/"><u>In 2024, Streamlining Your Video Editing with Device Filters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/instantaneous-gif-transformation-leading-online-platforms-ranked-for-2024/"><u>Instantaneous GIF Transformation Leading Online Platforms Ranked for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ating-the-obscured-realm-of-youtube-a-methodical-approach/"><u>Navigating the Obscured Realm of YouTube A Methodical Approach</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-options/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Options</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-blur-faces-in-your-videos-read-this-article-to-find-out-the-easiest-way-to-blur-the-faces-in-videos-using-adobe-premiere-pro/"><u>New Do You Want to Blur Faces in Your Videos? Read This Article to Find Out the Easiest Way to Blur the Faces in Videos Using Adobe Premiere Pro</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rapid-download-nvidia-gtx-750-ti-update/"><u>Rapid Download: NVIDIA GTX 750 Ti Update</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-creating-video-testimonials/"><u>Updated Creating Video Testimonials</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-the-best-frame-rate-for-4k-videos-in-2024/"><u>What Is the Best Frame Rate for 4K Videos, In 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-the-iphone-16-pro-isnt-a-necessary-upgrade-from-iphone-14-insights/"><u>Why the iPhone 16 Pro Isn't a Necessary Upgrade From iPhone 14 | Insights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-live-the-experience-top-4-ways-to-preserve-your-gaming-adventures/"><u>[Updated] 2024 Approved Live the Experience Top 4 Ways to Preserve Your Gaming Adventures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-efficient-lecture-capture-with-macos/"><u>2024 Approved Efficient Lecture Capture with MacOS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/embrace-efficient-exercise-tracking-with-samsungs-galaxy-fit2-a-succinctly-styled-health-companion/"><u>Embrace Efficient Exercise Tracking with Samsung's Galaxy Fit2 – A Succinctly Styled Health Companion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-auditory-aesthetics-for-slides-infusing-your-ppt-with-tunes/"><u>In 2024, Auditory Aesthetics for Slides Infusing Your PPT with Tunes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-64128gbs-full-potential-for-video-storing/"><u>In 2024, Unlocking 64/128GB's Full Potential for Video Storing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-the-best-bang-for-your-buck-unveiling-the-superior-features-of-the-new-ipad-8th-generation/"><u>Inside the Best Bang for Your Buck: Unveiling the Superior Features of the New iPad (8Th Generation).</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/is-windows-movie-maker-still-available-in-2024/"><u>Is Windows Movie Maker Still Available, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-are-you-in-search-for-a-step-by-step-guide-to-how-to-add-effects-in-tiktok-here-it-is-to-add-some-flavor-to-your-tiktok-videos-use-these-how-to-add-effe/"><u>New Are You in Search for a Step-by-Step Guide to How to Add Effects in TikTok? Here It Is. To Add some Flavor to Your TikTok Videos. Use These How to Add Effect to TikTok Recommendations</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tailoring-win10-screen-real-estate/"><u>Tailoring WIN10 Screen Real Estate</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-a-lut-that-you-can-use-for-your-high-definition-content-you-can-use-rec-709-lut-premiere-pro-for-your-hd-digital-media-to-give-the-perfe/"><u>Updated Do You Want a LUT that You Can Use for Your High-Definition Content? You Can Use Rec 709 LUT Premiere Pro for Your HD Digital Media to Give the Perfect Result</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve?</u></a></li>
 </ul></div>
 

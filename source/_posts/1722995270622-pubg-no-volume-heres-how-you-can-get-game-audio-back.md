@@ -1,7 +1,7 @@
 ---
 title: PUBG No Volume? Here's How You Can Get Game Audio Back!
-date: 2024-11-28T23:05:21.198Z
-updated: 2024-12-06T03:29:45.437Z
+date: 2024-12-06T11:00:58.051Z
+updated: 2024-12-11T21:31:17.970Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ Recommended
 
  After confirming that your PC is powerful enough to run the game, go ahead with the following fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -52,6 +56,10 @@ Recommended
 5. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Hallo Infinite](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  If there are any missing or corrupted game files, you may encounter the black screen issue in Halo Infinite. To rule out the issue, you can verify the integrity of game files via Steam. Here’s how:
@@ -62,7 +70,7 @@ Recommended
 3. Navigate to the**LOCAL FILE** S tab and select**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-verify-game-files.jpg)
@@ -94,7 +102,7 @@ If the issue remains, check out the next fix.
 If the issue persists, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Check for Windows updates
@@ -106,10 +114,6 @@ If the issue persists, take a look at the next fix.
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and launch Halo Infinite again to see if the black screen issue has gone away.
 
@@ -124,15 +128,11 @@ If the issue persists, take a look at the next fix.
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
@@ -142,6 +142,10 @@ If the issue persists, take a look at the next fix.
  If you’re also running any third-party antivirus program, you should temporarily disable it before launching the game.
 
  Check if you still get a black screen when launching Halo Infinite. If the issue persists, continue with the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Perform a clean boot
 
@@ -155,7 +159,7 @@ If the issue persists, take a look at the next fix.
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
@@ -167,10 +171,6 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer and try launching Halo Infinite again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you won’t see a black screen again, then try enabling services one by one until you find the conflicting software. Be sure to restart your PC after enabling each service.
 
  Once you find out the problematic program that causes the black screen issue, you may need to uninstall it to avoid running into the same issue in the future.
@@ -178,7 +178,7 @@ If the issue persists, take a look at the next fix.
  If the black screen issue still occurs after you disable all unnecessary services, check out the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Halo Infinite
@@ -216,19 +216,24 @@ Now you should be able to run the game without any problems.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-effortless-voice-memo-recording-on-your-iphone/"><u>[New] Effortless Voice Memo Recording on Your iPhone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-exploring-the-boundaries-64128gb-for-vids/"><u>[New] Exploring the Boundaries 64/128GB for Vids</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-instantize-dynamic-images-in-photoshop/"><u>[New] Instantize Dynamic Images in Photoshop</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-premium-hd-screensnap-tools-for-2024/"><u>[New] Premium HD Screensnap Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-ways-to-blur-zoom-background-for-free-for-2024/"><u>Best Ways to Blur Zoom Background for Free for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/downloadhp-envy-5055-driverseasily-and-quickly/"><u>Download|HP ENVY 5055 Drivers|Easily & Quickly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/future-proof-your-job-tools-as-artificial-intelligence-progresses-experts-weigh-in-zdnet/"><u>Future-Proof Your Job Tools as Artificial Intelligence Progresses: Experts Weigh In (ZDNet)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-remove-background-from-a-video-in-premier-pro-for-2024/"><u>How to Remove Background From a Video in Premier Pro for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Samsung Galaxy S23 FE</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-create-a-motion-blur-effect-in-your-videos-read-this-well-described-guide-to-learn-how-to-add-motion-blur-on-capcut-on-iphone-and-and/"><u>In 2024, Do You Want to Create a Motion Blur Effect in Your Videos? Read This Well-Described Guide to Learn How to Add Motion Blur on CapCut on iPhone and Android Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-upload-videos-to-twitch-heres-a-guide-for-beginner/"><u>In 2024, How to Upload Videos to Twitch? Heres a Guide for Beginner</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-personalized-/"><u>In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>New In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-transferring-your-google-pixel-3a-data-to-a-windows-or-mac-computer/"><u>Step-by-Step Guide: Transferring Your Google Pixel 3a Data to a Windows or Mac Computer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unwind-and-capture-your-games-in-peace/"><u>[New] Unwind and Capture Your Games in Peace</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-vegaspros-new-era-reviewed-2019/"><u>[New] VegasPro's New Era Reviewed (2019)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-perfecting-audio-on-iphone-select-the-best-6-free-software-choices/"><u>[Updated] 2024 Approved Perfecting Audio on iPhone Select the Best 6 Free Software Choices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-revenue-revolution-how-to-design-effective-animated-fb-ads/"><u>[Updated] In 2024, Revenue Revolution How to Design Effective Animated FB Ads</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/a-guide-to-adding-audio-in-wondershare-filmora/"><u>A Guide to Adding Audio in Wondershare Filmora</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effective-responses-to-service-failures-and-their-key-attributes/"><u>Effective Responses to Service Failures and Their Key Attributes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-correcting-time-jumps-fixing-obs-studio-problems/"><u>In 2024, Correcting Time Jumps Fixing OBS Studio Problems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies/"><u>Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-top-10-sony-lut-for-different-purposes/"><u>New 2024 Approved Top 10 Sony LUT for Different Purposes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-pauses-in-wasteland-adventure-solve-your-fallout-3-stalling-woes-on-windows-11/"><u>No More Pauses in Wasteland Adventure - Solve Your Fallout 3 Stalling Woes on Windows 11!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/shotcut-review-is-it-the-best-free-video-editor-for-2024/"><u>Shotcut Review – Is It The Best Free Video Editor for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/617475-9781849892421-tell-your-own-future/"><u>Tell Your Own Future | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-when-your-logitech-g-hub-keeps-freezing-in-windows/"><u>Troubleshooting Steps When Your Logitech G Hub Keeps Freezing in Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-remove-audio-from-video-without-watermark/"><u>Updated How to Remove Audio From Video Without Watermark?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-before-and-after-editing-trick-filmora/"><u>Updated In 2024, Before & After Editing Trick - Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>Updated In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-renderforest-is-a-great-online-editing-platform-to-use-for-many-video-creators-if-you-want-to-make-an-intro-video-for-your-channel-or-daily-vlogs-yo/"><u>Updated Renderforest Is a Great Online Editing Platform to Use for Many Video Creators. If You Want to Make an Intro Video for Your Channel or Daily Vlogs, You Can Follow This Article to Know More Details</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
 </ul></div>
 

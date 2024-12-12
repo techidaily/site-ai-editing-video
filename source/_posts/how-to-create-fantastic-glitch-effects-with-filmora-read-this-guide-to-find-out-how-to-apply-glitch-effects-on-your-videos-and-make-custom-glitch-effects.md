@@ -1,7 +1,7 @@
 ---
 title: How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects
-date: 2024-09-27T10:03:24.300Z
-updated: 2024-10-03T13:20:36.940Z
+date: 2024-12-06T22:02:25.108Z
+updated: 2024-12-11T19:12:42.961Z
 tags: 
   - ai
   - animation videos
@@ -77,13 +77,6 @@ Step5 Double-click on your middle clip and go to Color, then select White Balanc
 
 ![go to color](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step6 Finally, hide this layer just like before. Repeat the same steps for the last clip but make this clip the blue layer by leaving the Temperature at zero and setting the Tint to -100.
 
 ![setting the tint to -100](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_10.jpg)
@@ -132,6 +125,10 @@ Step1 Click on the Effects tab.
 
 Step2 Search for VCR Distortion, then drag and drop this effect over your previous layer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Tips to Create Awesome Glitch Effects
 
 1. One of the best ways to use the VCR Distortion effect is to cut it short and intersperse it around your video in random parts.
@@ -179,6 +176,10 @@ Step7 Double-click the clip in the top layer, click the Video Tab, and open the 
 Now click on the clip in your preview window and move the image over by pressing the left Arrow key on your keyboard a few times. Once you're happy with the top clip, hide that layer by clicking the eye icon.
 
 ![click on the clip in your preview window](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step8 To make the middle layer visible, double-click the clip in your mid layer and set the Blending Mode of this layer to Screen.
 
@@ -272,13 +273,6 @@ Step 2: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 9
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-3.png)
@@ -318,6 +312,10 @@ Step 2: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degre
 Step 3: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
 
@@ -397,16 +395,13 @@ Step 2: Go to the Rotation section.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Select the rotation degree you want to use.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Click on enter on your keyboard to rotate it.
 
@@ -421,16 +416,7 @@ Step 2: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degre
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-8.png)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Click on the Transform > Rotate 90 degrees CW tool to rotate it 90 degrees counterclockwise.
@@ -485,13 +471,6 @@ Click on the flip option that you want to use, either upside down or sideways, v
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-16.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click on ‘Ok’ to apply the rotation and the flip.
 
 Third, if you want to rotate a video by a specific number of degrees, follow the steps below:
@@ -509,6 +488,10 @@ Step 3: Click on the Edit > Transform > Rotate 90 degrees CW tool to rotate it 9
 Step 4: Click on the Edit > Transform > Rotate 180 degrees tool to rotate it 180 degrees.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 How to rotate using the advance controls in obs?
 
@@ -558,6 +541,10 @@ For Win 7 or later (64-bit)
 
 For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step-by-step on how to rotate videos using Filmora
 
 How to rotate videos using Filmora?
@@ -589,13 +576,6 @@ Second, if you want to rotate a video and flip it, follow the steps below:
 Click on the flip option that you want to use, either upside down or sideways, vertically or horizontally.
 
 ![rotate-video-obs](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-obs-16.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Click on ‘Ok’ to apply the rotation and the flip.
 
@@ -771,6 +751,10 @@ When you're happy with your added effects, click on the "Ok" button to save your
 
 ![edit audio title windows movie maker](https://images.wondershare.com/filmora/article-images/2022/09/edit-audio-title-windows-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Audio and Title are both crucial aspects when you want to **make movie windows 10 movie** perfectly. You can edit both of these in Windows Movie Maker. Editing is one of the most creative aspects of making a movie. In Windows Movie Maker, you easily edit your audio and titles in the video. Even if you want to do the editing multiple times, you can do so without any problem. All you need to do is have the latest version of Windows Movie Maker installed on your computer.
 
 To Edit the Audio & Tiles:
@@ -828,13 +812,6 @@ Step4 Once you are happy with your edits, you can preview your video by clicking
 
 If you are satisfied with what you see, then you can go ahead and export your video. To do this, click on "File" located in the top left-hand corner of the screen and then select "Export". From here, you can choose what format you want to export your video and where you want to save it on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If you're looking for an easy way to make movies on your Windows computer, then you should definitely check out Windows Movie Maker. This free from Microsoft makes it simple to create and edit videos, and it's perfect for beginners. Another alternative for making movies on Windows is to use the Filmora video editor. This program is more robust and has multiple features just like Movie Maker.
@@ -844,13 +821,6 @@ If you're looking for an easy way to make movies on your Windows computer, then 
 Step1 Import your video into the software. You can do this by clicking on "Import" and selecting the file from your computer.
 
 ![import video into software](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Once your video is imported, you can see it in the "Project Library". You can drag and drop it from here into the "Video Timeline" located at the bottom of the screen.
 
@@ -916,11 +886,19 @@ Double-click on the Lower Third Title clip. Then, edit the text inside the new p
 
 ![edit text filmora](https://images.wondershare.com/filmora/article-images/2023/01/text.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6
 
 All that’s left to do now is to watch the final preview and Export the video. Render the video first and then hit the blue **Export button.** Congratulations on adding a lower-third animated title to your video in Filmora.
 
 ![render video filmora](https://images.wondershare.com/filmora/article-images/2023/01/render.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Summary
 
@@ -1106,21 +1084,14 @@ Summary
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-affordable-youtube-intro-designs-and-templates/"><u>[New] 2024 Approved Affordable YouTube Intro Designs and Templates</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unveiling-prospects-and-limitations-within-samsungs-2023-image-editor/"><u>[New] 2024 Approved Unveiling Prospects and Limitations Within Samsung's 2023 Image Editor</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-voice-overhaul-made-simple-explore-7-best-audio-editing-apps/"><u>[Updated] 2024 Approved Voice Overhaul Made Simple Explore 7 Best Audio Editing Apps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youngest-entrepreneur-in-media-lands-fortune-peak-for-2024/"><u>[Updated] Youngest Entrepreneur in Media Lands Fortune Peak for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/aesthetic-alchemy-transforming-youtube-videos/"><u>Aesthetic Alchemy Transforming YouTube Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/banish-left-4-dead-2-game-breaking-closes-with-easy-fixes/"><u>Banish Left 4 Dead 2 Game-Breaking Closes with Easy Fixes!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-fun-filled-games-to-enjoy-during-leisure-time/"><u>Best Fun-Filled Games to Enjoy During Leisure Time</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/cut-down-input-lag-in-cyberpunk-2077-tips-and-tricks-to-enhance-your-gaming-experience/"><u>Cut Down Input Lag in Cyberpunk 2077: Tips & Tricks to Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-resolve-windows-file-corruption-issues-ws-10-and-11-edition/"><u>Effective Strategies to Resolve Windows File Corruption Issues - WS 10 & 11 Edition</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-gyroscopic-mounts-for-clear-shake-free-imaging/"><u>Elite Gyroscopic Mounts for Clear, Shake-Free Imaging</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/heroic-measures-against-a-corrupted-disk-in-steam-games-a-simple-fix-guide/"><u>Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/resolve-call-of-duty-wwii-display-problems-fixes-for-pc-users/"><u>Resolve Call of Duty: WWII Display Problems - Fixes for PC Users</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/review-expose-on-netgears-advanced-x6-wifi-mesh-enhancer-a-deep-dive-into-its-innovative-traits/"><u>Review Exposé on Netgear's Advanced X6 Wifi Mesh Enhancer – A Deep Dive Into Its Innovative Traits</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/solved-troubleshooting-resident-evil-village-pc-instability-issues/"><u>Solved! Troubleshooting Resident Evil Village PC Instability Issues</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/troubleshoot-your-apex-legends-engine-glitches-with-these-easy-steps/"><u>Troubleshoot Your Apex Legends Engine Glitches with These Easy Steps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-/"><u>2024 Approved Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-secrets-to-pristine-bg-removal-techniques-in-figma/"><u>2024 Approved Unveiling Secrets to Pristine BG Removal Techniques in Figma</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audio-alchemy-made-accessible-discover-free-transformation-techniques-for-sound/"><u>Audio Alchemy Made Accessible Discover Free Transformation Techniques for Sound</u></a></li>
+<li><a href="https://os-tips.techidaily.com/can-you-use-siri-to-unlock-your-iphone-the-pros-and-cons-explained/"><u>Can You Use Siri to Unlock Your iPhone? The Pros and Cons Explained</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/if-you-want-to-make-an-intro-video-then-adobe-after-effects-will-be-a-great-choice-this-article-will-show-the-steps-to-create-an-intro-video-with-after-effe/"><u>If You Want to Make an Intro Video, Then Adobe After Effects Will Be a Great Choice. This Article Will Show the Steps to Create an Intro Video with After Effects by Your Own</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-zoom-video-in-vlc-media-player/"><u>In 2024, How to Zoom Video in VLC Media Player</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-lunapic-interface-like-a-pro/"><u>Navigating the LunaPic Interface Like a Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-whatre-the-best-alternatives-to-pexels/"><u>New Whatre the Best Alternatives to Pexels?</u></a></li>
+<li><a href="https://facebook.techidaily.com/undercover-data-collection-on-pinterest-and-tumblr-to-maintain-free-status/"><u>Undercover Data Collection on Pinterest & Tumblr to Maintain Free Status</u></a></li>
 </ul></div>
 

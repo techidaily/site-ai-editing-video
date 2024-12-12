@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing
-date: 2024-12-02T17:23:23.414Z
-updated: 2024-12-05T16:38:31.328Z
+date: 2024-12-10T17:58:55.478Z
+updated: 2024-12-12T10:03:32.597Z
 tags: 
   - ai
   - animation videos
@@ -21,10 +21,6 @@ In this article, we will demonstrate how to use Adobe After Effects to put toget
 
 Let's begin!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Create a new composition
 
 It's possible that you only want to show the minutes and seconds. Make a mask around the entire area you intend to use in order to quickly remove undesired information.
@@ -38,10 +34,6 @@ It's possible that you only want to show the minutes and seconds. Make a mask ar
 4\. Everything should be pre-composed, and the composition's tempo should be reversed to make it count down. Right-click the composition and choose Time > Time Reverse Layer to change its pace.
 
 ![create new text countdown video](https://images.wondershare.com/filmora/article-images/2022/11/create-new-text-countdown-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Using the timecode plugin
 
@@ -126,6 +118,10 @@ Step1 For the first shot, you must throw a jacket on a stool. Make sure it lands
 
 ![throw a jacket on a stool](https://images.wondershare.com/filmora/article-images/2022/12/appearance_1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Make a shot of your talent appearing from where the jacket landed. You can add some acting skills to make this shot more realistic.
 
 ![make a shot of your talent appearing](https://images.wondershare.com/filmora/article-images/2022/12/appearance_2.jpg)
@@ -187,10 +183,6 @@ Step5 Move the clip until it covers only the first frame of the appearing clip. 
 Step6 Now search for some smoke effects and put it upside down. So it looks like the ceiling is broken when the subject falls. Then add some camera shake to the fall.
 
 ![search for some smoke effects](https://images.wondershare.com/filmora/article-images/2022/12/appearance_14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step7 Drag the camera shake effect back to the top track and shorten it to an ideal length. You can also add some sound effects if you want to this video.
 
@@ -260,278 +252,8 @@ Step 1: Open the video that you want to rotate in Blender.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
 
-Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
-
- Figure 5
-
-Step 3: Go to the ‘Transform’ option in the properties window and adjust based on the rotational angle that you want.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
-
-Step 4: Click on ‘Enter’ to apply it to the video.
-
-In this tutorial, we have shown you two different ways to rotate a video in Blender. The first way is by using the Transform Properties window, and the second way is by using the 3D Viewport.
-
-Which method you use is up to you. However, we recommend using the 3D Viewport method, as it is more accurate.
-
-Rotating a video in Blender can be used for other purposes than just rotating it.
-
-Here are some other things that you can do with a rotated video:
-
-\- Scale the video up or down
-
-\- Flip the video horizontally or vertically
-
-\- Change the position of the video in the 3D Viewport
-
-## How to rotate videos in Filmora
-
-Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate a video without any watermark. Filmora is a video editing software that lets you rotate videos easily. It is simple to use, and has many powerful features that let you edit your videos like a pro. It also has a built-in video converter that lets you convert your videos to different formats, so they can be played on any device. You can also export your videos in 4K resolution, so they look great no matter what device you are watching them on.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
-
-### Step-by-step on how to rotate videos in Filmora
-
-To rotate a video clip using keyframes...
-
-Step 1: Import the video clip you want to rotate to your project.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
-
-Step 2: In the timeline, place the playhead at the beginning of the clip.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
-
-Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
-
-Step 4: Move the playhead to the end of the clip and drag the rotation handle again to rotate it further.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
-
-To rotate a video clip using the Transform Tool...
-
-Select the "Edit" tool from the toolbar.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
-
-Go to the “Transform” selection, then select the rotate option.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
-
-Adjust the rotation angle using the tool.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
-
-Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
-
-Step 2: Then, click on the "Strip" menu and select "Transform."
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
-
-Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
-
-Step 4: Click on Enter to save the rotation of the video.
-
-The second way to rotate a video in Blender is by using the Transform Properties window. To do this...
-
-Step 1: Open the video that you want to rotate in Blender.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
-
-Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
-
- Figure 5
-
-Step 3: Go to the ‘Transform’ option in the properties window and adjust based on the rotational angle that you want.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
-
-Step 4: Click on ‘Enter’ to apply it to the video.
-
-In this tutorial, we have shown you two different ways to rotate a video in Blender. The first way is by using the Transform Properties window, and the second way is by using the 3D Viewport.
-
-Which method you use is up to you. However, we recommend using the 3D Viewport method, as it is more accurate.
-
-Rotating a video in Blender can be used for other purposes than just rotating it.
-
-Here are some other things that you can do with a rotated video:
-
-\- Scale the video up or down
-
-\- Flip the video horizontally or vertically
-
-\- Change the position of the video in the 3D Viewport
-
-## How to rotate videos in Filmora
-
-Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate a video without any watermark. Filmora is a video editing software that lets you rotate videos easily. It is simple to use, and has many powerful features that let you edit your videos like a pro. It also has a built-in video converter that lets you convert your videos to different formats, so they can be played on any device. You can also export your videos in 4K resolution, so they look great no matter what device you are watching them on.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
-
-### Step-by-step on how to rotate videos in Filmora
-
-To rotate a video clip using keyframes...
-
-Step 1: Import the video clip you want to rotate to your project.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
-
-Step 2: In the timeline, place the playhead at the beginning of the clip.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
-
-Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
-
-Step 4: Move the playhead to the end of the clip and drag the rotation handle again to rotate it further.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
-
-To rotate a video clip using the Transform Tool...
-
-Select the "Edit" tool from the toolbar.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
-
-Go to the “Transform” selection, then select the rotate option.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
-
-Adjust the rotation angle using the tool.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
-
-Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
-
-Step 2: Then, click on the "Strip" menu and select "Transform."
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
-
-Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
-
-Step 4: Click on Enter to save the rotation of the video.
-
-The second way to rotate a video in Blender is by using the Transform Properties window. To do this...
-
-Step 1: Open the video that you want to rotate in Blender.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
-
-Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
-
- Figure 5
-
-Step 3: Go to the ‘Transform’ option in the properties window and adjust based on the rotational angle that you want.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
-
-Step 4: Click on ‘Enter’ to apply it to the video.
-
-In this tutorial, we have shown you two different ways to rotate a video in Blender. The first way is by using the Transform Properties window, and the second way is by using the 3D Viewport.
-
-Which method you use is up to you. However, we recommend using the 3D Viewport method, as it is more accurate.
-
-Rotating a video in Blender can be used for other purposes than just rotating it.
-
-Here are some other things that you can do with a rotated video:
-
-\- Scale the video up or down
-
-\- Flip the video horizontally or vertically
-
-\- Change the position of the video in the 3D Viewport
-
-## How to rotate videos in Filmora
-
-Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate a video without any watermark. Filmora is a video editing software that lets you rotate videos easily. It is simple to use, and has many powerful features that let you edit your videos like a pro. It also has a built-in video converter that lets you convert your videos to different formats, so they can be played on any device. You can also export your videos in 4K resolution, so they look great no matter what device you are watching them on.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
-
-### Step-by-step on how to rotate videos in Filmora
-
-To rotate a video clip using keyframes...
-
-Step 1: Import the video clip you want to rotate to your project.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
-
-Step 2: In the timeline, place the playhead at the beginning of the clip.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
-
-Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
-
-Step 4: Move the playhead to the end of the clip and drag the rotation handle again to rotate it further.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
-
-To rotate a video clip using the Transform Tool...
-
-Select the "Edit" tool from the toolbar.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
-
-Go to the “Transform” selection, then select the rotate option.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
-
-Adjust the rotation angle using the tool.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
-
-Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
-
-Step 2: Then, click on the "Strip" menu and select "Transform."
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
-
-Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
-
-Step 4: Click on Enter to save the rotation of the video.
-
-The second way to rotate a video in Blender is by using the Transform Properties window. To do this...
-
-Step 1: Open the video that you want to rotate in Blender.
-
-![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
@@ -542,9 +264,287 @@ Step 3: Go to the ‘Transform’ option in the properties window and adjust bas
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
 
+Step 4: Click on ‘Enter’ to apply it to the video.
+
+In this tutorial, we have shown you two different ways to rotate a video in Blender. The first way is by using the Transform Properties window, and the second way is by using the 3D Viewport.
+
+Which method you use is up to you. However, we recommend using the 3D Viewport method, as it is more accurate.
+
+Rotating a video in Blender can be used for other purposes than just rotating it.
+
+Here are some other things that you can do with a rotated video:
+
+\- Scale the video up or down
+
+\- Flip the video horizontally or vertically
+
+\- Change the position of the video in the 3D Viewport
+
+## How to rotate videos in Filmora
+
+Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate a video without any watermark. Filmora is a video editing software that lets you rotate videos easily. It is simple to use, and has many powerful features that let you edit your videos like a pro. It also has a built-in video converter that lets you convert your videos to different formats, so they can be played on any device. You can also export your videos in 4K resolution, so they look great no matter what device you are watching them on.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
+
+### Step-by-step on how to rotate videos in Filmora
+
+To rotate a video clip using keyframes...
+
+Step 1: Import the video clip you want to rotate to your project.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
+
+Step 2: In the timeline, place the playhead at the beginning of the clip.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
+
+Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
+
+Step 4: Move the playhead to the end of the clip and drag the rotation handle again to rotate it further.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
+
+To rotate a video clip using the Transform Tool...
+
+Select the "Edit" tool from the toolbar.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
+
+Go to the “Transform” selection, then select the rotate option.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
+
+Adjust the rotation angle using the tool.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
+
+Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
+
+Step 2: Then, click on the "Strip" menu and select "Transform."
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
+
+Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step 4: Click on Enter to save the rotation of the video.
+
+The second way to rotate a video in Blender is by using the Transform Properties window. To do this...
+
+Step 1: Open the video that you want to rotate in Blender.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
+
+Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
+
+ Figure 5
+
+Step 3: Go to the ‘Transform’ option in the properties window and adjust based on the rotational angle that you want.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
+
+Step 4: Click on ‘Enter’ to apply it to the video.
+
+In this tutorial, we have shown you two different ways to rotate a video in Blender. The first way is by using the Transform Properties window, and the second way is by using the 3D Viewport.
+
+Which method you use is up to you. However, we recommend using the 3D Viewport method, as it is more accurate.
+
+Rotating a video in Blender can be used for other purposes than just rotating it.
+
+Here are some other things that you can do with a rotated video:
+
+\- Scale the video up or down
+
+\- Flip the video horizontally or vertically
+
+\- Change the position of the video in the 3D Viewport
+
+## How to rotate videos in Filmora
+
+Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate a video without any watermark. Filmora is a video editing software that lets you rotate videos easily. It is simple to use, and has many powerful features that let you edit your videos like a pro. It also has a built-in video converter that lets you convert your videos to different formats, so they can be played on any device. You can also export your videos in 4K resolution, so they look great no matter what device you are watching them on.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
+
+### Step-by-step on how to rotate videos in Filmora
+
+To rotate a video clip using keyframes...
+
+Step 1: Import the video clip you want to rotate to your project.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
+
+Step 2: In the timeline, place the playhead at the beginning of the clip.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
+
+Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
+
+Step 4: Move the playhead to the end of the clip and drag the rotation handle again to rotate it further.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
+
+To rotate a video clip using the Transform Tool...
+
+Select the "Edit" tool from the toolbar.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
+
+Go to the “Transform” selection, then select the rotate option.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
+
+Adjust the rotation angle using the tool.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
+
+Step 2: Then, click on the "Strip" menu and select "Transform."
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
+
+Step 4: Click on Enter to save the rotation of the video.
+
+The second way to rotate a video in Blender is by using the Transform Properties window. To do this...
+
+Step 1: Open the video that you want to rotate in Blender.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
+
+Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
+
+ Figure 5
+
+Step 3: Go to the ‘Transform’ option in the properties window and adjust based on the rotational angle that you want.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
+
+Step 4: Click on ‘Enter’ to apply it to the video.
+
+In this tutorial, we have shown you two different ways to rotate a video in Blender. The first way is by using the Transform Properties window, and the second way is by using the 3D Viewport.
+
+Which method you use is up to you. However, we recommend using the 3D Viewport method, as it is more accurate.
+
+Rotating a video in Blender can be used for other purposes than just rotating it.
+
+Here are some other things that you can do with a rotated video:
+
+\- Scale the video up or down
+
+\- Flip the video horizontally or vertically
+
+\- Change the position of the video in the 3D Viewport
+
+## How to rotate videos in Filmora
+
+Meanwhile, you can also use [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) to rotate a video without any watermark. Filmora is a video editing software that lets you rotate videos easily. It is simple to use, and has many powerful features that let you edit your videos like a pro. It also has a built-in video converter that lets you convert your videos to different formats, so they can be played on any device. You can also export your videos in 4K resolution, so they look great no matter what device you are watching them on.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
+
+### Step-by-step on how to rotate videos in Filmora
+
+To rotate a video clip using keyframes...
+
+Step 1: Import the video clip you want to rotate to your project.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
+
+Step 2: In the timeline, place the playhead at the beginning of the clip.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
+
+Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
+
+Step 4: Move the playhead to the end of the clip and drag the rotation handle again to rotate it further.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
+
+To rotate a video clip using the Transform Tool...
+
+Select the "Edit" tool from the toolbar.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
+
+Go to the “Transform” selection, then select the rotate option.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-12.png)
+
+Adjust the rotation angle using the tool.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-13.png)
+
+Both methods are fairly straightforward and easy to use. Experiment with each to see which works best for your project.
+
+Step 2: Then, click on the "Strip" menu and select "Transform."
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-2.png)
+
+Step 3: In the Transform Properties window, you will see a list of different tools for the video. Scroll down until you see the "Rotation" property. This is where you can manually rotate the video.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-3.png)
+
+Step 4: Click on Enter to save the rotation of the video.
+
+The second way to rotate a video in Blender is by using the Transform Properties window. To do this...
+
+Step 1: Open the video that you want to rotate in Blender.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-4.png)
+
+Step 2: Next, go to ‘Transform’ in the Active Tool portion of the screen.
+
+ Figure 5
+
+Step 3: Go to the ‘Transform’ option in the properties window and adjust based on the rotational angle that you want.
+
+![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-6.png)
 
 Step 4: Click on ‘Enter’ to apply it to the video.
 
@@ -650,10 +650,6 @@ Step 3: Choose a profile for the video you wish to convert.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Select the Start button to start VLC video compression.
 
 ### Resizing by cutting unnecessary video segment
@@ -717,6 +713,10 @@ Step 4: Keep in mind that changing one dimension of a video clip will affect bot
 Step 1: To import a video file, either drag and drop it onto the screen or use the toolbar's "Import Files" option.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Open the video shrinker's output window by clicking the "Export" button.
 
@@ -780,6 +780,10 @@ For Win 7 or later (64-bit)
 
 For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step by Step on How to Resize Videos using Filmora
 
 Resizing videos in Filmora is a quick and easy process. To resize videos, first make sure you have imported your video file into the editor.
@@ -789,10 +793,6 @@ Resizing videos in Filmora is a quick and easy process. To resize videos, first 
 Step 1: To import a video file, either drag and drop the file on the screen or click on "Import Files" in the toolbar.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2: Once you've imported your video, select the video clips that you want to resize by clicking on them; then, resizing them is as simple as dragging their borders!
 
@@ -817,7 +817,7 @@ Step 3: Select the Format tab and keep the video in its original format as a res
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: The shrunk file should be exported.
@@ -834,7 +834,15 @@ Step 3: Choose a profile for the video you wish to convert.
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Select the Start button to start VLC video compression.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Resizing by cutting unnecessary video segment
 
@@ -906,15 +914,7 @@ Step 3: Select the Format tab and keep the video in its original format as a res
 
 ![resize-video-vlc](https://images.wondershare.com/filmora/article-images/2022/02/resize-video-vlc-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: The shrunk file should be exported.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -1022,17 +1022,18 @@ So you’ve got this beautiful video you want to post on your social media page 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-essentials-of-screen-capture-with-fraps/"><u>[New] The Essentials of Screen Capture with Fraps</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-mastering-free-and-paid-tools-for-vimeo-video-downloads/"><u>[Updated] 2024 Approved Mastering Free & Paid Tools for Vimeo Video Downloads</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-evaluating-the-efficacy-of-aurora-hdr-technology/"><u>[Updated] In 2024, Evaluating the Efficacy of Aurora HDR Technology</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-windows-studio-options-beyond-moviemaker/"><u>[Updated] In 2024, Windows Studio Options Beyond MovieMaker</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-out-what-keyframe-interval-is-why-it-is-important-and-to-change-its-value-on-obs-studio-with-simple-and-easy-to-follow-instructions/"><u>2024 Approved Find Out What Keyframe Interval Is, Why It Is Important, and to Change Its Value on OBS Studio with Simple and Easy-to-Follow Instructions</u></a></li>
-<li><a href="https://games-able.techidaily.com/cover-band-network-cbn/"><u>Cover Band Network (CBN)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-approved-strategies-and-software-that-revolutionize-your-daily-productivity-insights-from-the-trenches-of-workflow-mastery/"><u>Expert-Approved Strategies & Software That Revolutionize Your Daily Productivity: Insights From the Trenches of Workflow Mastery</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-budget-blueprint-for-creating-musical-cinematic-pieces/"><u>In 2024, Budget Blueprint for Creating Musical Cinematic Pieces</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-3-in-camera-transitions-tricks-to-make-videos-for-2024/"><u>New 3 In-Camera Transitions Tricks To Make Videos for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-7-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 7 Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-motion-blur-on-capcut-iphone-and-android-for-2024/"><u>Updated How To Add Motion Blur On CapCut? (IPhone & Android) for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-use-speed-ramping-to-create-an-intense-action-footage/"><u>Updated In 2024, How To Use Speed Ramping to Create an Intense Action Footage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-pinnacle-article-hook-maker/"><u>[New] 2024 Approved Pinnacle Article Hook Maker</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-depth-review-vrs-winning-features-and-faults/"><u>[Updated] In-Depth Review VR's Winning Features & Faults</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-six-common-car-ai-configurations-fails/"><u>Decoding Six Common Car AI Configurations Fails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-look-how-ios-18s-latest-messaging-feature-is-set-to-transform-your-iphone-experience-without-relying-on-artificial-intelligence/"><u>Exclusive Look: How iOS 18'S Latest Messaging Feature Is Set to Transform Your iPhone Experience, Without Relying on Artificial Intelligence</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-video-by-mouse-in-filmora/"><u>How To Make a Video by Mouse in Filmora?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-valheims-flora-frontier-unlocking-the-best-seeds/"><u>In 2024, Valheim's Flora Frontier Unlocking the Best Seeds</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-practical-tips-to-improve-your-lighting-in-the-sun-for-2024/"><u>New Best Practical Tips to Improve Your Lighting in the Sun for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New In 2024, Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-split-clips-in-vlc-for-2024/"><u>New Step by Step to Split Clips in VLC for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-repair-immediate-purchase-opportunity-for-your-photography-needs/"><u>Stellar Repair: Immediate Purchase Opportunity for Your Photography Needs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-process-for-efficient-use-of-macs-preview-app/"><u>Step-by-Step Process for Efficient Use of Mac's Preview App</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-ideas-on-using-green-screen-with-filmora/"><u>Updated 2024 Approved Best Ideas on Using Green Screen with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-loop-videos-with-filmora-for-2024/"><u>Updated How to Create Loop Videos with Filmora for 2024</u></a></li>
 </ul></div>
 

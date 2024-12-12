@@ -1,7 +1,7 @@
 ---
 title: New Easy Steps to Add Miniature Effect to Videos
-date: 2024-10-01T16:44:13.657Z
-updated: 2024-10-03T00:05:44.525Z
+date: 2024-12-09T11:32:12.790Z
+updated: 2024-12-11T18:04:20.999Z
 tags: 
   - ai
   - animation videos
@@ -132,19 +132,6 @@ Now, it's time to select a specific video portion and add a mask. Due to this, w
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** you can adjust the mask size and position by rotating and changing its shape.
 
 Watch the rotating and adjusting actions as shown below!
@@ -185,13 +172,6 @@ Now, it's time to mask the whole object, which is far, but we want to make it in
 You are excited now to see the final look of your miniature effect! Finally, it's in front of you! Just modify it more if you want to make it more precise.
 
 ![final look of miniature effect on wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-14.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Have you tried to add a miniature effect before? If yes, then share your experience with us! Try with more mask shapes and add more blur effects. Make sure that you are using Wondershare Filmora to make more filmy shots. Feel free to try out different effects and enjoy the following results!
 
@@ -262,10 +242,7 @@ Want to get an ideal blur level? If you need more blur level in your video and m
 ![add blur effect in video multiple times](https://images.wondershare.com/filmora/article-images/2022/12/miniature-effect-7.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step6 Drop the same video clip
@@ -360,6 +337,10 @@ Suppose you’ve ever wanted to create the screen print effect in Photoshop to g
 
 So without any delay, let’s get on with it!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Use Photoshop To Create The Print Effect
 
 Below we’ve provided a detailed guide using Adobe Photoshop to create the print effect with easy step-by-step instructions.
@@ -417,6 +398,10 @@ Try removing the left-out white patches on the object using the **“Magic Erase
 
 Type in the file name and select the file type from the drop-down menu next to **“Save As Type.”** Choose the storage location, click **“Save”** to export your final project, and you’re done!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In this article, we’ve explored what the screen print effect is and how it is used in digital art. We’ve also discussed the requirements and resources you need to use and then demonstrated a step-by-step process of **how to create the screen print effect** in Photoshop with simple and easy-to-follow instructions.
@@ -443,6 +428,10 @@ Did they have dinner on Mars? Photographers are becoming more daring with their 
 
 ![green screen key](https://images.wondershare.com/filmora/article-images/2022/08/green-screen-key-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The following is all you need to know about the green screen key effect and how to apply it using different video editing software. In addition, you will discover why the effect is popular with video editors. Keep reading to find out more.
 
 ## Part1: What is keying in green screen?
@@ -451,16 +440,13 @@ Keying refers to a post-production process of separating and isolating an image'
 
 It involves identifying a color or brightness value that you will make transparent in the photo. In addition, you can use two types of keys during the keying process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Chroma Keys
 
 These allow you to select a specific color in your image and make everything that features the color transparent. Typically, chrome keys are best for images and videos featuring lots of green or blue backgrounds.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Luma Keys
 
@@ -475,6 +461,10 @@ Using a green screen key is an important skill to learn as a filmmaker. This is 
 For example, using after effects green screen keying incorrectly can result in spill issues. This is when the green light from your screen bounces back to your subject. As such, you lose some subject detail, and the image appears messy.
 
 Furthermore, not all video editing software includes the green screen key tool. Therefore, always check your software details before purchasing a copy. The next section contains step-by-step guides on performing green screen keying on some of the industry's most popular software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part2: How to do Green Screen Keying in After Effects?
 
@@ -550,6 +540,10 @@ You use this tool to soften your subject's edges during green screen keying.
 
 The edge thickness tool helps you increase the sharpness of your subject's edges. As such, they appear more detailed resulting in a clear and well-balanced photo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Merge the new background
 
 Once you complete the green screen keying, merging the new background is next. You do this by seamlessly positioning the background to fit your green screen footage. Then, the Filmora Chroma key tool will merge the images or footage and make it appear as one clip.
@@ -561,6 +555,10 @@ Finally, you can export your content in multiple formats to suit your desired pl
 Please note that you need an active Filmora subscription to use Chroma Key. In addition, you can subscribe to individual and business plans depending on your requirements. However, any creations using the Filmora Individual plan require you to mention the software in their description.
 
 ## Part4: FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Is there a difference between chroma keying and green screening?
 
@@ -593,10 +591,7 @@ Drone footage is an aerial recording of an event, occasion, or entire town. The 
 * [Bonus Part: Learn More About Video Editing Through LUTs with Wondershare Filmora](#part4)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What Do You Know About LUTs?
@@ -728,18 +723,15 @@ Provide moody styles to your recorded drone footage with this DJI drone LUTs pac
 
 ![moody dji drone luts](https://images.wondershare.com/filmora/article-images/2023/06/drone-footage-with-free-luts-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.[DJI Drone LUTs Color Preset](https://pixflow.net/product/drone-luts/)
 
 Transfrom your aerial video shoot in wildlife, sports, or traveling with this LUTs pack. After all, this DJI Mavic 2 Pro LUTs works with drones, including the DJI Mavic Pro line. There are, in total, 120 color presets that are available in different gradients. The quality for these LUTs is 8K, and they work with LOG and Rec .709.
 
 ![dji drone luts color preset](https://images.wondershare.com/filmora/article-images/2023/06/drone-footage-with-free-luts-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.DB - Cinematic Drone LUTs
 
@@ -770,20 +762,6 @@ Make your aerial project more enchanting with this drone LUTs pack free. You wil
 Black and white color schemes are always special. Adding them to your aerial videos or photos can enlighten your content's visualization. By using these B&W LUTs for drones, turn aerial shoots into appealing black-and-white contrasts. This will make your visual content more aesthetic with improved engagement. Using this LUTs pack is very convenient and straightforward.
 
 ![B&W](https://images.wondershare.com/filmora/article-images/2023/06/drone-footage-with-free-luts-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Part: Learn More About Video Editing Through LUTs with Wondershare Filmora
 
@@ -841,22 +819,20 @@ Drone technology is evolving modern videography and photography with aerial view
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-bandicam-reviewed-the-latest-tech-enhancements-and-tips-for-2024/"><u>[Updated] Bandicam Reviewed The Latest Tech Enhancements and Tips for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-harnessing-microsoft-teams-power-with-simple-snap-camera-use/"><u>[Updated] Harnessing Microsoft Teams' Power with Simple Snap Camera Use</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sculpt-your-memories-with-iphone-burst-shots/"><u>[Updated] Sculpt Your Memories with iPhone Burst Shots</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/5-top-rangierte-4k-medienabspieler-fur-high-definition-videoinhalte/"><u>5 Top-Rangierte 4K Medienabspieler Für High-Definition-Videoinhalte</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/android-tips-keeping-your-number-private-when-calling/"><u>Android Tips: Keeping Your Number Private When Calling</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-for-seamless-installation-of-new-apple-ios-releases/"><u>Expert Advice for Seamless Installation of New Apple iOS Releases</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-film-a-slow-motion-video/"><u>How To Film a Slow Motion Video</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-magic-5-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Honor Magic 5 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/"><u>New 2024 Approved Creative Ways to Add Green Screen Effects In Photoshop</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-a-guide-to-create-your-own-lol-montage-video-for-2024/"><u>New A Guide to Create Your Own LOL Montage Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-on-using-filmora-green-screen/"><u>New In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-loop-a-video-on-android/"><u>New In 2024, How to Loop a Video on Android</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-make-a-countdown-video/"><u>New In 2024, Make A Countdown Video</u></a></li>
-<li><a href="https://games-able.techidaily.com/refine-gaming-atmosphere-personalizing-the-xbox-game-bar-for-a-besposkexpenses-windows-pc/"><u>Refine Gaming Atmosphere: Personalizing the Xbox Game Bar for a Besposkexpenses Windows PC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/steps-to-fade-audio-in-premier-pro/"><u>Steps To Fade Audio In Premier Pro</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-top-software-solutions-for-downloading-and-viewing-metacafe-videos-without-internet/"><u>Ultimate Guide: Top Software Solutions for Downloading and Viewing Metacafe Videos Without Internet</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in-this-ar/"><u>Updated Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-achieving-a-million-on-the-map-a-strategic-view-to-sub-guide/"><u>[New] 2024 Approved Achieving a Million on the Map A Strategic View-to-Sub Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-discover-the-best-open-worlds-today-for-2024/"><u>[Updated] Discover the Best Open Worlds Today for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-turning-back-the-clock-mastering-instagram-video-reverse/"><u>[Updated] In 2024, Turning Back the Clock Mastering Instagram Video Reverse</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-optimizing-testimonial-creation/"><u>[Updated] Mastering the Art Optimizing Testimonial Creation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/discover-the-world-of-screen-capture-with-apowersofts-free-version-for-2024/"><u>Discover the World of Screen Capture with Apowersoft's Free Version for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-upgrading-to-the-newest-drivers-for-geforce-gtx-460-on-your-windows-machine/"><u>Easy Installation Guide: Upgrading to the Newest Drivers for GeForce GTX #460 on Your Windows Machine</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-note-13-pro-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi Note 13 Pro 5G Phone Screen?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-green-screen-in-obs/"><u>How to Add Green Screen in OBS</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/how-to-fix-windows-server-2019-installation-problems-successfully/"><u>How to Fix Windows Server 2019 Installation Problems Successfully</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-ad/"><u>New 2024 Approved Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>Updated A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-custom-filters-in-vn-app-2024-quick-guide/"><u>Updated How to Add Custom Filters in VN App 2024 Quick Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-speed-ramping-to-create-an-intense-action-footage-for-2024/"><u>Updated How To Use Speed Ramping to Create an Intense Action Footage for 2024</u></a></li>
 </ul></div>
 

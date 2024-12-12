@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Make Eye Zoom Transition Effect with Filmora
-date: 2024-10-30T17:32:55.885Z
-updated: 2024-11-06T20:32:52.231Z
+date: 2024-12-05T11:09:44.426Z
+updated: 2024-12-12T10:17:33.360Z
 tags: 
   - ai
   - animation videos
@@ -207,6 +207,10 @@ With that done, move the playhead to the start of the freeze frame video and dou
 
 After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Summary
 
 There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
@@ -266,6 +270,10 @@ Step3 You will see a mini timeline under Effect Controls and labels A and B deno
 
 ![effects control panel premiere](https://images.wondershare.com/filmora/article-images/2022/07/effects-control-panel-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 You can adjust the slider below A label to change the start time of the transition. Similarly, you can change the slider below B label to change the end time of the transition.
 
 Step5 Instead of setting the start and end time of the transition, you can set the duration of the transition as a whole. Go to Duration option located above A and B labels and drag right and left to change the duration.
@@ -300,11 +308,19 @@ Step3 There are different categories of transition effects and drag and drop you
 
 ![drag and drop desired transition](https://images.wondershare.com/filmora/guide/find-transition.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Place the transitions in between video clips and drag the transition as per the duration requirements. Play the video and once you are satisfied, click on Export button to save the video.
 
 ![click on export button](https://images.wondershare.com/filmora/guide/add-transitions-2.png)
 
 ## Part 4\. Related FAQs about Premiere Transitions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How do I add transitions to all clips in Premiere?
 
@@ -317,13 +333,6 @@ The transitions are present under Effects tab located at the topmost bar. There 
 ### How to add transitions to photos in Premiere Pro?
 
 Adding transitions to photos in Premiere Pro is the same as videos. Therefore, you should import photos to Project panel and drag and drop them to Timeline. Go to Effects> Video Transitions and drop the selected transitions in between the photos.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -356,6 +365,10 @@ Import all the video clips to Timeline in Premiere. Go to Effects> Video Transit
 ### Where are the transitions in Premiere Pro?
 
 The transitions are present under Effects tab located at the topmost bar. There are different types of video transitions as well as audio transitions available. If you are looking for how to add text transitions in Premiere Pro, you can type the text and add effects from Graphics tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to add transitions to photos in Premiere Pro?
 
@@ -397,6 +410,10 @@ People who are not having the time to bring in a professional video editor to wo
 
 ![lumafusion video editor](https://images.wondershare.com/filmora/article-images/2023/02/lumafusion-video-editor-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Download LumaFusion: [Android](https://play.google.com/store/apps/details?id=com.luma%5Ftouch.lumafusion) | [iOS](https://apps.apple.com/app/apple-store/id1062022008)
 
 You can download this proficient video editor for your iPhone and iPad. It can also be enjoyed on Mac devices, which are now available on Android devices. LumaFusion has scaled its support and compatibility of devices over time.
@@ -491,10 +508,7 @@ In the previous versions of LumaFusion, you could not rename the linked folders,
 ![rename linked folder](https://images.wondershare.com/filmora/article-images/2023/02/lumafusion-video-editor-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Localizations for 2 New Versions
@@ -518,6 +532,10 @@ Traditional Chinese and Brazilian Portuguese are now among the added localizatio
 This article has provided a prominent overview of the **LumaFusion review**, a video editor that has made video editing operations easier on smartphones. While it is a great iOS video editor, you can find other prominent functions with extensive layered support, intuitive keyframes, and consolidated connectivity to other platforms. As a better option, this article has offered Wondershare Filmora as a more potent tool with better compatibility and inexpensive features.
 
 ## People Also Want to Know
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to download LumaFusion on Windows?
 
@@ -543,13 +561,6 @@ You can download this proficient video editor for your iPhone and iPad. It can a
 
 If you intend to use **the LumaFusion app** to inject creativity into your videos, you must have to pay a single-time price of $19.99 to get access to the application. Apart from that, there are several in-app purchases that you can look forward to for increasing the hold on different tools and features, as per the requirement.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### System Requirements of LumaFusion iOS
 
 | **iPhone**     | Requires iOS 15.4 or later.                                         |
@@ -559,22 +570,13 @@ If you intend to use **the LumaFusion app** to inject creativity into your video
 | **Mac**        | Requires macOS 12.3 or later and a Mac with Apple M1 chip or later. |
 | **Size**       | 192.9 MB                                                            |
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Key Features of LumaFusion Video Editor
 
 We will now highlight some essential features that can be considered about the **LumaFusion video editor**. These features will give a better understanding of the tool and provide a guideline on how to utilize the best functions with ease:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Interface
 
@@ -599,13 +601,6 @@ The keyframes function on LumaFusion is not challenging to work with on the vide
 With a small price to pay for the video editor, you can gain access to a diversity of keyframes that can help you design the perfect effects for your video.
 
 ![lumafusion keyframe feature](https://images.wondershare.com/filmora/article-images/2023/02/lumafusion-video-editor-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Export to Final Cut Pro
 
@@ -637,13 +632,6 @@ Suppose you are considering using the **LumaFusion video editor** on your iOS de
 
 The latest iteration of the **LumaFusion app** brings new and exciting features to the market. To learn more about these features, you will know better how the video editor is improving its operations:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. 35+ New Transitions
 
 LumaFusion 3.2 comes with a new set of transitions, with almost 35 in number. With different blur transitions, there are some new introductions in the transition section that offers multiple motions.
@@ -661,13 +649,6 @@ If you are confused about how to sustain the storage space on your iOS device, L
 In the previous versions of LumaFusion, you could not rename the linked folders, or the platform incorrectly named them. With this update, you can now easily rename the linked folders by selecting and holding them within the interface.
 
 ![rename linked folder](https://images.wondershare.com/filmora/article-images/2023/02/lumafusion-video-editor-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Localizations for 2 New Versions
 
@@ -688,13 +669,6 @@ Traditional Chinese and Brazilian Portuguese are now among the added localizatio
 ## Conclusion
 
 This article has provided a prominent overview of the **LumaFusion review**, a video editor that has made video editing operations easier on smartphones. While it is a great iOS video editor, you can find other prominent functions with extensive layered support, intuitive keyframes, and consolidated connectivity to other platforms. As a better option, this article has offered Wondershare Filmora as a more potent tool with better compatibility and inexpensive features.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## People Also Want to Know
 
@@ -744,6 +718,10 @@ Below we’ve provided the step-by-step tutorial to add a **motion blur effect**
 Step1 In the first step, launch a browser on your device, head to the [GIMP website](https://www.gimp.org/downloads/), and download the installation file according to your operating system. Now, click the downloaded installer, install the software on your system and launch it.
 
 ![downloading the gimp software to add motion blur to photos](https://images.wondershare.com/filmora/article-images/2023/02/downloading-the-gimp-software-to-add-motion-blur-to-photos.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 In the next step, click **“File”** on the GIMP dashboard, and select **“Open”** to access the Open Image window. Select your image file from your system and click **“Open”** to import the file.
 
@@ -855,24 +833,17 @@ Hopefully, you found this article helpful in resolving your queries, and you can
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-instant-luxury-iphones-extended-shutter-mastery/"><u>[New] In 2024, Instant Luxury IPhone's Extended Shutter Mastery</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-safeguard-your-calls-best-free-and-secure-video-chat-services-for-ios-and-android/"><u>[Updated] Safeguard Your Calls Best Free and Secure Video Chat Services for iOS & Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-interaction-integrating-watch-with-macos/"><u>2024 Approved Innovative Interaction Integrating Watch with MacOS</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-ultimate-editing-software-listings/"><u>2024 Approved Ultimate Editing Software Listings</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-windows-movie-maker-the-spectrum-of-releases/"><u>2024 Approved Windows Movie Maker The Spectrum of Releases</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-rgb-customization-in-win11/"><u>Activating RGB Customization in Win11</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-tools-to-create-blend-image-collage/"><u>Best Tools To Create Blend Image Collage</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-dell-dell-d3100-printer-drivers-step-by-step-guide/"><u>Download & Update DELL Dell D3100 Printer Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gif-naar-bmp-omzetten-gratuite-online-tool-bij-movavi/"><u>GIF Naar BMP Omzetten - Gratuite Online-Tool Bij Movavi</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-put-a-filter-on-a-video-in-imovie/"><u>In 2024, How to Put a Filter on a Video in iMovie</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-wondering-if-you-can-make-diy-green-screen-video-for-streaming-learn-the-easy-steps-to-setup-diy-green-screen-shoot-the-video-and-edit-it-out-to-add/"><u>In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects-for-2024/"><u>New How To Make a Timelapse in After Effects for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211396870-9781528799294-possession-demoniacal-and-other/"><u>Possession - Demoniacal and Other | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/setting-up-smart-tech-auto-gpt-installation-guide/"><u>Setting Up Smart Tech: Auto-GPT Installation Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-start-a-vlog/"><u>Updated How to Start a Vlog</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-convert-your-videos-to-60-fps-using-these-excellent-tools/"><u>Updated In 2024, Convert Your Videos to 60 FPS Using These Excellent Tools</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-something-about-skin-care-vlog-ideas/"><u>Updated Something About Skin Care Vlog Ideas</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-fb-content-ban-know-your-rights-when-videos-get-pulled/"><u>[New] 2024 Approved FB Content Ban Know Your Rights When Videos Get Pulled</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-easy-peasy-screen-transitions-for-filmmakers-for-2024/"><u>[New] Easy-Peasy Screen Transitions for Filmmakers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-youtube-to-studio-quality-free-converters-for-wav-format/"><u>[New] In 2024, From YouTube to Studio Quality Free Converters for WAV Format</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-prime-top-10-free-transcript-harvesters-for-videos/"><u>[Updated] In 2024, Prime Top 10 Free Transcript Harvesters for Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cerebral-challenges-to-conquer-common-languages-quickly/"><u>Cerebral Challenges to Conquer Common Languages Quickly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-workflow-efficiency-utilizing-chatgpt-with-onlyfreeceonline-document-space/"><u>Enhancing Workflow Efficiency: Utilizing ChatGPT with ONLYFREECEONLINE Document Space</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-fantastic-glitch-effects-with-filmora-read-this-guide-to-find-out-how-to-apply-glitch-effects-on-your-videos-and-make-custom-glitch-effects/"><u>How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-export-video-in-filmora-for-2024/"><u>New Easy Steps to Export Video in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-make-a-tattoo-disappear-like-a-magic-for-2024/"><u>New Make A Tattoo Disappear Like A Magic for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ultimate-guide-to-customizing-key-functions-via-keyboard-manager-on-windows-pcs/"><u>Ultimate Guide to Customizing Key Functions via Keyboard Manager on Windows PCs</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora/"><u>Updated How to Correct Lens Distortion With Filmora</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Add Filter to Video Online
-date: 2024-11-29T07:48:05.706Z
-updated: 2024-12-06T02:30:35.710Z
+date: 2024-12-06T19:43:44.026Z
+updated: 2024-12-11T18:23:19.136Z
 tags: 
   - ai
   - animation videos
@@ -67,6 +67,10 @@ Step1Open your web browser and visit “clipchamp.com/en/video-filters-editor”
 
 ![clipchamp video filter](https://images.wondershare.com/filmora/article-images/2022/08/clipchamp-video-filter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2You have to sign up on the next screen so that you can apply the video filters.
 
 Step3Once the video editor opens, click on Create a Video button.
@@ -77,13 +81,13 @@ Step4Drag and drop your video on the video editor and thereafter on Timeline.
 
 ![drag video to timeline clipchamp](https://images.wondershare.com/filmora/article-images/2022/08/drag-video-to-timeline-clipchamp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5Click on Filters option located at the top and you will see a drop-down containing all the filters. Place your mouse pointer on the filters one by one to see how they look on your video instantly.
 
 ![choose video filter clipchamp](https://images.wondershare.com/filmora/article-images/2022/08/choose-video-filter-clipchamp.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step6Finally, click on the selected filter and click on Export button to save the edited video.
 
@@ -110,6 +114,10 @@ Step4Click on the video filters one to one to apply them to the video and see wh
 Step5Once you have applied a filter and you can satisfy with it, click on Export button to save the edited video.
 
 ![export filter video flexclip](https://images.wondershare.com/filmora/article-images/2022/08/export-filter-video-flexclip.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 5\. [Kapwing Filter Video Editor](https://www.kapwing.com/tools/filter-video)
 
@@ -197,6 +205,10 @@ Step 4: From the list of options, you have to choose “Crop” option and drag 
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-3.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: After dragging it, you will see a letter ‘C’ on the clip which means crop. Right click on it and you will see few selections. Select ‘Properties’.
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-4.jpeg)
@@ -261,10 +273,6 @@ Step 2: Click Alt + C in your keyboard. A small pop-out will show, it is for the
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-9.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Drag the corners of the frame to resize the size of your video or adjust position by dragging the handles. You can crop off anything outside this frame and hit “OK”.
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-10.jpeg)
@@ -272,6 +280,10 @@ Step 3: Drag the corners of the frame to resize the size of your video or adjust
 Step 4: Adjust the crop and zoom as you like and finally, click on ‘Save Project As’ to export your video.
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-11.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can download Filmora free video editor from the official website easily. Just visit the behind-the-link and click on 'Download' to get the installer file. Once you have downloaded it, you need to install Filmora software on your computer to start using it.
 
@@ -343,10 +355,6 @@ Step 1: Open Filmora video editor. Go to the ‘Home’ menu and click on ‘Ope
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-8.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Click Alt + C in your keyboard. A small pop-out will show, it is for the command Crop and Zoom.
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-9.jpeg)
@@ -369,10 +377,6 @@ Step 4: From the list of options, you have to choose “Crop” option and drag 
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-3.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: After dragging it, you will see a letter ‘C’ on the clip which means crop. Right click on it and you will see few selections. Select ‘Properties’.
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-4.jpeg)
@@ -392,6 +396,10 @@ Step 8: Once you have cropped your video, then go to the "File" tab in the upper
 In conclusion, follow the steps given above to crop your video, resize it and save your work.
 
 There is a better way to do it which using Filmora. It is an online video editing software that allows its users to create videos for various purposes. It provides the users with some special features like easy trimming, splitting and merging of clips, etc. By using Filmora, you can easily crop your short video (a clip) and also resize it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## An easier way to crop video using Filmora
 
@@ -436,10 +444,6 @@ Step 1: Open Filmora video editor. Go to the ‘Home’ menu and click on ‘Ope
 Step 2: Click Alt + C in your keyboard. A small pop-out will show, it is for the command Crop and Zoom.
 
 ![crop-video-openshot](https://images.wondershare.com/filmora/article-images/2022/02/crop-video-openshot-9.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Drag the corners of the frame to resize the size of your video or adjust position by dragging the handles. You can crop off anything outside this frame and hit “OK”.
 
@@ -545,6 +549,10 @@ If you are a Mac user and you are getting started in video editing, it is better
 
 iMovie is extremely popular among Mac users for video editing because it is completely free and easy to use. In fact, iMovie is also available for iPhone and iPad users. You can start your video editing on your iPhone and transfer the same work to Mac to continue editing on your Mac. But the most important question is if iMovie editor is the best video editor for Mac users. Read our iMovie review and find out a better alternative.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Key Features of iMovie
 
 Even iMovie is completely free to use, it competes with several premium video editors in terms of features. There are only a handful of free video editors available that lets you edit 4K videos, and iMovie is one of them. Similarly, there are only a few premium video editors available that support editing the same video project on different devices like iMovie. Here are all the key features of iMovie that you should know.
@@ -561,10 +569,6 @@ Transitions and Effects – Even though there are limited visual effects, there 
 
 User Interface – iMovie comes with a simple and intuitive user interface that lets everyone edit videos instantly without prior experience. This is exactly why some users never go for premium video editors. The user interface is clean, and all options are readily available. You can upload media files on Media Library, and they are automatically categorized from where you can access them instantly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to Edit Videos with iMovie?
 
 iMovie comes pre-installed on Mac, and hence, there is no need to download and install the application. Coming to how to use iMovie, there are three types of projects you can choose on iMovie. They are Media, Projects, and Theater. Media is where your footages reside, Projects represent the main workspace, and Theater is where your finished projects reside. Here are the steps regarding iMovie edit video.
@@ -576,6 +580,10 @@ Step 1: Open iMovie and click on Projects. You will see two options Movie and Tr
 Step 2: Click on My Movie under Project Media and go to My Media. Import your video clips and audio files under My Media.
 
 ![imovie my movie my media](https://images.wondershare.com/filmora/article-images/imovie-my-movie-my-media.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Drag and drop the video clips and audio clips on the timeline in proper order. You can go for iMovie edit audio and video such as trimming as required.
 
@@ -618,7 +626,7 @@ Step 4: Play the video to see the changes you have made, and click on Export but
 ![filmora export your video](https://images.wondershare.com/filmora/article-images/filmora-export-your-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4\. FAQs about iMovie
@@ -652,10 +660,6 @@ Step 3: If you want to apply transitions, go to Transitions at the top bar and d
 Step 4: Play the video to see the changes you have made, and click on Export button to save the video when you are satisfied.
 
 ![filmora export your video](https://images.wondershare.com/filmora/article-images/filmora-export-your-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. FAQs about iMovie
 
@@ -764,7 +768,7 @@ Step3If you are looking for color grading, go to Color tab from the top. Go to L
 ![add filters to video premiere](https://images.wondershare.com/filmora/article-images/2022/08/add-filters-to-video-premiere.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4Thereafter, you can adjust certain parameters like intensity, saturation, sharpen as per requirements. You can also go for Basic correction which acts like applying a filter to your videos.
@@ -790,10 +794,6 @@ Step3Go Effects located at the top and go to Filters option from the left panel.
 Step4Drag the desired filter into Timeline to apply to your video. You can set the duration of the video filter as per your preference. Play the video and click on Export button to save the edited video.
 
 ![save the edited video](https://images.wondershare.com/filmora/Tutorial/add-customize-filter-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. Free Premiere Filter Presets to Use
 
@@ -847,20 +847,17 @@ If you are using Adobe Premiere Pro to edit your videos, adding filters to your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ye-openers-yearly-infographics-on-yts-surprising-stats-17-for-2024/"><u>[New] Eye-Openers! Yearly Infographics on YT's Surprising Stats ('17) for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-error-8007000e-easy-solutions-for-windows-users-needing-updates-now/"><u>Bypassing Error 8007000E: Easy Solutions for Windows Users Needing Updates Now</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-galaxy-f54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Galaxy F54 5G</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-correct-lens-distortion-with-filmora/"><u>How to Correct Lens Distortion With Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-vintage-film-effect-1950s-for-2024/"><u>How to Make Vintage Film Effect 1950S for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-gt-5-pro-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from GT 5 Pro.</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-harmony-and-hype-perfecting-film-teaser-tunes/"><u>In 2024, Harmony and Hype Perfecting Film Teaser Tunes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-honor-magic-vs-2-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Honor Magic Vs 2 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-eye-zoom-transition-effect-with-filmora-for-2024/"><u>New How to Make Eye Zoom Transition Effect with Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-images-into-video-kapwing-tutorial/"><u>New In 2024, How to Convert Images Into Video - Kapwing Tutorial</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-something-about-skin-care-vlog-ideas/"><u>New Something About Skin Care Vlog Ideas</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-audio-waveform-generator/"><u>Updated In 2024, Best Audio Waveform Generator</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vidverse-app-critique-digest/"><u>VidVerse App Critique Digest</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-correcting-user-portrait-errors-in-digital-dialogue/"><u>[New] Correcting User Portrait Errors in Digital Dialogue</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-step-by-step-seamlessly-upgrading-to-macos-11-big-sur/"><u>[Updated] 2024 Approved Step-by-Step Seamlessly Upgrading to macOS 11 Big Sur</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-masterchefs-visual-guide-filming-kitchen-escapades-for-2024/"><u>[Updated] MasterChef's Visual Guide Filming Kitchen Escapades for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-create-slow-motion-videos-using-final-cut-pro-with-ease/"><u>2024 Approved Create Slow Motion Videos Using Final Cut Pro with Ease</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immerse-in-hd-celestial-wonders-online/"><u>2024 Approved Immerse in HD Celestial Wonders Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-infinix-smart-8-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Infinix Smart 8 Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-creating-testimonial-videos-for-health-and-wellness-business-industry-for-2024/"><u>New Creating Testimonial Videos For Health And Wellness Business Industry for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>New How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-collaboration-using-google-drive-for-microsoft-office-file-management/"><u>Seamless Collaboration: Using Google Drive for Microsoft Office File Management</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-achieving-gopro-slow-motion-with-quality-an-in-depth-overview/"><u>Updated 2024 Approved Achieving GoPro Slow Motion with Quality An In-Depth Overview</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-blender-a-video-editor-for-all-professor/"><u>Updated In 2024, Blender - A Video Editor for All Professor</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-redmi-a2plus-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Redmi A2+?</u></a></li>
 </ul></div>
 

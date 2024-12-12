@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Make A Countdown Video
-date: 2024-12-02T04:04:44.285Z
-updated: 2024-12-05T22:03:11.744Z
+date: 2024-12-04T18:20:49.468Z
+updated: 2024-12-11T19:41:04.804Z
 tags: 
   - ai
   - animation videos
@@ -116,6 +116,10 @@ In an adjustment layer in Premiere Pro, you can add multiple effects to create a
 
 Furthermore, you can also remove the adjustment layer from your timeline easily without modifying the composition settings of your video. If you get a basic understanding of creating and managing the adjustment layer in Premiere Pro, you can efficiently enhance the visual appeal of your videos. To learn more about the **Premiere Pro adjustment layer**, continue reading.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Add an Adjustment Layer in Premiere Pro?
 
 In this section, we will briefly address **how to add an adjustment layer in Premiere Pro** in a simpler manner.
@@ -131,10 +135,6 @@ Step2 You can also go to the bottom of your project's panel and tap on the "New 
 Step3 Once the adjustment layer has been created, you can drag and drop it into the timeline. To change its name, you can right-click on it.
 
 ![add an adjustment layer to timeline](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Three Ways to Use Adjustment Layer in Premiere Pro
 
@@ -168,11 +168,11 @@ Step1 Add the adjustment layer to the timeline and head to the “Effects” lib
 
 ![add the crop effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-8.jpg)
 
-Step2 Now enhance the top and bottom properties to 15%. You can also adjust the headspace of the person accordingly. Also, you can animate the black bars to produce a more cinematic look in your video.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step2 Now enhance the top and bottom properties to 15%. You can also adjust the headspace of the person accordingly. Also, you can animate the black bars to produce a more cinematic look in your video.
 
 ## Part 4: FAQ about Adjustment Layers in Premiere Pro
 
@@ -234,6 +234,10 @@ Step1 After uploading the video clip in Premiere Pro, create a new adjustment la
 
 ![select the film convert nitrate option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Apply this effect to the adjustment layer and choose your camera to match the color profile. Afterward, you can adjust the saturation, exposure filmstock, and curves according to your choice. You can also increase the vibrancy and hue saturation curves for more enhancement. You can also navigate to the basic correction section to modify the contrast value accordingly.
 
 ### 2\. Transition
@@ -245,6 +249,10 @@ Step1 First, drag and drop your video clips into the timeline. Once done, create
 Step2 Now add the keyframe to the position where you want to start and end the transition effect. Afterward, right-click on the first keyframe and select "Temporal Interpolation." From there, choose "Ease Out." Repeat the same process with the last keyframe. Once done, add the “Directional blur” effect to the adjustment layer for a smoother look.
 
 ![select the ease-out option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-premiere-pro-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Mask
 
@@ -300,9 +308,165 @@ Go to **My Media** and Import any video you want to add a glowing edge effect to
 
 ![import video filmora](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+Step 3
+
+Copy the Clip from Track 1 and paste it on Track 2.
+
+Step 4
+
+Go to the **Effects** tab and apply the “**Pixelated Edges**” effect to the clip on Track 1\. Then, hide Track 2 by clicking the “eye” button.
+
+![add effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/effect.png)
+
+Step 5
+
+Double-click on the Clip in Track 1\. Go to **Video → Effects.** Here, change the color to anything you want. This will determine what color your glowing edge effect will be. When you’re done choosing a color, click **OK.**
+
+![glowing edge color](https://images.wondershare.com/filmora/article-images/2023/01/color.png)
+
+Step 6
+
+Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video → Basic.** Scroll down and change the **Blending Mode** to “**Difference**”. Click **OK** and **Export** the clip at a higher rate. Click on the blue Export button at the top center.
+
+![change blending mode](https://images.wondershare.com/filmora/article-images/2023/01/difference.png)
+
+Step 7
+
+Delete the clip on Track 1\. Then, move the clip from Track 2 to Track 1\. Now, Import the clip that you just Exported and drag it to Track 2.
+
+![import clip to filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
+
+Step 8
+
+Go to **Effects** and find the **Blur** effect. Drag the Blur effect to the clip on Track 2.
+
+![add blur effect](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
+
+Step 9
+
+Double-click on the clip in Track 2\. Go to **Video → Effects.** Change the **Zoom Rate** to **1\.** Click **OK.** Now, find the **Glow** effect in the Effects tab and apply it **two times** to the clip on Track 2\. Copy the Track 2 clip and paste it on Track 3.
+
+Step 10
+
+Search for the **Wash** effect in the Effects tab and apply it twice to the Track 2 clip again. Just drag it two times on top of the clip.
+
+Step 11
+
+Double-click on the clip in Track 2 and change its **Blending Mode** to **“Screen”.** Do the same thing for the clip in Track 3.
+
+Step 12
+
+You’re done. The glow effect will now be applied to your video. You have successfully created a glowing edge effect in any dancing video you want. Congratulations!
+
+![](https://images.wondershare.com/filmora/article-images/2023/01/.png)
+
+Summary
+
+**What you've learned:**
+
+* How to add a glowing edge effect on any video you want
+* How to add other effects to clips in Filmora
+* Edit the settings and features of these effects and make them more unique
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+[Download Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and run the program. Once it starts, click on **“New Project”.**
+
+Step 2
+
+Go to **My Media** and Import any video you want to add a glowing edge effect to. Then, drag the video to Track 1 on the Timeline.
+
+![import video filmora](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
+
+Step 3
+
+Copy the Clip from Track 1 and paste it on Track 2.
+
+Step 4
+
+Go to the **Effects** tab and apply the “**Pixelated Edges**” effect to the clip on Track 1\. Then, hide Track 2 by clicking the “eye” button.
+
+![add effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/effect.png)
+
+Step 5
+
+Double-click on the Clip in Track 1\. Go to **Video → Effects.** Here, change the color to anything you want. This will determine what color your glowing edge effect will be. When you’re done choosing a color, click **OK.**
+
+![glowing edge color](https://images.wondershare.com/filmora/article-images/2023/01/color.png)
+
+Step 6
+
+Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video → Basic.** Scroll down and change the **Blending Mode** to “**Difference**”. Click **OK** and **Export** the clip at a higher rate. Click on the blue Export button at the top center.
+
+![change blending mode](https://images.wondershare.com/filmora/article-images/2023/01/difference.png)
+
+Step 7
+
+Delete the clip on Track 1\. Then, move the clip from Track 2 to Track 1\. Now, Import the clip that you just Exported and drag it to Track 2.
+
+![import clip to filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
+
+Step 8
+
+Go to **Effects** and find the **Blur** effect. Drag the Blur effect to the clip on Track 2.
+
+![add blur effect](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
+
+Step 9
+
+Double-click on the clip in Track 2\. Go to **Video → Effects.** Change the **Zoom Rate** to **1\.** Click **OK.** Now, find the **Glow** effect in the Effects tab and apply it **two times** to the clip on Track 2\. Copy the Track 2 clip and paste it on Track 3.
+
+Step 10
+
+Search for the **Wash** effect in the Effects tab and apply it twice to the Track 2 clip again. Just drag it two times on top of the clip.
+
+Step 11
+
+Double-click on the clip in Track 2 and change its **Blending Mode** to **“Screen”.** Do the same thing for the clip in Track 3.
+
+Step 12
+
+You’re done. The glow effect will now be applied to your video. You have successfully created a glowing edge effect in any dancing video you want. Congratulations!
+
+![](https://images.wondershare.com/filmora/article-images/2023/01/.png)
+
+Summary
+
+**What you've learned:**
+
+* How to add a glowing edge effect on any video you want
+* How to add other effects to clips in Filmora
+* Edit the settings and features of these effects and make them more unique
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+[Download Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and run the program. Once it starts, click on **“New Project”.**
+
+Step 2
+
+Go to **My Media** and Import any video you want to add a glowing edge effect to. Then, drag the video to Track 1 on the Timeline.
+
+![import video filmora](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
 
 Step 3
 
@@ -407,168 +571,8 @@ Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video
 ![change blending mode](https://images.wondershare.com/filmora/article-images/2023/01/difference.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-Step 7
-
-Delete the clip on Track 1\. Then, move the clip from Track 2 to Track 1\. Now, Import the clip that you just Exported and drag it to Track 2.
-
-![import clip to filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
-
-Step 8
-
-Go to **Effects** and find the **Blur** effect. Drag the Blur effect to the clip on Track 2.
-
-![add blur effect](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
-
-Step 9
-
-Double-click on the clip in Track 2\. Go to **Video → Effects.** Change the **Zoom Rate** to **1\.** Click **OK.** Now, find the **Glow** effect in the Effects tab and apply it **two times** to the clip on Track 2\. Copy the Track 2 clip and paste it on Track 3.
-
-Step 10
-
-Search for the **Wash** effect in the Effects tab and apply it twice to the Track 2 clip again. Just drag it two times on top of the clip.
-
-Step 11
-
-Double-click on the clip in Track 2 and change its **Blending Mode** to **“Screen”.** Do the same thing for the clip in Track 3.
-
-Step 12
-
-You’re done. The glow effect will now be applied to your video. You have successfully created a glowing edge effect in any dancing video you want. Congratulations!
-
-![](https://images.wondershare.com/filmora/article-images/2023/01/.png)
-
-Summary
-
-**What you've learned:**
-
-* How to add a glowing edge effect on any video you want
-* How to add other effects to clips in Filmora
-* Edit the settings and features of these effects and make them more unique
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-[Download Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and run the program. Once it starts, click on **“New Project”.**
-
-Step 2
-
-Go to **My Media** and Import any video you want to add a glowing edge effect to. Then, drag the video to Track 1 on the Timeline.
-
-![import video filmora](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
-
-Step 3
-
-Copy the Clip from Track 1 and paste it on Track 2.
-
-Step 4
-
-Go to the **Effects** tab and apply the “**Pixelated Edges**” effect to the clip on Track 1\. Then, hide Track 2 by clicking the “eye” button.
-
-![add effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/effect.png)
-
-Step 5
-
-Double-click on the Clip in Track 1\. Go to **Video → Effects.** Here, change the color to anything you want. This will determine what color your glowing edge effect will be. When you’re done choosing a color, click **OK.**
-
-![glowing edge color](https://images.wondershare.com/filmora/article-images/2023/01/color.png)
-
-Step 6
-
-Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video → Basic.** Scroll down and change the **Blending Mode** to “**Difference**”. Click **OK** and **Export** the clip at a higher rate. Click on the blue Export button at the top center.
-
-![change blending mode](https://images.wondershare.com/filmora/article-images/2023/01/difference.png)
-
-Step 7
-
-Delete the clip on Track 1\. Then, move the clip from Track 2 to Track 1\. Now, Import the clip that you just Exported and drag it to Track 2.
-
-![import clip to filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
-
-Step 8
-
-Go to **Effects** and find the **Blur** effect. Drag the Blur effect to the clip on Track 2.
-
-![add blur effect](https://images.wondershare.com/filmora/article-images/2023/01/blur.png)
-
-Step 9
-
-Double-click on the clip in Track 2\. Go to **Video → Effects.** Change the **Zoom Rate** to **1\.** Click **OK.** Now, find the **Glow** effect in the Effects tab and apply it **two times** to the clip on Track 2\. Copy the Track 2 clip and paste it on Track 3.
-
-Step 10
-
-Search for the **Wash** effect in the Effects tab and apply it twice to the Track 2 clip again. Just drag it two times on top of the clip.
-
-Step 11
-
-Double-click on the clip in Track 2 and change its **Blending Mode** to **“Screen”.** Do the same thing for the clip in Track 3.
-
-Step 12
-
-You’re done. The glow effect will now be applied to your video. You have successfully created a glowing edge effect in any dancing video you want. Congratulations!
-
-![](https://images.wondershare.com/filmora/article-images/2023/01/.png)
-
-Summary
-
-**What you've learned:**
-
-* How to add a glowing edge effect on any video you want
-* How to add other effects to clips in Filmora
-* Edit the settings and features of these effects and make them more unique
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-[Download Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and run the program. Once it starts, click on **“New Project”.**
-
-Step 2
-
-Go to **My Media** and Import any video you want to add a glowing edge effect to. Then, drag the video to Track 1 on the Timeline.
-
-![import video filmora](https://images.wondershare.com/filmora/article-images/2023/01/video.png)
-
-Step 3
-
-Copy the Clip from Track 1 and paste it on Track 2.
-
-Step 4
-
-Go to the **Effects** tab and apply the “**Pixelated Edges**” effect to the clip on Track 1\. Then, hide Track 2 by clicking the “eye” button.
-
-![add effect filmora](https://images.wondershare.com/filmora/article-images/2023/01/effect.png)
-
-Step 5
-
-Double-click on the Clip in Track 1\. Go to **Video → Effects.** Here, change the color to anything you want. This will determine what color your glowing edge effect will be. When you’re done choosing a color, click **OK.**
-
-![glowing edge color](https://images.wondershare.com/filmora/article-images/2023/01/color.png)
-
-Step 6
-
-Next, Unhide the Track 2\. Double-click on the clip in Track 2 and go to **Video → Basic.** Scroll down and change the **Blending Mode** to “**Difference**”. Click **OK** and **Export** the clip at a higher rate. Click on the blue Export button at the top center.
-
-![change blending mode](https://images.wondershare.com/filmora/article-images/2023/01/difference.png)
 
 Step 7
 
@@ -628,6 +632,10 @@ It’s is so simple and will not take much of your time.
 
 Let’s dive in…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Rotating videos in google photos**
 
 Rotating a video in google photos is pretty simple and will not take much of your time. You can easily fix the rotation and aspect ratio of your videos. But it’s a little tricky.
@@ -642,9 +650,93 @@ You will see a diamond with a circular arrow on it. You're going to hit that unt
 
 ![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
 
+Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## **An easier way to rotate videos in Google Photos**
+
+If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
+
+But stop worrying, you can set your video at any angle with [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . It is one of the best video editing software that provides you with the editing tools you need to edit and share your videos across the globe. It allows you to flip and rotate the orientation of the video. It also supports many popular formats used on different social media platforms like Linkedin, Instagram, Twitter, YouTube and so many more.
+
+Let’s have look at this professionally designed software that everyone can master in a few minutes and can film professional videos. Since it provides all the features that you will need to make movies in a good way. Moreover, its interface is very simple to use.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Here’s How to do it…
+
+### Rotate video at any angle
+
+You can also rotate the video by using the **Transform** tab located at the top right corner.
+
+* Drag your video into the **timeline**.
+* Double click on the video to bring up the **editing panel**.
+* Hit the **basic** tab under the **video** tab in the menu bar.
+* Select the **Transform**
+* Click the **rotate**
+* Here you can move the rotate slider or directly enter the rotating value.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
+
+You will notice that I have changed the rotation of my video from its original position to the rotated angle.
+
+You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
+
+* Hit the **ok**
+* Select the **save**
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
+
+Similarly, you can drag the video from the preview panel and adjust it as required.
+
+Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
+
+Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
+
+Just go ahead and start…
+
+ Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
+
+### **What’s more you can do with Filmora**
+
+**Changing the Aspect ratio**
+
+After you rotate the video at an angle you like. You can change the aspect ratio of the video furthermore.
+
+* **Import** the desired video and drag it into the **timeline**. Then click the Aspect Ratio icon at the bottom of the preview window.
+* You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
+* Press **OK**
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
+
+By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
+
+## **Conclusion**
+
+Here’s how you can rotate your video using two different softwares. Now you can shoot your videos without setting the proper video orientation. Sometimes, while shooting a video, the real scene unfolds in making a lot settings. I hope, after reading this content, you will be confident enough to start shooting videos and then editing them without having trouble of learning the software.
+
+Let’s dive in!
+
+Go ahead…
+
+A good destiny is waiting for you.
+
+You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
 
 Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
 
@@ -701,292 +793,200 @@ Now you can see that the image has flipped without making a big effort you can a
 Just go ahead and start…
 
  Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
+
+### **What’s more you can do with Filmora**
+
+**Changing the Aspect ratio**
+
+After you rotate the video at an angle you like. You can change the aspect ratio of the video furthermore.
+
+* **Import** the desired video and drag it into the **timeline**. Then click the Aspect Ratio icon at the bottom of the preview window.
+* You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
+* Press **OK**
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
+
+By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
+
+## **Conclusion**
+
+Here’s how you can rotate your video using two different softwares. Now you can shoot your videos without setting the proper video orientation. Sometimes, while shooting a video, the real scene unfolds in making a lot settings. I hope, after reading this content, you will be confident enough to start shooting videos and then editing them without having trouble of learning the software.
+
+Let’s dive in!
+
+Go ahead…
+
+A good destiny is waiting for you.
+
+You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
+
+Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
+
+## **An easier way to rotate videos in Google Photos**
+
+If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
+
+But stop worrying, you can set your video at any angle with [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . It is one of the best video editing software that provides you with the editing tools you need to edit and share your videos across the globe. It allows you to flip and rotate the orientation of the video. It also supports many popular formats used on different social media platforms like Linkedin, Instagram, Twitter, YouTube and so many more.
+
+Let’s have look at this professionally designed software that everyone can master in a few minutes and can film professional videos. Since it provides all the features that you will need to make movies in a good way. Moreover, its interface is very simple to use.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Here’s How to do it…
+
+### Rotate video at any angle
+
+You can also rotate the video by using the **Transform** tab located at the top right corner.
+
+* Drag your video into the **timeline**.
+* Double click on the video to bring up the **editing panel**.
+* Hit the **basic** tab under the **video** tab in the menu bar.
+* Select the **Transform**
+* Click the **rotate**
+* Here you can move the rotate slider or directly enter the rotating value.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
+
+You will notice that I have changed the rotation of my video from its original position to the rotated angle.
+
+You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
+
+* Hit the **ok**
+* Select the **save**
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
+
+Similarly, you can drag the video from the preview panel and adjust it as required.
+
+Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
+
+Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
+
+Just go ahead and start…
+
+ Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
+
+### **What’s more you can do with Filmora**
+
+**Changing the Aspect ratio**
+
+After you rotate the video at an angle you like. You can change the aspect ratio of the video furthermore.
+
+* **Import** the desired video and drag it into the **timeline**. Then click the Aspect Ratio icon at the bottom of the preview window.
+* You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
+* Press **OK**
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
+
+By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
+
+## **Conclusion**
+
+Here’s how you can rotate your video using two different softwares. Now you can shoot your videos without setting the proper video orientation. Sometimes, while shooting a video, the real scene unfolds in making a lot settings. I hope, after reading this content, you will be confident enough to start shooting videos and then editing them without having trouble of learning the software.
+
+Let’s dive in!
+
+Go ahead…
+
+A good destiny is waiting for you.
+
+You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
+
+Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## **An easier way to rotate videos in Google Photos**
+
+If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
+
+But stop worrying, you can set your video at any angle with [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . It is one of the best video editing software that provides you with the editing tools you need to edit and share your videos across the globe. It allows you to flip and rotate the orientation of the video. It also supports many popular formats used on different social media platforms like Linkedin, Instagram, Twitter, YouTube and so many more.
+
+Let’s have look at this professionally designed software that everyone can master in a few minutes and can film professional videos. Since it provides all the features that you will need to make movies in a good way. Moreover, its interface is very simple to use.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.14 or later
+
+Here’s How to do it…
+
+### Rotate video at any angle
+
+You can also rotate the video by using the **Transform** tab located at the top right corner.
+
+* Drag your video into the **timeline**.
+* Double click on the video to bring up the **editing panel**.
+* Hit the **basic** tab under the **video** tab in the menu bar.
+* Select the **Transform**
+* Click the **rotate**
+* Here you can move the rotate slider or directly enter the rotating value.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+You will notice that I have changed the rotation of my video from its original position to the rotated angle.
+
+You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
+
+* Hit the **ok**
+* Select the **save**
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
+
+Similarly, you can drag the video from the preview panel and adjust it as required.
+
+Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
+
+Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
+
+Just go ahead and start…
+
+ Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
+
+### **What’s more you can do with Filmora**
+
+**Changing the Aspect ratio**
+
+After you rotate the video at an angle you like. You can change the aspect ratio of the video furthermore.
+
+* **Import** the desired video and drag it into the **timeline**. Then click the Aspect Ratio icon at the bottom of the preview window.
+* You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
+* Press **OK**
+
+![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
+
+By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-### **What’s more you can do with Filmora**
-
-**Changing the Aspect ratio**
-
-After you rotate the video at an angle you like. You can change the aspect ratio of the video furthermore.
-
-* **Import** the desired video and drag it into the **timeline**. Then click the Aspect Ratio icon at the bottom of the preview window.
-* You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
-* Press **OK**
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
-
-By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
-
-## **Conclusion**
-
-Here’s how you can rotate your video using two different softwares. Now you can shoot your videos without setting the proper video orientation. Sometimes, while shooting a video, the real scene unfolds in making a lot settings. I hope, after reading this content, you will be confident enough to start shooting videos and then editing them without having trouble of learning the software.
-
-Let’s dive in!
-
-Go ahead…
-
-A good destiny is waiting for you.
-
-You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
-
-Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
-
-## **An easier way to rotate videos in Google Photos**
-
-If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
-
-But stop worrying, you can set your video at any angle with [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . It is one of the best video editing software that provides you with the editing tools you need to edit and share your videos across the globe. It allows you to flip and rotate the orientation of the video. It also supports many popular formats used on different social media platforms like Linkedin, Instagram, Twitter, YouTube and so many more.
-
-Let’s have look at this professionally designed software that everyone can master in a few minutes and can film professional videos. Since it provides all the features that you will need to make movies in a good way. Moreover, its interface is very simple to use.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-Here’s How to do it…
-
-### Rotate video at any angle
-
-You can also rotate the video by using the **Transform** tab located at the top right corner.
-
-* Drag your video into the **timeline**.
-* Double click on the video to bring up the **editing panel**.
-* Hit the **basic** tab under the **video** tab in the menu bar.
-* Select the **Transform**
-* Click the **rotate**
-* Here you can move the rotate slider or directly enter the rotating value.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
-
-You will notice that I have changed the rotation of my video from its original position to the rotated angle.
-
-You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
-
-* Hit the **ok**
-* Select the **save**
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
-
-Similarly, you can drag the video from the preview panel and adjust it as required.
-
-Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
-
-Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
-
-Just go ahead and start…
-
- Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
-
-### **What’s more you can do with Filmora**
-
-**Changing the Aspect ratio**
-
-After you rotate the video at an angle you like. You can change the aspect ratio of the video furthermore.
-
-* **Import** the desired video and drag it into the **timeline**. Then click the Aspect Ratio icon at the bottom of the preview window.
-* You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
-* Press **OK**
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
-
-## **Conclusion**
-
-Here’s how you can rotate your video using two different softwares. Now you can shoot your videos without setting the proper video orientation. Sometimes, while shooting a video, the real scene unfolds in making a lot settings. I hope, after reading this content, you will be confident enough to start shooting videos and then editing them without having trouble of learning the software.
-
-Let’s dive in!
-
-Go ahead…
-
-A good destiny is waiting for you.
-
-You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
-
-Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
-
-## **An easier way to rotate videos in Google Photos**
-
-If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
-
-But stop worrying, you can set your video at any angle with [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . It is one of the best video editing software that provides you with the editing tools you need to edit and share your videos across the globe. It allows you to flip and rotate the orientation of the video. It also supports many popular formats used on different social media platforms like Linkedin, Instagram, Twitter, YouTube and so many more.
-
-Let’s have look at this professionally designed software that everyone can master in a few minutes and can film professional videos. Since it provides all the features that you will need to make movies in a good way. Moreover, its interface is very simple to use.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-Here’s How to do it…
-
-### Rotate video at any angle
-
-You can also rotate the video by using the **Transform** tab located at the top right corner.
-
-* Drag your video into the **timeline**.
-* Double click on the video to bring up the **editing panel**.
-* Hit the **basic** tab under the **video** tab in the menu bar.
-* Select the **Transform**
-* Click the **rotate**
-* Here you can move the rotate slider or directly enter the rotating value.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
-
-You will notice that I have changed the rotation of my video from its original position to the rotated angle.
-
-You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
-
-* Hit the **ok**
-* Select the **save**
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
-
-Similarly, you can drag the video from the preview panel and adjust it as required.
-
-Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
-
-Just go ahead and start…
-
- Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
-
-### **What’s more you can do with Filmora**
-
-**Changing the Aspect ratio**
-
-After you rotate the video at an angle you like. You can change the aspect ratio of the video furthermore.
-
-* **Import** the desired video and drag it into the **timeline**. Then click the Aspect Ratio icon at the bottom of the preview window.
-* You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
-* Press **OK**
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
-
-By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
-
-## **Conclusion**
-
-Here’s how you can rotate your video using two different softwares. Now you can shoot your videos without setting the proper video orientation. Sometimes, while shooting a video, the real scene unfolds in making a lot settings. I hope, after reading this content, you will be confident enough to start shooting videos and then editing them without having trouble of learning the software.
-
-Let’s dive in!
-
-Go ahead…
-
-A good destiny is waiting for you.
-
-You will see a diamond with a circular arrow on it. You're going to hit that until you find the way you want it to be.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-2.png)
-
-Once you're happy, in the top right hand corner, hit Save Copy and that's it, the size of the file determines how long it takes to finish this process later.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-3.png)
-
-## **An easier way to rotate videos in Google Photos**
-
-If you just need to rotate a video in portrait mode to the landscape mode or 180 degrees, Google photos will be the best choice to do that. However, what if rotate a video 32 degrees or 157 degrees, or maybe you need to do more editing operations, you can’t rely on Google Photos anymore.
-
-But stop worrying, you can set your video at any angle with [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) . It is one of the best video editing software that provides you with the editing tools you need to edit and share your videos across the globe. It allows you to flip and rotate the orientation of the video. It also supports many popular formats used on different social media platforms like Linkedin, Instagram, Twitter, YouTube and so many more.
-
-Let’s have look at this professionally designed software that everyone can master in a few minutes and can film professional videos. Since it provides all the features that you will need to make movies in a good way. Moreover, its interface is very simple to use.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.14 or later
-
-Here’s How to do it…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Rotate video at any angle
-
-You can also rotate the video by using the **Transform** tab located at the top right corner.
-
-* Drag your video into the **timeline**.
-* Double click on the video to bring up the **editing panel**.
-* Hit the **basic** tab under the **video** tab in the menu bar.
-* Select the **Transform**
-* Click the **rotate**
-* Here you can move the rotate slider or directly enter the rotating value.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-You will notice that I have changed the rotation of my video from its original position to the rotated angle.
-
-You can rotate upside down, rotate left, rotate right or 90 degrees clockwise, 180 degrees, 270 degrees, 360 degrees rotate, and back to the original. Check the video result in the preview window. Once you get satisfied with the rotation.
-
-* Hit the **ok**
-* Select the **save**
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-5.png)
-
-Similarly, you can drag the video from the preview panel and adjust it as required.
-
-Here, you can **Flip** function your video to change the direction. Like in this screenshot, suppose you want to change the place from right to left. You can easily change the direction by hitting on the flip tab.
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-6.png)
-
-Now you can see that the image has flipped without making a big effort you can also do it. I have done it for you, you are smarter.
-
-Just go ahead and start…
-
- Scale is also used to remove the unwanted and rubbish scenes from the selected video. Like if you don’t want to show something behind the scene, you can use the scale function to cut that scene from your video.
-
-### **What’s more you can do with Filmora**
-
-**Changing the Aspect ratio**
-
-After you rotate the video at an angle you like. You can change the aspect ratio of the video furthermore.
-
-* **Import** the desired video and drag it into the **timeline**. Then click the Aspect Ratio icon at the bottom of the preview window.
-* You can select the 16:9, 1:1, 4:3, or custom aspect ratio.
-* Press **OK**
-
-![rotate-video-google-photos](https://images.wondershare.com/filmora/article-images/2022/04/rotate-video-google-photos-7.png)
-
-By the way, you can choose the suitable aspect ratio according to the social media platform you are using. Like, a 1:1 aspect ratio for Instagram, a 9:16 aspect ratio for portrait videos, and a 4:3 standard video.
 
 ## **Conclusion**
 
@@ -1014,17 +1014,17 @@ A good destiny is waiting for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-elevate-your-youtube-videos-without-spending-a-penny-the-best-tools/"><u>[New] 2024 Approved Elevate Your YouTube Videos Without Spending a Penny - The Best Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-guide-to-mounting-a-tripod-for-vloggers/"><u>[New] In 2024, Essential Guide to Mounting a Tripod for Vloggers</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-bang-for-your-buck-top-filmmaking-software-for-low-budgets-for-2024/"><u>Best Bang for Your Buck Top Filmmaking Software for Low Budgets for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-safe-are-alternative-chatgpt-add-ons-compared-to-the-official-version/"><u>How Safe Are Alternative ChatGPT Add-Ons Compared to The Official Version?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-after-effe/"><u>In 2024, Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954212516-new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video-for-2024/"><u>New Ultimate Guide on How To Plan and Storyboard a Music Video for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-sound-solutions-for-a-non-responsive-voice-mic/"><u>Reviving Sound: Solutions for a Non-Responsive Voice Mic</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/spotlight-on-the-5-most-advanced-game-streaming-webcams/"><u>Spotlight On The 5 Most Advanced Game Streaming Webcams</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-14-pro-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 14 Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-virtual-green-screen-to-shoot-video-for-2024/"><u>Updated How To Use Virtual Green Screen to Shoot Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-clone-yourself-in-videos-with-filmora/"><u>Updated In 2024, Clone Yourself in Videos with Filmora</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-discover-11-secrets-of-windows-11-for-2024/"><u>[New] Discover 11 Secrets of Windows 11 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-download-youtube-tunes-with-these-10plus-no-cost-audio-crackers-for-2024/"><u>[New] Download YouTube Tunes with These 10+ No-Cost Audio Crackers for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-2023-play-facebook-videos-on-tv/"><u>[Updated] 2024 Approved 2023 | Play Facebook Videos on TV?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mxf-mkv-movavi/"><u>「オンラインで免責提供: MXF MKVファイルを簡単に変換する - Movavi」</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-put-a-filter-on-a-video-in-imovie/"><u>In 2024, How to Put a Filter on a Video in iMovie</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-pip-functions-on-apple-devices/"><u>In 2024, Mastering PIP Functions on Apple Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-social-media-roadmap-for-business-growth/"><u>In 2024, The Social Media Roadmap for Business Growth</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f14-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F14 5GFRP Lock</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects-for-2024/"><u>New How To Make a Timelapse in After Effects for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/speedy-windowed-image-viewer/"><u>Speedy Windowed Image Viewer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-convert-your-videos-to-60-fps-using-these-excellent-tools/"><u>Updated In 2024, Convert Your Videos to 60 FPS Using These Excellent Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-something-about-skin-care-vlog-ideas/"><u>Updated Something About Skin Care Vlog Ideas</u></a></li>
 </ul></div>
 

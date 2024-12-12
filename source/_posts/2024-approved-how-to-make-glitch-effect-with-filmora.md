@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Make Glitch Effect with Filmora
-date: 2024-09-26T06:48:09.415Z
-updated: 2024-10-02T19:53:50.768Z
+date: 2024-12-10T07:58:20.483Z
+updated: 2024-12-12T00:23:41.815Z
 tags: 
   - ai
   - animation videos
@@ -67,13 +67,6 @@ Step3 Double-click on the top clip.
 
 ![double-click on the top clip](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Go to Color and open the White Balance option to make this layer completely red. Next, drag both Temperature and Tint sliders to a hundred.
 
 ![open the white balance option](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_8.jpg)
@@ -132,6 +125,10 @@ Step1 Click on the Effects tab.
 
 Step2 Search for VCR Distortion, then drag and drop this effect over your previous layer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Tips to Create Awesome Glitch Effects
 
 1. One of the best ways to use the VCR Distortion effect is to cut it short and intersperse it around your video in random parts.
@@ -153,13 +150,6 @@ Step1 Once you have your clip on the timeline, select your clip and click on Edi
 Step2 Put the new copies on the layer above the others and make sure everything is lined up exactly. To create the glitch effect, separate the color channels on your Clips into the primary colors red, green, and blue.
 
 ![put the new copies on the layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Double-click on the top clip.
 
@@ -288,13 +278,6 @@ Placing key elements directly in the center of your scene can seem static and bo
 
 Studies have shown that this is the humans natural way of viewing imagery, we first find something interesting to look at and then journey around that. So by using this rule you are creating a more natural process for your viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tips when starting using the rule of thirds
 
 The first tip I would say is to view other videos, YouTube is a good starting point. Watch interviews and notice where the chairs are aligned. Watch reviewers and notice where they position themselves in the scene. Lastly watch movies and pause on an interesting scene and try to deconstruct where everything is placed and why they chose that composition.
@@ -389,9 +372,17 @@ Step2Once the video is open in Filmora, you will need to drag it to the timeline
 
 ![start to edit video](https://images.wondershare.com/filmora/article-images/2022/08/adding-text-to-video-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3Click on the “Titles” tab at the top to open the text and title presets that you will need to add text to the document. Filmora offers more than 200 text effects to choose from. Just double-click on one of the presents to select it and then the preview window to see it in real-time.
 
 ![click on titles](https://images.wondershare.com/filmora/article-images/2022/08/adding-text-to-video-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4If you like the preset that you have selected, place the cursor on the position in the timeline where you would like to add the text and then drag and drop the title track above the video in the timeline.
 
@@ -473,6 +464,10 @@ Professional video creators earn billions from YouTube, Tick Tock, and such plat
 
 We have introduced how to create a simple custom subscribe button animation for beginners. We are here to give a more advanced and fully animated graphic that will provide your video with a professional look. Let's start with knowing what a Subscription channel graphic is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is a Subscribe Channel Graphic?
 
 We here give a simple explanation for those new to a subscribe channel graphic. Have you ever watched videos on a platform like YouTube? If yes, you must have noticed some unique pictures encouraging viewers to subscribe to the channel. That is exactly what a subscribe channel graphic is. It looks like as below.
@@ -500,10 +495,7 @@ When you launch the Filmora, click on "New Project."
 ![new project of wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step2 Make the structure of your graphics
@@ -537,19 +529,6 @@ After adding all three color layers, it's time to crop these layers to make the 
 * You can also enable the safe zones from the display settings on the right side of the panel. After that, crop the white layer first, then show the red layer and crop it too. It will look like this.
 
 ![enabling the safe zones](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-7.png)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 That's it, folks. Our color backgrounds are here. Now we have to add our channel photo to this. So let's move on to see how to do it.
 
@@ -629,6 +608,10 @@ First, we'll make it so that all these graphics come in from below the view.
 
 ![the speed of the text adjusted](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-22.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you've managed so far, then that's great. We have done most of the work. Now we need to animate the graphics of the mouse cursor so that it clicks on the bell icon, thumb icon, and our subscribe button. The process is somewhat similar because we will need to add different keyframes. But still, let's see it in detail.
 
 ##### Step4 Animate the mouse cursor
@@ -675,6 +658,10 @@ The process of animating out your graphics is like how we animated in our video.
 Finally, our graphic is completed. "Export" it from the software to your computer.
 
 ![completed subscribe channel graphics](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-30.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Whenever you want to use this graphic on your video, you have to import it first and enable the "Green Screen" option. It will remove the green background color. Then you can upload your video and place this graphic on it to add to the video. And that's all.
 
@@ -752,6 +739,10 @@ It's done. Let's add our channel text now.
 
 ![editing the channel text](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now, let's add another title for the subscribe button. You have to place it on the red layer.
 
 ![subscribe button text added](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-13.png)
@@ -768,13 +759,6 @@ We can't finish our structure without icons, can we? So let's move on to them.
 
 ![adding a freezeframe of the bell icon](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * You can also extend the freeze frame and remove the other parts. Then reduce its size and place it beside the "Subscribe" text.
 
 ![adjust the bell icon](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-16.png)
@@ -782,13 +766,6 @@ We can't finish our structure without icons, can we? So let's move on to them.
 * Similarly, add "Thumbs Up" and "Mouse Cursor" icons on the panel.
 
 ![thumbs up and mouse cursor icons added](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Finally, our structure is finished. Now let's start animating.
 
@@ -807,6 +784,10 @@ First, we'll make it so that all these graphics come in from below the view.
 * As you can see, the text appears before the color layers. Let's correct it. Double-click the text layer. Select the" Type Writer' form and hit the "Advanced option.
 
 ![selecting type writer style for text](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Here, you can adjust the text with the color layers.
 
@@ -846,13 +827,6 @@ The process of animating out your graphics is like how we animated in our video.
 
 ![removed the white color layer from the frame](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-26.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Repeat the same steps for the red color layer, channel image layer, and icons layer.
 * After it's done, the whole graphics will look like this.
 
@@ -861,6 +835,10 @@ The process of animating out your graphics is like how we animated in our video.
 * The only thing that remains is to fix the text layers. For this, double-click on the channel text layer and go to the "Advanced" settings, just like before.
 
 ![click on the advanced option](https://images.wondershare.com/filmora/article-images/2022/12/how-to-create-your-own-subscribe-channel-graphics-28.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * From here, fix the text speed and end with your other graphic elements. After it's done, we will do the same for the "Subscribe" button text.
 
@@ -892,17 +870,20 @@ Creating the Subscribe channel graphics is like picking stars from the sky for a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pro-tips-configuring-stopwatches-in-obs-studio/"><u>[Updated] 2024 Approved Pro Tips Configuring Stopwatches in OBS Studio</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to-create-/"><u>2024 Approved Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-have-the-habit-to-create-subtitle-for-your-video-you-can-always-add-open-and-close-subtitles-to-your-video-to-make-it-perfect-follow-this-article-to-/"><u>Do You Have the Habit to Create Subtitle for Your Video? You Can Always Add Open and Close Subtitles to Your Video to Make It Perfect. Follow This Article to Learn More About It</u></a></li>
-<li><a href="https://games-able.techidaily.com/epic-summer-game-sales-ps-edition/"><u>Epic Summer Game Sales: PS Edition</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-2-methods-to-cut-video-in-vlc-on-windows/"><u>In 2024, 2 Methods to Cut Video in VLC on Windows</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/insiders-manual-reacting-on-twitter-videos-for-2024/"><u>Insider’s Manual Reacting on Twitter Videos for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mic-diagnostics-made-easy-the-fastest-way-to-ensure-crystal-clear-audio/"><u>Mic Diagnostics Made Easy: The Fastest Way to Ensure Crystal Clear Audio</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-steps-saving-conversations-with-chatgpt/"><u>Troubleshooting Steps: Saving Conversations with ChatGPT</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-6-websites-to-free-download-motivational-video-footage/"><u>Updated In 2024, 6 Websites to Free Download Motivational Video Footage</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-from-playtime-to-profits-ryan-kajis-youtube-cash-crusade/"><u>[New] In 2024, From Playtime to Profits Ryan Kaji's YouTube Cash Crusade</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-decoding-off-facebook-activities-review-and-security-implications/"><u>[Updated] 2024 Approved Decoding Off-Facebook Activities Review and Security Implications</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-much-wealth-can-you-generate-on-youtube-using-cpm/"><u>[Updated] How Much Wealth Can You Generate on YouTube Using CPM?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unlocking-window-11s-best-kept-secrets-for-maximum-productivity/"><u>[Updated] Unlocking WINDOW 11'S Best-Kept Secrets for Maximum Productivity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-guide-to-finding-exceptional-pexels-visuals/"><u>2024 Approved Quick Guide to Finding Exceptional Pexels Visuals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-ultimate-guide-to-android-photo-fixes/"><u>2024 Approved Ultimate Guide to Android Photo Fixes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-the-role-and-impact-of-b-roll-in-editing/"><u>2024 Approved Understanding the Role and Impact of B Roll in Editing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a15-5g-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy A15 5G support AVCHD video?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/linking-your-favorite-tiktoks-seamlessly-to-facebook/"><u>Linking Your Favorite TikToks Seamlessly to Facebook</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-overlay-videos-in-premiere-pro/"><u>Updated 2024 Approved Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
 </ul></div>
 

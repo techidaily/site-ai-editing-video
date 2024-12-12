@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Loop a Video in Canva Editor
-date: 2024-11-04T23:21:34.265Z
-updated: 2024-11-06T20:01:57.427Z
+date: 2024-12-06T10:41:02.686Z
+updated: 2024-12-12T10:35:35.667Z
 tags: 
   - ai
   - animation videos
@@ -31,11 +31,19 @@ Log in to Canva and click on “Create a design”. Import your video into Canva
 
 ![create a design in canva](https://images.wondershare.com/filmora/article-images/create-a-design-in-canva.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Choose the “Present” option by clicking on Share:**
 
 Click on the drop-down arrow next to the title bar and select “Present” from the list of available options. Then you can select the feature of Present that how your video will appear in front of you or your audience.
 
 ![select present in canva](https://images.wondershare.com/filmora/article-images/select-present-in-canva.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Loop your video by choosing the feature “Start auto play”:**
 
@@ -126,6 +134,10 @@ Download the Filmora software from any browser. After installation opens the sof
 
 ![create a project in filmora](https://images.wondershare.com/filmora/article-images/create-a-project-in-filmora.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Select the video and make copies of it:**
 
 Move the play head to the end of your clip and press right-click to copy the video then use CTRL + V to paste the clip and continue pasting as many copies as you want to create.
@@ -184,6 +196,11 @@ Looping video generates interest and emotion in the minds of viewers and it is a
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Make Glitch Effect with Filmora
 
@@ -257,6 +274,10 @@ Step7 Double-click the clip in the top layer, click the Video Tab, and open the 
 
 ![click the video tab](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now click on the clip in your preview window and move the image over by pressing the left Arrow key on your keyboard a few times. Once you're happy with the top clip, hide that layer by clicking the eye icon.
 
 ![click on the clip in your preview window](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_12.jpg)
@@ -323,13 +344,6 @@ Step3 Double-click on the top clip.
 
 ![double-click on the top clip](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Go to Color and open the White Balance option to make this layer completely red. Next, drag both Temperature and Tint sliders to a hundred.
 
 ![open the white balance option](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_8.jpg)
@@ -348,16 +362,13 @@ Step7 Double-click the clip in the top layer, click the Video Tab, and open the 
 
 ![click the video tab](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now click on the clip in your preview window and move the image over by pressing the left Arrow key on your keyboard a few times. Once you're happy with the top clip, hide that layer by clicking the eye icon.
 
 ![click on the clip in your preview window](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step8 To make the middle layer visible, double-click the clip in your mid layer and set the Blending Mode of this layer to Screen.
 
@@ -401,6 +412,10 @@ Step2 Search for VCR Distortion, then drag and drop this effect over your previo
 2. The glitch Distortion effect is very intense, so we recommend cutting this effect very short and dropping it at random parts of your video.
 3. You can also use these effects as a sneaky way to hide Cuts in your video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Summary
 
 You can use glitch effects created or inspired by faulty video equipment as a powerful storytelling tool. These effects can help you change the tone of the entire video by adding a specific visual aesthetic and making the narrative simpler to convey and more approachable for the audience.
@@ -416,6 +431,10 @@ We recommend using Filmora 11 for adding built-in glitch effects. You can also u
 ## How to Correct Lens Distortion With Filmora
 
 The distortion in your video may irritate you when you're working on the video's edit. When you take images or record sound, you frequently end up with distorted results due to lens distortion. In this article, we will discuss what lens distortion is, how it may be fixed, and the factors you need to pay attention to avoid lens distortion when taking or recording videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Basic introduction to lens distortion
 
@@ -619,13 +638,6 @@ However, basic PPT to video file conversion is only available in the free editio
 
 There is no possibility to convert many files at once.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5.Camtasia Studio
 
 ![camtasia-studio-poster](https://images.wondershare.com/filmora/article-images/camtasia-studio-poster.jpg)
@@ -704,19 +716,6 @@ Requirements for a complicated system.
 
 ![ispring-river-poster.png](https://images.wondershare.com/filmora/article-images/ispring-river-poster.png)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Price: $97 for a single lifetime license**
 
 Installing iSpring River on your PC turns it into a PowerPoint add-on that you can use from the ribbon. This isn't a limitation since iSpring River allows you to convert PPT files to widely suitable video file formats like MP4 or AVI, even though it's not stand-alone computer software. In addition, you may choose the video size and compression parameters before each file conversion using the add-video on's settings.
@@ -739,6 +738,10 @@ There isn't any support for high-definition video.
 
 ![rz-powerpoint-poster](https://images.wondershare.com/filmora/article-images/rz-powerpoint-poster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Price:** _There is a free version available, and prices begin at $29.99._
 
 Using this sophisticated converter, any PPT files made with 2013 or previous versions of PowerPoint may be quickly converted to movies. RZ PowerPoint video to ppt converter also allows you to create HD video files that can be readily shared online, as well as files that can be burnt to DVDs.
@@ -756,13 +759,6 @@ All PowerPoint file types are supported.
 However, basic PPT to video file conversion is only available in the free edition of the product.
 
 There is no possibility to convert many files at once.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5.Camtasia Studio
 
@@ -815,13 +811,6 @@ It is possible to convert many files at once.
 There aren't any HD output choices available.
 
 To be able to convert presentations, you must have PowerPoint installed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.Leawo Video to PPT Pro
 
@@ -941,6 +930,10 @@ There aren't any HD output choices available.
 
 To be able to convert presentations, you must have PowerPoint installed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.Leawo Video to PPT Pro
 
 ![leawo-poster](https://images.wondershare.com/filmora/article-images/leawo-poster.jpg)
@@ -985,13 +978,6 @@ Cannot be used as a standalone application.
 
 There isn't any support for high-definition video.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4.RZ PowerPoint Converter
 
 ![rz-powerpoint-poster](https://images.wondershare.com/filmora/article-images/rz-powerpoint-poster.jpg)
@@ -1035,13 +1021,6 @@ Advanced video editing tools are available.
 Only 30 days are included in the free trial.
 
 Expensive.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -1073,21 +1052,16 @@ For macOS 10.12 or later
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-unlocking-the-potential-of-instagrams-sound-symbols-for-2024/"><u>[New] Unlocking the Potential of Instagram's Sound Symbols for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-learn-the-best-monitors-for-xbox-series-x-here-for-2024/"><u>[Updated] Learn The Best Monitors for Xbox Series X Here for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1-comprehensive-tutorial-converting-ogg-files-to-mp3-format-with-vlc-media-player/"><u>1. Comprehensive Tutorial: Converting OGG Files to MP3 Format with VLC Media Player</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-a-green-screen-video-in-after-effects/"><u>2024 Approved How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-canva-collages/"><u>2024 Approved How to Make Canva Collages</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-speed-ramping-to-create-a-footage/"><u>2024 Approved How to Use Speed Ramping to Create a Footage</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-magic-6-lite-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor Magic 6 Lite Phones? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y27-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y27 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-fe-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23 FE Bootloader Easily</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects/"><u>New How To Make a Timelapse in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-crop-a-video-with-cyberlink-powerdirector/"><u>New Step by Step to Crop a Video with CyberLink PowerDirector</u></a></li>
-<li><a href="https://facebook.techidaily.com/steering-away-from-sensational-selfies-sharing-at-meta/"><u>Steering Away From Sensational Selfies Sharing at Meta</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-top-5-cutting-edge-features-of-iphone-16-pro-that-technology-buffs-cant-resist/"><u>Unveiling the Top 5 Cutting-Edge Features of iPhone 16 Pro That Technology Buffs Can't Resist</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-find-out-what-ray-tracing-is-in-after-effects-how-it-works-and-learn-about-ray-traced-3d-settings-with-simple-instructions/"><u>Updated Find Out What Ray Tracing Is in After Effects, How It Works, and Learn About Ray-Traced 3D Settings with Simple Instructions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>Updated HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tidy-up-your-pictures-top-10-online-unblur-tools/"><u>[New] Tidy Up Your Pictures Top 10 Online Unblur Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-revenue-demystified/"><u>2024 Approved YouTube Revenue Demystified</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-to-supercharge-your-enterprise-eight-essential-uses/"><u>ChatGPT to Supercharge Your Enterprise: Eight Essential Uses</u></a></li>
+<li><a href="https://article-posts.techidaily.com/from-concept-to-reality-the-vr-story/"><u>From Concept to Reality The VR Story</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-put-a-filter-on-a-video-in-imovie/"><u>In 2024, How to Put a Filter on a Video in iMovie</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-wondering-if-you-can-make-diy-green-screen-video-for-streaming-learn-the-easy-steps-to-setup-diy-green-screen-shoot-the-video-and-edit-it-out-to-add/"><u>In 2024, Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooted-stable-connection-for-asus-webcam-on-win11/"><u>Troubleshooted Stable Connection for ASUS Webcam on Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-closed-registration-period-causes-and-expected-comeback-timeline/"><u>Understanding ChatGPT's Closed Registration Period – Causes & Expected Comeback Timeline</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-can-you-diy-vhs-overlay-in-after-effects-for-2024/"><u>Updated How Can You DIY VHS Overlay in After Effects for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-something-about-skin-care-vlog-ideas/"><u>Updated Something About Skin Care Vlog Ideas</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Tutorial How To Add Motion Blur in Blender?
-date: 2024-10-31T21:29:27.270Z
-updated: 2024-11-06T20:21:47.472Z
+date: 2024-12-05T19:20:38.388Z
+updated: 2024-12-11T19:51:46.413Z
 tags: 
   - ai
   - animation videos
@@ -59,6 +59,10 @@ Step2 Start by setting its "Position" in the start, center, or end, according to
 
 ![adjust the shutter value](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-blender-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Following this, define the "Background Separation" according to how you require the foreground and background. Next, you will have to increase or decrease the "Max Blur" pixels to define the blur intensity in the video.
 
 ![set background separation and max blur](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-blender-4.jpg)
@@ -111,25 +115,11 @@ After adjusting the parameters, find the "Dissolve" transition from the "Transit
 
 ![export your video file](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-in-blender-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ### What does motion blur do in Blender?
 
 There are two different techniques adopted in the **Blender motion blur** effect. The first is recognized as the “Sample Motion Blur” technique, an advanced, slower, and controlled way of adding motion blur. The other technique, known as “Vector Blur," is faster but has drawbacks, which do not look professional.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -196,13 +186,6 @@ With that, a complete guide on **how to add motion blur in Blender** has been pr
      data-ad-slot="1223367746"></ins>
 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A Review of 3D LUT Mobile App - A Composite Application for Editing Media
 
 Have you ever wondered how movies, TV shows, and social media posts look so good? It's not the video editing that makes them look good but also the color grading. The correct color grading adds a perspective to your storytelling and a feel to your media. As a matter of fact, there are many different tools for this purpose, and LUT is the most popular one.
@@ -254,6 +237,10 @@ It is a great LUT pack that you can use for your photos and videos. Speedy Grade
 
 ![speedy grade pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. [GoPro LUTs Color Grading Pack](https://3dlutcreator.com/userstore.php?packid=2)
 
 Yet another fantastic LUT pack, especially for outdoor vlogging and videography, is GoPro LUTs Color Grading Pack. This pack comes with over 50 different LUTs, each suitable for GoPro videos. You can use these LUTs to give your vlogs and videos a more cinematic and professional touch. It enhances the brown and muddiness in your videos and balances the exposure to provide the perfect outdoor look.
@@ -278,18 +265,15 @@ It is an exceptional and diversely influencing pack of 3DLUT Mobile. It changes 
 
 ![winter pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. [RakhmonovFilmsLUT Pack](https://3dlutcreator.com/userstore.php?packid=11)
 
 The last one on this list is RakhmonovFilmsLUT Pack which has over 100 LUTs. Each LUT is different from the others in style and tone. This pack gives your videos a more meaningful natural-looking color tone. These LUTs create a movie-like feel to your content by correcting colors that look more professional. It adds depth and dramatic touch to your media files with the correct exposure and white balance.
 
 ![rakhmonov films luts](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Conclusion
 
@@ -339,13 +323,6 @@ When you have selected the desired LUT, tap on the “Tick” sign in the right 
 
 ![apply changes and save](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: 6 Best LUTs That Can Be Used on 3DLUT Mobile App
 
 With the 3DLUT app, you can even access the LUT's library of 3DLUT Creator. You can choose from different LUTs available according to your choice. You can always select the option for 3DLUT mobile app free download on your app’s store.
@@ -368,18 +345,15 @@ This pack is the right choice if you want to color-grade your portraits. Skin To
 
 ![skin tones pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. [Zoan Cinematic Pack](https://3dlutcreator.com/userstore.php?packid=9)
 
 Zoan Cinematic Pack is the perfect color-grading preset that gives your videos a professional-looking cinematic look. This pack has eight cinematic-rich presets you can apply to your videos and vlogs. These LUTs give the modern Hollywood-style impression. It adds richness to your videos, and it underexposes bright colors in your videos to create a modern cinematic ambiance.
 
 ![zoan cinematic pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. [Winter Pack](https://3dlutcreator.com/userstore.php?packid=6)
 
@@ -406,13 +380,6 @@ With new tools and applications, video editing becomes more accessible with a pr
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -468,15 +435,12 @@ With that done, move the playhead to the start of the freeze frame video and dou
 
 ![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
 
+After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
-
 ## Summary
 
 There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
@@ -488,6 +452,10 @@ There you go! That's how to create an eye-zoom transition using Wondershare Film
 First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
 
 ![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create an Eye-zoom Transition
 
@@ -606,6 +574,10 @@ Now trim the first video track from where the freeze frame starts on the second 
 With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
 
 ![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
 
@@ -675,6 +647,10 @@ Step2 Launch Wondershare Filmora, import the video clip into Filmora and place i
 
 ![import clip into filmora](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Find a frame with an empty background, i.e., without the subject, and freeze the frame.
 
 ![empty background frame](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-6.png)
@@ -686,6 +662,10 @@ Step4 Extend the frozen frame and cut out the rest of the video.
 Step5 We are done with the first track so lock it.
 
 ![lock first track](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step6 Import the clip again on the second track. And find the sections of the clips where the subject is walking in the video. Cut the remaining part.
 
@@ -765,6 +745,10 @@ Step6 Import the clip again on the second track. And find the sections of the cl
 
 ![import the clip on the second track](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-9.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step7 It will create several small sections on the second track.
 
 ![second track sections](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-10.png)
@@ -827,18 +811,20 @@ Post it on Instagram, and it will keep playing automatically and act like a loop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-power-up-your-discord-experience-with-the-art-of-adding-gifs-for-2024/"><u>[New] Power up Your Discord Experience with the Art of Adding GIFs for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-essentials-of-making-engaging-youtube-shorts/"><u>[Updated] In 2024, The Essentials of Making Engaging YouTube Shorts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-insiders-guide-to-musical-enhancements-on-ig/"><u>[Updated] In 2024, The Insider's Guide to Musical Enhancements on IG</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhance-your-viewing-experience-new-image-enhancement-features-on-roku-tvs/"><u>Enhance Your Viewing Experience: New Image Enhancement Features on Roku TVs</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-to-mimic-professional-filming-gears-for-2024/"><u>How to to Mimic Professional Filming Gears for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-become-an-instagram-reel-guru-with-these-proven-strategies/"><u>In 2024, Become an Instagram Reel Guru with These Proven Strategies</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-by-ste/"><u>In 2024, Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-redmi-note-12-4g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi Redmi Note 12 4G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-working-through-the-details-of-imovie-slow-motion-video-making-100-effective/"><u>New 2024 Approved Working Through the Details of iMovie Slow Motion Video Making 100 Effective</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-a-movie-with-windows-movie-maker/"><u>New Create a Movie with Windows Movie Maker</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-if-you-want-to-know-what-to-prepare-and-how-to-make-the-wedding-video-perfect-for-videographers-check-out-this-menu-here/"><u>New If You Want to Know What to Prepare and How to Make the Wedding Video Perfect for Videographers, Check Out This Menu Here</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-gui/"><u>Updated How To Quickly Create A Screen Print Effect In Photoshop Detailed Gui</u></a></li>
-<li><a href="https://fox-http.techidaily.com/vr-gaming-powered-essential-oculus-players-for-2024/"><u>VR Gaming Powered Essential Oculus Players for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-incorporating-industry-standards-working-with-cg-centrals-luts-in-post-production/"><u>[New] Incorporating Industry Standards Working with CG Central's LUTs in Post-Production</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-music-on-the-move-top-10-vids-dominating-fb-feed/"><u>[New] Music on the Move Top 10 Vids Dominating FB Feed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-breakdown-how-your-earnings-are-divided-in-youtube-shorts-for-2024/"><u>[Updated] The Breakdown How Your Earnings Are Divided in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-15-best-travel-vloggers-that-you-should-follow/"><u>2024 Approved 15 Best Travel Vloggers That You Should Follow</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-28-exemplary-metaverse-experiences-for-in-depth-understanding/"><u>2024 Approved 28 Exemplary Metaverse Experiences for In-Depth Understanding</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-custom-lower-thirds-with-filmora/"><u>2024 Approved How to Make Custom Lower Thirds with Filmora</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quintessential-plots-making-movies-great/"><u>2024 Approved Quintessential Plots Making Movies Great</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009459564-beat-the-origin-crash-dilemma-quick-painless-fixes-at-your-fingertnails/"><u>Beat the Origin Crash Dilemma: Quick, Painless Fixes at Your Fingertnails!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-tool-for-designing-high-performance-workflow-systems/"><u>ChatGPT as a Tool for Designing High-Performance Workflow Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-2-effective-ways-to-add-text-behind-objects/"><u>New 2024 Approved 2 Effective Ways to Add Text Behind Objects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved How to Remove Background From a Video in Premier Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-t2-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo T2 5G</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-final-cut-pro-for-ipad-is-it-available/"><u>Updated 2024 Approved Final Cut Pro for iPad- Is It Available?</u></a></li>
+<li><a href="https://win11.techidaily.com/your-quick-guide-to-fixing-camera-errors-in-windows/"><u>Your Quick Guide to Fixing Camera Errors in Windows</u></a></li>
 </ul></div>
 

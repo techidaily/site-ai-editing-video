@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved 3 Ways to Create Motion Text Effects for Your Video
-date: 2024-11-29T05:08:39.195Z
-updated: 2024-12-05T20:04:31.241Z
+date: 2024-12-06T08:13:49.227Z
+updated: 2024-12-11T18:01:22.450Z
 tags: 
   - ai
   - animation videos
@@ -41,6 +41,10 @@ Step3 Go to Titles and search for “animation” and you will get all the motio
 
 ![select animation title text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-animation-title-text-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Double-click on the text layer to type in your desired text. Reposition the text layer on the timeline and on the video from Viewer.
 
 ![customize animation type text filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-animation-type-text-filmora.jpg)
@@ -54,7 +58,7 @@ Step1 Go to Graphics> Essential Graphics and select a motion text effect templat
 ![select motion text template premiere](https://images.wondershare.com/filmora/article-images/2022/09/select-motion-text-template-premiere.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Double-click on the text to edit the words and type in your text. Go to Essential Graphics panel to customize the text effect parameters as per your requirements.
@@ -66,10 +70,6 @@ Step3 If you want to edit the animation, select the text layer and go to Effects
 ![adjust key frame premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/adjust-key-frame-premiere-pro.jpg)
 
 Bring the keyframes closer or spread them apart to speed up or slow down. Tweak parameters like? Velocity Controls under different text properties to edit the animation effectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. How to Make Motion Text in After Effects
 
@@ -83,13 +83,13 @@ Step2 Go to Effects and Presets panel, go through and search for the desired mot
 
 ![drag preset text layer after effects](https://images.wondershare.com/filmora/article-images/2022/09/drag-preset-text-layer-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 From Current Time Indicator, slide the keyframes to adjust the animation. Click on the text layer to expand it and adjust different parameters to get the desired text animation.
 
 ![adjust desired text animation after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-desired-text-animation-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. Best Motion Effects Ideas to Try
 
@@ -135,6 +135,10 @@ Step1 Go to Graphics> Essential Graphics and select a motion text effect templat
 
 ![select motion text template premiere](https://images.wondershare.com/filmora/article-images/2022/09/select-motion-text-template-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Double-click on the text to edit the words and type in your text. Go to Essential Graphics panel to customize the text effect parameters as per your requirements.
 
 ![customize text premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/customize-text-premiere-pro.jpg)
@@ -142,6 +146,10 @@ Step2 Double-click on the text to edit the words and type in your text. Go to Es
 Step3 If you want to edit the animation, select the text layer and go to Effects Control panel. Open up Keyframe box by dragging it to the right. Adjust the keyframe as per your animation requirements.
 
 ![adjust key frame premiere pro](https://images.wondershare.com/filmora/article-images/2022/09/adjust-key-frame-premiere-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bring the keyframes closer or spread them apart to speed up or slow down. Tweak parameters like? Velocity Controls under different text properties to edit the animation effectively.
 
@@ -160,6 +168,10 @@ Step2 Go to Effects and Presets panel, go through and search for the desired mot
 Step3 From Current Time Indicator, slide the keyframes to adjust the animation. Click on the text layer to expand it and adjust different parameters to get the desired text animation.
 
 ![adjust desired text animation after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-desired-text-animation-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. Best Motion Effects Ideas to Try
 
@@ -262,10 +274,6 @@ After importing the files into the program, drag the video clip to the video edi
 After that, edit your photo as you choose. Place the image anywhere you want, then drag its edge to change the size of the playing windows. The picture-in-picture track can also be customized using a variety of customizable settings provided by Filmora. To access the picture, color, and motion panel, double-click the additional image on the track. Here, you can select from more than 30 motion effects to animate the added photo, alter its saturation and hue, perform some color correction, or alter its transformation.
 
 ![edit photos](https://images.wondershare.com/filmora/article-images/2022/07/kapwing-image-to-video-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Then click the "**Effects**" button for more mask and effect options. Go to the Utility option under Filters and then drag the image mask onto the photo on the timeline. Double click on the photo and then you can change the shape, height, width, and blending of the image mask. On the mask tab, you can shape the photo with a single click. You can also invert the mask to create a new shape. Choose one of the effects according to your wish to make your video more unique.
 
@@ -429,10 +437,6 @@ After putting the video on the timeline add some effects to your video. If you a
 
 ![add effects and transitions](https://images.wondershare.com/filmora/guide/find-transition.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step4 Edit the duration of the video then export it
 
 After making all the editing videos, you can also select the duration according to your requirements. You can also edit the duration of your per video.
@@ -526,10 +530,18 @@ Secondly, we will discuss how we can do this on our mobiles (Android or iOS). Th
 
 ![download the vn editor](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. After downloading them on your mobile, open the VN editor application.
 2. Create a new project and add your video to it.
 
 ![create a new project](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Then click on the **Filters** option and select add external or custom filters option next to the existing filters.
 
@@ -539,13 +551,13 @@ Secondly, we will discuss how we can do this on our mobiles (Android or iOS). Th
 
 ![file manager](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. After finding them, you can select those LUTs you want to use in your video and then click on the done or select button.
 
 ![click on the done or select button](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Your downloaded LUTs start showing in the VN editor, and you can use them in your videos as you want.
 
@@ -556,10 +568,6 @@ Secondly, we will discuss how we can do this on our mobiles (Android or iOS). Th
 ### 1\. [Presets Store](https://presetsstore.com/lut)
 
 Presets Store is an online platform that helps you with various Filters, LUTs, and other presets. So you can download LUTs for your videos for the VN editor using it. However, it's not a free service. You have to pay for the LUTs you want to download from here. You can visit their YouTube channel to follow the latest LUTs, Filters and other presets on this platform.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. [Apna Editz](https://www.apnaeditz.com/search?q=Luts+VN+editor)
 
@@ -585,10 +593,6 @@ VN Editor is undoubtedly an excellent choice to add LUTs to your videos. However
 2. Now select the Color Correction option and then choose 3D LUT.
 
 ![choose 3d lut](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![use filmora to add luts](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-12.jpg)
 
@@ -608,10 +612,6 @@ This post recommends several lut resources and demonstrates how to import them i
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. [Apna Editz](https://www.apnaeditz.com/search?q=Luts+VN+editor)
 
 Apna Editz is another online platform you can use for this purpose. It also provides you with a fantastic variety of Presets like LUTs, Filters, and many other similar effects, which you can use in your video using the VN editor. The main Pros of this recommendation are that it's a free website. So you can download LUTs for your videos from it for free. Keep an eye on their YouTube channel to be updated about the latest LUTs.
@@ -637,15 +637,15 @@ VN Editor is undoubtedly an excellent choice to add LUTs to your videos. However
 
 ![choose 3d lut](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![use filmora to add luts](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-12.jpg)
 
 1. Click the drop-down menu and select the Load new LUT option. Here you can import other downloaded preset LUTs to use
 
 ![downloaded preset luts](https://images.wondershare.com/filmora/article-images/2022/08/luts-fo-vn-editor-completed-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Choose the LUT and click OK. Your new fantastic video is ready now.
 
@@ -675,15 +675,22 @@ This post recommends several lut resources and demonstrates how to import them i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/aster-the-art-of-eye-catching-short-videos/"><u>[New] Master the Art of Eye-Catching Short Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-chuckles-and-characters-a-guide-to-top-meme-generators/"><u>[Updated] 2024 Approved Chuckles & Characters A Guide to Top Meme Generators</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-perfecting-pics-a-full-guide-to-facetune-mastery/"><u>[Updated] In 2024, Perfecting Pics - A Full Guide to Facetune Mastery</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-all-things-about-adding-effects-in-kinemaster/"><u>2024 Approved All Things About Adding Effects In Kinemaster</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/como-convertir-video-mxf-a-mkv-sin-costo-alguno-utilizando-movavi-guia-paso-a-paso/"><u>Cómo Convertir Video MXF a MKV Sin Costo Alguno Utilizando Movavi: Guía Paso a Paso</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-do-you-know-how-ai-is-helping-video-editors-and-enthusiasts-many-video-editing-software-allows-an-auto-reframe-option-to-use-that-can-help-manage-videos/"><u>New Do You Know How AI Is Helping Video Editors and Enthusiasts? Many Video Editing Software Allows an Auto Reframe Option to Use that Can Help Manage Videos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-showdown-s10plus-vs-s20-performance-analysis/"><u>Samsung Galaxy Showdown: S10+ Vs. S20 Performance Analysis</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-rated-presentation-software-for-ios-devices/"><u>Top-Rated Presentation Software for iOS Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-fade-in-windows-video-editor-for-2024/"><u>Updated How To Add Fade In Windows Video Editor for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-correct-lens-distortion-with-filmora/"><u>Updated In 2024, How to Correct Lens Distortion With Filmora</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-all-about-triller-diverging-from-standard-tiktok-experience-for-2024/"><u>[New] All About Triller Diverging From Standard TikTok Experience for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-removing-backdrops-a-comprehensive-approach/"><u>[New] The Ultimate Guide to Removing Backdrops A Comprehensive Approach</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-performance-probe-a-vll-app-overview/"><u>[Updated] Performance Probe A VLL App Overview</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/chuckle-census-latest-stars-and-trends-in-tiktok-laughter/"><u>Chuckle Census Latest Stars and Trends in TikTok Laughter</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/discovering-exceptional-cost-free-replacements-for-win32-disk-image-software/"><u>Discovering Exceptional Cost-Free Replacements for Win32 Disk Image Software</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-make-your-background-disappear-and-replace-with-an-attractive-background-here-is-how-to-add-a-green-screen-to-zoom-app-and-add-any-virtual-ba/"><u>Do You Want to Make Your Background Disappear and Replace with an Attractive Background? Here Is How to Add a Green Screen to Zoom App and Add Any Virtual Background of Your Choice</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-be-aware-of-vhss-meaning-there-is-nothing-to-be-worried-about-because-we-will-guide-you-in-this-article/"><u>In 2024, Do You Want to Be Aware of VHSs Meaning? There Is Nothing to Be Worried About because We Will Guide You in This Article</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>New 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-film-a-slow-motion-video/"><u>New 2024 Approved How To Film a Slow Motion Video</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-mac-movie-creation-a-beginners-guide-to-making-movies/"><u>New In 2024, Mac Movie Creation A Beginners Guide to Making Movies</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review-for-2024/"><u>New VSDC Free Video Editor Review for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seamless-srt-to-advanced-subtitle-formats-a-compendium-for-2024/"><u>Seamless SRT to Advanced Subtitle Formats A Compendium for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-3-best-effects-to-appear-on-camera/"><u>Updated In 2024, 3 Best Effects to Appear on Camera</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>Updated Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
 </ul></div>
 

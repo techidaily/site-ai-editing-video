@@ -1,7 +1,7 @@
 ---
 title: In 2024, Vintage Film Effect 1980S - How to Create
-date: 2024-10-30T19:44:37.167Z
-updated: 2024-11-06T22:10:44.350Z
+date: 2024-12-06T05:41:45.292Z
+updated: 2024-12-11T22:23:49.525Z
 tags: 
   - ai
   - animation videos
@@ -43,35 +43,9 @@ With the two videos imported on Filmora, move the playhead to the point where th
 
 ![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
 
-Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
-
-![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
-
-Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
-
-##### Step3 Add retro filters and effects to the video
-
-![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
-
-Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
-
-## Summary
-
-Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![import the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-1.jpg)
-
-First, run Wondershare Filmora and add the video with the hoop dancer on the first track. Then, move the disco ball footage right above the first video track.
-
-##### Step2 Add an animation keyframe
-
-![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
-
-With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
-
-![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
 
@@ -106,51 +80,86 @@ With the two videos imported on Filmora, move the playhead to the point where th
 Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
 
 ![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
-
-Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
-
-##### Step3 Add retro filters and effects to the video
-
-![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
-
-Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
-
-## Summary
-
-Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-![import the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-1.jpg)
-
-First, run Wondershare Filmora and add the video with the hoop dancer on the first track. Then, move the disco ball footage right above the first video track.
-
-##### Step2 Add an animation keyframe
-
-![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
-
-With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
-
-![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
-
-Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
-
-![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
-
-Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
-
-##### Step3 Add retro filters and effects to the video
-
-![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
-
-Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
+
+##### Step3 Add retro filters and effects to the video
+
+![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
+
+Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
+
+## Summary
+
+Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![import the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-1.jpg)
+
+First, run Wondershare Filmora and add the video with the hoop dancer on the first track. Then, move the disco ball footage right above the first video track.
+
+##### Step2 Add an animation keyframe
+
+![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
+
+With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
+
+![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
+
+Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
+
+![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
+
+Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
+
+##### Step3 Add retro filters and effects to the video
+
+![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
+
+## Summary
+
+Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+![import the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-1.jpg)
+
+First, run Wondershare Filmora and add the video with the hoop dancer on the first track. Then, move the disco ball footage right above the first video track.
+
+##### Step2 Add an animation keyframe
+
+![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
+
+With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
+
+![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
+
+![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
+
+Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
+
+##### Step3 Add retro filters and effects to the video
+
+![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
+
+Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
 ## Summary
 
@@ -181,6 +190,10 @@ Let us tell you first that GoPro is primarily a company for camera accessories. 
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Slowing Down Videos on Your GoPro: A Guide
 
 [GoPro](https://gopro.com/en/us/) offers **Sony Vegas Pro Slow Motion** to record videos in slow motion. Does using such technical equipment seem challenging for you as a new user? Follow this step-by-step guide and set the camera before recording to make a perfect slow-mo shot.
@@ -190,13 +203,6 @@ Let us tell you first that GoPro is primarily a company for camera accessories. 
 Set the resolution to 2.7k for a slow-motion video and a frame rate of 240fps. Afterward, keep the “Color” natural if you don’t want to color grade it. Moreover, adjust the “Sharping” low by using its respective options.
 
 ![set resolution and frame rate](https://images.wondershare.com/filmora/article-images/2023/gopro-slow-motion-with-quality-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 2
 
@@ -231,19 +237,6 @@ Select the "Pen" icon in the bottom bar and scroll the menu to the left side. He
 Making a slow motion means spending cognitive effort and time on a project. Thus, video editors seek a reliable platform like **GoPro Hero 11,** [**which is slow motion**](https://tools.techidaily.com/wondershare/filmora/download/). Unfortunately, this editing app is outdated, and other better platforms are being developed. In search of the latest and easy-to-use video editor, use [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
 It is a video editing software with various powerful editing features compared with GoPro Quik. This platform can perform more tasks than trimming, merging, and splitting clips. Filmora is equipped with AI technology to provide maximum ease to users. You can use this tool to ensure a smooth workflow and boost your productivity.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why Filmora is Better Than GoPro Quik?
 
@@ -309,13 +302,6 @@ Set the resolution to 2.7k for a slow-motion video and a frame rate of 240fps. A
 
 ![set resolution and frame rate](https://images.wondershare.com/filmora/article-images/2023/gopro-slow-motion-with-quality-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 2
 
 Reset the “Hyper Smooth” to high and later turn ISO to a minimum of 100 and a maximum of 800\. Then, head to set the "Shutter Speed" and "White Balance" to auto.
@@ -343,6 +329,10 @@ Access the GoPro Quick on your device and launch it. Choose the "Media" icon in 
 Select the "Pen" icon in the bottom bar and scroll the menu to the left side. Here, choose the "Speed" option and tap the “+” icon to drag the slider to the point where you want to apply the slow motion. Hit the end mark and get a preview of smooth speed ramping in slow motion.
 
 ![adjust video speed in gopro quik](https://images.wondershare.com/filmora/article-images/2023/gopro-slow-motion-with-quality-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Make Better Slow-Motion Videos with Wondershare Filmora
 
@@ -553,6 +543,10 @@ However, you can use alternative editing programs instead of utilizing them on y
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ultimate Guide to Customize Video Speed in Filmora
 
 **Method 1\. Click the "Fast" or "Slow" Options to Change the Speed Automatically**
@@ -606,6 +600,10 @@ You can choose between utilizing the Splice app and learning how to speed up vid
 
 You must confirm that Splice is already loaded on your iPhone and is the most recent version. Open the program after installation, browse the project with the watermark and learn how to speed up video on iPhone with Splice. After selecting the watermark with a tap, click **"Edit"** from the menu in the screen's top right-hand corner. You'll now see a new tab labeled **"Effects"** immediately below the **"Audio"** tab; tap on it, and scroll down until you find the "Watermark" slider. To remove the watermark, slide it the entire way to the left. Your project is now free of the watermark.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom Line
 
 Most people need help to produce high-quality videos on their devices. Most often, they'll need to transfer them to their computers for extensive editing and polishing. That's no longer the case, particularly with the emergence of mobile editing programs like the Splice app. You can quickly and effortlessly produce high-quality video material with a few clicks.
@@ -644,6 +642,10 @@ In this article I share to you my tips on how to make a DIY vlog or video.
 * Make your Video short but full of information
 * Edit and Personalize your video with Filmora
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Informative Content
 
 A DIY video should be purely educational. Your audience will forgive your poor production values if they’re learning great information. Be sure your DIY video is full of meaty content that’s meaningful to the viewer. Think of advice, tips or recommendations, this type of video has an instructive and educational content that is both shareable and easy to retain. Information video are good for educating you audience about certain topics related to your video content.
@@ -659,6 +661,10 @@ Understand your target audience you need to know who you’ll be speaking to thr
 ![plan your video 01](https://images.wondershare.com/filmora/article-images/2022/07/plan-your-video-01.jpg)
 
 ![plan your video 02](https://images.wondershare.com/filmora/article-images/2022/07/plan-your-video-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Write a script
 
@@ -718,20 +724,6 @@ A DIY video should be purely educational. Your audience will forgive your poor p
 
 ![informative content](https://images.wondershare.com/filmora/article-images/2022/07/informative-content.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Plan your video
 
 Ask yourself first of what you are trying to accomplish by producing the video. Remember that video is a tool and that it can hurt your channel if you don’t take it seriously and come properly prepared. Get organized and take down note if you have to.
@@ -742,13 +734,6 @@ Understand your target audience you need to know who you’ll be speaking to thr
 
 ![plan your video 02](https://images.wondershare.com/filmora/article-images/2022/07/plan-your-video-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Write a script
 
 Making a script in your video is one way guide for you not to rattle or messed up everything, for me DIY vlog is different from product reviews or unboxing vlog. You can either write a word-by-word script for the video or just the general topics you aim to cover in the video. Either way, the point is to have a reference note so you don’t accidentally forget to cover an essential topic when you begin filming the video. DIY vlogs need to plan and make scripting because this is a more on tutorial video and you don’t like to missed one instruction on your video that is why making a script is a must unless you already doing it over and over again. You don’t have to be perfect and you don’t have to memorize any script. You just have to be relatable and authentic, yet professional.
@@ -758,13 +743,6 @@ Making a script in your video is one way guide for you not to rattle or messed u
 Make your video short but demand more attentions to your viewers because modern viewers have short attention spans specially when they’re on social media and there is always another video to see. Just make sure to grab your viewers attention by creating a catching footage.
 
 As long as you know well your topic then that’s good enough because it take some guts to get in front of the camera and be confident.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Editing and Personalize your DIY Video
 
@@ -808,18 +786,18 @@ Now that you know what kind of DIY videos you want to create, be ready and be pr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-definition-ready-enabling-av1-on-youtube/"><u>[New] 2024 Approved High Definition Ready Enabling AV1 on YouTube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-overcoming-youtube-disqualification/"><u>[New] 2024 Approved Overcoming YouTube Disqualification</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-unlocking-success-youtubes-keyword-research-secrets-revealed/"><u>2024 Approved Unlocking Success YouTube's Keyword Research Secrets Revealed</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/create-the-stranger-things-upside-down-effect-video-for-2024/"><u>Create the Stranger Things Upside Down Effect Video for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-guide-to-enhancing-photos-with-facetune-app-for-2024/"><u>Full Guide to Enhancing Photos with Facetune App for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-freeze-frame-sequence-in-video/"><u>In 2024, How to Create A Freeze Frame Sequence in Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-zoom-video-in-vlc-media-player/"><u>In 2024, How to Zoom Video in VLC Media Player</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-transition-securing-a-spot-in-technology-with-your-mba-insights-from-zdnet/"><u>Mastering the Transition: Securing a Spot in Technology with Your MBA - Insights From ZDNet</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-using-luts-perfectly-in-final-cut-pro-for-2024/"><u>New Guide To Using Luts Perfectly in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-whatre-the-best-alternatives-to-pexels/"><u>New Whatre the Best Alternatives to Pexels?</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-eliminate-the-notorious-google-chrome-critical-error-scam/"><u>Step-by-Step Guide: Eliminate the Notorious 'Google Chrome Critical Error' Scam</u></a></li>
-<li><a href="https://article-posts.techidaily.com/virtual-virtuoso-verbalization-voyager/"><u>Virtual Virtuoso Verbalization Voyager</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-streamline-your-media-files-8-pro-convertors-sub-to-srt-style/"><u>[New] 2024 Approved Streamline Your Media Files 8 Pro Convertors, Sub to Srt Style</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-finding-a-different-way-to-naming-your-channel-with-filmora/"><u>[New] In 2024, Finding a Different Way to Naming Your Channel with Filmora</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-craft-excellence-top-10-free-drawing-tools-for-mac/"><u>[Updated] Craft Excellence Top 10 Free Drawing Tools for Mac</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos./"><u>2024 Approved Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-learners-the-teachers-guide-to-visual-pedagogy/"><u>2024 Approved Leading Learners The Teacher's Guide to Visual Pedagogy</u></a></li>
+<li><a href="https://games-able.techidaily.com/digging-deep-into-downloading-minecraft-dungeons/"><u>Digging Deep Into Downloading Minecraft Dungeons</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-htc-u23-pro-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your HTC U23 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-practices-in-producing-trustworthy-video-product-reviews/"><u>In 2024, Top Practices in Producing Trustworthy Video Product Reviews</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-6-plus-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 6 Plus Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie/"><u>New Guide to Make Timelapse Video with iMovie</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-eq-adjustments-in-ableton/"><u>Perfecting EQ Adjustments in Ableton</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-full-guide-to-funcall-voice-changer-and-its-alternatives-for-2024/"><u>Updated Full Guide to Funcall Voice Changer and Its Alternatives for 2024</u></a></li>
 </ul></div>
 

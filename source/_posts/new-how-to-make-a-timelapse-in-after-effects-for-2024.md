@@ -1,7 +1,7 @@
 ---
 title: New How To Make a Timelapse in After Effects for 2024
-date: 2024-12-04T00:18:56.225Z
-updated: 2024-12-06T10:05:52.624Z
+date: 2024-12-07T22:14:18.247Z
+updated: 2024-12-11T19:46:17.977Z
 tags: 
   - ai
   - animation videos
@@ -20,7 +20,7 @@ Time-Lapse movies are great for a variety of projects; you can use them as estab
 With that said, let's start!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1\. Create a new composition
@@ -42,10 +42,6 @@ You are prepared to make a time-lapse sequence if all of your photographs are sa
 5. To update your time-lapse, modify the Frame Rate setting and click OK.
 
 ![import images into after effects](https://images.wondershare.com/filmora/article-images/2022/11/import-images-into-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 3\. Create movements
 
@@ -85,10 +81,6 @@ After getting our sequence to perform some kind of slow, understated animation s
 
 ![add to render queue after effects](https://images.wondershare.com/filmora/article-images/2022/11/add-to-render-queue-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 No matter how you make your time lapse videos, After Effects has a ton of features you can use to modify and enhance the way they look. Now that you are familiar with the fundamentals, you can play with the Frame Rates and Composition options. Check out this helpful manual for more information on Time Stretching and Remapping in After Effects.
@@ -113,7 +105,7 @@ No matter how you make your time lapse videos, After Effects has a ton of featur
 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## This Article Talks in Detail About How to Export iMovie Video From iPhone, Mac, Etc. It Also Covers the Process of Using iMovie Alternative to Edit Videos on Mac. Check Out Now
@@ -188,6 +180,10 @@ You can add your creative iMovie videos to the Photos library on your Mac, givin
 * Choose a Resolution from the Resolution pop-up menu to define the size of your video. If you select a resolution video, the file size will be less and load onto your photos library fast. However, you need to choose a higher resolution video for excellent viewing.
 * Choose a location to save your iMovie video.
 * Drag the file that you want to transfer to the photos library.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Share video to web
 
@@ -292,6 +288,10 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Summary
 
 Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
@@ -307,7 +307,7 @@ First, run Wondershare Filmora and add the video with the hoop dancer on the fir
 ![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
@@ -354,10 +354,6 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 
 ![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
 ## Summary
@@ -373,6 +369,10 @@ First, run Wondershare Filmora and add the video with the hoop dancer on the fir
 ##### Step2 Add an animation keyframe
 
 ![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
 
@@ -414,23 +414,19 @@ The keyframe feature creates room for boundless creativity. The Keyframe feature
 
 You could use a keyframe to mark the spot where the audio will have faded up or down to a specific volume.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Where to Use The Keyframe Feature?
 
 Editors and creators use keyframing for all kinds of stuff. These uses include:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Animated Logo Intros
 
 You can use the keyframe feature to create indigenous intros with animated logos. It helps the editors go for vlogging or tutorial videos.
 
 ![animated logo intro](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-1.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Special Transparency Effects
 
@@ -468,10 +464,6 @@ To utilize the keyframe feature, you need high-end video and animation editing s
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4\. How to Make a Keyframe Video With Filmora
 
 Filmora can be one of the best video editors to achieve the effect. It can personalize anything in detail. There is plenty of footage from its built-in stock media with unlimited resources. By using this platform for editing, your editing time hugely can be greatly reduced.
@@ -520,6 +512,10 @@ The next step would be to use the movement option in Keyframing, where you can p
 * After importing your clips to the timeline, double-click the clip to open the Editing Menu.
 
 ![clip editing menu](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Once opened, the editing menu will have a Basic tab; click it.
 * **Check** the key-shaped button in front of the Transform button. It will create a Keyframe in the default form of your clip.
@@ -553,6 +549,10 @@ Keyframing can add motion to your project's objects, clips, or images. To perfor
 
 ![changing scale and rotation of clip at the second keyframe](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Enter **OK** and play your clip to see the fantastic effect.
 
 ![final result of added motion](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-14.gif)
@@ -584,6 +584,10 @@ For an illustrated guide to keyframing opacity, keep on reading the following in
 On the whole, keyframing is all about creativity at your fingertips. When detailed effort becomes necessary, the keyframe feature is always there to save the day. This tool is a delight, from adding movement and motion to your playful and immersive shots to crafting a cinematic scene out of your films. This contest is your chance to show us how creative you can get with this beautiful feature. Good luck creating!
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. How to Make a Keyframe Video With Filmora
 
@@ -638,10 +642,6 @@ The next step would be to use the movement option in Keyframing, where you can p
 * **Check** the key-shaped button in front of the Transform button. It will create a Keyframe in the default form of your clip.
 
 ![first keyframe created](https://images.wondershare.com/filmora/article-images/2023/01/make-keyframe-video-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * You need to add a second keyframe at the end of the clip to create movement. First, move the timeline cursor to the end of the clip. Then, check the key-shaped button in front of the Transform button again for a second Keyframe.
 * Now change the scale of the clip from the slider options in the **Custom Animation**
@@ -716,14 +716,24 @@ On the whole, keyframing is all about creativity at your fingertips. When detail
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-videos-with-imovie/"><u>2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersive-escapes-androidioss-favorite-ar-games-for-2024/"><u>Immersive Escapes Android/iOS's Favorite AR Games for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-filmora-vs-democreator-a-guide-to-the-best-video-editor/"><u>In 2024, Filmora Vs. Democreator A Guide to the Best Video Editor</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-remove-audio-from-mkv/"><u>In 2024, How to Remove Audio From MKV</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-netflixs-video-playback-controls-for-2024/"><u>Navigating Netflix's Video Playback Controls for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-3-ways-to-create-motion-text-effects-for-your-video/"><u>New 2024 Approved 3 Ways to Create Motion Text Effects for Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-loop-videos-with-imovie/"><u>New 2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-add-miniature-effect-to-videos/"><u>New Easy Steps to Add Miniature Effect to Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-which-recording-tool-wins-a-bandicam-vs-camtasia-comparison/"><u>[New] 2024 Approved Which Recording Tool Wins? - A Bandicam Vs. Camtasia Comparison</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-best-mp4-to-facebook-converter-for-2024/"><u>[New] Best MP4 to Facebook Converter for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-beginners-steps-to-broadcast-on-youtube-via-obs/"><u>[New] In 2024, Beginner's Steps to Broadcast on Youtube via OBS</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-motion-blur-photo-with-gimp-step-by-step-guide/"><u>2024 Approved Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-honor-x7b-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Honor X7b to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/a-full-overview-of-adobe-cloud-workflow-and-alternative-methods/"><u>A Full Overview of Adobe Cloud Workflow & Alternative Methods</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-add-green-screen-eff/"><u>Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/camera-accessories-for-travel-cinematography-for-2024/"><u>Camera Accessories for Travel Cinematography for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/empowering-dyslexics-how-texthelp-and-abbyy-enhance-info-accessibility/"><u>Empowering Dyslexics: How Texthelp™ & ABBYY Enhance Info Accessibility</u></a></li>
+<li><a href="https://driver-download.techidaily.com/feedback-collection/"><u>Feedback Collection</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-record-video-streams-with-ffmpeg-on-windows-and-mac/"><u>How to Record Video Streams With FFmpeg on Windows and Mac?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-drawing-apps-for-iphones/"><u>In 2024, Best Drawing Apps for iPhones</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>In 2024, Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/innovative-techniques-for-capturing-audio-on-ipad/"><u>Innovative Techniques for Capturing Audio on iPad</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-transitions-in-adobe-premiere-pro/"><u>New How to Add Transitions in Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-in-canva-editor/"><u>New How to Loop a Video in Canva Editor</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/this-article-aims-to-show-you-how-to-improve-your-lighting-in-the-sun/"><u>This Article Aims to Show You How to Improve Your Lighting in the Sun</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-8-best-sites-to-get-glitch-transition-for-premiere-pro/"><u>Updated In 2024, 8 Best Sites to Get Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-create-the-night-to-day-effect-videos/"><u>Updated In 2024, Create the Night-to-Day Effect Videos</u></a></li>
 </ul></div>
 

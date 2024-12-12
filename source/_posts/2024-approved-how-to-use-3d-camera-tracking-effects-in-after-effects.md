@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Use 3D Camera Tracking Effects in After Effects
-date: 2024-11-05T19:41:13.488Z
-updated: 2024-11-06T17:53:54.195Z
+date: 2024-12-08T07:46:07.074Z
+updated: 2024-12-12T12:53:29.276Z
 tags: 
   - ai
   - animation videos
@@ -28,13 +28,6 @@ Camera Tracking is a process that determines the movement of a video clip. This 
 Camera Tracking is a relatively simple process, but it can be time-consuming. However, the results are often worth the effort, as it can add a whole new level of realism to your footage clips.
 
 For example, you have taken a video clip of a zoo and want to add an object to it while making sure it gives a realistic look. This is where the **Camera Tracking** feature can help you make a smooth transition and add the element as if it was there.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Why Use Camera Tracking?
 
@@ -91,6 +84,10 @@ With 3D camera tracking, you can track the movement of a camera in a video and p
 
 **Disadvantage:** A bit tricky and needs an expert grip on the tool to use effectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. How To Use 3D Camera Tracking In After Effects Of Windows
 
 Here's a simple and quick rundown of how to use 3D camera tracking in After Effects:
@@ -126,13 +123,6 @@ Now, you have to find a **tracking point** that lays the red **"target"** parall
 
 ![establishing the tracking points and plane](https://images.wondershare.com/filmora/article-images/2022/08/establishing-the-tracking-points-and-plane.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3Add The Text To Your Video Clip
 
 Once you define the plane, it's time to add text to your video clip. To do this, right-click on the **triangle** you have set previously, and a window will appear, allowing you to create new layers.
@@ -152,13 +142,6 @@ Click the **"Transform"** option to use the transform options and use the layer 
 **Note:** You can select your layer and press the S, P, R, or T keys to adjust the scale, position, rotation, and opacity, respectively.
 
 Your text will now be added to your video footage. The method is similar to adding solid or null to your clips. However, the exact steps might differ a little.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Video - Learn 3D Camera Tracking In After Effects
 
@@ -192,6 +175,10 @@ Click **"Create Text"** to place the text on your tracked video clip. A new text
 
 ![adding text to the video footage in the after effects](https://images.wondershare.com/filmora/article-images/2022/08/adding-text-to-the-video-footage-in-the-after-effects.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4Align Text On Tracked Footage
 
 Now you have to align your text. In the timeline, locate the **tracked text layer** and click the **arrow** to the left to unveil all the editable properties for the layer.
@@ -203,6 +190,10 @@ Click the **"Transform"** option to use the transform options and use the layer 
 **Note:** You can select your layer and press the S, P, R, or T keys to adjust the scale, position, rotation, and opacity, respectively.
 
 Your text will now be added to your video footage. The method is similar to adding solid or null to your clips. However, the exact steps might differ a little.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Video - Learn 3D Camera Tracking In After Effects
 
@@ -251,6 +242,10 @@ Step2Click on the video where you want to place the text and type your desired t
 
 Step3This will automatically create a text layer on Timeline. You can now move the text and place it anywhere you want. You can also modify the text style and add animation which we will illustrate in the next section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Use the Character Panel to Edit Text in AE
 
 When you select Type tool and add your desired text, you get a default style for the text. It is most likely that you have to modify the text style such as changing color, font, and size to fit in your video seamlessly. That is when you have to visit the Character Panel. Character Panel is where you get to edit the font of the text you have typed, increase or decrease the font size, change the font color, and much more. Apart from that, you can increase the spacing between lines when your text is a paragraph instead of a few words. Here are the steps to use Character Panel to edit text in AE.
@@ -273,13 +268,6 @@ Step5The next section deals with Stroke option as well as fill the text option. 
 
 ![stroke option after effects](https://images.wondershare.com/filmora/article-images/2022/08/stroke-option-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Add Animated Text to Video with Animation Presets
 
 Now that you have added a static text and set the text format as per your preference, it is time to animate the text. A static text in a video does not look appealing, and animated texts make the video eye-catching instantly. You can use text animation presets in After Effects to add animated text to video. Here are the steps to add animated text to video with animation presets and effects.
@@ -287,6 +275,10 @@ Now that you have added a static text and set the text format as per your prefer
 Step1Click on the text on your video that you want to animate. Go to Effects and Presets panel located on the right side.
 
 ![effects and presets after effects](https://images.wondershare.com/filmora/article-images/2022/08/effects-and-presets-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2Under Effects and Presets panel, Click on Text option. This will open all the different categories of animation presets available that you can apply to the text on your video.
 
@@ -296,6 +288,10 @@ Step3Select any desired animation that you want to apply to the text and drag an
 
 ![apply text effects ae](https://images.wondershare.com/filmora/article-images/2022/08/apply-text-effects-ae.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. Alternative Way to Add Text to Videos
 
 If you are not comfortable with After Effects as a video editor, we recommend Wondershare as the best AE alternative. This is because the user interface of Filmora is super simple and there are loads of text effects and animations available to enhance your video content. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a professional video editor that is extremely popular among amateur and professional video editors. The application is available for both Windows and Mac users. Here are the steps for adding animated text to video using Filmora.
@@ -304,36 +300,15 @@ Step1Install Wondershare Filmora on your computer and launch the application. Cl
 
 ![install wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2Go to File> Import Media> Import Media Files to import your video file. You can also drop the video file directly into Project Media folder.
 
 ![import media files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3Drag and drop the video file from Project Media folder into the Timeline. If you have multiple video clips, you need to arrange them sequentially on the Timeline.
 
 Step4To add text to your video, go to Titles located at the top bar. Check the left panel where you can see different categories of text effects. Select any desired text effect and drop into the Timeline. Make sure that the text layer is above the video layer on Timeline. You can shift the text layer on Timeline to place it where you want it to appear. You can also stretch the duration of the text effect as per your requirements.
 
 ![drag title timeline filmora](https://images.wondershare.com/filmora/article-images/2022/08/drag-title-timeline-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5You can edit the text effect by double clicking on the text layer on Timeline. Under Preset tab, you can change the text, font type and size, text color and much more. For further customization, you can click on Advanced button. At last, click on OK button to save the edits done.
 
@@ -360,6 +335,10 @@ If you want to add animated text to photo and video, After Effects is a great ed
 ## It Is Easy to Separate the Audio From the Video in DaVinci Resolve. But, to Avail of This Feature, You Need to Follow Proper Steps, and This Article Is All About It
 
 The DaVinci Resolve is an excellent software for editing videos; that’s why it attracts users. They also enjoy using it due to its simplicity and availability of features. One of them is separating the audio from the video that most people are looking for. It is easy to extract from this software. But, to avail of this feature, you need to follow proper steps, and this article is all about it. There are also details regarding the Wondershare Filmora as the most appropriate alternative and simpler solution provider.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How can you separate audio from the video clips in DaVinci resolve?
 
@@ -426,9 +405,17 @@ In Wondershare Filmora, there are templates for the spilt screens as well. It is
 
 ![separating the audio from the video](https://images.wondershare.com/filmora/article-images/2022/01/separate-audio-from-video-davinci-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** After its selection, untick all the clips, and this step is for separating the audio from the video just from one file. Click the video file for deselection.
 
 ![separating the audio from the video](https://images.wondershare.com/filmora/article-images/2022/01/separate-audio-from-video-davinci-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Now it is easy to select the video and click on it. Select the audio and video clips separately. Simply edit, delete or move your audio whenever you want it to.
 
@@ -460,13 +447,6 @@ To extract the audio from the video clip in Wondershare Filmora, go through the 
 **Step 1:** After completing the installation of Wondershare Filmora, selection of the ratio is required whether it is 4:3 or 16:9\. It is your choice and dependent on the requirements of your project. Import the video from the folder of your computer when you will click “Import”. As the default, all the files are all together in one place with no gap.
 
 ![separating the audio from the video](https://images.wondershare.com/filmora/article-images/2022/01/separate-audio-from-video-davinci-4.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** This step separates the audio from the video in a single click. You need to right-click on the video from which you have to split the audio and select “Detach Audio”. Instantly, an audio file will appear on the screen on the audio track. Yes, you have received the original audio final from the source file.
 
@@ -520,6 +500,10 @@ To extract the audio from the video clip in Wondershare Filmora, go through the 
 **Step 1:** After completing the installation of Wondershare Filmora, selection of the ratio is required whether it is 4:3 or 16:9\. It is your choice and dependent on the requirements of your project. Import the video from the folder of your computer when you will click “Import”. As the default, all the files are all together in one place with no gap.
 
 ![separating the audio from the video](https://images.wondershare.com/filmora/article-images/2022/01/separate-audio-from-video-davinci-4.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** This step separates the audio from the video in a single click. You need to right-click on the video from which you have to split the audio and select “Detach Audio”. Instantly, an audio file will appear on the screen on the audio track. Yes, you have received the original audio final from the source file.
 
@@ -694,16 +678,20 @@ video project.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-detailed-guide-instastickers-your-pathway-to-musical-posting-for-2024/"><u>[New] Detailed Guide InstaStickers – Your Pathway to Musical Posting for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-blender-green-screen/"><u>2024 Approved How to Use Blender Green Screen</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-non-ecobee-non-amazon-smart-thermostat-in-our-latest-zdnet-review/"><u>Discover the Leading Non-Ecobee, Non-Amazon Smart Thermostat in Our Latest ZDNet Review!</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-dealing-with-detection-failures-of-power-sources/"><u>Effortless Fixes: Dealing with Detection Failures of Power Sources</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-fade-in-text-in-adobe-premiere-pro-for-2024/"><u>How to Fade in Text in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-11-pro-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 11 Pro Max without Password?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-online-changers/"><u>In 2024, Recommended Video Background Online Changers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-steps-to-add-subtitles-in-canva/"><u>In 2024, Steps to Add Subtitles in Canva</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-creating-motivational-videos-with-ai-comprehensive-guide-2024/"><u>New Creating Motivational Videos with AI Comprehensive Guide 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-essential-checklist-purging-backdrops-with-affinity-photo-for-2024/"><u>[New] The Essential Checklist Purging Backdrops with Affinity Photo for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-event-videography-is-popular-in-weddings-graduation-family-reunion-and-other-great-moments-here-im-going-to-share-some-of-the-tips-to-make-a-b/"><u>2024 Approved Event Videography Is Popular in Weddings, Graduation, Family Reunion and Other Great Moments. Here Im Going to Share some of the Tips to Make a Better Event Videography</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-the-past-mastering-file-history-navigation/"><u>Command the Past: Mastering File History Navigation</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/dvdhp/"><u>DVDプレーヤー設定手順：HPコンピューターでの使用方法・解決策</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
+<li><a href="https://win-latest.techidaily.com/master-moving-excel-spreadsheets-between-directories-in-windows-with-yl-software-advice/"><u>Master Moving Excel Spreadsheets Between Directories in Windows with YL Software Advice</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-rotate-videos-in-lightworks-for-2024/"><u>New Steps to Rotate Videos in Lightworks for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722891184723-prepare-for-the-newest-apple-occasion-exclusive-insights-into-date-announcements-and-rumored-gadgets/"><u>Prepare for the Newest Apple Occasion: Exclusive Insights Into Date Announcements and Rumored Gadgets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smartwatch-evolution-through-conversation-gpts-top-6-innovations/"><u>Smartwatch Evolution Through Conversation: GPT's Top 6 Innovations</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-step-by-step-to-crop-videos-using-lightworks/"><u>Updated 2024 Approved Step by Step to Crop Videos Using Lightworks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-cloud-storage-service-for-videos-for-2024/"><u>Updated Best Cloud Storage Service for Videos for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-best-split-screen-video-editor-online-and-offline/"><u>Updated Best Split Screen Video Editor Online & Offline</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-effects-on-tiktok/"><u>Updated In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Lenovo ThinkPhone | Dr.fone</u></a></li>
 </ul></div>
 

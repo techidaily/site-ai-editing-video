@@ -1,7 +1,7 @@
 ---
 title: "Solving Your Razer Mic Issues: Five Simple Solutions to Restore Audio Functionality"
-date: 2024-11-28T23:32:58.154Z
-updated: 2024-12-05T20:12:35.635Z
+date: 2024-12-09T12:55:14.435Z
+updated: 2024-12-12T07:22:35.082Z
 tags:
   - win11
   - win10
@@ -51,12 +51,16 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d55d7e26c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
@@ -67,13 +71,13 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d59326203.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##
   
@@ -93,13 +97,13 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6a682959.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you set the Host to Windows WASAPI, you’ll see the values of Device field under Playback and the Device under Recording change automatically.
 
@@ -125,10 +129,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Under Playthrough, if you see**Software Playthrough of input** is checked, uncheck it. Then click the**OK** button. If not, skip this solution then try other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
@@ -152,7 +152,7 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d83603b51.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -203,18 +203,18 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unlocking-the-potential-of-windows-10-for-aspiring-filmmakers/"><u>[New] 2024 Approved Unlocking the Potential of Windows 10 for Aspiring Filmmakers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-masterclass-in-making-engaging-video-lessons-your-step-by-step-guide-for-youtube/"><u>[Updated] Masterclass in Making Engaging Video Lessons Your Step-by-Step Guide for YouTube</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/doggy-drama-review-heartwarming-family-watch/"><u>Doggy Drama Review: Heartwarming Family Watch</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-green-screen-in-obs/"><u>How to Add Green Screen in OBS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-ad/"><u>New 2024 Approved Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-techniques-to-keep-your-mov-files-organized-on-windows/"><u>Top Techniques to Keep Your .mov Files Organized on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-rated-tools-for-effortless-conversion-from-webm-to-mp4/"><u>Top-Rated Tools for Effortless Conversion From WebM to MP4</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-the-mechanics-of-electric-vehicle-battery-exchange-systems/"><u>Understanding the Mechanics of Electric Vehicle Battery Exchange Systems</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>Updated A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-custom-filters-in-vn-app-2024-quick-guide/"><u>Updated How to Add Custom Filters in VN App 2024 Quick Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-revolutionize-viewing-with-these-6-ultimate-youtube-shorts-downloader-apps/"><u>[Updated] 2024 Approved Revolutionize Viewing with These 6 Ultimate YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-iphone-shutterbugs-tips-for-better-images/"><u>2024 Approved IPhone Shutterbugs Tips for Better Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-invert-playback-videos-android/"><u>2024 Approved Step-by-Step Guide Invert Playback Videos Android</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-visuals-matter-on-tiktok-a-guide-to-altering-your-display/"><u>2024 Approved Visuals Matter on TikTok A Guide to Altering Your Display</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/5-tools-to-create-a-time-lapse-video-online/"><u>5 Tools to Create a Time-Lapse Video Online</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-zenwifi-ax6600-mesh-network-router-comprehensive-review/"><u>ASUS ZenWifi AX6600 Mesh Network Router Comprehensive Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://win-best.techidaily.com/expert-tips-for-retrieving-your-files-from-a-damaged-seagate-1tb-hard-drive-complete-restoration-instructions/"><u>Expert Tips for Retrieving Your Files From a Damaged Seagate 1TB Hard Drive: Complete Restoration Instructions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/gtx-950-error-43-fix-guide-a-comprehensive-solution-for-windows-11-users/"><u>GTX 950 'Error 43' Fix Guide: A Comprehensive Solution for Windows 11 Users</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-11-pro-max-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 11 Pro Max to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-detailed-guide-to-rotate-videos-in-blender/"><u>In 2024, Detailed Guide to Rotate Videos in Blender</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-fps-for-youtube-videos/"><u>In 2024, Overview of FPS for YouTube Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-save-your-edited-video-file-in-mp4-format-in-windows-movie-maker-here-are-the-simple-steps-along-with-a-better-alternative/"><u>Want to Save Your Edited Video File in MP4 Format in Windows Movie Maker? Here Are the Simple Steps Along with a Better Alternative</u></a></li>
 </ul></div>
 

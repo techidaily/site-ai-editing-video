@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Create Intro with Legend Intro Maker
-date: 2024-11-03T17:21:38.661Z
-updated: 2024-11-06T23:42:41.665Z
+date: 2024-12-06T07:13:43.277Z
+updated: 2024-12-11T22:06:10.169Z
 tags: 
   - ai
   - animation videos
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 What makes the viewers get hooked to a video? Experts say the intro is the decider. That is why video creators focus on creating stunning intro videos. The intro of your video creates the first impression for the viewers. How do you make an intro video stand out? You need a great intro maker and your creativity skill.
 
 Legend Intro Maker is a popular choice among Android smartphone users. You will come across loads of intro maker apps. But Legend Intro Maker clearly stands out. That is why it is highly rated on Play Stores. You can create a high-quality intro and outro video in simple steps. We will illustrate how to create intro videos with mobile legends intro maker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. Basic Info of Legend Intro Maker
 
@@ -75,13 +79,6 @@ Step6 Finally, check the preview and tap on the Export button. Select the video 
 
 ![select video resolution legend intro](https://images.wondershare.com/filmora/article-images/2022/11/select-video-resolution-legend-intro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Legend Intro Maker PC Alternative
 
 If you want to create intro videos on your PC, you need a Legend Intro Maker PC alternative. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as the best alternative to mobile Legends Intro Maker. Filmora is a popular premium video editor. Filmora comes with a wide range of intro video templates. There are loads of text effects and animations present.
@@ -100,18 +97,15 @@ Step2 Click on the Titles option from the top bar. Go to the Openers option from
 
 ![click on the titles option](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Double-click on the intro video layer. Edit the default text and type in your titles. From the left panel, select any text style as per your preference.
 
 ![edit the default text](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 Step4 You can go to the Animation tab and select any animation from the left panel. Double-click on the selected animation to apply. Thereafter, you can move around the texts on the Program window to place them properly. Finally, click on Ok button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,13 +143,6 @@ If you are looking for an intro video maker app, Legend video intro maker is a s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Detailed Steps to Rotate Videos in Blender
 
@@ -239,6 +226,10 @@ Step 2: In the timeline, place the playhead at the beginning of the clip.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: With the playhead still at the beginning of the clip, drag the rotation handle in the preview window to rotate the video.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-9.png)
@@ -248,10 +239,7 @@ Step 4: Move the playhead to the end of the clip and drag the rotation handle ag
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To rotate a video clip using the Transform Tool...
@@ -422,6 +410,10 @@ Step 1: Import the video clip you want to rotate to your project.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: In the timeline, place the playhead at the beginning of the clip.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-8.png)
@@ -504,13 +496,6 @@ For macOS 10.14 or later
 
 There are two main ways to rotate video in Filmora: through the use of keyframes or by using the Transform Tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step-by-step on how to rotate videos in Filmora
 
 To rotate a video clip using keyframes...
@@ -536,13 +521,6 @@ To rotate a video clip using the Transform Tool...
 Select the "Edit" tool from the toolbar.
 
 ![rotate-video-blender](https://images.wondershare.com/filmora/article-images/2022/03/rotate-video-blender-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Go to the “Transform” selection, then select the rotate option.
 
@@ -628,17 +606,14 @@ Just little guidance and assistance can help you use the Wondershare Filmora as 
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas2.jpeg)
 
+**Step 3:** You have to separate the audio from the video files in this step. After selecting the track, whether audio or video, simply press the “U” letter on your keyboard. In this step, keep holding the cursor. It permits you to keep moving the video clips quickly. Now, it is easy to download audio files from this area.
+
+**Step 4:** The tracks are separate now, so you can move, delete or edit them individually. Definitely, it doesn’t affect the other track.
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-**Step 3:** You have to separate the audio from the video files in this step. After selecting the track, whether audio or video, simply press the “U” letter on your keyboard. In this step, keep holding the cursor. It permits you to keep moving the video clips quickly. Now, it is easy to download audio files from this area.
-
-**Step 4:** The tracks are separate now, so you can move, delete or edit them individually. Definitely, it doesn’t affect the other track.
-
 ## An easier way to split the audio from the video
 
 Most graphic designers and video editors consider the Sony Vegas Pro as the professional level software for editing purposes. Due to the user interface of advanced level, high pricing and availability only for the Mac users make people look for options as the editing tool and accessible on both devices using Windows and Mac.
@@ -674,6 +649,10 @@ For macOS 10.14 or later
 **Step 4:** After separating the audio from the video, it is simple to delete the track, whether it is audio or video that is not in use or want to use. Click on the “Export” option for saving your required audio tracks, or you can even select the “iPod” for playing the audio. You can also save the audio file separately as the new file on your hard drive. After exporting the audio tracks, load the project file again that has the frames for the video and later export the video file.
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas5.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Whenever you think about the compatibility of editing software with different operating systems, Wondershare Filmora comes to mind as the first choice. All the new features of Wondershare Filmora in its latest version have received positive feedback and reviews. Definitely, it is the actual replacement of the previously used editors such as video editor in Windows or iMovie in Mac.
 
@@ -764,6 +743,10 @@ For macOS 10.14 or later
 **Step 1:** After running the Wondershare Filmora, select the ratio of your choice 4:3 or 16:9 for entering in the mode of editing. Click on the “Import” so you can add the photos, video and audio from the folder of your system. After importing the videos, drag and drop in the timeline. As a default, all the files get merged with one another with no gap.
 
 ![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Right-click on the video clip from which you want to extract the audio. Select the option of “Detach Audio” from the menu. Instantly, an audio file is visible on the screen, and it is the original one from the source.
 
@@ -905,20 +888,21 @@ Step4 Place the transitions in between video clips and drag the transition as pe
 
 ## Part 4\. Related FAQs about Premiere Transitions
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How do I add transitions to all clips in Premiere?
 
 Import all the video clips to Timeline in Premiere. Go to Effects> Video Transitions and drag and drop the video transitions of your choice to Timeline. You should place the transitions in between the video clips and adjust their duration as per your requirements for smoother transition for jump cuts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Where are the transitions in Premiere Pro?
 
 The transitions are present under Effects tab located at the topmost bar. There are different types of video transitions as well as audio transitions available. If you are looking for how to add text transitions in Premiere Pro, you can type the text and add effects from Graphics tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to add transitions to photos in Premiere Pro?
 
@@ -944,18 +928,20 @@ We have illustrated how to add a transition in Premiere in simple steps. Besides
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-infallible-steps-to-tiktok-bio-link-integration-without-error/"><u>[New] Infallible Steps to TikTok Bio-Link Integration Without Error</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-discover-the-top-9-free-online-tools-to-craft-your-logo/"><u>[Updated] Discover the Top 9 Free Online Tools to Craft Your Logo</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-comprehensive-guide-for-dynamic-snaps-and-boomers-for-2024/"><u>[Updated] The Comprehensive Guide for Dynamic Snaps & Boomers for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-11-tips-to-make-product-ad-videos/"><u>2024 Approved 11 Tips to Make Product Ad Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-keyframes-interval-everything-you-need-to-know/"><u>2024 Approved Keyframes Interval Everything You Need To Know</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-way-to-add-transitions-to-videos/"><u>In 2024, Easy Way to Add Transitions to Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713950879141-looking-for-the-steps-to-add-transitions-effects-in-premiere-pro-here-are-the-steps-to-add-and-edit-transitions-in-premiere-pro-and-an-alternative-way-to-vi/"><u>Looking for the Steps to Add Transitions Effects in Premiere Pro? Here Are the Steps to Add and Edit Transitions in Premiere Pro and an Alternative Way to Video Transitions for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-the-basics-of-zoom-meeting-setup/"><u>Navigating the Basics of Zoom Meeting Setup</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-glitch-text-effect-for-2024/"><u>New Create Glitch Text Effect for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-time-lapse-to-normal-video/"><u>New In 2024, How to Convert Time-Lapse to Normal Video</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-creating-a-scatter-plot-using-microsoft-excel/"><u>Step-by-Step Guide: Creating a Scatter Plot Using Microsoft Excel</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-how-to-fix-shaky-gopro-videos/"><u>[New] How to Fix Shaky GoPro Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-infinite-loop-twitters-live-video-saga-in-23-for-2024/"><u>[New] Infinite Loop Twitter's Live Video Saga in '23 for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-adjust-the-tiktok-videos-length-to-make-them-captivating/"><u>2024 Approved Adjust the TikTok Videos Length to Make Them Captivating</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-f14-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-free-luts-to-use-in-shotcut/"><u>Best Free LUTs To Use in Shotcut</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone-for-2024/"><u>How to Loop a Video with iMovie on Mac and iPhone for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-guide-to-overlay-videos-in-premiere-pro/"><u>In 2024, Easy Guide to Overlay Videos in Premiere Pro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-end-screen-creation-made-simple-free-templates-and-guides/"><u>In 2024, End Screen Creation Made Simple - Free Templates & Guides</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-combat-shake-in-visual-media/"><u>In 2024, How to Combat Shake in Visual Media</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-complete-guide-to-make-a-super-easy-rotating-video-effect/"><u>New 2024 Approved Complete Guide to Make a Super Easy Rotating Video Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-add-vhs-effects-to-videos-for-free-a-2024-guide/"><u>New Add VHS Effects to Videos for Free A 2024 Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/optimizing-performance-comprehensive-guide-to-smoothing-out-gameplay-glitches-and-stuttering-in-pcs-apex-legends/"><u>Optimizing Performance: Comprehensive Guide to Smoothing Out Gameplay Glitches and Stuttering in PC's Apex Legends</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-guide-simple-methods-for-adding-annotations-to-videos/"><u>Quick Guide: Simple Methods for Adding Annotations to Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/uncover-6-budget-friendly-ai-companions-to-sora/"><u>Uncover 6 Budget-Friendly AI Companions to Sora</u></a></li>
 </ul></div>
 

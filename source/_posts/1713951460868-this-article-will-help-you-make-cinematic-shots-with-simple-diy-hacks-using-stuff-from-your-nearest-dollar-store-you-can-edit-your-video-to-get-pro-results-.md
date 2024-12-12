@@ -1,7 +1,7 @@
 ---
 title: This Article Will Help You Make Cinematic Shots with Simple DIY Hacks Using Stuff From Your Nearest Dollar Store. You Can Edit Your Video to Get Pro Results by Wondershare Filmora for 2024
-date: 2024-11-21T16:56:17.850Z
-updated: 2024-11-26T20:08:49.115Z
+date: 2024-12-10T01:06:09.837Z
+updated: 2024-12-11T17:37:02.999Z
 tags: 
   - ai
   - animation videos
@@ -47,13 +47,13 @@ Others even have lights with adhesive backings that allow you to place them all 
 
 ![lights with adhesive backings](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 On film sets, crews use a bounce to reflect light from one light source in another direction. At the dollar store, we can find something like this poster board to get a similar effect.
 
 ![use bounce to reflect light](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By reflecting the light onto the bounce, we get softer, more spread-out light when it's reflected. Then you will get the result in a nicer look. Using poster boards, you can do multiple things with light.
 
@@ -69,10 +69,6 @@ You might have seen how big production companies create those alienated landscap
 The concept is recording your object in front of a green screen behind it. Then, it's much easier to add a separately filmed background to the final footage with a video editor like Filmora.
 
 ![green screen to create the fake background](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-8.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tip 3\. Smooth audio with felt pads or socks
 
@@ -94,14 +90,6 @@ It will make your voiceover slightly quieter, but it should also get rid of the 
 
 ![add socks to a mic to make voice quieter](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 See how easy it was! Keep in mind these dollar store hacks in your next video. And you can edit your footage like a pro with an easy-to-use video editor like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Keep exploring different ideas and perspectives to record.
@@ -109,6 +97,10 @@ See how easy it was! Keep in mind these dollar store hacks in your next video. A
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tip 2\. Adjust lights with poster boards
 
@@ -141,13 +133,13 @@ The concept is recording your object in front of a green screen behind it. Then,
 
 ![green screen to create the fake background](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-8.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tip 3\. Smooth audio with felt pads or socks
 
 Do you ever have audio pop while you are recording? It can get annoying. So, to fix the issues, we are now teaching you three practical ways.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Felt pads
 
@@ -164,10 +156,6 @@ Then what is a pop filter? You might have seen in some YouTube videos, especiall
 It will make your voiceover slightly quieter, but it should also get rid of the popping. So keep adding socks until you hear no more pops in your voiceover.
 
 ![add socks to a mic to make voice quieter](https://images.wondershare.com/filmora/article-images/2023/01/dollar-store-film-making-hacks-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -224,6 +212,10 @@ We will now look at the example image with the rule of thirds in place and see i
 
 ![place thirds points in photo](https://images.wondershare.com/filmora/article-images/2022/11/place-thirds-points-in-photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 We have aligned the skyline with the first horizontal grid line and aligned the boats with the vertical grid lines. We have sacrificed the crane in the scene but overall I'm sure you can agree that this is more pleasing and makes more sense when you're viewing this. The whole middle section of the scene now has information within it and the contrast between the middle and the rest of the scene directs your eyes to what was intended to be viewed, This is called effect use of empty space. In doing this you save yourself time from adding more information to direct the viewer.
 
 Placing key elements directly in the center of your scene can seem static and boring but by placing elements to one side or using the first and second horizontal grid lines you create something called Dynamism , where the viewer sees an element along the grid and takes a journey through the rest of the image.
@@ -267,12 +259,16 @@ Now click on the crop and zoom option and this editor will appear.
 ![crop rule of thirds filmora](https://images.wondershare.com/filmora/article-images/2022/11/crop-rule-of-thirds-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As you can see you are able to align the shot and change the aspect ratio to align with your project. For a better look at the built in grid lines see image below.
 
 ![rule of thirds final video](https://images.wondershare.com/filmora/article-images/2022/11/rule-of-thirds-final-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -295,6 +291,10 @@ To conclude, the rule of thirds is very important within visual media and is tou
 No matter how big the budget of a Hollywood movie is, at the end of the day, it has to rely on the humble green screens for special video effects. The stunning studios from where your favorite YouTubers and gamers stream their videos are graphical video effects created through green screens. Even the studios that you see on TV channels are a graphical creation of green screens. You must be wondering how they could achieve such awesome graphics with a simple green screen.
 
 All you need is a good-quality green fabric, a professional video editing software, and a camera. You may not believe it, but that is all you need for creating DIY green screen video effect. You do not have to be a professional video editor to edit the green screen on your videos and add any special video effect. In this article, you will learn how to create your own DIY green backdrop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Green Screen Technique?
 
@@ -340,8 +340,56 @@ There are various video editors available, but not all of them are suitable for 
 
 Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
 
+## Conclusion
+
+Making videos with DIY green screen stand is no more an esoteric concept. You can set it up anywhere and start shooting video. The magic begins in the post-production stage where you can use Wondershare Filmora to replace the green screen with video effects that will blow the mind of your viewers and followers. Filmora has intuitive options and controls through which you can apply green screen effect in simple steps.
+
+Step 1: Setup DIY Green Backdrop
+
+Your green fabric should be soft and bright. If you are going to be the subject of the video, make sure you are not wearing anything green. Moreover, do not keep any object within the video frame that is green in color. If there are too many green objects, you can use a blue screen.
+
+When it comes to hanging the green cloth in the background, people find it very difficult. If your video frame is going to be a close-up to the subject, you can use a green screen panel to hang green cloth. A green screen panel generally has a collapsible structure for easy storage and transportation.
+
+Otherwise, you need to install hooks in the wall if you are planning to replace the green screen with a studio-like scene so that the entire background of the video frame stays covered with green screen. You should opt for multiple green screens and stitch them together to cover the background completely.
+
+Step 2: Setup Camera and Light
+
+Whether you are shooting with a DSLR camera or smartphone camera or webcam, make sure you are shooting at least HD video quality so that the editing could be great. Lights are important when you are using green screen though they are not a necessity. The video quality and brightness get enhanced with lights. Diffused lights work the best and the background should be well-lit.
+
+Most importantly, you have to place the lights in such a way that your body arms should not be casting any shadow on the green screen. You can either stand very close to the green screen or away from the green screen so that your shadow does not go till the green screen. Instead of starting to shoot the video from the very beginning, you should capture for a few seconds and make sure everything is perfect including the camera angle.
+
+Step 3: Get The Best Video Editor For Green Screen Effect
+
+There are various video editors available, but not all of them are suitable for green screen effect. We recommend Wondershare Filmora as the best video editor to apply green screen effects on your video while editing. The reason behind the recommendation is that the steps to replace the green screen with any image or video are super simple and anyone can do it. There is no need to be a professional video editor.
+
+Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
+
+## Conclusion
+
+Making videos with DIY green screen stand is no more an esoteric concept. You can set it up anywhere and start shooting video. The magic begins in the post-production stage where you can use Wondershare Filmora to replace the green screen with video effects that will blow the mind of your viewers and followers. Filmora has intuitive options and controls through which you can apply green screen effect in simple steps.
+
+Step 1: Setup DIY Green Backdrop
+
+Your green fabric should be soft and bright. If you are going to be the subject of the video, make sure you are not wearing anything green. Moreover, do not keep any object within the video frame that is green in color. If there are too many green objects, you can use a blue screen.
+
+When it comes to hanging the green cloth in the background, people find it very difficult. If your video frame is going to be a close-up to the subject, you can use a green screen panel to hang green cloth. A green screen panel generally has a collapsible structure for easy storage and transportation.
+
+Otherwise, you need to install hooks in the wall if you are planning to replace the green screen with a studio-like scene so that the entire background of the video frame stays covered with green screen. You should opt for multiple green screens and stitch them together to cover the background completely.
+
+Step 2: Setup Camera and Light
+
+Whether you are shooting with a DSLR camera or smartphone camera or webcam, make sure you are shooting at least HD video quality so that the editing could be great. Lights are important when you are using green screen though they are not a necessity. The video quality and brightness get enhanced with lights. Diffused lights work the best and the background should be well-lit.
+
+Most importantly, you have to place the lights in such a way that your body arms should not be casting any shadow on the green screen. You can either stand very close to the green screen or away from the green screen so that your shadow does not go till the green screen. Instead of starting to shoot the video from the very beginning, you should capture for a few seconds and make sure everything is perfect including the camera angle.
+
+Step 3: Get The Best Video Editor For Green Screen Effect
+
+There are various video editors available, but not all of them are suitable for green screen effect. We recommend Wondershare Filmora as the best video editor to apply green screen effects on your video while editing. The reason behind the recommendation is that the steps to replace the green screen with any image or video are super simple and anyone can do it. There is no need to be a professional video editor.
+
+Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -368,56 +416,8 @@ There are various video editors available, but not all of them are suitable for 
 
 Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
 
-## Conclusion
-
-Making videos with DIY green screen stand is no more an esoteric concept. You can set it up anywhere and start shooting video. The magic begins in the post-production stage where you can use Wondershare Filmora to replace the green screen with video effects that will blow the mind of your viewers and followers. Filmora has intuitive options and controls through which you can apply green screen effect in simple steps.
-
-Step 1: Setup DIY Green Backdrop
-
-Your green fabric should be soft and bright. If you are going to be the subject of the video, make sure you are not wearing anything green. Moreover, do not keep any object within the video frame that is green in color. If there are too many green objects, you can use a blue screen.
-
-When it comes to hanging the green cloth in the background, people find it very difficult. If your video frame is going to be a close-up to the subject, you can use a green screen panel to hang green cloth. A green screen panel generally has a collapsible structure for easy storage and transportation.
-
-Otherwise, you need to install hooks in the wall if you are planning to replace the green screen with a studio-like scene so that the entire background of the video frame stays covered with green screen. You should opt for multiple green screens and stitch them together to cover the background completely.
-
-Step 2: Setup Camera and Light
-
-Whether you are shooting with a DSLR camera or smartphone camera or webcam, make sure you are shooting at least HD video quality so that the editing could be great. Lights are important when you are using green screen though they are not a necessity. The video quality and brightness get enhanced with lights. Diffused lights work the best and the background should be well-lit.
-
-Most importantly, you have to place the lights in such a way that your body arms should not be casting any shadow on the green screen. You can either stand very close to the green screen or away from the green screen so that your shadow does not go till the green screen. Instead of starting to shoot the video from the very beginning, you should capture for a few seconds and make sure everything is perfect including the camera angle.
-
-Step 3: Get The Best Video Editor For Green Screen Effect
-
-There are various video editors available, but not all of them are suitable for green screen effect. We recommend Wondershare Filmora as the best video editor to apply green screen effects on your video while editing. The reason behind the recommendation is that the steps to replace the green screen with any image or video are super simple and anyone can do it. There is no need to be a professional video editor.
-
-Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
-
-## Conclusion
-
-Making videos with DIY green screen stand is no more an esoteric concept. You can set it up anywhere and start shooting video. The magic begins in the post-production stage where you can use Wondershare Filmora to replace the green screen with video effects that will blow the mind of your viewers and followers. Filmora has intuitive options and controls through which you can apply green screen effect in simple steps.
-
-Step 1: Setup DIY Green Backdrop
-
-Your green fabric should be soft and bright. If you are going to be the subject of the video, make sure you are not wearing anything green. Moreover, do not keep any object within the video frame that is green in color. If there are too many green objects, you can use a blue screen.
-
-When it comes to hanging the green cloth in the background, people find it very difficult. If your video frame is going to be a close-up to the subject, you can use a green screen panel to hang green cloth. A green screen panel generally has a collapsible structure for easy storage and transportation.
-
-Otherwise, you need to install hooks in the wall if you are planning to replace the green screen with a studio-like scene so that the entire background of the video frame stays covered with green screen. You should opt for multiple green screens and stitch them together to cover the background completely.
-
-Step 2: Setup Camera and Light
-
-Whether you are shooting with a DSLR camera or smartphone camera or webcam, make sure you are shooting at least HD video quality so that the editing could be great. Lights are important when you are using green screen though they are not a necessity. The video quality and brightness get enhanced with lights. Diffused lights work the best and the background should be well-lit.
-
-Most importantly, you have to place the lights in such a way that your body arms should not be casting any shadow on the green screen. You can either stand very close to the green screen or away from the green screen so that your shadow does not go till the green screen. Instead of starting to shoot the video from the very beginning, you should capture for a few seconds and make sure everything is perfect including the camera angle.
-
-Step 3: Get The Best Video Editor For Green Screen Effect
-
-There are various video editors available, but not all of them are suitable for green screen effect. We recommend Wondershare Filmora as the best video editor to apply green screen effects on your video while editing. The reason behind the recommendation is that the steps to replace the green screen with any image or video are super simple and anyone can do it. There is no need to be a professional video editor.
-
-Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -435,10 +435,6 @@ Making videos with DIY green screen stand is no more an esoteric concept. You ca
 The main focus of color grading is changing the colors and tones in your photographs. Recent updates to Lightroom and Photoshop's color grading functionality have improved its use and increased its capabilities. Color grading is ideal for giving your photograph a bit extra interest and improving the lighting.
 
 All forms of photography benefit from and depend on color grading. The color grading tools in Lightroom and Photoshop will be especially appreciated by landscape and portrait photographers. If you're wondering what happened to split toning, it was replaced by the Color Grading module, which is why split toning is now referred to as color grading.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Getting to Color Grading
 
@@ -461,6 +457,10 @@ The color wheels are actually fairly easy to use. To select a color, merely clic
 Blending and balancing are the other two parameters that you can modify. You can alter how well the color in the highlights, midtones, or shadows blend with one another with the blending slider. The colors will blend in more naturally by moving the blending slider higher.
 
 The amount of the image that is judged to be in the highlights, shadows, or midtones can be changed with the balance slider. For instance, if I move the balance slider to the right, less of the highlights will show the adjustment. Only the highlights with the highest brightness will be affected by the change.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. HSL/Color Panel
 
@@ -510,20 +510,22 @@ Utilize each panel to practice and experiment. There is no right or wrong method
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-essence-of-interactive-virtuality/"><u>[New] In 2024, The Essence of Interactive Virtuality</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-image-mastery-through-top-rated-grid-makers-for-2024/"><u>[Updated] Image Mastery Through Top-Rated Grid Makers for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-obs-vs-shadowplay-the-ultimate-showdown-for-gamers/"><u>2024 Approved OBS vs ShadowPlay The Ultimate Showdown for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-strategies-for-ultimate-ps5-gaming-bliss/"><u>5 Strategies for Ultimate PS5 Gaming Bliss</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/bitraser-pro-comprehensive-tutorial-on-secure-data-destruction-via-video/"><u>BitRaser Pro: Comprehensive Tutorial on Secure Data Destruction via Video</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/dji-phantom-4-deep-dive-comprehensive-insights-and-reviews-for-2024/"><u>DJI Phantom 4 Deep Dive Comprehensive Insights & Reviews for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722998189915-effortless-solutions-to-your-apex-legends-startup-woes/"><u>Effortless Solutions to Your Apex Legends Startup Woes!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-audio-systems/"><u>Expert Tips on Repairing Malfunctioning Computer Audio Systems</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/explore-with-akasos-ek7000-high-quality-economical-adventure-tool/"><u>Explore with AKASO's EK7000: High-Quality, Economical Adventure Tool</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-ideal-iphone-mail-apps-our-selection/"><u>Exploring the Ideal iPhone Mail Apps - Our Selection</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-gt-5-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme GT 5 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unmatched-smartphone-camera-apps-on-ios-and-android-devices/"><u>In 2024, Unmatched Smartphone Camera Apps on iOS & Android Devices</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/unpacking-the-mini-powerhouse-in-depth-analysis-of-the-3rd-gen-amazon-echo-dots-alexa-capabilities/"><u>Unpacking the Mini-Powerhouse: In-Depth Analysis of the 3Rd Gen Amazon Echo Dot's Alexa Capabilities</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-ninja-jump-effect-with-filmora/"><u>Updated How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-boost-views-with-your-own-youtube-thumbnail-design/"><u>[New] 2024 Approved Boost Views with Your Own YouTube Thumbnail Design</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-premier-short-frame-gatherer-top-lapses/"><u>[New] Premier Short Frame Gatherer - Top Lapses</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-premium-camcorders-enhancing-podcasting-for-2024/"><u>[New] Premium Camcorders Enhancing Podcasting for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-a-viewer-friendly-approach-implementing-commentary-and-alerts-on-youtube/"><u>[Updated] 2024 Approved A Viewer-Friendly Approach Implementing Commentary and Alerts on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-9-essential-apps-for-pulling-youtube-videos-android/"><u>[Updated] In 2024, 9 Essential Apps for Pulling YouTube Videos (Android)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-maximizing-b-roll-value-essential-techniques/"><u>[Updated] Maximizing B-Roll Value Essential Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-psd-shadow-gradient/"><u>2024 Approved Ultimate PSD Shadow Gradient</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/best-ways-to-blur-zoom-background-for-free-for-2024/"><u>Best Ways to Blur Zoom Background for Free for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-enable-the-motion-blur-effect-while-playing-dying-light-2-read-this-article-to-find-out-how-to-use-dying-light-2-motion-blur-for-a-gr/"><u>In 2024, Do You Want to Enable the Motion Blur Effect While Playing Dying Light 2? Read This Article to Find Out How to Use Dying Light 2 Motion Blur for a Great Gaming Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-duckduckgo-a-secure-search-engine-what-you-need-to-know/"><u>Is DuckDuckGo a Secure Search Engine? What You Need to Know</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-id/"><u>New 2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>New In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-export-video-in-filmora/"><u>New In 2024, How To Export Video in Filmora</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pixel-perfection-expert-tips-on-iphone-photo-editing/"><u>Pixel Perfection Expert Tips on iPhone Photo Editing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-a-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated A Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-introduction-to-luts-their-overview-and-benefits/"><u>Updated Introduction to LUTs Their Overview and Benefits</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-shoot-video-with-virtual-green-screen/"><u>Updated Shoot Video with Virtual Green Screen</u></a></li>
 </ul></div>
 

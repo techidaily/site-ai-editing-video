@@ -1,7 +1,7 @@
 ---
 title: Updated Create Glitch Text Effect
-date: 2024-09-28T02:43:33.263Z
-updated: 2024-10-02T17:47:18.701Z
+date: 2024-12-09T07:43:06.163Z
+updated: 2024-12-11T16:45:06.685Z
 tags: 
   - ai
   - animation videos
@@ -48,6 +48,10 @@ Step4 Select any glitch text effect and drop it into the Timeline above the vide
 Step5 Double-click on the glitch text effect located on Timeline and edit the text, style, and other parameters as per your preference. Click on Ok and play the video to see your edited video with the glitch text effect.
 
 ![customize text effect filmora](https://images.wondershare.com/filmora/article-images/2022/07/customize-text-effect-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Make Glitch Text Effect with Premiere Pro
 
@@ -103,13 +107,6 @@ Step5 Go to Properties Windows and click on Presets to select different types of
 
 ## Part 4\. Related FAQs about Glitch Text
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. How do you animate glitch text?
 
 If you want to animate glitch text for free, VSDC video editor is ideal as you can customize the effect on any text in simple steps. If you want to use a premium video editor, we recommend [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as there are various glitch text effects available to apply to any text on your video instantly.
@@ -133,33 +130,16 @@ Step2 Go to File> Import Media > Import Media Files to import the video clips wh
 ![go to file](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Go to Titles tab located at the top. From the left panel, click on Titles option. Search “glitch” in the search field and you will see all the glitch text effects that you can apply to the text in your video.
 
 ![fast glitch title filmora](https://images.wondershare.com/filmora/article-images/2022/07/fast-glitch-title-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Select any glitch text effect and drop it into the Timeline above the video clip exactly where you want the text and the effect to appear.
 
 ![drag glitch effects timeline filmora](https://images.wondershare.com/filmora/article-images/2022/07/drag-glitch-effects-timeline-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 Double-click on the glitch text effect located on Timeline and edit the text, style, and other parameters as per your preference. Click on Ok and play the video to see your edited video with the glitch text effect.
 
@@ -172,13 +152,6 @@ Adobe Premiere Pro is another renowned video editor where you can add glitch tex
 Step1 Launch Adobe Premiere Pro and go to New> Project to get started. Import your video and drop it into Timeline.
 
 ![import new project premiere](https://images.wondershare.com/filmora/article-images/2022/07/import-new-project-premiere.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Use the Type tool to write any text on your video to add glitch text effect. You should have a text layer on Timeline.
 
@@ -215,6 +188,10 @@ Step2 Use Type tool to write a text on the video. You can press Shift+T shortcut
 Step3 Double-click on the text layer on Timeline and go to Video Effects> Special FX and click on Glitch option.
 
 ![select glitch effects vsdc](https://images.wondershare.com/filmora/article-images/2022/07/select-glitch-effects-vsdc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 A window will appear where you can set the starting point, duration, and different parameters. Click on Ok button.
 
@@ -366,11 +343,19 @@ Choosing the right velocity edit maker helps you achieve the desired output in v
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Blur Background in Adobe Premiere Pro: Detailed Guide
 
 Premiere Pro is a powerful editing program that lets you create and edit clips using its wide range of features and tools to make professional-looking videos. The best thing about the software is that you can quickly blur the background of your footage to add a bit of depth and interest, as well as to make your subject stand out more.
 
 To make things simpler for you, we’ve compiled this comprehensive guide to walk you through the step-by-step process of **how to blur the background in Premiere Pro** so that you notice a big difference in your videos!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. Why Do You Need To Blur The Video Background?
 
@@ -397,6 +382,10 @@ Step2 In the next step, click the **“Window”** option from the top toolbar a
 In the Effects Panel, type **“Blur”** in the search bar and scroll down to find the **“Gaussian Blur”** effect. Drag and drop the effect on the clip in the timeline to apply.
 
 ![applying gaussian blur effect to blur video background in premiere pro](https://images.wondershare.com/filmora/article-images/2023/02/applying-gaussian-blur-effect-to-blur-video-background-in-premiere-pro.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Now, click **“Window”** in the top toolbar and select **“Effect Controls”** to open its panel. Scroll down to **“Gaussian Effect”** in the panel and increase the blurriness amount. This will make your entire clip blurry, including the subject/main element.If the edges of your clips become dark, checkmark the **“Repeat Edge Pixels”** option to resolve this issue.
 
@@ -446,6 +435,10 @@ Next, you'll need to add a Blur Effect to the clip. To do this, click the **"Eff
 
 ![adding background blur effect to video in filmora](https://images.wondershare.com/filmora/article-images/2023/02/adding-background-blur-effect-to-video-in-filmora.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Once the effect is downloaded, drag and drop it onto the video clip in the timeline and double, click it to open the **Effect** panel. Here, you can configure the background color, source width, luminance, scale level, background feather, and Alpha blurry settings.
 
 ![adjusting background blur parameters](https://images.wondershare.com/filmora/article-images/2023/02/adjusting-background-blur-parameters.png)
@@ -453,6 +446,10 @@ Step3 Once the effect is downloaded, drag and drop it onto the video clip in the
 Step4 In the final step, click the **"Export"** button, go to the **"Local"** tab, choose a file format and click **"Export"** again to save your final video clip on your PC.
 
 You can also export your video to your device, YouTube, Vimeo, or DVD.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -516,25 +513,11 @@ Essentially, the workflow will be slightly different for these two scenarios. It
 
 With that in mind, here is how to make a gaming montage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1) Decide Your Montage Story/Type
 
 Deciding your montage type beforehand helps clear your mind and create an epic gaming montage that will keep viewers watching. It allows you to choose the relevant video clips for your gaming montage.
 
 Choose the topic of the video and decide the length of each clip and the sequence of the clips. Be sure to put the most epic or funny clips in the last section of your video. And this will make your viewers watch the video until the end.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2) Record Your Gameplay Footage
 
@@ -565,6 +548,10 @@ Using copyrighted music tracks and uploading the video on social media platforms
 Navigate to Stock Media, where you'll find non-copyrighted music on Pixabay, and choose the one you prefer.
 
 ![How to make a game montage with Filmora - Choose Background Music](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Choose Background Music
 
@@ -778,6 +765,10 @@ DemixB set the gunshot in the montage video to the music tune. The track builds 
 
 Call of Duty: Modern Warfare
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. ShutteR's Gaming Montage
 
 In the gaming montage uploaded by ShutteR on his YouTube channel, he used velocity effects to enhance the video. You'll see that the transition in each scene is paired with adrenaline-pumping, speed-ramping effects.
@@ -785,13 +776,6 @@ In the gaming montage uploaded by ShutteR on his YouTube channel, he used veloci
 ShutteR used a slow-motion to highlight action in each scene, then speeds up again when he wants to fast out into the next scene.; this makes the video more engaging to keep viewers glued to their screens.
 
 ![Best Gaming Montage Example - ShutteR's Gaming Montage](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ShutteR's Gaming Montage
 
@@ -829,22 +813,22 @@ Use Filmora to edit and add effects to your video, including transitions and ove
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-unveiling-the-10-leading-christian-church-streamers/"><u>[New] 2024 Approved Unveiling The 10 Leading Christian Church Streamers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-mysterious-virtual-trove-anonymitys-hidden-gems-of-2023/"><u>[Updated] In 2024, The Mysterious Virtual Trove - Anonymity's Hidden Gems of 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mobile-video-experience-review-report/"><u>[Updated] Mobile Video Experience Review Report</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-try-these-10-music-video-templates-to-make-your-work-easy/"><u>2024 Approved Try These 10 Music Video Templates To Make Your Work Easy</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easily-sync-audio-with-video-with-filmora/"><u>Easily Sync Audio With Video With Filmora</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-zte-blade-a73-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-ideas-for-time-lapse-video/"><u>New Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-5-free-online-video-filter-editors/"><u>New Top 5 Free Online Video Filter Editors</u></a></li>
-<li><a href="https://discover-community.techidaily.com/passo-a-passo-para-maximizar-o-desempenho-do-windows-11-em-videojogos-um-guia-abrangente/"><u>Passo a Passo Para Maximizar O Desempenho Do Windows 11 Em Vídeojogos: Um Guia Abrangente</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/protecting-windows-11-from-online-dangers-a-comprehensive-guide-to-virus-prevention-and-digital-security/"><u>Protecting Windows 11 From Online Dangers: A Comprehensive Guide to Virus Prevention and Digital Security</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-hardware-drivers-with-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Reinstall hardware drivers with Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/snap-a-caption-seamless-integration-of-text-on-windows-and-mac-pics-for-2024/"><u>Snap a Caption Seamless Integration of Text on Windows & Mac Pics for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-fast-track-easy-driver-update-techniques-for-your-gtx-1660-graphics-card/"><u>The Fast Track: Easy Driver Update Techniques for Your GTX 1660 Graphics Card</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-if-you-are-a-marketer-who-want-to-create-facebook-ads-to-boost-your-business-you-are-coming-to-the-right-place-well-share-you-some-useful-tips-to-st/"><u>Updated If You Are a Marketer Who Want to Create Facebook Ads to Boost Your Business, You Are Coming to the Right Place. Well Share You some Useful Tips to Start Your First FB Ads Campaign</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-blur-photo-with-gimp-step-by-step-guide/"><u>Updated Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-persona-5-strikers-crashing-on-pc/"><u>[Solved] Persona 5 Strikers Crashing on PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-bridging-the-gap-incorrancing-youtube-links-within-presentation-software/"><u>[Updated] Bridging the Gap Incorrancing YouTube Links Within Presentation Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-camera-drones-10-filmmakers-dream-fleet/"><u>[Updated] Premier Camera Drones #10 Filmmakers' Dream Fleet</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-motion-blur-photo-with-gimp-step-by-step-guide/"><u>2024 Approved Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-steps-to-create-makeup-videos/"><u>2024 Approved Steps to Create Makeup Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-add-green-screen-eff/"><u>Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-problems-get-your-game-on-restore-sounds-for-anthem-in-windows-11-now/"><u>Audio Problems? Get Your Game On - Restore Sounds for Anthem in Windows 11 Now</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/captivate-viewers-designing-engaging-youtube-trailers-with-filmora/"><u>Captivate Viewers Designing Engaging YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://driver-error.techidaily.com/demystifying-the-legacy-usb-composite-device-issue-a-complete-guide/"><u>Demystifying the Legacy USB Composite Device Issue - A Complete Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-infuse-photo-radiance-distortion-in-adobe-cs/"><u>In 2024, Infuse Photo Radiance Distortion in Adobe CS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-depth-analysis-of-inshots-features-and-rankings/"><u>In-Depth Analysis of InShot's Features and Rankings</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-transitions-in-adobe-premiere-pro/"><u>New How to Add Transitions in Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-in-canva-editor/"><u>New How to Loop a Video in Canva Editor</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/this-article-aims-to-show-you-how-to-improve-your-lighting-in-the-sun/"><u>This Article Aims to Show You How to Improve Your Lighting in the Sun</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-20-must-try-youtube-tricks-to-boost-views/"><u>Unveiling 20 Must-Try YouTube Tricks to Boost Views</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-8-best-sites-to-get-glitch-transition-for-premiere-pro/"><u>Updated In 2024, 8 Best Sites to Get Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-create-the-night-to-day-effect-videos/"><u>Updated In 2024, Create the Night-to-Day Effect Videos</u></a></li>
 </ul></div>
 

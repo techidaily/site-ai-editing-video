@@ -1,7 +1,7 @@
 ---
 title: "Heroic Measures Against a Corrupted Disk in Steam Games: A Simple Fix Guide"
-date: 2024-12-01T11:26:48.947Z
-updated: 2024-12-05T23:14:21.744Z
+date: 2024-12-06T18:23:20.789Z
+updated: 2024-12-11T21:38:29.160Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -91,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
@@ -100,9 +92,17 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -122,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -135,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
 
@@ -158,13 +158,13 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -188,16 +188,21 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-zoom-breakout-rooms-for-newcomers-explored-for-2024/"><u>[Updated] Zoom Breakout Rooms for Newcomers Explored for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-11-tips-to-make-product-ad-videos/"><u>2024 Approved 11 Tips to Make Product Ad Videos</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elite-selection-of-portable-powerful-minis-for-serious-gamers/"><u>Elite Selection of Portable, Powerful Minis for Serious Gamers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723001881798-freezing-glitch-in-cyberpunk-2nk7-fixed-play-without-issues/"><u>Freezing Glitch in Cyberpunk 2Nk7 Fixed - Play Without Issues</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-15-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 15 Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-way-to-add-transitions-to-videos/"><u>In 2024, Easy Way to Add Transitions to Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-glitch-text-effect-for-2024/"><u>New Create Glitch Text Effect for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-time-lapse-to-normal-video/"><u>New In 2024, How to Convert Time-Lapse to Normal Video</u></a></li>
-<li><a href="https://article-helps.techidaily.com/perfect-your-intro-practical-tips-and-example-scripts/"><u>Perfect Your Intro Practical Tips & Example Scripts</u></a></li>
-<li><a href="https://article-posts.techidaily.com/uncover-the-past-your-complete-guide-to-digitizing-and-preserving-old-photographs-for-2024/"><u>Uncover the Past Your Complete Guide to Digitizing & Preserving Old Photographs for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-effortless-offline-viewing-how-to-save-youtube-videos-for-iphoneipad/"><u>[New] In 2024, Effortless Offline Viewing How to Save YouTube Videos for iPhone/iPad</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-photo-narrative-directors-set/"><u>[Updated] Pinnacle Photo Narrative Director's Set</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-soundscapes-free-from-restrictions/"><u>[Updated] Soundscapes Free From Restrictions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-10-best-sony-lut-for-different-purposes/"><u>2024 Approved 10 Best Sony LUT for Different Purposes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-cont/"><u>2024 Approved Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-6-drones-for-videography/"><u>2024 Approved Top 6 Drones for Videography</u></a></li>
+<li><a href="https://os-tips.techidaily.com/affordable-popsockets-iphone-case-with-built-in-magsafe-wallet-at-a-great-value/"><u>Affordable PopSockets iPhone Case with Built-In MagSafe Wallet at a Great Value</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/efficient-methods-for-tracking-screen-activity-on-android-phones/"><u>Efficient Methods for Tracking Screen Activity on Android Phones</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x7-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X7 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-in-canva/"><u>New 2024 Approved How to Add Subtitles in Canva?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-use-rule-of-thirds-in-video/"><u>New In 2024, How to Use Rule of Thirds in Video</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pinnacle-stock-for-premium-vector-designs/"><u>Pinnacle Stock for Premium Vector Designs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/pixel-7a-music-recovery-recover-deleted-music-from-pixel-7a-by-fonelab-android-recover-music/"><u>Pixel 7a Music Recovery - Recover Deleted Music from Pixel 7a</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-3-simple-methods-to-burn-your-favorite-videos-to-dvd-on-windows-and-mac/"><u>Updated 3 Simple Methods to Burn Your Favorite Videos to DVD on Windows and Mac</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-secret-tips-and-tricks-to-use-in-filmora-for-2024/"><u>Updated Secret Tips & Tricks to Use in Filmora for 2024</u></a></li>
 </ul></div>
 

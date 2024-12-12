@@ -1,7 +1,7 @@
 ---
 title: Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024
-date: 2024-10-30T23:52:31.087Z
-updated: 2024-11-06T17:09:25.396Z
+date: 2024-12-11T07:56:28.923Z
+updated: 2024-12-12T12:31:39.310Z
 tags: 
   - ai
   - animation videos
@@ -23,6 +23,10 @@ If you've been searching for a simple way to dive into the realm of video filter
 * [Part 3: Best Alternatives](#part3)
 * [Part 4: Summary](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Use VN App Built-in Video Filters (LUTs)
 
 **_Step 1: Locate the Filters Feature_**
@@ -40,6 +44,10 @@ Tap on it and watch your video transform instantly. Not sure about your pick? No
 Okay, young director, you've chosen your filter. But what if you want to tweak it just a bit? VN's got your back.
 
 Once a filter is applied, you'll notice sliders or dials – these are your video filter editor tools. Play around with them! You can adjust the filter's intensity, making it as subtle or dramatic as you like. Tweak the brightness, contrast, and saturation until your video looks like you envisioned.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Download External Filter Installation Package
 
@@ -138,13 +146,6 @@ Filmora is more than just an editor; it's a canvas for videographers. One of its
 4. Like VN, Filmora allows you to tweak the filter settings for that perfect look.
 
 While Filmora is a great tool, the best fit depends on personal preferences and specific project needs. However, it's always good to have choices in your editing toolkit. Variety is, after all, the spice of life (and video editing)!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Summary
 
@@ -274,6 +275,10 @@ Under the "Effects" tab, go to "Filter & LUT." Choose the LUT that you want to a
 
 ![browse different luts](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Add the LUT to your video
 
 Add the LUT to your timeline by drag-n-drop.
@@ -372,13 +377,6 @@ With its user-friendly design, you can easily access all the tools you need to m
 
 Let's dig a little deeper to see how Filmora can benefit you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Benefits of Using Filmora
 
 Filmora, as compared to its contestants, has much more to offer. From a range of tools and effects to an easy-to-use interface to affordability, Filmora has it all!
@@ -402,13 +400,6 @@ Last but not least, the greatest catch of Wondershare Filmora is its affordabili
 With packages starting at just $49.99 per year to $79.99 perpetual, you can avail a multitude of features that update regularly and with every new version of Filmora. With these packages, you can get around 1GB of Filmora cloud storage.
 
 So, what are you waiting for? Download Filmora now. And don't worry; we have got you covered with some great tips to begin your Filmora journey.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Some Stunning Features in Filmora
 
@@ -434,6 +425,10 @@ On the top, go to "Templates" and then "Split Screen."
 
 ![split screen templates](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Choose the preset that you need. You can also preview the layout.
 
 ##### Step3Add to timeline
@@ -454,14 +449,11 @@ Once you have all the videos added to the layout, double-click on the split scre
 
 ![edit the split screen](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Choose how you want to edit your video and then save it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.Filters and LUTs
 
@@ -557,13 +549,6 @@ After adding the video to your timeline, go to the Effects tab on top.
 
 ![go to the effects tab](https://images.wondershare.com/filmora/article-images/2023/04/unlock-your-video-editing-potential-with-wondershare-filmora-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2Search for blur effects
 
 In the search bar, type "blur." You will see several blur effects. Choose any effect and see a preview of it.
@@ -643,10 +628,7 @@ Step2 Make sure to select a suitable text font and color to craft a vibrant outp
 ![choose the linear wipe option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Now add an adjustment layer to your timeline and select “Distort” from the “Effect” tab. From the “Distort” drop-down menu, choose “Turbulent Displace." After making its settings, such as adjusting the evolution time, head back to the “Effects” tab and select "Blur and Sharpen." From there, click on "Fast Box Blur."
@@ -707,6 +689,10 @@ Moreover, you can also add blur and matte effects for more modifications. You ca
 
 ![select the perspective effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Add Blur Effect
 
 There are various blur effects, such as Gaussian blur, motion blur, radial blur, etc. You can add any of the blur effects in your video clip to craft a smoother look. In After Effects, you can find a variety of blur effects that can help you change your video's perspective. To use an adjustment layer for adding the blur effect, here are the accurate steps:
@@ -714,13 +700,6 @@ There are various blur effects, such as Gaussian blur, motion blur, radial blur,
 Step1 Once you have imported the video clip to the timeline of After Effects, add an adjustment layer. Afterward, go to the "Effects" tab and locate any of your preferred effects, such as Gaussian blur. After locating this effect, apply it to the adjustment layer.
 
 ![add the required blur effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layers-in-after-effects-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 After applying the effect to the adjustment layer, you can change its settings from the left side. From the left panel, you can change the blurriness value and blur dimensions according to your choice.
 
@@ -750,13 +729,6 @@ When it comes to editing recorded videos like professionals, Adobe Premiere Pro 
 
 Video filters are widely used in the editing phase to correct the color and light imbalances and set the mood for a particular scene so that the audience can reach the desired state of emotion. Premiere Pro has a wide range of preset filters that you can add to your videos to enhance them like never before. We will illustrate how to add filters on Premiere Pro and suggest an alternative way to add video filters for Windows and Mac users.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. Steps to Add Filter in Premiere Pro?
 
 Premiere Pro comes with a wide range of present filters so that you can adjust the color grading for different scenes in your video. If you are new to using Premiere Pro and you are not a professional video editor, you could find its learning curve on the steeper side. However, you can add video filters in Premiere Pro instantly. Here are the steps on how to add a filter in Premiere Pro.
@@ -764,6 +736,10 @@ Premiere Pro comes with a wide range of present filters so that you can adjust t
 Step1Launch Premiere Pro on your computer. Go to File> Import to bring in the video clip that you want to edit. Move the video clip from Project panel into Timeline.
 
 ![import video ito premiere pro.jpg](https://images.wondershare.com/filmora/article-images/2022/08/import-video-ito-premiere-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2Go to Effects tab from the top and open Lumetri Presets folder. You will find different categories of filters and effects such Cinematic, Desaturation, Style, Temperature and much more. Open up these categories and drag and drop any desired filter into the Timeline. The video filter will get applied to your video automatically.
 
@@ -784,6 +760,10 @@ The wide range of filters available on Filmora outshines Premiere Pro. Most impo
 Step1Download and install Wondershare Filmora which is available for Windows and Mac users. Launch [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and click on New Project option.
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2Drag and drop your video into Project Media folder and thereafter, into Timeline.
 
@@ -821,6 +801,10 @@ Text is an important part of any video and you need video filter presets to appl
 
 If you make videos for social media or you make informational videos, glitch effects must be in your videos. You can get quick attention of your audience with glitch effects, make scene transitions, and add some comedy scenes. Your video will have some extra kick and look more interesting to watch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 If you are using Adobe Premiere Pro to edit your videos, adding filters to your videos could be quite common. We have illustrated how to add filter to video in Premiere Pro to enhance your video quality and outlook. We have also listed the must-have free Premiere Pro filter presents. If you are looking for an alternative to add video filters, we recommend Wondershare Filmora.
@@ -847,22 +831,24 @@ If you are using Adobe Premiere Pro to edit your videos, adding filters to your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-make-eye-zoom-transition-effect-with-filmora/"><u>2024 Approved Make Eye Zoom Transition Effect with Filmora</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-official-hp-officejet-pro-n-6968-driver-now/"><u>Download the Official HP OfficeJet Pro N 6968 Driver Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-setup-of-samsung-m2070-drivers-top-picks-for-speed/"><u>Effortless Setup of Samsung M2070 Drivers – Top Picks for Speed</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/exuberant-echoes-of-july-4th-joy/"><u>Exuberant Echoes of July 4Th Joy</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-looking-for-cool-ideas-to-use-green-screen-and-how-setting-up-your-green-screen-keep-reading-since-we-have-the-answer-for-you/"><u>In 2024, Are You Looking for Cool Ideas to Use Green Screen and How Setting up Your Green Screen? Keep Reading Since We Have the Answer for You</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-a-green-screen-to-zoom/"><u>In 2024, How to Add a Green Screen to Zoom</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-expression-in-after-effects/"><u>In 2024, How to Add Expression in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-font-effect/"><u>In 2024, How to Add Font Effect</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-merge-audio-and-video-in-vlc-media-player/"><u>In 2024, How to Merge Audio and Video in VLC Media Player</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-avi-video-cutting-made-easy-top-16-tools-for-windows-mac-android-iphone-and-online/"><u>New 2024 Approved AVI Video Cutting Made Easy Top 16 Tools for Windows, MAC, Android, iPhone, and Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-change-background-color-in-after-effects/"><u>New Change Background Color in After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/streamlining-revenue-adsense-tips-for-youtubers-for-2024/"><u>Streamlining Revenue AdSense Tips for YouTubers for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-gamer-focused-smartphones-expert-review-by-zdnet/"><u>Top 5 Gamer-Focused Smartphones : Expert Review by ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-overcome-black-screen-error-in-far-cry-6/"><u>Ultimate Guide to Overcome Black Screen Error in Far Cry 6</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-new-wave-of-video-editing-with-powerdirector-24/"><u>[New] Unveiling the New Wave of Video Editing with PowerDirector '24</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-wirecast-vs-obs-which-is-better/"><u>[New] Wirecast Vs OBS Which Is Better?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-crafting-professional-grade-steam-gameplay-videos/"><u>[Updated] 2024 Approved Crafting Professional-Grade Steam Gameplay Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-clear-the-clutter-blurring-backgrounds-for-engaging-yt/"><u>[Updated] How to Clear the Clutter Blurring Backgrounds for Engaging YT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-saving-big-on-final-cut-pro-without-paying/"><u>[Updated] Saving Big on Final Cut Pro without Paying</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030193011-iso/"><u>「ISO形式」ファイル切り分けに最適な２つの手段</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-blender-green-screen/"><u>2024 Approved How to Use Blender Green Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-know-how-you-can-trim-or-merge-using-wondershare-filmora-trimming-and-merging-using-this-tool-is-an-easy-task-learn-how-for-2024/"><u>Do You Know How You Can Trim or Merge Using Wondershare Filmora? Trimming and Merging Using This Tool Is an Easy Task; Learn How for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-steps-to-loop-youtube-videos-on-iphone/"><u>Easy Steps to Loop YouTube Videos on iPhone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-process-to-revamp-your-scansnap-ix5e-driver-compatibility-on-windows-systems/"><u>Hassle-Free Process to Revamp Your ScanSnap iX5e Driver Compatibility on Windows Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-fade-in-text-in-adobe-premiere-pro-for-2024/"><u>How to Fade in Text in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-strobe-light-text-effect-in-2024/"><u>How to Make Strobe Light Text Effect, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-online-changers/"><u>In 2024, Recommended Video Background Online Changers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-steps-to-add-subtitles-in-canva/"><u>In 2024, Steps to Add Subtitles in Canva</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-easy-steps-to-export-video-in-filmora/"><u>New 2024 Approved Easy Steps to Export Video in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-creating-motivational-videos-with-ai-comprehensive-guide-2024/"><u>New Creating Motivational Videos with AI Comprehensive Guide 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/preserve-and-organize-transforming-snaps-into-gallery-photos/"><u>Preserve and Organize Transforming Snaps Into Gallery Photos</u></a></li>
+<li><a href="https://techidaily.com/reset-this-pc-windows-11-when-and-how-to-use-it/"><u>Reset This PC Windows 11 - When & How to Use It</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/third-party-ai-tools-security-or-red-flag/"><u>Third-Party AI Tools: Security or Red Flag?</u></a></li>
 </ul></div>
 

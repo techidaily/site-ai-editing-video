@@ -1,7 +1,7 @@
 ---
 title: "Exploring Flexus 200: A Revolutionary Audio Experience"
-date: 2024-12-03T23:53:12.374Z
-updated: 2024-12-06T11:54:50.454Z
+date: 2024-12-09T16:14:31.561Z
+updated: 2024-12-12T09:52:55.472Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring Flexus 200: A Revolutionary Audio Experience"
@@ -40,13 +40,13 @@ Lifewire / Jeremy Laukkonen
 
 4.8
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Omni 20+ Wireless Power Bank
 
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/_EV0MTLRfFPHdqFJ2gKyMJff5YY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-HERO-SQ-e459d44e1a2c432f80fec058b858ccfe.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -77,10 +77,6 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Slick all-black appearance that’s dulled a bit by soft-touch rubber**
 
  The Omni 20+ is a great looking device, with an all-black case and gem-cut edges that fit in nicely when used alongside my[HP Spectre x360](https://www.lifewire.com/hp-spectre-x360-15t-touch-laptop-review-4773540) . The top and bottom are completely bereft of any markings, hiding the presence of a Qi wireless charger hidden in the top, and the labels that it does have for inputs and outputs are understated.
@@ -92,6 +88,10 @@ Lifewire / Jeremy Laukkonen
  The USB-C port is capable of fast charging some devices and providing up to 60W of power.
 
  For a premium device with a premium price like the Omni 20+, I’d like to see a different material used for the case.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Initial Setup: Frustrating due to a lack of documentation**
 
@@ -109,7 +109,15 @@ Lifewire / Jeremy Laukkonen
 
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/QOfV3Sc5THi3Z0gKZq0e-ciPUEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-5-000854ae3c4347b7adc13130dcb9d1b9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Display: Crisp and easy to read, but confusing**
 
@@ -134,7 +142,7 @@ Lifewire / Jeremy Laukkonen
  On the front of the power bank, next to the display, you’ll find two USB-A ports. These ports are capable of charging all your standard USB devices. One is a Qualcomm 3.0 compatible quick charge port, and the other is a standard USB port that’s capable of putting out up to 3A.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Battery: Decent battery capacity for the size**
@@ -153,10 +161,6 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Charging Speed: True fast charging available for some USB-C devices**
 
  For the most part, the Omni 20+ is able to charge each device as fast as it’s designed to be charged. Older devices that charge over standard USB-A ports will draw between 1 and 3 A, depending on the device, and charge quite slowly. But if you have a Qualcomm 3.0 compatible device, you can plug it into the appropriate USB port and enjoy faster charging.
@@ -171,13 +175,13 @@ Lifewire / Jeremy Laukkonen
 
  The built-in Qi charger is capable of putting out 10 watts, and I found it to work just as well as other 10 watt Qi chargers I’ve used. It is a bit touchy in terms of positioning, but I was able to get the hang of it pretty fast.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: High end**
 
  With an MSRP of $200, Omni 20+ is a high-end battery bank with a high-end price. You get a whole lot of functionality for that price, but the device does lag behind in terms of both battery capacity and included accessories. The glaring issue is that you can find more powerful battery banks for less money, even if you won’t find one with the exact same functionality.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Omni 20+ vs. Pilot Pro 2**
 
@@ -194,10 +198,6 @@ Lifewire / Jeremy Laukkonen
  **Fantastic functionality, decent battery capacity, and frustrating setup experience.**
 
  The Omnicharge Omni 20+ is one of the best power banks out there, and it had better be for the price they’re asking. This is the power bank you need if you count a high wattage USB-C port, barrel connector input and output, wireless charging, and a standard power outlet among your needs. You can find cheaper power banks that provide more juice, but you won’t find one with this same feature set.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -225,16 +225,18 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-best-in-class-premium-screenshots-and-recorders/"><u>[Updated] In 2024, Best in Class Premium Screenshots & Recorders</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-easy-steps-to-create-intro-video-with-after-effects/"><u>2024 Approved Easy Steps to Create Intro Video with After Effects</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-the-art-of-restarting-disrupted-fb-live-sessions/"><u>2024 Approved Mastering the Art of Restarting Disrupted FB LIVE Sessions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/best-11-tools-for-perfecting-your-fb-profile-pics-for-2024/"><u>Best 11 Tools For Perfecting Your FB Profile Pics for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-honor-x7b-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Honor X7b FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-youtube-comeback-kid-jake-pauls-story/"><u>In 2024, The YouTube Comeback Kid Jake Paul’s Story</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-ideas-for-time-lapse-video/"><u>New 2024 Approved Ideas for Time-Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-add-transition-effects-in-premiere-pro/"><u>New Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-save-as-mp4-file-on-windows-movie-maker/"><u>New How to Save As MP4 File on Windows Movie Maker?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-x7b-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor X7b Device</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-mirror-a-video-clip-in-premiere-pro/"><u>Updated 2024 Approved How To Mirror a Video Clip in Premiere Pro</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-compiling-individual-iphone-video-pieces/"><u>[New] Compiling Individual iPhone Video Pieces</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-viral-laughter-lab/"><u>[Updated] In 2024, Viral Laughter Lab</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-transforming-your-facebook-history-a-look-back-video-guide-for-2024/"><u>[Updated] Transforming Your Facebook History A Look Back Video Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-100plus-best-tiktok-captions-enhance-your-content/"><u>2024 Approved 100+ Best TikTok Captions Enhance Your Content</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-windows-movie-maker-save-mp4-file/"><u>2024 Approved How Windows Movie Maker Save MP4 File</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-fixing-invisible-comments-on-youtube-posts/"><u>Expert Tips for Fixing Invisible Comments on YouTube Posts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-7-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 7 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-editsuite-evaluation-detailed-article/"><u>In 2024, EditSuite Evaluation – Detailed Article</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-s17e-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo S17e Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-how-to-create-luts-with-luts-generator/"><u>New 2024 Approved Learning How to Create LUTs with LUTs Generator</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-is-windows-movie-maker-still-available/"><u>Updated Is Windows Movie Maker Still Available?</u></a></li>
 </ul></div>
 

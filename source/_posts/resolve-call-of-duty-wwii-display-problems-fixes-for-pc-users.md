@@ -1,7 +1,7 @@
 ---
 title: "Resolve Call of Duty: WWII Display Problems - Fixes for PC Users"
-date: 2024-12-01T08:49:16.253Z
-updated: 2024-12-05T22:57:24.629Z
+date: 2024-12-10T03:13:11.617Z
+updated: 2024-12-11T23:48:15.631Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ There is nothing more frustrating than buying a video game and not being able to
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Relaunch_BO4_ from the Blizzard.net app to test your issue.
 
 If your issue persists, don’t fret. Move on to the next fix below.
@@ -77,6 +73,10 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you can’t click the button, or if rolling back to the previous version didn’t fix your issue, then move on and try updating your graphics driver.
 
 ---
@@ -95,10 +95,6 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-11-22_9-48-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-11-28_12-21-06.jpg)
@@ -109,10 +105,6 @@ If your issue persists, don’t fret. Move on to the next fix below.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch your game to test your issue. If your game is still unplayable, then go ahead with the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Reset in-game settings
 
@@ -125,7 +117,7 @@ If your issue persists, don’t fret. Move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-34.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the **Game Settings tab** \>**Reset in-Game Options** .
@@ -136,19 +128,11 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_15-00-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Click **Done** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-55-1.jpg)
 
  Try launching your game to see if this helped. If your issue persists, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Delete game cache files
 
@@ -162,10 +146,6 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-701.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo Key and R**  st the same time to open the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
@@ -173,6 +153,10 @@ If your issue persists, don’t fret. Move on to the next fix below.
 **4)**  Type **%ProgramData%** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-04_12-31-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Highlight and delete the **Blizzard Entertainment**  and **Battle.net folder** .
 
@@ -223,6 +207,10 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-32-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Uncheck the box next to **Load startup items** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-44.jpg)
@@ -231,6 +219,10 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-01.jpg)
@@ -238,10 +230,6 @@ If your issue continues to occur, try performing a clean boot on your PC.
 **6)** Click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)**  Click the **Startup tab.**
 
@@ -253,13 +241,13 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-36.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **9)** Click **Restart** and wait for your computer to restart.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-45.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **10)**  After your computer restarts, relaunch your game to test your issue.
 
@@ -279,6 +267,10 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-36-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Type **msconfig**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-32-15-1.jpg)
@@ -287,13 +279,13 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-37-21.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click the **Services tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-38-25.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Click **Enable all,** then click **OK** .
 
@@ -302,6 +294,10 @@ If your issue continues to occur, try performing a clean boot on your PC.
 **6)**  Click **Restart** . (Your computer will start normally after you finish this step.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-40-28.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If your game still won’t launch, move on to the next fix.
 
@@ -312,6 +308,10 @@ If your game still won’t launch, move on to the next fix.
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-31-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -347,21 +347,20 @@ If the issue persists, try the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-channel-upgrade-plans-standard-studio-or-beta-revolution-for-2024/"><u>[Updated] Channel Upgrade Plans Standard Studio or Beta Revolution for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-selecting-excellent-backgrounds-for-video-calls/"><u>[Updated] In 2024, Selecting Excellent Backgrounds for Video Calls</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-kinetic-typography-text-effect-easyandfast/"><u>2024 Approved Kinetic Typography Text Effect 【EASY&FAST】</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/g-subtitles-a-step-by-step-youtube-video-approach/"><u>Adding Subtitles A Step-by-Step YouTube Video Approach</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-image-jpgpng-to-gif-converters/"><u>Best Image (JPG/PNG) to GIF Converters</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/driving-engagement-on-instagram-a-step-by-step-guide/"><u>Driving Engagement on Instagram A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-interpersonal-abilities-top-5-communication-skills-for-success-in-technology-positions-insights-from-zdnet/"><u>Essential Interpersonal Abilities: Top 5 Communication Skills for Success in Technology Positions - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-leading-cloud-storage-vendors-a-comparative-pricing-analysis/"><u>In 2024, Leading Cloud Storage Vendors A Comparative Pricing Analysis</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-use-montage-with-these-movies/"><u>In 2024, Learn to Use Montage with These Movies</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2-methods-to-cut-video-in-vlc-on-windows/"><u>New 2 Methods to Cut Video in VLC on Windows</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-applying-the-effect-of-camera-shake-in-video-creation/"><u>New Applying the Effect of Camera Shake in Video Creation</u></a></li>
-<li><a href="https://win-blog.techidaily.com/smooth-sailing-for-gamers-overwatch-driver-issues-corrected/"><u>Smooth Sailing for Gamers: Overwatch Driver Issues Corrected</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unleashing-potential-channel-building-mastery-for-2024/"><u>Unleashing Potential Channel Building Mastery for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-videos-with-imovie/"><u>Updated 2024 Approved How to Loop Videos with iMovie</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-lumafusion-offers-various-look-up-table-presets-or-luts-such-as-filmic-delog-and-filmic-deflat-and-several-stylistic-luts-for-use-with-neutral-use-v/"><u>Updated LumaFusion Offers Various Look Up Table Presets, or LUTs, Such as FiLMiC deLog and FiLMiC DeFlat, and Several Stylistic LUTs for Use with Neutral Use Video. You Can Also Manually Add the LUTs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/vlcmovmp4/"><u>VLCメディアプレーヤーでMOVファイルをMP4形式に変換するための専門的なガイド</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-creative-capture-of-sims-4-sagas-innovative-ways-to-record-your-journey/"><u>[New] 2024 Approved Creative Capture of Sims 4 Sagas Innovative Ways to Record Your Journey</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-picks-for-the-best-android-image-correction-tools-5-choices/"><u>[New] 2024 Approved Top Picks for the Best Android Image Correction Tools (5 Choices)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-efficient-techniques-to-snap-up-twitter-gifs-for-2024/"><u>[New] Efficient Techniques to Snap Up Twitter Gifs for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-gain-massive-viewership-with-a-small-financial-investment/"><u>[New] Gain Massive Viewership with a Small Financial Investment</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-audiovisual-excellence-youtube-videos-in-premiere-pro/"><u>[New] In 2024, Audiovisual Excellence YouTube Videos in Premiere Pro</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unveiling-cosmic-divides-metaverse-and-multiverse-explained-for-2024/"><u>[New] Unveiling Cosmic Divides Metaverse and Multiverse Explained for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-make-your-background-disappear-and-replace-with-an-attractive-background-here-is-how-to-add-a-green-screen-to-zoom-app-and-add-any-virtual-ba/"><u>Do You Want to Make Your Background Disappear and Replace with an Attractive Background? Here Is How to Add a Green Screen to Zoom App and Add Any Virtual Background of Your Choice</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-be-aware-of-vhss-meaning-there-is-nothing-to-be-worried-about-because-we-will-guide-you-in-this-article/"><u>In 2024, Do You Want to Be Aware of VHSs Meaning? There Is Nothing to Be Worried About because We Will Guide You in This Article</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>New 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-film-a-slow-motion-video/"><u>New 2024 Approved How To Film a Slow Motion Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review-for-2024/"><u>New VSDC Free Video Editor Review for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rt-of-ad-driven-earnings-ajays-youtube-strategy/"><u>The Art of Ad-Driven Earnings Ajay's YouTube Strategy</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/uniting-communication-and-visuals-a-detailed-plan-for-slack-plus-filmora-meetings-for-2024/"><u>Uniting Communication & Visuals A Detailed Plan for Slack + Filmora Meetings for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-3-best-effects-to-appear-on-camera/"><u>Updated In 2024, 3 Best Effects to Appear on Camera</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>Updated Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
 </ul></div>
 

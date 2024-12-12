@@ -1,7 +1,7 @@
 ---
 title: Fixing Performance Lags & Stutter in Modern Warfare 2 on Windows Systems
-date: 2024-11-30T00:14:14.070Z
-updated: 2024-12-06T12:06:43.886Z
+date: 2024-12-04T18:58:32.614Z
+updated: 2024-12-11T22:41:40.051Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
  Released in early 2020, Warzone is still one of the hottest FPS in 2021\. But the game is never problem-free, and many players are still reporting that**the game isn’t using GPU** . If you’re on the same boat, don’t worry. Here’re some working fixes that can help you get everything back on track.
 
  Before troubleshooting, you should**try different hardware monitors** to see if it’s just a false alarm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
  If the latest GPU driver doesn’t give you luck, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Install all Windows updates
@@ -70,6 +66,10 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
@@ -79,7 +79,7 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -89,7 +89,7 @@ Once done, restart your PC and see if Warzone is using your GPU.
  If updating your system doesn’t help, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change settings in your graphics control panel
@@ -99,6 +99,10 @@ Once done, restart your PC and see if Warzone is using your GPU.
 1. Right-click the empty area of your desktop and select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, click**Manage 3D settings** . Click**CUDA – GPUs** and select your graphics card. Then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
@@ -116,26 +120,26 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![how to disable hardware accelerated GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2020/10/display-settngs.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (By default it’s_%USERPROFILE%\\Documents\\Call of Duty Modern Warfare_ )  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-warzone-browse.jpg)
 4. Click**Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-1.jpg)
 5. In the pop-up window, select**High performance** and click**OK** to apply the settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-2.jpg)
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this setting doesn’t help, take a look at the next solution below.
 
@@ -147,10 +151,6 @@ Once done, restart your PC and see if Warzone is using your GPU.
 2. Navigate to the**GRAPHICS** tab. Under the**Display** section, set**Display Mode** to**Windowed** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-windowed.jpg)
 3. Now check if the game runs as expected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -171,15 +171,20 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mac-enhancement-synchronized-screen-plus-audio-tracking/"><u>[New] 2024 Approved Mac Enhancement Synchronized Screen + Audio Tracking</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-finding-your-audio-foothold-podcasts-or-youtube-to-lean-on-for-2024/"><u>[New] Finding Your Audio Foothold Podcasts or YouTube to Lean On for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-jokeframe-creations-punpicture-studio/"><u>[New] JokeFrame Creations PunPicture Studio</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-masterclass-in-free-videochats-and-collaborative-screensharing-for-2024/"><u>[Updated] Masterclass in FREE Videochats & Collaborative Screensharing for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-track-mattes-the-ultimate-guide-for-after-effects/"><u>2024 Approved Track Mattes The Ultimate Guide For After Effects</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-spark-go-2023-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Tecno Spark Go (2023) to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-your-own-lol-montage-video-for-2024/"><u>New How to Create Your Own LOL Montage Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-legend-intro-maker-create-intro-video-with-ease/"><u>New In 2024, Legend Intro Maker – Create Intro Video with Ease</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-content-creati/"><u>New Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-choosing-chatgpt-can-be-your-smartest-move-for-health-tips/"><u>Why Choosing ChatGPT Can Be Your Smartest Move for Health Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sound-synchronization-secrets-for-instagram-savvy/"><u>[New] Sound Synchronization Secrets for Instagram Savvy</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-cutting-edge-openings-at-no-cost-the-best-youtube-intro-makers/"><u>[Updated] Cutting-Edge Openings at No Cost The Best YouTube Intro Makers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-logic-pros-approach-to-subtle-audio-dimming/"><u>[Updated] Logic Pro's Approach to Subtle Audio Dimming</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/benefits-of-live-streaming-on-youtube-for-2024/"><u>Benefits of Live Streaming on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/bridging-social-media-posting-tweets-on-fb-for-2024/"><u>Bridging Social Media Posting Tweets on FB for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-oled-mechanisms-for-enhanced-visual-experience/"><u>Demystifying OLED Mechanisms for Enhanced Visual Experience</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-zte-blade-a73-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my ZTE Blade A73 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-ninja-jump-effect-with-filmora/"><u>In 2024, How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-changers/"><u>In 2024, Recommended Video Background Changers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-different-ways-to-crop-tiktok-video-in-high-quality/"><u>New 2024 Approved Different Ways to Crop TikTok Video in High-Quality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>New How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-want-to-create-a-stunning-intro-video-on-your-smartphone-legend-intro-maker-is-a-popular-choice-learn-the-steps-to-design-intro-video-legend-intro-maker/"><u>New Want to Create a Stunning Intro Video on Your Smartphone? Legend Intro Maker Is a Popular Choice. Learn the Steps to Design Intro Video Legend Intro Maker</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-rotation-riddle-decoding-the-secrets-of-video-swapping-on-social-media-for-2024/"><u>The Rotation Riddle Decoding the Secrets of Video Swapping on Social Media for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-apply-gaussian-blur-effect-to-videos-in-premiere-pro/"><u>Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?</u></a></li>
 </ul></div>
 

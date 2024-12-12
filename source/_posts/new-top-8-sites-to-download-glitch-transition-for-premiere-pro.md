@@ -1,7 +1,7 @@
 ---
 title: New Top 8 Sites to Download Glitch Transition for Premiere Pro
-date: 2024-10-30T21:38:11.176Z
-updated: 2024-11-07T01:06:07.947Z
+date: 2024-12-11T06:11:12.117Z
+updated: 2024-12-12T11:56:33.357Z
 tags: 
   - ai
   - animation videos
@@ -47,13 +47,6 @@ One can also make a slideshow with Placeit and its spectacular glitch effects. A
 
 ![add screen glitch effects placeit](https://images.wondershare.com/filmora/article-images/2022/add-screen-glitch-effects-placeit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Adobe Stock
 
 Adobe Stock is another excellent website that offers you free glitch transition. The site supports a variety of applications and has some incredible effects. You will like the effect that is "Simple & Bold". As its name implies, the glitch effect is simple, yet it is highly bold because of the neon-bright colors.
@@ -70,13 +63,6 @@ The site works well with multiple programs, including After Effects and Premiere
 
 ![add glitch art effects motion elements](https://images.wondershare.com/filmora/article-images/2022/add-glitch-art-effects-motion-elements.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. MixKit
 
 With Mixkit, you can create unique and spectacular screen glitch effects.
@@ -90,6 +76,10 @@ Mixkit supports Premiere Pro and After Effects. You can easily employ its mind-b
 Videohive has over 7000 glitch templates. Each of the 7000 effects is unique and mind-blowing.
 
 On the other hand, Premiere Pro has some jaw-dropping aesthetic effects. You can use elegant and trendy ones like the urban opener, glitch transition, and many more on Premiere Pro. Videohive's Trailer effect is its most attractive feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Newest Glitch Transition Packs for Premiere Pro
 
@@ -149,6 +139,10 @@ If you also want to experiment with this video aspect, then you're at the right 
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: A Complete Overview of Adobe After Effects
 
 Before learning **how to slow mo in After Effects**, we want to introduce you to the software. [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) is a professional software designed to assist in post-production. Those unrealistic scenes you see in a sci-fi movie are its creation. Users can work with multiple effects categories to create animated scenes and titles.
@@ -177,13 +171,6 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 
 ![look for pixel motion](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Alternative: Slowing Down Video in Wondershare Filmora with Clarity
 
 Even though **slow-down footage After Effects** retains video quality, there are certain drawbacks. It is a professional video editing platform used by filmmakers. This means the software must have some technicalities and costs a fortune. Hence, we provide you with a simpler yet professional alternative called [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is a video editing software that offers multiple editing functions and effects.
@@ -210,13 +197,6 @@ Users can employ the manual speed adjustment option along with the automated slo
 Once you have downloaded Filmora, start it and click the “New Project” tab. After accessing the editing interface, click the “Import” button to download media. From the Project Media panel, drag and drop media to the timeline.
 
 ![add videos to timeline](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 2Access Uniform Speed Option
 
@@ -293,19 +273,6 @@ The software has undergone multiple updates since its creation. With each versio
 * **Motion Tracking:** Do you want to blur out or remove a person or scene throughout a video? With this feature, doing that is a piece of cake. Select the object-to-motion track and play the video from start to end. The tracker will detect the object's motion and add a specific effect throughout.
 * **Masking:** Many video editors offer masking options, but a few offer precision. Precision is very important during masking, and After Effects is a master of that. Along with different masking options, it offers custom settings to bring accuracy.
 * **Timeline Editing:** To see how professional software is, see if it has a timeline panel. Timeline editing is one of the functions that bring accuracy and professionalism. You can cut, align, apply effects, transitions, and much more on it.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: A Guide to Slow Down Video in Adobe After Effects During Editing
 
@@ -422,6 +389,10 @@ Does your video shake so much? Shaking movement on your camera is often inevitab
 
 But you don't need to worry. You can use a stabilization tool in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). A stabilization tool is a feature that can help to correct for camera shake and other types of movement. If you are a handheld shooter, you will find this tool extremely helpful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: When do you need to stabilize your video?
 
 Now, let's talk about when you should stabilize your video. If you're shooting something that is moving, like people or animals, you will definitely want to stabilize your video. This will help ensure that the video is smooth and steady.
@@ -478,6 +449,10 @@ As **Reflect** is the default, the **Extend** uses artificial intelligence to ex
 
 Besides the three, there is also the **Tile** option. Each of them would give a different result. You can try and use the one that works best for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Summary
 
 When you're shooting a video, you must have wanted it to be as smooth and stable as possible. By stabilizing your video, you can help ensure it's smooth and easy to watch.
@@ -503,13 +478,6 @@ Step4 Once it finishes analyzing, the smooth level will default to 10\. See the 
 **Before**
 
 ![before finish analyzing](https://images.wondershare.com/filmora/article-images/2022/12/stabilization-tool-in-filmora-3.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **After**
 
@@ -555,6 +523,10 @@ But before we learn how to create a YouTube intro, let's understand what makes a
 
 A good intro is a crucial feature of a good YouTube video. Whenever a viewer or a subscriber clicks on your video, the YouTube intro is the first thing they see. And a successful channel's secret is to captivate the viewer from the start.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What Goes Into a Creative YouTube Intro?
 
 A good YouTube intro consists of the following qualities:
@@ -565,6 +537,10 @@ A good YouTube intro consists of the following qualities:
 * **Catchy music:** To spice up the video and make it more pleasing, the music will be added to hook the audience in the intro section.
 
 You must have an engaging YouTube intro. You will need a few things to create a YouTube intro.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. What Do You Need to Make a Creative YouTube Intro?
 
@@ -628,6 +604,10 @@ After adding the opener to the timeline, your goal is to type in your text. This
 
 ![wondershare filmora editing intro opener](https://images.wondershare.com/filmora/article-images/2023/01/make-youtube-intro-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Then change the font of text if you want.
 * You can also edit the **sub-heading**. Here you can write a short description of your video.
 * Once you are done typing the text, click on **OK** to confirm your changes.
@@ -646,13 +626,6 @@ Music will spice up your intro video and give more pleasing effect. To proceed i
 * Play the opener from the start to confirm your changes.
 
 ![wondershare filmora adding music to the intro](https://images.wondershare.com/filmora/article-images/2023/01/make-youtube-intro-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This is how you can create an opener intro for your YouTube videos. Choose the graphics that most suit your video's vibe.
 
@@ -704,6 +677,10 @@ This will split your video clip into two parts. Now, you can delete whatever par
 
 ![wondershare filmora trimming the video clips](https://images.wondershare.com/filmora/article-images/2023/01/make-youtube-intro-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When you have trimmed your video clips to your liking, it's time to add the Title text that will act as an intro to your video!
 
 ##### Step4 Add The Title Text
@@ -739,16 +716,13 @@ To give more pleasing look and effect, you must add the music into it. Follow th
 
 ![wondershare filmora adding music to the intro](https://images.wondershare.com/filmora/article-images/2023/01/make-youtube-intro-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you are done adding the music, hit the play button to ensure everything is according to your need.
 
 ![final result](https://images.wondershare.com/filmora/article-images/2023/01/make-youtube-intro-9.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step7 Export The Video
 
@@ -893,6 +867,10 @@ To trim the video clips, follow the steps mentioned:
 This will split your video clip into two parts. Now, you can delete whatever part you like and keep the other one.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** To measure the time of the video clip, keep an eye on the **Time map** above the Playhead.
 
@@ -980,24 +958,18 @@ By following the steps mentioned in the article above, you can easily create You
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-recording-facebook-video-calls-4-methods/"><u>[New] In 2024, Recording Facebook Video Calls [4 Methods]</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unveiling-top-win11-videography-software-selections/"><u>[New] Unveiling Top Win11 Videography Software Selections</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-a-beginners-guide-to-producing-facebook-reels/"><u>[Updated] 2024 Approved A Beginner's Guide to Producing Facebook Reels</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-20-freepaid-luts-for-dji-mini-2air-2s-drone/"><u>2024 Approved 20 Free/Paid LUTS for DJI Mini 2/Air 2S Drone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-dos-and-donts-the-essential-night-photography-checklist/"><u>2024 Approved Do's & Don'ts The Essential Night Photography Checklist</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-nuances-of-snapchat-spotlight/"><u>2024 Approved Navigating the Nuances of Snapchat Spotlight</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-use-path-blur-in-photoshop-to-create-motion-effect/"><u>2024 Approved Use Path Blur In Photoshop To Create Motion Effect</u></a></li>
-<li><a href="https://driver-install.techidaily.com/compatible-canon-software-packs-for-new-windows-11-system/"><u>Compatible Canon Software Packs for New Windows 11 System</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-alliance-launchpad-for-series-x-clubs/"><u>Gamers' Alliance: Launchpad for Series X Clubs</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-green-screens-are-a-fun-way-for-creators-to-bring-their-personality-to-their-stream-allowing-them-to-dynamically-alter-their-stream-background-and-m/"><u>In 2024, Green Screens Are a Fun Way for Creators to Bring Their Personality to Their Stream, Allowing Them to Dynamically Alter Their Stream Background and Make Their Content Appear Even More Engaging and Polished</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-motion-tracking-in-video-editing/"><u>In 2024, How to Use Motion Tracking in Video Editing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-tutorial-how-to-add-motion-blur-in-blender/"><u>In 2024, Tutorial How To Add Motion Blur in Blender?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-crealitys-latest-milestone-a-colorful-addition-to-its-10year-legacy-in-3d-printing/"><u>Introducing Creality’s Latest Milestone: A Colorful Addition to Its 10Year Legacy in 3D Printing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/lumafusion-one-of-the-best-video-editors-for-ios/"><u>LumaFusion – One of the Best Video Editors for iOS</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-miniature-effect-in-video-with-filmora-for-2024/"><u>New How to Add Miniature Effect in Video with Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-apply-video-filters-mobile-and-desktop-for-2024/"><u>New How to Apply Video Filters Mobile and Desktop for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/steps-to-add-subtitles-in-canva/"><u>Steps to Add Subtitles in Canva</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-credit-card-readers-by-zdnets-tech-experts/"><u>Ultimate Guide to the Best Credit Card Readers by ZDNet's Tech Experts</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-11-tools-to-create-radial-blur-photo-mobile-and-desktop/"><u>Updated In 2024, 11 Tools To Create Radial Blur Photo Mobile And Desktop</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-win-and-mac-mp3-converter-unlock-your-music-from-youtube/"><u>[New] In 2024, Win & Mac MP3 Converter Unlock Your Music From YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-canva-collages/"><u>2024 Approved How to Make Canva Collages</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-creative-potential-in-gopro-4k-edits/"><u>2024 Approved Unleashing Creative Potential in GoPro 4K Edits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-jpgbmp-format-converter-online-professioneel-movivaaii/"><u>Gratis JPG/BMP Format Converter Online - Professioneel MoviVaaii</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-correcting-unrecognized-or-invalid-drivers-on-your-device/"><u>Guide to Correcting Unrecognized or Invalid Drivers on Your Device</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-get-green-screen-effects-on-your-video-without-green-screen-setup-in-your-background-learn-how-to-get-virtual-green-screen-background-and/"><u>New Do You Want to Get Green Screen Effects on Your Video without Green Screen Setup in Your Background? Learn How to Get Virtual Green Screen Background and Shoot Videos Like a Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects/"><u>New How To Make a Timelapse in After Effects</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-code-28-a-comprehensive-strategy-to-fix-common-issues-on-windows-pcs/"><u>Overcoming Code 28: A Comprehensive Strategy to Fix Common Issues on Windows PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photoshop-and-beyond-unlocking-visual-potential-with-luts-for-2024/"><u>Photoshop and Beyond Unlocking Visual Potential with Luts for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-a-perpetual-loading-loop-in-fortnite/"><u>Resolved: How to Fix a Perpetual Loading Loop in Fortnite</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-color-correction-basics-s-log-footage/"><u>Updated In 2024, Color Correction Basics (S-LOG Footage)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-vintage-film-effect-1980s-how-to-create/"><u>Updated Vintage Film Effect 1980S - How to Create</u></a></li>
 </ul></div>
 

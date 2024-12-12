@@ -1,7 +1,7 @@
 ---
 title: How To Quickly Create A Screen Print Effect In Photoshop Detailed Guide for 2024
-date: 2024-09-25T17:07:34.038Z
-updated: 2024-10-02T22:46:44.050Z
+date: 2024-12-09T02:11:06.105Z
+updated: 2024-12-12T03:52:07.803Z
 tags: 
   - ai
   - animation videos
@@ -76,13 +76,6 @@ Step6 Click the **“T”** icon from the left-hand side menu and set the font s
 
 ![click t icon](https://images.wondershare.com/filmora/article-images/2023/01/adding-text-to-the-canvas-in-photoshop.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Try removing the left-out white patches on the object using the **“Magic Eraser Tool”** to give a polished look to the print screen effect. Once you are satisfied, click the **“File”** option from the top toolbar panel and select **“Save As.”**
 
 Type in the file name and select the file type from the drop-down menu next to **“Save As Type.”** Choose the storage location, click **“Save”** to export your final project, and you’re done!
@@ -139,6 +132,10 @@ Open the App Store on your phone. Search for Wondershare Filmora, download and l
 
 ![filmora iphone](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 2: Import Video to Filmora**
 
 Once you open the Filmora app, tap the + button and import the video you want to edit from your photo library.
@@ -154,13 +151,6 @@ Once you have imported the video, slow it down to your desired speed. You have t
 Tap on the video clip, and at the bottom of the screen, select the speed slider. Adjust the slider to the right or left to adjust the speed of your video. Then tap Done, and save your video.
 
 ![uniform speed](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Method 2[**Use the Speed Ramping Feature**](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -183,6 +173,10 @@ You can opt for speeding up or slowing down the video based on what you specific
 Search for Wondershare Filmora in the Google Play Store. The app is available for Android devices running Android 7.0 or higher, making it compatible with a wide range of devices. Download and install the Filmora: AI Video Editor and Maker app on your Android phone. Start the app and follow the instructions to create a new or sign into an existing account.
 
 ![filmora android](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 2: Import Your Video into Filmora**
 
@@ -253,13 +247,6 @@ Tap on the video clip, and at the bottom of the screen, select the speed slider.
 The speed ramping feature will gradually change the speed of your video. When done right, speed ramps in a video add a cinematic feel and look. Tap on the video clip. Then tap on the Speed Ramping feature at the bottom of the screen. Use the graph that appears to set the speed ramp for your video. You may choose the presets already available or customize the speed based on your own desired setting. Tap Done when you are satisfied and save the video.
 
 ![speed ramping](https://images.wondershare.com/filmora/article-images/2023/easy-steps-to-slow-down-a-video-on-iphone-and-android-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 2.** **How to Make Slow Motion Videos on [Android with Filmora](https://play.google.com/store/apps/details): 2 Ways**
 
@@ -331,6 +318,10 @@ Step3 Tap on New Project “+” icon and select the Movie option to get started
 
 ![make a movie project imovie](https://images.wondershare.com/filmora/article-images/2022/11/make-a-movie-project-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 You should tap on the Video option and select the video that you want to put into a loop. After selecting a video, tap on Create Movie option.
 
 ![tap create movie imovie](https://images.wondershare.com/filmora/article-images/2022/11/tap-create-movie-imovie.jpg)
@@ -368,26 +359,6 @@ Step4 Drag and drop the video on your timeline. When you want to loop the video,
 Step5 Once you are done, go to File> Share> File option. Choose the destination to save the edited video.
 
 ![share video files imovie mac](https://images.wondershare.com/filmora/article-images/2022/11/share-video-files-imovie-mac.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. iMovie Alternative to Loop Videos on Mac
 
@@ -432,6 +403,10 @@ Step3 Drag and drop the video clip into the timeline again. Make sure that there
 ![drag and drop video clip into timeline again](https://images.wondershare.com/filmora/guide/cut-video-mac-02.jpg)
 
 Step4 You can zoom out the timeline for better viewing. Play the video to check its output on Viewer. Finally, click on the Export button and save the video in the desired file format on your Mac.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -485,18 +460,15 @@ In addition to this, it also creates RGB separations using beam recorders. Simil
 
 You might find many **Kodak 2393 LUT free download links**, but some of them are not authentic. Here is a list of authentic Kodak-inspired LUTs that you can download and use.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. [Kinetic](https://gamut.io/product/kinetic/)
 
 Kinetic LUT is a great preset inspired by the iconic Kodak 2383 and 2393 films. With Kinetic, you can bring a vibrant and dynamic color palette to your digital media. This LUT enhances shades such as deep blues and rich reds, adding depth and intensity to your visuals. Moreover, it creates dynamic shadows to bring a sense of richness and dimension to your content. It is a pack of 5 Kodak-inspired LUTs.
 
 ![kinetic kodak luts](https://images.wondershare.com/filmora/article-images/2023/kinetic-kodak-luts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. [Kodak Film 2383 - Vlog](https://freshluts.com/luts/109)
 
@@ -509,6 +481,14 @@ The Kodak Film 2383 - Vlog LUT is a perfect choice for adding a Kodak-inspired l
 The Kodak 2383 Print Film LUT allows you to create a modern cinematic look. You can use digital videos and transform them into old-style Kodak films look. Moreover, this LUT replicates the color grading of the Kodak 2383 print film. Additionally, it captures the essence of the original film stock, providing an authentic feel. It is a great LUT to make your video content look more natural.
 
 ![kodak print film lut](https://images.wondershare.com/filmora/article-images/2023/kodak-print-film-lut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. [Free LUTs Kodak Color](https://www.freepresets.com/product/free-luts-kodak-color/)
 
@@ -549,13 +529,6 @@ There are many great video editing software that exist in the market. [Wondersha
 In its newest update, Filmora has introduced over 200+ LUTs you can download and use. Filmora has expanded your creative color grading and adjustment options with this feature. These LUTs cover many styles, from bold and modern to retro and vintage looks. With such a vast selection, you can easily find the perfect LUT to match the mood and tone of your video project.
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-luts.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Filmora
 
@@ -591,6 +564,10 @@ The Kodak Film 2383 - Vlog LUT is a perfect choice for adding a Kodak-inspired l
 
 ![kodak film 2383 vlog](https://images.wondershare.com/filmora/article-images/2023/kodak-film-2383-vlog.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. [Kodak 2383 Print Film LUT](https://coloristfactory.com/2022/02/17/kodak-2383-print-film-lut-a-beginners-guide-to-the-world-of-kodak-2383-print-film-luts/)
 
 The Kodak 2383 Print Film LUT allows you to create a modern cinematic look. You can use digital videos and transform them into old-style Kodak films look. Moreover, this LUT replicates the color grading of the Kodak 2383 print film. Additionally, it captures the essence of the original film stock, providing an authentic feel. It is a great LUT to make your video content look more natural.
@@ -608,6 +585,10 @@ It is a collection of LUTs inspired by the iconic Kodak film look. LUTs Kodak Co
 The KODAK Film Emulation LUT is a collection of 16 cinematic LUTs. These LUTs are inspired by the iconic Kodak 2383 film. Furthermore, these LUTs allow you to achieve the timeless and distinctive look of Kodak film. Moreover, to increase the authenticity of Kodak films, this LUT highlights rich red and blue tones. This LUT replicates Kodak film stock to improve the character of your digital media files.
 
 ![kodak film emulation lut](https://images.wondershare.com/filmora/article-images/2023/kodak-film-emulation-lut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. [Kodak Film LUTs and Presets](https://www.etsy.com/listing/1322750660/17-kodak-film-presets-luts-color-grading?ga%5Forder=most%5Frelevant&ga%5Fsearch%5Ftype=all&ga%5Fview%5Ftype=gallery&ga%5Fsearch%5Fquery=kodak+lut&ref=sc%5Fgallery-1-2&sts=1&plkey=81c9f85e43953a98ed63ff773e5deaffd9a648eb%3A1322750660)
 
@@ -637,18 +618,15 @@ In its newest update, Filmora has introduced over 200+ LUTs you can download and
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-luts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features of Wondershare Filmora
 
 * Filmora offers complete video editing features to help you edit your videos. You can trim and merge clips and apply transitions. Moreover, you can add text and titles, import music and sound effects, and much more.
 * Furthermore, Wondershare Filmora provides advanced tools for precise control over your videos. You can adjust the brightness and contrast. Furthermore, you can control saturation and other parameters.
 * You can create dynamic animations and apply effects at any frame with keyframing. Moreover, using this feature, you can add effects to specific sections of your video.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -670,18 +648,19 @@ To conclude, using LUTs is a simple and effective way to transform your media fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-resolve-vanished-watch-video-icon-issue-2023/"><u>[Updated] 2024 Approved Resolve Vanished Watch Video Icon Issue, 2023</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-from-noisy-to-neat-cutting-out-clutter-on-photos/"><u>[Updated] From Noisy to Neat Cutting Out Clutter on Photos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-insta-growth-the-10-most-important-hashtags-now/"><u>[Updated] In 2024, Insta Growth The 10 Most Important Hashtags Now</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/drift-innovations-ghost-s-action-camera-review/"><u>Drift Innovations Ghost-S Action Camera Review</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/easy-guide-to-zoom-video-in-vlc/"><u>Easy Guide to Zoom Video in VLC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mejores-programas-gratuitos-para-transformar-videos-en-4k-seleccion-de-los-12-mas-efectivos/"><u>Mejores Programas Gratuitos Para Transformar Videos en 4K - Selección De Los 12 Más Efectivos</u></a></li>
-<li><a href="https://network-issues.techidaily.com/methods-to-eradicate-absence-of-displays/"><u>Methods to Eradicate Absence of Displays</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-create-chroma-key-written-text-effects-in-filmora/"><u>New Create Chroma Key Written Text Effects in Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
-<li><a href="https://article-tips.techidaily.com/ps-color-enhancement-simplified-approaches-for-2024/"><u>PS Color Enhancement Simplified Approaches for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-solving-the-issue-when-microsoft-store-doesnt-launch/"><u>Resolved: Solving the Issue When Microsoft Store Doesn't Launch</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-guide-removing-the-soundtrack-from-your-multilingual-film/"><u>Step-by-Step Guide: Removing the Soundtrack From Your Multilingual Film</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pushing-boundaries-with-dells-revolutionary-p2715q-monitor-review-for-2024/"><u>[New] Pushing Boundaries with Dell's Revolutionary P2715Q Monitor Review for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-soundscape-shifting-made-easy-unveiling-the-best-free-vocal-transformers-for-2024/"><u>[New] Soundscape Shifting Made Easy Unveiling the Best Free Vocal Transformers for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-uncomplicated-process-how-to-swiftly-eliminate-youtube-comments/"><u>[Updated] 2024 Approved Uncomplicated Process How to Swiftly Eliminate YouTube Comments</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-online-presence-secrets-of-youtube-live-with-wirecast-for-2024/"><u>[Updated] Elevate Your Online Presence Secrets of Youtube Live with WireCast for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-making-text-dance-2-creative-animation-strategies/"><u>[Updated] Making Text Dance 2 Creative Animation Strategies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-premier-5-digital-camera-background-swap-tools-iphone-photos-for-2024/"><u>[Updated] Premier 5 Digital Camera Background Swap Tools IPhone Photos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/exploring-flexus-200-a-revolutionary-audio-experience/"><u>Exploring Flexus 200: A Revolutionary Audio Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/fixing-performance-lags-and-stutter-in-modern-warfare-2-on-windows-systems/"><u>Fixing Performance Lags & Stutter in Modern Warfare 2 on Windows Systems</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/holiday-djing-essentials-prepping-with-pcdj-for-epic-festive-gigs/"><u>Holiday DJing Essentials: Prepping with PCDJ for Epic Festive Gigs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-magic-advanced-techniques-for-tiktok-videos/"><u>In 2024, Unlocking the Magic Advanced Techniques for TikTok Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/solution-to-stuttering-glitch-in-mass-effect-legendary-anthology-released/"><u>Solution to Stuttering Glitch in Mass Effect Legendary Anthology Released</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/troubleshooting-guide-for-common-minecraft-world-connection-errors/"><u>Troubleshooting Guide for Common Minecraft World Connection Errors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/unlock-more-fun-on-your-nes-classic-with-essential-game-installation-techniques/"><u>Unlock More Fun on Your NES Classic with Essential Game Installation Techniques</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vyncs-link-analysis-unrivaled-monitoring-capabilities-overshadowed-by-puzzling-pricing-structures/"><u>Vyncs Link Analysis: Unrivaled Monitoring Capabilities Overshadowed by Puzzling Pricing Structures</u></a></li>
 </ul></div>
 

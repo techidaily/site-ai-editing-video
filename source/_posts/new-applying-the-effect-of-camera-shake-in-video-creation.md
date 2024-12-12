@@ -1,7 +1,7 @@
 ---
 title: New Applying the Effect of Camera Shake in Video Creation
-date: 2024-10-31T00:22:22.916Z
-updated: 2024-11-06T22:56:05.037Z
+date: 2024-12-07T00:45:01.818Z
+updated: 2024-12-11T16:53:35.086Z
 tags: 
   - ai
   - animation videos
@@ -98,10 +98,7 @@ For adding motion blur in your **camera shake effect** video, uncheck the "Use C
 ![set shutter angle](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: A Step-by-Step Understanding of How To Create a Camera Shake Effect with Filmora
@@ -213,13 +210,6 @@ To add a camera shake effect, go to the "Effects" tab and click "Search Bar." Ne
 Finally, go to "Export" and manage "Format," "Preset," "Frame Rate," and other parameters of the video. Next, hit the "Export" button to save the video on your computer.
 
 ![execute camera shake effect on video](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -340,108 +330,9 @@ First, you need to create a close-up eye video. Although you can do that with yo
 
 ![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
 
-## How to Create an Eye-zoom Transition
-
-##### Step 1 Align the video clips on Filmora
-
-After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
-
-![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
-
-##### Step 2 Add a freeze frame to the video
-
-Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
-
-![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
-
-Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
-
-##### Step 3 Add a masking effect to the eye
-
-With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
-
-![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
-
-Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
-
-![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
-
-##### Step 4 Add the transition video
-
-Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
-
-With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
-
-![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
-
-After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
-
-## Summary
-
-There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-**_Preparation:_**
-
-First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
-
-![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
-
-## How to Create an Eye-zoom Transition
-
-##### Step 1 Align the video clips on Filmora
-
-After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
-
-![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
-
-##### Step 2 Add a freeze frame to the video
-
-Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
-
-![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
-
-##### Step 3 Add a masking effect to the eye
-
-With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
-
-![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
-
-Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
-
-![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
-
-##### Step 4 Add the transition video
-
-Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
-
-With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
-
-![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
-
-After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
-
-## Summary
-
-There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-**_Preparation:_**
-
-First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
-
-![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
 
 ## How to Create an Eye-zoom Transition
 
@@ -492,16 +383,7 @@ First, you need to create a close-up eye video. Although you can do that with yo
 ![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create an Eye-zoom Transition
@@ -541,11 +423,116 @@ With that done, move the playhead to the start of the freeze frame video and dou
 After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Summary
+
+There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+**_Preparation:_**
+
+First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
+
+![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
+
+## How to Create an Eye-zoom Transition
+
+##### Step 1 Align the video clips on Filmora
+
+After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
+
+![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
+
+##### Step 2 Add a freeze frame to the video
+
+Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
+
+![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
+
+Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
+
+##### Step 3 Add a masking effect to the eye
+
+With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
+
+![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
+
+Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
+
+![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
+
+##### Step 4 Add the transition video
+
+Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
+
+With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
+
+![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
+
+After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
+
+## Summary
+
+There you go! That's how to create an eye-zoom transition using Wondershare Filmora. Don't forget to play around with this feature-rich video editor to unlock its full capabilities. Enjoy!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+**_Preparation:_**
+
+First, you need to create a close-up eye video. Although you can do that with your digital camera, a standard smartphone should do it just fine. Just ask a friend or family member to use your phone's rear camera to record your eye centered on the screen. Ensure that the eye is as close as possible and you don't lose focus. The camera should be around 10cm away from your face. And lest I forget, the flash should be ON.
+
+![create a close-up eye video](https://images.wondershare.com/filmora/article-images/2023/01/close-up-eye-video.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## How to Create an Eye-zoom Transition
+
+##### Step 1 Align the video clips on Filmora
+
+After recording a close-up eye video, add it on Wondershare Filmora and duplicate it. Alternatively, you can add the video to the first and second tracks.
+
+![align the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-1.jpg)
+
+##### Step 2 Add a freeze frame to the video
+
+Next, we want to add a freeze frame to the section where the eye opens fully. To do that, select the second video track and place the playhead where the eye is fully open. After that, right-click the video track, then choose the **Add Freeze Frame** option.
+
+![add a freeze frame to the video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Now trim the first video track from where the freeze frame starts on the second video. Also, cut the second video track to leave only the freeze frame
+
+##### Step 3 Add a masking effect to the eye
+
+With the two video tracks ready, it's time to apply a masking effect. Tap the **Effect** tab on the top menu bar and then find the **Shape Mask** under the utility section. Now drag and drop the effect to the freeze frame.
+
+![add a masking effect to the eye](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Double-click on the freeze frame clip to adjust the Shape Mask on the preview screen. Ensure the mask reveals the eye pupil only and check the **Invert Mask** box. Also, set the **Feather** number to 10.
+
+![double-click on the freeze frame clip](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-4.jpg)
+
+##### Step 4 Add the transition video
+
+Next, add the video you want to edit with an eye-zoom effect next to the first video track. Preview the video, and you'll notice your new video playing inside the eye mask.
+
+With that done, move the playhead to the start of the freeze frame video and double-click the video clip to launch the settings window. Click the **Animation** tab before clicking **Customize** to see the keyframe settings. Tap the **Add** button to add a keyframe. Then, add a few frames using the playhead before clicking Add. But because we're zooming in, increase the scale to 160%. You can also add the rotation and position.
+
+![add the transition video](https://images.wondershare.com/filmora/article-images/2023/01/eye-zoom-5.jpg)
+
+After setting the second keyframe, move the playhead to the right and add the third keyframe. This time, increase the scale number to 400%, as well as the rotation and position. Now preview the video, and you'll notice the rotating eye-zoom effect.
 
 ## Summary
 
@@ -557,6 +544,10 @@ There you go! That's how to create an eye-zoom transition using Wondershare Film
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Edit Facebook eCommerce Video Ads
 
 If you're running an e-commerce business, then it's important to create video ads that promote your products. However, making professional-quality videos can be expensive and time-consuming.
@@ -566,13 +557,6 @@ Luckily, there's an easy way to create Facebook video ads that look great withou
 In this article, we'll show you how to use Filmora to create eCommerce video ads that will help boost your sales.
 
 ![facebook ecommerce video ads](https://images.wondershare.com/filmora/article-images/2022/09/facebook-ecommerce-video-ads.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Video Ads Are Effective for E-commerce Business
 
@@ -618,18 +602,15 @@ It is important to use the correct project aspect ratio when creating a Facebook
 
 ![select aspect ratio fb video ads](https://images.wondershare.com/filmora/article-images/2022/09/select-aspect-ratio-fb-video-ads.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5Import your media files into Filmora
 
 Once you have decided on the project aspect ratio, you can start importing your video and photo files. To do this, go to the "Media Library" and click on "Import Media Files." Find the folder where you saved your content and select all of the files that you want to use. Then, click "Open" to import the files into Filmora.
 
 ![import your media files into filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step6Set the background color for your Facebook Video Ads
 
@@ -656,6 +637,10 @@ By using text to voice feature, you can generate voice-over that will help you c
 Now that you have all of your content imported into [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you can start arranging them into a cohesive video. To do this, go to the "Timeline" tab and drag and drop the desired photos or video clips into the correct order.
 
 ![arrange facebook video clips ads](https://images.wondershare.com/filmora/article-images/2022/09/arrange-facebook-video-clips-ads.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you need to trim or split any of the photos or video clips, you can do so by using the "Trim" and "Split" options. To trim a photo or video clip, hover over the desired clip and click on the " scissors " icon. Then, drag it to the desired location. To split a photo or video clip, hover over the desired clip and click on the " split " icon. Then, drag it to the desired location.
 
@@ -726,13 +711,6 @@ Once you have decided on the project aspect ratio, you can start importing your 
 Now that you have all of your content imported into Filmora, you can start editing it. One thing you may want to do is set the background color for your video. To do this, go to the "Media" tab and click on the "Sample Color" section. Then, select the desired color for your background. Make sure to use your branding color palette.
 
 ![set bg color fb video](https://images.wondershare.com/filmora/article-images/2022/09/set-bg-color-fb-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step7Add Catchy headline and text
 
@@ -806,24 +784,14 @@ Now that you know how to create a Facebook video ad, it's time to start creating
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-ultimate-hd-encoding-devices-for-live-events/"><u>[New] Ultimate HD Encoding Devices for Live Events</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-create-slow-motion-videos-using-final-cut-pro-with-ease/"><u>2024 Approved Create Slow Motion Videos Using Final Cut Pro with Ease</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-overlay-video-in-premiere-pro/"><u>2024 Approved How to Overlay Video in Premiere Pro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-media-conversion-with-actionable-steps-from-xml/"><u>2024 Approved Mastering Media Conversion with Actionable Steps From XML</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-superb-phone-video-and-photo-capturing-with-best-apps-list/"><u>2024 Approved Superb Phone Video & Photo Capturing with Best Apps List</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decode-the-security-of-your-home-network-finding-wi-fi-passwords-on-windows-11/"><u>Decode the Security of Your Home Network: Finding Wi-Fi Passwords on Windows 11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/epic-gamers-guide-fortnite-season-return-new-adventures-and-challenges/"><u>Epic Gamer's Guide: Fortnite Season Return - New Adventures and Challenges</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gutachtenfreundliche-antworten-zum-kauf-von-winx-alles-uber-die-dvd-video-software/"><u>Gutachtenfreundliche Antworten Zum Kauf Von WinX: Alles Über Die DVD-Video Software</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-6-plus-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 6 Plus to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies/"><u>Learn to Use Montage with These Movies</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-creating-testimonial-videos-for-health-and-wellness-business-industry-for-2024/"><u>New Creating Testimonial Videos For Health And Wellness Business Industry for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/shotcut-review-is-it-the-best-free-video-editor-for-2024/"><u>Shotcut Review – Is It The Best Free Video Editor for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ified-steps-for-youtube-shorts-thumbnails-setup-for-2024/"><u>Simplified Steps for YouTube Shorts Thumbnails Setup for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/stream-to-record-essential-know-how-for-tv-capture/"><u>Stream to Record Essential Know-How for TV Capture</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-achieving-gopro-slow-motion-with-quality-an-in-depth-overview/"><u>Updated 2024 Approved Achieving GoPro Slow Motion with Quality An In-Depth Overview</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-remove-audio-from-video-without-watermark/"><u>Updated How to Remove Audio From Video Without Watermark?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/you-can-easily-film-rotating-video-illusions-from-your-smartphone-and-edit-them-on-wondershare-filmora-in-just-a-few-clicks-for-2024/"><u>You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unconventional-techniques-for-rewinding-videos-on-yt/"><u>[New] Unconventional Techniques for Rewinding Videos on YT</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-embrace-creativity-in-your-media-by-replacing-backgrounds-learn-to-replace-the-sky-in-lightroom-through-the-steps-and-details-discussed-in-thi/"><u>2024 Approved Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-multi-pc-management-with-intels-new-thunderbolt-sharing-technology/"><u>Effortless Multi-PC Management with Intel's New Thunderbolt Sharing Technology</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/here-we-are-going-to-show-you-the-best-effects-to-appear-on-camera-made-with-filmora-for-2024/"><u>Here We Are Going to Show You the Best Effects to Appear on Camera Made with Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/hyperlapse-vs-timelapse-videos-for-2024/"><u>Hyperlapse VS Timelapse Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-eye-zoom-transition-effect-with-filmora-for-2024/"><u>New How to Make Eye Zoom Transition Effect with Filmora for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/trucchi-veloci-per-risolvere-i-problemi-di-accesso-alle-cartelle-in-windows-11-explorers/"><u>Trucchi Veloci per Risolvere I Problemi Di Accesso Alle Cartelle in Windows 11 Explorers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-create-fake-identities-best-free-face-generator-websites/"><u>Updated 2024 Approved Create Fake Identities Best Free Face Generator Websites</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-13-pro-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 13 Pro i Do? Get Answers here</u></a></li>
 </ul></div>
 

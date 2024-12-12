@@ -1,7 +1,7 @@
 ---
 title: New Add VHS Effects to Videos for Free A 2024 Guide
-date: 2024-09-29T13:20:06.479Z
-updated: 2024-10-02T16:48:01.640Z
+date: 2024-12-09T16:59:40.226Z
+updated: 2024-12-11T20:12:26.074Z
 tags: 
   - ai
   - animation videos
@@ -24,6 +24,10 @@ The VHS effect isn't just about mimicking the look of these tapes. It's about en
 * [Part 2: Use Filmora's built-in VHS effects presets](#part2)
 * [Part 3: Summary](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Free VHS overlay video resource download website
 
 In today's digital age, with so many resources out there, finding the right ones for our specific needs can be quite challenging, like searching for a needle in a haystack.
@@ -43,6 +47,10 @@ Primarily catered to the more seasoned video editors, Color Grading Central is n
 It's an immersive platform that delves deep into the art of video editing. Beyond their remarkable VHS overlays, which promise a genuine vintage touch, the website is a haven for tips and tutorials on color grading.
 
 This is your go-to platform for those keen on mastering the art of video editing while achieving the VHS look. The overlays here, particularly the VHS ones, have been meticulously crafted, ensuring every pixel exudes the 90s charm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 03Vecteezy
 
@@ -114,13 +122,6 @@ It's an immersive platform that delves deep into the art of video editing. Beyon
 
 This is your go-to platform for those keen on mastering the art of video editing while achieving the VHS look. The overlays here, particularly the VHS ones, have been meticulously crafted, ensuring every pixel exudes the 90s charm.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 03Vecteezy
 
 If you've spent some time in the video editing, you've likely stumbled upon or actively sought out Vecteezy. Lauded as a video editor's dream, Vecteezy doesn't disappoint regarding VHS effects.
@@ -156,19 +157,6 @@ Kickstart your editing journey by launching your desired project within Filmora.
 Now that you're in the Filters section, the search bar at the top beckons. This feature ensures you can quickly access desired effects without sifting through the extensive collection. Begin by typing **"VHS"** or **"Glitch."**
 
 As you type, the list below starts to populate with related effects. These aren't just your run-of-the-mill effects. Each has been crafted to bring a distinct vintage vibe, ensuring that every video has its unique touch of the past.
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Instantly Apply the Chosen Effect with a Double Click
 
@@ -293,13 +281,6 @@ Tip #6
 
 Often, I might use a lower third to emphasize a certain point, or to use different wording (than I used in my video) if I think it makes the point clearer. This can be helpful if you make a small mistake in your original video and it makes more sense than adding b-roll over the video.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Step By Step To Explain Filmora
 
 Using [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) it is extremely easy to create a lower third for your video.
@@ -355,6 +336,10 @@ Also, when deciding how often you need to use a lower third, you only need to us
 You did it. With this new skill you’ve now mastered the quickest way to impress your audience and increase the quality of your videos.
 
 The key is to practice and you’ll get better quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Start Using Lower Thirds Today
 
@@ -491,13 +476,6 @@ Things to consider are your branding colors and the information you want to conv
 
 Currently, there are many options to choose from with 43 lower third templates to choose from in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Choose a Lower Third Template
 
 Choose a lower third template and drag it on top of your media in the timeline. The next step is to edit the template.
@@ -546,13 +524,6 @@ Making everything you add to a motion graphic or animation project appear like i
 3. [Edit Effect](#part3-3)
 4. [Apply filters](#part3-4)
 5. [Export](#part3-5)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. What is Motion Blur Effects
 
@@ -614,6 +585,10 @@ Media files may be easily added to the timeline in [Filmora](https://tools.techi
 
 On [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), there is a full-service shop called Filmstock that offers a ton of exciting media and after-effects for download. You may get free sound effects and short video clips to add to your videos on this website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Edit Effect
 
 Download films from the effect store or import them from your device and add them to your timeline in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to modify your videos. Utilize the software's drag-and-drop feature to modify the video.
@@ -624,9 +599,17 @@ Download films from the effect store or import them from your device and add the
 
 Overlays and video filters are effects used to enhance the appeal of the video. Open the effects tab and select your desired filter to apply overlays and filters. To apply it, drag and drop it into the timeline's video. Additionally, filters may be adjusted to change the time scale and transparency.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Export
 
 Exporting a video to a variety of platforms comes after editing it. Filmora allows users to export video in a number of different file types, including mp4, Wmv, Mkv, ts, 3gp, f4v, Mkv, MOV, mpg, 3gp, GIF 4K, and mp3.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -684,13 +667,6 @@ Wondershare: A video-making and editing program has its flagship product called 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Import Files
 
 Media files may be easily added to the timeline in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) from the device's library. .mpg,.mpeg, and many more file types are supported for this video file format's input.
@@ -724,13 +700,6 @@ Motion blur is crucial when animating characters to move. Your videos require so
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Learn How to Make Modern TikTok Velocity Dance Videos in Filmora Just Like the Ones You See on TikTok and Instagram Reels
 
@@ -822,6 +791,10 @@ Double-click on the Video clip, go to the **Speed** tab, and change the **Speed*
 
 ![adjust clip speed](https://images.wondershare.com/filmora/article-images/2023/01/speed.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5
 
 Next, place the Playhead one frame before the first spike (beat) on the Audio clip. Here, split the Video clip. Click on the Video from the right, go to **Speed** and change it to “**8”.**
@@ -867,10 +840,7 @@ Import the video and audio you want to use for your edit.
 ![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3
@@ -890,6 +860,10 @@ Step 5
 Next, place the Playhead one frame before the first spike (beat) on the Audio clip. Here, split the Video clip. Click on the Video from the right, go to **Speed** and change it to “**8”.**
 
 ![split video](https://images.wondershare.com/filmora/article-images/2023/01/split.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 6
 
@@ -928,6 +902,10 @@ Step 2
 Import the video and audio you want to use for your edit.
 
 ![import media filmora](https://images.wondershare.com/filmora/article-images/2023/01/import.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3
 
@@ -983,17 +961,20 @@ Summary
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-beyondbasics-the-futurepost-mycam-cameras/"><u>[New] 2024 Approved BeyondBasics The FuturePost-MyCam Cameras</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-discovering-the-top-screen-grabber-software-win11/"><u>[New] Discovering the Top Screen Grabber Software Win11</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-a-step-by-step-approach-to-mastering-lut-utilization-for-2024/"><u>[Updated] A Step-by-Step Approach to Mastering LUT Utilization for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advance-your-pc-to-the-pinnacle-of-video-conversion-via-tdarr-innovations/"><u>Advance Your PC to the Pinnacle of Video Conversion via Tdarr Innovations</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/best-ways-to-blur-zoom-background-for-free-for-2024/"><u>Best Ways to Blur Zoom Background for Free for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-art-of-voice-imitation-leveraging-ai-for-realistic-synthesis/"><u>New Art of Voice Imitation Leveraging AI for Realistic Synthesis</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>New In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-export-video-in-filmora/"><u>New In 2024, How To Export Video in Filmora</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-tecno-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Tecno</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-a-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated A Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-introduction-to-luts-their-overview-and-benefits/"><u>Updated Introduction to LUTs Their Overview and Benefits</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-channels-standing-with-these-tactics/"><u>[New] In 2024, Elevate Your Channel's Standing with These Tactics</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-hyperlapse-vs-timelapse-videos/"><u>2024 Approved Hyperlapse VS Timelapse Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-try-these-10-music-video-templates-to-make-your-work-easy/"><u>2024 Approved Try These 10 Music Video Templates To Make Your Work Easy</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easily-sync-audio-with-video-with-filmora/"><u>Easily Sync Audio With Video With Filmora</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-7-plus-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 7 Plus</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/re-elite-gaming-opening-tutorials-free-and-premium-alternatives/"><u>Explore Elite Gaming Opening Tutorials Free & Premium Alternatives</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-beginners-guide-to-interpreting-facebook-metrics/"><u>In 2024, Beginner's Guide to Interpreting Facebook Metrics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-macwebcam-tutorial-filming-basics-decoded/"><u>In 2024, MacWebCam Tutorial Filming Basics Decoded</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-ideas-for-time-lapse-video/"><u>New Best Ideas for Time Lapse Video</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-go-digital-with-your-dvds-a-simple-conversion-process-explained/"><u>New Go Digital with Your DVDs A Simple Conversion Process Explained</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-tiktok-loop-video/"><u>New How to Make a TikTok Loop Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-adobe-lightroom-color-grading-tutorial/"><u>New In 2024, Adobe Lightroom Color Grading Tutorial</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/to-enhance-screen-brightness-of-youtube-videos/"><u>Tips to Enhance Screen Brightness of YouTube Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-if-you-are-a-marketer-who-want-to-create-facebook-ads-to-boost-your-business-you-are-coming-to-the-right-place-well-share-you-some-useful-tips-to-st/"><u>Updated If You Are a Marketer Who Want to Create Facebook Ads to Boost Your Business, You Are Coming to the Right Place. Well Share You some Useful Tips to Start Your First FB Ads Campaign</u></a></li>
 </ul></div>
 

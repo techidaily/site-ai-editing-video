@@ -1,7 +1,7 @@
 ---
 title: Create the Stranger Things Upside Down Effect Video for 2024
-date: 2024-09-28T19:53:05.397Z
-updated: 2024-10-03T11:50:15.193Z
+date: 2024-12-09T03:49:47.169Z
+updated: 2024-12-12T04:27:11.485Z
 tags: 
   - ai
   - animation videos
@@ -163,6 +163,10 @@ Step4 Finally, go down to the vignette and drag the amount slider a tiny bit to 
 
 ![go down to the vignette](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**3) Pro Tips**_
 
 You can still make your clip look even more like Upside Down with some Filmora elements.
@@ -183,29 +187,9 @@ You can also use filmstock effects to bring our video to the next level. Go to *
 
 ![go to elements](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Double-click the clip and change the scale of the effect to your needs. Then, go to compositing to change the blending mode to the screen to help the effect blend in more.
 
 ![change the scale of the effect](https://images.wondershare.com/filmora/article-images/2022/12/upside-down-effect-14.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now, go to color and open the white balance menu. Drag the two sliders to change the color of the particles to match your clip.
 
@@ -355,13 +339,6 @@ Step4Click "**Export**" after you're done trimming, then choose where you want t
 
 ![save the edited video](https://images.wondershare.com/filmora/article-images/2022/08/how-to-split-in-premierpro-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Since we run out of time because of our busy schedules, you might find it inconvenient to use two different software programs when it can be done using Filmora. Due to the highly advanced and user-friendly tools introduced in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), it is one of the best and most highly recommended video editing software.
@@ -386,6 +363,10 @@ In this article, we'll show you how to use Filmora to create eCommerce video ads
 
 ![facebook ecommerce video ads](https://images.wondershare.com/filmora/article-images/2022/09/facebook-ecommerce-video-ads.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Video Ads Are Effective for E-commerce Business
 
 Video ads are a very effective way to promote your e-commerce business. They can help you reach a wider audience, and they can also be more engaging than traditional advertising methods.
@@ -409,10 +390,7 @@ With [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/down
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Steps to Edit Facebook Video Ads for E-commerce Business
@@ -436,13 +414,6 @@ Now that you have your content ready, open Filmora and click on "Create a New Pr
 It is important to use the correct project aspect ratio when creating a Facebook video ad because if you don't, your video may not be in the correct format when it is uploaded to Facebook. When selecting the project aspect ratio, make sure to choose Widescreen (16:9) or Instagram (1:10) to ensure that your video is in the correct format.
 
 ![select aspect ratio fb video ads](https://images.wondershare.com/filmora/article-images/2022/09/select-aspect-ratio-fb-video-ads.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step5Import your media files into Filmora
 
@@ -554,6 +525,10 @@ Catchy headlines will help you stand out from the competition and get your video
 
 ![add text facebook video ads](https://images.wondershare.com/filmora/article-images/2022/09/add-text-facebook-video-ads.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step8Convert your script into a voice-over narrator
 
 By using text to voice feature, you can generate voice-over that will help you create a more professional video. To do this, go to the "Text" tab and click on the "Add Text" option. Then, type in your script. Once you have finished typing, click on the "Text-ti-Voice Over" button and select the desired language.
@@ -579,13 +554,6 @@ Adding music to your video will help to set the mood and make your video more en
 Drag and drop the audio file into place on the timeline. You can also use the "Fade In" and "Fade Out" options to make the music flow better with the video.
 
 ![fade audio facebook video ads](https://images.wondershare.com/filmora/article-images/2022/09/fade-audio-facebook-video-ads.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step11Export your Video
 
@@ -647,19 +615,14 @@ Step5 Double-click on Text layer present on Timeline and customize the text labe
 
 ![double click on text layer](https://images.wondershare.com/filmora/guide/text-presets-win-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step6 Finally, play the video and click on Export button to save the video on your hard drive.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Add Text Overlay to Video on Mac
@@ -693,6 +656,10 @@ Step2 Tap on the video clip and tap on “T” icon located at the bottom.
 Step3 You need to choose the text style as per your preference from the bottom.
 
 ![choose text style imovie iphone](https://images.wondershare.com/filmora/article-images/2022/07/choose-text-style-imovie-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Tap on the Viewer to place the default text and tap on Edit option to change the text as per your requirements.
 
@@ -742,18 +709,19 @@ Step4 Select any category and any desired text style and drop it on Timeline. Pl
 
 ![select any category](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Double-click on Text layer present on Timeline and customize the text label and other parameters as per your requirements.
 
 ![double click on text layer](https://images.wondershare.com/filmora/guide/text-presets-win-1.png)
 
-Step6 Finally, play the video and click on Export button to save the video on your hard drive.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step6 Finally, play the video and click on Export button to save the video on your hard drive.
 
 ## Part 2\. Add Text Overlay to Video on Mac
 
@@ -762,6 +730,10 @@ When it comes to editing videos on Mac, iMovie is a popular choice. This is beca
 Step1 Open iMovie from Applications folder. Click on Create New button and thereafter, click on Import Media button to bring in your video clip.
 
 ![create new project imovie](https://images.wondershare.com/filmora/article-images/2022/07/create-new-project-imovie.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Drag and drop the video file from Media folder to Timeline. Select Titles at the top and you will see different text styles. Place your mouse pointer over them to preview them. Drag and drop any desired text style on Timeline and place it where you want it to appear in the video.
 
@@ -835,24 +807,16 @@ Adding text overlay to video is a basic operation in video editing. We have illu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-to-master-real-time-video-sharing-on-facebook/"><u>[New] In 2024, How to Master Real-Time Video Sharing on Facebook</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-next-level-broadcast-software-beyond-streamlabs/"><u>[Updated] 2024 Approved Next-Level Broadcast Software Beyond StreamLabs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-beijing-bid-wins-2022-winter-olympics-highlights/"><u>[Updated] Beijing Bid Wins 2022 Winter Olympics Highlights</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-motion-blur-photo-with-gimp-step-by-step-guide/"><u>2024 Approved Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-steps-to-create-makeup-videos/"><u>2024 Approved Steps to Create Makeup Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024s-guide-to-superior-soundtracks-adding-srt-to-mp4-files/"><u>2024’S Guide to Superior Soundtracks – Adding SRT to MP4 Files</u></a></li>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/adobe-photoshop-is-the-best-photo-editor-to-add-green-screen-effect-to-your-photo-while-wondershare-filmora-is-the-best-video-editor-to-add-green-screen-eff/"><u>Adobe Photoshop Is the Best Photo Editor to Add Green Screen Effect to Your Photo While Wondershare Filmora Is the Best Video Editor to Add Green Screen Effect to Your Video</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-the-champion-in-conversational-bots-gpt-vs-huggingchat/"><u>Discovering the Champion in Conversational Bots: GPT vs HuggingChat</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-advice-for-mending-images-with-stellar-repair-software-windows-version-unveiled/"><u>Expert Advice for Mending Images with Stellar Repair Software - Windows Version Unveiled</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-svd-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .svd file</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-lava-blaze-2-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Lava Blaze 2 Phone? Unlock It Now</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-4-solutions-to-add-white-border-to-video-on-mobile-and-desktop/"><u>New 2024 Approved 4 Solutions to Add White Border to Video on Mobile and Desktop</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-transitions-in-adobe-premiere-pro/"><u>New How to Add Transitions in Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-loop-a-video-in-canva-editor/"><u>New How to Loop a Video in Canva Editor</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/this-article-aims-to-show-you-how-to-improve-your-lighting-in-the-sun/"><u>This Article Aims to Show You How to Improve Your Lighting in the Sun</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-galaxy-s24-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Galaxy S24 Phones</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-8-best-sites-to-get-glitch-transition-for-premiere-pro/"><u>Updated In 2024, 8 Best Sites to Get Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-create-the-night-to-day-effect-videos/"><u>Updated In 2024, Create the Night-to-Day Effect Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-quick-insights-5-easy-techniques-for-effective-audio-capture-on-windows-11-for-2024/"><u>[New] Quick Insights 5 Easy Techniques for Effective Audio Capture on Windows 11 for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-a-melodic-guide-navigating-copyright-with-instagram/"><u>[Updated] 2024 Approved A Melodic Guide Navigating Copyright with Instagram</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-breakdown-of-ad-revenue-average-income-for-youtube-vids/"><u>[Updated] 2024 Approved Breakdown of Ad Revenue Average Income for YouTube Vids?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-blender-green-screen/"><u>2024 Approved How to Use Blender Green Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-and-repairing-windows-11-wireless-network-failure/"><u>Diagnosing and Repairing Windows 11 Wireless Network Failure</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-know-how-you-can-trim-or-merge-using-wondershare-filmora-trimming-and-merging-using-this-tool-is-an-easy-task-learn-how-for-2024/"><u>Do You Know How You Can Trim or Merge Using Wondershare Filmora? Trimming and Merging Using This Tool Is an Easy Task; Learn How for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-steps-to-loop-youtube-videos-on-iphone/"><u>Easy Steps to Loop YouTube Videos on iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-fade-in-text-in-adobe-premiere-pro-for-2024/"><u>How to Fade in Text in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-online-changers/"><u>In 2024, Recommended Video Background Online Changers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-moto-g-play-analysis-long-lasting-battery-life-meets-solid-processor-speed/"><u>In-Depth Moto G Play Analysis - Long-Lasting Battery Life Meets Solid Processor Speed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/motorolas-moto-g-power-unveiled-examining-long-lasting-battery-life-and-robust-functionality/"><u>Motorola's Moto G Power Unveiled: Examining Long-Lasting Battery Life & Robust Functionality</u></a></li>
 </ul></div>
 

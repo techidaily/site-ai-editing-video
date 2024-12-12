@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn to Use Montage with These Movies
-date: 2024-09-27T01:24:31.427Z
-updated: 2024-10-03T00:33:57.731Z
+date: 2024-12-07T10:05:41.898Z
+updated: 2024-12-11T23:45:38.626Z
 tags: 
   - ai
   - animation videos
@@ -124,6 +124,10 @@ Martin Scorsese's Goodfellas is a gangster film set in 1950s New York City, one 
 
 Goodfellas (1990)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Trainspotting (1996)
 
 Ewan McGregor stars in Danny Boyle's black comedy, which tells the tale of drug addict Mark Renton (Danny Boyle). Mark tries to get clean and get back on his feet. Despite this, drug enticements and friend influence are major deterrents. Through this introductory Montage, we are introduced to the protagonist's lifestyle. In addition, the film explores the themes of drug abuse, addiction, and nihilism.
@@ -148,24 +152,25 @@ Songs have played an integral role in bringing the story of the film to life in 
 
 Swades (2004)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Whiplash (2014)
 
 Miles Teller plays Andrew Neiman, a promising young drummer who enrolls in a tough music conservatory. Damien Chazelle directs the film. Terence Fletcher (J. K. Simmons) mentors him, and he is determined to see his students' dreams come true. Neiman pushes himself to his limits in this Montage, suffering a breakdown as a result. Edited shots and tempo match the visual images to accentuate the protagonist's mental state.
 
 Whiplash (2014)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 9\. Gone Girl (2014)
 
 Gillian Flynn's eponymous novel is the basis for David Fincher's psychological crime drama. On their fifth wedding anniversary, Amy Elliott Dunne (Rosamund Pike) disappears, and Nicholas Dunne (Ben Affleck) becomes the prime suspect. Amy carefully crafts her new identity in this Montage as we learn she is alive. The Montage ends as Amy sets up her cabin and begins purchasing supplies. After hitting herself with a hammer, the sequence ends.
 
 Whiplash (2014)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10\. Parasite (2019)
 
@@ -209,11 +214,19 @@ A glitch effect occurs when a section of your video temporarily changes look or 
 
 You can use a glitch effect to temporarily change the appearance of the image in the video to give the impression that a machine is processing it. Additionally, it gives your finished piece a fantastic, dreamlike aspect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: When Should you Apply a Glitch Effect?
 
 A few years back, we had no choice but to watch glitchy movies on rusty VCR devices. Nowadays, retro video effects are very popular in TV movies and even games. You can use these effects in many ways, like making fake vintage footage or emulating a glitching computer.
 
 Filmmakers frequently employ glitching in their videos to give the impression that a character has been affected by a technical abnormality, is having a flashback, or is being watched by someone else via a digital camera system. Something happens when the person or image flashes, often without their knowledge. In addition, you can apply the glitch effect to a composition to evoke a feeling of dramatic irony.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Tutorial to Chromatic Aberration Effect
 
@@ -221,18 +234,15 @@ Chromatic aberration refers to how old lenses tend to split colors. This effect 
 
 ![chromatic aberration](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Here is a complete breakdown of each component of the Retro look and how you can make your glitch effects in Filmora 11:
 
 Step1 Download Wondersshare Filmora 11 on your Pc by visiting filmora.wondershare.com.
 
 ![download wondersshare filmora 11](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Open Filmora and click on the Effects tab.
 
@@ -261,6 +271,10 @@ Step3 Double-click on the top clip.
 Go to Color and open the White Balance option to make this layer completely red. Next, drag both Temperature and Tint sliders to a hundred.
 
 ![open the white balance option](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Now click the little eye icon on the timeline to hide the top layer and move on to the middle layer.
 
@@ -422,13 +436,6 @@ We recommend using Filmora 11 for adding built-in glitch effects. You can also u
 
 In the 90s, movie production technology improved a lot. This decade saw horror movies become much more fun and immersive than in the 80s and 50s because they were more psychological. In fact, we can say that the horror movies of the 90s laid the foundation for current horror movies. So, without wasting time, let's create a 1990s horror movie similar to The Blair Witch Project.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Preparation
 
 ![1990s vintage scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-scene.gif)
@@ -455,6 +462,134 @@ Next, double-click the horror clip and go to the **Color** menu. Then, click the
 
 ![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
+
+##### Step3 Add creepiness to the video
+
+![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
+
+Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
+
+![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
+
+We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
+
+##### Step4 Add a retro filming effect
+
+![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
+
+Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
+
+![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Summary
+
+That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+##### Step1 Add the horror video to the timeline
+
+![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
+
+Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
+
+##### Step2 Apply color grading
+
+![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
+
+Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
+
+![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
+
+Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
+
+##### Step3 Add creepiness to the video
+
+![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
+
+Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
+
+![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
+
+We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
+
+##### Step4 Add a retro filming effect
+
+![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
+
+Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
+
+![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
+
+## Summary
+
+That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+##### Step1 Add the horror video to the timeline
+
+![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
+
+Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
+
+##### Step2 Apply color grading
+
+![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
+
+Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
+
+![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
+
+Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
+
+##### Step3 Add creepiness to the video
+
+![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
+
+Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
+
+![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
+
+We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
+
+##### Step4 Add a retro filming effect
+
+![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
+
+Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
+
+![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
+
+## Summary
+
+That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+##### Step1 Add the horror video to the timeline
+
+![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
+
+Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
+
+##### Step2 Apply color grading
+
+![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
+
+Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
+
+![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
+
 Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
 
 ##### Step3 Add creepiness to the video
@@ -472,131 +607,8 @@ We'll now change the size and positioning of the smokescreen effect to match the
 ![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
-
-![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
-
-## Summary
-
-That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-##### Step1 Add the horror video to the timeline
-
-![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
-
-Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
-
-##### Step2 Apply color grading
-
-![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
-
-Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
-
-![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
-
-Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
-
-##### Step3 Add creepiness to the video
-
-![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
-
-Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
-
-![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
-
-We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
-
-##### Step4 Add a retro filming effect
-
-![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
-
-Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
-
-![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
-
-## Summary
-
-That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-##### Step1 Add the horror video to the timeline
-
-![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
-
-Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
-
-##### Step2 Apply color grading
-
-![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
-
-Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
-
-![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
-
-Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
-
-##### Step3 Add creepiness to the video
-
-![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
-
-Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
-
-![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
-
-We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
-
-##### Step4 Add a retro filming effect
-
-![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
-
-Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
-
-![1990s vintage horror scene](https://images.wondershare.com/filmora/article-images/2023/01/1990s-vintage-horror-scene.gif)
-
-## Summary
-
-That's it! With these tips and tricks, you can effortlessly create a retro-style 1990s horror film. Follow this tutorial and play around with the movie effects to find what works best for you. Remember, Filmstock is the ultimate resource for video and movie effects. Give it a try!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-##### Step1 Add the horror video to the timeline
-
-![add the horror video to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-1.jpg)
-
-Open Wondershare Filmora on your computer, then load the video you want to edit. After adding the video, drag it to the editing timeline, then move it a few keyframes to the right. The idea is to apply some black screen to add drama and fear before the film starts playing.
-
-##### Step2 Apply color grading
-
-![apply color grading](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-2.jpg)
-
-Next, double-click the horror clip and go to the **Color** menu. Then, click the **Tone** arrow before lowering the **Saturation** to -50%. This will give us a less saturated look popularly used in horror films.
-
-![double-click the horror clip](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-3.jpg)
-
-Now click the **3D LUT** option and choose a LUT that works for your film. For this horror film project, we'll select the **Dark Film** option.
-
-##### Step3 Add creepiness to the video
-
-![add creepiness to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-4.jpg)
-
-Obviously, you'll want your horror film to look as creepy as possible. To achieve that, click the **Elements** tab, then search for the **Smokescreen 1** effect. Move the effect to the timeline above the video track before trimming the effect clip to fit with the original horror video.
-
-![click the elements tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-5.jpg)
-
-We'll now change the size and positioning of the smokescreen effect to match the feature video. To do that, double-click the effect track. You can also reduce the opacity to around 30% to make the smoke more visible.
-
-##### Step4 Add a retro filming effect
-
-![add a retro filming effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1990s-6.jpg)
 
 Now we'll make the film more believable by adding a retro overlay. Click the **Effects** tab, then search for **Retro Film Overlay 15** before dragging and dropping the effect above all the tracks in the editing timeline.
 
@@ -618,13 +630,6 @@ Adobe Premiere Rush is a tool designed to make it easier to make simple video ed
 
 In this article, we will share with you how you can add text to a video using Adobe Rush. We will also share with you an Adobe Rush alternative solution that is much simpler to use.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Text in Adobe Rush
 
 To easily add text to your Adobe Premiere Rush project, follow these very simple steps. These steps apply to both desktop and mobile versions of Adobe Rush.
@@ -635,13 +640,6 @@ Step 2With the project open, click on the blue “Plus” icon under the main me
 
 ![click plus icon adobe rush](https://images.wondershare.com/filmora/article-images/2022/08/click-plus-icon-adobe-rush.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3Select “Graphics” from the options that appear
 
 ![select graphics adobe rush](https://images.wondershare.com/filmora/article-images/2022/08/select-graphics-adobe-rush.jpg)
@@ -649,13 +647,6 @@ Step 3Select “Graphics” from the options that appear
 Step 4Click on “More” under “Titles” and then search for “Basic Default Title.” Tap “Add” to add a title to the video's sequence.
 
 ![default title adobe rush](https://images.wondershare.com/filmora/article-images/2022/08/default-title-adobe-rush.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5Once the title is in the sequence, you will be able to make changes to it any way you want. To do that, just drag the title in the preview and tap on it. You should then be able to see options to change the color, size, font, and more in the submenu.
 
@@ -825,13 +816,6 @@ Filmora also gives you the option to upload the video directly to YouTube and yo
 
 ## Related FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Can I Add Captions in Adobe Rush?
 
 Yes. Adobe Premiere Rush does allow you to add captions and subtitles to any video project. The process is very easy, just open the video in Adobe Rush and add an unformatted “Title” as we did in part 1 above. You can then move the title to any section of the screen and format it any way you want. Ensure that you extend the text to cover the full length of the video. Then simply copy and paste the subtitles from the video's SRT file to the Title. Set the timing of the text to correspond to the video's duration and you're all set.
@@ -864,14 +848,22 @@ One of the greatest advantages of choosing Adobe Rush over other video editors i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/apple-tv-plus-casting-tricks-watch-your-favorites-on-chromecast/"><u>Apple TV Plus Casting Tricks: Watch Your Favorites on Chromecast</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-redmi-k70-pro-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Redmi K70 Pro support MKV video files?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-for-time-lapse-video/"><u>New In 2024, Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
-<li><a href="https://extra-support.techidaily.com/rhythm-discoverers-toolkit-all-free-and-online-for-2024/"><u>Rhythm Discoverer’s Toolkit – All FREE & Online for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ultimate-free-android-capturer-for-2024/"><u>Ultimate Free Android Capturer for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uncover-the-ultimate-top-8-parent-control-applications-for-safer-kids/"><u>Uncover The Ultimate Top 8 Parent-Control Applications for Safer Kids</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>Updated Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effect-into/"><u>Updated Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-multitasking-mastery-activities-while-embracing-soundtracks/"><u>[New] Multitasking Mastery Activities While Embracing Soundtracks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-vloggers-retreat-excellence-unleashed/"><u>[New] The Vloggers' Retreat Excellence Unleashed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-ultimate-step-by-step-tutorial-free-downloading-of-youtube-content-without-third-party-tools/"><u>1. Ultimate Step-by-Step Tutorial: Free Downloading of YouTube Content without Third-Party Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-all-things-about-adding-effects-in-kinemaster/"><u>2024 Approved All Things About Adding Effects In Kinemaster</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-gaming-channel-evolution-best-14-video-ideas-on-youtube/"><u>2024 Approved Gaming Channel Evolution Best 14 Video Ideas on YouTube</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1732513894787-yl-computing-yl-software/"><u>汉武帝统治下的主要政治变革分析 - YL Computing | YL Software</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-smart-8-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Smart 8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-know-how-ai-is-helping-video-editors-and-enthusiasts-many-video-editing-software-allows-an-auto-reframe-option-to-use-that-can-help-manage-videos/"><u>New Do You Know How AI Is Helping Video Editors and Enthusiasts? Many Video Editing Software Allows an Auto Reframe Option to Use that Can Help Manage Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-samsung-galaxy-s24plus-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Samsung Galaxy S24+</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-fade-in-windows-video-editor-for-2024/"><u>Updated How To Add Fade In Windows Video Editor for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-random-letter-reveal-intro/"><u>Updated How to Make Random Letter Reveal Intro?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-correct-lens-distortion-with-filmora/"><u>Updated In 2024, How to Correct Lens Distortion With Filmora</u></a></li>
 </ul></div>
 

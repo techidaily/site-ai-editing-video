@@ -1,7 +1,7 @@
 ---
 title: Updated Vintage Film Effect 1980S - How to Create
-date: 2024-11-05T16:14:28.163Z
-updated: 2024-11-06T21:25:23.177Z
+date: 2024-12-08T12:55:51.697Z
+updated: 2024-12-11T17:52:14.523Z
 tags: 
   - ai
   - animation videos
@@ -20,6 +20,10 @@ The 1980s is widely regarded as the golden era of music and film-making. If you 
 ## Preparation
 
 ![1980s vintage scene](https://images.wondershare.com/filmora/article-images/2023/01/1980s-vintage-scene.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this tutorial, you'll need at least two video clips. First, take clear footage of a hoop dancer playing to music and a disco ball footage that you'll add to the background. You can also add another footage to give your dancing video the perfect transition.
 
@@ -55,6 +59,10 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Summary
 
 Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. You can also check out more 80s-inspired video effects on Wondershare's Filmstock library. Ready to go back to the 80s? Hope so!
@@ -123,13 +131,6 @@ Creating a retro-style 1980s film is as easy as pie with Wondershare Filmora. Yo
 
 ![import the video clips on filmora](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 First, run Wondershare Filmora and add the video with the hoop dancer on the first track. Then, move the disco ball footage right above the first video track.
 
 ##### Step2 Add an animation keyframe
@@ -140,13 +141,6 @@ With the two videos imported on Filmora, move the playhead to the point where th
 
 ![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now find the **Animation** tab, then click the **Customize** tab. Next, click **Add** to apply a keyframe to this point of the video. Don't stop there. Move the playhead to the right and add another keyframe to the footage before changing the opacity to 50%.
 
 ![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
@@ -156,6 +150,10 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 ##### Step3 Add retro filters and effects to the video
 
 ![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
@@ -195,69 +193,8 @@ You will need three video tracks in order to create this effect, so click the (+
 
 ![add video tracks](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-1.jpg)
 
-##### Step 2 Import the clip to the timeline
-
-Drag and drop your clip onto the first and third video tracks of the timeline. Then, align them with each other.
-
-![import the clip to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-2.jpg)
-
-##### Step 3 Make a cut at the beginning of the text
-
-Find the spot where you want the text reveals to start, then click the scissor icon to make a cut on the clip from the first video track.
-
-![make a cut at the beginning of the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-3.jpg)
-
-##### Step 4 Add and adjust the text
-
-Go to Title > Plain Text > select which text styles suit you best. Then, drag the title to the second video track.
-
-![add and adjust the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-4.jpg)
-
-Double-click on the title clip and type out your text. Then, adjust the text position and align it to the cut you have made.
-
-![double-click on the title clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-5.gif)
-
-##### Step 5 Use the masking tool
-
-Go to Effects > Utility > Image Mask, then drag and drop it onto the latter half of the top video clip.
-
-![use the masking tool](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-6.jpg)
-
-Make more cuts on the top latter clip, frame by frame, starting from the first cut you have made.
-
-![make more cuts on the top latter clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-7.gif)
-
-Double-click on each of the smaller clips and find the mask settings.
-
-![double-click on each of the smaller clips](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-8.jpg)
-
-Since the subject in this tutorial is moving from side to side, we are going to match the mask's y-axis setting, which is also the revealed text portion, with the subject's movement. Starting from the first clip, adjust the y-axis number to a smaller/bigger number.
-
-![adjust the y-axis number](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-9.gif)
-
-There we go! The final look should look like this:
-
-![final look](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-10.gif)
-
-## Summary
-
-That is how we can create the text reveal effect using Wondershare Filmora. Using Filmora's masking tool, it's easy to create a text reveal the effect that can add flair and interest to your videos. Just follow the simple steps, and you'll be able to get the desired result with a few clicks of your mouse. Give it a try, and share your thoughts with us.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-First, make sure the video clips you are using are clear, with the subject moving across the frame. It will help the text to stand out and be more easily seen. Now, follow the step-by-step guides below:
-
-##### Step 1 Add video tracks
-
-You will need three video tracks in order to create this effect, so click the (+) icon above the timeline > Add Video Track and add two more video tracks.
-
-![add video tracks](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-1.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 2 Import the clip to the timeline
@@ -330,12 +267,63 @@ Find the spot where you want the text reveals to start, then click the scissor i
 
 ![make a cut at the beginning of the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+##### Step 4 Add and adjust the text
+
+Go to Title > Plain Text > select which text styles suit you best. Then, drag the title to the second video track.
+
+![add and adjust the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-4.jpg)
+
+Double-click on the title clip and type out your text. Then, adjust the text position and align it to the cut you have made.
+
+![double-click on the title clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-5.gif)
+
+##### Step 5 Use the masking tool
+
+Go to Effects > Utility > Image Mask, then drag and drop it onto the latter half of the top video clip.
+
+![use the masking tool](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-6.jpg)
+
+Make more cuts on the top latter clip, frame by frame, starting from the first cut you have made.
+
+![make more cuts on the top latter clip](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-7.gif)
+
+Double-click on each of the smaller clips and find the mask settings.
+
+![double-click on each of the smaller clips](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-8.jpg)
+
+Since the subject in this tutorial is moving from side to side, we are going to match the mask's y-axis setting, which is also the revealed text portion, with the subject's movement. Starting from the first clip, adjust the y-axis number to a smaller/bigger number.
+
+![adjust the y-axis number](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-9.gif)
+
+There we go! The final look should look like this:
+
+![final look](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-10.gif)
+
+## Summary
+
+That is how we can create the text reveal effect using Wondershare Filmora. Using Filmora's masking tool, it's easy to create a text reveal the effect that can add flair and interest to your videos. Just follow the simple steps, and you'll be able to get the desired result with a few clicks of your mouse. Give it a try, and share your thoughts with us.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+First, make sure the video clips you are using are clear, with the subject moving across the frame. It will help the text to stand out and be more easily seen. Now, follow the step-by-step guides below:
+
+##### Step 1 Add video tracks
+
+You will need three video tracks in order to create this effect, so click the (+) icon above the timeline > Add Video Track and add two more video tracks.
+
+![add video tracks](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-1.jpg)
+
+##### Step 2 Import the clip to the timeline
+
+Drag and drop your clip onto the first and third video tracks of the timeline. Then, align them with each other.
+
+![import the clip to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-2.jpg)
+
+##### Step 3 Make a cut at the beginning of the text
+
+Find the spot where you want the text reveals to start, then click the scissor icon to make a cut on the clip from the first video track.
+
+![make a cut at the beginning of the text](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-3.jpg)
 
 ##### Step 4 Add and adjust the text
 
@@ -369,13 +357,6 @@ There we go! The final look should look like this:
 
 ![final look](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-10.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Summary
 
 That is how we can create the text reveal effect using Wondershare Filmora. Using Filmora's masking tool, it's easy to create a text reveal the effect that can add flair and interest to your videos. Just follow the simple steps, and you'll be able to get the desired result with a few clicks of your mouse. Give it a try, and share your thoughts with us.
@@ -389,6 +370,10 @@ First, make sure the video clips you are using are clear, with the subject movin
 You will need three video tracks in order to create this effect, so click the (+) icon above the timeline > Add Video Track and add two more video tracks.
 
 ![add video tracks](https://images.wondershare.com/filmora/article-images/2023/01/text-reveal-effect-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 2 Import the clip to the timeline
 
@@ -538,13 +523,6 @@ Step1 Download and install Filmora on your PC or Mac.
 
 ![download and install filmora](https://images.wondershare.com/filmora/article-images/2023/01/podcast-text-to-speech-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Open Filmora and select the video on which you wish to add audio.
 
 ![add your video file](https://images.wondershare.com/filmora/article-images/2023/01/podcast-text-to-speech-3.jpg)
@@ -576,6 +554,10 @@ Step6 Press the “Text-to-Speech” button in the lower right side and choose y
 You can also choose another language other than English.
 
 ![language of text-to-speech filmora](https://images.wondershare.com/filmora/article-images/2023/01/podcast-text-to-speech-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click “Ok” once you’ve selected everything according to your requirements.
 
@@ -653,9 +635,17 @@ Step4 Select your favorite position for text in the video, like “lower third,�
 
 ![go to option custom](https://images.wondershare.com/filmora/article-images/2023/01/podcast-text-to-speech-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Add text to the timeline and click “Ok.” You can move the red timeline marker if you want your text in a certain spot.
 
 ![red timeline marker](https://images.wondershare.com/filmora/article-images/2023/01/podcast-text-to-speech-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click the “+” button marked in the picture below to add text.
 
@@ -704,13 +694,6 @@ To convert your video podcasts into audio through Filmora. Follow these steps:
 ### Can I save the sound after converting text to speech?
 
 Once the text has been converted to speech, you can save the sound. Select your preferred format after clicking the "export" option in Filmora.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -792,31 +775,9 @@ On the Timeline, your recorded video should be below the replacement photo or vi
 
 ![timeline](https://images.wondershare.com/filmora/article-images/timeline.jpg)
 
-Step 5: Double-click on your video, and you will come across a panel on the upper-left side. From that panel, you have to turn on Chroma Key option. This will enable the green screen effect due to which you will see the replacement photo or video superimposed on your recorded video in the green screen background.
-
-![green screen background](https://images.wondershare.com/filmora/article-images/green-screen-background.jpg)
-
-Step 6: Finally, adjust the parameters available to fine-tune the overall green screen effect. Lastly, click on Ok button.
-
-## Conclusion
-
-If you are looking to add green screen effects to your photo, you can opt for Chroma key Photoshop. Adobe Photoshop is the best photo editor to remove the green screen backgrounds on your photo and replace them with any image you want. Color keying in Photoshop enables you to change any solid color background to anything you want. Similarly, you can use Wondershare Filmora to add green screen effects to your video in simple steps.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora.
-
-Step 2: Launch Filmora and go for Create New Project option to get started.
-
-Step 3: Import your video with green screen background and move it to the Timeline.
-
-Step 4: Import the replacement photo or video and put it directly on the Timeline.
-
-On the Timeline, your recorded video should be below the replacement photo or video.
-
-![timeline](https://images.wondershare.com/filmora/article-images/timeline.jpg)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Double-click on your video, and you will come across a panel on the upper-left side. From that panel, you have to turn on Chroma Key option. This will enable the green screen effect due to which you will see the replacement photo or video superimposed on your recorded video in the green screen background.
 
@@ -847,41 +808,64 @@ On the Timeline, your recorded video should be below the replacement photo or vi
 Step 5: Double-click on your video, and you will come across a panel on the upper-left side. From that panel, you have to turn on Chroma Key option. This will enable the green screen effect due to which you will see the replacement photo or video superimposed on your recorded video in the green screen background.
 
 ![green screen background](https://images.wondershare.com/filmora/article-images/green-screen-background.jpg)
-
-Step 6: Finally, adjust the parameters available to fine-tune the overall green screen effect. Lastly, click on Ok button.
-
-## Conclusion
-
-If you are looking to add green screen effects to your photo, you can opt for Chroma key Photoshop. Adobe Photoshop is the best photo editor to remove the green screen backgrounds on your photo and replace them with any image you want. Color keying in Photoshop enables you to change any solid color background to anything you want. Similarly, you can use Wondershare Filmora to add green screen effects to your video in simple steps.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora.
-
-Step 2: Launch Filmora and go for Create New Project option to get started.
-
-Step 3: Import your video with green screen background and move it to the Timeline.
-
-Step 4: Import the replacement photo or video and put it directly on the Timeline.
-
-On the Timeline, your recorded video should be below the replacement photo or video.
-
-![timeline](https://images.wondershare.com/filmora/article-images/timeline.jpg)
-
-Step 5: Double-click on your video, and you will come across a panel on the upper-left side. From that panel, you have to turn on Chroma Key option. This will enable the green screen effect due to which you will see the replacement photo or video superimposed on your recorded video in the green screen background.
-
-![green screen background](https://images.wondershare.com/filmora/article-images/green-screen-background.jpg)
-
-Step 6: Finally, adjust the parameters available to fine-tune the overall green screen effect. Lastly, click on Ok button.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step 6: Finally, adjust the parameters available to fine-tune the overall green screen effect. Lastly, click on Ok button.
+
+## Conclusion
+
+If you are looking to add green screen effects to your photo, you can opt for Chroma key Photoshop. Adobe Photoshop is the best photo editor to remove the green screen backgrounds on your photo and replace them with any image you want. Color keying in Photoshop enables you to change any solid color background to anything you want. Similarly, you can use Wondershare Filmora to add green screen effects to your video in simple steps.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora.
+
+Step 2: Launch Filmora and go for Create New Project option to get started.
+
+Step 3: Import your video with green screen background and move it to the Timeline.
+
+Step 4: Import the replacement photo or video and put it directly on the Timeline.
+
+On the Timeline, your recorded video should be below the replacement photo or video.
+
+![timeline](https://images.wondershare.com/filmora/article-images/timeline.jpg)
+
+Step 5: Double-click on your video, and you will come across a panel on the upper-left side. From that panel, you have to turn on Chroma Key option. This will enable the green screen effect due to which you will see the replacement photo or video superimposed on your recorded video in the green screen background.
+
+![green screen background](https://images.wondershare.com/filmora/article-images/green-screen-background.jpg)
+
+Step 6: Finally, adjust the parameters available to fine-tune the overall green screen effect. Lastly, click on Ok button.
+
+## Conclusion
+
+If you are looking to add green screen effects to your photo, you can opt for Chroma key Photoshop. Adobe Photoshop is the best photo editor to remove the green screen backgrounds on your photo and replace them with any image you want. Color keying in Photoshop enables you to change any solid color background to anything you want. Similarly, you can use Wondershare Filmora to add green screen effects to your video in simple steps.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora.
+
+Step 2: Launch Filmora and go for Create New Project option to get started.
+
+Step 3: Import your video with green screen background and move it to the Timeline.
+
+Step 4: Import the replacement photo or video and put it directly on the Timeline.
+
+On the Timeline, your recorded video should be below the replacement photo or video.
+
+![timeline](https://images.wondershare.com/filmora/article-images/timeline.jpg)
+
+Step 5: Double-click on your video, and you will come across a panel on the upper-left side. From that panel, you have to turn on Chroma Key option. This will enable the green screen effect due to which you will see the replacement photo or video superimposed on your recorded video in the green screen background.
+
+![green screen background](https://images.wondershare.com/filmora/article-images/green-screen-background.jpg)
+
+Step 6: Finally, adjust the parameters available to fine-tune the overall green screen effect. Lastly, click on Ok button.
 
 ## Conclusion
 
@@ -903,18 +887,19 @@ If you are looking to add green screen effects to your photo, you can opt for Ch
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-perfecting-your-fisheye-lens-techniques-stepwise/"><u>[New] Perfecting Your Fisheye Lens Techniques Stepwise</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-facing-the-reality-of-content-monetization/"><u>[Updated] 2024 Approved Facing the Reality of Content Monetization</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-magix-music-maker-review/"><u>[Updated] Magix Music Maker Review</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-strategic-approaches-for-creating-impactful-youtubes-finality/"><u>[Updated] Strategic Approaches for Creating Impactful Youtubes' Finality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-/"><u>2024 Approved Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/if-you-want-to-make-an-intro-video-then-adobe-after-effects-will-be-a-great-choice-this-article-will-show-the-steps-to-create-an-intro-video-with-after-effe/"><u>If You Want to Make an Intro Video, Then Adobe After Effects Will Be a Great Choice. This Article Will Show the Steps to Create an Intro Video with After Effects by Your Own</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-15-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone 15?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-windows-11-strategies-to-secure-lasting-gaming-memories/"><u>In 2024, Windows 11 Strategies to Secure Lasting Gaming Memories</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-vintage-film-effect-1950s/"><u>New How to Create Vintage Film Effect 1950S</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-the-premiere-pro-video-templates-help-make-original-content-of-broadcast-quality-the-article-introduces-10-free-premiere-pro-templates-that-are-sure-to-/"><u>New The Premiere Pro Video Templates Help Make Original Content of Broadcast Quality. The Article Introduces 10 Free Premiere Pro Templates that Are Sure to Make Your Life Easy</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-f54-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy F54 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>Updated Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-cropping-and-combining-content-in-wondershare-filmora-latest-for-2024/"><u>Updated Guide To Cropping and Combining Content in Wondershare Filmora Latest for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimizing-live-streams-with-onestream-a-beginners-guide/"><u>[New] Optimizing Live Streams with OneStream A Beginner's Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quantum-megadesk-pure-4k-multi-touch/"><u>[New] Quantum MegaDesk Pure 4K Multi-Touch</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-render-images-with-radial-light-diffusion-technique/"><u>[New] Render Images with Radial Light Diffusion Technique</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-balanced-mounts-capture-clear-shots-every-time/"><u>2024 Approved Best Balanced Mounts Capture Clear Shots Every Time</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-3d-camera-tracking-effects-in-after-effects/"><u>2024 Approved How to Use 3D Camera Tracking Effects in After Effects</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-canva-collages/"><u>How to Make Canva Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-ideas-on-using-filmora-green-screen/"><u>In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-from-unverified-beginnings-to-high-flying-fame-on-instagram-unveil-the-6-keys/"><u>In 2024, From Unverified Beginnings to High-Flying Fame on Instagram Unveil the 6 Keys</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-highest-paid-youtuber-in-the-world/"><u>In 2024, Highest Paid YouTuber in the World</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-comment-on-youtube-live-chat/"><u>In 2024, How to Comment on YouTube Live Chat</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-fade-audio-in-premier-pro/"><u>New Steps To Fade Audio In Premier Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-final-line-unavailable-issue-a-step-by-step-guide/"><u>Troubleshooting iPhone's Final Line Unavailable Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-difference-between-time-lapse-and-hyperlapse-for-2024/"><u>Updated Difference Between Time Lapse and Hyperlapse for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Green Screens Are a Fun Way for Creators to Bring Their Personality to Their Stream, Allowing Them to Dynamically Alter Their Stream Background and Make Their Content Appear Even More Engaging and Polished
-date: 2024-11-24T18:08:06.416Z
-updated: 2024-11-26T21:16:37.397Z
+date: 2024-12-10T22:19:09.622Z
+updated: 2024-12-12T01:53:25.069Z
 tags: 
   - ai
   - animation videos
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 Green screens are a fun way for creators to bring their personality to their stream, allowing them to dynamically alter their stream background and make their content appear even more engaging and polished. With Twitch green screen background, you can easily configure Chroma key settings and detect your green screen with a single click.
 
 The twitch green screen attaches directly to the back of your chair. You don't have to worry about stands, or spacing behind your chair. Just attach it and go. This portable green screen can fit on the back of your chair a feature that makes it easy to assemble and use for start-up twitchers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to set up a Green Screen with Twitch Studio
 
@@ -42,6 +38,10 @@ The Chroma Key section is located at the bottom of the webcam settings, and you 
 To adjust the chroma key settings, you can click on Edit Chroma Key. You will be able to change the color code and change similarity, edge transparency and color correction for the perfect fit.
 
 ## Other free ways to set up green screen for Twitch streams
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### OBS
 
@@ -414,10 +414,6 @@ You probably already have an idea of how to use a green screen, at least in prin
 
 You can follow the instructions above and live stream to multiple platforms at once with Restream. Multistreaming to platforms like YouTube, Facebook, Twitter, Twitch, and LinkedIn allows you to drastically increase the audience reach and grow your followers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### XBOX
 
 It is a video gaming brand created and owned by Microsoft. The brand consists of five video game consoles, as well as applications(games), streaming services, an online service by the name of Xbox network, and the development arm by the name of Xbox Game Studios. The brand was first introduced in the United States in November 2001, with the launch of the original Xbox console.
@@ -527,10 +523,6 @@ Video stabilization
 
 Scene detection
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 You probably already have an idea of how to use a green screen, at least in principle. You film something or someone in front of a colored background — the green screen — then you replace everything that’s in the color of the screen with other footage, images, charts, presentations, or whatever visuals you want. However, Chroma keying a live stream works almost the same way. The main difference is that you have to replace the green screen as you’re filming, rather than during editing.
@@ -564,10 +556,6 @@ Invasion of privacy is both morally and ethically wrong. If you are making a vid
 
 If you are creating a commercial advertisement to sell your product, it may be possible that the video may contain some unwanted people in the background. To make your commercial advertisement look professional, you must hide the unnecessary people from your video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. To Create Social Media Posts
 
 While running social media campaigns to raise awareness of any social issue, you must ensure to hide the individual’s face. The reason is that showing someone’s face on your social media post without their consent can be legally or morally wrong.
@@ -576,15 +564,15 @@ While running social media campaigns to raise awareness of any social issue, you
 
 Many parents don’t like to expose their children’s identity over the internet. If you have created a video including a minor, you should blur his face to display a sense of responsibility. Thus, you must know how to blur the face of people efficiently.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Track and Blur Faces in Videos with Premiere Pro?
 
 Do you have any experience using [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)? This tool is one of the industry-leading platforms through which professionals can edit their videos effectively. Using this tool, you can edit your videos according to your preferences to express your emotions in a compelling manner. You can add music tracks to your videos to add more engagement for your viewers.
 
 Besides being a great video editing tool, you can use this tool to add various modifications. For instance, you can add vibrant backgrounds and other elements to your videos. Moreover, you can also use **Adobe** **Premiere to blur faces** efficiently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps to Blur Faces Using Adobe Premiere Pro
 
@@ -593,6 +581,10 @@ Are you ready to learn **how to blur faces in Premiere Pro**? Read this part of 
 Step1 Navigate to Adobe Premiere Pro and upload the desired video. Now head to the **“Effects”** option by selecting the **“Windows”** tab.
 
 ![choose effects option](https://images.wondershare.com/filmora/article-images/2023/02/blur-face-in-premiere-pro-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Afterward, type the word **“Mosaic”** in the search box and select this option in the results. Now drag and drop this effect on the timeline. It will add a blur effect to your complete video.
 
@@ -635,10 +627,6 @@ Now adjust the motion tracking space from your preview window. Once done, hit th
 To proceed, head to the “Effects” section and locate the “Video Effects” section. From there, search for the effect called "Mosaic." From the results, drag and drop the effect to the timeline and extend it according to your clip.
 
 ![select the mosaic effect](https://images.wondershare.com/filmora/article-images/2023/02/blur-face-in-premiere-pro-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step4 Adjust the Blur Settings
 
@@ -685,6 +673,10 @@ To proceed, head to the “Effects” section and locate the “Video Effects”
 Now, double-click on the effect to open settings. You can choose your desired “Blur Type” for your Mosaic effect from the settings. Also, you can change the opacity and blur strength. Afterward, adjust the blurred space on your preview window. Press “OK” to continue.
 
 ![customize mosaic blur settings](https://images.wondershare.com/filmora/article-images/2023/02/blur-face-in-premiere-pro-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step5 Choose Mosaic in Motion Tracking
 
@@ -791,7 +783,7 @@ PremiumBeat has freely given countless LUT packs as well as other assets to any 
 ![lumafusion Lut - PremiumBeat Free LUTs](https://images.wondershare.com/filmora/article-images/2022/05/lumafusion-luts-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 PremiumBeat Free LUTs
@@ -838,6 +830,10 @@ LUTs are most typically used to build and store color profiles that can be utili
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Guide to Create Freeze Frame Clone Effect Video
 
 Preparation
@@ -856,122 +852,6 @@ Download and install Wondershare Filmora on your computer. Launch Filmora and cl
 
 ![import-freeze-frame-clone-video](https://images.wondershare.com/filmora/article-images/2022/import-freeze-frame-clone-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 2
-
-Import your video clip to Project Media folder. Go to File> Import Media and click on Import Media Files option. Select the video clip from your hard drive. Otherwise, you can drag and drop the video clip directly into the Project Media folder. Finally, drop the video clip from Project Media folder onto the timeline.
-
-![import sports video into filmora](https://images.wondershare.com/filmora/article-images/2022/drag-freeze-frame-clone-video-timeline.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 3
-
-Place the marker where you want the frame to freeze. Click on Camera icon under Program window. This will take a snapshot of the current frame and place it under Project Media folder. Drag and drop the snapshot onto the timeline.
-
-![add audio effects on sports videos](https://images.wondershare.com/filmora/article-images/2022/snapshot-freeze-frame-clone-video.jpg)
-
-Step 4
-
-Match the duration of the snapshot with the point where you want the frame to freeze. Go to Effects> AI Portrait> Human Segmentation and drop the effect on the snapshot layer to make the background disappear.
-
-![adjust speed sports game video](https://images.wondershare.com/filmora/article-images/2022/use-ai-portrait-freeze-frame-clone.jpg)
-
-Step 5
-
-Double-click on the snapshot layer. Go to Effect and adjust the Edge thickness so that it looks perfect. Click on OK button and play the video to check out the effect.
-
-![add vintage effects sports game video](https://images.wondershare.com/filmora/article-images/2022/adjust-edge-freeze-frame-clone-video.jpg)
-
-Step 6
-
-Perform Step 3 to Step 5 again where you need to select a frame to freeze, take snapshot, drop onto timeline and remove background. Finally, play the video to check out the freeze frame clone effect. Save the video on your hard drive by click on Export button.
-
-![add light leaks sports video](https://images.wondershare.com/filmora/article-images/2022/export-freeze-frame-clone-video.jpg)
-
-Summary
-
-What you’ve learned:
-
-* How to take snapshot from a video for freeze frame
-* How to remove background from snapshot
-* How to mix snapshots and video for cloning effect
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-Download and install Wondershare Filmora on your computer. Launch Filmora and click on New Project on the welcome screen. Alternatively, go to File menu and select New Project option.
-
-![import-freeze-frame-clone-video](https://images.wondershare.com/filmora/article-images/2022/import-freeze-frame-clone-video.jpg)
-
-Step 2
-
-Import your video clip to Project Media folder. Go to File> Import Media and click on Import Media Files option. Select the video clip from your hard drive. Otherwise, you can drag and drop the video clip directly into the Project Media folder. Finally, drop the video clip from Project Media folder onto the timeline.
-
-![import sports video into filmora](https://images.wondershare.com/filmora/article-images/2022/drag-freeze-frame-clone-video-timeline.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 3
-
-Place the marker where you want the frame to freeze. Click on Camera icon under Program window. This will take a snapshot of the current frame and place it under Project Media folder. Drag and drop the snapshot onto the timeline.
-
-![add audio effects on sports videos](https://images.wondershare.com/filmora/article-images/2022/snapshot-freeze-frame-clone-video.jpg)
-
-Step 4
-
-Match the duration of the snapshot with the point where you want the frame to freeze. Go to Effects> AI Portrait> Human Segmentation and drop the effect on the snapshot layer to make the background disappear.
-
-![adjust speed sports game video](https://images.wondershare.com/filmora/article-images/2022/use-ai-portrait-freeze-frame-clone.jpg)
-
-Step 5
-
-Double-click on the snapshot layer. Go to Effect and adjust the Edge thickness so that it looks perfect. Click on OK button and play the video to check out the effect.
-
-![add vintage effects sports game video](https://images.wondershare.com/filmora/article-images/2022/adjust-edge-freeze-frame-clone-video.jpg)
-
-Step 6
-
-Perform Step 3 to Step 5 again where you need to select a frame to freeze, take snapshot, drop onto timeline and remove background. Finally, play the video to check out the freeze frame clone effect. Save the video on your hard drive by click on Export button.
-
-![add light leaks sports video](https://images.wondershare.com/filmora/article-images/2022/export-freeze-frame-clone-video.jpg)
-
-Summary
-
-What you’ve learned:
-
-* How to take snapshot from a video for freeze frame
-* How to remove background from snapshot
-* How to mix snapshots and video for cloning effect
-
-**What you need to prepare:**
-
-* A computer (Windows or macOS)
-* Your video materials.
-* Filmora video editor
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Step 1
-
-Download and install Wondershare Filmora on your computer. Launch Filmora and click on New Project on the welcome screen. Alternatively, go to File menu and select New Project option.
-
-![import-freeze-frame-clone-video](https://images.wondershare.com/filmora/article-images/2022/import-freeze-frame-clone-video.jpg)
-
 Step 2
 
 Import your video clip to Project Media folder. Go to File> Import Media and click on Import Media Files option. Select the video clip from your hard drive. Otherwise, you can drag and drop the video clip directly into the Project Media folder. Finally, drop the video clip from Project Media folder onto the timeline.
@@ -1042,6 +922,10 @@ Match the duration of the snapshot with the point where you want the frame to fr
 
 ![adjust speed sports game video](https://images.wondershare.com/filmora/article-images/2022/use-ai-portrait-freeze-frame-clone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5
 
 Double-click on the snapshot layer. Go to Effect and adjust the Edge thickness so that it looks perfect. Click on OK button and play the video to check out the effect.
@@ -1053,6 +937,122 @@ Step 6
 Perform Step 3 to Step 5 again where you need to select a frame to freeze, take snapshot, drop onto timeline and remove background. Finally, play the video to check out the freeze frame clone effect. Save the video on your hard drive by click on Export button.
 
 ![add light leaks sports video](https://images.wondershare.com/filmora/article-images/2022/export-freeze-frame-clone-video.jpg)
+
+Summary
+
+What you’ve learned:
+
+* How to take snapshot from a video for freeze frame
+* How to remove background from snapshot
+* How to mix snapshots and video for cloning effect
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+Download and install Wondershare Filmora on your computer. Launch Filmora and click on New Project on the welcome screen. Alternatively, go to File menu and select New Project option.
+
+![import-freeze-frame-clone-video](https://images.wondershare.com/filmora/article-images/2022/import-freeze-frame-clone-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 2
+
+Import your video clip to Project Media folder. Go to File> Import Media and click on Import Media Files option. Select the video clip from your hard drive. Otherwise, you can drag and drop the video clip directly into the Project Media folder. Finally, drop the video clip from Project Media folder onto the timeline.
+
+![import sports video into filmora](https://images.wondershare.com/filmora/article-images/2022/drag-freeze-frame-clone-video-timeline.jpg)
+
+Step 3
+
+Place the marker where you want the frame to freeze. Click on Camera icon under Program window. This will take a snapshot of the current frame and place it under Project Media folder. Drag and drop the snapshot onto the timeline.
+
+![add audio effects on sports videos](https://images.wondershare.com/filmora/article-images/2022/snapshot-freeze-frame-clone-video.jpg)
+
+Step 4
+
+Match the duration of the snapshot with the point where you want the frame to freeze. Go to Effects> AI Portrait> Human Segmentation and drop the effect on the snapshot layer to make the background disappear.
+
+![adjust speed sports game video](https://images.wondershare.com/filmora/article-images/2022/use-ai-portrait-freeze-frame-clone.jpg)
+
+Step 5
+
+Double-click on the snapshot layer. Go to Effect and adjust the Edge thickness so that it looks perfect. Click on OK button and play the video to check out the effect.
+
+![add vintage effects sports game video](https://images.wondershare.com/filmora/article-images/2022/adjust-edge-freeze-frame-clone-video.jpg)
+
+Step 6
+
+Perform Step 3 to Step 5 again where you need to select a frame to freeze, take snapshot, drop onto timeline and remove background. Finally, play the video to check out the freeze frame clone effect. Save the video on your hard drive by click on Export button.
+
+![add light leaks sports video](https://images.wondershare.com/filmora/article-images/2022/export-freeze-frame-clone-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Summary
+
+What you’ve learned:
+
+* How to take snapshot from a video for freeze frame
+* How to remove background from snapshot
+* How to mix snapshots and video for cloning effect
+
+**What you need to prepare:**
+
+* A computer (Windows or macOS)
+* Your video materials.
+* Filmora video editor
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Step 1
+
+Download and install Wondershare Filmora on your computer. Launch Filmora and click on New Project on the welcome screen. Alternatively, go to File menu and select New Project option.
+
+![import-freeze-frame-clone-video](https://images.wondershare.com/filmora/article-images/2022/import-freeze-frame-clone-video.jpg)
+
+Step 2
+
+Import your video clip to Project Media folder. Go to File> Import Media and click on Import Media Files option. Select the video clip from your hard drive. Otherwise, you can drag and drop the video clip directly into the Project Media folder. Finally, drop the video clip from Project Media folder onto the timeline.
+
+![import sports video into filmora](https://images.wondershare.com/filmora/article-images/2022/drag-freeze-frame-clone-video-timeline.jpg)
+
+Step 3
+
+Place the marker where you want the frame to freeze. Click on Camera icon under Program window. This will take a snapshot of the current frame and place it under Project Media folder. Drag and drop the snapshot onto the timeline.
+
+![add audio effects on sports videos](https://images.wondershare.com/filmora/article-images/2022/snapshot-freeze-frame-clone-video.jpg)
+
+Step 4
+
+Match the duration of the snapshot with the point where you want the frame to freeze. Go to Effects> AI Portrait> Human Segmentation and drop the effect on the snapshot layer to make the background disappear.
+
+![adjust speed sports game video](https://images.wondershare.com/filmora/article-images/2022/use-ai-portrait-freeze-frame-clone.jpg)
+
+Step 5
+
+Double-click on the snapshot layer. Go to Effect and adjust the Edge thickness so that it looks perfect. Click on OK button and play the video to check out the effect.
+
+![add vintage effects sports game video](https://images.wondershare.com/filmora/article-images/2022/adjust-edge-freeze-frame-clone-video.jpg)
+
+Step 6
+
+Perform Step 3 to Step 5 again where you need to select a frame to freeze, take snapshot, drop onto timeline and remove background. Finally, play the video to check out the freeze frame clone effect. Save the video on your hard drive by click on Export button.
+
+![add light leaks sports video](https://images.wondershare.com/filmora/article-images/2022/export-freeze-frame-clone-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Summary
 
@@ -1078,17 +1078,24 @@ What you’ve learned:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-list-innovative-youtube-channel-titles-for-blogging-and-filming-no-more-than-156-characters/"><u>[New] 2024 Approved The Ultimate List Innovative Youtube Channel Titles For Blogging & Filming (No More than 156 Characters)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-surge-in-subscribers-effective-youtube-campaigns/"><u>[New] Surge in Subscribers Effective YouTube Campaigns</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audiovisual-perfection-leading-audio-enhancement-apps/"><u>[Updated] In 2024, Audiovisual Perfection Leading Audio Enhancement Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/10-scenarios-where-using-chatgpt-could-lead-to-job-loss/"><u>10 Scenarios Where Using ChatGPT Could Lead to Job Loss</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos./"><u>2024 Approved Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-softer-sounds-with-live-software/"><u>Crafting Softer Sounds with Live Software</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-comment-on-youtube-live-chat/"><u>In 2024, How to Comment on YouTube Live Chat</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-change-background-color-in-after-effects/"><u>New 2024 Approved Change Background Color in After Effects</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/simplified-hdr-strategies-for-photography-novices/"><u>Simplified HDR Strategies for Photography Novices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/step-into-the-realm-of-3d-graffiti-a-guide-to-10-exceptional-websites/"><u>Step Into the Realm of 3D Graffiti A Guide to 10 Exceptional Websites</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-launch-problems-with-the-witcher-n3-wild-hunt/"><u>Troubleshooting Launch Problems with The Witcher N3: Wild Hunt</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-full-guide-to-funcall-voice-changer-and-its-alternatives-for-2024/"><u>Updated Full Guide to Funcall Voice Changer and Its Alternatives for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/1718087295970-updated-in-2024-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits/"><u>[Updated] In 2024, Photography Tutorial_ How to Shoot and Create Impressive HDR Portraits</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-inside-the-drone-an-in-depth-review-of-dji-phantom-3-pro-for-2024/"><u>[Updated] Inside the Drone An In-Depth Review of DJI Phantom 3 Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1722998189915-effortless-solutions-to-your-apex-legends-startup-woes/"><u>Effortless Solutions to Your Apex Legends Startup Woes!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhanced-engagement-charting-the-10-paths-to-better-gpt/"><u>Enhanced Engagement: Charting the 10 Paths to Better GPT</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-audio-systems/"><u>Expert Tips on Repairing Malfunctioning Computer Audio Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/explore-with-akasos-ek7000-high-quality-economical-adventure-tool/"><u>Explore with AKASO's EK7000: High-Quality, Economical Adventure Tool</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/fix-your-cod-modern-warfare-voice-chat-a-comprehensive-solution/"><u>Fix Your CoD: Modern Warfare Voice Chat - A Comprehensive Solution</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-itel-p40plus-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Itel P40+ Phone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-video-conferencing-a-complete-guide-to-zoom-on-android-for-2024/"><u>Mastering Video Conferencing A Complete Guide to Zoom on Android for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-funding-guide-adding-and-shopping/"><u>PlayStation Funding Guide: Adding and Shopping</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1722995270622-pubg-no-volume-heres-how-you-can-get-game-audio-back/"><u>PUBG No Volume? Here's How You Can Get Game Audio Back!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/sensational-jokes-ranking-the-viral-ones-for-2024/"><u>Sensational Jokes Ranking the Viral Ones for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/solving-your-razer-mic-issues-five-simple-solutions-to-restore-audio-functionality/"><u>Solving Your Razer Mic Issues: Five Simple Solutions to Restore Audio Functionality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/success-story-escaping-the-sea-of-thieves-loading-screen-glitch/"><u>Success Story: Escaping the Sea of Thieves Loading Screen Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/surviving-against-all-odds-understanding-resilience-in-african-american-history/"><u>Surviving Against All Odds: Understanding Resilience in African-American History</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-authoritative-periscope-users-bible-for-2024/"><u>The Authoritative Periscope User's Bible for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-guide-to-the-best-of-the-best-linksys-wrt3200acm-and-its-open-source-superiority/"><u>The Ultimate Guide to the Best of the Best: Linksys WRT3200ACM and Its Open-Source Superiority</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-tackle-crackling-in-your-earbuds-easy-ways-to-restore-clarity/"><u>Troubleshoot & Tackle Crackling in Your Earbuds – Easy Ways To Restore Clarity</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/unpacking-the-mini-powerhouse-in-depth-analysis-of-the-3rd-gen-amazon-echo-dots-alexa-capabilities/"><u>Unpacking the Mini-Powerhouse: In-Depth Analysis of the 3Rd Gen Amazon Echo Dot's Alexa Capabilities</u></a></li>
 </ul></div>
 

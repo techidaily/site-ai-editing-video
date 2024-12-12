@@ -1,7 +1,7 @@
 ---
 title: Vintage Film Effect 1920S - How to Make for 2024
-date: 2024-11-03T00:29:30.545Z
-updated: 2024-11-07T00:01:04.793Z
+date: 2024-12-10T19:49:39.703Z
+updated: 2024-12-12T12:15:21.651Z
 tags: 
   - ai
   - animation videos
@@ -81,13 +81,6 @@ Next, double-tap the **Crop** effect on the editing timeline to open the effect 
 
 ![add the dirty film and silent film effects](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tap the Effect tab, then open the **Overlay** drop-down menu. Then, choose the **Old Film** category before adding a **Dirty Film** effect above the clip. To apply a more vintage feel to your video, add a **Silent Film** effect to the track above the Dirty Film effect.
 
 ##### Step4 Add a black & white effect to your video
@@ -95,6 +88,10 @@ Tap the Effect tab, then open the **Overlay** drop-down menu. Then, choose the *
 ![add a black and white effect to your video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-5.jpg)
 
 Up to this point, your film should now start having a more vintage feel. But to make it look even older, double-click the video clip and tap the **Color** tab. After that, open the **3D LUT** arrow and choose the **B&W Film** option. Now play the video and enjoy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -105,13 +102,6 @@ See, you don't need to break a sweat to add a vintage feel to your funny video. 
 ##### Step1 Add a video you want to edit
 
 ![add a video you want to edit](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Upload your video on Filmora, then move it to the editing timeline by dragging it. This should take a second or two.
 
@@ -169,6 +159,10 @@ Tap the Effect tab, then open the **Overlay** drop-down menu. Then, choose the *
 
 ![add a black and white effect to your video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Up to this point, your film should now start having a more vintage feel. But to make it look even older, double-click the video clip and tap the **Color** tab. After that, open the **3D LUT** arrow and choose the **B&W Film** option. Now play the video and enjoy.
 
 ## Summary
@@ -186,6 +180,11 @@ See, you don't need to break a sweat to add a vintage feel to your funny video. 
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Guide: Adding Audio in Wondershare Filmora
 
@@ -199,13 +198,6 @@ The key features of [Wondershare Filmora](https://tools.techidaily.com/wondersha
 
 Filmora is not only used for adding audio to videos, but also for modifications of audio. The AI audio-related [key features](https://www.youtube.com/watch?v=2LYUGWfJDSY) of Wondershare Filmora through which you can boost your audio quality and overall video quality are presented here:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. [Audio Ducking](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Integrating two soundtracks into the videos means you have to dominate one of them. With the Audio Ducking feature of Filmora, you can lower the sound of one of the two tracks presented in the videos. This is very helpful when working on YouTube videos, podcasts, and Vlogs. This tool also automatically detects soundtracks, so you don’t have to face hassles.
@@ -213,6 +205,10 @@ Integrating two soundtracks into the videos means you have to dominate one of th
 ### 2\. [Text-to-Speech (TTS)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 In this busy world, everyone looks for reliable shortcuts and ways to accomplish their task in a limited time. Filmora offers you the ability to convert text files into realistic and outclass voiceovers. You can also write lengthy blogs, share them with the site and [make voiceover videos](https://tools.techidaily.com/wondershare/filmora/download/) with state of art accuracy
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. [Silence Detection](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -269,6 +265,10 @@ Following this, drag your selected audio in the video in "Timeline" and "Double 
 
 ![Add Audio to Video](https://images.wondershare.com/filmora/article-images/2023/add-audio-and-adjust-in-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Detach Audio From Video with Wondershare Filmora
 
 The procedure of audio detaching is also very smooth. Feel free to follow the steps instructed here to accomplish this task:
@@ -286,13 +286,6 @@ The procedure of audio detaching is also very smooth. Feel free to follow the st
 To get started, launch Filmora and import the video by clicking on the "Click here to import media" button. To continue, drag the imported video to the "Timeline."
 
 ![add video to timeline](https://images.wondershare.com/filmora/article-images/2023/add-video-to-timeline.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 2Detach Audio from Video
 
@@ -396,6 +389,10 @@ Every person wishes to customize the audio in the video so they can share their 
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Luckily, Wondershare Filmora can help you a lot in modifying and customizing the audio parameters. To change the audio parameters in this audio adjuster, follow the instructions listed here:
@@ -460,6 +457,10 @@ Filmora also offers advanced color grading tools so that you can correct and enh
 1. Once done with performing time lapse slower, save and export your edited time-lapse video by choosing the "Export" option.
 1. Choose the desired output format and save location, then click "Export" to save the edited video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part3 Method 2: Using Imovie To Change Time Lapse Speed**
 
 1. Open iMovie on your iOS device.
@@ -471,13 +472,6 @@ Filmora also offers advanced color grading tools so that you can correct and enh
 1. Adjust the speed according to your preference by dragging the slider or entering a value.
 1. Play the video to preview the new speed.
 1. Once you are done with the slow down time lapse video, you can save or export the edited video.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Summary**
 
@@ -603,6 +597,10 @@ Next, scrub through the clip to find your first action frame. **For example,** i
 
 ![select the first action frame](https://images.wondershare.com/filmora/article-images/2022/12/freeze-frame-sequence-filmora-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step5 Take a screenshot of the action frame
 
 Let's head to the camera icon under the preview screen and click the icon. It will take a screenshot of the current frame that the playhead is on the timeline.
@@ -643,24 +641,15 @@ Then, pick a new frame.
 
 ![select a new frame](https://images.wondershare.com/filmora/article-images/2022/12/freeze-frame-sequence-filmora-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Click the camera icon.
 * Drag the screenshot at the new playhead spot.
 * Extend the clip.
 
 ![repeat the steps](https://images.wondershare.com/filmora/article-images/2022/12/freeze-frame-sequence-filmora-16.png)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Double-click to mask this frame.
 * And play it back to make sure it looks good.
@@ -681,13 +670,6 @@ You've known how to make the freeze frame sequence. However, don't miss essentia
 First, ensure **a steady shot with no camera shake** while filming. You can use a tripod or a stable surface to keep your camera still.
 
 ![keep your camera still](https://images.wondershare.com/filmora/article-images/2022/12/freeze-frame-sequence-filmora-18.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Why is it necessary to make a steady shot?**
 
@@ -772,6 +754,10 @@ Then, pick a new frame.
 
 ![select a new frame](https://images.wondershare.com/filmora/article-images/2022/12/freeze-frame-sequence-filmora-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Click the camera icon.
 * Drag the screenshot at the new playhead spot.
 * Extend the clip.
@@ -817,13 +803,6 @@ Make sure **your subject only crosses the same spot once**. Otherwise, you would
 * It prevents misalignment of the shots, and your print won't get damaged, primarily when you use pieces of the same image.
 * It helps to create an illusion of holding specific moments.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final Words
 
 The Freeze Frame Sequence looks professional but much more manageable. The creator's confidence gets to the next level when they learn how to create it. This step-wise guide using Wondershare Filmora is all for your ease.
@@ -844,22 +823,14 @@ The Freeze Frame Sequence looks professional but much more manageable. The creat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-face-to-face-factor-dissecting-apples-x-and-samsungs-identification-methods/"><u>[New] Face-to-Face Factor Dissecting Apple’s X and Samsung’s Identification Methods</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-top-10-free-tools-to-convert-srt-into-engaging-video-content-for-2024/"><u>[New] Top 10 FREE Tools to Convert SRT Into Engaging Video Content for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unraveling-whatsapps-voice-transmission-techniques/"><u>[New] Unraveling WhatsApp's Voice Transmission Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-adjusting-colors-in-gopro-video/"><u>[Updated] The Ultimate Guide to Adjusting Colors in GoPro Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-windows-movie-maker-save-mp4-file/"><u>2024 Approved How Windows Movie Maker Save MP4 File</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/blender-green-screen-effects-for-2024/"><u>Blender Green Screen Effects for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v27e-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V27e to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-tecno-pop-7-pro-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Tecno Pop 7 Pro Pattern Lock Screen</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-layering-youtube-songs-onto-video-plays/"><u>In 2024, Layering YouTube Songs Onto Video Plays</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-filter-to-video-in-premiere-pro/"><u>New How to Add Filter to Video in Premiere Pro?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects-for-2024/"><u>New How To Make a Timelapse in After Effects for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-tutorial-video-with-filmora/"><u>New How to Make Tutorial Video with Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-start-a-vlog/"><u>Updated How to Start a Vlog</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-convert-your-videos-to-60-fps-using-these-excellent-tools/"><u>Updated In 2024, Convert Your Videos to 60 FPS Using These Excellent Tools</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-n-11-kernel-protection-flaw-resolution-techniques-covered/"><u>Windows N 11 Kernel Protection Flaw - Resolution Techniques Covered</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-x6-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/i-numero-italiani-in-forma-di-saghe-1-1000/"><u>I Numero Italiani in Forma Di Saghe (1-1000)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-after-effe/"><u>In 2024, Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-artistic-journey-animating-scenes-with-windows-movie-maker/"><u>In 2024, The Artistic Journey Animating Scenes with Windows Movie Maker</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-mov-video-editors-no-watermark-no-cost/"><u>New 2024 Approved Free MOV Video Editors No Watermark, No Cost</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954212516-new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video-for-2024/"><u>New Ultimate Guide on How To Plan and Storyboard a Music Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review/"><u>New VSDC Free Video Editor Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/overcoming-gogoanime-difficulties-expert-tips-for-getting-uninterrupted-anime-streams/"><u>Overcoming GogoAnime Difficulties - Expert Tips for Getting Uninterrupted Anime Streams</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-virtual-green-screen-to-shoot-video-for-2024/"><u>Updated How To Use Virtual Green Screen to Shoot Video for 2024</u></a></li>
 </ul></div>
 

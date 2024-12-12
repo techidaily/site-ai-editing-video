@@ -1,7 +1,7 @@
 ---
 title: Updated Motion Blur Photo With GIMP Step-By-Step Guide
-date: 2024-10-31T17:22:08.707Z
-updated: 2024-11-06T19:53:13.645Z
+date: 2024-12-09T23:59:37.750Z
+updated: 2024-12-12T11:18:56.567Z
 tags: 
   - ai
   - animation videos
@@ -25,6 +25,10 @@ So to help you tone your skills, we've written a comprehensive guide on how to a
 
 GIMP is frequently used as a Photoshop alternative. The software boasts a wide range of features, including support for layers, masks, color management, and third-party plugins.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features
 
 Here are some key features of the GIMP software:
@@ -45,6 +49,10 @@ Below we’ve provided the step-by-step tutorial to add a **motion blur effect**
 Step1 In the first step, launch a browser on your device, head to the [GIMP website](https://www.gimp.org/downloads/), and download the installation file according to your operating system. Now, click the downloaded installer, install the software on your system and launch it.
 
 ![downloading the gimp software to add motion blur to photos](https://images.wondershare.com/filmora/article-images/2023/02/downloading-the-gimp-software-to-add-motion-blur-to-photos.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 In the next step, click **“File”** on the GIMP dashboard, and select **“Open”** to access the Open Image window. Select your image file from your system and click **“Open”** to import the file.
 
@@ -94,6 +102,10 @@ Step5 Once satisfied with the outcome, click the "Export" option, go to the **"L
 
 Filmora offers many export options, such as your device, YouTube, Vimeo, and DVD, with just a few clicks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Last Words
 
 In this detailed tutorial, we’ve discussed what GIMP is and its key features. We’ve provided a step-by-step guide to walk you through the process of creating the motion blur effect using the GIMP software.
@@ -117,13 +129,6 @@ To add the radial blur effect to images using Filmora, here are the quick and ea
 Step1 Download the Filmora software on your PC, launch it, and click **“Create New Project”** on the main panel. Use the **“Click Here to Import your Media File”** option to import your photo and drag and drop it into the timeline.
 
 ![importing file to filmora to add motion blur](https://images.wondershare.com/filmora/article-images/2023/02/importing-file-to-filmora-to-add-motion-blur.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Now, head to the **“Effects”** tab from the taskbar. Use the search option to find the **Blur** effect. Afterward, drag & drop it in the timeline and adjust it on your selected clip.
 
@@ -258,13 +263,6 @@ For Business owners, they will get great benefits when they use influencer to pr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 Tools to Create a Time-Lapse Video Online
 
 If you’re looking for a way to create a time-lapse video online, you have come to the right place. There are different reasons why people use online time-lapse video makers. Let us take an example, if you want to make a time-lapse video of someone holding a phone in their hand then this would be pretty easy to do with the help of an online time-lapse maker.
@@ -295,25 +293,11 @@ When you create an account on Clideo, a page appears where you will get the opti
 
 ![create project select tool clideo](https://images.wondershare.com/filmora/article-images/2022/11/create-project-select-tool-clideo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3 Create a video on Clideo
 
 If you want to create a video then click on video maker and after that choose a file whether it is an image, video, gif, or music.
 
 ![create a video with clideo](https://images.wondershare.com/filmora/article-images/2022/11/create-a-video-with-clideo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4 Edit the video and export
 
@@ -322,6 +306,10 @@ With Clideo, you can make amazing videos with just one click. You can choose the
 You can also adjust the duration of your video and add music to make it more interesting. This way you can make sure that your video is the right length for the content you're putting in it.
 
 ![edit video and export from clideo](https://images.wondershare.com/filmora/article-images/2022/11/edit-video-and-export-from-clideo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Flixier Timelapse Video Maker
 
@@ -365,6 +353,10 @@ With Kapwing, you have to create an account, add media like pictures and videos,
 
 ![sign in kapwing video editor](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-kapwing-video-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Create video and change speed
 
 Kapwing is a video editing software that lets you create videos as well as control the speed according to your needs. This feature makes it easy for you to create videos with different features. You can create videos with size, transitions, layers, and fonts. You can add text to your video as well as record audio from your computer's microphone.
@@ -378,6 +370,10 @@ The software also includes other tools such as watermarking and adding subtitles
 This online tool provides you with different formats to export your video like mp4, mp3, GIF, and JPEG. You can download or export your video in full HD form. It provides you full resolution video.
 
 ![export video from kapwing editor](https://images.wondershare.com/filmora/article-images/2022/11/export-video-from-kapwing-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Veed.io Video Speed Controller
 
@@ -415,13 +411,6 @@ After all the editing you can export or download the video without watermarks. T
 
 ![export video speed controller](https://images.wondershare.com/filmora/article-images/2022/11/export-video-speed-controller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Typito Time Lapse Maker
 
 Typito Time Lapse Maker is a tool that allows you to create videos with a timelapse effect. It is easy to use, and the interface is extremely simple. The first step is to select your video source and output format. You can choose from several different video formats, including MP4, MOV, and AVI.
@@ -451,10 +440,7 @@ When you are done with the video export it. And the great thing is video can be 
 ![export video and reedit typito](https://images.wondershare.com/filmora/article-images/2022/11/export-video-and-reedit-typito.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -509,6 +495,10 @@ Step5 Trim the second shot until the talents start acting and place it on the se
 
 ![trim the second shot](https://images.wondershare.com/filmora/article-images/2022/12/appearance_5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Make an Explosion Appearance
 
 Step1 This effect is the easiest. You need to film the empty plate with just a background. Then let the talent enter the frame and jump into the place.
@@ -526,6 +516,10 @@ Step4 Delete the rest on the left. The trick is to use some explosion or smoke e
 Step5 Use the green screen sample in the default menu here. Add some smoke effects available in film stock. Place it on the third video track and move it to hide the transition.
 
 ![use the green screen sample](https://images.wondershare.com/filmora/article-images/2022/12/appearance_8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Make Roof Appearance
 
@@ -547,13 +541,6 @@ Step4 Double-click on it, activate the setting window and then key out the backg
 
 ![activate the setting window ](https://images.wondershare.com/filmora/article-images/2022/12/appearance_12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 Move the clip until it covers only the first frame of the appearing clip. Now keyframe the following subject from the outer frame to the final position.
 
 ![move the clip](https://images.wondershare.com/filmora/article-images/2022/12/appearance_13.jpg)
@@ -562,16 +549,13 @@ Step6 Now search for some smoke effects and put it upside down. So it looks like
 
 ![search for some smoke effects](https://images.wondershare.com/filmora/article-images/2022/12/appearance_14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step7 Drag the camera shake effect back to the top track and shorten it to an ideal length. You can also add some sound effects if you want to this video.
 
 ![drag the camera shake effect back to the top track](https://images.wondershare.com/filmora/article-images/2022/12/appearance_15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Tips to Look Good in Your Next Video
 
@@ -615,20 +599,15 @@ There are several fantastic camera effects that you can experiment with in your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-3-best-smartphones-for-recording-video/"><u>[Updated] 3 Best Smartphones for Recording Video</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-dynamic-typography-adding-layers-to-your-illustration/"><u>[Updated] In 2024, Dynamic Typography Adding Layers to Your Illustration</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-rethinking-streaming-new-platforms-challenge-obs/"><u>[Updated] Rethinking Streaming New Platforms Challenge OBS</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-to-use-montage-with-these-movies/"><u>2024 Approved Learn to Use Montage with These Movies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/conquering-cinematic-recording-a-guide-to-windowsmacosios-for-2024/"><u>Conquering Cinematic Recording A Guide to Windows/macOS/iOS for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/five-steps-to-resolve-chromecast-connectivity-problems-quickly/"><u>Five Steps to Resolve Chromecast Connectivity Problems Quickly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guia-definitiva-como-cambiar-archivos-avchd-m2ts-a-formato-mp4-sin-comprometer-la-calidad-las-soluciones-numero-uno-y-dos/"><u>Guía Definitiva: Cómo Cambiar Archivos AVCHD M2TS a Formato MP4 Sin Comprometer La Calidad - Las Soluciones Número Uno Y Dos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-quiz-videos-detailed-guide-for-2024/"><u>How To Create Quiz Videos Detailed Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-11-must-know-hues-for-professional-grading/"><u>In 2024, 11 Must-Know Hues for Professional Grading</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-12-mini-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 12 mini Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ultimate-6-devices-for-flawless-film-translation/"><u>Ultimate 6 Devices for Flawless Film Translation</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-3-in-camera-transitions-tricks-to-make-videos-like-a-pro-for-2024/"><u>Updated 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-benefits-of-live-streaming-on-youtube/"><u>Updated Benefits of Live Streaming on YouTube</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/vsco-slow-motion/"><u>VSCO Slow Motion</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-step-by-step-guide-to-saving-google-meet-interactions/"><u>[New] Step-by-Step Guide to Saving Google Meet Interactions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-simplicity-guide-to-iphone-screen-recordings/"><u>[New] Ultimate Simplicity Guide to iPhone Screen Recordings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-engage-efficiently-leading-insta-filters/"><u>[Updated] Engage Efficiently Leading Insta Filters</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-essential-tips-for-configuring-and-measuring-facebooks-in-stream-ads/"><u>[Updated] Essential Tips for Configuring and Measuring Facebook's In-Stream Ads</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-kinetic-typography-text-effect-easyandfast/"><u>2024 Approved Kinetic Typography Text Effect 【EASY&FAST】</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-realme-11-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme 11 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-to-use-montage-with-these-movies/"><u>In 2024, Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transform-viewing-experience-with-these-leading-top-ranked-cost-free-and-on-demand-video-downloaders/"><u>In 2024, Transform Viewing Experience with These Leading Top-Ranked, Cost-Free & On-Demand Video Downloaders</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2-methods-to-cut-video-in-vlc-on-windows/"><u>New 2 Methods to Cut Video in VLC on Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-loop-videos-with-imovie/"><u>Updated 2024 Approved How to Loop Videos with iMovie</u></a></li>
 </ul></div>
 

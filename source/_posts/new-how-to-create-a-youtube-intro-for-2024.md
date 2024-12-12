@@ -1,7 +1,7 @@
 ---
 title: New How To Create A YouTube Intro for 2024
-date: 2024-12-04T20:27:19.618Z
-updated: 2024-12-05T18:36:46.738Z
+date: 2024-12-05T18:09:36.359Z
+updated: 2024-12-12T01:16:40.124Z
 tags: 
   - ai
   - animation videos
@@ -38,6 +38,10 @@ Although branding is important, it won't guarantee views and subscribers for you
 Making a great first impression is a must when planning the opening sequence for your YouTube channel. Try to highlight the value the audience will receive from viewing your films; a brief tagline that sums up your core principles is a good starting point.
 
 Above all else, being genuine will help you make a good first impression. Others will see right through you and move on if you try to force a personality that isn't yours or if it's obvious that you're not interested in the subjects you raise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Make a plan
 
@@ -104,6 +108,10 @@ Step 2: Go to Select menu and click on Color Range.
 
 ![click on color range](https://images.wondershare.com/filmora/article-images/click-on-color-range.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Pick the Eyedropper tool. Hold Shift key to select the green background. You can also hold Alt key to remove any selection that you might have done by mistake. When you are perfectly ok with the selection of the green screen background, you should click on OK button.
 
 ![ok button](https://images.wondershare.com/filmora/article-images/ok-button.jpg)
@@ -116,13 +124,13 @@ Step 4: If you want to see a preview of the selection in your photo, you should 
 
 ![selection preview](https://images.wondershare.com/filmora/article-images/selection-preview.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Go to Select menu again and click on Refine Edge. Use the sliders to fine-tune the selection so that the selection is smooth on the edges of the main subject of the photo. Once done, click on OK button.
 
 ![refine edge](https://images.wondershare.com/filmora/article-images/refine-edge.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 6: Go to Select menu and click on Inverse again.
 
@@ -162,6 +170,10 @@ On the Timeline, your recorded video should be below the replacement photo or vi
 
 ![timeline](https://images.wondershare.com/filmora/article-images/timeline.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Double-click on your video, and you will come across a panel on the upper-left side. From that panel, you have to turn on Chroma Key option. This will enable the green screen effect due to which you will see the replacement photo or video superimposed on your recorded video in the green screen background.
 
 ![green screen background](https://images.wondershare.com/filmora/article-images/green-screen-background.jpg)
@@ -193,10 +205,6 @@ Step 5: Double-click on your video, and you will come across a panel on the uppe
 ![green screen background](https://images.wondershare.com/filmora/article-images/green-screen-background.jpg)
 
 Step 6: Finally, adjust the parameters available to fine-tune the overall green screen effect. Lastly, click on Ok button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -266,10 +274,6 @@ Filming in public and different locations can add a new dimension to any video. 
 
 Suppose you're a new vlogger and want to capture the perfect scene in public. Then this blog is for you. It will explain various tips and tricks to help you create the best videos, regardless of location. So let's start and learn more about how to film better in public!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. What Gear Will You Need to Record a Better Video in Public?
 
 While recording in public, you want to avoid setting and holding unnecessary camera gear. That's why you should keep your gear as low-key as possible. The essential shooting gears that you are going to need are as follows:
@@ -302,19 +306,23 @@ While recording a video in a busy location, you need to accomplish three things 
 
 When recording in a busy location, it is essential to try and capture clean shots. It can be done by using a wide-angle lens to get the full shot or zooming in to focus on a particular element.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Clean Audio
 
 Getting a clean and clear sound when recording audio in a busy location is essential. A good quality microphone, an audio recorder, or external noise reduction can help minimize background noise and capture the desired audio.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Decent Lighting
 
 In a busy location, decent lighting is as important as the other two factors. Look for natural light sources that can provide good light, even illumination. If these are unavailable, consider using portable lighting equipment or lamps to create a more flattering environment.
 
 Now that we know what we need let's see how to make a video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. How to Get the Best Shot While Filming Outdoor?
 
@@ -380,13 +388,13 @@ Step4 Now select a recording device and then select the time for the countdown. 
 
 ![setting the device and timer](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-10.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Click record and try to re-record your line and match it up the best you can. To get the sound and sync right, you might need to attempt a few times, but in the end, it will improve the quality of your video.
 
 ![clicking record](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This technique is used in almost every film you see, especially action sequences that also have dialogue. You can also use this technique with the help of Filmora and enhance your video with better audio quality.
 
@@ -412,6 +420,10 @@ Step3 Place the playhead at the clip's start, click **Record** just above the im
 
 ![selecting record voiceover](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Now select a recording device and then select the time for the countdown. For example, a 3-minute timer would be perfect.
 
 ![setting the device and timer](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-10.gif)
@@ -420,11 +432,11 @@ Step5 Click record and try to re-record your line and match it up the best you c
 
 ![clicking record](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This technique is used in almost every film you see, especially action sequences that also have dialogue. You can also use this technique with the help of Filmora and enhance your video with better audio quality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -447,10 +459,6 @@ Let us know your favorite film location in the comments below.
 It's not easy to get a testimonial video right. You need to know how to write one, find the right people to speak in it, and make sure your audience likes what they hear. But post-production can be even more challenging than getting everything else right: editing, adding effects, and music—it's enough to make your head spin!
 
 Fortunately for you, we're here with our step-by-step guide on how to edit testimonial videos using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). So, sit tight because we're about to take you through each stage of this process from start to finish!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Import Your Media Files to Filmora Video Editor
 
@@ -478,6 +486,10 @@ Aspect ratio is the relationship between the width and height of your video, whi
 ![select your project aspect ratio](https://images.wondershare.com/filmora/article-images/2022/08/filmora-project-aspect-ratio.jpg)
 
 Being aware of the right ratio for each social media platform will help you to advertise correctly. It also affects how you edit your video. For example, if you choose a different aspect ratio than what was originally recorded by Filmora's camera tools, then some of your content may be cut off or stretched out in undesirable ways when viewed on certain devices (e.g., smartphones).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Split Testimonial Video into Small Clips
 
@@ -523,10 +535,6 @@ You can also easily add background music from your computer by going to the "Med
 
 ![add background music](https://images.wondershare.com/filmora/article-images/2022/08/add-music-test-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Add a Logo/Watermark
 
 To add a logo or watermark to your video, follow these steps:
@@ -538,10 +546,6 @@ To add a logo or watermark to your video, follow these steps:
 You may also add your company's logo at the end of the video as a fade-out transition.
 
 ![add business logo](https://images.wondershare.com/filmora/article-images/2022/08/add-logo-to-video-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By adding a logo or watermark to your video, you can make it harder for people to illegally distribute and share your video without permission. It helps also to promote your brand or business. When viewers see your logo or watermark throughout the video, they will be more likely to remember who made the video and where they can find more information about your company or products.
 
@@ -561,10 +565,6 @@ Recommended Export Quality
 * Frame rate 30 fps
 
 Select your preferred file format and destination for storage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -594,16 +594,22 @@ Hopefully, this post gave you an idea of how to use [Filmora](https://tools.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/dvanced-strategies-for-youtube-audio-editing-mastery/"><u>[New] Advanced Strategies for YouTube Audio Editing Mastery</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-decoding-uavs-the-science-behind-airborne-machines-for-2024/"><u>[New] Decoding UAVs The Science Behind Airborne Machines for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ssential-guide-to-mounting-a-tripod-for-vloggers/"><u>[New] Essential Guide to Mounting a Tripod for Vloggers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-dial-in-the-ideal-aspect-ratio-for-stunning-youtube-videos/"><u>[Updated] Dial in the Ideal Aspect Ratio for Stunning YouTube Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-innovative-approaches-for-cross-social-media-broadcasting-fbwhatsapp/"><u>2024 Approved Innovative Approaches for Cross-Social Media Broadcasting (FB/WhatsApp)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1722998189915-effortless-solutions-to-your-apex-legends-startup-woes/"><u>Effortless Solutions to Your Apex Legends Startup Woes!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-audio-systems/"><u>Expert Tips on Repairing Malfunctioning Computer Audio Systems</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/explore-with-akasos-ek7000-high-quality-economical-adventure-tool/"><u>Explore with AKASO's EK7000: High-Quality, Economical Adventure Tool</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/fix-your-cod-modern-warfare-voice-chat-a-comprehensive-solution/"><u>Fix Your CoD: Modern Warfare Voice Chat - A Comprehensive Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-high-processor-demand-in-new-world-a-step-by-step-guide/"><u>Troubleshooting High Processor Demand in 'New World': A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/unpacking-the-mini-powerhouse-in-depth-analysis-of-the-3rd-gen-amazon-echo-dots-alexa-capabilities/"><u>Unpacking the Mini-Powerhouse: In-Depth Analysis of the 3Rd Gen Amazon Echo Dot's Alexa Capabilities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bypass-youtubes-short-video-playback-on-all-devices/"><u>[New] Bypass YouTube's Short Video Playback on All Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-step-by-step-guide-to-captivating-youtube-live-thumbnails/"><u>[Updated] 2024 Approved Step-By-Step Guide to Captivating YouTube Live Thumbnails</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-5-beginner-secrets-to-mastering-photoshop-edits/"><u>[Updated] In 2024, 5 Beginner Secrets to Mastering Photoshop Edits</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-visual-vault-techniques-for-capturing-tweets-animated-content/"><u>[Updated] The Visual Vault Techniques for Capturing Tweets’ Animated Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/alternatives-to-windows-traditional-video-editing-for-2024/"><u>Alternatives to WIndows' Traditional Video Editing for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-visibility-with-customized-channel-names/"><u>Boost Visibility with Customized Channel Names</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-getting-your-logitech-g-pro-x-mic-up-and-running-smoothly/"><u>Expert Advice: Getting Your Logitech G PRO X Mic Up and Running Smoothly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-xiaomi-redmi-k70-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Xiaomi Redmi K70 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-iphone-12-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your iPhone 12 and iPad?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-enable-the-motion-blur-effect-while-playing-dying-light-2-read-this-article-to-find-out-how-to-use-dying-light-2-motion-blur-for-a-gr/"><u>In 2024, Do You Want to Enable the Motion Blur Effect While Playing Dying Light 2? Read This Article to Find Out How to Use Dying Light 2 Motion Blur for a Great Gaming Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-id/"><u>New 2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-export-video-in-filmora/"><u>New In 2024, How To Export Video in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-to-add-subtitles-to-your-videos-efficiently-this-article-will-introduce-an-online-subtitle-editor-that-will-help-you-to-create-subtitles/"><u>Updated Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-introduction-to-luts-their-overview-and-benefits/"><u>Updated Introduction to LUTs Their Overview and Benefits</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-shoot-video-with-virtual-green-screen/"><u>Updated Shoot Video with Virtual Green Screen</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-text-animation-intro-tutorial-in-filmora/"><u>Updated Text Animation Intro Tutorial in Filmora</u></a></li>
 </ul></div>
 

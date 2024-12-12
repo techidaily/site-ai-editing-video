@@ -1,7 +1,7 @@
 ---
 title: New How to Make Tutorial Video with Filmora
-date: 2024-10-30T21:13:14.902Z
-updated: 2024-11-06T19:59:21.941Z
+date: 2024-12-05T21:01:06.149Z
+updated: 2024-12-11T20:14:04.051Z
 tags: 
   - ai
   - animation videos
@@ -51,20 +51,21 @@ Step1 Move the playhead to where you want your first section to begin. Next, cli
 
 ![click the tittles](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-5.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Click and drag your title on a track above your footage.
 
 ![click and drag your title](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Double-click your new title and type in your section title. You can even adjust the style of the text to your liking. Repeat the process for as many steps as you'd like for your tutorial
 
 ![type in your section title](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Narrate your video
 
@@ -85,13 +86,6 @@ Since you are working in a visual medium, emphasizing critical steps visually is
 Step1 firstly, the freeze frame. Move your playhead to the frame you want to freeze, select your clip, go to tools speed, and click add freeze frame.
 
 ![click add freeze frame](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-10.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 To adjust the length of your freeze, click "freeze frame." and enter any duration you want.
 
@@ -167,6 +161,10 @@ Step3 When you're ready press these buttons to begin recording your tutorial and
 
 ![begin recording your tutorial](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Keep your intro short
 
 Avoid adding any long intro monologues or skits to your tutorial. First, your goal is to be informative and entertaining. Second, it's always best to lead with a peek at what the final result of your tutorial will look like whether it's a video effect arts and crafts or a recipe video.
@@ -197,13 +195,6 @@ Step1 Moving your playhead to the beginning of your video. Then go to file recor
 
 ![go to file record media](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-8.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Once you're done recording, you can adjust the volume and further edit the voiceover by double-clicking the new audio file on your timeline.
 
 ![adjust the volume](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-9.jpg)
@@ -232,6 +223,10 @@ Step5 Now, you have to double-click the clip in the preview window and move and 
 
 ![double-click the clip in the preview window](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step6 You can also use the sliders in the animation tab to do this if you want.
 
 ![use the sliders](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-15.jpg)
@@ -255,19 +250,6 @@ Step10 Double-click the clip on top and go to "Video > "Mask" and .click the but
 Step11 Adjust the mask size and position in the preview window to the area you want to highlight.
 
 ![adjust the mask size](https://images.wondershare.com/filmora/article-images/2022/12/make-tutorial-video-20.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step12 Once you're happy with the mask's position with the top clip, turn the bottom trackback on by clicking the eye icon.
 
@@ -300,6 +282,11 @@ That's how you create a tutorial video with Wondershare Filmora. Ensure you foll
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Top List] Best VHS Sound Effect That You Can Use in Video Making
 
@@ -342,6 +329,10 @@ Simply add sound effects on video with [Filmora Video Effect Editor](https://too
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Best VHS Sound Effects To Use in 2024
 
@@ -418,6 +409,10 @@ It's time to add the VHS effects to your video. Look for the "Effects" option in
 For the **VHS audio filter**, go to the "Audio" tab, select "Sound Effect," and search for "VHS." Proceed further by selecting a suitable sound effect and dragging it onto the timeline beneath your video.
 
 ![add vhs sound effect to video](https://images.wondershare.com/filmora/article-images/2023/add-vhs-sound-effect-to-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 4Export Your File
 
@@ -501,18 +496,15 @@ Open Wondershare Filmora and click on "New Project" to begin. This will bring up
 
 ![import video to filmora](https://images.wondershare.com/filmora/article-images/2023/import-video-to-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 2Apply VHS Effect to the Video
 
 It's time to add the VHS effects to your video. Look for the "Effects" option in the top bar and click on it. Next, search for "VHS" to find a variety of VHS overlays. Choose the one that suits your style and drag it onto the timeline, placing it over your video.
 
 ![add vhs effect to filmora](https://images.wondershare.com/filmora/article-images/2023/add-vhs-effect-to-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3Apply VHS Sound Effects
 
@@ -611,13 +603,6 @@ Danny Gevirtz's color grading inspires this LUT pack. It provides a collection o
 
 ![sellfy danny gevirtz filmmaker luts](https://images.wondershare.com/filmora/article-images/2023/sellfy-danny-gevirtz-filmmaker-luts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 To conclude, LUTs that are inspired capture the essence of a particular style of color grading. Choose your favorite content creator by exploring the world of LUTs and color grading. In addition, many influencers have their LUTs available on the internet. One such content creator is Danny Gevirtz, with some amazing color-grading skills. You can search for **Danny Gevirtz LUTs free download** to download yours.
@@ -633,13 +618,6 @@ To conclude, LUTs that are inspired capture the essence of a particular style of
 ## Part 2: What are the Benefits and Drawbacks of Having LUTs in Video Editing?
 
 LUTs are an amazing tool in video editing to improve the color scheme of your videos. However, Look-up Tables also have advantages and disadvantages, which are to be discussed as follows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Advantages of LUTs in Video Editing
 
@@ -709,6 +687,10 @@ Step3 Make sure all your outfits are ready.
 
 ![outfits ready](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Start recording on your camera. Walk through the door wearing the first outfit. Change your outfits and repeat the step with all your dresses. It would help if you kept the camera rolling while recording all these clips. Turning the recording on and off with every shot will result in many small movements.
 
 ## Editing footage with a professional video editor - Wondershare Filmora
@@ -741,13 +723,6 @@ Step5 We are done with the first track so lock it.
 
 ![lock first track](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step6 Import the clip again on the second track. And find the sections of the clips where the subject is walking in the video. Cut the remaining part.
 
 ![import the clip on the second track](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-9.gif)
@@ -858,6 +833,10 @@ Step14 Move the mask to the left to reveal the entire frame, and repeat the same
 
 ![reveal the frame and repeat with all outfits](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-17.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step15 After finishing all outfits, copy the clip from the first outfit. And paste it on top of all the tracks after the last outfit. And add a mask keyframe to this section too.
 
 ![add a mask frame](https://images.wondershare.com/filmora/article-images/2023/01/loop-videos-18.gif)
@@ -888,21 +867,18 @@ Post it on Instagram, and it will keep playing automatically and act like a loop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/rom-gimmicks-to-giants-navigating-popular-short-hashtags-for-2024/"><u>[New] From Gimmicks to Giants Navigating Popular Short Hashtags for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-innovating-video-streams-for-the-modern-gamer-on-youtube/"><u>[Updated] In 2024, Innovating Video Streams for the Modern Gamer on Youtube</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-elevate-your-video-productions-15-top-tier-free-music-websites/"><u>2024 Approved Elevate Your Video Productions 15 Top-Tier Free Music Websites</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-slow-down-gif-building-an-understanding/"><u>2024 Approved How To Slow Down GIF Building an Understanding</u></a></li>
-<li><a href="https://fox-that.techidaily.com/beating-the-yellow-tint-problem-in-iphones-effective-fixes-for-9-common-issues/"><u>Beating the Yellow Tint Problem in iPhones: Effective Fixes for 9 Common Issues</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/including-third-party-storage-on-file-explorer/"><u>Including Third-Party Storage on File Explorer</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-options/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Options</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-blur-faces-in-your-videos-read-this-article-to-find-out-the-easiest-way-to-blur-the-faces-in-videos-using-adobe-premiere-pro/"><u>New Do You Want to Blur Faces in Your Videos? Read This Article to Find Out the Easiest Way to Blur the Faces in Videos Using Adobe Premiere Pro</u></a></li>
-<li><a href="https://facebook.techidaily.com/potential-shift-in-social-media-power-dynamics-as-fb-could-divest-gifpedia/"><u>Potential Shift in Social Media Power Dynamics as FB Could Divest Gifpedia</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taskbar-evolution-a-timeline-from-85-to-present/"><u>Taskbar Evolution: A Timeline From '85 To Present</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essence-of-claude-2-and-how-it-serves-you/"><u>The Essence of Claude 2 and How It Serves You</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-creating-video-testimonials/"><u>Updated Creating Video Testimonials</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954202470-updated-in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>Updated In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-motion-blur-photo-with-gimp-step-by-step-guide/"><u>Updated Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-artists-secret-high-quality-free-text-files/"><u>[New] The Artist's Secret High-Quality Free Text Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-virtual-horizons-a-deep-dive-into-6-metaverse-cases/"><u>[New] Unveiling Virtual Horizons A Deep Dive Into 6 Metaverse Cases</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-navigating-the-latest-pro-cams-for-full-spheres-for-2024/"><u>[Updated] Navigating the Latest Pro Cams for Full Spheres for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-the-power-of-windows-11-with-auto-hdr-feature-activation/"><u>[Updated] Unleash the Power of Windows 11 with Auto HDR Feature Activation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-dj-game-free-easy-online-beat-detectors-revealed/"><u>Boosting DJ Game Free, Easy Online Beat Detectors Revealed</u></a></li>
+<li><a href="https://apple-account.techidaily.com/dead-by-daylight-error-code-8014-explained-solutions-and-workarounds/"><u>Dead by Daylight Error Code 8014 Explained: Solutions and Workarounds</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/fixing-performance-lags-and-stutter-in-modern-warfare-2-on-windows-systems/"><u>Fixing Performance Lags & Stutter in Modern Warfare 2 on Windows Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/pro-animation-software-the-ultimate-guide-to-mac-and-windows-tools/"><u>Pro Animation Software The Ultimate Guide to Mac and Windows Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1722995270622-pubg-no-volume-heres-how-you-can-get-game-audio-back/"><u>PUBG No Volume? Here's How You Can Get Game Audio Back!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/solution-to-stuttering-glitch-in-mass-effect-legendary-anthology-released/"><u>Solution to Stuttering Glitch in Mass Effect Legendary Anthology Released</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/success-story-escaping-the-sea-of-thieves-loading-screen-glitch/"><u>Success Story: Escaping the Sea of Thieves Loading Screen Glitch</u></a></li>
+<li><a href="https://driver-download.techidaily.com/toshiba-laptop-find-and-install-driver-updates-for-optimal-windows-performance/"><u>Toshiba Laptop: Find and Install Driver Updates for Optimal Windows Performance</u></a></li>
 </ul></div>
 

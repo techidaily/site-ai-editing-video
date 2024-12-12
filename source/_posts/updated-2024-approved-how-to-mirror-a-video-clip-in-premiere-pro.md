@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How To Mirror a Video Clip in Premiere Pro
-date: 2024-12-02T02:50:55.046Z
-updated: 2024-12-05T21:12:00.693Z
+date: 2024-12-11T03:09:40.563Z
+updated: 2024-12-12T00:44:55.971Z
 tags: 
   - ai
   - animation videos
@@ -41,9 +41,17 @@ Step2 **Look** for the "**Transform**" tab.
 
 ![adobe premiere pro transform tab](https://images.wondershare.com/filmora/article-images/adobe-premiere-pro-transform-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 **Pick** the "**Horizontal** **Flip**" or "**Vertical** **Flip**" from the drop-down list.
 
 ![adobe premiere pro horizontal or vertical flip](https://images.wondershare.com/filmora/article-images/adobe-premiere-pro-horizontal-or-vertical-flip.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 **Drag** the desired flip onto the selected clip, which will immediately reverse the image displayed on the Program Monitor.
 
@@ -83,6 +91,10 @@ Filmora also offers a variety of creative video effects and templates, making it
 
 Furthermore, Filmora's advanced color correction tools help you achieve the perfect color balance in your videos. Whether you're a beginner or a professional, Wondershare Filmora is a great option for anyone looking for a powerful and easy-to-use video editor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Mirror a Video Clip With Wondershare Filmora
 
 Mirroring a video clip is a simple process with Wondershare Filmora. This video editing software provides an intuitive and user-friendly interface, making it easy to achieve the desired result.
@@ -111,10 +123,6 @@ Step1 **Add** the video clip to a video track on the timeline
 
 ![filmora add video to timeline](https://images.wondershare.com/filmora/article-images/filmora-add-video-to-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 **Click** the "**Filters**" icon and **choose** the "**Distortion**" category
 
 ![filmora distortion effects](https://images.wondershare.com/filmora/article-images/filmora-distortion-effects.jpg)
@@ -122,10 +130,6 @@ Step2 **Click** the "**Filters**" icon and **choose** the "**Distortion**" categ
 Step3 **Locate** the "**Mirror**" effect, **drag and drop** it to the filter track, and **adjust** its duration to match the video clip
 
 ![filmora add mirror effect](https://images.wondershare.com/filmora/article-images/filmora-add-mirror-effect.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 **Preview** the results in the Preview Window before exporting the video from Filmora.
 
@@ -144,7 +148,7 @@ Filmora also offers a variety of creative video effects and templates, making it
 Furthermore, Filmora's advanced color correction tools help you achieve the perfect color balance in your videos. Whether you're a beginner or a professional, Wondershare Filmora is a great option for anyone looking for a powerful and easy-to-use video editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How To Mirror a Video Clip With Wondershare Filmora
@@ -158,7 +162,7 @@ Step1 Within the "**Flip**" section, there are four options available. To **flip
 ![filmora rotate clockwise or counterclockwise](https://images.wondershare.com/filmora/article-images/filmora-flip-horizontal-or-vertical.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 You can **rotate** the clip by clicking either the "**Clockwise**" or "**Counterclockwise**" icons under the Rotate section.
@@ -236,6 +240,10 @@ Step2 Moreover, you can choose the direction and times of the motion blur effect
 
 ![set direction and times setting](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. On Android
 
 Android users can also take benefit from the CapCut app. Once you have successfully downloaded the CapCut app on your Android phone from [Play Store](https://play.google.com/store/apps/details?id=com.lemon.lvoverseas&hl=en&gl=US), follow the below instructions:
@@ -251,10 +259,6 @@ Step2 After uploading, select the clip and scroll in the right direction. From t
 ## Part 3: The Best Alternative to CapCut to Add Motion Blur On Mobile
 
 If you want alternatives to CapCut for creating a motion blur effect flawlessly, this part of the article can help you. You can find the best 3 apps in this section that are capable of generating a motion blur effect easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Videoleap
 
@@ -291,10 +295,6 @@ Moreover, this app does not distort the quality of your video after adding the m
 
 ![nsmb motion blur video](https://images.wondershare.com/filmora/article-images/2023/02/motion-blur-on-capcut-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Download:** [**Android**](https://play.google.com/store/apps/details?id=com.wallisonfx.motionblur&hl=en&gl=US)
 
 **Key Features**
@@ -315,7 +315,7 @@ Moreover, this app does not distort the quality of your video after adding the m
 **Tutorial:** Do you want to learn how to use this app? Here is a simple and easy video tutorial that you can watch to learn how to use this tool: <https://www.youtube.com/shorts/Nm%5FxEMQc6zg>.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Node Video – Pro Video Editor
@@ -382,10 +382,6 @@ Moreover, this app does not distort the quality of your video after adding the m
 
 **Tutorial:** Do you want to learn how to use this app? Here is a simple and easy video tutorial that you can watch to learn how to use this tool: <https://www.youtube.com/shorts/Nm%5FxEMQc6zg>.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Node Video – Pro Video Editor
 
 Node Video is a complete professional tool as it offers various editing features that can help you. You can discover tons of advanced editing tools on this app, such as keyframe animation, pen tool, motion tracker, puppet pin, etc. It also provides 3D renders that can assist you in mapping your videos to 3D models.
@@ -416,6 +412,10 @@ It also offers various types of effects and filters that can transform your vide
 ### Comparison
 
 Apps like NSMB and Node Video work efficiently as they contain built-in motion blur effects. They work similarly to CapCut, as you can easily add a motion blur effect to your videos automatically. However, these apps provide limited options to choose the area and amount of effect. So, if you want to add customization to your videos proficiently, you can try Videoleap.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -466,10 +466,6 @@ Track Matte is located by default in the Timeline Window of the After Effects in
 
 ![track matte in the timeline window of the after effects](https://images.wondershare.com/filmora/article-images/2022/07/track-matter-in-the-timeline-window-of-the-after-effects.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you are still unable to find the Track Matte option, press the **F1 key** or do the following steps in sequence:
 
 1. Right-click on the area above your layers and select **"Columns."**
@@ -508,10 +504,6 @@ Instead of using the Alpha channel, Luma Mattes uses the brightness level or Lum
 ### Luma Inverted Matte
 
 Opposite of the Luma Matte, the Luma Inverted Matte uses dark or low luminance areas of the upper layer to create a mask for the lower layer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Differences Between Alpha Channel and Luma Channel
 
@@ -675,6 +667,10 @@ Step 7: Go to Layer < New < Solid and choose any color. We chose white. Now, und
 
 If you are a beginner and want a simple VHS effect, you can follow these easy steps and create the VHS video that will transport you back to the 90s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## BONUS TIP: How to Add VHS Overlays and Glitch Effects to Make Retro Videos in Filmora Video Editor?
 
 Do you remember the look of the VHS and miss it? You can bring your memories back! With Wondershare Filmora, you can add this effect easily to your videos. Adding a VHS overlay transparent brings drama and creates an atmosphere of distortion. It can significantly change the appearance and feel of your video.
@@ -793,6 +789,10 @@ When finished, click export and choose the format and target folder to save the 
 
 ![adding vhs effects on filmora](https://images.wondershare.com/filmora/article-images/2022/adding-vhs-effects-on-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The smart generation has access to HD videos and high-tech devices, yet VHS is an exciting concept for them. The videos created with this effect resemble those from the 90s era. You have to customize everything when you add a VHS effect, including the title, background noise, overlay, and credits.
 
 By choosing a video-editing software like Wondershare Filmora, users can make such videos and add retro glitch overlay professionally. You can also access Filmstock to download any video effects, stock media, templates, or sound effects for Filmora.
@@ -869,20 +869,18 @@ Detailed tutorials provided by the official channel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-top-10-free-stock-footage-websites-you-should-know/"><u>[New] 2024 Approved Top 10 Free Stock Footage Websites You Should Know</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-enhancing-tiktok-video-viewership-through-zoom/"><u>[Updated] Enhancing TikTok Video Viewership Through Zoom</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-all-things-about-adding-effects-in-kinemaster/"><u>2024 Approved All Things About Adding Effects In Kinemaster</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-latest-features-of-ios-16-for-iphones-mastering-your-devices-new-lock-screen-functionality/"><u>Discover the Latest Features of IOS 16 for iPhones: Mastering Your Device's New Lock Screen Functionality</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-joke-fusion-best-meme-concepts-for-special-occasions/"><u>In 2024, Joke Fusion Best Meme Concepts for Special Occasions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/maximizing-revenue-through-youtube-brand-partnerships-for-2024/"><u>Maximizing Revenue Through Youtube Brand Partnerships for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-do-you-know-how-ai-is-helping-video-editors-and-enthusiasts-many-video-editing-software-allows-an-auto-reframe-option-to-use-that-can-help-manage-videos/"><u>New Do You Know How AI Is Helping Video Editors and Enthusiasts? Many Video Editing Software Allows an Auto Reframe Option to Use that Can Help Manage Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-green-screen-video-in-after-effects/"><u>New How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-film-a-slow-motion-video-for-2024/"><u>New How To Film a Slow Motion Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-list-of-best-vhs-video-effect-makers/"><u>New Top List of Best VHS Video Effect Makers</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-lag-in-counter-strike-2-tips-for-a-smoother-play/"><u>Overcoming Lag in Counter-Strike 2: Tips for a Smoother Play</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/spk10-037-lights-up-scenes-with-brightness-and-adaptability/"><u>SPK10-037 Lights Up Scenes with Brightness & Adaptability</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-font-effects-to-videos/"><u>Updated 2024 Approved How to Add Font Effects to Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-your-iphone-the-secrets-to-hdr-image-magic/"><u>[New] 2024 Approved Mastering Your iPhone The Secrets to HDR Image Magic</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-your-spotify-queue-with-youtube-music-catalogs-for-2024/"><u>[New] Harmonizing Your Spotify Queue with YouTube Music Catalogs for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-most-reliable-no-cost-chrome-os-recorder-tools/"><u>[Updated] 2024 Approved Most Reliable No-Cost Chrome OS Recorder Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-crafting-captivating-images-using-leading-lines-iphone/"><u>[Updated] Crafting Captivating Images Using Leading Lines (iPhone)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discord-etiquette-101-responding-with-confidence-for-2024/"><u>[Updated] Discord Etiquette 101 Responding with Confidence for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-know-how-you-can-trim-or-merge-using-wondershare-filmora-trimming-and-merging-using-this-tool-is-an-easy-task-learn-how-for-2024/"><u>Do You Know How You Can Trim or Merge Using Wondershare Filmora? Trimming and Merging Using This Tool Is an Easy Task; Learn How for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g73-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G73 5G Phone without Google Account?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-easy-steps-to-export-video-in-filmora/"><u>New 2024 Approved Easy Steps to Export Video in Filmora</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restore-full-control-resolving-keyboard-problems-in-pathfinders-latest-adventure/"><u>Restore Full Control: Resolving Keyboard Problems in Pathfinder's Latest Adventure</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-guide-quick-fixes-for-five-common-defender-disruptions/"><u>Troubleshooting Guide: Quick Fixes For Five Common Defender Disruptions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-ways-to-make-time-lapse-video-on-macbook/"><u>Updated 3 Ways to Make Time-Lapse Video on MacBook</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora-for-2024/"><u>Updated How to Correct Lens Distortion With Filmora for 2024</u></a></li>
 </ul></div>
 

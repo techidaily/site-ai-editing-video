@@ -1,7 +1,7 @@
 ---
 title: Updated Shoot Video with Virtual Green Screen
-date: 2024-11-05T20:16:59.424Z
-updated: 2024-11-07T00:01:46.785Z
+date: 2024-12-10T05:09:55.388Z
+updated: 2024-12-12T13:10:49.160Z
 tags: 
   - ai
   - animation videos
@@ -147,13 +147,25 @@ Please note that your recorded green screen video is above the replacement video
 
 ![replacement](https://images.wondershare.com/filmora/article-images/replacement.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Double-click on the recorded video and you will see a panel on the upper-left side. From that panel, turn on Chroma Key option. We have already stated that green screen effect is technically referred to as Chroma Key.
 
 Now you will the superimposed version of the replacement video effect on the green screen background of your recorded video.
 
 ![background](https://images.wondershare.com/filmora/article-images/background.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: You can adjust several parameters available to fine tune the green screen effect. When you are done, click on Ok button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -229,24 +241,15 @@ After Effects CC must be opened, a new project must be created, the Import File 
 
 Once you have clicked on the first image in the sequence. The time-lapse video that you uploaded appears in the project library. After performing a right-click on the filename, select "New Comp from Selection" from the context menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 6\. Exporting your video
 
 After getting our sequence to perform some kind of slow, understated animation so that it appears as though the camera is moving dramatically, we will need to export a video file. Go to File > Export > Add to Render Queue, then open the Render Queue dialog box by going to Window > Render Queue. From there, you can choose the Output Module and change the settings in the options dialog box. Finally, choose the Output To option and select the location on your computer where you would like to save the video clip that we are currently rendering and exporting.
 
 ![add to render queue after effects](https://images.wondershare.com/filmora/article-images/2022/11/add-to-render-queue-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -302,13 +305,6 @@ While creating ideas for the music video, it's also important to consider the st
 
 ![types of music video style](https://images.wondershare.com/filmora/article-images/2023/04/types-of-music-video-style.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1.Performance-style music video
 
 If you want to showcase energy and charisma in your music video, go for a performance-style music video. This video style focuses on you and your band performing live in front of an audience. You can shoot a video in a single take with minimal cuts or feature different angles and shots. The key is to capture the raw energy and emotion of the performance.
@@ -323,14 +319,11 @@ Once you have an idea of what you want your music video to be about, you can put
 
 ![treatment of the plan](https://images.wondershare.com/filmora/article-images/2023/04/treatment-of-the-plan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the artist approves the direction of the video, it's time to move on to storyboarding!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Storyboard your music video
 
@@ -354,6 +347,10 @@ After doing your storyboarding on paper, take photos of each shot in a sequence 
 
 ![take pictures of the sketch](https://images.wondershare.com/filmora/article-images/2023/04/take-pictures-of-the-sketch.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Before going to the next step, make sure to download **Wondershare Filmora**. It is powerful editing software that can help you easily make a storyboard. With its wide range of features, you can also customize your clips with special effects, transitions, and more.
 
 ![filmora logo](https://images.wondershare.com/filmora/article-images/2023/04/filmora-logo.jpg)
@@ -379,13 +376,6 @@ Drag and drop the song to the audio timeline. Then press shift, select all image
 You can right-click on the picture's timeline and select **Crop to fit** to adjust the image on the screen. You can also adjust the scenes according to the song.
 
 ![selecting crop to fit](https://images.wondershare.com/filmora/article-images/2023/04/selecting-crop-to-fit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step6Add effects
 
@@ -447,6 +437,10 @@ You can also simulate transitions and effects in the clips. Let's suppose you wa
 
 ![adding keyframe to the pictures](https://images.wondershare.com/filmora/article-images/2023/04/adding-keyframe-to-the-pictures.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you feel like your clips sync with the song, you are ready to start planning for the production of your music video.
 
 ## Conclusion
@@ -459,19 +453,6 @@ We hope this blog has given you a better understanding of how planning and story
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Quick and Simple Way to Mirror Video in Premiere Pro
 
 Video editing is a crucial part of filmmaking, and it can make or break the outcome of a project. Adobe Premiere Pro is a widely used video editing software that provides a vast range of tools for professional video editing. One of the features that Premiere Pro offers is the ability to mirror video clips, which can add an interesting visual element to your footage.
@@ -479,19 +460,6 @@ Video editing is a crucial part of filmmaking, and it can make or break the outc
 In this article, we will look at how to mirror a video clip in Premiere Pro in a few simple steps. Whether you're a seasoned video editor or just starting, this guide will help you achieve the desired effect in your videos. From basic mirroring to advanced techniques, we will cover everything you need to know to create a symmetrical and visually appealing look in your projects.
 
 ![mirror videos in adobe premiere pro](https://images.wondershare.com/filmora/article-images/adobe-premiere-pro-mirror-video.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is To "Mirror" a Video?
 
@@ -569,13 +537,6 @@ Step2 You can **rotate** the clip by clicking either the "**Clockwise**" or "**C
 
 ![filmora rotate clockwise or counterclockwise](https://images.wondershare.com/filmora/article-images/filmora-rotate-clockwise-or-counterclockwise.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 If you want to specify the rotation angle, you can either **enter** a value in the box under the Rotate tab or **manipulate** the dot in the circle to achieve the desired angle.
 
 ![filmora edit rotation angle](https://images.wondershare.com/filmora/article-images/filmora-edit-rotation-angle.jpg)
@@ -598,6 +559,10 @@ Step3 **Locate** the "**Mirror**" effect, **drag and drop** it to the filter tra
 
 ![filmora add mirror effect](https://images.wondershare.com/filmora/article-images/filmora-add-mirror-effect.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 **Preview** the results in the Preview Window before exporting the video from Filmora.
 
 ![filmora edit effect duration](https://images.wondershare.com/filmora/article-images/filmora-edit-effect-duration.jpg)
@@ -609,13 +574,6 @@ Mirroring a video can add an interesting and unique visual effect to your videos
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![filmora flip tool](https://images.wondershare.com/filmora/article-images/filmora-flip-tool.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Filmora also offers a variety of creative video effects and templates, making it easy to add a unique touch to your projects. In addition, its built-in audio editing tools allow you to create professional-sounding soundtracks for your videos. Filmora's easy-to-use keyframe animation feature gives you precise control over the animation of your elements, allowing you to add movement and bring your videos to life.
 
@@ -653,6 +611,10 @@ Step2 **Click** the "**Filters**" icon and **choose** the "**Distortion**" categ
 
 ![filmora distortion effects](https://images.wondershare.com/filmora/article-images/filmora-distortion-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 **Locate** the "**Mirror**" effect, **drag and drop** it to the filter track, and **adjust** its duration to match the video clip
 
 ![filmora add mirror effect](https://images.wondershare.com/filmora/article-images/filmora-add-mirror-effect.jpg)
@@ -660,6 +622,10 @@ Step3 **Locate** the "**Mirror**" effect, **drag and drop** it to the filter tra
 Step4 **Preview** the results in the Preview Window before exporting the video from Filmora.
 
 ![filmora edit effect duration](https://images.wondershare.com/filmora/article-images/filmora-edit-effect-duration.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -683,20 +649,18 @@ Mirroring a video can add an interesting and unique visual effect to your videos
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-installation-guide-for-movie-maker-6-version-6/"><u>[New] 2024 Approved Installation Guide for Movie Maker 6 Version 6</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-photo-editing-achieving-focus-with-distortions/"><u>[New] Photo Editing Achieving Focus with Distortions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-scorching-speedways-ranking-the-top-5-virtual-race-titles/"><u>2024 Approved Scorching Speedways Ranking the Top 5 Virtual Race Titles</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-5-best-monitors-to-complement-your-ps5-xbox-series-x/"><u>2024 Approved The 5 Best Monitors to Complement Your PS5, Xbox Series X</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/a-guide-to-adding-audio-in-wondershare-filmora/"><u>A Guide to Adding Audio in Wondershare Filmora</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/guida-completa-per-risolvere-i-problemi-cronologici-di-file-in-windows-11/"><u>Guida Completa per Risolvere I Problemi Cronologici Di File in Windows 11</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-7-tips-to-create-teaching-videos/"><u>New 2024 Approved 7 Tips to Create Teaching Videos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-top-10-sony-lut-for-different-purposes/"><u>New 2024 Approved Top 10 Sony LUT for Different Purposes</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-download-and-use-windows-movie-maker-10/"><u>New How to Download and Use Windows Movie Maker 10</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-working-out-all-important-details-of-slowing-down-video-in-after-effects/"><u>New Working Out All Important Details of Slowing Down Video in After Effects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-faded-screen-settings-in-uefi/"><u>Restoring Faded Screen Settings in UEFI</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pick-in-affordable-laptops-how-the-299-hp-stream-outshines-budget-competitors-insights-by-zdnet-experts/"><u>Top Pick in Affordable Laptops: How the $299 HP Stream Outshines Budget Competitors – Insights by ZDNET Experts</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-before-and-after-editing-trick-filmora/"><u>Updated In 2024, Before & After Editing Trick - Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-renderforest-is-a-great-online-editing-platform-to-use-for-many-video-creators-if-you-want-to-make-an-intro-video-for-your-channel-or-daily-vlogs-yo/"><u>Updated Renderforest Is a Great Online Editing Platform to Use for Many Video Creators. If You Want to Make an Intro Video for Your Channel or Daily Vlogs, You Can Follow This Article to Know More Details</u></a></li>
-<li><a href="https://win-able.techidaily.com/warzone-20-stability-issues-how-to-prevent-frequent-pc-crashes/"><u>Warzone 2.0 Stability Issues - How to Prevent Frequent PC Crashes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-overcoming-screen-blackouts-in-recording-tools/"><u>[New] Overcoming Screen Blackouts in Recording Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-vloggers-guide-top-5-audio-excellence-headphones/"><u>[Updated] In 2024, Vloggers’ Guide Top 5 Audio Excellence Headphones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-realme-narzo-60-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme Narzo 60 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-full-breakdown-of-toolwizs-image-processing/"><u>In 2024, The Full Breakdown of Toolwiz's Image Processing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-100-working-methods-to-learn-how-to-rotate-tiktok-video-for-2024/"><u>New 100 Working Methods to Learn How to Rotate TikTok Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954212516-new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video-for-2024/"><u>New Ultimate Guide on How To Plan and Storyboard a Music Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review/"><u>New VSDC Free Video Editor Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-stability-issues-for-dragon-age-origins-players-on-windows-11/"><u>Resolving Stability Issues for Dragon Age: Origins Players on Windows 11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-virtual-green-screen-to-shoot-video-for-2024/"><u>Updated How To Use Virtual Green Screen to Shoot Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-clone-yourself-in-videos-with-filmora/"><u>Updated In 2024, Clone Yourself in Videos with Filmora</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Infinix GT 10 Pro | Dr.fone</u></a></li>
 </ul></div>
 

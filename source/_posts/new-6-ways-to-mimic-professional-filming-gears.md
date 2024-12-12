@@ -1,7 +1,7 @@
 ---
 title: New 6 Ways to Mimic Professional Filming Gears
-date: 2024-09-25T19:11:38.053Z
-updated: 2024-10-02T23:25:19.893Z
+date: 2024-12-10T19:16:04.356Z
+updated: 2024-12-11T23:19:31.339Z
 tags: 
   - ai
   - animation videos
@@ -63,6 +63,10 @@ Then, place the container on the lens of the phone to make a video. Then, take c
 
 ![filming underwater](https://images.wondershare.com/filmora/article-images/2023/01/mimic-professional-filming-gears-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Pro Tip:** You can also shine light source in water and add glitter or colors to get more astonishing shots.
 
 ## Part 4\. Make Colourful Shots Without Coloured Lights
@@ -83,13 +87,6 @@ Now make the video and try with different colors to add suspense, horror, and ha
 
 ![final results after making colorful shots](https://images.wondershare.com/filmora/article-images/2023/01/mimic-professional-filming-gears-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The video still needs more creative effects and designs; scroll more to read exciting tips.
 
 ## Part 5\. Different Shapes of Light with Cardboard
@@ -109,6 +106,10 @@ Cut the cardboard in any shape, whatever you want. We will experiment by cutting
 **Note:** There is no specific recommendation for the cardboard, you can use any size or shape which suits you the best.
 
 ![shaping of cardboard](https://images.wondershare.com/filmora/article-images/2023/01/mimic-professional-filming-gears-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step2 Make shots in different shapes of light
 
@@ -258,6 +259,10 @@ Due to this, the food seems good, and you can notice the number of spices too. T
 
 What if we add the rotatory shots, too, in the video? For this, check out the last tip and try that!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7\. Create a Barrel Roll Shot
 
 Barrel roll shots are the full axial shot by spinning the camera lens. Epic shots that formerly required costly gimbals and sophisticated techniques are now as simple as strolling.
@@ -275,6 +280,10 @@ First, take a camera lens or smartphone, whatever you are using to make a video,
 Attach the camera to the power drill with the help of old-fashioned tape.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** You should have a piece of square foam or soft block placed between the camera and drill to assist.
 
@@ -337,13 +346,6 @@ Now, click the **“File”** option in the top toolbar, and from the drop-down 
 
 ![click the file option](https://images.wondershare.com/filmora/article-images/2023/01/adding-object-image-in-photoshop-to-create-screen-print-effect.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Next, click the **“Lasso”** tool from the left-side menu to create the selection around the object in the image.
 
 ![click the lasso tool](https://images.wondershare.com/filmora/article-images/2023/01/selecting-object-via-lasso-tool-to-create-screen-print-effect-in-Photoshop.png)
@@ -351,13 +353,6 @@ Step2 Next, click the **“Lasso”** tool from the left-side menu to create the
 Press the **CMD/Ctrl + C** on your computer's keyboard to copy the selection. Next, click the "**Layer**" option in the top toolbar, select "**New**," and click "**Layer via Copy**."
 
 ![click layer via copy](https://images.wondershare.com/filmora/article-images/2023/01/new-layer-via-copy-to-create-screen-print-effect-in-photoshop.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Now, hide the background layer in the **“Layers”** panel on the right-hand side, and you will get your object without any BG. Click the **“Image”** option in the top toolbar and select **“Adjustments.”**
 
@@ -409,25 +404,15 @@ Mostly, the lol montage videos help to excite the League of Legend players by di
 
 ![LOL Montage](https://images.wondershare.com/filmora/article-images/2022/05/lol-montage-1.jpg)
 
-LOL Montage
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+LOL Montage
 
 ## Why we need to make LOL Montage Video
 
 You can create lol montage videos for various reasons. Here are some of them are listed below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Reason 1: Enlighten the viewers on how to play the game
 
@@ -446,6 +431,10 @@ After streaming the LOL montage videos, you can expect many viewers will become 
 It is simple to create a lol montage video. Creativity with innovative edits is sufficient to develop outstanding montage content for your needs.
 
 ![How to Create LOL Montage](https://images.wondershare.com/filmora/article-images/2022/05/lol-montage-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 How to Create LOL Montage
 
@@ -519,6 +508,10 @@ Thus, this article has given valuable insights into the LOL montage video making
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2Add Visual effects
 
 Now, select the Effects option in the Menu and witness the list of visual effects available as a built-in asset in the Filmora library. Then, choose the favorite effect option and right-click to select the Apply pop-up message. This activity applies the effect to the uploaded content in no time. You can use the Preview option to view the video effect on the recordings before making the final download of the edited content.
@@ -552,17 +545,7 @@ This article aims to demystify masking in After Effects and provide a comprehens
 ![masking in after effects](https://images.wondershare.com/filmora/article-images/after-effects-masking.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Overview of Masking in After Effects
@@ -586,13 +569,6 @@ Step1 **Choose** the layer to which you want to apply the mask.
 Step2 **Choose** one of the shape tools from the toolbar.
 
 ![after effect choose shape](https://images.wondershare.com/filmora/article-images/after-effect-choose-shape.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 **Drag** the mouse and **select** the area you want to apply the shape tool mask.
 
@@ -667,6 +643,10 @@ Step3 **Add** keyframes to animate the mask and **adjust** position, rotation, s
 
 ![filmora basic mask shapes add keyframe](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes-add-keyframe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Use Pen Tool In Masking Using Filmora
 
 Pen Tool in Masking Using Filmora is a feature that enables users to create complex masks by dragging control points and modifying B-Splines. The tool allows users to draw the mask shape precisely by zooming in and out on the player screen and to create smooth curves by holding the Alt/Option key to adjust the Bessel curve for drawn masks.
@@ -713,6 +693,10 @@ Step3 **Place** a new image behind a masked image for a new background.
 Step4 **Add** a masked image feather if needed.
 
 ![after effect pen tool add mask feather](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool-add-mask-feather.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 **Add** text, **and create** a "**shape** **layer**" to place on the text.
 
@@ -792,22 +776,24 @@ Whether you're using After Effects or Filmora, you can use masks to control the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-master-your-path-to-success-with-youtubes-keywords-guide/"><u>[New] 2024 Approved Master Your Path to Success with YouTube's Keywords Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-becoming-a-voice-alteration-virtuoso-with-morphvox/"><u>[New] Becoming a Voice Alteration Virtuoso with MorphVOX</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-recording-titans-duel-for-2024/"><u>[New] Recording Titans Duel for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-art-of-intense-focus-5-techniques-for-zooming-in-minecraft-for-2024/"><u>[New] The Art of Intense Focus 5 Techniques for Zooming in Minecraft for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-behind-every-like-unseen-factors-that-influence-viewer-reactions/"><u>2024 Approved Behind Every Like Unseen Factors That Influence Viewer Reactions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-keyframes-interval-everything-you-need-to-know/"><u>2024 Approved Keyframes Interval Everything You Need To Know</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-make-eye-zoom-transition-effect-with-filmora/"><u>2024 Approved Make Eye Zoom Transition Effect with Filmora</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-m54-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy M54 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-font-effect/"><u>In 2024, How to Add Font Effect</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713950879141-looking-for-the-steps-to-add-transitions-effects-in-premiere-pro-here-are-the-steps-to-add-and-edit-transitions-in-premiere-pro-and-an-alternative-way-to-vi/"><u>Looking for the Steps to Add Transitions Effects in Premiere Pro? Here Are the Steps to Add and Edit Transitions in Premiere Pro and an Alternative Way to Video Transitions for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-motion-text-effects-for-your-video/"><u>New How to Create Motion Text Effects for Your Video?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-make-a-tattoo-disappear-like-a-magic/"><u>New In 2024, Make A Tattoo Disappear Like A Magic</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seizing-stability-eliminating-instability-for-2024/"><u>Seizing Stability Eliminating Instability for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-analytic-assessment-in-the-youtube-sphere-for-2024/"><u>The Art of Analytic Assessment in the YouTube Sphere for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-quick-convert-guide-transforming-gifs-into-telegram-and-whatsapp-emojis-for-2024/"><u>The Quick-Convert Guide Transforming Gifs Into Telegram and WhatsApp Emojis for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/what-is-color-finale-for-2024/"><u>What Is Color Finale for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-crafting-the-ultimate-mc-community-dwellings/"><u>[Updated] Crafting the Ultimate MC Community Dwellings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-from-ordinary-to-outstanding-a-guide-to-snapchat-edits/"><u>[Updated] From Ordinary to Outstanding A Guide to Snapchat Edits</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unlock-full-potential-advanced-tips-for-zooming-images-in-snapchat/"><u>[Updated] Unlock Full Potential Advanced Tips for Zooming Images in Snapchat</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-out-what-keyframe-interval-is-why-it-is-important-and-to-change-its-value-on-obs-studio-with-simple-and-easy-to-follow-instructions/"><u>2024 Approved Find Out What Keyframe Interval Is, Why It Is Important, and to Change Its Value on OBS Studio with Simple and Easy-to-Follow Instructions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-prime-vr-options-enhancing-drone-operations/"><u>2024 Approved Prime VR Options Enhancing Drone Operations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/from-conceptualization-to-production-writing-engaging-documentary-stories/"><u>From Conceptualization to Production Writing Engaging Documentary Stories</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-fantastic-glitch-effects-with-filmora-read-this-guide-to-find-out-how-to-apply-glitch-effects-on-your-videos-and-make-custom-glitch-effects/"><u>How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-how-to-zoom-in-google-meet/"><u>In 2024, How to Zoom In Google Meet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-is-there-a-business-model-for-shopping-blog-reviews/"><u>In 2024, Is There a Business Model for Shopping Blog Reviews?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-3-in-camera-transitions-tricks-to-make-videos-for-2024/"><u>New 3 In-Camera Transitions Tricks To Make Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-export-video-in-filmora-for-2024/"><u>New Easy Steps to Export Video in Filmora for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-make-a-tattoo-disappear-like-a-magic-for-2024/"><u>New Make A Tattoo Disappear Like A Magic for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-8-must-have-apps-for-instagram-schedulers-on-all-smartphones/"><u>The 8 Must-Have Apps for Instagram Schedulers on All Smartphones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-v27-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo V27 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-create-glitch-text-effect/"><u>Updated Create Glitch Text Effect</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-motion-blur-on-capcut-iphone-and-android-for-2024/"><u>Updated How To Add Motion Blur On CapCut? (IPhone & Android) for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora/"><u>Updated How to Correct Lens Distortion With Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-use-speed-ramping-to-create-an-intense-action-footage/"><u>Updated In 2024, How To Use Speed Ramping to Create an Intense Action Footage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On OnePlus 11 5G? | Dr.fone</u></a></li>
 </ul></div>
 

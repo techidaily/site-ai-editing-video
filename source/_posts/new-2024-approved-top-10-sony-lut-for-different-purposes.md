@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Top 10 Sony LUT for Different Purposes
-date: 2024-12-02T06:59:16.612Z
-updated: 2024-12-05T17:03:11.038Z
+date: 2024-12-08T19:54:04.964Z
+updated: 2024-12-12T08:28:35.104Z
 tags: 
   - ai
   - animation videos
@@ -43,13 +43,13 @@ Time spent in a color-grade suite may be highly costly, and it can lead your fil
 
 Whether it's a client or a personal project, things can often get pushed to the last minute, so having something in your arsenal that can save you time is always a good bonus. There are, however, projects where you need to appear competent without investing a lot of time on them due to budget limits; this is where a lookup table comes in handy because you can modify the complete style of your movie in a matter of seconds by pressing a few buttons. Even complicated editing can be completed quickly, giving you more time to work on other tasks that will earn you more money.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. It provides an artistic approach
 
 LUTs are beneficial because they allow videos shot with cameras that shoot very dark, discolored images to have more vivid tones and contrast. This is excellent for grabbing viewers' attention and making videos more intriguing and engaging. LUTs add an artistic element to videos and can help you develop a visual artistic identity for your videos if you use the same colors. Another advantage of LUTs is that they enhance the color quality of videos shot on smartphones with particular color schemes. Although this varies significantly from brand to brand, you can use LUTs to make a Smartphone video more vibrant and appealing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Top 10 Sony LUT for Different Purposes
 
@@ -93,6 +93,10 @@ There are 24 Sony Cine-4 Film LUTs and 24 Rec 709 LUTs in this LUTs set. They ca
 
 ![Sony Lut - Sony Cine-4 Film and Standard LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sony Cine-4 Film and Standard LUTs
 
 ### 6\. Sony Urban Dark LUT
@@ -100,10 +104,6 @@ Sony Cine-4 Film and Standard LUTs
 The Urban Dark LUT pack aims to provide users with some dark, fascinating tones that work well with urban landscapes. These LUTs have a dark vibe that complements skin tones well.
 
 ![Sony Lut - Sony Urban Dark LUT](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Sony Urban Dark LUT
 
@@ -121,17 +121,21 @@ This Sony LUT adds a creamy feel to the video, making it more appealing while al
 
 ![Sony Lut - Sony LUT Dessert](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-8.jpg)
 
-Sony LUT "Dessert"
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Sony LUT "Dessert"
 
 ### 9\. Sony LUTs for the premiere
 
 If you want to make your video clip look professional without the color grading being too obvious, Sony LUTs for Premiere is one of the best options available. It cools down the image and enhances the contrast slightly to make the topic stand out without being overpowering. This LUT is particularly well suited to business, real estate, and action-oriented videos.
 
 ![Sony Lut - Sony LUTs for the premiere](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sony LUTs for the premiere
 
@@ -211,6 +215,10 @@ Subtitle formats are often represented funnily. You see extensions like .srt, .s
 
 **Spruce subtitle format:** They usually operate in sequential periods and frames. They have the ‘.stl’ format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. What Are Subtitles Used For?
 
 Now that we’ve known what subtitles are and the various formats they exist in, let’s take a deeper dive into what they’re used for.
@@ -289,10 +297,6 @@ The 1980s is widely regarded as the golden era of music and film-making. If you 
 
 ![1980s vintage scene](https://images.wondershare.com/filmora/article-images/2023/01/1980s-vintage-scene.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In this tutorial, you'll need at least two video clips. First, take clear footage of a hoop dancer playing to music and a disco ball footage that you'll add to the background. You can also add another footage to give your dancing video the perfect transition.
 
 **How to create a retro-style music video shot in the 80s:**
@@ -320,7 +324,7 @@ Now find the **Animation** tab, then click the **Customize** tab. Next, click **
 ![find the animation tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Meanwhile, we'll add a keyframe to the third video with a lady removing her sunglasses. To do that, add the footage to the third track, then double-click the video track. After that, place the playhead at the start of the video and apply an animation keyframe before changing the opacity to 0%. Move the playhead a few keyframes forward and add another animation keyframe.
@@ -332,7 +336,7 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summary
@@ -364,7 +368,7 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 ![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
@@ -383,10 +387,6 @@ First, run Wondershare Filmora and add the video with the hoop dancer on the fir
 
 ![add an animation keyframe](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 With the two videos imported on Filmora, move the playhead to the point where the hoop dancer begins to dance and double-click the disco ball footage.
 
 ![move the playhead to the point](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-3.jpg)
@@ -401,7 +401,15 @@ Meanwhile, we'll add a keyframe to the third video with a lady removing her sung
 
 ![add retro filters and effects to the video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1980s-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Go to the **Effect** tab and choose **Overlay**. Once that is done, select the **TV Static** option before choosing the **VHS Distortion** effect. This effect will give your video the retro feeling of the 1980s. Don't be afraid to try out the TV Static effects to find what works best in your video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -482,10 +490,6 @@ Step2 Place the nighttime video clip on the first video track of the timeline an
 
 ![place the daytime clip on the top](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Find the spot where you want to create a transition between the day and nighttime. Then, you can delete the unwanted part.
 
 ![create a transition](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-4.jpg)
@@ -503,10 +507,6 @@ Step1 Double-click the daytime clip on the timeline. In the Filmora setting, fin
 Step2 Scroll down the setting and click add a keyframe at the beginning of the clip.
 
 ![scroll down the setting](https://images.wondershare.com/filmora/article-images/2022/12/night-to-day-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Change the scale of the mask to the smallest number and adjust the Width and Height down to 0\. You can set the blur strength to 15 to make the transition edge smoother.
 
@@ -564,24 +564,18 @@ That is how to do this night-to-day transition night-to-day time shift effect in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/on-tripod-techniques-for-still-cameras-for-2024/"><u>[New] Non-Tripod Techniques for Still Cameras for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/4-effective-solutions-for-reactivating-disabled-icloud-features-on-iphoneipad/"><u>4 Effective Solutions for Reactivating Disabled iCloud Features on iPhone/iPad</u></a></li>
-<li><a href="https://win-special.techidaily.com/6-key-indicators-identifying-bogus-profiles-on-facebook/"><u>6 Key Indicators: Identifying Bogus Profiles on Facebook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-huawei-p60-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Huawei P60</u></a></li>
-<li><a href="https://fox-info.techidaily.com/frolicsome-media-repository/"><u>Frolicsome Media Repository</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-use-a-stabilization-tool-in-filmora-for-2024/"><u>How to Use a Stabilization Tool in Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-different-too/"><u>In 2024, Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-video-in-canva/"><u>In 2024, How to Loop Video in Canva</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-convert-mp4-videos-to-60-fps-gifs-with-this-easy-to-follow-tutorial-get-smooth-and-crisp-motion-in-your-gifs-in-just-a-few-simple-steps/"><u>In 2024, Learn How to Convert MP4 Videos to 60 FPS GIFs with This Easy-to-Follow Tutorial. Get Smooth and Crisp Motion in Your GIFs in Just a Few Simple Steps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-speed-kings-and-queens-of-2022/"><u>In 2024, Speed Kings and Queens of 2022</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-motion-blur-on-capcut-iphone-and-android/"><u>New 2024 Approved How To Add Motion Blur On CapCut? (IPhone & Android)</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>New How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-video-by-mouse-in-filmora-for-2024/"><u>New How To Make a Video by Mouse in Filmora for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-edit-facebook-video-ads-for-e-commerce-business/"><u>New In 2024, How to Edit Facebook Video Ads for E-Commerce Business</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-art-of-color-correction-a-final-cut-pro-guide-for-2024/"><u>New The Art of Color Correction A Final Cut Pro Guide for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/second-lifes-chances-for-revival-in-the-metaverse-landscape/"><u>Second Life's Chances for Revival in The Metaverse Landscape</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-moral-dilemrances-of-disapproving-platforms/"><u>The Moral Dilemrances of Disapproving Platforms</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-make-vintage-film-effect-1950s/"><u>Updated In 2024, How to Make Vintage Film Effect 1950S</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-m4a-opus/"><u>オンラインでのMovavi M4Aファイル変換サービス無料 - OPUS形式</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-expert-methods-for-weaving-in-live-streaming-content-online-for-2024/"><u>[New] Expert Methods for Weaving in Live Streaming Content Online for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-the-financial-aspects-of-youtube-success-for-2024/"><u>[New] Navigating the Financial Aspects of YouTube Success for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transforming-skincare-secrets-into-social-stardom/"><u>[New] Transforming Skincare Secrets Into Social Stardom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-solutions-addressing-the-synaptics-smbus-driver-conflict-on-windows-11-systems/"><u>Comprehensive Solutions: Addressing the Synaptics SMBus Driver Conflict on Windows 11 Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-in-davinci-resolve/"><u>How To Add Motion Blur In Davinci Resolve?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-poco-x6-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Poco X6 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-10-tools-to-make-quiz-videos-for-2024/"><u>New Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954137215-new-how-to-convert-images-into-video-kapwing-tutorial-for-2024/"><u>New How to Convert Images Into Video - Kapwing Tutorial for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/omni-angle-mounting-mechanisms/"><u>Omni-Angle Mounting Mechanisms</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-price-of-excellence-a-detailed-sony-xperia-n-5-assessment/"><u>The Price of Excellence: A Detailed Sony Xperia N 5 Assessment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/thorough-appraisal-gopro-silver-hero4-version-analysis/"><u>Thorough Appraisal GoPro Silver HERO4 Version Analysis</u></a></li>
 </ul></div>
 

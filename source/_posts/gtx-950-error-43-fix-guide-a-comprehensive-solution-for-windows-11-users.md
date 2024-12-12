@@ -1,7 +1,7 @@
 ---
 title: "GTX 950 'Error 43' Fix Guide: A Comprehensive Solution for Windows 11 Users"
-date: 2024-12-03T04:04:52.460Z
-updated: 2024-12-05T23:41:06.221Z
+date: 2024-12-08T20:52:11.981Z
+updated: 2024-12-11T20:18:29.072Z
 tags:
   - win11
   - win10
@@ -47,22 +47,22 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode.
@@ -70,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded.
 
@@ -88,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -96,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 2: Update Windows 10**
 
@@ -107,17 +115,9 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) If new updates are available, just download and then update them as instructed.
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -155,22 +155,22 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-list-of-effective-snapchat-techniques/"><u>[New] The Ultimate List of Effective Snapchat Techniques</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-launching-a-lucrative-channel-youtubes-most-accessible-biz-setups/"><u>[Updated] Launching a Lucrative Channel YouTube's Most Accessible Biz Setups</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-intro-with-legend-intro-maker/"><u>2024 Approved How to Create Intro with Legend Intro Maker</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-make-modern-tiktok-velocity-dance-videos-in-filmora-just-like-the-ones-you-see-on-tiktok-and-instagram-reels/"><u>2024 Approved Learn How to Make Modern TikTok Velocity Dance Videos in Filmora Just Like the Ones You See on TikTok and Instagram Reels</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/aufforderungen-mit-bedauern-deutsche-formulierung-lernen/"><u>Aufforderungen Mit Bedauern – Deutsche Formulierung Lernen</u></a></li>
-<li><a href="https://driver-download.techidaily.com/corsair-keyboard-drivers-download-for-windows-free-and-safe/"><u>CORSAIR Keyboard Drivers Download for Windows | Free & Safe</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/create-slide-masking-effect-intro/"><u>Create Slide Masking Effect Intro</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-techniques-for-efficiently-storing-fb-messenger-conversations/"><u>In 2024, Techniques for Efficiently Storing FB Messenger Conversations</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-methods-to-resolve-frozen-taskbar-in-windows-10/"><u>Top Methods to Resolve Frozen Taskbar in Windows 10</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-20-best-video-background-templates/"><u>Updated 20 Best Video Background Templates</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-best-cloud-storage-service-for-videos-for-2024/"><u>Updated Best Cloud Storage Service for Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-best-ideas-for-time-lapse-video/"><u>Updated Best Ideas for Time Lapse Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>Updated Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-record-super-slow-motion-videos-on-your-huaweisamsungiphone/"><u>Updated How to Record Super Slow Motion Videos on Your Huawei/Samsung/iPhone?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-behind-the-smile-the-deeper-story-in-each-snapchat-emoji/"><u>[Updated] Behind the Smile The Deeper Story in Each Snapchat Emoji</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-quick-and-effective-strategies-for-vimeo-capture/"><u>[Updated] Quick & Effective Strategies for Vimeo Capture</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-guide-for-setting-tiktok-countdown-timer/"><u>2024 Approved Best Guide for Setting TikTok Countdown Timer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the-a/"><u>2024 Approved Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/foto-wiederherstellung-mit-empfehlung-loschen-und-wiederfinden-von-bildern-bei-picsart/"><u>Foto-Wiederherstellung Mit Empfehlung - Löschen Und Wiederfinden Von Bildern Bei PicSArt</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-quoras-power-a-step-by-step-guide-to-engage-with-innovative-ai-chatbots-and-llms/"><u>Harnessing Quora's Power: A Step-by-Step Guide to Engage with Innovative AI Chatbots and LLMs</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-vintage-film-effect-1920s/"><u>How to Create Vintage Film Effect 1920S</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-canva-collages/"><u>How to Make Canva Collages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora/"><u>How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-note-30-vip-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Note 30 VIP</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-top-10-music-videos-on-facebook-how-to-make-a-facebook-song-video/"><u>In 2024, Top 10 Music Videos on Facebook | How to Make A Facebook Song Video?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-create-the-night-to-day-effect-video/"><u>New 2024 Approved How to Create the Night-to-Day Effect Video</u></a></li>
+<li><a href="https://windows11.techidaily.com/stepwise-strategy-to-erase-wsl-from-windows-11-operating-system/"><u>Stepwise Strategy to Erase WSL From Windows 11 Operating System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-moto-z2-smart-technology-unleashed/"><u>Understanding Moto Z2 Smart Technology Unleashed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-tips-to-make-cinematic-color-grading/"><u>Updated In 2024, Tips to Make Cinematic Color Grading</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Updated Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
 </ul></div>
 

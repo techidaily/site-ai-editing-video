@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Rules of Thirds
-date: 2024-10-31T00:51:16.287Z
-updated: 2024-11-06T18:05:55.372Z
+date: 2024-12-09T18:11:59.887Z
+updated: 2024-12-12T12:12:21.938Z
 tags: 
   - ai
   - animation videos
@@ -30,13 +30,6 @@ To gain a better understanding of this here is a visual example of the gridlines
 ![rule of thirds gridline](https://images.wondershare.com/filmora/article-images/2022/11/rule-of-thirds-gridline.jpg)
 
 This may seem simple but is often overlooked due to time restraints and eagerness to get that video out there. By following these guidelines your overall composition will gain interesting and pleasing results that can help with viewer engagement. This is only one piece of the puzzle but as any photography professional or artist will tell you, It's the small things that add up.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to use the rule of thirds
 
@@ -80,6 +73,10 @@ The rule is very useful when you're aiming to grab the attention towards a certa
 
 Even when working with a symmetrical scene you can incorporate the rule within for elements such as people or key figures but in this situation it is down to the creator to figure what they feel is best in any given shot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Rule of Thirds in Filmora
 
 The tools provided within Filmora are generous and one great feature is the crop and size tool.
@@ -99,19 +96,6 @@ Now click on the crop and zoom option and this editor will appear.
 As you can see you are able to align the shot and change the aspect ratio to align with your project. For a better look at the built in grid lines see image below.
 
 ![rule of thirds final video](https://images.wondershare.com/filmora/article-images/2022/11/rule-of-thirds-final-video.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -135,13 +119,6 @@ To conclude, the rule of thirds is very important within visual media and is tou
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Keyframes Interval: Everything You Need To Know | Filmora
 
@@ -259,6 +236,10 @@ Hopefully, the information provided in this guide was helpful, and you now have 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Text Animation Online
 
 Before you can publish your recorded video to your viewers, you need to polish the video so that you can get everyone's appreciation. This is where the magic of video editing comes into the scene. Editing your video is not just about trimming unnecessary parts and adding transitions and effects. The titles and texts you display on your video play a major role in your video content. In fact, you can create a video based on texts and titles only.
@@ -281,6 +262,10 @@ Step3Enter a name for the video and select a video shape as per your preference.
 
 ![edit video name biteable](https://images.wondershare.com/filmora/article-images/2022/08/edit-video-name-biteable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4Under Titles, select any template and it will be added to the Timeline. Similarly, you can add multiple titles templates, text templates, number templates and likewise. You will see them in the Timeline placed side by side. You can stretch their durations as per your requirements.
 
 ![select title templates biteable](https://images.wondershare.com/filmora/article-images/2022/08/select-title-templates-biteable.jpg)
@@ -301,9 +286,17 @@ Step2Go to Create menu option and select any category of video templates. You ca
 
 ![choose popular templates motionden](https://images.wondershare.com/filmora/article-images/2022/08/choose-popular-templates-motionden.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3For the selected category, you need to select the desired video template. Click on Edit Video and you can make changes to the template on the video editor as per your requirements. You need to sign up for free in order to continue and edit the template.
 
 ![edit video motionden](https://images.wondershare.com/filmora/article-images/2022/08/edit-video-motionden.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4Click on individual scenes and click on texts to customize them. Once the editing is done for each scene, click on Make Video button to build and save the text video.
 
@@ -325,6 +318,10 @@ Step3Drag and drop the uploaded video into the Timeline. Thereafter, go to Text 
 
 ![drop upload video timeline flexclip](https://images.wondershare.com/filmora/article-images/2022/08/drop-upload-video-timeline-flexclip.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4You will see all the different text effects and animations. Place your mouse pointer to preview the animation. Drag and drop the select text template to the video on the Viewer. You can check the Timeline and stretch or compress the text layer as per your requirements.
 
 ![flexclip viewer text video](https://images.wondershare.com/filmora/article-images/2022/08/flexclip-viewer-text-video.jpg)
@@ -332,13 +329,6 @@ Step4You will see all the different text effects and animations. Place your mous
 Step5Double-click on the text on Viewer window and customize the text as per your preference. Finally, click on Export button to save the edited video.
 
 ![customize text in flexclip](https://images.wondershare.com/filmora/article-images/2022/08/customize-text-in-flexclip.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -357,6 +347,10 @@ You can make video with animated text to make your presentation video eye-catchi
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change the Speed of Video in DaVinci Resolve?
 
@@ -400,6 +394,10 @@ Step3 Once the Change Clip Speed dialog box opens, modify the speed from 100% to
 
 ![once the change clip](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Click on the Change button when you are happy with the result.
 
 ### Method 2\. Speed Ramping Option
@@ -417,13 +415,6 @@ Step2 Move the play head where you want to change the speed. Click the arrow nex
 Step3 Click on the arrow next to 100% to change the speed between two-speed points. Go to the Change Speed option and select from the preset. Based on your preset speed selection, the video's speed within the speed points will change.
 
 ![arrow next to 100](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part III. Pros and Cons
 
@@ -444,13 +435,6 @@ Every video editor has its advantages as well as drawbacks. So if you think abou
 * There are reports of sudden crashes with too many video speed changes.
 
 The cons are too grave to ignore. The learning curve is also steep too. Many look for an easier alternative to DaVinci Resolve speed ramp transition.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part IV. A Simpler Alternative to DaVinci Resolve to Change Video Speed
 
@@ -481,10 +465,7 @@ Step2 Drag the video file from your computer to Filmora's timeline. Choose video
 ![top of the timeline](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 From the menu, go to the Fast or the Slow option and select a speed preset. Finally, you can export the file to save it to your computer.
@@ -504,6 +485,10 @@ Step2 Choose the Uniform Speed option, which will open the Uniform Speed tab.
 Step3 Adjust the speed slider to change the video speed as you need.
 
 ![change the video speed](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 After setting the speed, click on the Ok button. Then you can export the video in any file format.
 
@@ -569,13 +554,6 @@ Step1 Install Filmora on your computer (Windows or macOS). Open Filmora and sele
 Step2 Drag the video file from your computer to Filmora's timeline. Choose video and tap Speed icon that you can find at the top of the timeline.
 
 ![top of the timeline](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-davinci-resolve-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 From the menu, go to the Fast or the Slow option and select a speed preset. Finally, you can export the file to save it to your computer.
 
@@ -646,21 +624,22 @@ We have answered how you can use the speed ramp DaVinci Resolve 17 to speed up y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-youtube-seo-guide-for-beginners-who-want-more-views/"><u>[New] 2024 Approved YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-tablets-exclusively-designed-for-amateur-and-professional-photographers-for-2024/"><u>[New] Top Tablets Exclusively Designed for Amateur and Professional Photographers for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-discover-sj7s-boundary-pushing-4k-action-cam-technology-detailed-reviews/"><u>[Updated] 2024 Approved Discover SJ7’s Boundary-Pushing 4K Action Cam Technology - Detailed Reviews</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-captivate-viewers-create-success-a-strategy-for-gamers-channels/"><u>[Updated] In 2024, Captivate Viewers, Create Success A Strategy for Gamers' Channels</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-insightful-comparisons-top-android-applications-for-youtube-download/"><u>2024 Approved Insightful Comparisons Top Android Applications for YouTube Download</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-to-use-montage-with-these-movies/"><u>2024 Approved Learn to Use Montage with These Movies</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/expeditious-methods-for-swiftly-neutralizing-audio-interference-and-noise/"><u>Expeditious Methods for Swiftly Neutralizing Audio Interference and Noise</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-create-quiz-videos-detailed-guide-for-2024/"><u>How To Create Quiz Videos Detailed Guide for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-oppo-reno-10-pro-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Oppo Reno 10 Pro 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-transformative-strategies-for-broadcast-excellence-wirecast-on-youtube/"><u>In 2024, Transformative Strategies for Broadcast Excellence WireCast on YouTube</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>New In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-text-reveal-animation-easy-masking-filmora/"><u>New TEXT REVEAL Animation | Easy Masking Filmora</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/simple-solutions-for-capturing-playthroughs/"><u>Simple Solutions for Capturing Playthroughs</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/step-by-step-to-split-a-clip-in-vlc-for-2024/"><u>Step by Step to Split a Clip in VLC for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-3-in-camera-transitions-tricks-to-make-videos-like-a-pro-for-2024/"><u>Updated 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-captivate-viewers-designing-engaging-youtube-trailers-with-filmora/"><u>[New] 2024 Approved Captivate Viewers Designing Engaging YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-lava-blaze-2-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Lava Blaze 2</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-insights-on-data-deletion-strategies-discover-stellars-guide/"><u>Expert Insights on Data Deletion Strategies – Discover Stellar's Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-change-text-in-premiere-pro/"><u>How To Change Text In Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-distort-pic-using-different-tools-for-2024/"><u>How to Distort Pic Using Different Tools for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-strategic-synergy-in-streams-dissecting-your-videos-from-rivals/"><u>In 2024, Strategic Synergy in Streams Dissecting Your Videos From Rivals'</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavis-no-cost-toolkit-convert-your-wav64-audio-files-into-mp3-on-the-web/"><u>Movavi's No-Cost Toolkit: Convert Your Wav64 Audio Files Into MP3 on the Web!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-green-screen-video-in-after-effects/"><u>New How To Create A Green Screen Video In After Effects</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-film-a-slow-motion-video-for-2024/"><u>New How To Film a Slow Motion Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-animated-titles-and-text-in-the-filmora-video-editor-this-is-a-simple-step-by-step-tutorial-for-any-skill-level/"><u>New Learn How to Create Animated Titles and Text in the Filmora Video Editor. This Is a Simple Step-by-Step Tutorial for Any Skill Level</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-list-of-best-vhs-video-effect-makers/"><u>New Top List of Best VHS Video Effect Makers</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-chromes-file-uploading-frustrations-on-a-pc/"><u>Overcome Chrome's File Uploading Frustrations on a PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-interruptions-master-11-techniques-for-securing-a-stable-connection-between-your-airpods-and-iphone/"><u>Say Goodbye to Interruptions: Master 11 Techniques for Securing a Stable Connection Between Your AirPods and iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-add-transition-effects-in-premiere-pro/"><u>Updated 2024 Approved Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-font-effects-to-videos/"><u>Updated 2024 Approved How to Add Font Effects to Videos</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-way-to-color-grading-and-color-correction-in-filmora/"><u>Updated In 2024, Best Way To Color Grading & Color Correction in Filmora</u></a></li>
 </ul></div>
 

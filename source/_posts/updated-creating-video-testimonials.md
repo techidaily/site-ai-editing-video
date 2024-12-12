@@ -1,7 +1,7 @@
 ---
 title: Updated Creating Video Testimonials
-date: 2024-09-29T19:36:57.787Z
-updated: 2024-10-03T06:48:17.302Z
+date: 2024-12-05T17:51:23.996Z
+updated: 2024-12-12T03:15:48.020Z
 tags: 
   - ai
   - animation videos
@@ -31,6 +31,10 @@ You know you need a script, but how do you make sure it's good?
 
 ![video talent](https://images.wondershare.com/filmora/article-images/2022/07/video-talent.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Talent is the most important element in creating a quality video testimonial, and this may seem like an obvious statement. However, it is important that you recruit someone who represents your brand well. This can be a celebrity, thought leader, or customer. If you are working with celebrities, for example, make sure they represent your products or services well and are not just there for the money (or social media).
 
 If you are working with someone like a celebrity, be sure to interview them beforehand so that their story feels natural when telling it in front of the camera. In addition to finding someone who fits well with your product/service offering and brand image; look at other aspects such as age range and ethnicity when picking an appropriate talent partner.
@@ -56,6 +60,10 @@ Then, you also need to be wearing good quality clothing that fits well. Having a
 
 Finally, smile while filming! This is important because smiling helps people connect with those around them better than any other facial expression can do alone. If possible, try smiling even before turning on your camera so that people can see who they are dealing with before having any contact at all!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where to place the videos
 
 ![share testimonial vdieo](https://images.wondershare.com/filmora/article-images/2022/07/share-testimonial-vdieo.jpg)
@@ -120,6 +128,10 @@ Video testimonials can help you:
 * Generate more leads and sales quickly
 * Demonstrate the value of your products and services
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Bottom Line
 
 When you put in the right effort, video testimonials can be an incredibly powerful tool for generating trust and conversions. Video testimonials are a great way to show off your product or service, but they're also a way to build relationships with potential customers by demonstrating how much they've helped others. If you want to generate more sales, then consider implementing this strategy into your marketing plan today!
@@ -135,6 +147,11 @@ When you put in the right effort, video testimonials can be an incredibly powerf
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Make Falling Text Effect in Filmora?
 
@@ -176,13 +193,6 @@ Next, hold the title that appears in the library window and then drag it to the 
 
 ![clip the title short](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-falling-text-effect-in-filmora-3.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Edit the Title
 
 After this, you have to double-click on the top of the default title in your Track 1 timeline. A window will appear for editing the title. Click on the Text tab in this window and tap on the Font options. You should change the font of your title to Futura Bold or any other option that you would prefer.
@@ -201,6 +211,10 @@ Following that, move the playhead again by 15 frames ahead. Rotate the letter ag
 
 ![move the playhead on the timeline](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-falling-text-effect-in-filmora-6.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Repeat for the next letters
 
 After you are done with this editing process for the first letter, hold the default title in the library and drag and drop it into Track 2 on the timeline. Adjust the starting point for this layer to frame five from the beginning, and move the file to that starting point. In the end, cut the title length at the same position as layer one was, at 3.15 seconds.
@@ -210,13 +224,6 @@ Follow the process explained in the previous section for the first letter, i.e.,
 After editing the second letter in the title, repeat the process of holding and dragging the default title to Track 3 in the timeline and adjusting starting position at the 10th frame. Again, follow the process of animating the letter like for Letter 1 and Letter 2\. Continue doing this process for multiple more letters in your title text.
 
 ![follow the process for letters 1 and 2](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-falling-text-effect-in-filmora-7.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tap on the Play button under the Preview screen to see how the letters have the falling text effect.
 
@@ -235,13 +242,6 @@ Follow the animation process for all of the title clips and screenshots you did 
 Continue this keyframing step for all of the letters in sequence. After you are done here, click on the Render Preview icon on the right-hand side of the toolbar above the editing timeline. See how the falling text effects line up.
 
 ![click on the render preview icon](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-falling-text-effect-in-filmora-9.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After that, you can export the final file to your device or do further editing work through the Export button.
 
@@ -278,10 +278,7 @@ Next, hold the title that appears in the library window and then drag it to the 
 ![clip the title short](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-falling-text-effect-in-filmora-3.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Edit the Title
@@ -295,13 +292,6 @@ After this, you have to double-click on the top of the default title in your Tra
 When this part is done, in the text field, add the first letter of the text you will add to your animated introduction. After inserting the first letter only, click on the Animation tab next. Following that, you have to move the playhead on your timeline to the very front. You will see the Position parameter in the Animation settings and change the number in the Y axis until it goes out of the top frame of the video.
 
 ![change the number on the y axis](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-falling-text-effect-in-filmora-5.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Next, you must move the play head to the 1-second position in the timeline. Here, you must change the number Y axis to a lower position and adjust the Rotate element as per your preference. After that, move the playhead again to 15 frames from the 1-second mark. It would be best if you changed the Y-axis position digit to 0 and adjusted the Rotation value slightly.
 
@@ -330,10 +320,7 @@ Hide Track 1 again and click the Unhide button on Track 2\. Repeat the snapshot 
 ![tap on the snapshot icon](https://images.wondershare.com/filmora/article-images/2023/01/how-to-make-falling-text-effect-in-filmora-8.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adjust Keyframing
@@ -357,6 +344,10 @@ The UI on this software is simple to navigate, with all features easily accessib
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Secret Tips & Tricks to Use in Filmora
 
@@ -424,13 +415,6 @@ Now, whenever you encounter a resolution of a higher video than the one you sele
 
 Another hack you can use to save space on your hard drive is Deleting the Render cache. But before we do that, let us understand what Render cache is!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What is Render Cache?
 
 Rendering can be a giant leap to give you a smooth performance experience. However, when you import your videos into the timeline, you can always render to have an uninterrupted playback experience.
@@ -484,6 +468,10 @@ Doing so would have removed the Split button from your playhead. So now you can 
 Copy and paste are one of the oldest tricks in editing procedures. Wondershare Filmora comes with a range of commands and features that allow you to save time and be reliable.
 
 Suppose you want to add an effect to a video clip in the timeline. Then, after adding the effect to your video, make custom changes to make it look more closely to the style you want. You can now use the copy-and-paste function to add the same effect to another clip. That helps you save a lot of time from tedious and time-consuming work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Copy and Paste Effects
 
@@ -596,6 +584,10 @@ Step4 And on the bottom **right corner** of the window, you can see the pan and 
 Step5 Please select any of them you want and then click on **OK**.
 
 ![wonderhshare filmora pan and zoom shortcuts](https://images.wondershare.com/filmora/article-images/2023/01/secret-tips-in-wondershare-filmora-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 10\. New Feature Request
 
@@ -832,13 +824,6 @@ Step4 And on the bottom **right corner** of the window, you can see the pan and 
 Step5 Please select any of them you want and then click on **OK**.
 
 ![wonderhshare filmora pan and zoom shortcuts](https://images.wondershare.com/filmora/article-images/2023/01/secret-tips-in-wondershare-filmora-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 10\. New Feature Request
 
@@ -948,14 +933,22 @@ Utilize each panel to practice and experiment. There is no right or wrong method
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-is-inshot-surging-above-all-else-in-edits/"><u>2024 Approved Is InShot Surging Above All Else in Edits?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-record-video-streams-with-ffmpeg-on-windows-and-mac/"><u>How to Record Video Streams With FFmpeg on Windows and Mac?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>In 2024, Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pocket-playlist-portraits-actors-and-audio-art/"><u>In 2024, Pocket Playlist Portraits Actors & Audio Art</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-8-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 8? How to Fix</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-generative-ai-7-critical-errors-you-shouldnt-make/"><u>Mastering Generative AI: 7 Critical Errors You Shouldn't Make</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-comment-on-youtube-live-chat/"><u>New In 2024, How to Comment on YouTube Live Chat</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/recording-facebook-video-calls-4-methods-for-2024/"><u>Recording Facebook Video Calls [4 Methods] for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-create-motion-effect-with-path-blur-in-photoshop-for-2024/"><u>Updated Create Motion Effect with Path Blur In Photoshop for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-exploring-significance-and-usage-of-a-blue-emoji-on-messenger/"><u>[New] In 2024, Exploring Significance and Usage of a Blue Emoji on Messenger</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-brighter-days-with-five-winter-themed-backgrounds-for-2024/"><u>[Updated] Brighter Days with Five Winter-Themed Backgrounds for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-vr-travel-a-step-by-step-guide/"><u>[Updated] Mastering VR Travel A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-streamline-your-screen-time-step-by-step-towards-a-well-curated-playlist/"><u>2024 Approved Streamline Your Screen Time Step-by-Step Towards a Well-Curated Playlist</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-honor-magic-vs-2-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor Magic Vs 2 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-with-imovie-on-mac-and-iphone/"><u>How to Loop a Video with iMovie on Mac and iPhone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-strobe-light-text-effect-in-2024/"><u>How to Make Strobe Light Text Effect, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-steps-to-add-subtitles-in-canva/"><u>In 2024, Steps to Add Subtitles in Canva</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-ffmpegs-potential-for-original-formatted-audio-retrieval/"><u>In 2024, Unveiling FFmpeg's Potential for Original Formatted Audio Retrieval</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/moto-g-stylus-unveiled-excellent-execution-capabilities-enduring-power-reserve-and-a-functional-stylus-accessory/"><u>Moto G Stylus Unveiled - Excellent Execution Capabilities, Enduring Power Reserve and a Functional Stylus Accessory</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-use-virtual-green-screen-to-shoot-video/"><u>New 2024 Approved How To Use Virtual Green Screen to Shoot Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-creating-motivational-videos-with-ai-comprehensive-guide-2024/"><u>New Creating Motivational Videos with AI Comprehensive Guide 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-comparison-of-120mm-aio-coolers-be-quiet-vs-corsair-vs-cooler-master-vs-enermax/"><u>Ultimate Comparison of 120Mm AIO Coolers: Be Quiet Vs. Corsair Vs. Cooler Master Vs. Enermax</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-in-camera-transitions-tricks-to-make-videos-like-a-pro-for-2024/"><u>Updated 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-benefits-of-live-streaming-on-youtube/"><u>Updated Benefits of Live Streaming on YouTube</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mastering-video-editing-on-mac-a-step-by-step-guide-for-yosemite-users-for-2024/"><u>Updated Mastering Video Editing on Mac A Step-by-Step Guide for Yosemite Users for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vsco-slow-motion/"><u>VSCO Slow Motion</u></a></li>
 </ul></div>
 

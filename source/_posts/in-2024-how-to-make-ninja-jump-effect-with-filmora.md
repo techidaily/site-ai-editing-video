@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Make Ninja Jump Effect with Filmora
-date: 2024-11-01T20:15:42.124Z
-updated: 2024-11-06T16:32:15.641Z
+date: 2024-12-11T07:33:45.075Z
+updated: 2024-12-11T22:30:57.408Z
 tags: 
   - ai
   - animation videos
@@ -61,13 +61,6 @@ This is an empty background clip. This clip includes only background settings wi
 
 Once the shots have been taken, we move towards editing these clips, and for this purpose, we are using Filmora. Here is a step-by-step guide for editing these shots.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps To Edit These Clips
 
 The tools we are going to use in this editing are masking, time ramping, speed ramping, keyframing, the Boris FX effect, and many more.
@@ -93,6 +86,10 @@ Step2 Add a freeze frame at this point by right-clicking on the playhead and sel
 Step3 Make a cut at the start of the freeze frame, keep it for 8 frames and delete the rest.
 
 ![initial steps](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-4.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Masking of the Video Clips**
 
@@ -135,13 +132,6 @@ Step7 Find the point where the subject starts to descend toward the floor. Cut t
 Step8 Move the clip next to the freeze frame clip.
 
 ![borax fx effect](https://images.wondershare.com/filmora/article-images/2022/12/super-jump-effect-6.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Keyframing**
 
@@ -273,6 +263,10 @@ Step1 Once you have imported the video clip to the timeline of After Effects, ad
 
 Step2 After applying the effect to the adjustment layer, you can change its settings from the left side. From the left panel, you can change the blurriness value and blur dimensions according to your choice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Color Correction
 
 Color correction effects can add and manage the colors in your videos effortlessly. You can change the basic corrections of your video by adjusting the brightness, contrast, hue, exposure, highlight, and other elements. Here are the simple steps to use the adjustment layer for color correction:
@@ -379,6 +373,10 @@ Quizzes are a great way to increase engagement and interaction with your audienc
 
 ![interactive quiz](https://images.wondershare.com/filmora/article-images/2023/02/interactive-quiz.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **A Good Way To Introduce A Topic**
 
 Quizzes are an excellent way to introduce a new topic or subject matter. They can help you provide context and background information to help people understand the concepts you're trying to teach or introduce.
@@ -451,6 +449,10 @@ After completing the previous steps, you can now create the entire quiz video by
 
 Once you are done, click the **"Play"** icon to preview your work, and select the **"Export"** icon to either save the clip to your device or upload it directly to your YouTube channel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In this detailed guide, we've explored what a **video quiz** is, its advantages, and scenes where you can use them. We've also walked you through the step-by-step process of making **an interactive video quiz** using the Wondershare Filmora software.
@@ -513,6 +515,10 @@ Drone footage is an aerial recording of an event, occasion, or entire town. The 
 * [Part 3: Best Drone LUTs To Discover In 2024](#part3)
 * [Bonus Part: Learn More About Video Editing Through LUTs with Wondershare Filmora](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Do You Know About LUTs?
 
 LUTS, or Lookup Tables, do exist in small files. These files have sources to enhance color grading and optimize color correction within videos and images. The sources are special color presets that transform color schemas. The use cases of LUTs typically fall within the video and film industries. Individuals can also use these video-enhancing tools to better visualize their content.
@@ -528,6 +534,10 @@ Drone technology is a new revolution in this modern world. After all, it allows 
 * Color Correction: Drone footage often faces lighting issues that damage color gradients. When using drone LUTs pack-free, you can correct color schemas with consistency. The color imbalances will rectify.
 * Saves Resources: With LUTs, you can save time and money. So, you don't need to waste long hours on video editing. You don't even have to spend money on good editing software. Color grading becomes more straightforward with LUTs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Best Drone LUTs To Discover In 2024
 
 Aerial technology in this modern world is evolving, which includes drone usage. In contrast, you may need to upscale video colors using special drone LUTs. Here you'll find the list of the **best drone LUTs** to make video upscaling smarter:
@@ -539,10 +549,7 @@ Provide moody styles to your recorded drone footage with this DJI drone LUTs pac
 ![moody dji drone luts](https://images.wondershare.com/filmora/article-images/2023/06/drone-footage-with-free-luts-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.[DJI Drone LUTs Color Preset](https://pixflow.net/product/drone-luts/)
@@ -563,13 +570,6 @@ Apply professional color gradients to your all-important drone visual content. Y
 
 ![cinematic drone luts](https://images.wondershare.com/filmora/article-images/2023/06/drone-footage-with-free-luts-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. JHL Drone LUTs
 
 Aerial videography can be upscaled in a simpler way using JHL drone LUTs. After all, this LUTs pack contains 18 distinctive LUTs preset filters. In general, you can use these LUTs on all software editing platforms. Meanwhile, the LUTs have been tested for DJI drone clips, so expect outstanding results. The LUTs are special because they provide solutions in all weather and light ranges.
@@ -582,18 +582,15 @@ Make your aerial project more enchanting with this drone LUTs pack free. You wil
 
 ![Drone LUTs ](https://images.wondershare.com/filmora/article-images/2023/06/drone-footage-with-free-luts-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. [B&W](https://fixthephoto.com/free-drone-luts/download-8)
 
 Black and white color schemes are always special. Adding them to your aerial videos or photos can enlighten your content's visualization. By using these B&W LUTs for drones, turn aerial shoots into appealing black-and-white contrasts. This will make your visual content more aesthetic with improved engagement. Using this LUTs pack is very convenient and straightforward.
 
 ![B&W](https://images.wondershare.com/filmora/article-images/2023/06/drone-footage-with-free-luts-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Part: Learn More About Video Editing Through LUTs with Wondershare Filmora
 
@@ -657,6 +654,10 @@ Drone technology is a new revolution in this modern world. After all, it allows 
 
 Aerial technology in this modern world is evolving, which includes drone usage. In contrast, you may need to upscale video colors using special drone LUTs. Here you'll find the list of the **best drone LUTs** to make video upscaling smarter:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.[Moody DJI Drone LUTs](https://www.bouncecolor.com/products/drone-luts)
 
 Provide moody styles to your recorded drone footage with this DJI drone LUTs pack free download. There are 15 LUTs preset filters that you can use to upscale video colors. All filters are unique, with different color gradients, contrast, and compositions. You have to import these filters to use them, and they require no extra plugin. The drone LUTs pack is compatible with both Windows and Mac.
@@ -675,13 +676,6 @@ Enhance aerial videography using color grading using this cinematic drone LUTs-f
 
 ![Cinematic Drone LUTs ](https://images.wondershare.com/filmora/article-images/2023/06/drone-footage-with-free-luts-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. [CINEMATIC DRONE LUTS](https://dronemasterclassacademy.com/p/25-drone-cinematic-luts-sales)
 
 Apply professional color gradients to your all-important drone visual content. You can transform videos' visual quality by using these free LUTs for drone footage. In total, you receive 25 color presets in different color schemas and textures. This way, you can blend cinematic touch into your aerial shoot. You can even set a reference point or increase the speed of color grading.
@@ -694,31 +688,21 @@ Aerial videography can be upscaled in a simpler way using JHL drone LUTs. After 
 
 ![ jhl drone luts ](https://images.wondershare.com/filmora/article-images/2023/06/drone-footage-with-free-luts-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. [Drone LUTs](https://motionarray.com/premiere-pro-presets/drone-luts-1229457/?q=drone%20luts&sort%5Fby=most-popular&subcategories=luts)
 
 Make your aerial project more enchanting with this drone LUTs pack free. You will get 20 diverse drone LUTs preset filters. In contrast, these filters suit all lighting, weather, and environment. The color gradients of your visual content are optimized with stunning color grading. These LUTs work with any resolution. You need to drag and drop these elements into your content.
 
 ![Drone LUTs ](https://images.wondershare.com/filmora/article-images/2023/06/drone-footage-with-free-luts-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. [B&W](https://fixthephoto.com/free-drone-luts/download-8)
 
 Black and white color schemes are always special. Adding them to your aerial videos or photos can enlighten your content's visualization. By using these B&W LUTs for drones, turn aerial shoots into appealing black-and-white contrasts. This will make your visual content more aesthetic with improved engagement. Using this LUTs pack is very convenient and straightforward.
 
 ![B&W](https://images.wondershare.com/filmora/article-images/2023/06/drone-footage-with-free-luts-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Part: Learn More About Video Editing Through LUTs with Wondershare Filmora
 
@@ -778,20 +762,19 @@ Drone technology is evolving modern videography and photography with aerial view
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-drones-takeoff-to-new-heights-with-these-key-accessories/"><u>[New] Drones Takeoff to New Heights with These Key Accessories</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-ahead-of-prime-day-with-top-savings-on-govee-products-right-away/"><u>Get Ahead of Prime Day with Top Savings on Govee Products Right Away!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/harness-the-sun-and-bulbs-for-stellar-iphone-photos/"><u>Harness the Sun and Bulbs for Stellar Iphone Photos</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-enable-the-motion-blur-effect-while-playing-dying-light-2-read-this-article-to-find-out-how-to-use-dying-light-2-motion-blur-for-a-gr/"><u>In 2024, Do You Want to Enable the Motion Blur Effect While Playing Dying Light 2? Read This Article to Find Out How to Use Dying Light 2 Motion Blur for a Great Gaming Experience</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/konstantin-anisimovich-visionary-leader-and-co-creator-of-innovative-enterprise/"><u>Konstantin Anisimovich: Visionary Leader & Co-Creator of Innovative Enterprise</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-id/"><u>New 2024 Approved A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-what-is-the-best-fps-for-youtube-videos/"><u>New In 2024, What Is the Best FPS for YouTube Videos?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-picking-a-suitable-surge-protector-for-gadgets/"><u>The Ultimate Guide to Picking a Suitable Surge Protector for Gadgets</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-srt-resource-for-complete-understanding/"><u>The Ultimate SRT Resource for Complete Understanding</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/tiny-tycoon-how-ryans-channel-became-a-millionaire-hub-for-2024/"><u>Tiny Tycoon How Ryan’s Channel Became a Millionaire Hub for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-to-add-subtitles-to-your-videos-efficiently-this-article-will-introduce-an-online-subtitle-editor-that-will-help-you-to-create-subtitles/"><u>Updated Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-shoot-video-with-virtual-green-screen/"><u>Updated Shoot Video with Virtual Green Screen</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-text-animation-intro-tutorial-in-filmora/"><u>Updated Text Animation Intro Tutorial in Filmora</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-insiders-guide-to-snapchat-pins/"><u>[New] In 2024, The Insider's Guide to Snapchat Pins</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-explore-the-pinnacle-of-editing-android-edition/"><u>[Updated] In 2024, Explore the Pinnacle of Editing Android Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decode-and-repair-netflix-glitch-code-nw-30-19-for-hassle-free-watching/"><u>Decode and Repair Netflix Glitch Code NW-30-19 for Hassle-Free Watching</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/easy-guide-to-zoom-video-in-vlc/"><u>Easy Guide to Zoom Video in VLC</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-hassle-free-iphone-data-rescue-shop-the-latest-techniques/"><u>Experience Hassle-Free iPhone Data Rescue - Shop the Latest Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-pratique-pour-appliquer-des-logos-de-filigrane-uniques-aux-photographies-utilisation-du-photo-editor-movavi/"><u>Guide Pratique Pour Appliquer Des Logos De Filigrane Uniques Aux Photographies: Utilisation Du Photo Editor Movavi</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-bokeh-effect-for-2024/"><u>How to Make a Bokeh Effect for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-8-plus-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-srt-files-an-all-inclusive-guide-to-subtitles/"><u>Mastering the Art of SRT Files An All-Inclusive Guide to Subtitles</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-create-chroma-key-written-text-effects-in-filmora/"><u>New Create Chroma Key Written Text Effects in Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-easily-combine-videos-and-audios-with-5-simple-online-tools-for-2024/"><u>New Easily Combine Videos and Audios with 5 Simple Online Tools for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-ps5-vs-modern-marvel-key-distinctions/"><u>Old PS5 Vs. Modern Marvel: Key Distinctions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/professional-grau-gmbh-hardware-and-software-fixes-for-seamless-video-recovery/"><u>Professional Grau GmbH Hardware & Software Fixes for Seamless Video Recovery</u></a></li>
 </ul></div>
 

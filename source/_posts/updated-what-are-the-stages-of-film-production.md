@@ -1,7 +1,7 @@
 ---
 title: Updated What Are The Stages Of Film Production
-date: 2024-11-01T00:04:32.532Z
-updated: 2024-11-06T19:35:18.739Z
+date: 2024-12-08T13:04:18.237Z
+updated: 2024-12-11T16:17:47.739Z
 tags: 
   - ai
   - animation videos
@@ -37,6 +37,10 @@ The pre-production phase comes early in the process, it usually comes after the 
 
 Pre-production
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Production
 
 Now the fun part begins. It is time to get the movie on camera. All the producers and directors finished making the plans from the use of all the production assets that are needed to make the movie. Once the cast and locations are set, the actual filming process can begin and this can take from days, weeks, to months depending on how many locations are used, how much scenes are being filmed and if there are any problems that occur that delays the filming process.
@@ -44,6 +48,10 @@ Now the fun part begins. It is time to get the movie on camera. All the producer
 ![Production](https://images.wondershare.com/filmora/article-images/2022/06/what-are-the-stages-of-film-production-03.jpg)
 
 Production
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Post-Production
 
@@ -259,6 +267,10 @@ Changing video speed in Filmora is super easy. You can speed up your video as pe
 
 You can watch [this video](https://www.youtube.com/watch?v=4w6CEhFHnII) to understand how to change video speed in Filmora.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1\. The Simplest Way - Click "2x-100x" Speed Options
 
 Just like Final Cut Pro, you can choose from preset speed options to change video speed. This is undoubtedly the easiest way to change video speed instantly. While Final Cut Pro offers 2X to 20X speed options, Filmora has 2X to 100X speed presets. Here are the steps to speed up video by choosing a preset speed option.
@@ -293,6 +305,10 @@ Step2 Click on the Uniform Speed option. This will open the Uniform Speed tab ab
 
 ![uniform speed option](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-final-cut-pro-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Adjust the speed slider to set the desired speed as per your requirements. The duration will change as per the speed you set, and you can set the duration below the speed slider. Just like Final Cut Pro, you can turn on Ripple and Audio Pitch as per your preference.
 
 ![](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-final-cut-pro-13.jpg)
@@ -311,16 +327,13 @@ Step2 Click on Speed Ramping option. This will open Speed Ramping above the time
 
 ![click on speed ramping option](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-final-cut-pro-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Select from the available preset as per your requirements. Otherwise, you can select Customize option and edit the nodes as needed.
 
 ![available preset](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-final-cut-pro-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Once satisfied with the result, click on the Ok button. Finally, tap Export
 
@@ -352,25 +365,11 @@ Step3 Drag and drop the video file onto the timeline. Select the video clip from
 
 ![split the video clip](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-final-cut-pro-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 From the menu, go to Fast and select any speed option as per your requirements. Thereafter, play the video to see the changes.
 
 ![select any speed option](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-final-cut-pro-11.jpg)
 
 Step5 Press Export to save the video file in your desired file format.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2\. Use Uniform Speed to Change Speed
 
@@ -383,6 +382,10 @@ Step1 Once you have dropped the video file onto the timeline, click on the Speed
 Step2 Click on the Uniform Speed option. This will open the Uniform Speed tab above the timeline.
 
 ![uniform speed option](https://images.wondershare.com/filmora/article-images/2023/01/speed-up-video-with-final-cut-pro-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Adjust the speed slider to set the desired speed as per your requirements. The duration will change as per the speed you set, and you can set the duration below the speed slider. Just like Final Cut Pro, you can turn on Ripple and Audio Pitch as per your preference.
 
@@ -418,13 +421,6 @@ There are some videos where you may have to speed up certain parts. In detail, w
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Subtitles in Canva?
 
 Have you ever used [Canva](https://www.canva.com/) before? It is a famous online tool that is also available on Windows, Mac, Android, and iOS platforms. It contains various basic editing features that you can use to crop, trim, resize, and rotate your video clips and images. Apart from these basic tools, you can also navigate to the built-in library of Canva to explore its vibrant templates.
@@ -450,25 +446,11 @@ Furthermore, using Canva, you can also add exciting animations and transitions t
 * **Brand Tools:** Canva’s branding tools allow users to create and save branded templates, colors, and fonts. This makes it easy to maintain consistency across all design materials and ensures that all designs align with the brand’s visual identity.
 * **Collaboration Features:** Canva’s collaboration features make it easy for teams to work together on a design project. Users can share designs with team members and assign roles and permissions, allowing for seamless collaboration and feedback.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Advantages of Using Canva
 
 * If you want to share your videos on social media platforms instantly, Canva is the best option. Using this software, you can share your videos on Instagram or other social media platforms with a single tap.
 * Canva can also add voice-overs and narrations to your videos in high audio quality.
 * This tool provides various elements such as lines, shapes, stickers, and frames that you can add to your videos.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Pricing Plans
 
@@ -515,6 +497,10 @@ Download and launch Filmora on your desktop to initiate the process. On its main
 
 ![import your video file](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Select Speech-to-Text Feature
 
 Once done with uploading the file, drag the video file to the timeline. Click on the “Speech-to-Text” icon displayed on the timeline and hit the “OK” button after selecting the required language and file. After some seconds, subtitles would be automatically added to the timeline.
@@ -552,13 +538,6 @@ Step2 Now, hit the "Upload Files" button from the left panel and import the vide
 Step3 You can also add effects and animation to your added subtitles for more enhancements. Once done with customizations, click on the “Share” button. Here select MP4 as the video file format and save the video on your system.
 
 ![hit the share button](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Is There a Good Alternative to Add Subtitles to Videos?
 
@@ -599,10 +578,7 @@ Once you are done with all the subtitle edits, click on the “Export” button.
 ![export or share the filmora video](https://images.wondershare.com/filmora/article-images/2022/12/add-subtitles-in-canva-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -629,6 +605,10 @@ That's why we've put together this guide to the best drones on the market for ev
 
 ![dji air 2s](https://images.wondershare.com/filmora/article-images/2022/08/dji-air-2s.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The DJI's new Air 2S is our top pick. It finds the ideal compromise in terms of size, weight, picture quality, intelligent features, and price. The camera on the Air 2S isn't as nice as the Mavic 2 Pro's, which has a variable aperture for more flexible shooting in sunny conditions and includes neutral density filters to help make up for it.
 
 1.3 pounds might not seem like much, but the Air 2S is a force to be reckoned with- it's durable enough to fly in light winds and can stay up for 30 minutes! Plus, the new collision-avoidance system will keep you safe even when there are trees around, and the 1 inch 20 mp sensor captures amazing 5K video or still photos.
@@ -652,6 +632,10 @@ I was ecstatic about the performance of the Mini 3 Pro. It can fly in an impress
 **#4\. DJI Mini 2:** Most Affordable Drone
 
 ![dji mini 2](https://images.wondershare.com/filmora/article-images/2022/08/dji-mini-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Mavic Air 2S has advanced collision-avoidance tech, but at a high cost. Even the new Mini 3 Pro sells for $750\. If budget is more important to you than features, DJI's Mini 2 would be your best bet. It flies compared to its larger siblings, though wind gusts that wouldn't bother bigger drones like the Mavic 2 Pro will ground the Mini. The lack of collision-avoidance sensors makes it better suited for experienced pilots.
 
@@ -709,21 +693,17 @@ So, what's the best drone for you? It depends on your budget and your needs. If 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/0-leading-flv-to-youtube-video-converters-for-2024/"><u>[New] 10 Leading FLV to YouTube Video Converters for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-conceptualize-entertaining-posts-in-adobe/"><u>[New] In 2024, Conceptualize Entertaining Posts in Adobe</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-visual-upgrade-engine-windows-mac-and-online-edition/"><u>[New] Visual Upgrade Engine – Windows, Mac & Online Edition</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-unlock-6-figure-videos-top-hashtag-trends/"><u>2024 Approved Unlock 6-Figure Videos Top Hashtag Trends</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/3-ways-to-stream-and-record-at-the-same-time/"><u>3 Ways To Stream And Record At The Same Time</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-create-a-zoom-motion-blur-effect-using-photoshop-if-you-are-unaware-of-how-to-do-this-read-this-article-to-learn-simple-yet-authentic-instruc/"><u>Do You Want to Create a Zoom Motion Blur Effect Using Photoshop? If You Are Unaware of How to Do This, Read This Article to Learn Simple yet Authentic Instructions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/enhance-your-live-broadcasts-using-manycams-powerful-software-and-virtual-webcam-technology/"><u>Enhance Your Live Broadcasts Using ManyCam's Powerful Software and Virtual Webcam Technology</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-easily-use-korean-to-english-video-translators-for-2024/"><u>How To Easily Use Korean to English Video Translators for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-3-ways-to-stream-and-record-at-the-same-time/"><u>In 2024, 3 Ways To Stream And Record At The Same Time</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-high-quality-capture-with-obs-a-screencast-showcase/"><u>In 2024, High-Quality Capture with OBS A Screencast Showcase</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-best-luts-for-vlog/"><u>In 2024, Overview of Best LUTs for Vlog</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-15-pro-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 15 Pro Before the Plan Expires</u></a></li>
-<li><a href="https://win-answers.techidaily.com/trouble-with-launching-maplestory-these-fixes-will-help/"><u>Trouble with Launching MapleStory? These Fixes Will Help</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713954220029-updated-in-2024-what-you-should-know-about-speech-to-text-technology/"><u>Updated In 2024, What You Should Know About Speech-to-Text Technology</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/want-to-play-a-video-on-loop-on-vimeo-so-that-it-plays-again-and-again-here-are-all-the-different-ways-to-loop-a-video-on-vimeo-in-simple-steps-for-2024/"><u>Want to Play a Video on Loop on Vimeo so that It Plays Again and Again? Here Are All the Different Ways to Loop a Video on Vimeo in Simple Steps for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-stream-and-save-a-guide-to-xbox-broadcasting/"><u>[New] Stream and Save A Guide to Xbox Broadcasting</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782514-9781591438533-affinity/"><u>Affinity | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gaming-melodies-legal-downloadable-links/"><u>Gaming Melodies Legal, Downloadable Links</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/how-to-migrate-data-between-ssd-disks-using-two-different-techniques/"><u>How to Migrate Data Between SSD Disks Using Two Different Techniques</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-countdown-video/"><u>New How to Make a Countdown Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-6-tips-for-your-first-facebook-ads/"><u>New In 2024, 6 Tips for Your First Facebook Ads</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-motion-blur-photo-with-gimp-step-by-step-guide-for-2024/"><u>New Motion Blur Photo With GIMP Step-By-Step Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/overlay-wizardry-on-your-windows-desktop/"><u>Overlay Wizardry on Your Windows Desktop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-privacy-turn-off-discoverability-for-iphones-via-apple-journal-expert-advice-on-safeguarding-your-device/"><u>Secure Your Privacy: Turn Off 'Discoverability' For iPhones via Apple Journal | Expert Advice on Safeguarding Your Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-science-of-how-virtual-assistants-talk-like-us-exploring-conversation-simulation-in-ai/"><u>The Science of How Virtual Assistants Talk Like Us: Exploring Conversation Simulation in AI</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home/"><u>Updated How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-5-free-online-imovie-alternatives-2023-update/"><u>Updated In 2024, Top 5 Free Online iMovie Alternatives 2023 Update</u></a></li>
 </ul></div>
 

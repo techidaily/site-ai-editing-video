@@ -1,7 +1,7 @@
 ---
 title: New How to Make Glitch Effect with Filmora
-date: 2024-09-30T13:01:23.581Z
-updated: 2024-10-02T23:10:06.142Z
+date: 2024-12-09T17:26:50.500Z
+updated: 2024-12-11T22:18:44.444Z
 tags: 
   - ai
   - animation videos
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 ## How to Make Glitch Effect with Filmora
 
 You don't need outdated VCRs or any other broken technology to produce glitch effects. Instead, you can use a video editing program for Mac and PCs, such as [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), to transform your videos into glitch-effect masterpieces. You can also use the glitch effects to provide striking shot transitions or opening titles. Keep reading this article on how to apply various glitch video effects in Filmora 11:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is a Glitch Effect?
 
@@ -36,6 +40,10 @@ Filmmakers frequently employ glitching in their videos to give the impression th
 Chromatic aberration refers to how old lenses tend to split colors. This effect is very common in Old media like VHS or LaserDisc.
 
 ![chromatic aberration](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here is a complete breakdown of each component of the Retro look and how you can make your glitch effects in Filmora 11:
 
@@ -63,27 +71,17 @@ Step2 Put the new copies on the layer above the others and make sure everything 
 
 ![put the new copies on the layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Double-click on the top clip.
 
 ![double-click on the top clip](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Go to Color and open the White Balance option to make this layer completely red. Next, drag both Temperature and Tint sliders to a hundred.
 
 ![open the white balance option](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 Now click the little eye icon on the timeline to hide the top layer and move on to the middle layer.
 
@@ -95,16 +93,13 @@ Step6 Finally, hide this layer just like before. Repeat the same steps for the l
 
 ![setting the tint to -100](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step7 Double-click the clip in the top layer, click the Video Tab, and open the Compositing options. Set the Blending Mode of this top layer to Soft Light.
 
 ![click the video tab](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now click on the clip in your preview window and move the image over by pressing the left Arrow key on your keyboard a few times. Once you're happy with the top clip, hide that layer by clicking the eye icon.
 
@@ -172,6 +167,10 @@ Step3 Double-click on the top clip.
 
 ![double-click on the top clip](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Go to Color and open the White Balance option to make this layer completely red. Next, drag both Temperature and Tint sliders to a hundred.
 
 ![open the white balance option](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_8.jpg)
@@ -194,13 +193,6 @@ Now click on the clip in your preview window and move the image over by pressing
 
 ![click on the clip in your preview window](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step8 To make the middle layer visible, double-click the clip in your mid layer and set the Blending Mode of this layer to Screen.
 
 ![double-click the clip in your mid layer](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_13.jpg)
@@ -208,6 +200,10 @@ Step8 To make the middle layer visible, double-click the clip in your mid layer 
 Now click on your clip in the preview window and press the Right key as many times as you did before. Finally, make all the layers visible by clicking the eye icon.
 
 ![press the right key](https://images.wondershare.com/filmora/article-images/2022/12/glitch_effect_14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Vignette**
 
@@ -278,13 +274,6 @@ There are two popular online YouTube trimmers available; one only allows you to 
 
 ## Part 2\. How to online trim YouTube videos?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Online YouTube trimmer (no edit and download)
 
 Using these two websites, you can easily find the YouTube video clip you want to keep, but there is no way to download the video or add more editing to the clip. However, it works well for sharing links online or adding them to your website and using them to describe the part that best fits the topic.
@@ -318,13 +307,6 @@ Step1Launch veed.io on your web browser. Click on '**Upload Your Video**' to upl
 Step2You will notice a button to upload your media file once you are taken to the editing page.
 
 ![the editing page](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3You can trim your video section by dragging the mark after you've uploaded the media file.
 
@@ -395,6 +377,10 @@ It can therefore be a very crucial 5-20 seconds and you may want to make sure th
 ## Best End Screen Makers
 
 The following are the best end screen makers that you can use to finish your YouTube videos in style;
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Filmora
 
@@ -679,13 +665,6 @@ Fotor is another great solution that can be very useful in creating the YouTube 
 
 ![fotor](https://images.wondershare.com/filmora/article-images/remove-emoji-online-with-fotor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **_Key Features_**
 
 * Most of the templates that you can choose are completely free to use
@@ -706,6 +685,10 @@ Snappa can also be a good way to create the perfect end screen for your YouTube 
 * You can also start from a blank canvas and work from there
 * There is also a large library of stock photos that you can choose from
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Placeit.net
 
 This is an online solution that is one of the best ways to create an end screen for your YouTube video. The user interface is very simple to navigate and very well designed, allowing you to easily create the end screen even if you are a beginner.
@@ -720,6 +703,10 @@ You can upload your images to add to the design or choose from the large library
 * You can export the end screen with transparency
 * The interface is very easy to use
 * Most of the resources are available for free
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Kapwing
 
@@ -941,13 +928,6 @@ Step1Open iMovie on your Mac from Applications folder. Go to File> Import Media 
 
 ![import media into imovie](https://images.wondershare.com/filmora/article-images/2022/08/import-media-into-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2Drag and drop the selected video into Timeline for your iMovie project. Click on Titles tab located at the top.
 
 ![choose title from imovie](https://images.wondershare.com/filmora/article-images/2022/08/choose-title-from-imovie.jpg)
@@ -982,6 +962,10 @@ Step4Once you are satisfied, click on Export button in the top-right corner.
 
 ![export video flexclip online](https://images.wondershare.com/filmora/article-images/2022/08/export-video-flexclip-online.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Adding font effects on video is a common practice especially when you have intro and outro in your video clip. Instead of the regular titles and texts, you should opt for creative font effects so that the text parts on your video look attractive. If it is a one-time thing, you can opt for an online video editor. If you use a Mac, you can use iMovie, and for Windows PC, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -1008,18 +992,21 @@ Adding font effects on video is a common practice especially when you have intro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-the-undercover-upsell-simple-image-saving-for-2024/"><u>[New] The Undercover Upsell Simple Image Saving for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-from-novice-to-virtuoso-your-guide-to-windows-8-movie-maker-for-2024/"><u>[Updated] From Novice to Virtuoso Your Guide to Windows 8 Movie Maker for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-drone-list-to-maximize-gopro-video-quality/"><u>[Updated] Ultimate Drone List to Maximize GoPro Video Quality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-the-race-for-screen-capture-excellence-whos-leading-obs-or-fraps/"><u>2024 Approved The Race for Screen Capture Excellence Who's Leading? – OBS or Fraps</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/5-tools-to-create-a-time-lapse-video-online/"><u>5 Tools to Create a Time-Lapse Video Online</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/choosing-the-right-streaming-device-roku-vs-amazon-fire-tv-stick/"><u>Choosing the Right Streaming Device: Roku Vs. Amazon Fire TV Stick</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/discover-a-quick-guide-to-add-personalized-video-filters-in-vn-app-learn-how-to-use-built-in-filters-and-import-external-ones-for-creative-video-editing-for/"><u>Discover a Quick Guide to Add Personalized Video Filters in VN App. Learn How to Use Built-In Filters and Import External Ones for Creative Video Editing for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/gtx-950-error-43-fix-guide-a-comprehensive-solution-for-windows-11-users/"><u>GTX 950 'Error 43' Fix Guide: A Comprehensive Solution for Windows 11 Users</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-detailed-guide-to-rotate-videos-in-blender/"><u>In 2024, Detailed Guide to Rotate Videos in Blender</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-6s-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 6s Properly</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-future-of-your-info-after-fb/"><u>The Future of Your Info After FB</u></a></li>
-<li><a href="https://games-able.techidaily.com/walletfriendly-hd-gamerscreen-led27m2v/"><u>WalletFriendly HD GamerScreen LED27M2V</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/want-to-save-your-edited-video-file-in-mp4-format-in-windows-movie-maker-here-are-the-simple-steps-along-with-a-better-alternative/"><u>Want to Save Your Edited Video File in MP4 Format in Windows Movie Maker? Here Are the Simple Steps Along with a Better Alternative</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-expert-methods-for-weaving-in-live-streaming-content-online/"><u>[Updated] 2024 Approved Expert Methods for Weaving in Live Streaming Content Online</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-deep-dive-into-rank-tracker-solutions-for-peak-success-on-youtube/"><u>2024 Approved Deep Dive Into Rank Tracker Solutions for Peak Success on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-school-media-creation-advanced-editing-tips/"><u>2024 Approved School Media Creation Advanced Editing Tips</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/bitraser-pro-comprehensive-tutorial-on-secure-data-destruction-via-video/"><u>BitRaser Pro: Comprehensive Tutorial on Secure Data Destruction via Video</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/boosting-your-yt-subs-a-complete-strategy-guide/"><u>Boosting Your YT Subs A Complete Strategy Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-listener-experience-with-new-apple-podcasts-auto-transcribing-feature-tech-news/"><u>Enhancing Listener Experience with New Apple Podcasts' Auto-Transcribing Feature | Tech News</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-reinstall-gpu-drivers-with-ddu-2024-ultimate-guide/"><u>How to Reinstall GPU Drivers With DDU - 2024 Ultimate Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/is-windows-movie-maker-still-available-in-2024/"><u>Is Windows Movie Maker Still Available, In 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211374282-9781528799874-malleus-maleficarum-hammer-of-the-witches/"><u>Malleus Maleficarum: Hammer of the Witches | Free Book</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-are-you-in-search-for-a-step-by-step-guide-to-how-to-add-effects-in-tiktok-here-it-is-to-add-some-flavor-to-your-tiktok-videos-use-these-how-to-add-effe/"><u>New Are You in Search for a Step-by-Step Guide to How to Add Effects in TikTok? Here It Is. To Add some Flavor to Your TikTok Videos. Use These How to Add Effect to TikTok Recommendations</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revitalizing-photos-stellars-repair-software-debuts/"><u>Revitalizing Photos: Stellar's Repair Software Debuts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-new-frontier-of-personal-health-the-amazon-halos-revolutionary-design-and-functionality/"><u>The New Frontier of Personal Health: The Amazon Halo's Revolutionary Design and Functionality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-a-lut-that-you-can-use-for-your-high-definition-content-you-can-use-rec-709-lut-premiere-pro-for-your-hd-digital-media-to-give-the-perfe/"><u>Updated Do You Want a LUT that You Can Use for Your High-Definition Content? You Can Use Rec 709 LUT Premiere Pro for Your HD Digital Media to Give the Perfect Result</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-ninja-jump-effect-with-filmora/"><u>Updated How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209839570-9780986405310-were-still-here/"><u>We're Still Here | Free Book</u></a></li>
 </ul></div>
 

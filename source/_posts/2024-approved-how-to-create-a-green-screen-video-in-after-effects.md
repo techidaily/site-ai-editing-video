@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How To Create A Green Screen Video In After Effects
-date: 2024-10-01T10:34:48.265Z
-updated: 2024-10-03T06:03:51.536Z
+date: 2024-12-10T07:23:17.235Z
+updated: 2024-12-11T19:17:19.244Z
 tags: 
   - ai
   - animation videos
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a
 You'll probably get the finest results in After Effects out of all the editing programs. Working with green screen footage in After Effects can be done in a variety of ways. Utilizing a built-in preset that combines three effects is advised by Adobe. Due to its ability to deliver speedy (and typically excellent) outcomes, this strategy is great for both beginners and specialists. We'll demonstrate how to do easily for you.
 
 Let’s start off!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Importing your footage
 
@@ -40,6 +44,10 @@ Because everything that is not transparent is turned white by Combined Matte, an
 ![clean up green screen shot ae](https://images.wondershare.com/filmora/article-images/2022/11/clean-up-green-screen-shot-ae.jpg)
 
 You can go to the "Screen Matte" area if you feel like the frame still needs more tweaking after you've applied the previous ones. You can accomplish that with the assistance of Clip Black and Clip White. Feel free to turn the Clip Black dial all the way to the right and turn the Clip White dial to the left. You can also adjust the other settings, if necessary, but based on my observations, everything should be working properly at this point.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -157,13 +165,6 @@ Try to match gunshot sounds with beats and rhythms in shooter video games. The b
 
 You can spice up your gaming montage by adding transitions, especially when you have loads of clips for the montage. But avoid overusing it, as you could confuse your audience with a range of dazzling and glaring transitions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Color Grade the Video for the Mood
 
 Use color grading to your advantage, as it can set the mood of your viewers. You can decide to make some scenes black and white to catch the viewers’ attention.
@@ -177,13 +178,6 @@ You can use Filmora to apply the vignetting effect by heading to Advanced Color 
 ## Best Gaming Montage for Studying
 
 Here are three gaming montages that are good for studying.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Call of Duty: Modern Warfare
 
@@ -204,6 +198,10 @@ ShutteR used a slow-motion to highlight action in each scene, then speeds up aga
 ![Best Gaming Montage Example - ShutteR's Gaming Montage](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-5.png)
 
 ShutteR's Gaming Montage
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. NEVERMORE \[CS: GO\]
 
@@ -285,6 +283,10 @@ Filters allow you to spice up your gaming videos. There are also different types
 
 ![How to make a game montage with Filmora - Edit Gaming Montage](https://images.wondershare.com/filmora/article-images/2022/05/gaming-montage-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Edit Gaming Montage
 
 ### 6) Export Your Gaming Montage Video
@@ -293,16 +295,13 @@ Once you have finished editing your video and added music, hit the Export button
 
 You can now enter your login details and upload your gaming montage video on your YouTube channel to share it with other players.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Useful Tips for Making a Gaming Montage
 
 Making gaming montages can help you build a large online community if you do the right thing. When making a gaming montage, there are a few tips that you should keep in mind. They include:
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Apply Velocity Effects
 
@@ -313,13 +312,6 @@ Include slow motion where there is a gunshot or other big gaming moment. You can
 ### 2\. Avoid Game Loading Scenes
 
 Do not include game loading scenes or any unnecessary clips in the gaming montage. Your audience does not have the time to wait for the scenes to load because they want to see action fast.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Sync Gunshot with Music Beat
 
@@ -406,6 +398,10 @@ So how do you do that in Premiere Pro?
 
 ![check video frame rate in premiere pro](https://images.wondershare.com/filmora/article-images/check-frame-rate-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reasons for Changing Frame Rate
 
 Suppose you have an action-packed video. It would not look great at 30 fps - it will look too choppy. That will give your audience a rotten viewing experience. By increasing the frames, you can make the motion more fluid and smoother.
@@ -432,13 +428,6 @@ Suppose you want to keep the frame rate of most of the video the same. Only some
 
 ![sequence settings in adobe premiere pro](https://images.wondershare.com/filmora/article-images/change-frame-rate-sequence-3.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Click the drop-down menu for "Timebase."
 2. Select the frame rate you want the sequence to be in.
 
@@ -454,6 +443,10 @@ Here are the steps you should follow if you want to change the frame rate of an 
 2. Go to the "Effects" tab. It's in the options at the bottom left of the screen.
 
 ![effects tab in adobe premiere pro](https://images.wondershare.com/filmora/article-images/change-frame-rate-clip-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Select "Video Effects" > "Time" > "Posterize Time."
 
@@ -483,10 +476,18 @@ Follow these steps to change your video to 120 fps:
 
 ![dragging video to premiere pro timeline](https://images.wondershare.com/filmora/article-images/change-frame-rate-120-fps-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Select the timeline panel. Click "Sequence" > "Sequence Settings."
 2. Check the "Timebase" section. It should say "119.88 frames/second," 120 fps when rounded off.
 
 ![checking if the fps is 120](https://images.wondershare.com/filmora/article-images/change-frame-rate-120-fps-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Edit the video as needed and render it. The output should stay at 120 fps.
 
@@ -516,6 +517,10 @@ Do you have a video recorded at 30 frames per second, and do you want it at 60? 
 2. Click "File" > "Export" > "Media."
 
 ![exporting the video from premiere pro](https://images.wondershare.com/filmora/article-images/change-frame-rate-60-fps-8.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Select a preset.
 2. Scroll down to the "Effects" section to check if the frame rate is at 60 fps. If not, change it to 60 fps.
@@ -585,30 +590,10 @@ Changing a video's frame rate in Wondershare Filmora is super easy. Even a child
 
 ![adding the video to filmora timeline](https://images.wondershare.com/filmora/guide/split-video-icon-filmora.png)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Click "Export."
 2. Select the format you want the output file to be in. Find the "Frame Rate" in the options, click the drop-down menu, and select the frame rate that you want. Click "Export."
 
 ![changing frame rate in filmora](https://images.wondershare.com/filmora/guide/export-by-selecting-local-tab.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -643,13 +628,6 @@ Flickr is a great **online video storage** service, but it can be limiting if yo
 Flickr also has some limitations when it comes to file size. For example, photos are limited to 200 MB and videos are limited to 1 GB. However, you can get around these limitations by storing the maximum allowed file size (e.g., photo files are limited to 200 MB and video files are limited to 1 GB). Additionally, if you want to share photos and videos with others, you'll need to **upload video to the cloud** or use the Flickr app on a device.
 
 Overall, Flickr is a great online photo and video storage service, but it may not be the best option for you if you're looking for a lot of space or want to share photos and videos with others.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Flicker Pro Storage Policy
 
@@ -781,20 +759,15 @@ Yes, cloud storage is generally safe, but you should take a few precautions to s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-essential-tips-for-snapchat-enterprise-marketing/"><u>[Updated] In 2024, Essential Tips for Snapchat Enterprise Marketing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-lut-technology-in-adobe-premiere/"><u>2024 Approved Leveraging LUT Technology in Adobe Premiere</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/arctic-accolades-top-athletes-and-events/"><u>Arctic Accolades Top Athletes & Events</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-pimoronis-nvme-storage-card-a-detailed-duo-review/"><u>Comprehensive Evaluation of Pimoroni's NVMe Storage Card - A Detailed Duo Review</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/convert-and-download-yahoo-japan-gyao-streams-as-mp4-mov-or-avi-files-for-pc-and-mac/"><u>Convert and Download Yahoo Japan Gyao Streams as MP4, MOV, or AVI Files for PC & Mac</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-video-by-mouse-in-filmora/"><u>How To Make a Video by Mouse in Filmora?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-boosted-imagery-in-canva-top-10-tricks-revealed/"><u>In 2024, Boosted Imagery in Canva - Top 10 Tricks Revealed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-first-flight-journey-with-syma-x5c-best-start-to-uav-hobbies/"><u>In 2024, First Flight Journey with Syma X5C Best Start to UAV Hobbies</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-practical-tips-to-improve-your-lighting-in-the-sun-for-2024/"><u>New Best Practical Tips to Improve Your Lighting in the Sun for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-everything-that-you-need-to-know-about-video-montages-ideas-techniques-and-software/"><u>New Everything That You Need to Know About Video Montages- Ideas, Techniques, and Software</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>New In 2024, Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-split-clips-in-vlc-for-2024/"><u>New Step by Step to Split Clips in VLC for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/streamlining-with-obs-essential-tips-for-android-users-for-2024/"><u>Streamlining with OBS Essential Tips for Android Users for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-ideas-on-using-green-screen-with-filmora/"><u>Updated 2024 Approved Best Ideas on Using Green Screen with Filmora</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-loop-videos-with-filmora-for-2024/"><u>Updated How to Create Loop Videos with Filmora for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-top-8-best-selfie-sticks-for-iphone-2024-review/"><u>[New] Top 8 Best Selfie Sticks for iPhone 2024 Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-steps-to-build-a-hidden-snapstory-collection/"><u>[Updated] Steps to Build a Hidden Snapstory Collection</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-100plus-best-tiktok-captions-enhance-your-content/"><u>2024 Approved 100+ Best TikTok Captions Enhance Your Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-accelerate-your-social-media-journey-tiktok-directly-to-fb/"><u>2024 Approved Accelerate Your Social Media Journey TikTok Directly to FB</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2-in-2024/"><u>How to Turn On/Off Motion Blur in Dying Light 2, In 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-7-video-joiner-software-with-no-watermark-output/"><u>In 2024, 7 Video Joiner Software with No Watermark Output</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-how-to-create-luts-with-luts-generator/"><u>New 2024 Approved Learning How to Create LUTs with LUTs Generator</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-shift-of-heic-photos-to-jpeg-format/"><u>Seamless Shift of HEIC Photos to JPEG Format</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/strategic-buying-guide-what-you-need-to-know-before-bringing-home-a-new-gaming-device/"><u>Strategic Buying Guide: What You Need to Know Before Bringing Home a New Gaming Device</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-is-windows-movie-maker-still-available/"><u>Updated Is Windows Movie Maker Still Available?</u></a></li>
 </ul></div>
 

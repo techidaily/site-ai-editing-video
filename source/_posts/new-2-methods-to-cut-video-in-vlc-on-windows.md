@@ -1,7 +1,7 @@
 ---
 title: New 2 Methods to Cut Video in VLC on Windows
-date: 2024-10-01T03:18:30.222Z
-updated: 2024-10-03T03:27:24.490Z
+date: 2024-12-11T01:39:30.266Z
+updated: 2024-12-12T01:39:50.516Z
 tags: 
   - ai
   - animation videos
@@ -33,6 +33,10 @@ The installation process is simple. You click on the icon indicating ‘install�
 
 ![cut-video-vlc](https://images.wondershare.com/filmora/article-images/2022/03/cut-video-vlc-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is the dashboard of the VLC Media Player.
 
 1. **Select the file you would like to cut**
@@ -52,6 +56,10 @@ On the menu is a tab labelled ‘View’. Choose the tab, click open it and on t
 On selecting ‘Advanced Options’, a red button will appear at the bottom-left corner of the VLC. This is the record button.
 
 ![cut-video-vlc](https://images.wondershare.com/filmora/article-images/2022/03/cut-video-vlc-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Its purpose is to indicate the recording of the section of the video that you would like to cut.
 
@@ -91,6 +99,10 @@ To trim the video from the beginning, place your cursor at the starting point an
 
 ![cut-video-vlc](https://images.wondershare.com/filmora/article-images/2022/03/cut-video-vlc-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![cut-video-vlc](https://images.wondershare.com/filmora/article-images/2022/03/cut-video-vlc-7.png)
 
 Trimming the video does not mean that you lose the parts. It is more like shortening it to fit in place.
@@ -126,13 +138,6 @@ The above steps on how to use both VLC Media Player and Wondershare Filmora will
 On the top of the screen is the menu with ‘Media’ being the first on the far left. On clicking the ‘Media’ button, a drop-down menu will appear. Select the first option, ‘Open File’ to access your files. From the dialogue box that appears, locate your video (the one you would like to cut), select it then click to open. The video will start playing.
 
 ![cut-video-vlc](https://images.wondershare.com/filmora/article-images/2022/03/cut-video-vlc-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. **Click on Advanced Controls (View > Advanced Controls)**
 
@@ -428,21 +433,7 @@ The video's beginning and ending times are selected in the same way as on the pr
 
 ![add youtube videos](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once you are done trimming your videos, you can download or export your videos in different formats, depending on your preference. It can be in mp4, mp3, or any other supported format.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Online YouTube trimmer (edit and download)
 
@@ -475,13 +466,6 @@ Step1Launch Kapwing.com on your web browser. If you are not directed to the trim
 Step2From the main page, click 'Click to upload' to upload the media file.
 
 ![click to upload](https://images.wondershare.com/filmora/article-images/2022/08/online-youtube-video-trimmer-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3After uploading the media file, Click on **'Trim'** from the editing section on the right side of the screen.
 
@@ -583,6 +567,10 @@ Step4Press Windows and “+” keys to zoom in while press Windows and “-“ k
 
 ![zoom in vlc](https://images.wondershare.com/filmora/article-images/2022/07/adjust-magnifier-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: VLC Alternative to Zoom in Videos
 
 If you are not satisfied with VLC Player zoom feature, you can use a video editor to zoom into your video conveniently so that you can check any focused section on your video. You can also read any text on the video comfortably. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as an alternative to VLC Media Player for zooming into videos. Filmora is a professional video editor and here is the list of the steps on how to zoom into videos with Filmora.
@@ -606,10 +594,7 @@ Step 5: Go to Pan & Zoom tab and move the rectangular box and play the video to 
 ![zoom in vlc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -623,13 +608,6 @@ Step 2: Launch Wondershare and click on New Project option.
 Step 3: Import your video on Filmora into Project Media folder by drag and drop option.
 
 ![zoom in vlc](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Drag and drop the video file into Timeline. Click on Crop icon on the top bar of Timeline.
 
@@ -685,11 +663,19 @@ The call's recipient will hear your customized voice rather than the original. T
 
 ![add sound effects](https://images.wondershare.com/filmora/article-images/2022/11/funcall_app_2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to use the app for free?
 
 Funcall is a premium software, and to use it, you must purchase one of its membership plans, which are reasonably priced. The first call on this app is free. You can earn more free minutes for prank calls by completing activities like watching advertising and downloading software.
 
 Another option is to use Funcall MOD APK. It can be your best option if you're seeking its free version, which allows you to enjoy an infinite number of minutes and an ad-free experience. You can use its hacked version to have free access to all of its paid features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Best alternatives to Funcall Voice Changer
 
@@ -717,13 +703,6 @@ For both Android and iOS, MagicCall is a fantastic tool to use as a voice-changi
 
 You can choose between Male, Robot, Female, Elderly Male, and Kid voices in the Voices area.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Prank Caller
 
 With the help of the features in the Prank Caller app, you can access a massive library of prank call scripts directly from your smartphone's screen and entertain your loved ones by using a different voice.
@@ -741,6 +720,10 @@ You can use the Funcall app to make international calls in over 150 countries, i
 ### Can I use the Funcalls app while playing games?
 
 No, you can't use the Funcalls app while playing games. You can only use this app to change your voice during calls.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can I change my voice during a call?
 
@@ -818,6 +801,10 @@ For both Android and iOS, MagicCall is a fantastic tool to use as a voice-changi
 
 ![magiccall](https://images.wondershare.com/filmora/article-images/2022/11/funcall_app_5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can choose between Male, Robot, Female, Elderly Male, and Kid voices in the Voices area.
 
 ### Prank Caller
@@ -827,10 +814,7 @@ With the help of the features in the Prank Caller app, you can access a massive 
 ![prank caller](https://images.wondershare.com/filmora/article-images/2022/11/funcall_app_6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To try a new prank daily, you can browse the top prank call scripts and a list of all the available prank situations ranked by popularity.
@@ -875,21 +859,17 @@ You can use a feminine, male, scary, helium, or a regular voice. This app also a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unveiling-the-mysteries-of-video-monetization/"><u>[New] 2024 Approved Unveiling the Mysteries of Video Monetization</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-visionsonic-vsdc-review-ideal-substitutes/"><u>[New] 2024 Approved VisionSonic VSDC Review - Ideal Substitutes</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-iphones-best-video-editor-pick-cameo-vs-filmorago-analysis/"><u>[Updated] In 2024, IPhone's Best Video Editor Pick Cameo Vs. FilmoraGo Analysis</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-professional-color-grading-top-11/"><u>[Updated] In 2024, The Ultimate Guide to Professional Color Grading (Top 11)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-your-youtube-live-video-thumbnail-game/"><u>[Updated] Mastering Your YouTube Live Video Thumbnail Game</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-event-videography-is-popular-in-weddings-graduation-family-reunion-and-other-great-moments-here-im-going-to-share-some-of-the-tips-to-make-a-b/"><u>2024 Approved Event Videography Is Popular in Weddings, Graduation, Family Reunion and Other Great Moments. Here Im Going to Share some of the Tips to Make a Better Event Videography</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/abbyy-welcomes-gabrielle-lukianchuk-as-chief-marketing-officer/"><u>ABBYY Welcomes Gabrielle Lukianchuk as Chief Marketing Officer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723011579434-batman-arkham-knight-gameplay-issues-fix-your-crashingfatal-error-woes-here/"><u>Batman: Arkham Knight Gameplay Issues? Fix Your Crashing/Fatal Error Woes Here!</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/guide-to-add-transition-effects-in-premiere-pro/"><u>Guide to Add Transition Effects in Premiere Pro</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-control-the-speed-of-video/"><u>In 2024, How to Control the Speed of Video</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigate-with-ease-comprehensive-guide-to-google-maps-on-iphones-reviews-and-insights/"><u>Navigate with Ease: Comprehensive Guide to Google Maps on iPhones - Reviews & Insights</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-steps-to-rotate-videos-in-lightworks-for-2024/"><u>New Steps to Rotate Videos in Lightworks for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/restoring-macos-sierra-to-os-x-10101-environment/"><u>Restoring MacOS Sierra to OS X 10.10.1 Environment</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-step-by-step-to-crop-videos-using-lightworks/"><u>Updated 2024 Approved Step by Step to Crop Videos Using Lightworks</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-random-letter-reveal-intro/"><u>Updated How to Make Random Letter Reveal Intro?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-removing-background-distractions-in-skype/"><u>[Updated] Removing Background Distractions in Skype</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-boosting-your-video-income-on-youtube-essentials/"><u>2024 Approved Boosting Your Video Income on Youtube - Essentials</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-make-eye-zoom-transition-effect-with-filmora/"><u>2024 Approved Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-tiktok-to-facebook-social-media-linking-guide/"><u>2024 Approved TikTok-to-Facebook Social Media Linking Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-15-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 15 and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-do-ai-chatbots-work-and-the-reason-for-their-widespread-appeal/"><u>How Do AI Chatbots Work & The Reason for Their Widespread Appeal</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-6-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 6 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-looking-for-cool-ideas-to-use-green-screen-and-how-setting-up-your-green-screen-keep-reading-since-we-have-the-answer-for-you/"><u>In 2024, Are You Looking for Cool Ideas to Use Green Screen and How Setting up Your Green Screen? Keep Reading Since We Have the Answer for You</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-add-font-effect/"><u>In 2024, How to Add Font Effect</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-difference-between-time-lapse-and-hyperlapse/"><u>New Difference Between Time Lapse and Hyperlapse</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/zoom-in-how-to-sequentially-play-youtube-videos-for-free-for-2024/"><u>Zoom In How to Sequentially Play YouTube Videos for Free for 2024</u></a></li>
 </ul></div>
 

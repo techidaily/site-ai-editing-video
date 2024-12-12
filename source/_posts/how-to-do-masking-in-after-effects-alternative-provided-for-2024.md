@@ -1,7 +1,7 @@
 ---
 title: How to Do Masking in After Effects Alternative Provided for 2024
-date: 2024-09-25T19:00:21.889Z
-updated: 2024-10-03T10:11:15.244Z
+date: 2024-12-07T18:19:28.622Z
+updated: 2024-12-11T20:53:14.856Z
 tags: 
   - ai
   - animation videos
@@ -76,13 +76,6 @@ Step4 **Add** a masked image feather if needed.
 
 ![after effect pen tool add mask feather](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool-add-mask-feather.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 **Add** text, **and create** a "**shape** **layer**" to place on the text.
 
 ![after effect pen tool add shape layer](https://images.wondershare.com/filmora/article-images/after-effect-pen-tool-add-shape-layer.jpg)
@@ -115,6 +108,10 @@ Step1 **Enter** the Video panel, and **switch** to the Mask tab in Wondershare F
 
 ![filmora basic mask shapes](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 **Select** a shape; see only the masked area in the Preview window.
 
 ![filmora basic mask shapes preview](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes-preview.jpg)
@@ -132,13 +129,6 @@ The mask created using the Pen Tool can be edited, resized, repositioned, and ad
 Learn how to use the Pen Tool in Wondershare Filmora for masking, a versatile alternative to After Effects masking. With the Pen Tool, you can easily outline and manipulate specific areas in your video to create unique and professional effects.
 
 ![filmora draw mask](https://images.wondershare.com/filmora/article-images/filmora-draw-mask.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step1 **Create** a project and **add** the media to the timeline**. Enter** the Mask tab.
 
@@ -185,19 +175,6 @@ Step6 **Use** "**Alpha Inverted Matte**" to mask the text.
 
 ![after effect alpha inverted matte](https://images.wondershare.com/filmora/article-images/after-effect-alpha-inverted-matte.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Wondershare Filmora - A Great Alternative to After Effects Masking
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a popular video editing software that offers a range of features and tools for video editing. One of the most useful features is its masking capability, which provides a great alternative to the masking feature in Adobe After Effects.
@@ -222,13 +199,6 @@ Step1 **Enter** the Video panel, and **switch** to the Mask tab in Wondershare F
 
 ![filmora basic mask shapes](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 **Select** a shape; see only the masked area in the Preview window.
 
 ![filmora basic mask shapes preview](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes-preview.jpg)
@@ -236,6 +206,10 @@ Step2 **Select** a shape; see only the masked area in the Preview window.
 Step3 **Add** keyframes to animate the mask and **adjust** position, rotation, size, and blur strength.
 
 ![filmora basic mask shapes add keyframe](https://images.wondershare.com/filmora/article-images/filmora-basic-mask-shapes-add-keyframe.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Use Pen Tool In Masking Using Filmora
 
@@ -252,6 +226,10 @@ Step1 **Create** a project and **add** the media to the timeline**. Enter** the 
 Step2 Edit the mask by adjusting the sliders in the Mask tab to resize, reposition, and change orientation. Also, **adjust** the blur strength, width, height, and radius, or invert the mask.
 
 ![filmora draw mask adjust settings](https://images.wondershare.com/filmora/article-images/filmora-draw-mask-adjust-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -301,6 +279,10 @@ To install the application, go to the App Store/Play Store and search for the 3D
 
 ![import media to 3dlut app](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2Apply LUTs On Your File
 
 Once you've imported your video file, it's time to apply the LUT to your video. To do so, choose the “LUT” tab from the bottom tray and select the desired LUT.
@@ -335,24 +317,25 @@ This pack is the right choice if you want to color-grade your portraits. Skin To
 
 ![skin tones pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. [Zoan Cinematic Pack](https://3dlutcreator.com/userstore.php?packid=9)
 
 Zoan Cinematic Pack is the perfect color-grading preset that gives your videos a professional-looking cinematic look. This pack has eight cinematic-rich presets you can apply to your videos and vlogs. These LUTs give the modern Hollywood-style impression. It adds richness to your videos, and it underexposes bright colors in your videos to create a modern cinematic ambiance.
 
 ![zoan cinematic pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. [Winter Pack](https://3dlutcreator.com/userstore.php?packid=6)
 
 It is an exceptional and diversely influencing pack of 3DLUT Mobile. It changes your color composition to bluish to give a colder look. This pack has one LUT that comes with rich colors and deep blue color grading. These colors create an atmosphere that resembles winter and coldness. The blue tone and damping of other colors make your videos look more profound and meaningful.
 
 ![winter pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. [RakhmonovFilmsLUT Pack](https://3dlutcreator.com/userstore.php?packid=11)
 
@@ -418,13 +401,6 @@ It is a great LUT pack that you can use for your photos and videos. Speedy Grade
 
 ![speedy grade pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. [GoPro LUTs Color Grading Pack](https://3dlutcreator.com/userstore.php?packid=2)
 
 Yet another fantastic LUT pack, especially for outdoor vlogging and videography, is GoPro LUTs Color Grading Pack. This pack comes with over 50 different LUTs, each suitable for GoPro videos. You can use these LUTs to give your vlogs and videos a more cinematic and professional touch. It enhances the brown and muddiness in your videos and balances the exposure to provide the perfect outdoor look.
@@ -443,18 +419,15 @@ Zoan Cinematic Pack is the perfect color-grading preset that gives your videos a
 
 ![zoan cinematic pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. [Winter Pack](https://3dlutcreator.com/userstore.php?packid=6)
 
 It is an exceptional and diversely influencing pack of 3DLUT Mobile. It changes your color composition to bluish to give a colder look. This pack has one LUT that comes with rich colors and deep blue color grading. These colors create an atmosphere that resembles winter and coldness. The blue tone and damping of other colors make your videos look more profound and meaningful.
 
 ![winter pack](https://images.wondershare.com/filmora/article-images/2023/06/3dlut-mobile-app-review-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. [RakhmonovFilmsLUT Pack](https://3dlutcreator.com/userstore.php?packid=11)
 
@@ -505,6 +478,10 @@ To build a new sequence, start a new project in Premiere, import your footage, t
 Secondly, choose the Effects workspace (located near the top of your window). This will guarantee that the tools we need are accessible. Alternately, you may go to Window > Workspaces > Effects.
 
 ![select overlay effects pr](https://images.wondershare.com/filmora/article-images/2022/07/select-overlay-effects-pr.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3Create a layer of adjustments
 
@@ -558,18 +535,15 @@ Find the image or video in the media library that you want to overlay over the b
 
 ![import media to overly](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Spice up with Effects
 
 There are several choices available for adding extra effects to the video. By selecting the effect tab, you may look for more effects as well. The decision to switch to a green screen or include other components into the film is entirely up to you.
 
 ![spice up with effects](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4Customize Effects and Save
 
@@ -600,6 +574,10 @@ Find the image or video in the media library that you want to overlay over the b
 There are several choices available for adding extra effects to the video. By selecting the effect tab, you may look for more effects as well. The decision to switch to a green screen or include other components into the film is entirely up to you.
 
 ![spice up with effects](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4Customize Effects and Save
 
@@ -676,18 +654,17 @@ You now know what YouTube live chat is and how to participate in it thanks to th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-precision-sculpting-perfect-circles-spheres-in-minecraft-world/"><u>[New] 2024 Approved Precision Sculpting Perfect Circles, Spheres in Minecraft World</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-maximizing-viewership-igtv-video-scaling-hacks-for-2024/"><u>[New] Maximizing Viewership IGTV Video Scaling Hacks for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-avoidance-techniques-for-oculus-motion-sickness-for-2024/"><u>[Updated] Avoidance Techniques for Oculus Motion Sickness for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/blender-green-screen-effects-for-2024/"><u>Blender Green Screen Effects for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-your-windows-photos-masterpiece-adding-filters-musical-elements/"><u>Crafting Your Windows Photos Masterpiece Adding Filters, Musical Elements</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/detailed-guide-to-pc-capturing-of-consoles-games-for-2024/"><u>Detailed Guide to PC Capturing of Consoles Games for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects-for-2024/"><u>New How To Make a Timelapse in After Effects for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-tutorial-video-with-filmora/"><u>New How to Make Tutorial Video with Filmora</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-unleashing-potential-on-facebook-twitter-instagram-and-youtube/"><u>Social Media Titans: Unleashing Potential on Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-apples-advancements-discover-key-features-of-iphone-15-and-15-pro-series/"><u>Unveiling Apple's Advancements: Discover Key Features of iPhone 15 and 15 Pro Series</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-start-a-vlog/"><u>Updated How to Start a Vlog</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-convert-your-videos-to-60-fps-using-these-excellent-tools/"><u>Updated In 2024, Convert Your Videos to 60 FPS Using These Excellent Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-keeping-your-virtual-circle-true-not-tainted-by-tricks/"><u>[New] 2024 Approved Keeping Your Virtual Circle True, Not Tainted by Tricks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-smart-recording-solutions-for-schools-and-colleges-for-2024/"><u>[Updated] Smart Recording Solutions for Schools & Colleges for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-overlay-video-in-premiere-pro/"><u>2024 Approved How to Overlay Video in Premiere Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clear-the-fog-4-techniques-to-reactivate-icloud-on-ios-devices/"><u>Clear the Fog: 4 Techniques to Reactivate iCloud on iOS Devices</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/content-missing-alert-youve-hit-a-404-error/"><u>Content Missing Alert: You've Hit a 404 Error</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-lava-storm-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Lava Storm 5G FRP</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-health-enthusiasts-choice-the-samsung-galaxy-watch-active/"><u>In-Depth Analysis of the Health Enthusiast's Choice: The Samsung Galaxy Watch Active</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learn-to-use-montage-with-these-movies/"><u>Learn to Use Montage with These Movies</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-hilarious-highlights-for-2024/"><u>Twitter's Hilarious Highlights for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-remove-audio-from-video-without-watermark/"><u>Updated How to Remove Audio From Video Without Watermark?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1990s-how-to-make/"><u>Vintage Film Effect 1990S - How to Make</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/you-can-easily-film-rotating-video-illusions-from-your-smartphone-and-edit-them-on-wondershare-filmora-in-just-a-few-clicks-for-2024/"><u>You Can Easily Film Rotating Video Illusions From Your Smartphone and Edit Them on Wondershare Filmora in Just a Few Clicks for 2024</u></a></li>
 </ul></div>
 

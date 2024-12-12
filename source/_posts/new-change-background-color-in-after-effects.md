@@ -1,7 +1,7 @@
 ---
 title: New Change Background Color in After Effects
-date: 2024-10-01T09:49:08.383Z
-updated: 2024-10-02T17:12:04.694Z
+date: 2024-12-06T11:23:12.236Z
+updated: 2024-12-11T18:10:44.990Z
 tags: 
   - ai
   - animation videos
@@ -34,6 +34,10 @@ Step2 Drag and drop your video into Timeline. Select the video clip and right-cl
 Step3 From the menu, click on Composition Settings option. You can also use Ctrl + K(Windows) or Command + K(Mac) key combination to open Composition Settings directly.
 
 ![open composition settings ae](https://images.wondershare.com/filmora/article-images/2022/07/open-composition-settings-ae.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 On Composition Settings window, go to Background Color and set the color as per your preference. You can also use a color picker as well to select any color from the video directly.
 
@@ -89,13 +93,6 @@ Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/fi
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Import your video under Project Media folder and drag and drop into Timeline.
 
 ![import green screen video filmora](https://images.wondershare.com/filmora/article-images/2022/07/import-green-screen-video-filmora.jpg)
@@ -103,6 +100,10 @@ Step2 Import your video under Project Media folder and drag and drop into Timeli
 Step3 Double-click on the video clip and go to Video tab and turn on Chroma Key option. Select the solid color present in the background of the video and click on Ok button.
 
 ![adjust chroma key filmora](https://images.wondershare.com/filmora/article-images/2022/07/adjust-chroma-key-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 You will see the background color of the video disappear. Go to Elements> Background and drag and drop any background into Timeline. Make sure it is placed below the video clip and extend the duration of the background color as per your requirements.
 
@@ -137,6 +138,10 @@ Go to Layer> New> Solid and add a white color solid first. However, this white c
      data-ad-slot="1223367746"></ins>
 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Easy Way to Add Transitions to Videos
 
 Editing a video is equally important as recording a video. A raw video footage is never appealing to the eyes because of sudden cuts, unnecessary parts, and lack of eye-catching effects. That is why video editing is crucial for turning an unappealing raw video into an attention-grabbing video. As a matter of fact, the way you edit your video makes your video stand out when you are posting on social media platforms.
@@ -161,13 +166,6 @@ Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/fi
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Drag and drop your video clips under Project Media folder. Thereafter, drag and drop them on Timeline.
 
 If you have one raw video file, you can split it up into multiple video clips to add transitions in between them.
@@ -180,20 +178,11 @@ Step4 Once you select your desired transition effect, drag and drop it in betwee
 
 ![drag and drop desired transition effect](https://images.wondershare.com/filmora/guide/add-transitions-2.png)
 
-Play the video after you are done editing and adding transitions. Thereafter, click on Export button to save the video on your hard drive. You should follow the same steps on how to add transition effects in reels, status videos, and YouTube videos.
-
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Play the video after you are done editing and adding transitions. Thereafter, click on Export button to save the video on your hard drive. You should follow the same steps on how to add transition effects in reels, status videos, and YouTube videos.
 
 ## Part 3\. Video transitions tips and tricks
 
@@ -219,6 +208,10 @@ Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/fi
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Drag and drop your video clips under Project Media folder. Thereafter, drag and drop them on Timeline.
 
 If you have one raw video file, you can split it up into multiple video clips to add transitions in between them.
@@ -226,6 +219,10 @@ If you have one raw video file, you can split it up into multiple video clips to
 Step3 Go to Transitions tab located at the top bar. You will see all the categories of transitions on the left panel.
 
 ![go to transition tab](https://images.wondershare.com/filmora/guide/add-transitions-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Once you select your desired transition effect, drag and drop it in between the video clips. You can add multiple transition effects for different video clips.
 
@@ -246,6 +243,10 @@ If you want to make your video stand out by simply using video transition effect
 **Judicious** – There is a difference between transition effects and video effects. Transition effects should last only for a fraction of a second so that there is no aftereffect in mind. On the contrary, a video effect can last as long as required in the video. Therefore, do not stretch the duration of a transition effect and keep it as short as possible. Similarly, you should not use transition effects here and there unnecessarily. It should be used only when there is a proper scope such as scene cuts, mood changes, and subject changes.
 
 **Meaningful** – Even transition effect has a meaning behind it and you should understand it and use wherever appropriate. For example, fade out effect signifies the fading of a scene or changing of mood. Similarly, a dissolve effect is appropriate when the subject is dissolved in certain thoughts or a scene is getting dissolved. That way the effect will look natural and more meaningful as well as impactful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -328,13 +329,6 @@ Do you want to know **ho** **w to slow down a time-lapse on i** **Phone** **?** 
 
 ![manage speed slider](https://images.wondershare.com/filmora/article-images/2023/slowing-down-time-lapse-on-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. [Filmmaker Pro - Video Editor](https://apps.apple.com/us/app/filmmaker-pro-video-editor/id1082956994)
 
 If you want to **slow down the time-lapse i** **Phone** with additional editing options, use this tool. It is a professional-level content editor for iDevices and offers to slow down the speed. You can create or slow down timelapses. The editor will export your videos in 4K high resolution. Moreover, 120 royalty-free music tracks can be inserted into your slo-mo afterward.
@@ -346,13 +340,6 @@ If you want to **slow down the time-lapse i** **Phone** with additional editing 
 * Decorate your videos with stunning animations using keyframing and track motion.
 * You have over 46 transition options to complete trending TikTok and Instagram challenges.
 * Over 79 classic fonts, 92 beautiful fonts, 15 Hollywood, and 26 retro fonts options.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. [Video Up! Video Editor and Maker](https://apps.apple.com/us/app/video-up-video-editor-maker/id1585824635)
 
@@ -432,23 +419,9 @@ In the end, we suggest Wondershare Filmora as the best alternative to all these 
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How Does Slowing Down Videos Help Viewers and Creators?
 
 A time-lapse video certainly makes some scenes worthy of watching. However, a slow-motion video helps in better comprehension of the topic. In this section, we'll discuss how **slowing down time-lapse video** **s** is helpful. We'll shed light on their applications for viewers and content creators. Without further delay, let's dive in to solve this mystery:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### For Creators
 
@@ -521,19 +494,6 @@ If you want to **slow down the time-lapse i** **Phone** with additional editing 
 
 ![video up! video editor and maker](https://images.wondershare.com/filmora/article-images/2023/slowing-down-time-lapse-on-iphone-6.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Key Features
 
 * It provides 2 video export resolution options: Ultra – 4K and Full HD – 1080p.
@@ -561,6 +521,10 @@ You can also select the time period to apply the slow-motion effect via timeline
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guide to Slow Down a Time Lapse Video into Slow Motion in Filmora
 
@@ -654,6 +618,14 @@ If you are filming during the day and you point your camera toward the sun, you 
 
 ![choose light for slow motion video](https://images.wondershare.com/filmora/article-images/2022/11/choose-light-for-slow-motion-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Why use slow motion?
 
 When you first begin working with slow-motion video, you need to ask yourself, "What exactly is the purpose behind me choosing this effect?" Once you have an answer to that question, you may move on to the next step.
@@ -690,18 +662,17 @@ Subconscious slow-motion. Overusing or misusing a function ruins its appeal. Fil
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-proven-ways-to-archive-roblox-games-on-apple-devices/"><u>[New] 2024 Approved Proven Ways to Archive Roblox Games on Apple Devices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-yi-4k-action-camera-review/"><u>[New] YI 4K Action Camera Review</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-video-upgrade-pathway-sdr-to-hdri-transformation-techniques/"><u>[Updated] In 2024, The Ultimate Video Upgrade Pathway SDR to HDRI Transformation Techniques</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-guide-for-setting-tiktok-countdown-timer/"><u>2024 Approved Best Guide for Setting TikTok Countdown Timer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-disable-the-personalized-content-in-your-instagram-experience/"><u>How to Disable the Personalized Content in Your Instagram Experience</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/how-to-edit-blur-or-remove-photo-background-in-2024/"><u>How to Edit, Blur or Remove Photo Background, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora/"><u>How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-tecno-camon-20-premier-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Tecno Camon 20 Premier 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-create-the-night-to-day-effect-video/"><u>New 2024 Approved How to Create the Night-to-Day Effect Video</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ritocca-e-converte-caf-in-mp4-online-gratuito-con-movavi/"><u>Ritocca E Converte CAF in MP4 Online Gratuito Con Movavi</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-win11-flickering-distraction/"><u>Stop Win11 Flickering Distraction</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-tips-to-make-cinematic-color-grading/"><u>Updated In 2024, Tips to Make Cinematic Color Grading</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-leveraging-zoom-for-optimal-productivity-in-win11-environments-for-2024/"><u>[New] Leveraging Zoom for Optimal Productivity in Win11 Environments for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-extensive-appraisal-the-essence-of-hero4-black/"><u>[Updated] 2024 Approved Extensive Appraisal The Essence of Hero4 Black</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-turn-your-instagram-footage-backwards-easily-for-2024/"><u>[Updated] Turn Your Instagram Footage Backwards Easily for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-gripping-real-life-cases-in-our-selection-of-the-best-13-true-crime-podcasts/"><u>Explore Gripping Real-Life Cases in Our Selection of the Best 13 True Crime Podcasts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-romanian-with-local-expertise/"><u>Navigating Romanian with Local Expertise</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-to-videos-with-kapwing/"><u>New 2024 Approved How to Add Subtitles to Videos With Kapwing</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review-for-2024/"><u>New VSDC Free Video Editor Review for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-unidentified-usb-peripheral-error-and-port-reset-failure-on-windows-10/"><u>Resolving the Unidentified USB Peripheral Error and Port Reset Failure on Windows 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-free-image-editor-apps-for-2024/"><u>The Ultimate Guide to Free Image Editor Apps for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-for-2024/"><u>Updated for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-3-best-effects-to-appear-on-camera/"><u>Updated In 2024, 3 Best Effects to Appear on Camera</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/writing-engaging-youtube-scripts-with-chatgpt-help/"><u>Writing Engaging YouTube Scripts with ChatGPT Help</u></a></li>
 </ul></div>
 

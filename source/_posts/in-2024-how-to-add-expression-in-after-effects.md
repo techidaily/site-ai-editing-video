@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Add Expression in After Effects
-date: 2024-10-01T07:53:33.626Z
-updated: 2024-10-03T04:26:52.010Z
+date: 2024-12-08T21:06:56.416Z
+updated: 2024-12-12T08:15:01.202Z
 tags: 
   - ai
   - animation videos
@@ -35,6 +35,10 @@ You may begin forming connections between a property and other layers when you w
 ## Part 2\. Common Expressions in After Effects
 
 An expression is a brief piece of JavaScript code that can be plugged into animated properties in After Effects applications. Expressions evaluate to a single value for a single layer property at a particular instant in time. Below are a few popular expressions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. ‘thisComp’
 
@@ -188,13 +192,6 @@ Step1Select the property in the Timeline panel, then choose Animation > Add Expr
 
 ![select property from timeline ae](https://images.wondershare.com/filmora/article-images/2022/07/select-property-from-timeline-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2In the Timeline panel or the Effect Controls panel, click the stopwatch button next to the property name using the keyboard shortcut Alt + click for the Windows or Option + click for the MacOS. Four icons are shown under the property while the expression is active, and the value becomes red.
 
 ![select effects control ae](https://images.wondershare.com/filmora/article-images/2022/07/select-effects-control-ae.jpg)
@@ -204,15 +201,16 @@ Step3To open the Expression Editor, click within the text box on the Timeline pa
 ![open the expreesion editor](https://images.wondershare.com/filmora/article-images/2022/07/open-the-expreesion-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4Press Enter on the numeric keyboard to end text editing and start the expression.
 
 ![press enter start expression](https://images.wondershare.com/filmora/article-images/2022/07/press-enter-start-expression.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -302,6 +300,10 @@ In the modern digital era, Filmora will be the best video filter editor, thanks 
 
 Start by downloading and installing the Filmora software onto your desktop. This software provides a range of video editing tools, including video filters.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 2: Import your videos**
 
 Open Filmora and import the videos you want to apply filters to. You can do this by clicking the "Import" button and selecting the video files from your computer.
@@ -352,6 +354,10 @@ Your content's visual quality can be increased using different appealing effects
 
 If you want to express creativity in your content, using effects is a good option. This is because effects allow you to add uniqueness to your content. You can reflect your style and creativity with the help of these effects. Experimenting with different effects can help you to create unique content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Emotional Resonance
 
 With the help of different effects, you can grab the attention of your viewers. This way, you can easily convey your story or message to them effectively. Effects help you to create an atmosphere that helps to convey emotions beautifully.
@@ -364,6 +370,10 @@ Effects give your videos a very professional look that can engage your audience.
 
 Well-placed effects can help you keep your audience interested in your visual content. They can make your video look more enjoyable and maintain good engagement with your viewers. Eventually, this will also improve your audience retention.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Wondershare Filmora: An Epitome of Perfection in Video Editing
 
 Do you wish to make professional-level edits in videos and want to add the smoothest camera shake effects? Nothing to be worried about because you can accomplish this goal with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). This video editor helps you make captivating edits and reinforce executive effects.
@@ -373,13 +383,6 @@ Do you wish to make professional-level edits in videos and want to add the smoot
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Camera shake videos** are not easy to make, and you must invest maximum time and effort to finish the work. Yet, this can be easy if you intend to utilize the feature-rich tool named Wondershare Filmora. This video editor offers timeline-based editing along with a non-destructive procedure.
 
@@ -403,13 +406,6 @@ You can break the monotony and correct all the colors in the color-disruptive vi
 
 There are more than 70 [AI portraits](https://tools.techidaily.com/wondershare/filmora/download/) and sticker effects added in Filmora. By this, you can remove the background from videos without affecting humans in videos.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Create a Camera Shake Effect Using Premiere Pro
 
 Premiere Pro stands in the top video editing platform in today's digital market. The video editing intuition helps users develop professional videos that are of the highest quality. It integrates some of the finest functions, making it easy for users to create **camera shake effect** videos. To know how it is created through Premiere Pro, follow the **camera shake effect Premiere Pro** steps:
@@ -431,6 +427,10 @@ Continue to the effects settings that open on the top-left section of the Premie
 For adding motion blur in your **camera shake effect** video, uncheck the "Use Composition's Shutter Angle" and set it to "360" degrees. This completes the camera shake, which can be easily exported to the computer.
 
 ![set shutter angle](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: A Step-by-Step Understanding of How To Create a Camera Shake Effect with Filmora
 
@@ -454,32 +454,11 @@ To add a camera shake effect, go to the "Effects" tab and click "Search Bar." Ne
 
 ![add and adjust effect](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3Export Camera Shake Video
 
 Finally, go to "Export" and manage "Format," "Preset," "Frame Rate," and other parameters of the video. Next, hit the "Export" button to save the video on your computer.
 
 ![execute camera shake effect on video](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -535,13 +514,6 @@ For adding motion blur in your **camera shake effect** video, uncheck the "Use C
 
 ![set shutter angle](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: A Step-by-Step Understanding of How To Create a Camera Shake Effect with Filmora
 
 Now that you know the outclass capabilities of Filmora, you must be wondering about the procedure of [adding a camera shake effect in videos](https://youtu.be/jbALGR8ccb0). The instructions to make the camera shake video with Filmora are discussed here for you:
@@ -557,6 +529,10 @@ Now that you know the outclass capabilities of Filmora, you must be wondering ab
 To [make the camera shake video](https://www.youtube.com/watch?v=a1MdfXL2ulA) with Filmora, install and open Wondershare Filmora on your device and hit the “New Project” option. Next, tap the “Click here to import media” button and then locate the video in which you want to add the camera shake effect. After importing the video, drag it to the “Timeline” to enable editing.
 
 ![add video to filmora](https://images.wondershare.com/filmora/article-images/2023/using-camera-shake-in-creating-videos-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 2Add Camera Shake Effect
 
@@ -581,6 +557,10 @@ Moreover, Filmora can add exquisite level camera shake effects in videos, and yo
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Make Subtitle Videos
 
@@ -671,6 +651,10 @@ When creating subtitles, ensure they are automated so as not to make it difficul
 
 Use a user-friendly font style. Each font style is unique for each viewing and it speaks volumes of what the video has to say or the message it wants to pass. So, it is expedient to learn more about font style, font color, font size etc. for a better-subtitled video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Bottom Line
 
 Subtitled videos are more likely to be used than videos without subtitles. So as a content creator, entrepreneur or in any field where you work with videos, adding a subtitle to your videos could be the turning point even for your organization for a wider audience.
@@ -697,16 +681,22 @@ Subtitled videos are more likely to be used than videos without subtitles. So as
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ser-look-at-earnings-comparing-dailymotion-and-youtube-revenues-for-2024/"><u>A Closer Look at Earnings Comparing Dailymotion and YouTube Revenues for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-v29-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo V29 Pro Quickly | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-easily-access-and-view-heic-images-on-your-android-device/"><u>How to Easily Access and View HEIC Images on Your Android Device</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-audio-plug-ins-for-video-editors/"><u>In 2024, Best Audio Plug-Ins For Video Editors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-x100-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo X100 Pro Device</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oneplus-opens-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your OnePlus Opens Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/learn-how-to-use-3d-camera-tracking-in-adobe-after-effects-and-take-your-skills-to-the-next-level-for-2024/"><u>Learn How to Use 3D Camera Tracking in Adobe After Effects and Take Your Skills to the Next Level for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-motion-blur-in-davinci-resolve-in-2024/"><u>New How To Add Motion Blur In Davinci Resolve, In 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-countdown-video/"><u>New How to Make a Countdown Video</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-montage-makes-it-easy-to-create-and-share-videos-this-article-will-explain-what-it-can-do-and-show-you-examples-of-movies-that-use-montage/"><u>New Montage Makes It Easy to Create and Share Videos. This Article Will Explain What It Can Do and Show You Examples of Movies that Use Montage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-communication-skills-with-chatgpt/"><u>Transforming Communication Skills with ChatGPT</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-thumbnails-that-captivate-a-professionals-guide-to-visual-lures/"><u>[New] In 2024, Thumbnails That Captivate A Professional's Guide to Visual Lures</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-decoded-an-in-depth-look-at-video-hosting/"><u>[New] Vimeo Decoded An In-Depth Look at Video Hosting</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-reversal-blueprint-swiftly-backward-apple-vids-for-2024/"><u>[Updated] Reversal Blueprint Swiftly Backward Apple Vids for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extended-physical-action-survey/"><u>2024 Approved Extended Physical Action Survey</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-track-mattes-the-ultimate-guide-for-after-effects/"><u>2024 Approved Track Mattes The Ultimate Guide For After Effects</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-sony-xperia-5-v-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Sony Xperia 5 V Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ideal-app-title-ideas-for-the-p90x3-exercise-program-on-iphone-6/"><u>Ideal App Title Ideas for the P90X3 Exercise Program on iPhone 6</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/"><u>New 2024 Approved Creative Ways to Add Green Screen Effects In Photoshop</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-your-own-lol-montage-video-for-2024/"><u>New How to Create Your Own LOL Montage Video for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-loop-a-video-on-android/"><u>New In 2024, How to Loop a Video on Android</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-legend-intro-maker-create-intro-video-with-ease/"><u>New In 2024, Legend Intro Maker – Create Intro Video with Ease</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-make-a-countdown-video/"><u>New In 2024, Make A Countdown Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-content-creati/"><u>New Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/steps-to-fade-audio-in-premier-pro/"><u>Steps To Fade Audio In Premier Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-your-gaming-potential-a-comprehensive-review-of-the-asus-rog-rapture-gt-ax11000-wireless-router/"><u>Unleash Your Gaming Potential: A Comprehensive Review of the Asus ROG Rapture GT-AX11000 Wireless Router</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-top-10-animation-software-for-creating-stunning-animated-videos-for-2024/"><u>Updated Top 10 Animation Software for Creating Stunning Animated Videos for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/whats-hidden-steps-for-spotting-seagate-drive-on-win10/"><u>What's Hidden? Steps for Spotting Seagate Drive on Win10</u></a></li>
 </ul></div>
 

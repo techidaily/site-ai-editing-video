@@ -1,7 +1,7 @@
 ---
 title: Unlock More Fun on Your NES Classic with Essential Game Installation Techniques
-date: 2024-11-30T00:21:52.569Z
-updated: 2024-12-05T21:54:31.448Z
+date: 2024-12-10T20:40:11.584Z
+updated: 2024-12-12T00:05:53.585Z
 categories:
   - BestProducts
 description: This Article Describes Unlock More Fun on Your NES Classic with Essential Game Installation Techniques
@@ -10,10 +10,6 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
 ---
 
 ## Unlock New Gaming Adventures for Your NES Classic Console
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What to Know
 
@@ -36,7 +32,7 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
 3. Open**hakchi.exe** (the icon is an NES controller).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're prompted to download additional resources and[restart your device](https://www.lifewire.com/why-does-restarting-seem-to-fix-most-computer-problems-2624569) , go ahead and open hakchi.exe again after you restart.  
@@ -44,14 +40,22 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
 4. Select**NES (USA/Europe)** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Choose NES (USA/Europe)](https://www.lifewire.com/thmb/K0_MIzgjkgi5Do_SG9rO9OU-b-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-add-more-games-to-the-nes-classic-2077915796d24b319622974016b4c322.jpg)
 5. Select**Add more games** to upload the ROMs you want to add to your NES Classic. Only files with the extension .NES will work, although you can also upload ZIP folders containing them.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 !['Add more games' selection to upload ROMs to NES Classic](https://www.lifewire.com/thmb/7vHf5faB-1mVibSy9cF1KVJ8qfY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-add-more-games-to-the-nes-classic-089a7d2332bb4059b63d6de31fea424a.jpg)
 6. Under the Custom Games list, select the title you want to add cover art to. Select**Google** to retrieve images directly from Google.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Add cover art by clicking the titles under Custom Games](https://www.lifewire.com/thmb/neOlwOfUiIZx5S1tEn80GL82VMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-add-more-games-to-the-nes-classic-c2bdeef7eff64d139156d138e2c6e7a7.jpg)
 7. On the Hakchi2 toolbar, select**Kernel** \>**Install/Repair,** then select**Yes** when asked if you want to flash the custom kernel.  
@@ -59,12 +63,12 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
 ![Select Kernel > Install/Repair, then click Yes](https://www.lifewire.com/thmb/N_5Vp8fvKlu15K8g8IneRPpgamA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-add-more-games-to-the-nes-classic-cf58f3c816484e8e899c26bd4f7adf5e.jpg)
 8. Follow the instructions that appear. You might be required to install some drivers if they didn't automatically install when you connected the console.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Flash the custom kernel](https://www.lifewire.com/thmb/obxjQ5w6R-YGlPa1SqmQbuWoxcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot153-5c5a42ee46e0fb000152fca2.png)
 9. When the process is complete, select**Synchronize selected games with NES/SNES Mini** and confirm you flashed the custom kernel.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Select Synchronize selected games with NES/SNES Mini](https://www.lifewire.com/thmb/OQNrcOP_nKxq5Z51RZCf26tzUJ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-add-more-games-to-the-nes-classic-601953ec9f1947eca4af89041d99caba.jpg)
 10. After your ROMs finish uploading, turn off the console and disconnect it from your PC.
@@ -80,10 +84,6 @@ thumbnail: https://www.lifewire.com/thmb/qLpF5PK5EVCqFYnOik0Bu9tnwzw=/400x300/fi
  <https://commons.wikimedia.org/wiki/File:Nintendo-Entertainment-System-NES-Controller-FR.jpg>
 
  You can follow these same instructions to add games to an SNES Classic using the Hakchi2 software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Get ROMS for the NES Classic
 
@@ -122,16 +122,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-iphones-loop-functionality/"><u>[New] 2024 Approved Unlocking iPhone's Loop Functionality</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-no-hassle-no-money-10-official-passport-pictures-from-our-generator/"><u>[Updated] 2024 Approved No Hassle, No Money 10 Official Passport Pictures From Our Generator</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-best-eight-free-translation-tools-unveiled/"><u>[Updated] In 2024, The Best Eight Free Translation Tools Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-iphone-16-and-iphone-15-key-factors-for-choosing-apples-latest-entry-level-phone-techinsights/"><u>Comparing iPhone 16 and iPhone 15 - Key Factors for Choosing Apple’s Latest Entry-Level Phone | TechInsights</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-film-a-slow-motion-video/"><u>How To Film a Slow Motion Video</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-a2-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo A2 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-a-guide-to-create-your-own-lol-montage-video-for-2024/"><u>New A Guide to Create Your Own LOL Montage Video for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-on-using-filmora-green-screen/"><u>New In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/public-pressure-by-engaging-with-constituents-and-advocacy-groups-representatives-can-exert-public-pressure-on-senators-through-communication-campaigns-or-t14/"><u>Public Pressure - By Engaging with Constituents and Advocacy Groups, Representatives Can Exert Public Pressure on Senators Through Communication Campaigns or Town Halls.</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in-this-ar/"><u>Updated Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zdnet-unveils-the-most-adaptable-and-powerful-2-in-1-for-professionals-by-lenovo/"><u>ZDNet Unveils the Most Adaptable and Powerful 2-in-1 for Professionals by Lenovo</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-tomtom-bandits-new-era-in-action-capture/"><u>[New] TomTom Bandit's New Era in Action Capture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-amplify-earnings-monetize-youtube-on-the-go-with-effective-techniques/"><u>[Updated] In 2024, Amplify Earnings Monetize YouTube on the Go with Effective Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unbeatable-5-photo-backdrop-switchers-for-x8-series-for-2024/"><u>[Updated] Unbeatable 5 Photo Backdrop Switchers for X/8 Series for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-apply-the-newest-amd-radeon-hd-7870-drivers-for-optimal-performance-in-windows-11/"><u>Find and Apply the Newest AMD Radeon HD 7870 Drivers for Optimal Performance in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-lg-k51-beautiful-design-overshadowed-by-performance-issues/"><u>In-Depth Analysis of the LG K51: Beautiful Design Overshadowed by Performance Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-samsung-galaxy-m14-4g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Samsung Galaxy M14 4G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-create-a-kickass-cod-warzone-thumbnail-for-free/"><u>Updated 2024 Approved Create a Kickass COD Warzone Thumbnail for Free</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-adjustment-layer-clip-in-davinci-resolve-for-2024/"><u>Updated How to Add Adjustment Layer (Clip) in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-video-contents-that-convert-sales-for-2024/"><u>Updated How to Create Video Contents That Convert Sales for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora-in-2024/"><u>Updated How To Make a Video by Mouse in Filmora, In 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-play-a-video-on-loop-on-vimeo-so-that-it-plays-again-and-again-here-are-all-the-different-ways-to-loop-a-video-on-vimeo-in-simple-steps-for-2024/"><u>Want to Play a Video on Loop on Vimeo so that It Plays Again and Again? Here Are All the Different Ways to Loop a Video on Vimeo in Simple Steps for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New How to Create Motion Text Effects for Your Video?
-date: 2024-09-30T10:17:10.206Z
-updated: 2024-10-03T04:51:16.274Z
+date: 2024-12-08T04:26:16.735Z
+updated: 2024-12-12T02:27:00.513Z
 tags: 
   - ai
   - animation videos
@@ -71,19 +71,6 @@ Step1 From Tool panel, click on Type tool and click on Composition panel to type
 
 ![adjust text style after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-text-style-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Go to Effects and Presets panel, go through and search for the desired motion text effect preset. Drag and drop the selected preset on the text layer directly.
 
 ![drag preset text layer after effects](https://images.wondershare.com/filmora/article-images/2022/09/drag-preset-text-layer-after-effects.jpg)
@@ -91,6 +78,10 @@ Step2 Go to Effects and Presets panel, go through and search for the desired mot
 Step3 From Current Time Indicator, slide the keyframes to adjust the animation. Click on the text layer to expand it and adjust different parameters to get the desired text animation.
 
 ![adjust desired text animation after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-desired-text-animation-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. Best Motion Effects Ideas to Try
 
@@ -106,13 +97,6 @@ Comic and Life Effect – You get this motion effect on Filmora where the large 
 
 Corporate Title Effect – This comes as a pack on After Effects whereby you get amazing text motion effects that you mostly see in professional videos. Starting from oblique stripe and emerge effect to slide in and out with modern touches and objects, you get stunning text motion to enhance your video content.?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Bottom Line
 
 If there are texts and titles in your video, you have to use motion text effect to make your video content interesting. We have illustrated the simple steps to create and edit motion text effects. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as the best video editor for creating motion text effects as the user interface is intuitive and there are unlimited motion text effects to choose from.
@@ -122,6 +106,10 @@ If there are texts and titles in your video, you have to use motion text effect 
 Step1 Download and install Wondershare Filmora on your computer. Click on New Project on the welcome screen. You can drag and drop your video clip for the background on Project Media folder.
 
 ![download wondershare filmora](https://images.wondershare.com/filmora/guide/startup-window-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Drop the video clip onto timeline. If you do not have any background video, you can select background from Stock Media> pexels/Pixabay> Video and drop animated background onto the timeline.
 
@@ -134,6 +122,10 @@ Step3 Go to Titles and search for “animation” and you will get all the motio
 Step4 Double-click on the text layer to type in your desired text. Reposition the text layer on the timeline and on the video from Viewer.
 
 ![customize animation type text filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-animation-type-text-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Use Premiere Pro to Make Motion Text
 
@@ -170,10 +162,7 @@ Step3 From Current Time Indicator, slide the keyframes to adjust the animation. 
 ![adjust desired text animation after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-desired-text-animation-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4\. Best Motion Effects Ideas to Try
@@ -238,6 +227,10 @@ After importing your clip into the timeline, select it in the timeline panel. Na
 
 ![enable pen tool and create mask](https://images.wondershare.com/filmora/article-images/2023/mask-tracking-in-videos-with-filmora-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2
 
 You'll see a mask around the object, and the rest of the screen will disappear. Navigate to the timeline panel, expand the video track options, and select "Mask." Click the "Mask" navigation arrow and select "None."
@@ -249,6 +242,10 @@ You'll see a mask around the object, and the rest of the screen will disappear. 
 Click the "Mask" button and select the "Track Mask" option. A mask tracker window will appear on the right side; expand the "Method" option. Following that, select the type of masking you want, like "Position." Play the video from beginning to end for motion detection. Afterward, change the "Mask" mode to "Add" to apply masking.
 
 ![change the mask method](https://images.wondershare.com/filmora/article-images/2023/mask-tracking-in-videos-with-filmora-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 4
 
@@ -293,13 +290,6 @@ Then, apply the color correction options on the masked areas.
 Select "Mask Path" under the Mask section and play it upon color correcting. This will start the **mask tracking** throughout the clip. The color corrections will be applied to the masked area throughout the video.
 
 ![enable mask tracking for video](https://images.wondershare.com/filmora/article-images/2023/mask-tracking-in-videos-with-filmora-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Make Mask Tracking Easy with Wondershare Filmora: Working Out the Details
 
@@ -375,6 +365,14 @@ In this article, users have gained insights into [top **mask tracking** software
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Working Out the Comprehensive Methods to Perform Mask Tracking on Adobe After Effects
 
 Adobe After Effects is a powerful tool for **mask tracking** and other functions. The interface of this tool tailors your content to your needs with precision. The [process of masking](https://tools.techidaily.com/wondershare/filmora/download/) is convenient and accessible and provides accurate results. Its advanced masking options, like filling up the mask, add a realistic touch. Before learning about masking in After Effects, let's discuss some of its features:
@@ -402,16 +400,7 @@ You'll see a mask around the object, and the rest of the screen will disappear. 
 ![change the mask mode](https://images.wondershare.com/filmora/article-images/2023/mask-tracking-in-videos-with-filmora-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 3
@@ -457,13 +446,6 @@ After importing your video in the timeline, select it and navigate towards the t
 Then, apply the color correction options on the masked areas.
 
 ![apply basic color corrections](https://images.wondershare.com/filmora/article-images/2023/mask-tracking-in-videos-with-filmora-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3
 
@@ -547,13 +529,6 @@ In this article, users have gained insights into [top **mask tracking** software
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## As an Online Marketer, It Is Important to Know the Algorithm of YouTube Platform. I’ll Share You the History of Algorithm of YouTube and the New Changes in This Year
 
 Every day, more than 1 billion hours of YouTube videos are seen by users worldwide, including cat videos and videos for cats. The YouTube algorithm determines the videos YouTube recommends to its more than 2 billion human users (and untold numbers of feline users).
@@ -567,6 +542,10 @@ We'll discuss what the algorithm is (and isn't), the most recent updates for 202
 YouTube's search and discovery tools to push their videos in front of viewers in this blog post.
 
 Let’s start!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. YouTube’s algorithm’s history
 
@@ -668,13 +647,6 @@ The 24/30 fps editing timelines are pre-set. The majority of the video you captu
 
 ![post processing filmora](https://images.wondershare.com/filmora/article-images/2022/11/post-processing-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Lighting
 
 While watching TV or movies, you might have observed anything. The majority of the extremely slow photos happen in broad daylight. Not after dark or in dimly lit areas. The reason for this is that sufficient lighting is required in order to capture motion. Lighting becomes crucial as your frame rate exceeds 300 frames per second. Therefore, if you must take these pictures, you must do so in a studio environment with lots of artificial lighting.
@@ -721,17 +693,22 @@ Subconscious slow-motion. Overusing or misusing a function ruins its appeal. Fil
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-exclusive-online-cam-dance-duels-for-2024/"><u>[New] Exclusive Online Cam Dance Duels for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-infinix-note-30-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Infinix Note 30 FRP Bypass Instantly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-civi-3-disney-100th-anniversary-edition-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Civi 3 Disney 100th Anniversary Edition Phone without Google Account?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-motion-tracking-in-video-editing/"><u>In 2024, How to Use Motion Tracking in Video Editing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-find-x6-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo Find X6? Fixed | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-avs-video-editor-review-update-whats-new/"><u>New 2024 Approved AVS Video Editor Review Update Whats New ?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-elevate-your-designs-with-feather-shapes-in-after-effects/"><u>New 2024 Approved Elevate Your Designs with Feather Shapes in After Effects</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-no-sound-troubles-from-connected-speakers-on-windows-pcs/"><u>Overcoming No Sound Troubles From Connected Speakers on Windows PCs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unified-audio-powerhouse-tips-for-linking-up-your-bluetooth-speakers-easily/"><u>Unified Audio Powerhouse: Tips for Linking Up Your Bluetooth Speakers Easily</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-achieve-gopro-slow-motion-with-quality/"><u>Updated 2024 Approved How to Achieve GoPro Slow Motion With Quality</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-vintage-film-effect-1950s/"><u>Updated 2024 Approved How to Create Vintage Film Effect 1950S</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-learn-to-stream-lol-with-these-simple-steps-3-ways/"><u>[Updated] Learn to Stream LOL with These Simple Steps (3 Ways)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-peeking-beyond-one-camera-limitations-for-2024/"><u>[Updated] Peeking Beyond One-Camera Limitations for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-review-comprehensive-look-at-videoshow-in-24/"><u>2024 Approved Full Review - Comprehensive Look at VideoShow in '24</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/3-ways-to-stream-and-record-at-the-same-time/"><u>3 Ways To Stream And Record At The Same Time</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/benefits-of-live-streaming-on-youtube-for-2024/"><u>Benefits of Live Streaming on YouTube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-fixes-for-dysfunctional-windows-registry-items/"><u>Decoding the Fixes for Dysfunctional Windows Registry Items</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-create-a-zoom-motion-blur-effect-using-photoshop-if-you-are-unaware-of-how-to-do-this-read-this-article-to-learn-simple-yet-authentic-instruc/"><u>Do You Want to Create a Zoom Motion Blur Effect Using Photoshop? If You Are Unaware of How to Do This, Read This Article to Learn Simple yet Authentic Instructions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/earnings-exploration-how-youtube-turns-viewers-into-cash-for-2024/"><u>Earnings Exploration How YouTube Turns Viewers Into Cash for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-3-ways-to-stream-and-record-at-the-same-time/"><u>In 2024, 3 Ways To Stream And Record At The Same Time</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-ninja-jump-effect-with-filmora/"><u>In 2024, How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-best-luts-for-vlog/"><u>In 2024, Overview of Best LUTs for Vlog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-components-through-toms-hardware/"><u>Navigating Computer Components Through Tom's Hardware</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimal-quick-glance-windows-photo-app/"><u>Optimal Quick Glance Window's Photo App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reducing-background-melodies-windowsmac-guide-for-2024/"><u>Reducing Background Melodies Windows/Mac Guide for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/steady-shots-the-best-free-online-video-stabilizers-reviewed/"><u>Steady Shots The Best Free Online Video Stabilizers Reviewed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-apply-gaussian-blur-effect-to-videos-in-premiere-pro/"><u>Updated In 2024, How to Apply Gaussian Blur Effect to Videos In Premiere Pro?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954220029-updated-in-2024-what-you-should-know-about-speech-to-text-technology/"><u>Updated In 2024, What You Should Know About Speech-to-Text Technology</u></a></li>
 </ul></div>
 

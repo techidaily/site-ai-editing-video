@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How To Blur Background in Adobe Premiere Pro Detailed Guide
-date: 2024-12-03T10:50:27.633Z
-updated: 2024-12-06T03:46:56.303Z
+date: 2024-12-06T05:26:13.889Z
+updated: 2024-12-12T09:48:27.670Z
 tags: 
   - ai
   - animation videos
@@ -67,10 +67,6 @@ Step6 If your subject moves around in some parts, click the toggle next to **“
 
 ![adding keyframes to adjust the mask on the subject in premiere pro](https://images.wondershare.com/filmora/article-images/2023/02/adding-keyframes-to-adjust-the-mask-on-the-subject-in-premiere-pro.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Finally, navigate to **“File” > “Export”** from the top toolbar, type your file name, specify a location and click **“Export”** to save your file on your PC.
 
 Bonus Tips – The Alternative To Premiere Pro To Blur The Video Background
@@ -97,10 +93,6 @@ Next, you'll need to add a Blur Effect to the clip. To do this, click the **"Eff
 
 ![adding background blur effect to video in filmora](https://images.wondershare.com/filmora/article-images/2023/02/adding-background-blur-effect-to-video-in-filmora.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Once the effect is downloaded, drag and drop it onto the video clip in the timeline and double, click it to open the **Effect** panel. Here, you can configure the background color, source width, luminance, scale level, background feather, and Alpha blurry settings.
 
 ![adjusting background blur parameters](https://images.wondershare.com/filmora/article-images/2023/02/adjusting-background-blur-parameters.png)
@@ -108,6 +100,10 @@ Step3 Once the effect is downloaded, drag and drop it onto the video clip in the
 Step4 In the final step, click the **"Export"** button, go to the **"Local"** tab, choose a file format and click **"Export"** again to save your final video clip on your PC.
 
 You can also export your video to your device, YouTube, Vimeo, or DVD.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -163,6 +159,10 @@ Hopefully, you've found this article helpful and can now make engaging videos wi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Looking Into How Slow Mo Guys Have Changed the Dynamics of Slow-Motion
 
@@ -232,15 +232,15 @@ After downloading Filmora on your device, click the "New Project" button to star
 
 ![drag the slider to adjust speed](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2Start AI Frame Interpolation Settings
 
 This is the AI feature that increases the video frame rate for a smooth, slow-motion effect. You can access this option at the bottom of Uniform Speed settings. Expand it and select the “Optical Flow” option for your purpose.
 
 ![enable the optical flow option](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3Enable Render Preview to See Results
 
@@ -270,10 +270,6 @@ After configuring your settings, return to the timeline panel and reselect the v
 
 ![start render preview](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article introduced readers to The **Slow Mo Guys** and their work. If you haven’t heard about them before, you are now familiar with them. You can head over to YouTube to find their channel and see their work. After guiding users on creating slo-mos on Android and iPhone, we introduced Filmora.
@@ -295,6 +291,10 @@ In this era, if you are looking for a start to create slomos, **Slow Motion Guys
 ## Part 2: Want to Make Such Slow-Motion Videos on Your Smartphone? Learn How
 
 The most used and dear gadget to all of us in this era is our smartphones. It has also become a requirement to stay connected, and so we often shoot on them. To retain the video quality, we try to edit it through built-in features. This section highlights creating slow-motion videos using iPhone or Android. Learn to create professional slo-mos like **Gave Slow Mo Guys** here:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guide to Create a Slow Motion in iPhone
 
@@ -444,21 +444,9 @@ Step5 Go to the Text option at the bottom and edit the texts and titles. You can
 
 ![change text font legend intro](https://images.wondershare.com/filmora/article-images/2022/11/change-text-font-legend-intro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 Finally, check the preview and tap on the Export button. Select the video resolution as per your preference. The intro video will get saved in the Phone gallery.
 
 ![select video resolution legend intro](https://images.wondershare.com/filmora/article-images/2022/11/select-video-resolution-legend-intro.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. Legend Intro Maker PC Alternative
 
@@ -499,7 +487,7 @@ Step2 Click on the Titles option from the top bar. Go to the Openers option from
 ![click on the titles option](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Double-click on the intro video layer. Edit the default text and type in your titles. From the left panel, select any text style as per your preference.
@@ -572,6 +560,10 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![adding warzone image to the timeline](https://images.wondershare.com/filmora/article-images/drag-media-to-timeline-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click "Effects." Select an effect to use and drag it into the timeline.
 1. Click "Stickers." Select stickers to use and drag them into the timeline.
 
@@ -689,6 +681,10 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![creating new project on wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click "File" button. In the drop-down menu, select "Project Settings."
 
 ![select project settings](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
@@ -719,13 +715,13 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 
 ![taking a snapshot on wondershare filmora](https://images.wondershare.com/filmora/article-images/take-snapshot-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Select a file format and a target destination folder for the image.
 
 ![saving the warzone thumbnail snapshot](https://images.wondershare.com/filmora/article-images/snapshot-window-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Click "Ok."
 
@@ -735,6 +731,10 @@ Using in-game screenshots is recommended. That way, the image is personalized an
 2. Click "Reveal in Explorer." It will open the folder where the screenshot is saved.
 
 ![opening the folder containing the snapshot](https://images.wondershare.com/filmora/article-images/reveal-in-explorer-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Use the screenshot as your video thumbnail.
 
@@ -768,10 +768,6 @@ Let us help you with that. Here are 5 Call of Duty: Warzone thumbnails you shoul
 
 ![warzone thumbnail by noannoyingcommentary](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-1.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This video from the channel [NoAnnoyingCommentary](https://www.youtube.com/watch?v=k3pBdi2Cf9Y) has 3.3 million views. It shows the player pointing their gun upwards. Flying in the sky are many fighter planes (obviously edited.) Then, a sepia filter is applied to make it look like a shot from past real-world wars. It is cool and sure to attract the attention of the COD: Warzone demographics.
 
 ### 2\. TOP 300 FUNNIEST FAILS IN WARZONE
@@ -785,6 +781,10 @@ The thumbnail shows a screenshot from Warzone. A player's character is in the mi
 ### 3\. Clean House \[PS5 UHD 4K\] Next-Gen Ultra Realistic Graphics PlayStation 5 Call of Duty Gameplay
 
 ![warzone thumbnail by hedgehog](https://images.wondershare.com/filmora/article-images/warzone-thumbnail-3.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This video from [HEDGEHOG ヅ](https://www.youtube.com/watch?v=wQlxN49jn6Y) has a whopping 12 million views. Again, the title likely is the main reason why it got that many views. But for sure, people did not read that long title at first. They were drawn to it by the thumbnail.
 
@@ -828,18 +828,21 @@ Your best option is Wondershare Filmora. Why? Because it is a thumbnail maker an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-11-best-streaming-audio-recorders/"><u>[Updated] In 2024, 11 Best Streaming Audio Recorders</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-free-srt-conversion-uncover-top-8-online-options/"><u>2024 Approved Free SRT Conversion Uncover Top 8 Online Options</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-article-talks-in-detail-about-how-to-export-imovie-video-from-iphone-mac-etc-it-also-covers-the-process-of-using-imovie-alternative-to-ed/"><u>2024 Approved This Article Talks in Detail About How to Export iMovie Video From iPhone, Mac, Etc. It Also Covers the Process of Using iMovie Alternative to Edit Videos on Mac. Check Out Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-swift-edge-unveiled-exploring-the-worlds-lightest-4k-oled-notebook-zdnet-insights/"><u>Acer Swift Edge Unveiled: Exploring the World’s Lightest 4K OLED Notebook | ZDNet Insights</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-know-there-are-websites-to-download-free-glitch-transition-effects-for-premiere-pro-you-can-easily-download-them-and-make-awesome-videos-for-2024/"><u>Do You Know There Are Websites to Download Free Glitch Transition Effects for Premiere Pro? You Can Easily Download Them and Make Awesome Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-guide-for-2024/"><u>How To Quickly Create A Screen Print Effect In Photoshop Detailed Guide for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nokia-150-2023-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nokia 150 (2023) Activity | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-iphone-11-pro-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your iPhone 11 Pro Is Unlocked</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-vintage-film-effect-1980s-how-to-create/"><u>In 2024, Vintage Film Effect 1980S - How to Create</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-gadget-galaxy-with-toms-hardware-reviews/"><u>Navigating the Gadget Galaxy with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-way-to-add-transitions-to-videos-for-2024/"><u>New Easy Way to Add Transitions to Videos for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>New In 2024, HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
-<li><a href="https://win-community.techidaily.com/wie-man-daten-effizient-von-einer-zu-einer-anderen-kopiert-mit-sql-server/"><u>Wie Man Daten Effizient Von Einer Zu Einer Anderen Kopiert, Mit SQL Server</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-showcasing-your-voice-podcast-features-on-insta/"><u>[Updated] 2024 Approved Showcasing Your Voice Podcast Features on Insta</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-perfect-the-art-of-posting-on-snapchat-15-tips/"><u>[Updated] In 2024, Perfect the Art of Posting on Snapchat (15 Tips)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-easy-steps-to-create-intro-video-with-after-effects/"><u>2024 Approved Easy Steps to Create Intro Video with After Effects</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-zte-nubia-flip-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/get-every-moment-of-fb-lives-top-5-video-capture-apps/"><u>Get Every Moment of Fb Lives Top 5 Video Capture Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-play-8t-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor Play 8T 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-preserve-and-access-your-favorite-discord-livestreams-easily/"><u>How to Preserve and Access Your Favorite Discord Livestreams Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-spark-20-proplus-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Spark 20 Pro+ Phone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-ideas-for-time-lapse-video/"><u>New 2024 Approved Ideas for Time-Lapse Video</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-add-transition-effects-in-premiere-pro/"><u>New Guide to Add Transition Effects in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-youtube-intro-for-2024/"><u>New How To Create A YouTube Intro for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-save-as-mp4-file-on-windows-movie-maker/"><u>New How to Save As MP4 File on Windows Movie Maker?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-4k-video-editing-software-for-2024/"><u>Top 4K Video Editing Software for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-mirror-a-video-clip-in-premiere-pro/"><u>Updated 2024 Approved How To Mirror a Video Clip in Premiere Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-zoom-video-in-vlc-media-player/"><u>Updated 2024 Approved How to Zoom Video in VLC Media Player</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-great-dvr-debate-tivo-vs-comcasts-features-and-pricing/"><u>Updated In 2024, The Great DVR Debate TiVo vs Comcasts Features and Pricing</u></a></li>
 </ul></div>
 
